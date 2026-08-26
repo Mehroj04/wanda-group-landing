@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Termékek",
+    "specs": "Műszaki adatok",
+    "applications": "Alkalmazások",
+    "about": "Körülbelül",
+    "gallery": "Galéria",
+    "quality": "Minőség",
+    "faq": "GYIK",
+    "contact": "Érintkezés",
+    "getQuote": "Kérjen árajánlatot",
+    "inquire": "Érdeklődni →",
+    "services": "Szolgáltatások",
+    "pricing": "Árképzés",
+    "accessories": "Kiegészítők",
+    "home": "Otthon",
+    "factory": "Gyár"
+  },
+  "hero": {
+    "badge": "Gázpalack gyártó",
+    "title": "Megbízható gázpalackok iparhoz és hegesztéshez",
+    "subtitle": "A Wanda Group az acetilén-, propán-palackok és tartozékok megbízható gyártója és szállítója. Megoldások gázellátáshoz, hegesztéshez, vágáshoz és tároláshoz világszerte.",
+    "cta": "Kérjen árajánlatot",
+    "ctaSecondary": "Termékeink",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Több éves tapasztalat"
+      },
+      {
+        "value": "500K+",
+        "label": "Gyártási kapacitás / év"
+      },
+      {
+        "value": "50+",
+        "label": "Exportpiacok"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Minőség és tanúsítás"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Megbízható gázpalack-tartozékok",
+    "text": "Mérők, szelepek, tömlők, égők és biztonsági szerelvények – hengerekkel együtt vagy külön megrendelésre szállítjuk.",
+    "cta": "Tartozékok megtekintése"
+  },
+  "products": {
+    "title": "Termékeink",
+    "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+    "items": [
+      {
+        "title": "Acetilén henger",
+        "desc": "Oldott acetilén palackok hegesztéshez, vágáshoz és ipari gázokhoz. Különféle méretek és szelep opciók.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetilén generátor",
+        "desc": "Berendezések stabil gáztermeléshez, könnyű kezelhetőséghez és ipari alkalmazásokhoz.",
+        "icon": "⚙️",
+        "spec": "Ipari termelési rendszerek"
+      },
+      {
+        "title": "Propán henger",
+        "desc": "Tartós palackok propánhoz és PB-gázhoz – tároláshoz, fűtéshez, vágáshoz és ipari használatra.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Henger tartozékok",
+        "desc": "Tömlők, mérők, vágópisztolyok, hegesztőégők, biztonsági szelepek és egyebek.",
+        "icon": "🔧",
+        "spec": "Szelepek · szabályozók · tömlők · pisztolyok"
+      }
+    ],
+    "viewDetails": "Részletek megtekintése"
+  },
+  "specs": {
+    "title": "Műszaki előírások",
+    "subtitle": "Fedezze fel a henger opciókat, a testreszabási lehetőségeket és a szállítási részleteket, mielőtt elküldené érdeklődését.",
+    "items": [
+      {
+        "title": "Hengerűrtartalom",
+        "desc": "Különféle kapacitás és mennyiség opciók az alkalmazástól és a piaci követelményektől függően."
+      },
+      {
+        "title": "Szelepek és kupakok",
+        "desc": "Szelepek, kupakok és szerelvények az ügyfél és a projekt igényei szerint szállítva."
+      },
+      {
+        "title": "Oldószer opciók",
+        "desc": "Porózus töltőrendszer és oldószerek a stabil acetilén tároláshoz."
+      },
+      {
+        "title": "Csomagolás és Szállítás",
+        "desc": "Exportcsomagolási és szállítási támogatás a forgalmazók és a projekt ügyfelek számára."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Hengeres alkalmazások",
+    "subtitle": "Általános ipari gázfeladatokra és tengerentúli vásárlói igényekre tervezett termékek.",
+    "items": [
+      "Hegesztés és keményforrasztás",
+      "Fémvágás",
+      "Ipari gázellátás",
+      "Építés",
+      "Fém gyártás",
+      "Gáztárolás és -elosztás"
+    ]
+  },
+  "whyUs": {
+    "title": "Miért a Wanda Group?",
+    "subtitle": "Közvetlen gyártás, testreszabás és teljes exporttámogatás – minden az Ön vállalkozása számára.",
+    "items": [
+      {
+        "title": "Kiváló minőség",
+        "desc": "Ipari hegesztéshez és gázellátáshoz épített acélpalackok."
+      },
+      {
+        "title": "Szigorú minőség-ellenőrzés",
+        "desc": "Ellenőrzés a beérkező anyagoktól a végső csomagolásig."
+      },
+      {
+        "title": "Fejlett gyártás",
+        "desc": "Alakítás, hegesztés, tesztelés és kikészítés egy üzemben."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Szín, szelep, jelölés, kupak és csomagolás rendelésre."
+      },
+      {
+        "title": "Nemzetközi export",
+        "desc": "Okmányok és csomagolás tengerentúli ipari vásárlók számára."
+      },
+      {
+        "title": "Megbízható Szállítás",
+        "desc": "Tipikus átfutási idő a megrendelés visszaigazolásától számított 15-25 nap."
+      }
+    ]
+  },
+  "about": {
+    "title": "Professzionális gázpalack-gyártó",
+    "text": "A Wanda Group gázpalackgyártó ipari gázpalackok és kapcsolódó tartozékok gyártására és szállítására specializálódott. Termékeinket széles körben használják hegesztésben, vágásban, gázelosztásban, ipari tárolásban és egyéb gázellátási területeken.",
+    "text2": "Támogatjuk a tengerentúli vásárlókat a termékválasztásban, a testreszabásban, a minőségellenőrzésben, a csomagolásban és a szállítás koordinálásában.",
+    "facts": [
+      {
+        "title": "Tapasztalat",
+        "desc": "15+ éve szállít ipari gázpalackokat."
+      },
+      {
+        "title": "Termelés",
+        "desc": "Házon belüli alakítás, hegesztés, tesztelés és kikészítés."
+      },
+      {
+        "title": "Minőség",
+        "desc": "ISO 9809, DOT és TPED opciók piac szerint."
+      },
+      {
+        "title": "Export",
+        "desc": "50+ célpiacra koordinált szállítmányok."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gyárunk belsejében",
+    "subtitle": "Hengerek gyártása, hegesztése, tesztelése, festése és kész hengerek - hogyan készítjük el az exportrendeléseket.",
+    "items": [
+      {
+        "title": "Kész hengerkészlet",
+        "desc": "Kész készlet üzemünkben – mennyiségi kapacitás nagykereskedelmi és exportmegrendelésekhez."
+      },
+      {
+        "title": "Gyártási hegesztés",
+        "desc": "Fémgyártás gyári szinten ipari gázellátással."
+      },
+      {
+        "title": "Export csomagolás",
+        "desc": "Védőháló és raklapcsomagolás nemzetközi szállítás előtt."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Tömeges hengeres szállítás",
+        "desc": "Rögzítse a ketreces rakományokat közúti szállításhoz a forgalmazókhoz és az üzemekhez."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Henger mérettartomány",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Minőségellenőrzés",
+    "subtitle": "Minden tétel ugyanazt az utat követi: gyártás, tesztelés, ellenőrzés és végső minőségellenőrzés.",
+    "steps": [
+      {
+        "title": "Termelés",
+        "desc": "Alakítás, hegesztés és összeszerelés üzemi folyamatirányítás mellett."
+      },
+      {
+        "title": "Tesztelés",
+        "desc": "Nyomás- és szivárgástesztek, mielőtt a hengerek elhagyják a vezetéket."
+      },
+      {
+        "title": "Ellenőrzés",
+        "desc": "Megrendelés szerinti szemrevételezés, jelölés és méretellenőrzés."
+      },
+      {
+        "title": "Végső minőségellenőrzés",
+        "desc": "Csomagolás ellenőrzése az exportszállítás előtt."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Gyakran Ismételt Kérdések",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Nem találta meg a kérdést? Küldje el a terméket, méretet, mennyiséget és célországot – részletes ajánlattal válaszolunk.",
+    "ctaBtn": "Kérjen árajánlatot",
+    "groups": [
+      {
+        "title": "Vállalat",
+        "items": [
+          {
+            "q": "Ön gázpalack-gyártó?",
+            "a": "Igen. A Wanda Group gázpalackok és kapcsolódó ipari gázellátási megoldások gyártására specializálódott tengerentúli ipari vásárlók számára."
+          },
+          {
+            "q": "Milyen termékeket szállít elsősorban?",
+            "a": "Acetilénpalackokat, propánpalackokat, acetiléngenerátorokat és gázpalack-tartozékokat, például szelepeket, szabályozókat, tömlőket, nyomásmérőket és égőket szállítunk."
+          },
+          {
+            "q": "Támogathatja az OEM testreszabását?",
+            "a": "Igen. A henger színe, jelölése, szelepe, kupakja és csomagolási lehetőségei a megrendelésnek és a célpiacnak megfelelően megbeszélhetők."
+          },
+          {
+            "q": "Támogatod a külföldi vásárlókat?",
+            "a": "Igen. Támogatjuk az exportot, a termékválasztást, a csomagolási követelményeket, a dokumentációt és a szállítási koordinációt."
+          },
+          {
+            "q": "Hogyan kérhetek árajánlatot?",
+            "a": "Kérjük, adja meg a termék típusát, a hengerméretet, a mennyiséget, a célországot és a testreszabási követelményeket a kérdőíven vagy e-mailben. Csapatunk válaszol a termék részleteivel és árajánlattal."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Megnézhetek gyári videókat rendelés előtt?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Biztosítasz termékvideókat, különösen az acetilénpalackokról?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Tudsz videókat mutatni a gyártásról és a minőségellenőrzésről?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Kérhetek termékvideót egy konkrét megrendeléshez?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Megoldások",
+        "items": [
+          {
+            "q": "Milyen gázpalackos megoldásokat kínál?",
+            "a": "Megoldásokat kínálunk hegesztéshez és vágáshoz, gázelosztáshoz, ipari tároláshoz, acetilén előállításához, OEM szállításhoz és export beszerzéshez."
+          },
+          {
+            "q": "Tudnátok ajánlani termékeket az alkalmazásomhoz?",
+            "a": "Igen. Küldje el jelentkezését, a hengerméretet, a mennyiséget, a célországot és a szükséges tartozékokat – mi ajánljuk a megfelelő termékeket."
+          },
+          {
+            "q": "Tartozékokat szállít hengerekkel együtt?",
+            "a": "Igen. Nyomásszabályozókat, tömlőket, mérőket, vágópisztolyokat, hegesztőpisztolyokat, szelepeket és szerelvényeket tudunk szállítani a hengerekkel együtt."
+          },
+          {
+            "q": "Tud szállítani gázpalackokat az OEM vásárlóknak?",
+            "a": "Igen. A henger színe, jelölése, szelepe, kupakja, logója és csomagolása a megrendelés szerint megbeszélhető."
+          }
+        ]
+      },
+      {
+        "title": "Termékek",
+        "items": [
+          {
+            "q": "Mire használható az oldott acetilén henger?",
+            "a": "Az oldott acetilén palackokat széles körben használják hegesztésre, vágásra, keményforrasztásra, fémgyártásra és ipari gázellátásra."
+          },
+          {
+            "q": "Milyen hengerméreteket tud szállítani?",
+            "a": "Különféle mennyiségek és kapacitások beszélhetők meg a célpiactól, az alkalmazástól és a rendelési mennyiségtől függően. A megerősítéshez adja meg a kívánt méretet vagy helyi szabványt."
+          },
+          {
+            "q": "Megváltoztatható a henger színe, a szelep és a jelölés?",
+            "a": "Igen. Henger színe, szelep, kupak, jelölés, címke és export csomagolás rendelésre készíthető."
+          }
+        ]
+      },
+      {
+        "title": "Kiegészítők",
+        "items": [
+          {
+            "q": "Milyen kiegészítőket szállítasz?",
+            "a": "Visszacsapó levezetőket, nyomásmérőket, biztonsági szelepeket, oxigéntömlőket, tömlőbilincseket, vágópisztolyokat, hegesztőpisztolyokat, szűrőket, adaptereket és egyéb gázpalack-tartozékokat szállítunk."
+          },
+          {
+            "q": "Testreszabhatók a gázpalack tartozékok?",
+            "a": "Igen. Testreszabhatjuk a logót, a csomagolást, a csatlakozási méretet, a menettípust, a nyomástartományt és a műszaki specifikációkat."
+          },
+          {
+            "q": "Gázpalackokkal együtt rendelhetők tartozékok?",
+            "a": "Igen. A tartozékok acetilén palackokkal, propán palackokkal és acetilén generátorokkal együtt szállíthatók."
+          },
+          {
+            "q": "Támogatja az OEM csomagolást?",
+            "a": "Igen. Nagykereskedelmi megrendelésekhez OEM jelölést, kartonokat, zacskókat és termékcímkéket tudunk biztosítani."
+          },
+          {
+            "q": "Tudsz adni termékfotókat és specifikációkat?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Hogyan kérhetek árajánlatot kiegészítőkre?",
+            "a": "Kérjük, adja meg a termék nevét, mennyiségét, csatlakozási méretét, üzemi nyomását, csomagolási követelményeit és célországát vagy kikötőjét."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Legújabb cikkek",
+    "subtitle": "Szakértői tartalom hegesztési és gázellátási szakemberek számára.",
+    "readMore": "Bővebben →",
+    "close": "Közeli",
+    "items": [
+      {
+        "tag": "Kézművesek",
+        "title": "Teljes propánpalack-ellátó megoldás",
+        "desc": "A berendezés stabilitása közvetlenül befolyásolja a hegesztési és vágási munka hatékonyságát.",
+        "body": [
+          "Azon mesteremberek számára, akik minden nap fémet hegesztenek, javítanak és készítenek, a stabil gázberendezés közvetlenül befolyásolja a munka minőségét és sebességét.",
+          "A Wanda Group propánpalackjai 3 és 50 liter között kaphatók POL, CGA 510 vagy GOST szelepekkel az Ön piacától függően – egy szállító a hegesztéshez, vágáshoz és fűtéshez.",
+          "Javasoljuk, hogy a hengereket szabályozókkal, tömlőkkel és pisztolyokkal együtt rendelje meg. A csomagban történő ellátás csökkenti a logisztikai költségeket és biztosítja a tartozékok kompatibilitását.",
+          "Rendeléskor adja meg a célpiacot, a mennyiséget, a szelep típusát és színét – az Ön márkája alatt elkészítjük az OEM jelölést és az exportcsomagolást."
+        ]
+      },
+      {
+        "tag": "Tárolás",
+        "title": "Hosszú távú acetilén palack tárolási tippek",
+        "desc": "Tárolási feltételek, elhelyezési módok és a nem használt palackok rendszeres ellenőrzése.",
+        "body": [
+          "Sok vállalat acetilén- és propánpalackokat tárol a gyártási szünetekben vagy készletként. A nem használt hengerek továbbra is megfelelő kezelést igényelnek.",
+          "A palackokat függőlegesen, jól szellőző helyen tárolja, hőforrásoktól és közvetlen napfénytől távol. A tárolási hőmérséklet általában nem haladhatja meg a 40-50 °C-ot.",
+          "Legalább negyedévente ellenőrizze a szelepeket, sapkákat és jelöléseket. Az acetilén hosszú távú tárolásához tartsa a hengereket függőlegesen, és soha ne engedje megbillenteni.",
+          "A Wanda Group védőkupakokkal és exportcsomagolásokkal ellátott palackokat szállít a biztonságos szállításhoz és raktározáshoz. A tárolási útmutatók kérésre elérhetők az Ön nyelvén."
+        ]
+      },
+      {
+        "tag": "Árképzés",
+        "title": "Költségvetési útmutató az acetilénpalack vásárlásához",
+        "desc": "A költségeket befolyásoló tényezők és az optimális ajánlat kiválasztásának módja.",
+        "body": [
+          "Az acetilén palack ára a térfogattól (2L-40L), a szelep típusától, a tanúsítványtól (ISO, DOT, TPED) és a rendelési mennyiségtől függ. Irányadó EXW árak: WG-10 28–35 USD, WG-25 45–58 USD egységenként.",
+          "A nagyobb tételek (200-500+ db) jelentős kedvezményben részesülnek. Az OEM-festés, a logó és a speciális csomagolás 5-15%-kal növeli az alapárat, de növeli az értéket a forgalmazók számára.",
+          "Szintén figyelembe kell venni a szállítást (FOB/CIF), a dokumentumokat és a MOQ-t. 24 órán belül válaszolunk a teljes specifikációval, az átfutási idővel és az Incoterms-szel.",
+          "Pontos árajánlatért adja meg a modellt, a mennyiséget, a rendeltetési országot és a szelepre vonatkozó követelményeket a kapcsolatfelvételi űrlapon – vagy írjon a sales@wandagroups.com címre."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Kérjen árajánlatot",
+    "subtitle": "Mondja el nekünk a méretet, a mennyiséget, a célországot és az alkalmazást – részletes árajánlatot készítünk.",
+    "formTitle": "Kérjen árajánlatot",
+    "formSubtitle": "Hagyja el igényeit – értékesítési csapatunk válaszol a termékinformációkkal, az árakkal, a MOQ-val és az átfutási idővel.",
+    "name": "Név",
+    "phone": "Telefon / WhatsApp",
+    "email": "Email",
+    "product": "Termék",
+    "quantity": "Mennyiség",
+    "country": "Célország",
+    "productOptions": [
+      "Acetilén henger",
+      "Propán henger",
+      "Acetilén generátor",
+      "Kiegészítők",
+      "Csomag rendelés"
+    ],
+    "message": "További követelmények",
+    "messagePlaceholder": "Termék, méret, mennyiség, célország...",
+    "submit": "Kérdés küldése",
+    "sending": "Küldés...",
+    "success": "Köszönöm! Hamarosan felvesszük Önnel a kapcsolatot.",
+    "sendAnother": "Újabb megkeresés küldése",
+    "errorGeneric": "Nem sikerült elküldeni. Kérjük, próbálja újra, vagy írjon nekünk közvetlenül.",
+    "errorNoForm": "Az űrlap nincs konfigurálva. Írjon nekünk a sales@wandagroups.com címre",
+    "privacyPrefix": "Egyetértek a",
+    "privacySuffix": "valamint személyes adataim e megkeresés kezelése érdekében történő feldolgozására.",
+    "privacyLink": "Adatvédelmi szabályzat",
+    "company": "Vállalat",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Küldés e-mail alkalmazáson keresztül"
+  },
+  "footer": {
+    "company": "Wanda Group gázpalack gyártó",
+    "tagline": "Professzionális gázpalack gyártás",
+    "rights": "© 2026 Wanda Group. Minden jog fenntartva.",
+    "privacy": "Adatvédelmi szabályzat"
+  },
+  "ui": {
+    "catalog": "Katalógus",
+    "catalogTitle": "Részletes termékleírások",
+    "catalogSubtitle": "Teljes műszaki adatok, modellek és paraméterek minden kategóriához. Válasszon ki egy terméket a specifikációs táblázat megtekintéséhez.",
+    "requestPrice": "Kérjen árat ehhez a modellhez",
+    "services": "Szolgáltatások",
+    "pricing": "Árképzés",
+    "getExactQuote": "Kérjen pontos árajánlatot",
+    "certifications": "Tanúsítványok",
+    "order": "Rendelés",
+    "reviews": "Vélemények",
+    "contact": "Érintkezés",
+    "phone": "Telefon",
+    "location": "Elhelyezkedés",
+    "quoteResponse": "Idézet válasz",
+    "support": "Támogatás",
+    "exportReady": "Exportálás kész",
+    "years": "Évek",
+    "acetylene": "Acetilén",
+    "isoCertified": "ISO minősítéssel",
+    "globalExport": "Globális export",
+    "products": "Termékek",
+    "specs": "Műszaki adatok",
+    "applications": "Alkalmazások",
+    "whyUs": "Miért Mi",
+    "about": "Rólunk",
+    "gallery": "Galéria",
+    "quality": "Minőség",
+    "faq": "GYIK",
+    "blog": "Blog",
+    "countriesServed": "Kiszolgált országok",
+    "searchLanguage": "Nyelv keresése...",
+    "noLanguagesFound": "Nem található nyelv"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Exportálás több mint 50 országba",
+    "MOQ 100 db-tól",
+    "Átfutási idő 15-25 nap"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetilén",
+      "propane": "Propán",
+      "generator": "Generátor",
+      "accessories": "Kiegészítők"
+    },
+    "acetylene": {
+      "title": "Oldott acetilén palackok",
+      "intro": "Porózus tömegű és oldószeres acélhengerek az acetilén biztonságos tárolására és szállítására. Hegesztéshez, vágáshoz, keményforrasztáshoz és fémgyártáshoz használják.",
+      "features": [
+        "Porózus massza + aceton a stabil tároláshoz",
+        "CGA 510 / GOST / DIN szelepek kérésre",
+        "Hidraulikus próbanyomás 5,2 MPa",
+        "RAL festés, bélyegzés és OEM címkék",
+        "Export raklapos csomagolás"
+      ],
+      "tableTitle": "Szabványos acetilén hengeres modellek",
+      "headers": [
+        "Modell",
+        "Hangerő (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Súly (kg)",
+        "Magasság (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* A pontos paraméterek a szabványtól (ISO/DOT/GB) és a szelepkonfigurációtól függenek. Kérjen specifikációs lapot az Ön piacához."
+    },
+    "propane": {
+      "title": "Propán és LPG palackok",
+      "intro": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+      "features": [
+        "37Mn/34CrMo4 acél az ISO 9809 szerint",
+        "Üzemi nyomás 1,8-2,1 MPa",
+        "POL, CGA 510, GOST szelepek",
+        "Porfestés, korróziógátló",
+        "Tanúsítványok EU, USA, FÁK piacokra"
+      ],
+      "tableTitle": "Szabványos propán hengeres modellek",
+      "headers": [
+        "Modell",
+        "Hangerő (L)",
+        "Gáz (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Súly (kg)",
+        "Magasság (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Az ár és a MOQ a rendelés mennyiségétől és a szelep típusától függ. Pontos árajánlatért küldje el érdeklődését."
+    },
+    "generator": {
+      "title": "Acetilén generátorok",
+      "intro": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül.",
+      "features": [
+        "Teljesítmény 3-100 m³/h teljesítmény",
+        "Automatikus víz és keményfém adagolás",
+        "Biztonsági rendszer és szűrés",
+        "Kompakt és ipari modellek",
+        "Teljes dokumentáció és képzés"
+      ],
+      "tableTitle": "Acetilén generátor modellek",
+      "headers": [
+        "Modell",
+        "Teljesítmény (m³/h)",
+        "Keményfém (kg/h)",
+        "Nyomás (kPa)",
+        "Teljesítmény (kW)",
+        "Súly (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Kérésre hűtőrendszerrel, szűrőkkel és pótalkatrészkészlettel szállított generátorok."
+    },
+    "accessories": {
+      "title": "Hengertartozékok és szerelvények",
+      "intro": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel.",
+      "features": [
+        "Szabályozók és műszerek (CGA/GOST/DIN)",
+        "Nagynyomású tömlők",
+        "Vágópisztolyok és hegesztőégők",
+        "Nyomáshatároló szelepek",
+        "Kocsik, állványok, sapkák"
+      ],
+      "tableTitle": "Tartozékkatalógus",
+      "headers": [
+        "Kategória",
+        "Modellek",
+        "Standard",
+        "Alkalmazás"
+      ],
+      "rows": [
+        [
+          "Szabályozók",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetilén, propán"
+        ],
+        [
+          "Mérők",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Nyomásfigyelés"
+        ],
+        [
+          "Tömlők",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Hegesztés, vágás"
+        ],
+        [
+          "Fáklyák",
+          "WG-C100, WG-C300",
+          "—",
+          "Plazma/oxi vágás"
+        ],
+        [
+          "Égők",
+          "WG-T200, WG-T500",
+          "—",
+          "Hegesztés, keményforrasztás"
+        ],
+        [
+          "Szelepek",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Minden hengertípus"
+        ]
+      ],
+      "note": "* A tartozékok külön-külön vagy hengerekkel együtt kaphatók. Kombinált rendelés esetén kedvezmény."
+    }
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "subtitle": "Teljes ciklus – a gyártástól a raktárban történő kiszállításig. Dolgozunk forgalmazókkal, OEM márkákkal és projektvásárlókkal.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Egyedi gyártás (OEM/ODM)",
+        "desc": "Hengerek az Ön márkájával, színével és jelölésével.",
+        "points": [
+          "Logó és RAL szín",
+          "Piaci szabvány szelep",
+          "OEM csomagolás és címkék"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Export és Logisztika",
+        "desc": "Teljes körű nemzetközi szállítmányozási támogatás.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Export dokumentáció",
+          "Tengeri és vasúti árufuvarozás"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Minőségellenőrzés",
+        "desc": "Tesztelés és ellenőrzés minden szakaszban.",
+        "points": [
+          "Hidrosztatikai vizsgálatok",
+          "UT hegesztési ellenőrzés",
+          "SGS/BV ellenőrzés kérésre"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Tanúsítvány",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS és minőségi tanúsítvány",
+          "Származási bizonyítvány"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Műszaki támogatás",
+        "desc": "Segítség a termékek kiválasztásában és a konfigurációban.",
+        "points": [
+          "Piaci alapú kiválasztás",
+          "MOQ és átfutási idő számítás",
+          "A személyzet képzése"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Csomag ellátás",
+        "desc": "Hengerek + tartozékok egy rendelésben.",
+        "points": [
+          "Egyetlen szerződés",
+          "Összehangolt szállítás",
+          "Csomag kedvezmény"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Árképzés és szállítási feltételek",
+    "subtitle": "Átlátható feltételek a B2B beszerzésekhez. A pontos árat egyénileg számítjuk ki – küldje el érdeklődését, 24 órán belül válaszolunk.",
+    "note": "A feltüntetett árak tájékoztató jellegűek (EXW). A végső költség a mennyiségtől, a szelep típusától, a tanúsítványtól és a szállítási feltételektől függ.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "100 db-tól",
+        "desc": "Minimális rendelési mennyiség modellenként"
+      },
+      {
+        "label": "Átfutási idő",
+        "value": "15-25 nap",
+        "desc": "Megrendelés visszaigazolása után"
+      },
+      {
+        "label": "Fizetés",
+        "value": "T/T 30/70",
+        "desc": "30% előleg, 70% szállítás előtt"
+      },
+      {
+        "label": "Garancia",
+        "value": "12 hónap",
+        "desc": "Gyártási hibák ellen"
+      }
+    ],
+    "factors": {
+      "title": "Ártényezők",
+      "items": [
+        "Hengertérfogat és modell (2L – 50L)",
+        "Szelep típusa (CGA, GOST, DIN, POL)",
+        "Tanúsítási szabvány (ISO, DOT, TPED)",
+        "OEM: szín, jelölés, csomagolás",
+        "Rendelési mennyiség és Incotermek"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetilén WG-10",
+        "moq": "200 db",
+        "price": "28-35 dollár / db",
+        "lead": "18 nap"
+      },
+      {
+        "product": "Acetilén WG-25",
+        "moq": "100 db",
+        "price": "45-58 USD / db",
+        "lead": "20 nap"
+      },
+      {
+        "product": "Propán WG-P11",
+        "moq": "500 db",
+        "price": "12-16 dollár / db",
+        "lead": "15 nap"
+      },
+      {
+        "product": "Propán WG-P50",
+        "moq": "100 db",
+        "price": "55-72 USD / db",
+        "lead": "22 nap"
+      },
+      {
+        "product": "WG-G20 generátor",
+        "moq": "1 egység",
+        "price": "$3,500–4,200",
+        "lead": "25 nap"
+      },
+      {
+        "product": "Szabályozó készlet",
+        "moq": "50 db",
+        "price": "8-15 dollár / db",
+        "lead": "10 nap"
+      }
+    ],
+    "tableHeaders": [
+      "Termék",
+      "MOQ",
+      "Ár (EXW)",
+      "Átfutási idő"
+    ]
+  },
+  "certifications": {
+    "title": "Tanúsítványok és szabványok",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Varrat nélküli acél gázpalackok – műszaki követelmények"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Oldott acetilén palackok"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Amerikai piaci tanúsítás"
+      },
+      {
+        "name": "TPED",
+        "desc": "Európai közlekedési irányelv"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Kínai gázpalack szabvány"
+      },
+      {
+        "name": "CE jelölés",
+        "desc": "európai megfelelőségi követelmények"
+      }
+    ]
+  },
+  "process": {
+    "title": "Hogyan rendeljünk",
+    "subtitle": "Egyszerű folyamat a megkereséstől a hengerekig a raktárban.",
+    "steps": [
+      {
+        "title": "Kérdés küldése",
+        "desc": "Adja meg a termékre, mennyiségre, országra és szelepre vonatkozó követelményeket"
+      },
+      {
+        "title": "Árajánlat fogadása",
+        "desc": "Ár, MOQ, átfutási idő és adatlap 24 órán belül"
+      },
+      {
+        "title": "Megrendelés megerősítése",
+        "desc": "Szerződés aláírása és 30% előleg befizetése"
+      },
+      {
+        "title": "Gyártás és minőségellenőrzés",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Szállítás",
+        "desc": "Csomagolás, dokumentumok, FOB/CIF/DDP szállítás"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "hegesztés",
+        "eyebrow": "Acetilén hengerek",
+        "title": "Stabil láng a precíziós hegesztéshez",
+        "text": "Folyamatos hegesztésre és keményforrasztásra tervezett oldott acetilén hengerek – állandó nyomás, biztonságos porózus tömeg, exportra kész szelepek.",
+        "points": [
+          "ISO / DOT / GB opciók",
+          "CGA / GOST / DIN szelepek",
+          "OEM szín és jelölés"
+        ]
+      },
+      {
+        "id": "vágás",
+        "eyebrow": "Vágás és gyártás",
+        "title": "Erő, amikor a fémnek mozognia kell",
+        "text": "Nagy átfolyású acetilén és oxigénkész hengerkészletek hajógyárak, műhelyek és nehéz gyártósorok számára.",
+        "points": [
+          "Gyors szúrás és vágás",
+          "Fáklyára kész készletek",
+          "Tömeges MOQ-barát"
+        ]
+      },
+      {
+        "id": "propán",
+        "eyebrow": "Propán és LPG",
+        "title": "Tartós PB-gázpalackok minden piacra",
+        "text": "A fűtéstől és a főzőgáztól az ipari vágásig – acél palackok nyomásra, bevonásra és hosszú élettartamra.",
+        "points": [
+          "3L-50L tartomány",
+          "POL / CGA szelepek",
+          "Púderfestés"
+        ]
+      },
+      {
+        "id": "gyár",
+        "eyebrow": "Gyártás",
+        "title": "Gyári vezérlés az acéltól a szállításig",
+        "text": "Házon belüli alakítás, hegesztés, hidrosztatikus tesztelés és kikészítés – így minden tétel megfelel az Ön rajzának és piaci szabványának.",
+        "points": [
+          "Hidrosztatikusan tesztelt",
+          "Nyomon követhető tételek",
+          "OEM / ODM készen áll"
+        ]
+      },
+      {
+        "id": "minőség",
+        "eyebrow": "Minőség és biztonság",
+        "title": "Az árajánlatba beírható ellenőrzés",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Nyomás- és szivárgástesztek",
+          "Certificate package",
+          "Szállítás előtti fotók"
+        ]
+      },
+      {
+        "id": "export",
+        "eyebrow": "Globális export",
+        "title": "Kikötőkbe csomagolva, több mint 50 ország számára készen",
+        "text": "Exportáljon raklapokat, szelepvédelmet, többnyelvű címkéket és szállítási dokumentumokat az Ön Incotermshez egyeztetve.",
+        "points": [
+          "FOB / CIF támogatás",
+          "Raklapos csomagolás",
+          "Átfutási idő 15-25 nap"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Ipari gázpalackok gyárilag készen",
+    "about": "Exportra kész hengerkészlet védőcsomagolással",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Kész hengerkészlet gyárilag",
+      "Gyártási hegesztés gyári szinten",
+      "Export csomagolás védőhálóval",
+      "Propane cylinders ready for dispatch",
+      "Ömlesztett hengeres szállítás teherautón",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Kiegészítők",
+    "title": "Terméktartozékok",
+    "subtitle": "Alkatrészek acetilén hengerekhez, generátorokhoz, hegesztéshez és vágáshoz. Nyissa meg a Részletek részt a specifikációkért és az alkalmazásokért.",
+    "cta": "Kérjen részleteket",
+    "details": "Részletek",
+    "close": "Közeli",
+    "featuresLabel": "Főbb jellemzők",
+    "specsLabel": "Műszaki adatok",
+    "applicationsLabel": "Alkalmazások",
+    "qualityLabel": "Minőség és kínálat",
+    "whyTitle": "Miért válassza kiegészítőinket?",
+    "why": [
+      "Tartós sárgaréz, rozsdamentes acél és ipari minőségű anyagok",
+      "Kompatibilis hengerekkel, generátorokkal, szabályozókkal, tömlőkkel és hegesztőrendszerekkel",
+      "OEM logó, csomagolás, csatlakozási méret, menettípus és specifikációk",
+      "Exportcsomagolás és stabil ellátás nemzetközi vásárlók számára"
+    ],
+    "items": [
+      {
+        "title": "Acetilén visszacsapó szelep",
+        "desc": "Megakadályozza a fordított gázáramlást és a láng visszacsapódását az oxi-acetilén hegesztő- és vágórendszerekben.",
+        "intro": "Az acetilén rendszerek alapvető biztonsági eszköze. A beépített szinterezett rozsdamentes lángfogó és az egyirányú áramlási kialakítás védi a kezelőket, a tömlőket és a gázvezetékeket. Kompatibilis szabályozókkal, tömlőkkel és égőkkel. OEM logó, címke és csomagolás elérhető.",
+        "features": [
+          "Lángzáró szinterezett rozsdamentes betét",
+          "Vissza nem térő (egyirányú) áramlási kialakítás",
+          "Nagy szilárdságú sárgaréz test, korrózióálló",
+          "Megbízható tömítés üzemi nyomás alatt",
+          "Szabványos csatlakozások a gyors telepítéshez és cseréhez"
+        ],
+        "specs": [
+          "Gáz: acetilén (C2H2); oxigénlevezetők külön szállítva",
+          "Test: sárgaréz; levezető: rozsdamentes acél",
+          "Csatlakozás: G 3/8″ LH vagy egyedi menet",
+          "Üzemi nyomás: 1,5 MPa-ig / testreszabott",
+          "Felhasználás: oxi-acetilén hegesztés, vágás és melegítés",
+          "Csomagolás: egyedi doboz, karton vagy egyedi"
+        ],
+        "applications": [
+          "Oxi-acetilén hegesztés és vágás",
+          "Szabályozók, tömlők és égőegységek",
+          "Acetilén generátor gázvezetékek"
+        ],
+        "quality": [
+          "100%-os ellenőrzés szállítás előtt",
+          "Tömítés, nyomás és visszacsapó funkció tesztek",
+          "Exportcsomagolás távolsági szállításhoz"
+        ]
+      },
+      {
+        "title": "Acetilén generátor tartály",
+        "desc": "Magtartály stabil acetilén előállításához kalcium-karbidból ipari gázrendszerekben.",
+        "intro": "A generátortartály az acetiléngeneráló rendszer fő tartálya. Stabil gáztermeléshez szállítjuk hegesztésnél, vágásnál és központi palackellátás nélküli helyszíneken. A kapacitás, a csővezeték és a biztonsági berendezés a generátormodellhez illeszthető.",
+        "features": [
+          "Magtartály acetilén generátorrendszerekhez",
+          "Stabil gáztermelésre épített kalcium-karbidból",
+          "Szűrő- és biztonsági szelepekkel kombinálható",
+          "Ipari és kompakt generátorok elrendezései",
+          "OEM jelölés, csatlakozások és csomagolás kérésre"
+        ],
+        "specs": [
+          "Szerep: generátor tartály / tartály összeállítás",
+          "A kapcsolódó generátorok jellemző teljesítménytartománya: 3-100 m³/h",
+          "A kapcsolódó egységek üzemi nyomása: kb. 1,5-5 kPa",
+          "Kérésre hűtővel, szűrőkkel és pótalkatrészekkel szállítjuk",
+          "A csatlakozások, a kapacitás és a díszítés megrendelésenként visszaigazolva"
+        ],
+        "applications": [
+          "Acetilén generátor üzemek és hordozható egységek",
+          "Műhelyek központi hengerellátás nélkül",
+          "Ipari hegesztő- és vágógáz gyártás"
+        ],
+        "quality": [
+          "Gyári illesztés a generátor modellhez",
+          "Export csomagolás és dokumentáció",
+          "A kapacitást és a csatlakozási adatokat a szállítás előtt megerősítették"
+        ]
+      },
+      {
+        "title": "Vágó fáklya",
+        "desc": "Tartós oxi-acetilén vágópisztoly a precíz vágásokhoz, stabil lánghoz és nagy termelékenységhez.",
+        "intro": "Professzionális acetilén vágópisztoly a tiszta, pontos vágáshoz. Sárgaréz test rozsdamentes csövekkel, ergonomikus fogantyúval és cserélhető fúvókákkal. Kompatibilis acetilénnel és oxigénnel, valamint szabványos hegyekkel.",
+        "features": [
+          "Prémium sárgaréz és rozsdamentes szerkezet",
+          "Stabil láng és precíz vágásvezérlés",
+          "Biztonságközpontú kialakítás a visszatüzelés kockázatának csökkentése érdekében",
+          "Ergonomikus fogantyú, könnyen összeszerelhető és szervizelhető",
+          "Normál fúvókákkal, hegyekkel és tömlőkészletekkel működik"
+        ],
+        "specs": [
+          "Modell: CT-01 vágópisztoly",
+          "Gáz: acetilén + oxigén",
+          "Vágási vastagság: 3-300 mm (fúvóka- és nyomásfüggő)",
+          "Üzemi nyomás: C₂H₂ 0,02–0,15 MPa; O₂ 0,2-1,0 MPa",
+          "Csatlakozó: G5/8-14 vagy egyedi",
+          "Hossz: kb. 460 mm",
+          "Kiszerelés: 1 db/doboz, 10 db/karton"
+        ],
+        "applications": [
+          "Szénacél lemez, cső- és profilvágás",
+          "Gyártóüzletek, hajógyárak és építőipar",
+          "Ipari karbantartás és helyszíni vágás"
+        ],
+        "quality": [
+          "Szállítás előtti 100%-os ellenőrzés",
+          "Megjelenés, csatlakozás, tömítés és működés ellenőrzése",
+          "Exportcsomagolás hosszú távú szállításhoz"
+        ]
+      },
+      {
+        "title": "Belső/külső menetes szögszelep",
+        "desc": "Nagy teherbírású hengeres sarokszelep belső vagy külső menetes opciókkal a piaci szabványoknak megfelelően.",
+        "intro": "Szögszelepek acetilénhez és egyéb ipari gázokhoz: robusztus sárgaréz test, precíz tömítés és sima kézikerék működés. Belső vagy külső menet a henger- és berendezésszabványoknak megfelelően.",
+        "features": [
+          "Tartós sárgaréz test, korrózióálló",
+          "Nagy pontosságú megmunkálás a megbízható tömítésért",
+          "Belső vagy külső menetes csatlakozási lehetőségek",
+          "Ergonomikus kézikerék a könnyű nyitáshoz/záráshoz",
+          "100%-os biztonsági és működési ellenőrzés"
+        ],
+        "specs": [
+          "Gáz: acetilén, oxigén, argon, nitrogén és kompatibilis gázok",
+          "Üzemi nyomás: 25 / 35 bar osztály",
+          "Próbanyomás: 37,5 / 52,5 bar osztály",
+          "Bemenet/kimenet: belső vagy külső, testreszabott",
+          "Kézikerék: alumínium/cink ötvözet",
+          "Hőmérséklet: -20 °C és +60 °C között",
+          "Szabványok: ISO 10297, GB/T 8335, CGA vagy egyedi",
+          "Kiszerelés: 1 db/zsák, 50 db/doboz"
+        ],
+        "applications": [
+          "Acetilén és ipari gázpalackok",
+          "Hegesztő és vágó gázrendszerek",
+          "Műhelyek, üzemek és laboratóriumi gázellátás"
+        ],
+        "quality": [
+          "Anyag-, megmunkálás-, szivárgás- és megjelenés-ellenőrzés",
+          "Export csomagolás távolsági szállításhoz",
+          "A menetméret és a szabvány piaconként megerősítve"
+        ]
+      },
+      {
+        "title": "Oxigén tömlő bilincs",
+        "desc": "Rozsdamentes acél csigahajtású bilincs biztonságos, szivárgásmentes oxigén- és ipari tömlőcsatlakozásokhoz.",
+        "intro": "Rozsdamentes acél oxigéntömlő bilincsek hegesztéshez és ipari használatra. Erős szorítóerő, rozsdaállóság és tömlőbarát élek. Újrafelhasználható és könnyen telepíthető.",
+        "features": [
+          "Rozsdamentes acél 201/304",
+          "Erős szorítóerő és biztonságos rögzítés",
+          "Rozsda-, korrózió- és oxidációállóság",
+          "A sima szalagélek segítik a tömlő védelmét",
+          "Könnyen telepíthető, eltávolítható és újrafelhasználható"
+        ],
+        "specs": [
+          "Típus: csigahajtású tömlőbilincs",
+          "Tömlőtartomány: 8-100 mm, egyedi méretek ömlesztett kivitelhez",
+          "Sávszélesség: 9 / 12 mm; vastagsága 0,6-0,8 mm",
+          "Csavar: hornyolt vagy hatlapfejű",
+          "Szabványok: DIN 3017 / SAE J1508",
+          "Kivitel: polírozott",
+          "Csomagolás: 100 db / zacskó, 10 tasak / karton vagy egyedi"
+        ],
+        "applications": [
+          "Oxigén- és üzemanyagtömlők hegesztéshez és vágáshoz",
+          "Henger, szabályozó és égő tömlőcsatlakozások",
+          "Gyári, műhely- és karbantartó vonalak"
+        ],
+        "quality": [
+          "Szállítás előtti 100%-os ellenőrzés",
+          "A méret, a szalag és a csomagolás testreszabható",
+          "Export minőségi csomagolás"
+        ]
+      },
+      {
+        "title": "Oxigén csövek",
+        "desc": "Rugalmas nagynyomású oxigéntömlő hosszú élettartammal hegesztéshez, vágáshoz és ipari gázellátáshoz.",
+        "intro": "Oxigéncsövek nyomás alatti biztonságos gázszállításhoz. Rugalmas, törés- és kopásálló, sima belső fallal a stabil áramlásért. Több azonosító és hossz hegesztéshez és hengercsatlakozáshoz.",
+        "features": [
+          "Magas üzemi és repedési nyomás",
+          "Rugalmas, törésálló konstrukció",
+          "Öregedés, ózon és kopásállóság",
+          "Sima belső fal a stabil gázáramlásért",
+          "Könnyű és könnyen kezelhető"
+        ],
+        "specs": [
+          "Gáz: oxigén",
+          "Üzemi nyomás: 20 bar / 290 psi",
+          "Feltörési nyomás: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (egyedi kivitel)",
+          "Hossz: 10 / 20 / 30 / 50 / 100 m vagy egyedi",
+          "Szín: kék standard; anyaga SBR / EPDM + poliészter fonal",
+          "Szabványok: ISO 3821 / EN 559 / GB/T 20098",
+          "Hőmérséklet: -20 °C és +80 °C között"
+        ],
+        "applications": [
+          "Oxigénellátás hegesztéshez és vágáshoz",
+          "Henger-szabályozó tömlőcsatlakozás",
+          "Gyárak, műhelyek és ipari gázvezetékek"
+        ],
+        "quality": [
+          "Szállítás előtti 100%-os ellenőrzés",
+          "Az átmérő, a hossz, a szín és a címke testreszabható",
+          "Export csomagolás: zsugorodó / szövött zsák / karton"
+        ]
+      },
+      {
+        "title": "Nyomásmérő",
+        "desc": "Pontos nyomáskijelzés oxigén, acetilén és egyéb ipari gázok számára.",
+        "intro": "Acetilén, oxigén és ipari gázok mérői: átlátszó számlap, tartós felépítés és stabil leolvasások a palackokon, szabályozókon és csővezetékeken. Több tartomány és csatlakozás az OEM-hez és az exporthoz.",
+        "features": [
+          "Nagy pontosság és stabil teljesítmény",
+          "Átlátszó számlap a könnyű leolvasás érdekében",
+          "Ütésálló ipari konstrukció",
+          "Korrózióálló anyagok",
+          "Több tartomány és alsó/hátsó rögzítés"
+        ],
+        "specs": [
+          "Gáz: acetilén, oxigén, argon, CO₂, nitrogén és kompatibilis gázok",
+          "Számlap: 50 / 63 / 100 mm, egyedileg rendelhető",
+          "Tartomány: 0-1 bar-tól 0-400 bar-ig, egyedi",
+          "Pontosság: ±2,5% standard, ±1,6% opcionális",
+          "Menet: G1/4, G1/8, NPT1/4, M12×1,5 vagy egyedi",
+          "Tok: fekete acél / rozsdamentes opcionális; csatlakozó sárgaréz vagy SS",
+          "Ablak: üveg vagy polikarbonát; -20 °C és +60 °C között",
+          "Kiszerelés: 1 db/doboz, 50 db/karton"
+        ],
+        "applications": [
+          "Gázpalackok és nyomásszabályozók",
+          "Csővezetékek és ipari gázrendszerek",
+          "Oxi-acetilén hegesztő és vágó panelek"
+        ],
+        "quality": [
+          "100%-os tesztelés a szállítás előtt",
+          "OEM számlap és márkajelzési lehetőségek",
+          "Export csomagolás"
+        ]
+      },
+      {
+        "title": "Biztonsági nyomáscsökkentő szelep",
+        "desc": "Automatikusan felszabadítja a túlnyomást a palackok, csővezetékek és a kezelők védelme érdekében.",
+        "intro": "A biztonsági szelepek automatikusan levezetik a túlnyomást a berendezések és a személyzet védelme érdekében. Alkalmas oxigénhez, acetilénhez, levegőhöz, nitrogénhez és kompatibilis gázokhoz. Kompakt sárgaréz test, többféle nyomás és menetméret.",
+        "features": [
+          "Automatikus túlnyomás elleni védelem",
+          "Stabil tehermentesítés nagy nyomás alatt",
+          "Sárgaréz test, hő- és korrózióálló",
+          "Kompakt kialakítás az egyszerű telepítés és szervizelés érdekében",
+          "Több beállított nyomás és menetméret"
+        ],
+        "specs": [
+          "Gáz: oxigén, acetilén, levegő, nitrogén és kompatibilis gázok",
+          "Üzemi nyomás: 25 bar / 25 kg/cm²-ig",
+          "Tehermentesítési tartomány: 0,1-2,5 MPa, személyre szabható",
+          "Hőmérséklet: -20 °C és +120 °C között",
+          "Kapcsolat: férfi/nő; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Test: sárgaréz; tömítés: NBR / PTFE",
+          "Testnyomás osztály: 25 / 35 bar",
+          "Kiszerelés: 1 db/doboz, 50 db/karton"
+        ],
+        "applications": [
+          "A henger és az elosztó túlnyomás elleni védelem",
+          "Ipari gázberendezések és vezetékek",
+          "Oxi-üzemanyagos hegesztő- és vágórendszerek"
+        ],
+        "quality": [
+          "100%-os tesztelés a szállítás előtt",
+          "A beállított nyomás, menet és csomagolás testreszabható",
+          "Export csomagolás"
+        ]
+      },
+      {
+        "title": "Hegesztőpisztoly",
+        "desc": "Ergonomikus oxi-üzemanyagos hegesztőpisztoly sima lángszabályozással hegesztéshez, keményforrasztáshoz és melegítéshez.",
+        "intro": "Nagy teljesítményű hegesztőpisztoly oxigén-üzemanyagos munkákhoz: stabil láng, precíz vezérlés és tartós sárgaréz test. Rézhegyek, cserélhető fúvókák és tömlőcsatlakozások műhely- és ipari használatra.",
+        "features": [
+          "Stabil láng hegesztéshez és fémjavításhoz",
+          "Sima gázáramlás és pontos lángszabályozás",
+          "Tartós sárgaréz test, hő- és korrózióálló",
+          "Ergonomikus fogantyú a kényelmes kezelésért",
+          "Kompatibilis oxigénnel, acetilénnel és opcionális propánnal"
+        ],
+        "specs": [
+          "Típus: oxi-acetilén hegesztőpisztoly",
+          "Test: sárgaréz; tip: réz, cserélhető",
+          "Tömlőcsatlakozás: G1/4″ vagy 9/16″-18 UNF",
+          "Üzemi nyomás: O₂ 0,2-1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Hőmérséklet: -20 °C és +60 °C között",
+          "Felhasználás: hegesztés, keményforrasztás, melegítés; vágás hozzáillő hegyekkel",
+          "Kiszerelés: 1 db/doboz, 10 db/karton"
+        ],
+        "applications": [
+          "Oxigén-acetilén hegesztés és javítás",
+          "Forrasztás, fűtés és illesztés",
+          "Műhelyek és ipari karbantartás"
+        ],
+        "quality": [
+          "Szállítás előtti 100%-os ellenőrzés",
+          "A zseblámpa stílusa, a csatlakozó, a csomagolás és a logó OEM lehet",
+          "Anyag-, szivárgás- és megjelenés-ellenőrzés"
+        ]
+      },
+      {
+        "title": "Szűrő átalakító fej",
+        "desc": "A szűrőelemet szabályozóhoz vagy csővezetékhez csatlakoztatja a hatékony gázszűrés érdekében.",
+        "intro": "A szűrő átalakító feje a szűrőelem és a szabályozó vagy gázvezeték közötti kapcsolat. Helyezi az elemet, helyesen tartja az áramlási irányt, és egyszerűvé teszi a karbantartást és a cserét a henger- és elosztórendszerekben.",
+        "features": [
+          "A szűrőelemet a szabályozóhoz vagy a csővezetékhez köti",
+          "Támogatja a hatékony szűrést a gázvezetékben",
+          "Ipari sárgaréz / fém konstrukció",
+          "Szabványos menetes portok a rendszerillesztéshez",
+          "OEM menet, méret és csomagolás kérésre"
+        ],
+        "specs": [
+          "Szerep: szűrő átalakító / adapterfej",
+          "Felhasználás: szabályozó, csővezeték és hengerszűrő szerelvények",
+          "A csatlakozás mérete és menete megrendelésenként visszaigazolva",
+          "Igény esetén szűrőelemekkel és tálakkal szettben párosítható"
+        ],
+        "applications": [
+          "Gázelosztás a szabályozók és szerszámok előtt",
+          "Henger és generátor szűrőegységek",
+          "Műhely és ipari gázvezetékek"
+        ],
+        "quality": [
+          "A csatlakozás mérete a gyártás előtt megerősítve",
+          "Export csomagolás",
+          "Hozzáillő szűrőelemekkel szállítható"
+        ]
+      },
+      {
+        "title": "Szűrő",
+        "desc": "Nagy hatékonyságú szűrő, amely eltávolítja a nedvességet, az olajat és a részecskéket, hogy megvédje a későbbi berendezéseket.",
+        "intro": "Eltávolítja a szilárd részecskéket, vizet, olajat és egyéb szennyeződéseket a gázáramból a berendezés védelme és az élettartam meghosszabbítása érdekében. Sárgaréz fej, minőségi elem és stabil működés nyomás alatt. Oxigénhez, acetilénhez, levegőhöz, nitrogénhez és kompatibilis gázokhoz.",
+        "features": [
+          "Nagy hatékonyságú szűrés a tiszta gázáramlásért",
+          "Eltávolítja a nedvességet, az olajat és a részecskéket",
+          "Tartós sárgaréz fej és fémtál",
+          "Levehető elem tisztításhoz vagy cseréhez",
+          "Stabil működés üzemi nyomás alatt"
+        ],
+        "specs": [
+          "Gáz: oxigén, acetilén, levegő, nitrogén és kompatibilis gázok",
+          "Bemeneti nyomás: 2,5 MPa-ig",
+          "Üzemi nyomás: 0,01-1,6 MPa",
+          "Pontosság: 5 / 20 / 50 μm opcionális",
+          "Csatlakozás: G1/4″, G3/8″, G1/2″, G3/4″ opcionális",
+          "Test: sárgaréz; elem: szinterezett bronz / rozsdamentes acél",
+          "Hőmérséklet: -20 °C és +60 °C között",
+          "Kiszerelés: 1 db/doboz, 20 db/karton"
+        ],
+        "applications": [
+          "Henger-, szabályozó- és elosztórendszerek",
+          "Gyárak, műhelyek és ipari gázvezetékek",
+          "Tisztább áramlás hegesztéshez, vágáshoz és laboratóriumi ellátáshoz"
+        ],
+        "quality": [
+          "Szállítás előtti 100%-os ellenőrzés",
+          "A menet, a pontosság és az elem testreszabható",
+          "Export csomagolás"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Jogi",
+    "title": "Adatvédelmi szabályzat",
+    "updated": "Utolsó frissítés: 2026. augusztus 25",
+    "intro": [
+      "A Wanda Group (\"mi\", \"mi\") üzemelteti ezt a weboldalt a gázpalackok, tartozékok és a kapcsolódó exportellátás bemutatására, valamint az ipari vásárlók kereskedelmi megkereséseinek fogadására.",
+      "Ez a szabályzat elmagyarázza, hogy milyen személyes adatokat gyűjtünk az oldalon keresztül, miért használjuk azokat, és hogyan léphet velünk kapcsolatba ezzel kapcsolatban. A weboldalon nem teszünk közzé gyári videókat vagy tanúsítványfájlokat; ezeket az anyagokat kérésre privátban küldjük el."
+    ],
+    "sections": [
+      {
+        "title": "Ki a felelős",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Milyen adatokat gyűjtünk",
+        "body": [
+          "A kérdőív elküldésekor megkapjuk az Ön által megadott adatokat: név, e-mail cím, telefonszám, célország, terméktípus, mennyiség és üzenet.",
+          "A webhely a választott nyelvet a böngészőben is tárolja (localStorage). Nem futtatunk reklámsütiket és nem adunk el látogatólistákat."
+        ]
+      },
+      {
+        "title": "Miért használjuk az adatokat",
+        "body": [
+          "A lekérdezési adatokat kizárólag az Ön kérésének megválaszolására, árajánlat elkészítésére, termékinformációk, videók vagy tanúsítványok küldésére használjuk fel, amelyeket Ön kért, valamint a rendelés koordinálására, ha elkezdjük a közös munkát.",
+          "Jogalap: az Ön hozzájárulása, amikor bejelöli a jelölőnégyzetet az űrlapon, és jogos érdekünk a B2B értékesítési kérések megválaszolásához."
+        ]
+      },
+      {
+        "title": "Ki kapja meg az adatokat",
+        "body": [
+          "Üzenetét e-mailben kézbesítjük értékesítési csapatunknak. A konfigurációtól függően az űrlapot a Web3Forms dolgozhatja fel, mint műszaki szolgáltató, amely továbbítja az üzenetet számunkra.",
+          "Személyes adatokat nem adunk el. A logisztikai, vizsgálati vagy banki partnerekkel csak akkor oszthatjuk meg a szükséges dolgokat, ha ez egy egyeztetett megrendelés teljesítéséhez szükséges."
+        ]
+      },
+      {
+        "title": "Meddig tartjuk",
+        "body": [
+          "A megkeresési adatokat a kérelem kezeléséhez szükséges ideig, majd ezt követően az értékesítés nyomon követéséhez és elszámolásához szükséges ésszerű ideig tároljuk, kivéve, ha Ön korábban kéri törlését, ha azt jogszabály lehetővé teszi."
+        ]
+      },
+      {
+        "title": "Az Ön jogai",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Biztonság és gyerekek",
+        "body": [
+          "Ésszerű technikai és szervezési lépéseket teszünk az átvitel során és a postafiókunkban lévő üzenetek védelme érdekében. Ez a weboldal üzleti vásárlóknak készült, nem gyermekeknek."
+        ]
+      }
+    ],
+    "contactLead": "Kérdések a szabályzattal kapcsolatban:"
+  }
+}

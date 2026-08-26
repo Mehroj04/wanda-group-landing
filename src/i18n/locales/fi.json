@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Tuotteet",
+    "specs": "Tekniset tiedot",
+    "applications": "Sovellukset",
+    "about": "Noin",
+    "gallery": "Galleria",
+    "quality": "Laatu",
+    "faq": "FAQ",
+    "contact": "Ota yhteyttä",
+    "getQuote": "Pyydä tarjous",
+    "inquire": "Tiedustele →",
+    "services": "Palvelut",
+    "pricing": "Hinnoittelu",
+    "accessories": "Tarvikkeet",
+    "home": "Kotiin",
+    "factory": "Tehdas"
+  },
+  "hero": {
+    "badge": "Kaasupullon valmistaja",
+    "title": "Luotettavat kaasupullot teollisuuteen ja hitsaukseen",
+    "subtitle": "Wanda Group on luotettu asetyleenin, propaanisylintereiden ja tarvikkeiden valmistaja ja toimittaja. Ratkaisut kaasuntoimitukseen, hitsaukseen, leikkaamiseen ja varastointiin maailmanlaajuisesti.",
+    "cta": "Pyydä tarjous",
+    "ctaSecondary": "Tuotteemme",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Vuosien kokemus"
+      },
+      {
+        "value": "500K+",
+        "label": "Tuotantokapasiteetti / vuosi"
+      },
+      {
+        "value": "50+",
+        "label": "Vientimarkkinat"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Laatu ja sertifiointi"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Luotettavat kaasupullojen tarvikkeet",
+    "text": "Mittarit, venttiilit, letkut, polttimet ja turvaliittimet – toimitetaan yhdessä sylintereiden kanssa tai erillisenä tilauksena.",
+    "cta": "Katso lisävarusteet"
+  },
+  "products": {
+    "title": "Tuotteemme",
+    "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+    "items": [
+      {
+        "title": "Asetyleeni sylinteri",
+        "desc": "Liuotetut asetyleenisylinterit hitsaus-, leikkaus- ja teollisuuskaasuihin. Eri kokoja ja venttiilivaihtoehtoja.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Asetyleenin generaattori",
+        "desc": "Laitteet vakaaseen kaasuntuotantoon, helppokäyttöisyyteen ja teollisiin sovelluksiin.",
+        "icon": "⚙️",
+        "spec": "Teolliset tuotantojärjestelmät"
+      },
+      {
+        "title": "Propaani sylinteri",
+        "desc": "Kestävät sylinterit propaanille ja nestekaasulle — varastointiin, lämmitykseen, leikkaamiseen ja teollisuuskäyttöön.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Sylinterin tarvikkeet",
+        "desc": "Letkut, mittarit, leikkauspolttimet, hitsauspolttimet, varoventtiilit ja paljon muuta.",
+        "icon": "🔧",
+        "spec": "Venttiilit · säätimet · letkut · polttimet"
+      }
+    ],
+    "viewDetails": "Näytä tiedot"
+  },
+  "specs": {
+    "title": "Tekniset tiedot",
+    "subtitle": "Tutustu sylinterivaihtoehtoihin, mukautusominaisuuksiin ja toimitustietoihin ennen kyselyn lähettämistä.",
+    "items": [
+      {
+        "title": "Sylinterin tilavuus",
+        "desc": "Erilaisia ​​kapasiteetti- ja tilavuusvaihtoehtoja sovelluksen ja markkinoiden vaatimusten mukaan."
+      },
+      {
+        "title": "Venttiilit & Korkit",
+        "desc": "Venttiilit, kannet ja liittimet toimitetaan asiakkaan ja projektin tarpeiden mukaan."
+      },
+      {
+        "title": "Liuotinvaihtoehdot",
+        "desc": "Huokoinen täyteainejärjestelmä ja liuottimet asetyleenin vakaaseen varastointiin."
+      },
+      {
+        "title": "Pakkaus & Toimitus",
+        "desc": "Vientipakkaus- ja lähetystuki jakelijoille ja projektiasiakkaille."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Sylinterisovellukset",
+    "subtitle": "Tuotteet, jotka on suunniteltu yleisiin teollisuuskaasutehtäviin ja ulkomaisten ostajien tarpeisiin.",
+    "items": [
+      "Hitsaus ja juotto",
+      "Metallin leikkaus",
+      "Teollisuuden kaasun toimitus",
+      "Rakentaminen",
+      "Metallin valmistus",
+      "Kaasun varastointi ja jakelu"
+    ]
+  },
+  "whyUs": {
+    "title": "Miksi Wanda Group?",
+    "subtitle": "Suora valmistus, räätälöinti ja täysi vientituki – kaikki yrityksellesi.",
+    "items": [
+      {
+        "title": "Korkea laatu",
+        "desc": "Teolliseen hitsaukseen ja kaasunsyöttöön rakennetut terässylinterit."
+      },
+      {
+        "title": "Tiukka laadunvalvonta",
+        "desc": "Tarkastus saapuvista materiaaleista lopulliseen pakkaamiseen."
+      },
+      {
+        "title": "Advanced Manufacturing",
+        "desc": "Muotoilu, hitsaus, testaus ja viimeistely yhdessä tehtaassa."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Väri, venttiili, merkintä, korkki ja pakkaus tilauksesta."
+      },
+      {
+        "title": "Kansainvälinen vienti",
+        "desc": "Asiakirjat ja pakkaukset ulkomaisille teollisille ostajille."
+      },
+      {
+        "title": "Luotettava toimitus",
+        "desc": "Tyypillinen toimitusaika 15–25 päivää tilausvahvistuksen jälkeen."
+      }
+    ]
+  },
+  "about": {
+    "title": "Ammattimainen kaasupullojen valmistaja",
+    "text": "Wanda Group Gas Sylinder Manufacturer on erikoistunut teollisuuskaasupullojen ja niihin liittyvien tarvikkeiden tuotantoon ja toimittamiseen. Tuotteitamme käytetään laajasti hitsauksessa, leikkauksessa, kaasunjakelussa, teollisessa varastoinnissa ja muilla kaasuntoimitusaloilla.",
+    "text2": "Tuemme ulkomaisia ​​ostajia tuotteiden valinnassa, räätälöinnissa, laaduntarkastuksessa, pakkaamisessa ja toimituksen koordinoinnissa.",
+    "facts": [
+      {
+        "title": "Kokea",
+        "desc": "Yli 15 vuotta teollisuuskaasupullojen toimittamisesta."
+      },
+      {
+        "title": "Tuotanto",
+        "desc": "Muotoilu, hitsaus, testaus ja viimeistely talon sisällä."
+      },
+      {
+        "title": "Laatu",
+        "desc": "ISO 9809, DOT ja TPED vaihtoehdot markkinoiden mukaan."
+      },
+      {
+        "title": "Viedä",
+        "desc": "Toimitukset koordinoitu yli 50 kohdemarkkinoille."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Tehtaamme sisällä",
+    "subtitle": "Tuotanto, hitsaus, testaus, maalaus ja valmiit sylinterit – miten valmistelemme vientitilauksia.",
+    "items": [
+      {
+        "title": "Valmis sylinterivarasto",
+        "desc": "Valmis varasto tehtaallamme – volyymikapasiteettia tukku- ja vientitilauksiin."
+      },
+      {
+        "title": "Tuotantohitsaus",
+        "desc": "Metallivalmistus tehtaan kerroksessa teollisuuskaasun toimituksella."
+      },
+      {
+        "title": "Vientipakkaukset",
+        "desc": "Suojaverkko ja lavapakkaus ennen kansainvälistä lähetystä."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Bulkkisylinterien toimitus",
+        "desc": "Kiinnitä häkkikuormat maantiekuljetuksia varten jakelijoille ja tehtaille."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Sylinterin kokoalue",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Laadunvalvonta",
+    "subtitle": "Jokainen erä seuraa samaa reittiä: tuotanto, testaus, tarkastus ja lopullinen laadunvalvonta.",
+    "steps": [
+      {
+        "title": "Tuotanto",
+        "desc": "Muotoilu, hitsaus ja kokoonpano tehtaan prosessiohjauksessa."
+      },
+      {
+        "title": "Testaus",
+        "desc": "Paine- ja vuototestit ennen kuin sylinterit poistuvat linjasta."
+      },
+      {
+        "title": "Tarkastus",
+        "desc": "Visuaaliset, merkinnät ja mittojen tarkastukset tilaukseen nähden."
+      },
+      {
+        "title": "Lopullinen laadunvalvonta",
+        "desc": "Pakkauksen tarkastus ennen vientilähetystä."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Usein kysytyt kysymykset",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Etkö löytänyt kysymystäsi? Lähetä tuote, koko, määrä ja kohdemaa – vastaamme yksityiskohtaisella tarjouksella.",
+    "ctaBtn": "Pyydä tarjous",
+    "groups": [
+      {
+        "title": "Yritys",
+        "items": [
+          {
+            "q": "Oletko kaasupullojen valmistaja?",
+            "a": "Kyllä. Wanda Group on erikoistunut valmistamaan kaasupulloja ja niihin liittyviä teollisuuskaasunsyöttöratkaisuja ulkomaisille teollisuusostijoille."
+          },
+          {
+            "q": "Mitä tuotteita toimitat pääasiassa?",
+            "a": "Toimitamme asetyleenisylintereitä, propaanisylintereitä, asetyleenigeneraattoreita ja kaasupullojen lisävarusteita, kuten venttiilejä, säätimiä, letkuja, painemittareita ja polttimia."
+          },
+          {
+            "q": "Voitko tukea OEM-räätälöintiä?",
+            "a": "Kyllä. Sylinterin väristä, merkinnöistä, venttiilistä, korkista ja pakkausvaihtoehdoista voidaan keskustella tilauksen ja kohdemarkkinoiden mukaan."
+          },
+          {
+            "q": "Tuetko ulkomaisia ​​ostajia?",
+            "a": "Kyllä. Tuemme vientiä, tuotevalintaa, pakkausvaatimuksia, dokumentointia ja toimituskoordinointia."
+          },
+          {
+            "q": "Kuinka saan tarjouksen?",
+            "a": "Ilmoita tuotteen tyyppi, sylinterin koko, määrä, kohdemaa ja räätälöintivaatimukset kyselylomakkeella tai sähköpostitse. Tiimimme vastaa ja toimittaa tuotetiedot ja tarjouksen."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Voinko katsoa tehdasvideoita ennen tilauksen tekemistä?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Tarjoatko tuotevideoita, erityisesti asetyleenisylintereistä?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Voitko näyttää videoita tuotannosta ja laadunvalvonnasta?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Voinko pyytää tiettyä tilausta varten tehdyn tuotevideon?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Ratkaisut",
+        "items": [
+          {
+            "q": "Mitä kaasupulloratkaisuja tarjoatte?",
+            "a": "Tarjoamme ratkaisuja hitsaukseen ja leikkaukseen, kaasun jakeluun, teolliseen varastointiin, asetyleenin tuotantoon, OEM-toimitukseen ja vientiostoihin."
+          },
+          {
+            "q": "Voitteko suositella tuotteita sovellukseeni?",
+            "a": "Kyllä. Lähetä hakemuksesi, sylinterin koko, määrä, kohdemaa ja tarvittavat lisävarusteet – suosittelemme sopivia tuotteita."
+          },
+          {
+            "q": "Toimitatko tarvikkeet sylintereiden kanssa?",
+            "a": "Kyllä. Voimme toimittaa paineensäätimet, letkut, mittarit, leikkauspolttimet, hitsauspolttimet, venttiilit ja liittimet yhdessä sylintereiden kanssa."
+          },
+          {
+            "q": "Voitko toimittaa kaasupulloja OEM-ostajille?",
+            "a": "Kyllä. Sylinterin väri, merkintä, venttiili, korkki, logo ja pakkaus voidaan keskustella tilauksen mukaan."
+          }
+        ]
+      },
+      {
+        "title": "Tuotteet",
+        "items": [
+          {
+            "q": "Mihin liuennutta asetyleenisylinteriä käytetään?",
+            "a": "Liuotettuja asetyleenisylintereitä käytetään laajalti hitsaukseen, leikkaamiseen, juottamiseen, metallien valmistukseen ja teollisuuskaasun syöttöön."
+          },
+          {
+            "q": "Mitä sylinterikokoja voit toimittaa?",
+            "a": "Eri määristä ja kapasiteeteista voidaan keskustella kohdemarkkinoistasi, sovelluksestasi ja tilausmäärästäsi riippuen. Vahvista määrittämällä vaadittu koko tai paikallinen standardi."
+          },
+          {
+            "q": "Voiko sylinterin väriä, venttiiliä ja merkintää muuttaa?",
+            "a": "Kyllä. Sylinterin väri, venttiili, korkki, merkintä, etiketti ja vientipakkaus voidaan tehdä tilauksesta."
+          }
+        ]
+      },
+      {
+        "title": "Tarvikkeet",
+        "items": [
+          {
+            "q": "Mitä lisävarusteita toimitat?",
+            "a": "Toimitamme takaiskusuojat, painemittarit, varoventtiilit, happiletkut, letkunkiristimet, leikkauspolttimet, hitsauspolttimet, suodattimet, adapterit ja muut kaasupullojen tarvikkeet."
+          },
+          {
+            "q": "Voidaanko kaasupullojen lisävarusteita räätälöidä?",
+            "a": "Kyllä. Voimme muokata logoa, pakkausta, liitoskokoa, kierretyyppiä, painealuetta ja teknisiä tietoja."
+          },
+          {
+            "q": "Voiko lisävarusteita tilata kaasupullojen kanssa?",
+            "a": "Kyllä. Tarvikkeet voidaan toimittaa yhdessä asetyleenisylintereiden, propaanisylintereiden ja asetyleenigeneraattoreiden kanssa."
+          },
+          {
+            "q": "Tuetko OEM-pakkausta?",
+            "a": "Kyllä. Tukkutilauksia varten voimme toimittaa OEM-merkinnät, laatikot, pussit ja tuoteetiketit."
+          },
+          {
+            "q": "Voitko antaa tuotekuvia ja teknisiä tietoja?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Kuinka saan tarjouksen lisävarusteista?",
+            "a": "Ilmoita tuotteen nimi, määrä, liitännän koko, käyttöpaine, pakkausvaatimukset ja kohdemaa tai satama."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Uusimmat artikkelit",
+    "subtitle": "Asiantuntevaa sisältöä hitsauksen ja kaasuntoimituksen ammattilaisille.",
+    "readMore": "Lue lisää →",
+    "close": "Lähellä",
+    "items": [
+      {
+        "tag": "Käsityöläiset",
+        "title": "Täydellinen propaanisylinterin syöttöratkaisu",
+        "desc": "Laitteen vakaus vaikuttaa suoraan hitsaus- ja leikkaustyön tehokkuuteen.",
+        "body": [
+          "Joka päivä metallia hitsaaville, korjaaville ja valmistaville käsityöläisille vakaat kaasulaitteet vaikuttavat suoraan työn laatuun ja nopeuteen.",
+          "Wanda Groupin propaanisylintereitä on saatavilla 3-50 litraa POL-, CGA 510- tai GOST-venttiileillä markkina-alueen mukaan – yksi toimittaja hitsaukseen, leikkaukseen ja lämmitykseen.",
+          "Suosittelemme tilaamaan sylinterit yhdessä säätimien, letkujen ja polttimien kanssa. Toimituspaketti vähentää logistiikkakustannuksia ja varmistaa lisävarusteiden yhteensopivuuden.",
+          "Tilauksen yhteydessä ilmoita kohdemarkkinat, tilavuus, venttiilin tyyppi ja väri – valmistelemme OEM-merkinnät ja vientipakkaukset sinun tuotemerkilläsi."
+        ]
+      },
+      {
+        "tag": "Varastointi",
+        "title": "Pitkän aikavälin asetyleenisylinterin säilytysvinkit",
+        "desc": "Varastointiolosuhteet, sijoitusmenetelmät ja säännölliset tarkastukset käyttämättömien sylinterien varalta.",
+        "body": [
+          "Monet yritykset varastoivat asetyleeni- ja propaanipulloja tuotantotaukojen aikana tai varastona. Käyttämättömät sylinterit vaativat edelleen asianmukaista käsittelyä.",
+          "Säilytä sylinterit pystyasennossa hyvin ilmastoidussa tilassa poissa lämmönlähteistä ja suorasta auringonpaisteesta. Säilytyslämpötila ei saa tyypillisesti ylittää 40-50 °C.",
+          "Tarkasta venttiilit, korkit ja merkinnät vähintään neljännesvuosittain. Pidä sylinterit pystysuorassa asetyleenin pitkäaikaista varastointia varten äläkä koskaan salli kallistamista.",
+          "Wanda Group toimittaa sylintereitä suojakorkilla ja vientipakkauksilla, jotka on suunniteltu turvalliseen kuljetukseen ja varastointiin. Varastointioppaat ovat saatavilla omalla kielelläsi pyynnöstä."
+        ]
+      },
+      {
+        "tag": "Hinnoittelu",
+        "title": "Budjettiopas asetyleenisylinterien ostamiseen",
+        "desc": "Kustannuksiin vaikuttavat tekijät ja optimaalisen tarjouksen valinta.",
+        "body": [
+          "Asetyleenisylinterin hinta riippuu tilavuudesta (2L–40L), venttiilityypistä, sertifioinnista (ISO, DOT, TPED) ja tilausmäärästä. Ohjeelliset EXW-hinnat: WG-10 $28-35, WG-25 $45-58 per yksikkö.",
+          "Isommat erät (200-500+ kpl) saavat mielekkäitä alennuksia. OEM-maalaus, logo ja erikoispakkaukset lisäävät 5–15 % perushintaan, mutta lisäävät arvoa jakelijoille.",
+          "Ota huomioon myös toimitus (FOB/CIF), asiakirjat ja MOQ. Vastaamme 24 tunnin sisällä täydellisellä eritelmällä, toimitusajalla ja Incotermsillä.",
+          "Jos haluat tarkan tarjouksen, sisällytä malli, määrä, kohdemaa ja venttiilivaatimukset yhteydenottolomakkeeseen – tai lähetä sähköpostia sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pyydä tarjous",
+    "subtitle": "Kerro meille koko, määrä, kohdemaa ja sovellus – teemme yksityiskohtaisen tarjouksen.",
+    "formTitle": "Pyydä tarjous",
+    "formSubtitle": "Jätä vaatimukset – myyntitiimimme vastaa tuotetiedoilla, hinnoittelulla, MOQ:lla ja toimitusajalla.",
+    "name": "Nimi",
+    "phone": "Puhelin / WhatsApp",
+    "email": "Sähköposti",
+    "product": "Tuote",
+    "quantity": "Määrä",
+    "country": "Kohdemaa",
+    "productOptions": [
+      "Asetyleeni sylinteri",
+      "Propaani sylinteri",
+      "Asetyleenin generaattori",
+      "Tarvikkeet",
+      "Pakettitilaus"
+    ],
+    "message": "Lisävaatimukset",
+    "messagePlaceholder": "Tuote, koko, määrä, kohdemaa...",
+    "submit": "Lähetä kysely",
+    "sending": "Lähetetään...",
+    "success": "Kiitos! Otamme sinuun yhteyttä pian.",
+    "sendAnother": "Lähetä toinen kysely",
+    "errorGeneric": "Lähetys epäonnistui. Yritä uudelleen tai lähetä meille sähköpostia.",
+    "errorNoForm": "Lomaketta ei ole määritetty. Lähetä sähköpostia sales@wandagroups.com",
+    "privacyPrefix": "Olen samaa mieltä",
+    "privacySuffix": "ja henkilötietojeni käsittelyyn tämän kyselyn käsittelemiseksi.",
+    "privacyLink": "Tietosuojakäytäntö",
+    "company": "Yritys",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Lähetä sähköpostisovelluksen kautta"
+  },
+  "footer": {
+    "company": "Wanda Groupin kaasupullojen valmistaja",
+    "tagline": "Ammattimainen kaasupullojen valmistus",
+    "rights": "© 2026 Wanda Group. Kaikki oikeudet pidätetään.",
+    "privacy": "Tietosuojakäytäntö"
+  },
+  "ui": {
+    "catalog": "Luettelo",
+    "catalogTitle": "Yksityiskohtaiset tuotetiedot",
+    "catalogSubtitle": "Täydelliset tekniset tiedot, mallit ja parametrit jokaisesta luokasta. Valitse tuote nähdäksesi tekninen taulukko.",
+    "requestPrice": "Pyydä hinta tälle mallille",
+    "services": "Palvelut",
+    "pricing": "Hinnoittelu",
+    "getExactQuote": "Hanki tarkka tarjous",
+    "certifications": "Sertifikaatit",
+    "order": "Tilata",
+    "reviews": "Arvostelut",
+    "contact": "Ota yhteyttä",
+    "phone": "Puhelin",
+    "location": "Sijainti",
+    "quoteResponse": "Lainaus vastaus",
+    "support": "Tukea",
+    "exportReady": "Vienti valmis",
+    "years": "Vuosia",
+    "acetylene": "Asetyleeni",
+    "isoCertified": "ISO sertifioitu",
+    "globalExport": "Maailmanlaajuinen vienti",
+    "products": "Tuotteet",
+    "specs": "Tekniset tiedot",
+    "applications": "Sovellukset",
+    "whyUs": "Miksi Me",
+    "about": "Tietoja meistä",
+    "gallery": "Galleria",
+    "quality": "Laatu",
+    "faq": "FAQ",
+    "blog": "Blogi",
+    "countriesServed": "Palvelivat maat",
+    "searchLanguage": "Hae kieli...",
+    "noLanguagesFound": "Kieliä ei löytynyt"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Vienti yli 50 maahan",
+    "MOQ alkaen 100 kpl",
+    "Toimitusaika 15-25 päivää"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Asetyleeni",
+      "propane": "Propaani",
+      "generator": "Generaattori",
+      "accessories": "Tarvikkeet"
+    },
+    "acetylene": {
+      "title": "Liuenneet asetyleenisylinterit",
+      "intro": "Terässylinterit huokoisella massalla ja liuottimella turvalliseen asetyleenin varastointiin ja kuljetukseen. Käytetään hitsauksessa, leikkauksessa, juottamisessa ja metallien valmistuksessa.",
+      "features": [
+        "Huokoinen massa + asetoni vakaaseen varastointiin",
+        "CGA 510 / GOST / DIN venttiilit tilauksesta",
+        "Hydraulinen koepaine 5,2 MPa",
+        "RAL-maalaus, leimaus ja OEM-etiketit",
+        "Vientilavapakkaukset"
+      ],
+      "tableTitle": "Tavalliset asetyleenisylinterimallit",
+      "headers": [
+        "Malli",
+        "Tilavuus (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Paino (kg)",
+        "Korkeus (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Tarkat parametrit riippuvat standardista (ISO/DOT/GB) ja venttiilikokoonpanosta. Pyydä tuotetiedot markkinallesi."
+    },
+    "propane": {
+      "title": "Propaani- ja nestekaasusylinterit",
+      "intro": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+      "features": [
+        "37Mn/34CrMo4 teräs ISO 9809 mukaan",
+        "Käyttöpaine 1,8-2,1 MPa",
+        "POL, CGA 510, GOST venttiilit",
+        "Jauhemaalaus, korroosionesto",
+        "Sertifikaatit EU:n, Yhdysvaltojen ja IVY-maiden markkinoille"
+      ],
+      "tableTitle": "Tavalliset propaanisylinterimallit",
+      "headers": [
+        "Malli",
+        "Tilavuus (L)",
+        "Kaasu (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Paino (kg)",
+        "Korkeus (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Hinnoittelu ja MOQ riippuvat tilausmäärästä ja venttiilityypistä. Lähetä tiedustelu tarkan tarjouksen saamiseksi."
+    },
+    "generator": {
+      "title": "Asetyleenigeneraattorit",
+      "intro": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria.",
+      "features": [
+        "Teho 3–100 m³/h",
+        "Automaattinen veden ja kovametallin syöttö",
+        "Turvajärjestelmä ja suodatus",
+        "Kompaktit ja teolliset mallit",
+        "Täydellinen dokumentaatio ja koulutus"
+      ],
+      "tableTitle": "Asetyleenigeneraattorimallit",
+      "headers": [
+        "Malli",
+        "Teho (m³/h)",
+        "Karbidi (kg/h)",
+        "Paine (kPa)",
+        "Teho (kW)",
+        "Paino (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generaattorit toimitetaan jäähdytysjärjestelmällä, suodattimilla ja varaosasarjalla pyynnöstä."
+    },
+    "accessories": {
+      "title": "Sylinterin tarvikkeet ja varusteet",
+      "intro": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä.",
+      "features": [
+        "Säätimet ja mittarit (CGA/GOST/DIN)",
+        "Korkeapaineletkut",
+        "Leikkauspolttimet ja hitsauspolttimet",
+        "Paineenalennusventtiilit",
+        "Kärryt, telineet, korkit"
+      ],
+      "tableTitle": "Tarvikeluettelo",
+      "headers": [
+        "Luokka",
+        "Mallit",
+        "Vakio",
+        "Sovellus"
+      ],
+      "rows": [
+        [
+          "Sääntelyviranomaiset",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Asetyleeni, propaani"
+        ],
+        [
+          "Mittarit",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Paineen seuranta"
+        ],
+        [
+          "Letkut",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Hitsaus, leikkaus"
+        ],
+        [
+          "taskulamput",
+          "WG-C100, WG-C300",
+          "—",
+          "Plasma/oksileikkaus"
+        ],
+        [
+          "Polttimet",
+          "WG-T200, WG-T500",
+          "—",
+          "Hitsaus, juotto"
+        ],
+        [
+          "Venttiilit",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Kaikki sylinterityypit"
+        ]
+      ],
+      "note": "* Lisävarusteet saatavana erikseen tai sylintereiden mukana. Alennus yhdistetyistä tilauksista."
+    }
+  },
+  "services": {
+    "title": "Palvelumme",
+    "subtitle": "Koko sykli – valmistuksesta toimitukseen varastossasi. Teemme yhteistyötä jakelijoiden, OEM-merkkien ja projektiostajien kanssa.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Räätälöity valmistus (OEM/ODM)",
+        "desc": "Sylinterit merkilläsi, värilläsi ja merkinnälläsi.",
+        "points": [
+          "Logo & RAL väri",
+          "Markkinastandardi venttiili",
+          "OEM-pakkaukset ja etiketit"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Vienti & Logistiikka",
+        "desc": "Täydellinen kansainvälisten lähetysten tuki.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Vientiasiakirjat",
+          "Meri- ja rautatierahti"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Laadunvalvonta",
+        "desc": "Testaus ja tarkastus jokaisessa vaiheessa.",
+        "points": [
+          "Hydrostaattiset testit",
+          "UT-hitsauksen tarkastus",
+          "SGS/BV-tarkastus pyynnöstä"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertifiointi",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS ja laatusertifikaatti",
+          "Alkuperätodistus"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Tekninen tuki",
+        "desc": "Apua tuotteiden valinnassa ja konfiguroinnissa.",
+        "points": [
+          "Markkinaperusteinen valinta",
+          "MOQ ja läpimenoajan laskenta",
+          "Henkilökunnan koulutus"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Paketin tarjonta",
+        "desc": "Sylinterit + tarvikkeet yhdellä tilauksella.",
+        "points": [
+          "Yksittäinen sopimus",
+          "Koordinoitu toimitus",
+          "Paketin alennus"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Hinnoittelu ja toimitusehdot",
+    "subtitle": "B2B-hankintojen selkeät ehdot. Tarkka hinta lasketaan yksilöllisesti – lähetä tiedustelu, vastaamme 24 tunnin kuluessa.",
+    "note": "Esitetyt hinnat ovat suuntaa-antavia (EXW). Lopullinen hinta riippuu tilavuudesta, venttiilityypistä, sertifioinnista ja toimitusehdoista.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "alkaen 100 kpl",
+        "desc": "Minimitilaus per malli"
+      },
+      {
+        "label": "Toimitusaika",
+        "value": "15-25 päivää",
+        "desc": "Tilausvahvistuksen jälkeen"
+      },
+      {
+        "label": "Maksu",
+        "value": "T/T 30/70",
+        "desc": "30% talletus, 70% ennen lähetystä"
+      },
+      {
+        "label": "Takuu",
+        "value": "12 kuukautta",
+        "desc": "Valmistusvirheitä vastaan"
+      }
+    ],
+    "factors": {
+      "title": "Hintatekijät",
+      "items": [
+        "Sylinterin tilavuus ja malli (2L – 50L)",
+        "Venttiilin tyyppi (CGA, GOST, DIN, POL)",
+        "Sertifiointistandardi (ISO, DOT, TPED)",
+        "OEM: väri, merkintä, pakkaus",
+        "Tilausmäärä ja Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Asetyleeni WG-10",
+        "moq": "200 kpl",
+        "price": "28-35 dollaria / kpl",
+        "lead": "18 päivää"
+      },
+      {
+        "product": "Asetyleeni WG-25",
+        "moq": "100 kpl",
+        "price": "45-58 dollaria / kpl",
+        "lead": "20 päivää"
+      },
+      {
+        "product": "Propaani WG-P11",
+        "moq": "500 kpl",
+        "price": "12-16 dollaria / kpl",
+        "lead": "15 päivää"
+      },
+      {
+        "product": "Propaani WG-P50",
+        "moq": "100 kpl",
+        "price": "55-72 dollaria / kpl",
+        "lead": "22 päivää"
+      },
+      {
+        "product": "Generaattori WG-G20",
+        "moq": "1 yksikkö",
+        "price": "$3,500–4,200",
+        "lead": "25 päivää"
+      },
+      {
+        "product": "Säädinsarja",
+        "moq": "50 kpl",
+        "price": "8-15 dollaria / kpl",
+        "lead": "10 päivää"
+      }
+    ],
+    "tableHeaders": [
+      "Tuote",
+      "MOQ",
+      "Hinta (EXW)",
+      "Toimitusaika"
+    ]
+  },
+  "certifications": {
+    "title": "Sertifikaatit ja standardit",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Saumattomat teräskaasupullot – tekniset vaatimukset"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Liuenneet asetyleenisylinterit"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Yhdysvaltain markkinoiden sertifiointi"
+      },
+      {
+        "name": "TPED",
+        "desc": "Euroopan liikennedirektiivi"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Kiinalainen kaasupullostandardi"
+      },
+      {
+        "name": "CE-merkki",
+        "desc": "eurooppalaiset vaatimustenmukaisuusvaatimukset"
+      }
+    ]
+  },
+  "process": {
+    "title": "Kuinka tilata",
+    "subtitle": "Yksinkertainen prosessi tiedustelusta sylintereihin varastossasi.",
+    "steps": [
+      {
+        "title": "Lähetä kysely",
+        "desc": "Määritä tuote-, tilavuus-, maa- ja venttiilivaatimukset"
+      },
+      {
+        "title": "Vastaanota tarjous",
+        "desc": "Hinta, MOQ, toimitusaika ja tekniset tiedot 24 tunnin sisällä"
+      },
+      {
+        "title": "Vahvista tilaus",
+        "desc": "Sopimuksen allekirjoittaminen ja 30 % talletusmaksu"
+      },
+      {
+        "title": "Tuotanto ja laadunvalvonta",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Lähetys",
+        "desc": "Pakkaus, asiakirjat, FOB/CIF/DDP toimitus"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "hitsaus",
+        "eyebrow": "Asetyleenisylinterit",
+        "title": "Vakaa liekki tarkkuushitsaukseen",
+        "text": "Liuenneet asetyleenisylinterit, jotka on suunniteltu jatkuvaan hitsaukseen ja juottamiseen – tasainen paine, turvallinen huokoinen massa, vientivalmiit venttiilit.",
+        "points": [
+          "ISO / DOT / GB vaihtoehdot",
+          "CGA / GOST / DIN venttiilit",
+          "OEM-väri ja merkintä"
+        ]
+      },
+      {
+        "id": "leikkaus",
+        "eyebrow": "Leikkaus & valmistus",
+        "title": "Tehoa, kun metallin täytyy liikkua",
+        "text": "Suurivirtausasetyleeni- ja happivalmiit sylinterisarjat telakoille, konepajoille ja raskaille tuotantolinjoille.",
+        "points": [
+          "Nopea lävistys ja leikkaus",
+          "Taskulamppuvalmiit sarjat",
+          "Bulkki MOQ ystävällinen"
+        ]
+      },
+      {
+        "id": "propaani",
+        "eyebrow": "Propaani & nestekaasu",
+        "title": "Kestävät nestekaasusylinterit kaikille markkinoille",
+        "text": "Lämmitys- ja keittokaasusta teollisuusleikkaukseen – terässylinterit, jotka on valmistettu painetta, pinnoitusta ja pitkää käyttöikää varten.",
+        "points": [
+          "3L-50L valikoima",
+          "POL / CGA venttiilit",
+          "Puuterimaalaus"
+        ]
+      },
+      {
+        "id": "tehdas",
+        "eyebrow": "Valmistus",
+        "title": "Tehdasohjaus teräksestä lähetykseen",
+        "text": "Talon sisäinen muovaus, hitsaus, hydrostaattinen testaus ja viimeistely – joten jokainen erä vastaa piirustus- ja markkinastandardiasi.",
+        "points": [
+          "Hydrostaattinen testattu",
+          "Jäljitettävät erät",
+          "OEM / ODM valmis"
+        ]
+      },
+      {
+        "id": "laatu",
+        "eyebrow": "Laatu & turvallisuus",
+        "title": "Tarkastuksen voit laittaa tarjoukseen",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Paine- ja vuototestit",
+          "Certificate package",
+          "Kuvia ennen toimitusta"
+        ]
+      },
+      {
+        "id": "viedä",
+        "eyebrow": "Maailmanlaajuinen vienti",
+        "title": "Pakattu satamiin, valmiina yli 50 maahan",
+        "text": "Vie lavat, venttiilisuojat, monikieliset etiketit ja lähetysasiakirjat, jotka on koordinoitu Incoterms-kohteeseen.",
+        "points": [
+          "FOB / CIF-tuki",
+          "Lavattu pakkaus",
+          "Toimitusaika 15-25 päivää"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Teollisuuskaasupullot valmiina tehtaalla",
+    "about": "Vientivalmis sylinterivarasto suojapakkauksella",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Valmis sylinterivarasto tehtaalla",
+      "Tuotantohitsaus tehtaan lattialla",
+      "Vientipakkaukset suojaverkolla",
+      "Propane cylinders ready for dispatch",
+      "Bulkkisylinterien toimitus kuorma-autolla",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Tarvikkeet",
+    "title": "Tuotteen tarvikkeet",
+    "subtitle": "Osat asetyleenisylintereihin, generaattoreihin, hitsaukseen ja leikkaukseen. Avaa Details nähdäksesi tekniset tiedot ja sovellukset.",
+    "cta": "Pyydä lisätietoja",
+    "details": "Yksityiskohdat",
+    "close": "Lähellä",
+    "featuresLabel": "Tärkeimmät ominaisuudet",
+    "specsLabel": "Tekniset tiedot",
+    "applicationsLabel": "Sovellukset",
+    "qualityLabel": "Laatu & tarjonta",
+    "whyTitle": "Miksi valita lisävarusteemme?",
+    "why": [
+      "Kestävää messinkiä, ruostumatonta terästä ja teollisuuslaatuisia materiaaleja",
+      "Yhteensopiva sylintereiden, generaattoreiden, säätimien, letkujen ja hitsausjärjestelmien kanssa",
+      "OEM-logo, pakkaus, liitoskoko, kierretyyppi ja tekniset tiedot",
+      "Vientipakkaus ja vakaa tarjonta kansainvälisille ostajille"
+    ],
+    "items": [
+      {
+        "title": "Asetyleenipalautusventtiili",
+        "desc": "Estää käänteisen kaasun virtauksen ja liekin takaiskun happi-asetyleenihitsaus- ja -leikkausjärjestelmissä.",
+        "intro": "Olennainen turvalaite asetyleenijärjestelmille. Sisäänrakennettu sintrattu ruostumaton liekinsammutin ja yksisuuntainen virtausrakenne suojaavat käyttäjiä, letkuja ja kaasulinjoja. Yhteensopiva säätimien, letkujen ja polttimien kanssa. OEM-logo, etiketti ja pakkaus saatavilla.",
+        "features": [
+          "Liekkiä pysäyttävä sintrattu ruostumaton sisäosa",
+          "Paluusuuntainen (yksisuuntainen) virtaussuunnittelu",
+          "Erittäin luja messinkirunko, korroosionkestävä",
+          "Luotettava tiivistys käyttöpaineessa",
+          "Vakioliitännät nopeaa asennusta ja vaihtoa varten"
+        ],
+        "specs": [
+          "Kaasu: asetyleeni (C2H2); hapensammuttimet toimitetaan erikseen",
+          "Runko: messinki; pysäytin: ruostumaton teräs",
+          "Liitäntä: G 3/8″ LH tai räätälöity kierre",
+          "Työpaine: jopa 1,5 MPa / räätälöity",
+          "Käyttö: happi-asetyleenihitsaus, -leikkaus ja -lämmitys",
+          "Pakkaus: yksittäinen laatikko, laatikko tai mukautettu"
+        ],
+        "applications": [
+          "Happi-asetyleenihitsaus ja -leikkaus",
+          "Säätimet, letkut ja poltinkokoonpanot",
+          "Asetyleenigeneraattorin kaasulinjat"
+        ],
+        "quality": [
+          "100 % tarkastus ennen lähetystä",
+          "Tiiviste-, paine- ja takaiskutoimintotestit",
+          "Vientipakkaus pitkän matkan toimitukseen"
+        ]
+      },
+      {
+        "title": "Asetyleenigeneraattorisäiliö",
+        "desc": "Sydänkapseli vakaaseen asetyleenin tuottamiseen kalsiumkarbidista teollisuuskaasujärjestelmissä.",
+        "intro": "Generaattorikapseli on asetyleenin tuotantojärjestelmän pääastia. Se toimitetaan vakaaseen kaasuntuotantoon hitsauksessa, leikkauksessa ja työmailla ilman keskitettyä kaasupullon syöttöä. Kapasiteetti, putkistot ja turvaverhoilu voidaan sovittaa generaattorimalliin.",
+        "features": [
+          "Ydinsäiliö asetyleenigeneraattorijärjestelmille",
+          "Rakennettu vakaaseen kaasuntuotantoon kalsiumkarbidista",
+          "Voidaan yhdistää suodatus- ja varoventtiilien kanssa",
+          "Teolliset ja kompaktit generaattoriasettelut",
+          "OEM-merkintä, liitännät ja pakkaus tilauksesta"
+        ],
+        "specs": [
+          "Rooli: generaattorikapselin / säiliön kokoonpano",
+          "Generaattorien tyypillinen tehoalue: 3–100 m³/h",
+          "Liitännäisten yksiköiden käyttöpaine: noin 1,5–5 kPa",
+          "Toimitetaan jäähdytyksellä, suodattimilla ja varaosilla pyynnöstä",
+          "Liitännät, kapasiteetti ja trimmi vahvistetaan tilauskohtaisesti"
+        ],
+        "applications": [
+          "Asetyleenigeneraattorilaitokset ja kannettavat yksiköt",
+          "Työpajat ilman keskitettyä sylinterin syöttöä",
+          "Teollinen hitsaus- ja leikkauskaasun tuotanto"
+        ],
+        "quality": [
+          "Tehdassovitus generaattorimalliin",
+          "Vientipakkaus ja dokumentaatio",
+          "Kapasiteetti ja yhteystiedot vahvistetaan ennen toimitusta"
+        ]
+      },
+      {
+        "title": "Leikkaus taskulamppu",
+        "desc": "Kestävä happi-asetyleenileikkauspoltin tarkalle leikkaukselle, vakaalle liekille ja korkealle tuottavuudelle.",
+        "intro": "Ammattimainen asetyleenileikkauspoltin puhtaaseen ja tarkaan leikkaukseen. Messinkirunko, jossa ruostumattomat putket, ergonominen kahva ja vaihdettavat suuttimet. Yhteensopiva asetyleenin ja hapen kanssa sekä vakiokärkien kanssa.",
+        "features": [
+          "Ensiluokkainen messinki ja ruostumaton rakenne",
+          "Vakaa liekki ja tarkka leikkaushallinta",
+          "Turvallisuuteen keskittyvä muotoilu vähentää takasytytysriskiä",
+          "Ergonominen kahva, helppo koota ja huoltaa",
+          "Toimii tavallisten suuttimien, kärkien ja letkusarjojen kanssa"
+        ],
+        "specs": [
+          "Malli: CT-01 leikkauspoltin",
+          "Kaasu: asetyleeni + happi",
+          "Leikkauspaksuus: 3-300 mm (suuttimesta ja paineesta riippuen)",
+          "Käyttöpaine: C₂H₂ 0,02–0,15 MPa; O₂ 0,2-1,0 MPa",
+          "Liitin: G5/8-14 tai räätälöity",
+          "Pituus: n. 460 mm",
+          "Pakkaus: 1 kpl/laatikko, 10 kpl/laatikko"
+        ],
+        "applications": [
+          "Hiiliteräslevyn, putkien ja profiilien leikkaus",
+          "Valmistusliikkeet, telakat ja rakentaminen",
+          "Teollisuushuolto ja paikan päällä leikkaus"
+        ],
+        "quality": [
+          "100 % tarkastus ennen toimitusta",
+          "Ulkonäkö, liitännät, tiivisteet ja toimintatarkastukset",
+          "Vientipakkaus pitkän matkan kuljetukseen"
+        ]
+      },
+      {
+        "title": "Sisäinen/ulkoinen kierrekulmaventtiili",
+        "desc": "Raskaaseen käyttöön tarkoitettu sylinterikulmaventtiili sisä- tai ulkokierteellä markkinoiden standardien mukaan.",
+        "intro": "Kulmaventtiilit asetyleenille ja muille teollisuuskaasuille: vankka messinkirunko, tarkka tiivistys ja pehmeä käsipyörän toiminta. Sisä- tai ulkokierteet vastaavat sylinteri- ja laitestandardeja.",
+        "features": [
+          "Kestävä messinkirunko, korroosionkestävä",
+          "Erittäin tarkka koneistus luotettavaan tiivistykseen",
+          "Sisä- tai ulkokierreliitäntävaihtoehdot",
+          "Ergonominen käsipyörä helpottaa avaamista/sulkemista",
+          "100 % turvallisuuden ja toiminnan tarkastus"
+        ],
+        "specs": [
+          "Kaasu: asetyleeni, happi, argon, typpi ja yhteensopivat kaasut",
+          "Käyttöpaine: 25 / 35 bar luokka",
+          "Koepaine: luokka 37,5 / 52,5 bar",
+          "Tulo/poisto: sisäinen tai ulkoinen, räätälöity",
+          "Käsipyörä: alumiini/sinkkiseos",
+          "Lämpötila: -20 °C - +60 °C",
+          "Standardit: ISO 10297, GB/T 8335, CGA tai mukautettu",
+          "Pakkaus: 1 kpl/pussi, 50 kpl/laatikko"
+        ],
+        "applications": [
+          "Asetyleeni- ja teollisuuskaasupullot",
+          "Kaasujärjestelmien hitsaus ja leikkaus",
+          "Työpajat, tehtaat ja laboratoriokaasun toimitus"
+        ],
+        "quality": [
+          "Materiaali-, koneistus-, vuoto- ja ulkonäkötarkastukset",
+          "Vientipakkaus pitkän matkan kuljetuksiin",
+          "Kierrekoko ja standardi vahvistetaan markkinakohtaisesti"
+        ]
+      },
+      {
+        "title": "Happiletkun puristin",
+        "desc": "Ruostumattomasta teräksestä valmistettu kierukkapuristin turvallisiin, vuotamattomiin happi- ja teollisuusletkuliitäntöihin.",
+        "intro": "Ruostumattomasta teräksestä valmistetut happiletkunkiristimet hitsaukseen ja teollisuuskäyttöön. Vahva puristusvoima, ruosteenkestävyys ja letkuystävälliset reunat. Uudelleenkäytettävä ja helppo asentaa.",
+        "features": [
+          "Ruostumaton teräs 201/304",
+          "Vahva puristusvoima ja varma kiinnitys",
+          "Ruosteen, korroosion ja hapettumisenkestävyys",
+          "Sileät nauhareunat suojaavat letkua",
+          "Helppo asentaa, irrottaa ja käyttää uudelleen"
+        ],
+        "specs": [
+          "Tyyppi: matokäyttöinen letkunkiristin",
+          "Letkualue: 8–100 mm, tilauskoot bulkkiin",
+          "Nauhan leveys: 9 / 12 mm; paksuus 0,6-0,8 mm",
+          "Ruuvi: ura- tai kuusiopää",
+          "Standardit: DIN 3017 / SAE J1508",
+          "Viimeistely: kiillotettu",
+          "Pakkaus: 100 kpl / pussi, 10 pussia / laatikko tai räätälöity"
+        ],
+        "applications": [
+          "Happi- ja polttoaineletkut hitsaukseen ja leikkaamiseen",
+          "Sylinterin, säätimen ja polttimen letkuliitokset",
+          "Tehdas-, konepaja- ja huoltolinjat"
+        ],
+        "quality": [
+          "100 % tarkastus ennen toimitusta",
+          "Koko, nauha ja pakkaus voidaan räätälöidä",
+          "Vie laadukkaita pakkauksia"
+        ]
+      },
+      {
+        "title": "Happiputket",
+        "desc": "Joustava korkeapaineinen happiletku, jolla on pitkä käyttöikä hitsaukseen, leikkaukseen ja teollisuuskaasun syöttöön.",
+        "intro": "Happiputket on tehty turvalliseen kaasunsiirtoon paineen alaisena. Joustava, taittumaton ja kulutusta kestävä, sileällä sisäseinällä vakaan virtauksen takaamiseksi. Useita tunnuksia ja pituuksia hitsaukseen ja sylinteriliitäntöihin.",
+        "features": [
+          "Korkea työ- ja murtopaine",
+          "Joustava, taittumista estävä rakenne",
+          "Vanhenemis-, otsoni- ja kulutuskestävyys",
+          "Sileä sisäseinä takaa vakaan kaasuvirran",
+          "Kevyt ja helppo käsitellä"
+        ],
+        "specs": [
+          "Kaasu: happi",
+          "Käyttöpaine: 20 bar / 290 psi",
+          "Räjähdyspaine: 60 bar / 870 psi",
+          "Tunnus: 6 / 8 / 9 / 10 / 12 / 13 mm (muokattavissa)",
+          "Pituus: 10 / 20 / 30 / 50 / 100 m tai räätälöity",
+          "Väri: sininen standardi; materiaali SBR / EPDM + polyesterilanka",
+          "Standardit: ISO 3821 / EN 559 / GB/T 20098",
+          "Lämpötila: -20 °C - +80 °C"
+        ],
+        "applications": [
+          "Hapen syöttö hitsaukseen ja leikkaukseen",
+          "Sylinterin ja säätimen välinen letkuliitäntä",
+          "Tehtaat, työpajat ja teollisuuskaasulinjat"
+        ],
+        "quality": [
+          "100 % tarkastus ennen toimitusta",
+          "Halkaisija, pituus, väri ja etiketti voidaan mukauttaa",
+          "Vientipakkaus: kutistuva / kudottu pussi / laatikko"
+        ]
+      },
+      {
+        "title": "Painemittari",
+        "desc": "Tarkka painenäyttö hapelle, asetyleenille ja muille teollisuuskaasuille.",
+        "intro": "Asetyleenin, hapen ja teollisuuskaasujen mittarit: selkeä kellotaulu, kestävä rakenne ja vakaat lukemat sylintereistä, säätimistä ja putkista. Useita alueita ja liitäntöjä OEM-ja vientiin.",
+        "features": [
+          "Korkea tarkkuus ja vakaa suorituskyky",
+          "Selkeä valitsin helpottaa lukemista",
+          "Iskunkestävä teollisuusrakenne",
+          "Korroosionkestävät materiaalit",
+          "Useita alueita ja pohja-/takakiinnikkeet"
+        ],
+        "specs": [
+          "Kaasu: asetyleeni, happi, argon, CO₂, typpi ja yhteensopivat kaasut",
+          "Kellotaulu: 50 / 63 / 100 mm, räätälöitynä",
+          "Alue: 0–1 bar – 0–400 bar, mukautettu",
+          "Tarkkuus: ±2,5 % vakio, ±1,6 % valinnainen",
+          "Kierre: G1/4, G1/8, NPT1/4, M12×1,5 tai mukautettu",
+          "Kotelo: musta teräs / ruostumaton valinnainen; liitin messinkiä tai SS",
+          "Ikkuna: lasi tai polykarbonaatti; −20 °C - +60 °C",
+          "Pakkaus: 1 kpl/laatikko, 50 kpl/laatikko"
+        ],
+        "applications": [
+          "Kaasupullot ja paineensäätimet",
+          "Putket ja teollisuuskaasujärjestelmät",
+          "Happi-asetyleenihitsaus- ja -leikkauspaneelit"
+        ],
+        "quality": [
+          "100 % testaus ennen toimitusta",
+          "OEM-valintataulu ja brändäysvaihtoehdot",
+          "Vientipakkaus"
+        ]
+      },
+      {
+        "title": "Turvapaineventtiili",
+        "desc": "Vapauttaa automaattisesti ylipaineen suojellakseen sylintereitä, putkia ja käyttäjiä.",
+        "intro": "Varoventtiilit poistavat ylipaineen automaattisesti laitteiden ja henkilöstön suojaamiseksi. Soveltuu hapelle, asetyleenille, ilmalle, typelle ja yhteensopiville kaasuille. Kompakti messinkirunko, useat paineet ja kierrekoot.",
+        "features": [
+          "Automaattinen ylipainesuojaus",
+          "Vakaa helpotus korkeassa paineessa",
+          "Runko messinkiä, lämmön- ja korroosionkestävä",
+          "Kompakti muotoilu helpottaa asennusta ja huoltoa",
+          "Useita asetettuja paineita ja kierrekokoja"
+        ],
+        "specs": [
+          "Kaasu: happi, asetyleeni, ilma, typpi ja yhteensopivat kaasut",
+          "Työpaine: jopa 25 bar / 25 kg/cm²",
+          "Kevytysalue: 0,1–2,5 MPa, muokattavissa",
+          "Lämpötila: -20 °C - +120 °C",
+          "Yhteys: uros/naaras; 1/4\", 3/8\", 1/2\", 3/4\" BSP/NPT",
+          "Runko: messinki; tiiviste: NBR / PTFE",
+          "Kehonpaineluokka: 25 / 35 bar",
+          "Pakkaus: 1 kpl/laatikko, 50 kpl/laatikko"
+        ],
+        "applications": [
+          "Sylinterin ja jakotukin ylipainesuoja",
+          "Teollisuuden kaasulaitteet ja -putket",
+          "Happi-polttoaineen hitsaus- ja leikkausjärjestelmät"
+        ],
+        "quality": [
+          "100% testaus ennen lähetystä",
+          "Asetettu paine, kierre ja pakkaus voidaan mukauttaa",
+          "Vientipakkaus"
+        ]
+      },
+      {
+        "title": "Hitsauspoltin",
+        "desc": "Ergonominen happipolttoainehitsauspoltin pehmeällä liekinsäädöllä hitsaukseen, juottamiseen ja lämmitykseen.",
+        "intro": "Tehokas hitsauspoltin happi-polttoainetyöhön: vakaa liekki, tarkka ohjaus ja kestävä messinkirunko. Kuparikärjet, vaihdettavat suuttimet ja letkuliitännät työpaja- ja teollisuuskäyttöön.",
+        "features": [
+          "Vakaa liekki hitsaukseen ja metallien korjaukseen",
+          "Tasainen kaasuvirtaus ja tarkka liekinhallinta",
+          "Kestävä messinkirunko, lämmön- ja korroosionkestävä",
+          "Ergonominen kahva mukavaan käyttöön",
+          "Yhteensopiva hapen, asetyleenin ja valinnaisen propaanin kanssa"
+        ],
+        "specs": [
+          "Tyyppi: happi-asetyleenihitsauspoltin",
+          "Runko: messinki; kärki: kupari, vaihdettava",
+          "Letkuliitäntä: G1/4″ tai 9/16″-18 UNF",
+          "Käyttöpaine: O₂ 0,2–1,0 MPa; C2H₂ 0,01–0,15 MPa",
+          "Lämpötila: -20 °C - +60 °C",
+          "Käyttö: hitsaus, juotto, lämmitys; leikkaus vastaavilla kärjillä",
+          "Pakkaus: 1 kpl/laatikko, 10 kpl/laatikko"
+        ],
+        "applications": [
+          "Happi-asetyleenihitsaus ja korjaus",
+          "Juotos, lämmitys ja liittäminen",
+          "Työpajat ja teollisuuden kunnossapito"
+        ],
+        "quality": [
+          "100 % tarkastus ennen toimitusta",
+          "Taskulampputyyli, liitin, pakkaus ja logo voivat olla OEM-tuotteita",
+          "Materiaali-, vuoto- ja ulkonäkötarkastukset"
+        ]
+      },
+      {
+        "title": "Suodattimen muuntimen pää",
+        "desc": "Liittää suodatinelementin säätimeen tai putkistoon tehokkaan kaasun suodatuksen varmistamiseksi.",
+        "intro": "Suodattimen muuntajapää on liitäntä suodatinelementin ja säätimen tai kaasujohdon välillä. Se istuttaa elementin, pitää virtaussuunnan oikeana ja tekee huollosta ja vaihdosta helppoa sylinteri- ja jakelujärjestelmissä.",
+        "features": [
+          "Yhdistää suodatinelementin säätimeen tai putkistoon",
+          "Tukee tehokasta suodatusta kaasuputkessa",
+          "Teollisuus messinki / metallirakenne",
+          "Vakiokierreportit järjestelmän yhteensovittamista varten",
+          "OEM-lanka, koko ja pakkaus pyynnöstä"
+        ],
+        "specs": [
+          "Rooli: suodatinmuunnin / sovitinpää",
+          "Käyttö: säädin-, putki- ja sylinterisuodatinkokoonpanot",
+          "Liitäntäkoko ja kierre vahvistettu tilauksen mukaan",
+          "Yhdistetään suodatinelementtien ja kulhojen kanssa sarjana tarvittaessa"
+        ],
+        "applications": [
+          "Kaasunjakelu ennen säätimiä ja työkaluja",
+          "Sylinteri- ja generaattorisuodatinkokoonpanot",
+          "Työpaja ja teollisuuskaasulinjat"
+        ],
+        "quality": [
+          "Liitäntäkoko vahvistettu ennen tuotantoa",
+          "Vientipakkaus",
+          "Voidaan toimittaa vastaavilla suodatinelementeillä"
+        ]
+      },
+      {
+        "title": "Suodattaa",
+        "desc": "Tehokas suodatin, joka poistaa kosteuden, öljyn ja hiukkaset suojellakseen loppupään laitteita.",
+        "intro": "Poistaa kiinteät hiukkaset, veden, öljyn ja muut epäpuhtaudet kaasuvirrasta laitteiden suojaamiseksi ja käyttöiän pidentämiseksi. Messinkipää, laatuelementti ja vakaa toiminta paineen alaisena. Hapelle, asetyleenille, ilmalle, typelle ja yhteensopiville kaasuille.",
+        "features": [
+          "Tehokas suodatus puhtaaseen kaasuvirtaan",
+          "Poistaa kosteuden, öljyn ja hiukkaset",
+          "Kestävä messinkipää ja metallikulho",
+          "Irrotettava elementti puhdistusta tai vaihtoa varten",
+          "Vakaa toiminta työpaineessa"
+        ],
+        "specs": [
+          "Kaasu: happi, asetyleeni, ilma, typpi ja yhteensopivat kaasut",
+          "Tulopaine: jopa 2,5 MPa",
+          "Käyttöpaine: 0,01–1,6 MPa",
+          "Tarkkuus: 5 / 20 / 50 μm valinnainen",
+          "Liitäntä: G1/4\", G3/8\", G1/2\", G3/4\" valinnainen",
+          "Runko: messinki; elementti: sintrattu pronssi / ruostumaton teräs",
+          "Lämpötila: -20 °C - +60 °C",
+          "Pakkaus: 1 kpl/laatikko, 20 kpl/laatikko"
+        ],
+        "applications": [
+          "Sylinteri-, säädin- ja jakelujärjestelmät",
+          "Tehtaat, työpajat ja teollisuuskaasulinjat",
+          "Puhtaampi virtaus hitsaukseen, leikkaukseen ja laboratorioon"
+        ],
+        "quality": [
+          "100 % tarkastus ennen toimitusta",
+          "Lanka, tarkkuus ja elementti voidaan räätälöidä",
+          "Vientipakkaus"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Laillinen",
+    "title": "Tietosuojakäytäntö",
+    "updated": "Viimeksi päivitetty: 25. elokuuta 2026",
+    "intro": [
+      "Wanda Group (\"me\", \"me\") ylläpitää tätä verkkosivustoa esitelläkseen kaasupulloja, lisävarusteita ja niihin liittyviä vientituotteita sekä vastaanottaakseen kaupallisia tiedusteluja teollisilta ostajilta.",
+      "Tämä käytäntö selittää, mitä henkilötietoja keräämme sivuston kautta, miksi käytämme niitä ja kuinka voit ottaa meihin yhteyttä. Emme julkaise tehdasvideoita tai sertifikaattitiedostoja verkkosivustolla; materiaalit lähetetään pyynnöstä yksityisesti."
+    ],
+    "sections": [
+      {
+        "title": "Kuka on vastuussa",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Mitä tietoja keräämme",
+        "body": [
+          "Kun lähetät kyselylomakkeen, saamme antamasi tiedot: nimi, sähköpostiosoite, puhelinnumero, kohdemaa, tuotetyyppi, määrä ja viesti.",
+          "Sivusto tallentaa myös valitsemasi kielivalintasi selaimeen (localStorage). Emme käytä mainosevästeitä tai myy vierailijaluetteloita."
+        ]
+      },
+      {
+        "title": "Miksi käytämme tietoja",
+        "body": [
+          "Käytämme kyselytietoja vain pyyntöösi vastaamiseen, tarjouksen laatimiseen, pyytämiesi tuotetietojen, videoiden tai sertifikaattien lähettämiseen sekä tilauksen koordinoimiseen, jos aloitamme yhteistyön.",
+          "Oikeusperusta: suostumuksesi, kun valitset lomakkeen valintaruudun, ja oikeutettu etumme vastata B2B-myyntipyyntöihin."
+        ]
+      },
+      {
+        "title": "Kuka vastaanottaa tiedot",
+        "body": [
+          "Viestisi toimitetaan myyntitiimillemme sähköpostitse. Kokoonpanosta riippuen Web3Forms voi käsitellä lomakkeen teknisenä palveluntarjoajana, joka lähettää viestin meille.",
+          "Emme myy henkilötietoja. Voimme jakaa tarvittavan logistiikka-, tarkastus- tai pankkikumppaneiden kanssa vain, jos se on tarpeen sovitun tilauksen toteuttamiseksi."
+        ]
+      },
+      {
+        "title": "Kuinka kauan säilytämme sitä",
+        "body": [
+          "Tiedustelutietoja säilytetään niin kauan kuin on tarpeen pyynnön käsittelemiseksi ja kohtuullisen ajan sen jälkeen myynnin seurantaa ja kirjanpitoa varten, ellet pyydä meitä poistamaan niitä aikaisemmin, mikäli laki sen sallii."
+        ]
+      },
+      {
+        "title": "Sinun oikeutesi",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Turvallisuus ja lapset",
+        "body": [
+          "Ryhdymme kohtuullisiin teknisiin ja organisatorisiin toimenpiteisiin suojellaksemme viestejä siirrettäessä ja postilaatikossamme. Tämä sivusto on tarkoitettu yrityksille, ei lapsille."
+        ]
+      }
+    ],
+    "contactLead": "Kysymyksiä tästä käytännöstä:"
+  }
+}

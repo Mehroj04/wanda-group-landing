@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produkte",
+    "specs": "Spezifikationen",
+    "applications": "Anwendungen",
+    "about": "Um",
+    "gallery": "Galerie",
+    "quality": "Qualität",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "getQuote": "Holen Sie sich ein Angebot",
+    "inquire": "Erkundigen Sie sich →",
+    "services": "Dienstleistungen",
+    "pricing": "Preise",
+    "accessories": "Zubehör",
+    "home": "Startseite",
+    "factory": "Fabrik"
+  },
+  "hero": {
+    "badge": "Hersteller von Gasflaschen",
+    "title": "Zuverlässige Gasflaschen für Industrie und Schweißen",
+    "subtitle": "Die Wanda Group ist ein vertrauenswürdiger Hersteller und Lieferant von Acetylen- und Propanflaschen und Zubehör. Lösungen für die Gasversorgung, das Schweißen, das Schneiden und die Lagerung weltweit.",
+    "cta": "Holen Sie sich ein Angebot",
+    "ctaSecondary": "Unsere Produkte",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Jahrelange Erfahrung"
+      },
+      {
+        "value": "500K+",
+        "label": "Produktionskapazität / Jahr"
+      },
+      {
+        "value": "50+",
+        "label": "Exportmärkte"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Qualität & Zertifizierung"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Zuverlässiges Gasflaschenzubehör",
+    "text": "Messgeräte, Ventile, Schläuche, Brenner und Sicherheitsarmaturen – Lieferung zusammen mit Zylindern oder als separate Bestellung.",
+    "cta": "Zubehör ansehen"
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
+    "items": [
+      {
+        "title": "Acetylen-Zylinder",
+        "desc": "Flaschen mit gelöstem Acetylen für Schweiß-, Schneid- und Industriegase. Verschiedene Größen und Ventiloptionen.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetylengenerator",
+        "desc": "Ausrüstung für stabile Gasproduktion, einfache Bedienung und industrielle Anwendungen.",
+        "icon": "⚙️",
+        "spec": "Industrielle Erzeugungsanlagen"
+      },
+      {
+        "title": "Propangasflasche",
+        "desc": "Langlebige Flaschen für Propan und Flüssiggas – Lagerung, Heizung, Schneiden und industrielle Verwendung.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Zylinderzubehör",
+        "desc": "Schläuche, Messgeräte, Schneidbrenner, Schweißbrenner, Sicherheitsventile und mehr.",
+        "icon": "🔧",
+        "spec": "Ventile · Regler · Schläuche · Brenner"
+      }
+    ],
+    "viewDetails": "Details anzeigen"
+  },
+  "specs": {
+    "title": "Technische Spezifikationen",
+    "subtitle": "Informieren Sie sich über Zylinderoptionen, Anpassungsmöglichkeiten und Versanddetails, bevor Sie eine Anfrage senden.",
+    "items": [
+      {
+        "title": "Zylinderkapazität",
+        "desc": "Verschiedene Kapazitäts- und Volumenoptionen je nach Anwendung und Marktanforderungen."
+      },
+      {
+        "title": "Ventile und Kappen",
+        "desc": "Ventile, Kappen und Fittings werden je nach Kunden- und Projektbedarf geliefert."
+      },
+      {
+        "title": "Lösungsmitteloptionen",
+        "desc": "Poröses Füllstoffsystem und Lösungsmittel für eine stabile Acetylenlagerung."
+      },
+      {
+        "title": "Verpackung & Versand",
+        "desc": "Exportverpackungs- und Versandunterstützung für Händler und Projektkunden."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Zylinderanwendungen",
+    "subtitle": "Produkte, die für gängige Industriegasaufgaben und die Anforderungen ausländischer Käufer konzipiert sind.",
+    "items": [
+      "Schweißen und Löten",
+      "Metallschneiden",
+      "Industriegasversorgung",
+      "Konstruktion",
+      "Metallverarbeitung",
+      "Gasspeicherung und -verteilung"
+    ]
+  },
+  "whyUs": {
+    "title": "Warum Wanda Group?",
+    "subtitle": "Direkte Fertigung, individuelle Anpassung und vollständige Exportunterstützung – alles für Ihr Unternehmen.",
+    "items": [
+      {
+        "title": "Hohe Qualität",
+        "desc": "Stahlflaschen für industrielle Schweiß- und Gasversorgungszwecke."
+      },
+      {
+        "title": "Strenge Qualitätskontrolle",
+        "desc": "Inspektion vom Materialeingang bis zur Endverpackung."
+      },
+      {
+        "title": "Fortschrittliche Fertigung",
+        "desc": "Formen, Schweißen, Prüfen und Endbearbeiten in einem Werk."
+      },
+      {
+        "title": "OEM/ODM",
+        "desc": "Farbe, Ventil, Markierung, Kappe und Verpackung auf Bestellung."
+      },
+      {
+        "title": "Internationaler Export",
+        "desc": "Dokumente und Verpackung für ausländische Industriekäufer."
+      },
+      {
+        "title": "Zuverlässige Lieferung",
+        "desc": "Typische Lieferzeit 15–25 Tage nach Auftragsbestätigung."
+      }
+    ]
+  },
+  "about": {
+    "title": "Professioneller Hersteller von Gasflaschen",
+    "text": "Der Gasflaschenhersteller Wanda Group ist auf die Herstellung und Lieferung von Industriegasflaschen und entsprechendem Zubehör spezialisiert. Unsere Produkte werden häufig in den Bereichen Schweißen, Schneiden, Gasverteilung, Industriespeicherung und anderen Gasversorgungsbereichen eingesetzt.",
+    "text2": "Wir unterstützen ausländische Käufer bei der Produktauswahl, Individualisierung, Qualitätsprüfung, Verpackung und Versandkoordination.",
+    "facts": [
+      {
+        "title": "Erfahrung",
+        "desc": "Über 15 Jahre Erfahrung in der Lieferung von Industriegasflaschen."
+      },
+      {
+        "title": "Produktion",
+        "desc": "Umformen, Schweißen, Prüfen und Endbearbeiten im eigenen Haus."
+      },
+      {
+        "title": "Qualität",
+        "desc": "ISO 9809-, DOT- und TPED-Optionen nach Markt."
+      },
+      {
+        "title": "Export",
+        "desc": "Koordinierte Sendungen für über 50 Zielmärkte."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "In unserer Fabrik",
+    "subtitle": "Produktion, Schweißen, Prüfen, Lackieren und fertige Zylinder – wie wir Exportaufträge vorbereiten.",
+    "items": [
+      {
+        "title": "Fertiger Zylinderbestand",
+        "desc": "Bereiter Lagerbestand in unserem Werk – Volumenkapazität für Großhandels- und Exportaufträge."
+      },
+      {
+        "title": "Produktionsschweißen",
+        "desc": "Metallverarbeitung in der Fabrikhalle mit Industriegasversorgung."
+      },
+      {
+        "title": "Exportverpackung",
+        "desc": "Schutzgitter und Palettenverpackung vor dem internationalen Versand."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Versand von Großflaschen",
+        "desc": "Sichere Korbladungen für den Straßentransport zu Händlern und Werken."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Zylindergrößenbereich",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Qualitätskontrolle",
+    "subtitle": "Jede Charge durchläuft den gleichen Weg: Produktion, Prüfung, Inspektion und abschließende Qualitätskontrolle.",
+    "steps": [
+      {
+        "title": "Produktion",
+        "desc": "Formen, Schweißen und Zusammenbau unter Kontrolle des Anlagenprozesses."
+      },
+      {
+        "title": "Testen",
+        "desc": "Druck- und Dichtheitsprüfungen, bevor Flaschen die Linie verlassen."
+      },
+      {
+        "title": "Inspektion",
+        "desc": "Sicht-, Markierungs- und Maßkontrollen anhand der Bestellung."
+      },
+      {
+        "title": "Endgültige Qualitätskontrolle",
+        "desc": "Verpackungsinspektion vor dem Exportversand."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Haben Sie Ihre Frage nicht gefunden? Senden Sie das Produkt, die Größe, die Menge und das Zielland – wir werden Ihnen ein detailliertes Angebot unterbreiten.",
+    "ctaBtn": "Holen Sie sich ein Angebot",
+    "groups": [
+      {
+        "title": "Unternehmen",
+        "items": [
+          {
+            "q": "Sind Sie ein Hersteller von Gasflaschen?",
+            "a": "Ja. Die Wanda Group ist auf die Herstellung von Gasflaschen und zugehörigen industriellen Gasversorgungslösungen für ausländische Industrieabnehmer spezialisiert."
+          },
+          {
+            "q": "Welche Produkte liefern Sie hauptsächlich?",
+            "a": "Wir liefern Acetylenflaschen, Propanflaschen, Acetylengeneratoren und Gasflaschenzubehör wie Ventile, Regler, Schläuche, Manometer und Brenner."
+          },
+          {
+            "q": "Können Sie die OEM-Anpassung unterstützen?",
+            "a": "Ja. Flaschenfarbe, Markierung, Ventil, Kappe und Verpackungsoptionen können je nach Bestellung und Zielmarkt besprochen werden."
+          },
+          {
+            "q": "Unterstützen Sie ausländische Käufer?",
+            "a": "Ja. Wir unterstützen Export, Produktauswahl, Verpackungsanforderungen, Dokumentation und Versandkoordination."
+          },
+          {
+            "q": "Wie kann ich ein Angebot erhalten?",
+            "a": "Bitte geben Sie im Anfrageformular oder per E-Mail den Produkttyp, die Zylindergröße, die Menge, das Zielland und die Anpassungsanforderungen an. Unser Team wird Ihnen mit Produktdetails und einem Angebot antworten."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Kann ich mir Werksvideos ansehen, bevor ich eine Bestellung aufgeben?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Bieten Sie Produktvideos speziell für Acetylenflaschen an?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Können Sie Videos von der Produktion und Qualitätskontrolle zeigen?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Kann ich ein Produktvideo anfordern, das für eine bestimmte Bestellung erstellt wurde?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Lösungen",
+        "items": [
+          {
+            "q": "Welche Gasflaschenlösungen bieten Sie an?",
+            "a": "Wir bieten Lösungen für Schweißen und Schneiden, Gasverteilung, industrielle Lagerung, Acetylenerzeugung, OEM-Lieferung und Exporteinkauf."
+          },
+          {
+            "q": "Können Sie mir Produkte für meine Anwendung empfehlen?",
+            "a": "Ja. Senden Sie uns Ihre Bewerbung, Zylindergröße, Menge, Zielland und benötigtes Zubehör zu – wir empfehlen Ihnen passende Produkte."
+          },
+          {
+            "q": "Liefern Sie Zubehör zusammen mit Zylindern?",
+            "a": "Ja. Wir können Druckregler, Schläuche, Messgeräte, Schneidbrenner, Schweißbrenner, Ventile und Armaturen zusammen mit den Zylindern liefern."
+          },
+          {
+            "q": "Können Sie OEM-Käufern Gasflaschen liefern?",
+            "a": "Ja. Flaschenfarbe, Markierung, Ventil, Kappe, Logo und Verpackung können je nach Bestellung besprochen werden."
+          }
+        ]
+      },
+      {
+        "title": "Produkte",
+        "items": [
+          {
+            "q": "Wofür wird eine Flasche mit gelöstem Acetylen verwendet?",
+            "a": "Flaschen mit gelöstem Acetylen werden häufig zum Schweißen, Schneiden, Hartlöten, in der Metallverarbeitung und für die Industriegasversorgung verwendet."
+          },
+          {
+            "q": "Welche Zylindergrößen können Sie liefern?",
+            "a": "Abhängig von Ihrem Zielmarkt, Ihrer Anwendung und Ihrer Bestellmenge können verschiedene Volumina und Kapazitäten besprochen werden. Geben Sie zur Bestätigung die erforderliche Größe oder den lokalen Standard an."
+          },
+          {
+            "q": "Können Flaschenfarbe, Ventil und Markierung geändert werden?",
+            "a": "Ja. Flaschenfarbe, Ventil, Kappe, Markierung, Etikett und Exportverpackung können auf Bestellung gefertigt werden."
+          }
+        ]
+      },
+      {
+        "title": "Zubehör",
+        "items": [
+          {
+            "q": "Welches Zubehör liefern Sie?",
+            "a": "Wir liefern Flammenrückschlagsicherungen, Manometer, Sicherheitsventile, Sauerstoffschläuche, Schlauchklemmen, Schneidbrenner, Schweißbrenner, Filter, Adapter und anderes Gasflaschenzubehör."
+          },
+          {
+            "q": "Kann Gasflaschenzubehör individuell angepasst werden?",
+            "a": "Ja. Wir können Logo, Packung, Anschlussgröße, Gewindetyp, Druckbereich und technische Spezifikationen anpassen."
+          },
+          {
+            "q": "Kann Zubehör zusammen mit Gasflaschen bestellt werden?",
+            "a": "Ja. Zubehör kann zusammen mit Acetylenflaschen, Propanflaschen und Acetylengeneratoren geliefert werden."
+          },
+          {
+            "q": "Unterstützen Sie OEM-Verpackungen?",
+            "a": "Ja. Für Großhandelsbestellungen können wir OEM-Kennzeichnung, Kartons, Beutel und Produktetiketten bereitstellen."
+          },
+          {
+            "q": "Können Sie Produktfotos und Spezifikationen bereitstellen?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Wie kann ich ein Angebot für Zubehör erhalten?",
+            "a": "Bitte geben Sie den Produktnamen, die Menge, die Anschlussgröße, den Arbeitsdruck, die Verpackungsanforderungen und das Zielland oder den Zielhafen an."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Neueste Artikel",
+    "subtitle": "Experteninhalte für Schweiß- und Gasversorgungsfachleute.",
+    "readMore": "Weiterlesen →",
+    "close": "Schließen",
+    "items": [
+      {
+        "tag": "Handwerker",
+        "title": "Komplettlösung für die Versorgung mit Propanflaschen",
+        "desc": "Die Stabilität der Ausrüstung wirkt sich direkt auf die Effizienz der Schweiß- und Schneidarbeiten aus.",
+        "body": [
+          "Für Handwerker, die täglich Metall schweißen, reparieren und verarbeiten, wirkt sich eine stabile Gasausrüstung direkt auf die Arbeitsqualität und -geschwindigkeit aus.",
+          "Propanflaschen der Wanda Group sind je nach Markt von 3 l bis 50 l mit POL-, CGA 510- oder GOST-Ventilen erhältlich – ein Lieferant für Schweißen, Schneiden und Erhitzen.",
+          "Wir empfehlen, Flaschen zusammen mit Reglern, Schläuchen und Brennern zu bestellen. Die Bündellieferung reduziert die Logistikkosten und gewährleistet die Kompatibilität von Zubehör.",
+          "Geben Sie bei der Bestellung den Zielmarkt, das Volumen, den Ventiltyp und die Farbe an – wir bereiten die OEM-Kennzeichnung und Exportverpackung unter Ihrer Marke vor."
+        ]
+      },
+      {
+        "tag": "Lagerung",
+        "title": "Tipps zur Langzeitlagerung von Acetylenflaschen",
+        "desc": "Lagerbedingungen, Platzierungsmethoden und regelmäßige Inspektionen für unbenutzte Flaschen.",
+        "body": [
+          "Viele Unternehmen lagern Acetylen- und Propanflaschen während Produktionspausen oder als Lagerbestand. Auch unbenutzte Zylinder erfordern eine ordnungsgemäße Handhabung.",
+          "Lagern Sie die Flaschen aufrecht an einem gut belüfteten Ort, fern von Wärmequellen und direkter Sonneneinstrahlung. Die Lagertemperatur sollte normalerweise 40–50 °C nicht überschreiten.",
+          "Überprüfen Sie Ventile, Kappen und Markierungen mindestens vierteljährlich. Halten Sie die Flaschen für die langfristige Lagerung von Acetylen senkrecht und lassen Sie sie niemals kippen.",
+          "Die Wanda Group versendet Zylinder mit Schutzkappen und Exportverpackungen, die für einen sicheren Transport und eine sichere Lagerung ausgelegt sind. Aufbewahrungsanleitungen sind auf Anfrage in Ihrer Sprache erhältlich."
+        ]
+      },
+      {
+        "tag": "Preise",
+        "title": "Budgetleitfaden für den Kauf von Acetylenflaschen",
+        "desc": "Faktoren, die die Kosten beeinflussen und wie man das optimale Angebot auswählt.",
+        "body": [
+          "Der Preis für Acetylenflaschen hängt vom Volumen (2 l–40 l), dem Ventiltyp, der Zertifizierung (ISO, DOT, TPED) und der Bestellmenge ab. Richtpreise ab Werk: WG-10 28–35 $, WG-25 45–58 $ pro Einheit.",
+          "Größere Lose (200–500+ Stück) erhalten erhebliche Rabatte. OEM-Lackierung, Logo und Spezialverpackung erhöhen den Grundpreis um 5–15 %, steigern aber den Wert für Händler.",
+          "Berücksichtigen Sie auch Versand (FOB/CIF), Dokumente und Mindestbestellmenge. Wir antworten innerhalb von 24 Stunden mit vollständigen Spezifikationen, Lieferzeiten und Incoterms.",
+          "Für ein genaues Angebot geben Sie Modell, Menge, Zielland und Ventilanforderungen im Kontaktformular an – oder senden Sie eine E-Mail an sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Fordern Sie ein Angebot an",
+    "subtitle": "Teilen Sie uns Größe, Menge, Zielland und Anwendung mit – wir erstellen Ihnen ein detailliertes Angebot.",
+    "formTitle": "Fordern Sie ein Angebot an",
+    "formSubtitle": "Hinterlassen Sie uns Ihre Anforderungen – unser Vertriebsteam wird Ihnen mit Produktinformationen, Preisen, MOQ und Lieferzeit antworten.",
+    "name": "Name",
+    "phone": "Telefon / WhatsApp",
+    "email": "E-Mail",
+    "product": "Produkt",
+    "quantity": "Menge",
+    "country": "Zielland",
+    "productOptions": [
+      "Acetylen-Zylinder",
+      "Propangasflasche",
+      "Acetylengenerator",
+      "Zubehör",
+      "Bundle-Bestellung"
+    ],
+    "message": "Zusätzliche Anforderungen",
+    "messagePlaceholder": "Produkt, Größe, Menge, Zielland...",
+    "submit": "Anfrage senden",
+    "sending": "Senden...",
+    "success": "Danke schön! Wir werden uns in Kürze mit Ihnen in Verbindung setzen.",
+    "sendAnother": "Senden Sie eine weitere Anfrage",
+    "errorGeneric": "Senden fehlgeschlagen. Bitte versuchen Sie es erneut oder senden Sie uns direkt eine E-Mail.",
+    "errorNoForm": "Formular nicht konfiguriert. Bitte senden Sie eine E-Mail an sales@wandagroups.com",
+    "privacyPrefix": "Ich stimme dem zu",
+    "privacySuffix": "und zur Verarbeitung meiner personenbezogenen Daten zur Bearbeitung dieser Anfrage.",
+    "privacyLink": "Datenschutzrichtlinie",
+    "company": "Unternehmen",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Per E-Mail-App versenden"
+  },
+  "footer": {
+    "company": "Hersteller von Gasflaschen der Wanda Group",
+    "tagline": "Professionelle Herstellung von Gasflaschen",
+    "rights": "© 2026 Wanda Group. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie"
+  },
+  "ui": {
+    "catalog": "Katalog",
+    "catalogTitle": "Detaillierte Produktspezifikationen",
+    "catalogSubtitle": "Vollständige technische Daten, Modelle und Parameter für jede Kategorie. Wählen Sie ein Produkt aus, um die Spezifikationstabelle anzuzeigen.",
+    "requestPrice": "Preis für dieses Modell anfragen",
+    "services": "Dienstleistungen",
+    "pricing": "Preise",
+    "getExactQuote": "Holen Sie sich ein genaues Angebot",
+    "certifications": "Zertifizierungen",
+    "order": "Befehl",
+    "reviews": "Rezensionen",
+    "contact": "Kontakt",
+    "phone": "Telefon",
+    "location": "Standort",
+    "quoteResponse": "Antwort zitieren",
+    "support": "Unterstützung",
+    "exportReady": "Exportbereit",
+    "years": "Jahre",
+    "acetylene": "Acetylen",
+    "isoCertified": "ISO-zertifiziert",
+    "globalExport": "Globaler Export",
+    "products": "Produkte",
+    "specs": "Spezifikationen",
+    "applications": "Anwendungen",
+    "whyUs": "Warum wir",
+    "about": "Über uns",
+    "gallery": "Galerie",
+    "quality": "Qualität",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "countriesServed": "Länder bedient",
+    "searchLanguage": "Sprache suchen...",
+    "noLanguagesFound": "Keine Sprachen gefunden"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Export in über 50 Länder",
+    "Mindestbestellmenge ab 100 Stück",
+    "Lieferzeit 15–25 Tage"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetylen",
+      "propane": "Propan",
+      "generator": "Generator",
+      "accessories": "Zubehör"
+    },
+    "acetylene": {
+      "title": "Zylinder mit gelöstem Acetylen",
+      "intro": "Stahlflaschen mit poröser Masse und Lösungsmittel für sichere Lagerung und Transport von Acetylen. Wird beim Schweißen, Schneiden, Löten und in der Metallverarbeitung verwendet.",
+      "features": [
+        "Poröse Masse + Aceton für stabile Lagerung",
+        "CGA 510 / GOST / DIN-Ventile auf Anfrage",
+        "Hydraulischer Prüfdruck 5,2 MPa",
+        "RAL-Lackierung, Stempelung und OEM-Etiketten",
+        "Palettenverpackung exportieren"
+      ],
+      "tableTitle": "Standardmodelle für Acetylenflaschen",
+      "headers": [
+        "Modell",
+        "Volumen (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Gewicht (kg)",
+        "Höhe (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0,3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0,8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4,0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38,0",
+          "1250"
+        ]
+      ],
+      "note": "* Genaue Parameter hängen von der Norm (ISO/DOT/GB) und der Ventilkonfiguration ab. Fordern Sie ein Datenblatt für Ihren Markt an."
+    },
+    "propane": {
+      "title": "Propan- und Flüssiggasflaschen",
+      "intro": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet.",
+      "features": [
+        "37Mn/34CrMo4-Stahl gemäß ISO 9809",
+        "Arbeitsdruck 1,8–2,1 MPa",
+        "POL, CGA 510, GOST-Ventile",
+        "Pulverbeschichtung, Korrosionsschutz",
+        "Zertifikate für EU-, US- und GUS-Märkte"
+      ],
+      "tableTitle": "Standard-Propanflaschenmodelle",
+      "headers": [
+        "Modell",
+        "Volumen (L)",
+        "Gas (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Gewicht (kg)",
+        "Höhe (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2,0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6,0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42,0",
+          "1180"
+        ]
+      ],
+      "note": "* Preise und MOQ hängen vom Bestellvolumen und Ventiltyp ab. Senden Sie eine Anfrage für ein genaues Angebot."
+    },
+    "generator": {
+      "title": "Acetylengeneratoren",
+      "intro": "Ausrüstung zur Herstellung von Acetylen aus Calciumcarbid. Stabile Gasversorgung für Schweiß- und Industriebedarf ohne zentrale Gasinfrastruktur.",
+      "features": [
+        "Leistung 3–100 m³/h Kapazität",
+        "Automatische Wasser- und Karbidzufuhr",
+        "Sicherheitssystem und Filterung",
+        "Kompakt- und Industriemodelle",
+        "Vollständige Dokumentation und Schulung"
+      ],
+      "tableTitle": "Acetylen-Generatormodelle",
+      "headers": [
+        "Modell",
+        "Leistung (m³/h)",
+        "Karbid (kg/h)",
+        "Druck (kPa)",
+        "Leistung (kW)",
+        "Gewicht (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1,5–5",
+          "0,5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1,5–5",
+          "1,0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1,5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1,5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1,5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generatoren werden auf Anfrage mit Kühlsystem, Filtern und Ersatzteilset geliefert."
+    },
+    "accessories": {
+      "title": "Zylinderzubehör und Armaturen",
+      "intro": "Komplettes Sortiment für den sicheren Betrieb von Gasflaschen: vom Messgerät bis zum Schweißbrenner. Beschaffung von Zylindern aus einer Hand.",
+      "features": [
+        "Regler und Messgeräte (CGA/GOST/DIN)",
+        "Hochdruckschläuche",
+        "Schneidbrenner und Schweißbrenner",
+        "Überdruckventile",
+        "Trolleys, Ständer, Kappen"
+      ],
+      "tableTitle": "Zubehörkatalog",
+      "headers": [
+        "Kategorie",
+        "Modelle",
+        "Standard",
+        "Anwendung"
+      ],
+      "rows": [
+        [
+          "Regulierungsbehörden",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylen, Propan"
+        ],
+        [
+          "Messgeräte",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Drucküberwachung"
+        ],
+        [
+          "Schläuche",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Schweißen, Schneiden"
+        ],
+        [
+          "Fackeln",
+          "WG-C100, WG-C300",
+          "—",
+          "Plasma-/Autogenschneiden"
+        ],
+        [
+          "Brenner",
+          "WG-T200, WG-T500",
+          "—",
+          "Schweißen, Löten"
+        ],
+        [
+          "Ventile",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Alle Zylindertypen"
+        ]
+      ],
+      "note": "* Zubehör separat oder im Paket mit Zylindern erhältlich. Rabatt auf kombinierte Bestellungen."
+    }
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Vollständiger Zyklus – von der Herstellung bis zur Lieferung in Ihr Lager. Wir arbeiten mit Händlern, OEM-Marken und Projektkäufern zusammen.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Kundenspezifische Fertigung (OEM/ODM)",
+        "desc": "Zylinder mit Ihrer Marke, Farbe und Kennzeichnung.",
+        "points": [
+          "Logo & RAL-Farbe",
+          "Marktübliches Ventil",
+          "OEM-Verpackungen und Etiketten"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Export & Logistik",
+        "desc": "Komplette internationale Versandunterstützung.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Dokumentation exportieren",
+          "See- und Bahnfracht"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Qualitätskontrolle",
+        "desc": "Tests und Inspektionen in jeder Phase.",
+        "points": [
+          "Hydrostatische Tests",
+          "UT-Schweißnahtprüfung",
+          "SGS/BV-Inspektion auf Anfrage"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Zertifizierung",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "Sicherheitsdatenblatt und Qualitätszertifikat",
+          "Ursprungszeugnis"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Technische Unterstützung",
+        "desc": "Hilfe bei der Produktauswahl und Konfiguration.",
+        "points": [
+          "Marktbasierte Auswahl",
+          "MOQ- und Durchlaufzeitberechnung",
+          "Mitarbeiterschulung"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Bündelversorgung",
+        "desc": "Zylinder + Zubehör in einer Bestellung.",
+        "points": [
+          "Einzelvertrag",
+          "Koordinierte Lieferung",
+          "Bundle-Rabatt"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Preis- und Lieferbedingungen",
+    "subtitle": "Transparente Konditionen für den B2B-Einkauf. Der genaue Preis wird individuell berechnet – Anfrage senden, wir antworten innerhalb von 24 Stunden.",
+    "note": "Die angezeigten Preise sind Richtpreise (EXW). Die endgültigen Kosten hängen von der Menge, dem Ventiltyp, der Zertifizierung und den Versandbedingungen ab.",
+    "cards": [
+      {
+        "label": "Mindestbestellmenge",
+        "value": "ab 100 Stk",
+        "desc": "Mindestbestellmenge pro Modell"
+      },
+      {
+        "label": "Vorlaufzeit",
+        "value": "15–25 Tage",
+        "desc": "Nach Auftragsbestätigung"
+      },
+      {
+        "label": "Zahlung",
+        "value": "T/T 30/70",
+        "desc": "30 % Anzahlung, 70 % vor Versand"
+      },
+      {
+        "label": "Garantie",
+        "value": "12 Monate",
+        "desc": "Gegen Herstellungsfehler"
+      }
+    ],
+    "factors": {
+      "title": "Preisfaktoren",
+      "items": [
+        "Flaschenvolumen und Modell (2L – 50L)",
+        "Ventiltyp (CGA, GOST, DIN, POL)",
+        "Zertifizierungsstandard (ISO, DOT, TPED)",
+        "OEM: Farbe, Markierung, Verpackung",
+        "Auftragsvolumen & Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylen WG-10",
+        "moq": "200 Stk",
+        "price": "28–35 $ / Stk",
+        "lead": "18 Tage"
+      },
+      {
+        "product": "Acetylen WG-25",
+        "moq": "100 Stk",
+        "price": "45–58 $/Stk",
+        "lead": "20 Tage"
+      },
+      {
+        "product": "Propan WG-P11",
+        "moq": "500 Stk",
+        "price": "12–16 $ / Stk",
+        "lead": "15 Tage"
+      },
+      {
+        "product": "Propan WG-P50",
+        "moq": "100 Stk",
+        "price": "55–72 $/Stk",
+        "lead": "22 Tage"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 Einheit",
+        "price": "$3,500–4,200",
+        "lead": "25 Tage"
+      },
+      {
+        "product": "Reglerset",
+        "moq": "50 Stk",
+        "price": "8–15 $ / Stk",
+        "lead": "10 Tage"
+      }
+    ],
+    "tableHeaders": [
+      "Produkt",
+      "Mindestbestellmenge",
+      "Preis (EXW)",
+      "Vorlaufzeit"
+    ]
+  },
+  "certifications": {
+    "title": "Zertifizierungen und Standards",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Nahtlose Stahlgasflaschen – technische Anforderungen"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Flaschen mit gelöstem Acetylen"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "US-Marktzertifizierung"
+      },
+      {
+        "name": "TPED",
+        "desc": "Europäische Transportrichtlinie"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Chinesischer Gasflaschenstandard"
+      },
+      {
+        "name": "CE-Kennzeichnung",
+        "desc": "Europäische Konformitätsanforderungen"
+      }
+    ]
+  },
+  "process": {
+    "title": "So bestellen Sie",
+    "subtitle": "Einfacher Prozess von der Anfrage bis zu den Zylindern in Ihrem Lager.",
+    "steps": [
+      {
+        "title": "Anfrage senden",
+        "desc": "Geben Sie Produkt-, Volumen-, Land- und Ventilanforderungen an"
+      },
+      {
+        "title": "Angebot erhalten",
+        "desc": "Preis, MOQ, Lieferzeit und Datenblatt innerhalb von 24 Stunden"
+      },
+      {
+        "title": "Bestellung bestätigen",
+        "desc": "Vertragsunterzeichnung und 30 % Anzahlung"
+      },
+      {
+        "title": "Produktion und Qualitätskontrolle",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Lieferung",
+        "desc": "Verpackung, Dokumente, FOB/CIF/DDP-Lieferung"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "Schweißen",
+        "eyebrow": "Acetylenflaschen",
+        "title": "Stabile Flamme für Präzisionsschweißen",
+        "text": "Flaschen mit gelöstem Acetylen, entwickelt für kontinuierliches Schweißen und Löten – konstanter Druck, sichere poröse Masse, exportfähige Ventile.",
+        "points": [
+          "ISO-/DOT-/GB-Optionen",
+          "CGA-/GOST-/DIN-Ventile",
+          "OEM-Farbe und -Markierung"
+        ]
+      },
+      {
+        "id": "Schneiden",
+        "eyebrow": "Schneiden und Konfektionieren",
+        "title": "Kraft, wenn Metall sich bewegen muss",
+        "text": "Acetylen- und Sauerstoff-Flaschensätze mit hohem Durchfluss für Werften, Werkstätten und schwere Fertigungslinien.",
+        "points": [
+          "Schnelles Lochen und Schneiden",
+          "Fackelfertige Kits",
+          "Großmengen-MOQ-freundlich"
+        ]
+      },
+      {
+        "id": "Propan",
+        "eyebrow": "Propan und Flüssiggas",
+        "title": "Langlebige Flüssiggasflaschen für jeden Markt",
+        "text": "Von Heiz- und Kochgas bis hin zu industriellem Schneiden – Stahlflaschen, die auf Druck, Beschichtung und lange Lebensdauer ausgelegt sind.",
+        "points": [
+          "Bereich 3L–50L",
+          "POL / CGA-Ventile",
+          "Pulverbeschichtung"
+        ]
+      },
+      {
+        "id": "Fabrik",
+        "eyebrow": "Herstellung",
+        "title": "Werkskontrolle vom Stahl bis zum Versand",
+        "text": "Formung, Schweißen, hydrostatische Prüfung und Endbearbeitung im eigenen Haus – damit jede Charge Ihrer Zeichnung und dem Marktstandard entspricht.",
+        "points": [
+          "Hydrostatisch getestet",
+          "Rückverfolgbare Chargen",
+          "OEM-/ODM-fähig"
+        ]
+      },
+      {
+        "id": "Qualität",
+        "eyebrow": "Qualität und Sicherheit",
+        "title": "Die Inspektion können Sie im Angebot angeben",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Druck- und Dichtheitsprüfungen",
+          "Certificate package",
+          "Fotos vor dem Versand"
+        ]
+      },
+      {
+        "id": "Export",
+        "eyebrow": "Globaler Export",
+        "title": "Für Häfen verpackt, bereit für über 50 Länder",
+        "text": "Exportpaletten, Ventilschutz, mehrsprachige Etiketten und Versanddokumente, abgestimmt auf die Incoterms Ihres Bestimmungsortes.",
+        "points": [
+          "FOB/CIF-Unterstützung",
+          "Palettierte Verpackung",
+          "Lieferzeit 15–25 Tage"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Industriegasflaschen im Werk bereit",
+    "about": "Exportfertiger Flaschenbestand mit Schutzverpackung",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Flasche für gelöstes Acetylen mit poröser Masse und Messingventil",
+      "Industrieller Acetylengenerator auf einem Fabrikgestell",
+      "Propan- und Flüssiggasflaschen in verschiedenen Größen und Farben",
+      "Zubehörsatz zum Schweißen und Schneiden von Gasflaschen"
+    ],
+    "gallery": [
+      "Fertiger Zylinderbestand im Werk",
+      "Produktionsschweißen in der Fabrikhalle",
+      "Exportverpackung mit Schutzgitter",
+      "Acetylenflaschen in Sicherheitskäfigen",
+      "Versand von Großflaschen per LKW",
+      "Exportdokumentation und Verpackungskontrolle",
+      "Ventilmontage am Fließband",
+      "Autogenschneiden mit Sauerstoff- und Acetylenflaschen",
+      "Industrielles Schweißen in der Werkstatt",
+      "Rohrschweißen auf der Fertigungsbank",
+      "Schwere Fabrikation innerhalb der Anlage",
+      "Zylindergrößenbereich im Werk"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Zubehör",
+    "title": "Produktzubehör",
+    "subtitle": "Teile für Acetylenflaschen, Generatoren, Schweißen und Schneiden. Öffnen Sie Details für Spezifikationen und Anwendungen.",
+    "cta": "Details anfordern",
+    "details": "Details",
+    "close": "Schließen",
+    "featuresLabel": "Hauptmerkmale",
+    "specsLabel": "Spezifikationen",
+    "applicationsLabel": "Anwendungen",
+    "qualityLabel": "Qualität und Lieferung",
+    "whyTitle": "Warum sollten Sie sich für unser Zubehör entscheiden?",
+    "why": [
+      "Langlebiges Messing, Edelstahl und Materialien in Industriequalität",
+      "Kompatibel mit Zylindern, Generatoren, Reglern, Schläuchen und Schweißsystemen",
+      "OEM-Logo, Packung, Anschlussgröße, Gewindetyp und Spezifikationen",
+      "Exportverpackung und stabile Versorgung für internationale Käufer"
+    ],
+    "items": [
+      {
+        "title": "Acetylen-Flashback-Ventil",
+        "desc": "Verhindert Gasrückströmung und Flammenrückschlag in Autogen-Schweiß- und Schneidsystemen.",
+        "intro": "Eine wesentliche Sicherheitsvorrichtung für Acetylensysteme. Die eingebaute Flammensperre aus gesintertem Edelstahl und die Einwegströmungskonstruktion schützen Bediener, Schläuche und Gasleitungen. Kompatibel mit Reglern, Schläuchen und Taschenlampen. OEM-Logo, Etikett und Verpackung verfügbar.",
+        "features": [
+          "Flammenhemmender Einsatz aus gesintertem Edelstahl",
+          "Rückflussverhinderndes (einseitiges) Strömungsdesign",
+          "Hochfester Messingkörper, korrosionsbeständig",
+          "Zuverlässige Abdichtung unter Arbeitsdruck",
+          "Standardanschlüsse für schnelle Installation und Austausch"
+        ],
+        "specs": [
+          "Gas: Acetylen (C₂H₂); Sauerstoffableiter werden separat geliefert",
+          "Körper: Messing; Ableiter: Edelstahl",
+          "Anschluss: G 3/8″ LH oder Sondergewinde",
+          "Arbeitsdruck: bis zu 1,5 MPa / kundenspezifisch",
+          "Verwendung: Autogenschweißen, Schneiden und Erhitzen",
+          "Verpackung: Einzelkarton, Karton oder kundenspezifisch"
+        ],
+        "applications": [
+          "Autogenes Schweißen und Schneiden",
+          "Regler, Schläuche und Brennerbaugruppen",
+          "Gasleitungen für Acetylengeneratoren"
+        ],
+        "quality": [
+          "100 % Inspektion vor dem Versand",
+          "Dichtheits-, Druck- und Rückschlagfunktionsprüfungen",
+          "Exportverpackung für Fernlieferungen"
+        ]
+      },
+      {
+        "title": "Acetylen-Generatorkanister",
+        "desc": "Kernbehälter zur stabilen Acetylenerzeugung aus Calciumcarbid in Industriegassystemen.",
+        "intro": "Der Generatorkanister ist der Hauptbehälter eines Acetylen-Erzeugungssystems. Es wird für eine stabile Gasproduktion beim Schweißen, Schneiden und an Standorten ohne zentrale Flaschenversorgung geliefert. Leistung, Verrohrung und Sicherheitsverkleidung können an das Generatormodell angepasst werden.",
+        "features": [
+          "Kernbehälter für Acetylen-Generatorsysteme",
+          "Gebaut für eine stabile Gaserzeugung aus Kalziumkarbid",
+          "Kann mit Filter- und Sicherheitsventilen kombiniert werden",
+          "Industrielle und kompakte Generatoranordnungen",
+          "OEM-Kennzeichnung, Anschlüsse und Verpackung auf Anfrage"
+        ],
+        "specs": [
+          "Rolle: Generatorkanister/Container-Baugruppe",
+          "Typischer Leistungsbereich entsprechender Generatoren: 3–100 m³/h",
+          "Arbeitsdruck der zugehörigen Einheiten: ca. 1,5–5 kPa",
+          "Lieferung mit Kühlung, Filtern und Ersatzteilen auf Anfrage",
+          "Anschlüsse, Kapazität und Ausstattung werden pro Bestellung bestätigt"
+        ],
+        "applications": [
+          "Acetylen-Generatoranlagen und tragbare Einheiten",
+          "Werkstätten ohne zentrale Flaschenversorgung",
+          "Industrielle Schweiß- und Schneidgasproduktion"
+        ],
+        "quality": [
+          "Werkseitig passend zum Generatormodell",
+          "Exportverpackung und Dokumentation",
+          "Kapazitäts- und Anschlussdetails werden vor dem Versand bestätigt"
+        ]
+      },
+      {
+        "title": "Schneidbrenner",
+        "desc": "Langlebiger Autogen-Schneidbrenner für präzise Schnitte, eine stabile Flamme und hohe Produktivität.",
+        "intro": "Professioneller Acetylen-Schneidbrenner für saubere, präzise Schnitte. Messingkörper mit rostfreien Rohren, ergonomischem Griff und austauschbaren Düsen. Kompatibel mit Acetylen und Sauerstoff sowie mit Standardspitzen.",
+        "features": [
+          "Hochwertige Konstruktion aus Messing und Edelstahl",
+          "Stabile Flamme und präzise Schnittkontrolle",
+          "Sicherheitsorientiertes Design zur Reduzierung des Rückzündungsrisikos",
+          "Ergonomischer Griff, einfache Montage und Wartung",
+          "Funktioniert mit Standarddüsen, Spitzen und Schlauchsätzen"
+        ],
+        "specs": [
+          "Modell: CT-01 Schneidbrenner",
+          "Gas: Acetylen + Sauerstoff",
+          "Schnittstärke: 3–300 mm (düsen- und druckabhängig)",
+          "Arbeitsdruck: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Anschluss: G5/8-14 oder kundenspezifisch",
+          "Länge: ca. 460 mm",
+          "Verpackung: 1 Stück/Karton, 10 Stück/Karton"
+        ],
+        "applications": [
+          "Schneiden von Kohlenstoffstahlplatten, -rohren und -profilen",
+          "Fertigungsbetriebe, Werften und Baugewerbe",
+          "Industrielle Wartung und Schneiden vor Ort"
+        ],
+        "quality": [
+          "100 % Inspektion vor der Lieferung",
+          "Aussehens-, Anschluss-, Dichtungs- und Funktionsprüfungen",
+          "Exportverpackung für den Fernversand"
+        ]
+      },
+      {
+        "title": "Eckventil mit Innen-/Außengewinde",
+        "desc": "Robustes Zylinder-Eckventil mit Innen- oder Außengewindeoptionen für Marktstandards.",
+        "intro": "Eckventile für Acetylen und andere Industriegase: Robustes Messinggehäuse, präzise Abdichtung und leichtgängiger Handradbetrieb. Innen- oder Außengewinde entsprechend den Zylinder- und Gerätestandards.",
+        "features": [
+          "Robuster Messingkörper, korrosionsbeständig",
+          "Hochpräzise Bearbeitung für zuverlässige Abdichtung",
+          "Anschlussmöglichkeiten mit Innen- oder Außengewinde",
+          "Ergonomisches Handrad für einfaches Öffnen/Schließen",
+          "100 % Sicherheits- und Funktionsprüfung"
+        ],
+        "specs": [
+          "Gas: Acetylen, Sauerstoff, Argon, Stickstoff und kompatible Gase",
+          "Arbeitsdruck: 25/35 bar Klasse",
+          "Prüfdruck: 37,5 / 52,5 bar Klasse",
+          "Einlass/Auslass: intern oder extern, individuell",
+          "Handrad: Aluminium / Zinklegierung",
+          "Temperatur: −20 °C bis +60 °C",
+          "Standards: ISO 10297, GB/T 8335, CGA oder kundenspezifisch",
+          "Verpackung: 1 Stück/Beutel, 50 Stück/Karton"
+        ],
+        "applications": [
+          "Acetylen- und Industriegasflaschen",
+          "Schweiß- und Schneidgasanlagen",
+          "Werkstätten, Anlagen und Laborgasversorgung"
+        ],
+        "quality": [
+          "Material-, Bearbeitungs-, Dichtheits- und Aussehensprüfungen",
+          "Exportverpackung für den Ferntransport",
+          "Gewindegröße und Standard je Markt bestätigt"
+        ]
+      },
+      {
+        "title": "Sauerstoffschlauchklemme",
+        "desc": "Edelstahl-Schneckenklemme für sichere, auslaufsichere Verbindungen von Sauerstoff- und Industrieschläuchen.",
+        "intro": "Sauerstoffschlauchklemmen aus Edelstahl zum Schweißen und für den industriellen Einsatz. Starke Klemmkraft, Rostbeständigkeit und schlauchfreundliche Kanten. Wiederverwendbar und einfach zu installieren.",
+        "features": [
+          "Edelstahl 201/304",
+          "Starke Klemmkraft und sichere Befestigung",
+          "Rost-, Korrosions- und Oxidationsbeständigkeit",
+          "Glatte Bandkanten schützen den Schlauch",
+          "Einfach zu installieren, zu entfernen und wiederzuverwenden"
+        ],
+        "specs": [
+          "Typ: Schlauchschelle mit Schneckenantrieb",
+          "Schlauchbereich: 8–100 mm, kundenspezifische Größen für große Mengen",
+          "Bandbreite: 9 / 12 mm; Dicke 0,6–0,8 mm",
+          "Schraube: Schlitz- oder Sechskantkopf",
+          "Normen: DIN 3017 / SAE J1508",
+          "Finish: poliert",
+          "Verpackung: 100 Stück/Beutel, 10 Beutel/Karton oder individuell"
+        ],
+        "applications": [
+          "Sauerstoff- und Kraftstoffschläuche zum Schweißen und Schneiden",
+          "Zylinder-, Regler- und Brennerschlauchverbindungen",
+          "Fabrik-, Werkstatt- und Wartungslinien"
+        ],
+        "quality": [
+          "100 % Inspektion vor der Lieferung",
+          "Größe, Band und Verpackung können individuell angepasst werden",
+          "Exportieren Sie hochwertige Verpackungen"
+        ]
+      },
+      {
+        "title": "Sauerstoffschläuche",
+        "desc": "Flexibler Hochdruck-Sauerstoffschlauch mit langer Lebensdauer für die Schweiß-, Schneid- und Industriegasversorgung.",
+        "intro": "Sauerstoffschläuche für den sicheren Gastransfer unter Druck. Flexibel, knickfest und abriebfest, mit glatter Innenwand für stabilen Durchfluss. Mehrere Innendurchmesser und Längen für Schweiß- und Zylinderverbindungen.",
+        "features": [
+          "Hoher Arbeits- und Berstdruck",
+          "Flexible, knickfeste Konstruktion",
+          "Alterungs-, Ozon- und Abriebbeständigkeit",
+          "Glatte Innenwand für stabilen Gasfluss",
+          "Leicht und einfach zu handhaben"
+        ],
+        "specs": [
+          "Gas: Sauerstoff",
+          "Arbeitsdruck: 20 bar / 290 psi",
+          "Berstdruck: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (kundenspezifisch erhältlich)",
+          "Länge: 10 / 20 / 30 / 50 / 100 m oder individuell",
+          "Farbe: Blau Standard; Material SBR / EPDM + Polyestergarn",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatur: −20 °C bis +80 °C"
+        ],
+        "applications": [
+          "Sauerstoffversorgung zum Schweißen und Schneiden",
+          "Schlauchverbindung zwischen Flasche und Regler",
+          "Fabriken, Werkstätten und Industriegasleitungen"
+        ],
+        "quality": [
+          "100 % Inspektion vor der Lieferung",
+          "Durchmesser, Länge, Farbe und Beschriftung können individuell angepasst werden",
+          "Exportverpackung: Schrumpfschlauch / gewebter Beutel / Karton"
+        ]
+      },
+      {
+        "title": "Manometer",
+        "desc": "Präzise Druckanzeige für Sauerstoff, Acetylen und andere Industriegase.",
+        "intro": "Messgeräte für Acetylen, Sauerstoff und Industriegase: klares Zifferblatt, langlebige Konstruktion und stabile Messwerte an Flaschen, Reglern und Rohrleitungen. Mehrere Bereiche und Anschlüsse für OEM und Export.",
+        "features": [
+          "Hohe Genauigkeit und stabile Leistung",
+          "Klares Zifferblatt für einfaches Ablesen",
+          "Stoßfeste Industriekonstruktion",
+          "Korrosionsbeständige Materialien",
+          "Mehrere Bereiche und Montage unten/hinten"
+        ],
+        "specs": [
+          "Gas: Acetylen, Sauerstoff, Argon, CO₂, Stickstoff und kompatible Gase",
+          "Zifferblatt: 50 / 63 / 100 mm, kundenspezifisch erhältlich",
+          "Bereich: 0–1 bar bis 0–400 bar, kundenspezifisch",
+          "Genauigkeit: ±2,5 % Standard, ±1,6 % optional",
+          "Gewinde: G1/4, G1/8, NPT1/4, M12×1,5 oder kundenspezifisch",
+          "Gehäuse: schwarzer Stahl / Edelstahl optional; Stecker aus Messing oder Edelstahl",
+          "Fenster: Glas oder Polycarbonat; −20 °C bis +60 °C",
+          "Verpackung: 1 Stück/Karton, 50 Stück/Karton"
+        ],
+        "applications": [
+          "Gasflaschen und Druckregler",
+          "Pipelines und Industriegassysteme",
+          "Autogen-Schweiß- und Schneidplatten"
+        ],
+        "quality": [
+          "100 % Prüfung vor der Auslieferung",
+          "OEM-Zifferblatt und Branding-Optionen",
+          "Exportverpackung"
+        ]
+      },
+      {
+        "title": "Sicherheitsventil",
+        "desc": "Lässt überschüssigen Druck automatisch ab, um Zylinder, Rohrleitungen und Bediener zu schützen.",
+        "intro": "Sicherheitsventile lassen den Überdruck automatisch ab, um Geräte und Personal zu schützen. Geeignet für Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase. Kompaktes Messinggehäuse, mehrere Einstelldrücke und Gewindegrößen.",
+        "features": [
+          "Automatischer Überdruckschutz",
+          "Stabile Entlastung unter hohem Druck",
+          "Messingkörper, hitze- und korrosionsbeständig",
+          "Kompaktes Design für einfache Installation und Wartung",
+          "Mehrere Einstelldrücke und Gewindegrößen"
+        ],
+        "specs": [
+          "Gas: Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase",
+          "Arbeitsdruck: bis zu 25 bar / 25 kg/cm²",
+          "Entlastungsbereich: 0,1–2,5 MPa, anpassbar",
+          "Temperatur: −20 °C bis +120 °C",
+          "Anschluss: männlich/weiblich; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Körper: Messing; Dichtung: NBR / PTFE",
+          "Körperdruckklasse: 25 / 35 bar",
+          "Verpackung: 1 Stück/Karton, 50 Stück/Karton"
+        ],
+        "applications": [
+          "Überdruckschutz für Zylinder und Verteiler",
+          "Industriegasanlagen und -leitungen",
+          "Autogen-Schweiß- und Schneidsysteme"
+        ],
+        "quality": [
+          "100 % Prüfung vor dem Versand",
+          "Einstelldruck, Gewinde und Packung können individuell angepasst werden",
+          "Exportverpackung"
+        ]
+      },
+      {
+        "title": "Schweißbrenner",
+        "desc": "Ergonomischer Autogen-Schweißbrenner mit sanfter Flammensteuerung zum Schweißen, Löten und Erhitzen.",
+        "intro": "Hochleistungs-Schweißbrenner für Sauerstoff-Brennstoffarbeiten: stabile Flamme, präzise Steuerung und ein langlebiger Messingkörper. Kupferspitzen, austauschbare Düsen und Schlauchanschlüsse für Werkstatt und Industrie.",
+        "features": [
+          "Stabile Flamme zum Schweißen und zur Metallreparatur",
+          "Gleichmäßiger Gasfluss und präzise Flammenkontrolle",
+          "Robuster Messingkörper, hitze- und korrosionsbeständig",
+          "Ergonomischer Griff für komfortable Bedienung",
+          "Kompatibel mit Sauerstoff, Acetylen und optional Propan"
+        ],
+        "specs": [
+          "Typ: Autogen-Schweißbrenner",
+          "Körper: Messing; Spitze: Kupfer, austauschbar",
+          "Schlauchanschluss: G1/4″ oder 9/16″-18 UNF",
+          "Arbeitsdruck: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatur: −20 °C bis +60 °C",
+          "Verwendung: Schweißen, Löten, Erhitzen; Schneiden mit passenden Spitzen",
+          "Verpackung: 1 Stück/Karton, 10 Stück/Karton"
+        ],
+        "applications": [
+          "Sauerstoff-Acetylen-Schweißen und Reparatur",
+          "Löten, Erwärmen und Fügen",
+          "Werkstätten und industrielle Wartung"
+        ],
+        "quality": [
+          "100 % Inspektion vor der Lieferung",
+          "Brennerstil, Stecker, Verpackung und Logo können OEM sein",
+          "Material-, Dichtheits- und Aussehensprüfungen"
+        ]
+      },
+      {
+        "title": "Filterkonverterkopf",
+        "desc": "Verbindet das Filterelement mit einem Regler oder einer Rohrleitung für eine effektive Gasfiltration.",
+        "intro": "Der Filterkonverterkopf ist die Verbindung zwischen dem Filterelement und dem Regler oder der Gasleitung. Es sorgt dafür, dass das Element sitzt, die Durchflussrichtung korrekt bleibt und Wartung und Austausch in Zylinder- und Verteilersystemen unkompliziert sind.",
+        "features": [
+          "Verbindet das Filterelement mit dem Regler oder der Rohrleitung",
+          "Unterstützt eine effektive Filterung in der Gasleitung",
+          "Industrielle Messing-/Metallkonstruktion",
+          "Standard-Gewindeanschlüsse zur Systemanpassung",
+          "OEM-Gewinde, Größe und Packung auf Anfrage"
+        ],
+        "specs": [
+          "Rolle: Filterkonverter / Adapterkopf",
+          "Verwendung: Regler-, Rohrleitungs- und Zylinderfilterbaugruppen",
+          "Anschlussgröße und Gewinde je Bestellung bestätigt",
+          "Bei Bedarf mit Filterelementen und Schalen als Set abgestimmt"
+        ],
+        "applications": [
+          "Gasverteilung vor Reglern und Werkzeugen",
+          "Zylinder- und Generatorfilterbaugruppen",
+          "Werkstatt- und Industriegasleitungen"
+        ],
+        "quality": [
+          "Anschlussgröße vor der Produktion bestätigt",
+          "Exportverpackung",
+          "Kann mit passenden Filterelementen geliefert werden"
+        ]
+      },
+      {
+        "title": "Filter",
+        "desc": "Hocheffizienter Filter, der Feuchtigkeit, Öl und Partikel entfernt, um nachgeschaltete Geräte zu schützen.",
+        "intro": "Entfernt feste Partikel, Wasser, Öl und andere Verunreinigungen aus dem Gasstrom, um die Ausrüstung zu schützen und die Lebensdauer zu verlängern. Messingkopf, Qualitätselement und stabiler Betrieb unter Druck. Für Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase.",
+        "features": [
+          "Hocheffiziente Filterung für einen sauberen Gasfluss",
+          "Entfernt Feuchtigkeit, Öl und Partikel",
+          "Robuster Messingkopf und Metallschale",
+          "Abnehmbares Element zur Reinigung oder zum Austausch",
+          "Stabiler Betrieb unter Arbeitsdruck"
+        ],
+        "specs": [
+          "Gas: Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase",
+          "Eingangsdruck: bis zu 2,5 MPa",
+          "Arbeitsdruck: 0,01–1,6 MPa",
+          "Genauigkeit: 5 / 20 / 50 μm optional",
+          "Anschluss: G1/4″, G3/8″, G1/2″, G3/4″ optional",
+          "Körper: Messing; Element: Sinterbronze / Edelstahl",
+          "Temperatur: −20 °C bis +60 °C",
+          "Verpackung: 1 Stück/Karton, 20 Stück/Karton"
+        ],
+        "applications": [
+          "Zylinder-, Regler- und Verteilersysteme",
+          "Fabriken, Werkstätten und Industriegasleitungen",
+          "Saubererer Durchfluss zum Schweißen, Schneiden und für die Laborversorgung"
+        ],
+        "quality": [
+          "100 % Inspektion vor der Lieferung",
+          "Gewinde, Genauigkeit und Element können individuell angepasst werden",
+          "Exportverpackung"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Datenschutzrichtlinie",
+    "updated": "Letzte Aktualisierung: 25. August 2026",
+    "intro": [
+      "Die Wanda Group („wir“, „uns“) betreibt diese Website, um Gasflaschen, Zubehör und zugehöriges Exportangebot vorzustellen und kommerzielle Anfragen von Industriekäufern entgegenzunehmen.",
+      "In dieser Richtlinie wird erläutert, welche personenbezogenen Daten wir über die Website erfassen, warum wir sie verwenden und wie Sie uns diesbezüglich kontaktieren können. Wir veröffentlichen keine Werksvideos oder Zertifikatsdateien auf der Website; Diese Materialien werden auf Anfrage privat verschickt."
+    ],
+    "sections": [
+      {
+        "title": "Wer ist verantwortlich?",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Welche Daten wir sammeln",
+        "body": [
+          "Mit dem Absenden des Anfrageformulars erhalten wir die von Ihnen eingegebenen Daten: Name, E-Mail, Telefon, Zielland, Produkttyp, Menge und Nachricht.",
+          "Die Website speichert auch Ihre Sprachauswahl im Browser (localStorage). Wir verwenden keine Werbe-Cookies und verkaufen keine Besucherlisten."
+        ]
+      },
+      {
+        "title": "Warum wir die Daten verwenden",
+        "body": [
+          "Wir verwenden Ihre Anfragedaten nur, um Ihre Anfrage zu beantworten, ein Angebot zu erstellen, von Ihnen angeforderte Produktinformationen, Videos oder Zertifikate zu senden und eine Bestellung zu koordinieren, wenn wir eine Zusammenarbeit beginnen.",
+          "Rechtsgrundlage: Ihre Einwilligung durch Ankreuzen des Kontrollkästchens im Formular und unser berechtigtes Interesse an der Beantwortung von B2B-Verkaufsanfragen."
+        ]
+      },
+      {
+        "title": "Wer erhält die Daten?",
+        "body": [
+          "Ihre Nachricht wird per E-Mail an unser Vertriebsteam übermittelt. Je nach Konfiguration kann das Formular von Web3Forms als technischem Anbieter verarbeitet werden, der die Nachricht an uns übermittelt.",
+          "Wir verkaufen keine personenbezogenen Daten. Wir dürfen den Bedarf nur dann an Logistik-, Inspektions- oder Bankpartner weitergeben, wenn dies zur Erfüllung eines vereinbarten Auftrags erforderlich ist."
+        ]
+      },
+      {
+        "title": "Wie lange behalten wir es?",
+        "body": [
+          "Die Anfragedaten werden so lange aufbewahrt, wie es für die Bearbeitung der Anfrage erforderlich ist, und für einen angemessenen Zeitraum danach zur Verkaufsverfolgung und Buchhaltung, es sei denn, Sie bitten uns, sie früher zu löschen, wenn das Gesetz dies zulässt."
+        ]
+      },
+      {
+        "title": "Ihre Rechte",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Sicherheit und Kinder",
+        "body": [
+          "Wir ergreifen angemessene technische und organisatorische Maßnahmen, um Nachrichten während der Übertragung und in unserem Postfach zu schützen. Diese Website richtet sich an Geschäftskäufer, nicht an Kinder."
+        ]
+      }
+    ],
+    "contactLead": "Fragen zu dieser Richtlinie:"
+  }
+}

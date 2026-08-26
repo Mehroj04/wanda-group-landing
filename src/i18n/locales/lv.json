@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produkti",
+    "specs": "Specifikācijas",
+    "applications": "Lietojumprogrammas",
+    "about": "Par",
+    "gallery": "Galerija",
+    "quality": "Kvalitāte",
+    "faq": "FAQ",
+    "contact": "Sazināties",
+    "getQuote": "Saņemt citātu",
+    "inquire": "Jautājiet →",
+    "services": "Pakalpojumi",
+    "pricing": "Cenu noteikšana",
+    "accessories": "Piederumi",
+    "home": "Sākums",
+    "factory": "Rūpnīca"
+  },
+  "hero": {
+    "badge": "Gāzes balonu ražotājs",
+    "title": "Uzticami gāzes baloni rūpniecībai un metināšanai",
+    "subtitle": "Wanda Group ir uzticams acetilēna, propāna balonu un piederumu ražotājs un piegādātājs. Risinājumi gāzes piegādei, metināšanai, griešanai un uzglabāšanai visā pasaulē.",
+    "cta": "Saņemt citātu",
+    "ctaSecondary": "Mūsu produkti",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Gadu pieredze"
+      },
+      {
+        "value": "500K+",
+        "label": "Ražošanas jauda / gads"
+      },
+      {
+        "value": "50+",
+        "label": "Eksporta tirgi"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kvalitāte un sertifikācija"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Uzticami gāzes balonu piederumi",
+    "text": "Mērinstrumenti, vārsti, šļūtenes, lāpas un drošības armatūra - piegāde kopā ar cilindriem vai kā atsevišķs pasūtījums.",
+    "cta": "Skatīt piederumus"
+  },
+  "products": {
+    "title": "Mūsu produkti",
+    "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+    "items": [
+      {
+        "title": "Acetilēna cilindrs",
+        "desc": "Izšķīdināti acetilēna baloni metināšanai, griešanai un rūpnieciskajām gāzēm. Dažādi izmēri un vārstu iespējas.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetilēna ģenerators",
+        "desc": "Iekārtas stabilai gāzes ražošanai, vienkāršai darbībai un rūpnieciskai lietošanai.",
+        "icon": "⚙️",
+        "spec": "Rūpnieciskās ražošanas sistēmas"
+      },
+      {
+        "title": "Propāna cilindrs",
+        "desc": "Izturīgi baloni propānam un LPG — uzglabāšanai, apkurei, griešanai un rūpnieciskai lietošanai.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Cilindru piederumi",
+        "desc": "Šļūtenes, mērinstrumenti, griešanas lāpas, metināšanas degļi, drošības vārsti un daudz kas cits.",
+        "icon": "🔧",
+        "spec": "Vārsti · regulatori · šļūtenes · lāpas"
+      }
+    ],
+    "viewDetails": "Skatīt detaļas"
+  },
+  "specs": {
+    "title": "Tehniskās specifikācijas",
+    "subtitle": "Pirms pieprasījuma nosūtīšanas izpētiet cilindru iespējas, pielāgošanas iespējas un piegādes informāciju.",
+    "items": [
+      {
+        "title": "Cilindra tilpums",
+        "desc": "Dažādas jaudas un tilpuma iespējas atkarībā no pielietojuma un tirgus prasībām."
+      },
+      {
+        "title": "Vārsti un vāciņi",
+        "desc": "Vārsti, vāciņi un veidgabali tiek piegādāti atbilstoši klienta un projekta vajadzībām."
+      },
+      {
+        "title": "Šķīdinātāja iespējas",
+        "desc": "Poraina pildvielu sistēma un šķīdinātāji stabilai acetilēna uzglabāšanai."
+      },
+      {
+        "title": "Iepakojums un piegāde",
+        "desc": "Eksporta iepakojuma un piegādes atbalsts izplatītājiem un projektu klientiem."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Cilindru pielietojumi",
+    "subtitle": "Produkti, kas paredzēti parastajiem rūpnieciskās gāzes uzdevumiem un ārvalstu pircēju prasībām.",
+    "items": [
+      "Metināšana un cietlodēšana",
+      "Metāla griešana",
+      "Rūpnieciskās gāzes apgāde",
+      "Būvniecība",
+      "Metāla izgatavošana",
+      "Gāzes uzglabāšana un sadale"
+    ]
+  },
+  "whyUs": {
+    "title": "Kāpēc Wanda grupa?",
+    "subtitle": "Tieša ražošana, pielāgošana un pilnīgs eksporta atbalsts — viss jūsu biznesam.",
+    "items": [
+      {
+        "title": "Augsta kvalitāte",
+        "desc": "Tērauda baloni, kas izgatavoti rūpnieciskai metināšanai un gāzes padevei."
+      },
+      {
+        "title": "Stingra kvalitātes kontrole",
+        "desc": "Pārbaude no ienākošajiem materiāliem līdz galīgajai iesaiņošanai."
+      },
+      {
+        "title": "Uzlabotā ražošana",
+        "desc": "Formēšana, metināšana, testēšana un apdare vienā ražotnē."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Krāsa, vārsts, marķējums, vāciņš un iepakojums pēc pasūtījuma."
+      },
+      {
+        "title": "Starptautiskais eksports",
+        "desc": "Dokumenti un iepakošana ārvalstu rūpnieciskajiem pircējiem."
+      },
+      {
+        "title": "Uzticama piegāde",
+        "desc": "Tipisks izpildes laiks 15–25 dienas pēc pasūtījuma apstiprināšanas."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesionāls gāzes balonu ražotājs",
+    "text": "Wanda Group gāzes balonu ražotājs specializējas rūpniecisko gāzes balonu un saistīto piederumu ražošanā un piegādē. Mūsu produkti tiek plaši izmantoti metināšanas, griešanas, gāzes sadales, rūpnieciskās uzglabāšanas un citās gāzes piegādes jomās.",
+    "text2": "Mēs atbalstām ārzemju pircējus produktu atlasē, pielāgošanā, kvalitātes pārbaudē, iepakošanas un piegādes koordinēšanā.",
+    "facts": [
+      {
+        "title": "Pieredze",
+        "desc": "15+ gadi piegādā rūpnieciskos gāzes balonus."
+      },
+      {
+        "title": "Ražošana",
+        "desc": "Iekšējā formēšana, metināšana, testēšana un apdare."
+      },
+      {
+        "title": "Kvalitāte",
+        "desc": "ISO 9809, DOT un TPED iespējas pēc tirgus."
+      },
+      {
+        "title": "Eksportēt",
+        "desc": "Sūtījumi saskaņoti 50+ galamērķa tirgiem."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Mūsu rūpnīcā",
+    "subtitle": "Balonu ražošana, metināšana, testēšana, krāsošana un gatavie cilindri — kā mēs sagatavojam eksporta pasūtījumus.",
+    "items": [
+      {
+        "title": "Gatavs cilindru krājums",
+        "desc": "Gatavs inventārs mūsu ražotnē — apjoma jauda vairumtirdzniecības un eksporta pasūtījumiem."
+      },
+      {
+        "title": "Ražošanas metināšana",
+        "desc": "Metāla izgatavošana rūpnīcas stāvā ar rūpniecisko gāzes padevi."
+      },
+      {
+        "title": "Eksporta iepakojums",
+        "desc": "Aizsargājoša sieta un palešu iepakošana pirms starptautiskās nosūtīšanas."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Lielapjoma balonu piegāde",
+        "desc": "Nostipriniet būru kravas autotransportam izplatītājiem un ražotnēm."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Cilindru izmēru diapazons",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kvalitātes kontrole",
+    "subtitle": "Katra partija iet vienu un to pašu ceļu: ražošana, testēšana, pārbaude un galīgā kvalitātes kontrole.",
+    "steps": [
+      {
+        "title": "Ražošana",
+        "desc": "Formēšana, metināšana un montāža rūpnīcas procesa kontrolē."
+      },
+      {
+        "title": "Testēšana",
+        "desc": "Spiediena un noplūdes testi, pirms baloni atstāj līniju."
+      },
+      {
+        "title": "Pārbaude",
+        "desc": "Vizuāla, marķējuma un izmēru pārbaude pēc pasūtījuma."
+      },
+      {
+        "title": "Galīgā kvalitātes kontrole",
+        "desc": "Iepakojuma pārbaude pirms eksporta nosūtīšanas."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Bieži uzdotie jautājumi",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Vai neatradāt savu jautājumu? Nosūtiet preci, izmēru, daudzumu un galamērķa valsti — mēs atbildēsim ar detalizētu piedāvājumu.",
+    "ctaBtn": "Saņemt citātu",
+    "groups": [
+      {
+        "title": "Uzņēmums",
+        "items": [
+          {
+            "q": "Vai esat gāzes balonu ražotājs?",
+            "a": "Jā. Wanda Group specializējas gāzes balonu un saistīto rūpniecisko gāzes piegādes risinājumu ražošanā ārvalstu rūpnieciskajiem pircējiem."
+          },
+          {
+            "q": "Kādus produktus jūs galvenokārt piegādājat?",
+            "a": "Mēs piegādājam acetilēna balonus, propāna balonus, acetilēna ģeneratorus un gāzes balonu piederumus, piemēram, vārstus, regulatorus, šļūtenes, manometrus un lāpas."
+          },
+          {
+            "q": "Vai varat atbalstīt OEM pielāgošanu?",
+            "a": "Jā. Balona krāsu, marķējumu, vārstu, vāciņu un iepakojuma iespējas var apspriest atbilstoši pasūtījumam un mērķa tirgum."
+          },
+          {
+            "q": "Vai jūs atbalstāt ārvalstu pircējus?",
+            "a": "Jā. Mēs atbalstām eksportu, produktu izvēli, iepakošanas prasības, dokumentāciju un piegādes koordināciju."
+          },
+          {
+            "q": "Kā es varu saņemt citātu?",
+            "a": "Lūdzu, norādiet produkta veidu, cilindra izmēru, daudzumu, galamērķa valsti un pielāgošanas prasības, izmantojot pieprasījuma veidlapu vai pa e-pastu. Mūsu komanda atbildēs ar informāciju par produktu un citātu."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Vai pirms pasūtījuma veikšanas varu skatīties rūpnīcas video?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Vai jūs sniedzat produktu video, īpaši par acetilēna baloniem?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Vai varat parādīt ražošanas un kvalitātes kontroles video?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Vai es varu pieprasīt produkta video, kas izveidots konkrētam pasūtījumam?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Risinājumi",
+        "items": [
+          {
+            "q": "Kādus gāzes balonu risinājumus jūs piedāvājat?",
+            "a": "Mēs piedāvājam risinājumus metināšanai un griešanai, gāzes sadalei, rūpnieciskai uzglabāšanai, acetilēna ražošanai, OEM piegādei un eksporta iepirkšanai."
+          },
+          {
+            "q": "Vai varat ieteikt produktus manai lietojumprogrammai?",
+            "a": "Jā. Nosūtiet savu pieteikumu, balona izmēru, daudzumu, galamērķa valsti un nepieciešamos piederumus — mēs ieteiksim piemērotus produktus."
+          },
+          {
+            "q": "Vai jūs piegādājat piederumus kopā ar cilindriem?",
+            "a": "Jā. Kopā ar cilindriem varam piegādāt spiediena regulatorus, šļūtenes, mērierīces, griešanas lāpas, metināšanas lāpas, vārstus un veidgabalus."
+          },
+          {
+            "q": "Vai jūs varat piegādāt gāzes balonus OEM pircējiem?",
+            "a": "Jā. Balona krāsu, marķējumu, vārstu, vāciņu, logotipu un iepakojumu var apspriest atbilstoši pasūtījumam."
+          }
+        ]
+      },
+      {
+        "title": "Produkti",
+        "items": [
+          {
+            "q": "Kam tiek izmantots izšķīdināts acetilēna cilindrs?",
+            "a": "Izšķīdinātos acetilēna balonus plaši izmanto metināšanai, griešanai, lodēšanai, metāla ražošanai un rūpnieciskās gāzes apgādei."
+          },
+          {
+            "q": "Kādus cilindru izmērus jūs varat piegādāt?",
+            "a": "Var apspriest dažādus apjomus un jaudu atkarībā no jūsu mērķa tirgus, pielietojuma un pasūtījuma daudzuma. Lai apstiprinātu, norādiet nepieciešamo izmēru vai vietējo standartu."
+          },
+          {
+            "q": "Vai var mainīt cilindra krāsu, vārstu un marķējumu?",
+            "a": "Jā. Balona krāsu, vārstu, vāciņu, marķējumu, etiķeti un eksporta iepakojumu var izgatavot pēc pasūtījuma."
+          }
+        ]
+      },
+      {
+        "title": "Piederumi",
+        "items": [
+          {
+            "q": "Kādus piederumus jūs piegādājat?",
+            "a": "Mēs piegādājam atpakaļgaitas uztvērējus, manometrus, drošības vārstus, skābekļa šļūtenes, šļūteņu skavas, griešanas lāpas, metināšanas lāpas, filtrus, adapterus un citus gāzes balonu piederumus."
+          },
+          {
+            "q": "Vai gāzes balonu piederumus var pielāgot?",
+            "a": "Jā. Mēs varam pielāgot logotipu, iepakojumu, savienojuma izmēru, vītnes veidu, spiediena diapazonu un tehniskās specifikācijas."
+          },
+          {
+            "q": "Vai var pasūtīt piederumus kopā ar gāzes baloniem?",
+            "a": "Jā. Piederumus var piegādāt kopā ar acetilēna baloniem, propāna baloniem un acetilēna ģeneratoriem."
+          },
+          {
+            "q": "Vai jūs atbalstāt OEM iepakojumu?",
+            "a": "Jā. Vairumtirdzniecības pasūtījumiem mēs varam nodrošināt OEM marķējumu, kartona kārbas, maisiņus un produktu etiķetes."
+          },
+          {
+            "q": "Vai varat sniegt produkta fotoattēlus un specifikācijas?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Kā es varu saņemt piedāvājumu aksesuāriem?",
+            "a": "Lūdzu, norādiet produkta nosaukumu, daudzumu, savienojuma izmēru, darba spiedienu, iepakošanas prasības un galamērķa valsti vai ostu."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Jaunākie raksti",
+    "subtitle": "Ekspertu saturs metināšanas un gāzes apgādes profesionāļiem.",
+    "readMore": "Lasīt vairāk →",
+    "close": "Aizvērt",
+    "items": [
+      {
+        "tag": "Amatnieki",
+        "title": "Pilnīgs propāna cilindra padeves risinājums",
+        "desc": "Iekārtas stabilitāte tieši ietekmē metināšanas un griešanas darba efektivitāti.",
+        "body": [
+          "Amatniekiem, kuri ikdienā met, remontē un izgatavo metālu, stabilās gāzes iekārtas tieši ietekmē darba kvalitāti un ātrumu.",
+          "Wanda Group propāna baloni ir pieejami no 3L līdz 50L ar POL, CGA 510 vai GOST vārstiem atkarībā no jūsu tirgus — viens piegādātājs metināšanai, griešanai un karsēšanai.",
+          "Mēs iesakām pasūtīt balonus kopā ar regulatoriem, šļūtenēm un degļiem. Komplekta piegāde samazina loģistikas izmaksas un nodrošina piederumu savietojamību.",
+          "Pasūtot norādiet mērķa tirgu, apjomu, vārsta veidu un krāsu — mēs sagatavojam OEM marķējumu un eksportējam iepakojumu ar jūsu zīmolu."
+        ]
+      },
+      {
+        "tag": "Uzglabāšana",
+        "title": "Ilgtermiņa acetilēna cilindru uzglabāšanas padomi",
+        "desc": "Uzglabāšanas apstākļi, izvietošanas metodes un regulāras pārbaudes attiecībā uz neizmantotiem baloniem.",
+        "body": [
+          "Daudzi uzņēmumi uzglabā acetilēna un propāna balonus ražošanas pārtraukumos vai kā krājumus. Nelietotiem baloniem joprojām ir nepieciešama pareiza apstrāde.",
+          "Uzglabājiet balonus vertikāli labi vēdināmā vietā, prom no siltuma avotiem un tiešiem saules stariem. Uzglabāšanas temperatūra parasti nedrīkst pārsniegt 40-50°C.",
+          "Pārbaudiet vārstus, vāciņus un marķējumus vismaz reizi ceturksnī. Ilgstošai acetilēna uzglabāšanai turiet cilindrus vertikāli un nekad neļaujiet to sasvērt.",
+          "Wanda Group piegādā balonus ar aizsargvāciņiem un eksporta iepakojumu, kas paredzēts drošai transportēšanai un uzglabāšanai. Uzglabāšanas rokasgrāmatas ir pieejamas jūsu valodā pēc pieprasījuma."
+        ]
+      },
+      {
+        "tag": "Cenu noteikšana",
+        "title": "Budžeta rokasgrāmata acetilēna balonu iegādei",
+        "desc": "Faktori, kas ietekmē izmaksas un kā izvēlēties optimālo piedāvājumu.",
+        "body": [
+          "Acetilēna balona cena ir atkarīga no tilpuma (2L-40L), vārsta tipa, sertifikācijas (ISO, DOT, TPED) un pasūtījuma daudzuma. Orientējošās EXW cenas: WG-10 28–35 USD, WG-25 45–58 USD par vienību.",
+          "Lielākas partijas (200–500+ gab.) saņem ievērojamas atlaides. OEM krāsošana, logotips un īpašs iepakojums palielina bāzes cenu par 5–15%, bet palielina vērtību izplatītājiem.",
+          "Jāņem vērā arī piegāde (FOB/CIF), dokumenti un MOQ. Mēs atbildam 24 stundu laikā ar pilnu specifikāciju, izpildes laiku un Incoterms.",
+          "Lai iegūtu precīzu cenu, saziņas veidlapā iekļaujiet modeli, daudzumu, galamērķa valsti un vārsta prasības vai rakstiet uz sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pieprasīt cenas piedāvājumu",
+    "subtitle": "Pastāstiet mums izmēru, daudzumu, galamērķa valsti un pieteikumu — mēs sagatavosim detalizētu piedāvājumu.",
+    "formTitle": "Pieprasīt cenas piedāvājumu",
+    "formSubtitle": "Atstājiet savas prasības — mūsu pārdošanas komanda atbildēs ar informāciju par produktu, cenām, MOQ un izpildes laiku.",
+    "name": "Vārds",
+    "phone": "Tālrunis / WhatsApp",
+    "email": "E-pasts",
+    "product": "Produkts",
+    "quantity": "Daudzums",
+    "country": "Galamērķa valsts",
+    "productOptions": [
+      "Acetilēna cilindrs",
+      "Propāna cilindrs",
+      "Acetilēna ģenerators",
+      "Piederumi",
+      "Komplekta pasūtījums"
+    ],
+    "message": "Papildu prasības",
+    "messagePlaceholder": "Produkts, izmērs, daudzums, galamērķa valsts...",
+    "submit": "Nosūtīt pieprasījumu",
+    "sending": "Notiek sūtīšana...",
+    "success": "Paldies! Mēs ar jums sazināsimies tuvākajā laikā.",
+    "sendAnother": "Nosūtiet citu pieprasījumu",
+    "errorGeneric": "Neizdevās nosūtīt. Lūdzu, mēģiniet vēlreiz vai rakstiet mums tieši.",
+    "errorNoForm": "Veidlapa nav konfigurēta. Lūdzu, rakstiet uz sales@wandagroups.com",
+    "privacyPrefix": "Es piekrītu",
+    "privacySuffix": "un manu personas datu apstrādi, lai apstrādātu šo pieprasījumu.",
+    "privacyLink": "Privātuma politika",
+    "company": "Uzņēmums",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Sūtīt, izmantojot e-pasta lietotni"
+  },
+  "footer": {
+    "company": "Wanda Group gāzes balonu ražotājs",
+    "tagline": "Profesionāla gāzes balonu ražošana",
+    "rights": "© 2026 Wanda Group. Visas tiesības paturētas.",
+    "privacy": "Privātuma politika"
+  },
+  "ui": {
+    "catalog": "Katalogs",
+    "catalogTitle": "Detalizētas produkta specifikācijas",
+    "catalogSubtitle": "Pilnīgi tehniskie dati, modeļi un parametri katrai kategorijai. Izvēlieties produktu, lai skatītu specifikāciju tabulu.",
+    "requestPrice": "Pieprasīt cenu šim modelim",
+    "services": "Pakalpojumi",
+    "pricing": "Cenu noteikšana",
+    "getExactQuote": "Saņemiet precīzu citātu",
+    "certifications": "Sertifikāti",
+    "order": "Pasūtiet",
+    "reviews": "Atsauksmes",
+    "contact": "Sazināties",
+    "phone": "Tālrunis",
+    "location": "Atrašanās vieta",
+    "quoteResponse": "Citāta atbilde",
+    "support": "Atbalsts",
+    "exportReady": "Eksports gatavs",
+    "years": "Gadiem",
+    "acetylene": "Acetilēns",
+    "isoCertified": "ISO sertificēts",
+    "globalExport": "Globālais eksports",
+    "products": "Produkti",
+    "specs": "Specifikācijas",
+    "applications": "Lietojumprogrammas",
+    "whyUs": "Kāpēc Mēs",
+    "about": "Par mums",
+    "gallery": "Galerija",
+    "quality": "Kvalitāte",
+    "faq": "FAQ",
+    "blog": "Emuārs",
+    "countriesServed": "Apkalpotās valstis",
+    "searchLanguage": "Meklēt valodu...",
+    "noLanguagesFound": "Nav atrasta neviena valoda"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Eksportēt uz 50+ valstīm",
+    "MOQ no 100 gab",
+    "Izpildes laiks 15-25 dienas"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetilēns",
+      "propane": "Propāns",
+      "generator": "Ģenerators",
+      "accessories": "Piederumi"
+    },
+    "acetylene": {
+      "title": "Izšķīdināti acetilēna cilindri",
+      "intro": "Tērauda cilindri ar porainu masu un šķīdinātāju drošai acetilēna uzglabāšanai un transportēšanai. Izmanto metināšanai, griešanai, lodēšanai un metāla ražošanā.",
+      "features": [
+        "Poraina masa + acetons stabilai uzglabāšanai",
+        "CGA 510 / GOST / DIN vārsti pēc pieprasījuma",
+        "Hidrauliskais pārbaudes spiediens 5,2 MPa",
+        "RAL krāsošana, štancēšana un OEM etiķetes",
+        "Eksporta palešu iepakojums"
+      ],
+      "tableTitle": "Standarta acetilēna cilindru modeļi",
+      "headers": [
+        "Modelis",
+        "Tilpums (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Svars (kg)",
+        "Augstums (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Precīzi parametri ir atkarīgi no standarta (ISO/DOT/GB) un vārsta konfigurācijas. Pieprasiet specifikācijas lapu savam tirgum."
+    },
+    "propane": {
+      "title": "Propāna un LPG baloni",
+      "intro": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+      "features": [
+        "37Mn/34CrMo4 tērauds atbilstoši ISO 9809",
+        "Darba spiediens 1,8–2,1 MPa",
+        "POL, CGA 510, GOST vārsti",
+        "Pulverkrāsošana, pretkorozijas",
+        "Sertifikāti ES, ASV, NVS tirgiem"
+      ],
+      "tableTitle": "Standarta propāna cilindru modeļi",
+      "headers": [
+        "Modelis",
+        "Tilpums (L)",
+        "Gāze (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Svars (kg)",
+        "Augstums (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Cenas un MOQ ir atkarīgas no pasūtījuma apjoma un vārsta veida. Nosūtiet pieprasījumu par precīzu citātu."
+    },
+    "generator": {
+      "title": "Acetilēna ģeneratori",
+      "intro": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras.",
+      "features": [
+        "Jauda 3–100 m³/h",
+        "Automātiska ūdens un karbīda padeve",
+        "Drošības sistēma un filtrēšana",
+        "Kompakti un industriāli modeļi",
+        "Pilna dokumentācija un apmācība"
+      ],
+      "tableTitle": "Acetilēna ģeneratoru modeļi",
+      "headers": [
+        "Modelis",
+        "Izlaide (m³/h)",
+        "Karbīds (kg/h)",
+        "Spiediens (kPa)",
+        "Jauda (kW)",
+        "Svars (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Ģeneratori tiek piegādāti ar dzesēšanas sistēmu, filtriem un rezerves daļu komplektu pēc pieprasījuma."
+    },
+    "accessories": {
+      "title": "Cilindru piederumi un piederumi",
+      "intro": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem.",
+      "features": [
+        "Regulatori un mērinstrumenti (CGA/GOST/DIN)",
+        "Augstspiediena šļūtenes",
+        "Griešanas lāpas un metināšanas degļi",
+        "Spiediena samazināšanas vārsti",
+        "Rati, statīvi, vāciņi"
+      ],
+      "tableTitle": "Piederumu katalogs",
+      "headers": [
+        "Kategorija",
+        "Modeļi",
+        "Standarta",
+        "Pieteikums"
+      ],
+      "rows": [
+        [
+          "Regulatori",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetilēns, propāns"
+        ],
+        [
+          "Mērinstrumenti",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Spiediena monitorings"
+        ],
+        [
+          "Šļūtenes",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Metināšana, griešana"
+        ],
+        [
+          "Lāpas",
+          "WG-C100, WG-C300",
+          "—",
+          "Plazmas/skābekļa griešana"
+        ],
+        [
+          "Degļi",
+          "WG-T200, WG-T500",
+          "—",
+          "Metināšana, lodēšana"
+        ],
+        [
+          "Vārsti",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Visi cilindru veidi"
+        ]
+      ],
+      "note": "* Piederumi pieejami atsevišķi vai komplektā ar cilindriem. Atlaide kombinētajiem pasūtījumiem."
+    }
+  },
+  "services": {
+    "title": "Mūsu pakalpojumi",
+    "subtitle": "Pilns cikls — no ražošanas līdz piegādei jūsu noliktavā. Mēs strādājam ar izplatītājiem, OEM zīmoliem un projektu pircējiem.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Pielāgota ražošana (OEM/ODM)",
+        "desc": "Cilindri ar jūsu zīmolu, krāsu un marķējumu.",
+        "points": [
+          "Logo un RAL krāsa",
+          "Tirgus standarta vārsts",
+          "OEM iepakojums un etiķetes"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Eksports un loģistika",
+        "desc": "Pilnīgs starptautisko sūtījumu atbalsts.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Eksporta dokumentācija",
+          "Jūras un dzelzceļa kravu pārvadājumi"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kvalitātes kontrole",
+        "desc": "Testēšana un pārbaude katrā posmā.",
+        "points": [
+          "Hidrostatiskie testi",
+          "UT metinājuma pārbaude",
+          "SGS/BV pārbaude pēc pieprasījuma"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertifikācija",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS un kvalitātes sertifikāts",
+          "Izcelsmes sertifikāts"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Tehniskais atbalsts",
+        "desc": "Palīdziet izvēlēties produktus un konfigurāciju.",
+        "points": [
+          "Uz tirgu balstīta atlase",
+          "MOQ un izpildes laika aprēķins",
+          "Personāla apmācība"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Komplekta piegāde",
+        "desc": "Cilindri + piederumi vienā pasūtījumā.",
+        "points": [
+          "Vienots līgums",
+          "Saskaņota piegāde",
+          "Komplekta atlaide"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Cenas un piegādes noteikumi",
+    "subtitle": "Pārskatāmi B2B iepirkuma noteikumi. Precīza cena tiek aprēķināta individuāli - nosūtiet pieprasījumu, mēs atbildēsim 24 stundu laikā.",
+    "note": "Norādītās cenas ir orientējošas (EXW). Galīgās izmaksas ir atkarīgas no apjoma, vārsta veida, sertifikācijas un piegādes noteikumiem.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "no 100 gab",
+        "desc": "Minimālais pasūtījums katram modelim"
+      },
+      {
+        "label": "Izpildes laiks",
+        "value": "15-25 dienas",
+        "desc": "Pēc pasūtījuma apstiprināšanas"
+      },
+      {
+        "label": "Maksājums",
+        "value": "T/T 30/70",
+        "desc": "30% depozīts, 70% pirms nosūtīšanas"
+      },
+      {
+        "label": "Garantija",
+        "value": "12 mēneši",
+        "desc": "Pret ražošanas defektiem"
+      }
+    ],
+    "factors": {
+      "title": "Cenu faktori",
+      "items": [
+        "Cilindra tilpums un modelis (2L – 50L)",
+        "Vārsta tips (CGA, GOST, DIN, POL)",
+        "Sertifikācijas standarts (ISO, DOT, TPED)",
+        "OEM: krāsa, marķējums, iepakojums",
+        "Pasūtījumu apjoms un Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetilēns WG-10",
+        "moq": "200 gab",
+        "price": "28–35 USD / gab",
+        "lead": "18 dienas"
+      },
+      {
+        "product": "Acetilēns WG-25",
+        "moq": "100 gab",
+        "price": "45–58 USD / gab",
+        "lead": "20 dienas"
+      },
+      {
+        "product": "Propāns WG-P11",
+        "moq": "500 gab",
+        "price": "12–16 USD / gab",
+        "lead": "15 dienas"
+      },
+      {
+        "product": "Propāns WG-P50",
+        "moq": "100 gab",
+        "price": "55–72 USD / gab",
+        "lead": "22 dienas"
+      },
+      {
+        "product": "Ģenerators WG-G20",
+        "moq": "1 vienība",
+        "price": "$3,500–4,200",
+        "lead": "25 dienas"
+      },
+      {
+        "product": "Regulatora komplekts",
+        "moq": "50 gab",
+        "price": "8–15 USD / gab",
+        "lead": "10 dienas"
+      }
+    ],
+    "tableHeaders": [
+      "Produkts",
+      "MOQ",
+      "Cena (EXW)",
+      "Izpildes laiks"
+    ]
+  },
+  "certifications": {
+    "title": "Sertifikāti un standarti",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Bezšuvju tērauda gāzes baloni — tehniskās prasības"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Izšķīdināti acetilēna baloni"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "ASV tirgus sertifikācija"
+      },
+      {
+        "name": "TPED",
+        "desc": "Eiropas transporta direktīva"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Ķīnas gāzes balonu standarts"
+      },
+      {
+        "name": "CE marķējums",
+        "desc": "Eiropas atbilstības prasības"
+      }
+    ]
+  },
+  "process": {
+    "title": "Kā pasūtīt",
+    "subtitle": "Vienkāršs process no pieprasījuma līdz baloniem jūsu noliktavā.",
+    "steps": [
+      {
+        "title": "Nosūtīt pieprasījumu",
+        "desc": "Norādiet produkta, apjoma, valsts un vārsta prasības"
+      },
+      {
+        "title": "Saņemt citātu",
+        "desc": "Cena, MOQ, izpildes laiks un specifikācijas lapa 24 stundu laikā"
+      },
+      {
+        "title": "Apstipriniet pasūtījumu",
+        "desc": "Līguma parakstīšana un 30% depozīta iemaksa"
+      },
+      {
+        "title": "Ražošana un kvalitātes kontrole",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Sūtījums",
+        "desc": "Iepakojums, dokumenti, FOB/CIF/DDP piegāde"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "metināšana",
+        "eyebrow": "Acetilēna cilindri",
+        "title": "Stabila liesma precīzai metināšanai",
+        "text": "Izšķīdināti acetilēna cilindri, kas izstrādāti nepārtrauktai metināšanai un cietlodēšanai — pastāvīgs spiediens, droša poraina masa, eksportam gatavi vārsti.",
+        "points": [
+          "ISO / DOT / GB opcijas",
+          "CGA / GOST / DIN vārsti",
+          "OEM krāsa un marķējums"
+        ]
+      },
+      {
+        "id": "griešana",
+        "eyebrow": "Griešana un izgatavošana",
+        "title": "Jauda, ​​kad metālam jākustas",
+        "text": "Augstas plūsmas acetilēna un skābekļa balonu komplekti kuģu būvētavām, darbnīcām un smagajām ražošanas līnijām.",
+        "points": [
+          "Ātra caurduršana un griešana",
+          "Lāpu komplekti",
+          "Lielapjoma MOQ draudzīgs"
+        ]
+      },
+      {
+        "id": "propāns",
+        "eyebrow": "Propāns un LPG",
+        "title": "Izturīgi LPG baloni katram tirgum",
+        "text": "No apkures un vārīšanas gāzes līdz rūpnieciskai griešanai — tērauda baloni, kas radīti spiedienam, pārklājumam un ilgam kalpošanas laikam.",
+        "points": [
+          "3L-50L diapazons",
+          "POL / CGA vārsti",
+          "Pulverkrāsas apdare"
+        ]
+      },
+      {
+        "id": "rūpnīca",
+        "eyebrow": "Ražošana",
+        "title": "Rūpnīcas kontrole no tērauda līdz nosūtīšanai",
+        "text": "Iekšējā formēšana, metināšana, hidrostatiskā pārbaude un apdare — lai katra partija atbilstu jūsu rasējumam un tirgus standartam.",
+        "points": [
+          "Hidrostatiskā pārbaude",
+          "Izsekojamās partijas",
+          "OEM / ODM gatavs"
+        ]
+      },
+      {
+        "id": "kvalitāti",
+        "eyebrow": "Kvalitāte un drošība",
+        "title": "Apskati varat ievietot citātā",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Spiediena un noplūdes testi",
+          "Certificate package",
+          "Fotogrāfijas pirms nosūtīšanas"
+        ]
+      },
+      {
+        "id": "eksportēt",
+        "eyebrow": "Globālais eksports",
+        "title": "Iepakots ostām, gatavs lietošanai vairāk nekā 50 valstīs",
+        "text": "Eksportējiet paletes, vārstu aizsardzību, daudzvalodu etiķetes un piegādes dokumentus, kas saskaņoti jūsu galamērķim Incoterms.",
+        "points": [
+          "FOB / CIF atbalsts",
+          "Paletē iepakošana",
+          "Izpildes laiks 15-25 dienas"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Rūpnieciskie gāzes baloni gatavi rūpnīcā",
+    "about": "Eksportam gatavs cilindru krājums ar aizsargājošu iepakojumu",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Gatavs cilindru krājums rūpnīcā",
+      "Ražošanas metināšana uz rūpnīcas grīdas",
+      "Eksporta iepakojums ar aizsargtīklu",
+      "Propane cylinders ready for dispatch",
+      "Lielapjoma balonu piegāde ar kravas automašīnu",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Piederumi",
+    "title": "Produktu piederumi",
+    "subtitle": "Detaļas acetilēna cilindriem, ģeneratoriem, metināšanai un griešanai. Atveriet informāciju par specifikācijām un lietojumprogrammām.",
+    "cta": "Pieprasīt sīkāku informāciju",
+    "details": "Sīkāka informācija",
+    "close": "Aizvērt",
+    "featuresLabel": "Galvenās iezīmes",
+    "specsLabel": "Specifikācijas",
+    "applicationsLabel": "Lietojumprogrammas",
+    "qualityLabel": "Kvalitāte un piegāde",
+    "whyTitle": "Kāpēc izvēlēties mūsu aksesuārus?",
+    "why": [
+      "Izturīgs misiņš, nerūsējošais tērauds un industriālie materiāli",
+      "Savietojams ar cilindriem, ģeneratoriem, regulatoriem, šļūtenēm un metināšanas sistēmām",
+      "OEM logotips, iepakojums, savienojuma izmērs, vītnes veids un specifikācijas",
+      "Eksporta iepakošana un stabila piegāde starptautiskajiem pircējiem"
+    ],
+    "items": [
+      {
+        "title": "Acetilēna atpakaļgaitas vārsts",
+        "desc": "Novērš pretējo gāzes plūsmu un liesmas atgriešanos skābekļa-acetilēna metināšanas un griešanas sistēmās.",
+        "intro": "Būtiska drošības ierīce acetilēna sistēmām. Iebūvēts nerūsējošā tērauda liesmas slāpētājs un vienvirziena plūsmas konstrukcija aizsargā operatorus, šļūtenes un gāzes vadus. Savietojams ar regulatoriem, šļūtenēm un lāpām. Ir pieejams OEM logotips, etiķete un iepakojums.",
+        "features": [
+          "Liesmu slāpējošs nerūsējošā tērauda ieliktnis",
+          "Neatgriešanās (vienvirziena) plūsmas dizains",
+          "Augstas izturības misiņa korpuss, izturīgs pret koroziju",
+          "Uzticama blīvēšana zem darba spiediena",
+          "Standarta savienojumi ātrai uzstādīšanai un nomaiņai"
+        ],
+        "specs": [
+          "Gāze: acetilēns (C2H2); skābekļa novadītāji tiek piegādāti atsevišķi",
+          "Korpuss: misiņš; novadītājs: nerūsējošais tērauds",
+          "Savienojums: G 3/8″ LH vai pielāgota vītne",
+          "Darba spiediens: līdz 1,5 MPa / pielāgots",
+          "Pielietojums: skābekļa-acetilēna metināšana, griešana un karsēšana",
+          "Iepakojums: atsevišķa kaste, kartona kārba vai pēc pasūtījuma"
+        ],
+        "applications": [
+          "Skābekļa-acetilēna metināšana un griešana",
+          "Regulatori, šļūtenes un degļu komplekti",
+          "Acetilēna ģeneratoru gāzes vadi"
+        ],
+        "quality": [
+          "100% pārbaude pirms nosūtīšanas",
+          "Blīvējuma, spiediena un atpakaļgaitas funkcijas testi",
+          "Eksporta iepakojums tālsatiksmes piegādei"
+        ]
+      },
+      {
+        "title": "Acetilēna ģeneratora tvertne",
+        "desc": "Serdenes tvertne stabilai acetilēna ražošanai no kalcija karbīda rūpnieciskās gāzes sistēmās.",
+        "intro": "Ģeneratora tvertne ir acetilēna ražošanas sistēmas galvenais trauks. Tas tiek piegādāts stabilai gāzes ražošanai metināšanas, griešanas un vietās bez centralizētas balonu padeves. Jaudu, cauruļvadus un drošības apdari var pielāgot ģeneratora modelim.",
+        "features": [
+          "Acetilēna ģeneratoru sistēmu serdes tvertne",
+          "Izstrādāts stabilai gāzes ražošanai no kalcija karbīda",
+          "Var saskaņot ar filtrēšanas un drošības vārstiem",
+          "Rūpniecisko un kompakto ģeneratoru izkārtojumi",
+          "OEM marķējums, savienojumi un iepakojums pēc pieprasījuma"
+        ],
+        "specs": [
+          "Loma: ģeneratora tvertnes / konteinera montāža",
+          "Saistīto ģeneratoru tipiskais jaudas diapazons: 3–100 m³/h",
+          "Saistīto vienību darba spiediens: apmēram 1,5–5 kPa",
+          "Pēc pieprasījuma tiek piegādāts ar dzesēšanu, filtriem un rezerves daļām",
+          "Savienojumi, jauda un apdare apstiprināta pēc pasūtījuma"
+        ],
+        "applications": [
+          "Acetilēna ģeneratoru iekārtas un pārnēsājamas iekārtas",
+          "Darbnīcas bez centralizētas balonu piegādes",
+          "Rūpnieciskās metināšanas un griešanas gāzes ražošana"
+        ],
+        "quality": [
+          "Rūpnīcas atbilstība ģeneratora modelim",
+          "Eksporta iepakojums un dokumentācija",
+          "Pirms nosūtīšanas apstiprināta jauda un savienojuma informācija"
+        ]
+      },
+      {
+        "title": "Griešanas lāpa",
+        "desc": "Izturīgs skābekļa-acetilēna griešanas deglis precīziem griezumiem, stabilai liesmai un augstai produktivitātei.",
+        "intro": "Profesionāla acetilēna griešanas deglis tīriem, precīziem griezumiem. Misiņa korpuss ar nerūsējošām caurulēm, ergonomisku rokturi un maināmām sprauslām. Savietojams ar acetilēnu un skābekli un ar standarta uzgaļiem.",
+        "features": [
+          "Augstākās kvalitātes misiņa un nerūsējošā konstrukcija",
+          "Stabila liesma un precīza griešanas kontrole",
+          "Uz drošību vērsts dizains, lai samazinātu aizdegšanās risku",
+          "Ergonomisks rokturis, viegli montējams un apkalpojams",
+          "Darbojas ar standarta sprauslām, uzgaļiem un šļūteņu komplektiem"
+        ],
+        "specs": [
+          "Modelis: CT-01 griešanas deglis",
+          "Gāze: acetilēns + skābeklis",
+          "Griešanas biezums: 3–300 mm (atkarīgs no sprauslas un spiediena)",
+          "Darba spiediens: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Savienotājs: G5/8-14 vai pielāgots",
+          "Garums: apm. 460 mm",
+          "Iepakojums: 1 gab./kastē, 10 gab./kartona"
+        ],
+        "applications": [
+          "Oglekļa tērauda plākšņu, cauruļu un profilu griešana",
+          "Ražošanas veikali, kuģu būvētavas un celtniecība",
+          "Rūpnieciskā apkope un griešana uz vietas"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "Izskata, savienojuma, blīvējuma un darbības pārbaudes",
+          "Eksporta iepakojums lielos attālumos"
+        ]
+      },
+      {
+        "title": "Iekšējais/ārējais vītņots leņķa vārsts",
+        "desc": "Lieljaudas cilindra leņķa vārsts ar iekšējām vai ārējām vītnēm atbilstoši tirgus standartiem.",
+        "intro": "Leņķa vārsti acetilēnam un citām rūpnieciskajām gāzēm: izturīgs misiņa korpuss, precīzs blīvējums un vienmērīga rokrata darbība. Iekšējā vai ārējā vītne, kas atbilst cilindra un aprīkojuma standartiem.",
+        "features": [
+          "Izturīgs misiņa korpuss, izturīgs pret koroziju",
+          "Augstas precizitātes apstrāde uzticamai blīvēšanai",
+          "Iekšējās vai ārējās vītnes savienojuma iespējas",
+          "Ergonomisks rokrats ērtai atvēršanai/aizvēršanai",
+          "100% drošības un darbības pārbaude"
+        ],
+        "specs": [
+          "Gāze: acetilēns, skābeklis, argons, slāpeklis un saderīgas gāzes",
+          "Darba spiediens: 25 / 35 bar klase",
+          "Pārbaudes spiediens: 37,5 / 52,5 bāru klase",
+          "Ieplūde/izplūde: iekšēja vai ārēja, pielāgota",
+          "Rokas ritenis: alumīnija/cinka sakausējums",
+          "Temperatūra: -20 °C līdz +60 °C",
+          "Standarti: ISO 10297, GB/T 8335, CGA vai pielāgots",
+          "Iepakojums: 1 gab./maisā, 50 gab./kaste"
+        ],
+        "applications": [
+          "Acetilēna un rūpnieciskās gāzes baloni",
+          "Metināšanas un griešanas gāzes sistēmas",
+          "Darbnīcas, rūpnīcas un laboratorijas gāzes piegāde"
+        ],
+        "quality": [
+          "Materiālu, apstrādes, noplūdes un izskata pārbaudes",
+          "Eksporta iepakojums tālsatiksmes pārvadājumiem",
+          "Vītnes izmērs un standarts apstiprināts katram tirgum"
+        ]
+      },
+      {
+        "title": "Skābekļa šļūtenes skava",
+        "desc": "Nerūsējošā tērauda tārpu piedziņas skava drošiem, pret noplūdēm izturīgiem skābekļa un rūpniecisko šļūteņu savienojumiem.",
+        "intro": "Nerūsējošā tērauda skābekļa šļūtenes skavas metināšanai un rūpnieciskai lietošanai. Spēcīgs saspiešanas spēks, izturība pret rūsu un šļūtenēm draudzīgas malas. Atkārtoti lietojams un viegli uzstādāms.",
+        "features": [
+          "Nerūsējošais tērauds 201/304",
+          "Spēcīgs skavas spēks un drošs stiprinājums",
+          "Izturība pret rūsu, koroziju un oksidāciju",
+          "Gludās joslas malas palīdz aizsargāt šļūteni",
+          "Viegli uzstādīt, noņemt un atkārtoti izmantot"
+        ],
+        "specs": [
+          "Tips: tārpu piedziņas šļūtenes skava",
+          "Šļūteņu diapazons: 8–100 mm, pielāgoti izmēri lielapjoma vajadzībām",
+          "Joslas platums: 9 / 12 mm; biezums 0,6–0,8 mm",
+          "Skrūve: rievota vai sešstūra galva",
+          "Standarti: DIN 3017 / SAE J1508",
+          "Apdare: pulēta",
+          "Iepakojums: 100 gab./maisā, 10 maisiņi/kartona vai pēc pasūtījuma"
+        ],
+        "applications": [
+          "Skābekļa un degvielas šļūtenes metināšanai un griešanai",
+          "Cilindra, regulatora un degļa šļūteņu savienojumi",
+          "Rūpnīcas, darbnīcas un apkopes līnijas"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "Izmēru, joslu un iepakojumu var pielāgot",
+          "Eksportēt kvalitatīvu iepakojumu"
+        ]
+      },
+      {
+        "title": "Skābekļa caurules",
+        "desc": "Elastīga augstspiediena skābekļa šļūtene ar ilgu kalpošanas laiku metināšanai, griešanai un rūpnieciskās gāzes padevei.",
+        "intro": "Skābekļa caurules izgatavotas drošai gāzes pārnešanai zem spiediena. Elastīga, izturīga un nodilumizturīga, ar gludu iekšējo sienu stabilai plūsmai. Vairāki ID un garumi metināšanai un cilindru savienošanai.",
+        "features": [
+          "Augsts darba un pārraušanas spiediens",
+          "Elastīga, pret saliekumiem izturīga konstrukcija",
+          "Novecošanās, ozona un nodilumizturība",
+          "Gluda iekšējā siena stabilai gāzes plūsmai",
+          "Viegls un viegli apstrādājams"
+        ],
+        "specs": [
+          "Gāze: skābeklis",
+          "Darba spiediens: 20 bāri / 290 psi",
+          "Pārraušanas spiediens: 60 bāri / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (pieejams pēc pasūtījuma)",
+          "Garums: 10/20/30/50/100 m vai pēc pasūtījuma",
+          "Krāsa: standarta zila; materiāls SBR / EPDM + poliestera dzija",
+          "Standarti: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatūra: -20 °C līdz +80 °C"
+        ],
+        "applications": [
+          "Skābekļa padeve metināšanai un griešanai",
+          "Cilindra un regulatora šļūtenes savienojums",
+          "Rūpnīcas, darbnīcas un rūpnieciskās gāzes vadi"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "Diametru, garumu, krāsu un etiķeti var pielāgot",
+          "Eksporta iepakojums: saraušanās / auduma maisiņš / kartona kārba"
+        ]
+      },
+      {
+        "title": "Spiediena mērītājs",
+        "desc": "Precīzs skābekļa, acetilēna un citu rūpniecisko gāzu spiediena displejs.",
+        "intro": "Acetilēna, skābekļa un rūpniecisko gāzu mērītāji: caurspīdīga skala, izturīga konstrukcija un stabili rādījumi uz baloniem, regulatoriem un cauruļvadiem. Vairāki diapazoni un savienojumi OEM un eksportam.",
+        "features": [
+          "Augsta precizitāte un stabila veiktspēja",
+          "Skaidrs ciparnīca ērtai lasīšanai",
+          "Triecienizturīga industriālā konstrukcija",
+          "Koroziju izturīgi materiāli",
+          "Vairāki diapazoni un stiprinājumi apakšā/aizmugurē"
+        ],
+        "specs": [
+          "Gāze: acetilēns, skābeklis, argons, CO₂, slāpeklis un saderīgas gāzes",
+          "Ciparnīca: 50 / 63 / 100 mm, pieejams pēc pasūtījuma",
+          "Diapazons: 0–1 bārs līdz 0–400 bāriem, pēc pasūtījuma",
+          "Precizitāte: ±2,5% standarta, ±1,6% pēc izvēles",
+          "Vītne: G1/4, G1/8, NPT1/4, M12 × 1,5 vai pielāgota",
+          "Korpuss: melns tērauds / nerūsējošais pēc izvēles; savienotājs misiņš vai SS",
+          "Logs: stikls vai polikarbonāts; -20 °C līdz +60 °C",
+          "Iepakojums: 1 gab/kaste, 50gab/kartona"
+        ],
+        "applications": [
+          "Gāzes baloni un spiediena regulatori",
+          "Cauruļvadi un rūpnieciskās gāzes sistēmas",
+          "Skābekļa-acetilēna metināšanas un griešanas paneļi"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "OEM ciparnīca un zīmola iespējas",
+          "Eksporta iepakojums"
+        ]
+      },
+      {
+        "title": "Drošības atslodzes vārsts",
+        "desc": "Automātiski atbrīvo lieko spiedienu, lai aizsargātu balonus, cauruļvadus un operatorus.",
+        "intro": "Drošības vārsti automātiski izvada pārspiedienu, lai aizsargātu aprīkojumu un personālu. Piemērots skābeklim, acetilēnam, gaisam, slāpeklim un saderīgām gāzēm. Kompakts misiņa korpuss, vairāki iestatīti spiedieni un vītņu izmēri.",
+        "features": [
+          "Automātiska pārspiediena aizsardzība",
+          "Stabils atvieglojums zem augsta spiediena",
+          "Korpuss no misiņa, izturīgs pret karstumu un koroziju",
+          "Kompakts dizains vienkāršai uzstādīšanai un apkopei",
+          "Vairāki iestatītie spiedieni un vītņu izmēri"
+        ],
+        "specs": [
+          "Gāze: skābeklis, acetilēns, gaiss, slāpeklis un saderīgas gāzes",
+          "Darba spiediens: līdz 25 bar / 25 kg/cm²",
+          "Atvieglojuma diapazons: 0,1–2,5 MPa, pielāgojams",
+          "Temperatūra: -20 °C līdz +120 °C",
+          "Savienojums: vīrietis/sieviete; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Korpuss: misiņš; blīvējums: NBR / PTFE",
+          "Ķermeņa spiediena klase: 25 / 35 bar",
+          "Iepakojums: 1 gab/kaste, 50gab/kartona"
+        ],
+        "applications": [
+          "Cilindra un kolektora pārspiediena aizsardzība",
+          "Rūpnieciskās gāzes iekārtas un cauruļvadi",
+          "Skābekļa-degvielas metināšanas un griešanas sistēmas"
+        ],
+        "quality": [
+          "100% pārbaude pirms nosūtīšanas",
+          "Iestatīto spiedienu, vītni un iepakojumu var pielāgot",
+          "Eksporta iepakojums"
+        ]
+      },
+      {
+        "title": "Metināšanas lāpa",
+        "desc": "Ergonomisks skābekļa-degvielas metināšanas deglis ar vienmērīgu liesmas kontroli metināšanai, cietlodēšanai un karsēšanai.",
+        "intro": "Augstas veiktspējas metināšanas deglis darbam ar skābekli un degvielu: stabila liesma, precīza vadība un izturīgs misiņa korpuss. Vara uzgaļi, maināmas sprauslas un šļūteņu savienojumi darbnīcām un rūpnieciskai lietošanai.",
+        "features": [
+          "Stabila liesma metināšanai un metāla remontam",
+          "Vienmērīga gāzes plūsma un precīza liesmas kontrole",
+          "Izturīgs misiņa korpuss, izturīgs pret karstumu un koroziju",
+          "Ergonomisks rokturis ērtai lietošanai",
+          "Savietojams ar skābekli, acetilēnu un pēc izvēles propānu"
+        ],
+        "specs": [
+          "Tips: skābekļa-acetilēna metināšanas deglis",
+          "Korpuss: misiņš; gals: varš, maināms",
+          "Šļūtenes savienojums: G1/4″ vai 9/16″-18 UNF",
+          "Darba spiediens: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatūra: -20 °C līdz +60 °C",
+          "Pielietojums: metināšana, lodēšana, karsēšana; griešana ar atbilstošiem padomiem",
+          "Iepakojums: 1 gab./kastē, 10 gab./kartona"
+        ],
+        "applications": [
+          "Skābekļa-acetilēna metināšana un remonts",
+          "Lodēšana, karsēšana un savienošana",
+          "Semināri un rūpnieciskā apkope"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "Lāpas stils, savienotājs, iepakojums un logotips var būt OEM",
+          "Materiālu, noplūdes un izskata pārbaudes"
+        ]
+      },
+      {
+        "title": "Filtra pārveidotāja galva",
+        "desc": "Savieno filtra elementu ar regulatoru vai cauruļvadu efektīvai gāzes filtrēšanai.",
+        "intro": "Filtra pārveidotāja galva ir savienojums starp filtra elementu un regulatoru vai gāzes vadu. Tas novieto elementu, uztur pareizu plūsmas virzienu un padara apkopi un nomaiņu vienkāršu cilindru un sadales sistēmās.",
+        "features": [
+          "Savieno filtra elementu ar regulatoru vai cauruļvadu",
+          "Atbalsta efektīvu filtrēšanu gāzes vadā",
+          "Industriālā misiņa/metāla konstrukcija",
+          "Standarta vītņotie porti sistēmas saskaņošanai",
+          "OEM vītne, izmērs un iepakojums pēc pieprasījuma"
+        ],
+        "specs": [
+          "Loma: filtra pārveidotājs / adaptera galva",
+          "Pielietojums: regulatora, cauruļvadu un cilindru filtru komplekti",
+          "Savienojuma izmērs un vītne apstiprināta pēc pasūtījuma",
+          "Ja nepieciešams, komplektā saskaņojams ar filtra elementiem un bļodām"
+        ],
+        "applications": [
+          "Gāzes sadale pirms regulatoriem un instrumentiem",
+          "Cilindru un ģeneratoru filtru komplekti",
+          "Darbnīca un rūpnieciskās gāzes vadi"
+        ],
+        "quality": [
+          "Savienojuma izmērs apstiprināts pirms ražošanas",
+          "Eksporta iepakojums",
+          "Var piegādāt ar atbilstošiem filtra elementiem"
+        ]
+      },
+      {
+        "title": "Filtrs",
+        "desc": "Augstas efektivitātes filtrs, kas noņem mitrumu, eļļu un daļiņas, lai aizsargātu pakārtoto aprīkojumu.",
+        "intro": "Noņem no gāzes plūsmas cietās daļiņas, ūdeni, eļļu un citus piemaisījumus, lai aizsargātu aprīkojumu un pagarinātu kalpošanas laiku. Misiņa galva, kvalitātes elements un stabila darbība zem spiediena. Skābeklim, acetilēnam, gaisam, slāpeklim un saderīgām gāzēm.",
+        "features": [
+          "Augstas efektivitātes filtrēšana tīrai gāzes plūsmai",
+          "Noņem mitrumu, eļļu un daļiņas",
+          "Izturīga misiņa galva un metāla bļoda",
+          "Noņemams elements tīrīšanai vai nomaiņai",
+          "Stabila darbība zem darba spiediena"
+        ],
+        "specs": [
+          "Gāze: skābeklis, acetilēns, gaiss, slāpeklis un saderīgas gāzes",
+          "Ieplūdes spiediens: līdz 2,5 MPa",
+          "Darba spiediens: 0,01–1,6 MPa",
+          "Precizitāte: 5 / 20 / 50 μm pēc izvēles",
+          "Savienojums: G1/4″, G3/8″, G1/2″, G3/4″ pēc izvēles",
+          "Korpuss: misiņš; elements: saķepināta bronza / nerūsējošais tērauds",
+          "Temperatūra: -20 °C līdz +60 °C",
+          "Iepakojums: 1 gab/kaste, 20gab/kartona"
+        ],
+        "applications": [
+          "Cilindru, regulatoru un sadales sistēmas",
+          "Rūpnīcas, darbnīcas un rūpnieciskās gāzes vadi",
+          "Tīrāka plūsma metināšanai, griešanai un laboratorijas piegādei"
+        ],
+        "quality": [
+          "100% pārbaude pirms piegādes",
+          "Vītni, precizitāti un elementu var pielāgot",
+          "Eksporta iepakojums"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Juridisks",
+    "title": "Privātuma politika",
+    "updated": "Pēdējo reizi atjaunināts: 2026. gada 25. augustā",
+    "intro": [
+      "Wanda Group (“mēs”, “mēs”) pārvalda šo vietni, lai prezentētu gāzes balonus, piederumus un saistītos eksporta piedāvājumus, kā arī saņemtu rūpniecisko pircēju komerciālus pieprasījumus.",
+      "Šajā politikā ir paskaidrots, kādus personas datus mēs apkopojam, izmantojot vietni, kāpēc mēs tos izmantojam un kā jūs varat ar mums sazināties. Mēs vietnē nepublicējam rūpnīcas video vai sertifikātu failus; šie materiāli tiek nosūtīti privāti pēc pieprasījuma."
+    ],
+    "sections": [
+      {
+        "title": "Kurš ir atbildīgs",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Kādus datus mēs apkopojam",
+        "body": [
+          "Nosūtot pieprasījuma veidlapu, mēs saņemam jūsu ievadītos datus: vārdu, e-pastu, tālruni, galamērķa valsti, produkta veidu, daudzumu un ziņojumu.",
+          "Vietne arī saglabā jūsu izvēlēto valodu pārlūkprogrammā (localStorage). Mēs nedarbinām reklāmas sīkfailus un nepārdodam apmeklētāju sarakstus."
+        ]
+      },
+      {
+        "title": "Kāpēc mēs izmantojam datus",
+        "body": [
+          "Pieprasījuma datus izmantojam tikai, lai atbildētu uz jūsu pieprasījumu, sagatavotu piedāvājumu, nosūtītu informāciju par produktu, video vai sertifikātus, kurus lūdzāt, kā arī lai saskaņotu pasūtījumu, ja sākam strādāt kopā.",
+          "Juridiskais pamats: jūsu piekrišana, atzīmējot veidlapas izvēles rūtiņu, un mūsu likumīgās intereses atbildēt uz B2B pārdošanas pieprasījumiem."
+        ]
+      },
+      {
+        "title": "Kas saņem datus",
+        "body": [
+          "Jūsu ziņojums tiek nosūtīts mūsu pārdošanas komandai pa e-pastu. Atkarībā no konfigurācijas veidlapu var apstrādāt Web3Forms kā tehniskais nodrošinātājs, kas nosūta mums ziņojumu.",
+          "Mēs nepārdodam personas datus. Mēs varam dalīties ar nepieciešamo ar loģistikas, pārbaudes vai banku partneriem tikai tad, ja tas ir nepieciešams saskaņota pasūtījuma izpildei."
+        ]
+      },
+      {
+        "title": "Cik ilgi mēs to glabājam",
+        "body": [
+          "Pieprasījuma dati tiek glabāti tik ilgi, cik nepieciešams, lai apstrādātu pieprasījumu, un saprātīgu laiku pēc tam pārdošanas uzraudzībai un uzskaitei, ja vien jūs nelūdzat mums tos dzēst agrāk, ja to atļauj likums."
+        ]
+      },
+      {
+        "title": "Jūsu tiesības",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Drošība un bērni",
+        "body": [
+          "Mēs veicam saprātīgus tehniskos un organizatoriskos pasākumus, lai aizsargātu ziņojumus, kas tiek sūtīti un atrodas mūsu pastkastē. Šī vietne ir paredzēta biznesa pircējiem, nevis bērniem."
+        ]
+      }
+    ],
+    "contactLead": "Jautājumi par šo politiku:"
+  }
+}

@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Wyroby",
+    "specs": "Specyfikacje",
+    "applications": "Zastosowanie",
+    "about": "ok",
+    "gallery": "Galeria",
+    "quality": "Jakość",
+    "faq": "Często zadawane pytania",
+    "contact": "Kontakt",
+    "getQuote": "Zapytaj o Cenę",
+    "inquire": "Zapytanie ofertowe",
+    "services": "Usług.",
+    "pricing": "Cennik",
+    "accessories": "Akcesoria",
+    "home": "Dom",
+    "factory": "Fabryka"
+  },
+  "hero": {
+    "badge": "Producent butli gazowych",
+    "title": "Niezawodne butle gazowe dla przemysłu i spawania",
+    "subtitle": "Wanda Group jest zaufanym producentem i dostawcą butli acetylenowych, propanowych i akcesoriów. Rozwiązania dla dostaw gazu, spawania, cięcia i magazynowania na całym świecie.",
+    "cta": "Zapytaj o Cenę",
+    "ctaSecondary": "Nasze produkty ",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Lata doświadczenia"
+      },
+      {
+        "value": "500K+",
+        "label": "Zdolność produkcyjna / rok"
+      },
+      {
+        "value": "50+",
+        "label": "Rynki Eksportowe"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Jakość i certyfikacja"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Niezawodne akcesoria do butli gazowych",
+    "text": "Manometry, zawory, węże, palniki i armatura zabezpieczająca – dostarczane razem z butlami lub jako osobne zamówienie.",
+    "cta": "Zobacz akcesoria"
+  },
+  "products": {
+    "title": "Nasze produkty ",
+    "subtitle": "Butle acetylenowe, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
+    "items": [
+      {
+        "title": "Butla acetylenowa",
+        "desc": "Rozpuszczone butle acetylenowe do spawania, cięcia i gazów przemysłowych. Różne rozmiary i opcje zaworów.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Wytwornica acetylenu",
+        "desc": "Urządzenia do stabilnej produkcji gazu, łatwej obsługi i zastosowań przemysłowych.",
+        "icon": "⚙️",
+        "spec": "Przemysłowe systemy wytwarzania"
+      },
+      {
+        "title": "Butla gazowa z propanem",
+        "desc": "Wytrzymałe butle do propanu i LPG — przechowywanie, ogrzewanie, cięcie i zastosowanie przemysłowe.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL/CGA/GOST"
+      },
+      {
+        "title": "Akcesoria do butli",
+        "desc": "Węże, mierniki, palniki do cięcia, palniki spawalnicze, zawory bezpieczeństwa i inne.",
+        "icon": "🔧",
+        "spec": "Zawory · regulatory · węże · palniki"
+      }
+    ],
+    "viewDetails": "Zobacz szczegóły"
+  },
+  "specs": {
+    "title": "Specyfikacja techniczna",
+    "subtitle": "Przed wysłaniem zapytania zapoznaj się z opcjami butli, możliwościami dostosowywania i szczegółami wysyłki.",
+    "items": [
+      {
+        "title": "Pojemność skokowa cylindrów",
+        "desc": "Różne opcje pojemności i wolumenu w zależności od zastosowania i wymagań rynku."
+      },
+      {
+        "title": "Zawory i nasadki",
+        "desc": "Zawory, zaślepki i armatura dostarczane zgodnie z potrzebami klienta i projektu."
+      },
+      {
+        "title": "Opcje rozpuszczalnika",
+        "desc": "Porowaty system napełniania i rozpuszczalniki do stabilnego przechowywania acetylenu."
+      },
+      {
+        "title": "Pakowanie i wysyłka",
+        "desc": "Pakowanie eksportowe i wsparcie wysyłki dla dystrybutorów i klientów projektu."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Zastosowania cylindrów",
+    "subtitle": "Produkty przeznaczone do typowych zadań związanych z gazami przemysłowymi i wymaganiami zagranicznych nabywców.",
+    "items": [
+      "Spawanie i lutowanie",
+      "cięcie łukowe  metali",
+      "Dostawa gazu przemysłowego",
+      "Budowa",
+      "Produkcja metali",
+      "Magazynowanie i dystrybucja gazu"
+    ]
+  },
+  "whyUs": {
+    "title": "Dlaczego Wanda Group?",
+    "subtitle": "Bezpośrednia produkcja, personalizacja i pełne wsparcie eksportu — wszystko dla Twojej firmy.",
+    "items": [
+      {
+        "title": "Wysoka jakość",
+        "desc": "Butle stalowe przeznaczone do spawania przemysłowego i zasilania gazem."
+      },
+      {
+        "title": "Ścisła kontrola jakości",
+        "desc": "Kontrola od materiałów przychodzących do końcowego pakowania."
+      },
+      {
+        "title": "Zaawansowana produkcja",
+        "desc": "Formowanie, spawanie, testowanie i wykańczanie w jednym zakładzie."
+      },
+      {
+        "title": "OEM/ODM",
+        "desc": "Kolor, zawór, oznakowanie, zakrętka i opakowanie na zamówienie."
+      },
+      {
+        "title": "Eksport międzynarodowy",
+        "desc": "Dokumenty i opakowania dla zagranicznych odbiorców przemysłowych."
+      },
+      {
+        "title": "Niezawodna dostawa",
+        "desc": "Typowy czas realizacji 15–25 dni od potwierdzenia zamówienia."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesjonalny producent butli gazowych",
+    "text": "Producent butli gazowych Wanda Group specjalizuje się w produkcji i dostawie przemysłowych butli gazowych i powiązanych akcesoriów. Nasze produkty znajdują szerokie zastosowanie w spawalnictwie, cięciu, dystrybucji gazu, magazynach przemysłowych i innych obszarach zaopatrzenia w gaz.",
+    "text2": "Wspieramy zagranicznych nabywców w wyborze produktów, dostosowaniu, kontroli jakości, pakowaniu i koordynacji wysyłki.",
+    "facts": [
+      {
+        "title": "Doświadczenie",
+        "desc": "Ponad 15 lat dostarczania przemysłowych butli do gazu."
+      },
+      {
+        "title": "Produkcja",
+        "desc": "Formowanie, spawanie, testowanie i wykańczanie we własnym zakresie."
+      },
+      {
+        "title": "Jakość",
+        "desc": "Opcje ISO 9809, DOT i TPED według rynku."
+      },
+      {
+        "title": "Eksport",
+        "desc": "Koordynacja dostaw dla ponad 50 rynków docelowych."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Wewnątrz naszej fabryki",
+    "subtitle": "Produkcja, spawanie, testowanie, malowanie i gotowe cylindry – jak przygotowujemy zamówienia eksportowe.",
+    "items": [
+      {
+        "title": "Gotowy zapas cylindrów",
+        "desc": "Gotowy stan magazynowy w naszym zakładzie – możliwości wolumenowe dla zamówień hurtowych i eksportowych."
+      },
+      {
+        "title": "Spawanie produkcyjne",
+        "desc": "Produkcja metalu na hali produkcyjnej z dostawą gazu przemysłowego."
+      },
+      {
+        "title": "Opakowania eksportowe",
+        "desc": "Siatka ochronna i opakowanie paletowe przed wysyłką międzynarodową."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Masowa wysyłka butli",
+        "desc": "Zabezpiecz ładunki klatkowe do transportu drogowego do dystrybutorów i zakładów."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Zakres wielkości cylindra",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kontrola jakości",
+    "subtitle": "Każda partia podąża tą samą ścieżką: produkcja, testowanie, kontrola i końcowa kontrola jakości.",
+    "steps": [
+      {
+        "title": "Produkcja",
+        "desc": "Formowanie, spawanie i montaż pod kontrolą procesu zakładowego."
+      },
+      {
+        "title": "Testowanie",
+        "desc": "Testy ciśnieniowe i szczelności przed opuszczeniem linii przez cylindry."
+      },
+      {
+        "title": "Kontrola",
+        "desc": "Kontrola wizualna, znakowania i wymiarowa zgodności z zamówieniem."
+      },
+      {
+        "title": "Końcowa kontrola jakości",
+        "desc": "Kontrola pakowania przed wysyłką eksportową."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Didn’t find your question? Wyślij produkt, rozmiar, ilość i kraj docelowy – w odpowiedzi prześlemy szczegółową ofertę.",
+    "ctaBtn": "Uzyskaj wycenę",
+    "groups": [
+      {
+        "title": "Firma",
+        "items": [
+          {
+            "q": "Czy jesteś producentem butli z gazem?",
+            "a": "Tak. Grupa Wanda specjalizuje się w produkcji butli gazowych i powiązanych rozwiązań w zakresie dostaw gazu przemysłowego dla zagranicznych odbiorców przemysłowych."
+          },
+          {
+            "q": "Jakie produkty głównie dostarczacie?",
+            "a": "Dostarczamy butle z acetylenem, butle z propanem, generatory acetylenu oraz akcesoria do butli gazowych, takie jak zawory, reduktory, węże, manometry i palniki."
+          },
+          {
+            "q": "Czy możesz wesprzeć dostosowywanie OEM?",
+            "a": "Tak. Kolor cylindra, oznaczenie, zawór, nakrętka i opcje pakowania można omówić w zależności od zamówienia i rynku docelowego."
+          },
+          {
+            "q": "Czy wspieracie kupujących z zagranicy?",
+            "a": "Tak. Wspieramy eksport, wybór produktów, wymagania dotyczące pakowania, dokumentację i koordynację wysyłek."
+          },
+          {
+            "q": "Jak mogę otrzymać wycenę?",
+            "a": "Proszę określić rodzaj produktu, rozmiar butli, ilość, kraj docelowy i wymagania dotyczące dostosowywania za pośrednictwem formularza zapytania lub e-mailem. Nasz zespół prześle szczegółowe informacje o produkcie i wycenę."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Czy mogę obejrzeć filmy fabryczne przed złożeniem zamówienia?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Czy udostępniasz filmy dotyczące produktów, zwłaszcza butli z acetylenem?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Czy możesz pokazać filmy z produkcji i kontroli jakości?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Czy mogę poprosić o film produktowy wykonany pod konkretne zamówienie?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Rozwiązania",
+        "items": [
+          {
+            "q": "Jakie rozwiązania w zakresie butli gazowych oferujecie?",
+            "a": "Oferujemy rozwiązania w zakresie spawania i cięcia, dystrybucji gazu, magazynowania przemysłowego, wytwarzania acetylenu, dostaw OEM i zakupów eksportowych."
+          },
+          {
+            "q": "Czy możecie polecić produkty do mojego zastosowania?",
+            "a": "Tak. Prześlij swoje zgłoszenie, rozmiar butli, ilość, kraj docelowy i wymagane akcesoria – polecimy odpowiednie produkty."
+          },
+          {
+            "q": "Czy wraz z cylindrami dostarczacie akcesoria?",
+            "a": "Tak. Możemy dostarczyć regulatory ciśnienia, węże, manometry, palniki do cięcia, palniki spawalnicze, zawory i armaturę wraz z butlami."
+          },
+          {
+            "q": "Czy możesz dostarczyć butle z gazem nabywcom OEM?",
+            "a": "Tak. Kolor cylindra, oznaczenie, zawór, nakrętka, logo i opakowanie można omówić zgodnie z zamówieniem."
+          }
+        ]
+      },
+      {
+        "title": "Produkty",
+        "items": [
+          {
+            "q": "Do czego służy butla z rozpuszczonym acetylenem?",
+            "a": "Butle z rozpuszczonym acetylenem są szeroko stosowane do spawania, cięcia, lutowania, produkcji metali i zaopatrzenia w gaz przemysłowy."
+          },
+          {
+            "q": "Jakie rozmiary cylindrów możesz dostarczyć?",
+            "a": "Można omówić różne objętości i wydajności w zależności od rynku docelowego, zastosowania i wielkości zamówienia. Aby potwierdzić, określ wymagany rozmiar lub lokalny standard."
+          },
+          {
+            "q": "Czy można zmienić kolor butli, zawór i oznaczenie?",
+            "a": "Tak. Kolor cylindra, zawór, nasadka, oznakowanie, etykieta i opakowanie eksportowe można wykonać na zamówienie."
+          }
+        ]
+      },
+      {
+        "title": "Akcesoria",
+        "items": [
+          {
+            "q": "Jakie akcesoria dostarczacie?",
+            "a": "Dostarczamy ograniczniki płomienia, manometry, zawory bezpieczeństwa, węże tlenowe, opaski zaciskowe, palniki do cięcia, palniki spawalnicze, filtry, adaptery i inne akcesoria do butli gazowych."
+          },
+          {
+            "q": "Czy akcesoria do butli gazowych można dostosować?",
+            "a": "Tak. Możemy dostosować logo, opakowanie, rozmiar połączenia, typ gwintu, zakres ciśnień i specyfikacje techniczne."
+          },
+          {
+            "q": "Czy akcesoria można zamówić razem z butlami gazowymi?",
+            "a": "Tak. Akcesoria mogą być dostarczane razem z butlami acetylenu, butlami z propanem i generatorami acetylenu."
+          },
+          {
+            "q": "Czy wspierasz pakowanie OEM?",
+            "a": "Tak. W przypadku zamówień hurtowych możemy zapewnić oznakowanie OEM, kartony, torby i etykiety produktów."
+          },
+          {
+            "q": "Czy możesz dostarczyć zdjęcia i specyfikacje produktów?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Jak mogę otrzymać wycenę akcesoriów?",
+            "a": "Proszę podać nazwę produktu, ilość, rozmiar przyłącza, ciśnienie robocze, wymagania dotyczące pakowania oraz kraj lub port docelowy."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Najnowsze artykuły",
+    "subtitle": "Treści eksperckie dla specjalistów od spawania i dostaw gazu.",
+    "readMore": "Sprawdź",
+    "close": "Zamknięty",
+    "items": [
+      {
+        "tag": "Rzemieślnicy",
+        "title": "Kompletne rozwiązanie zasilania butli z propanem",
+        "desc": "Stabilność sprzętu wpływa bezpośrednio na wydajność prac spawalniczych i cięcia.",
+        "body": [
+          "Dla rzemieślników, którzy codziennie spawają, naprawiają i wytwarzają metal, stabilny sprzęt gazowy bezpośrednio wpływa na jakość i szybkość pracy.",
+          "Butle z propanem Wanda Group są dostępne od 3L do 50L z zaworami POL, CGA 510 lub GOST w zależności od rynku — jeden dostawca do spawania, cięcia i ogrzewania.",
+          "Zalecamy zamawianie butli wraz z reduktorami, wężami i palnikami. Dostawa pakietu zmniejsza koszty logistyczne i zapewnia kompatybilność akcesoriów.",
+          "Przy zamawianiu określ rynek docelowy, objętość, typ i kolor zaworu — przygotowujemy oznakowanie OEM i eksportujemy opakowania pod Twoją marką."
+        ]
+      },
+      {
+        "tag": "Magazyn",
+        "title": "Długoterminowe wskazówki dotyczące przechowywania butli acetylenowych",
+        "desc": "Warunki przechowywania, metody umieszczania i regularne kontrole nieużywanych butli.",
+        "body": [
+          "Wiele firm przechowuje butle acetylenowe i propanowe podczas przerw produkcyjnych lub jako zapasy. Nieużywane butle nadal wymagają odpowiedniej obsługi.",
+          "Przechowuj butle w pozycji pionowej w dobrze wentylowanym miejscu, z dala od źródeł ciepła i bezpośredniego światła słonecznego. Temperatura przechowywania zwykle nie powinna przekraczać 40–50°C.",
+          "Co najmniej raz na kwartał należy sprawdzać zawory, zaślepki i oznaczenia. W przypadku długotrwałego przechowywania acetylenu należy utrzymywać butle w pionie i nigdy nie dopuszczać do ich przechylania.",
+          "Grupa Wanda dostarcza butle z kapslami ochronnymi i opakowaniami eksportowymi przeznaczonymi do bezpiecznego transportu i magazynowania. Przewodniki dotyczące przechowywania są dostępne na życzenie w Twoim języku."
+        ]
+      },
+      {
+        "tag": "Cennik",
+        "title": "Przewodnik budżetowy dotyczący zakupu butli acetylenowej",
+        "desc": "Czynniki wpływające na koszt i sposób wyboru optymalnej oferty.",
+        "body": [
+          "Cena butli acetylenowej zależy od objętości (2L–40L), typu zaworu, certyfikacji (ISO, DOT, TPED) i ilości zamówienia. Orientacyjne ceny EXW: WG-10 $28–35, WG-25 $45–58 za sztukę.",
+          "Większe partie (200–500+ szt.) otrzymują znaczące rabaty. Malowanie OEM, logo i specjalne opakowanie dodają 5–15% do ceny podstawowej, ale zwiększają wartość dla dystrybutorów.",
+          "Należy również wziąć pod uwagę wysyłkę (FOB/CIF), dokumenty i MOQ. Odpowiadamy w ciągu 24 godzin z pełną specyfikacją, czasem realizacji i Incoterms.",
+          "Aby uzyskać dokładną wycenę, w formularzu kontaktowym należy podać wymagania dotyczące modelu, ilości, kraju docelowego i zaworu — lub wysłać wiadomość e-mail na adres sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Poproś o wycenę",
+    "subtitle": "Podaj nam rozmiar, ilość, kraj docelowy i zastosowanie — przygotujemy szczegółową wycenę.",
+    "formTitle": "Poproś o wycenę",
+    "formSubtitle": "Zostaw swoje wymagania — nasz zespół sprzedaży odpowie, podając informacje o produkcie, cenach, MOQ i czasie realizacji.",
+    "name": "Nazwisko",
+    "phone": "Telefon/WhatsApp",
+    "email": "E-mail",
+    "product": "Produkt",
+    "quantity": "Ilość",
+    "country": "Kraj odwiedzany",
+    "productOptions": [
+      "Butla acetylenowa",
+      "Butla gazowa z propanem",
+      "Wytwornica acetylenu",
+      "Akcesoria",
+      "Zamówienie pakietu"
+    ],
+    "message": "Wymogi Dodatkowe",
+    "messagePlaceholder": "Produkt, rozmiar, ilość, kraj docelowy...",
+    "submit": "Wyślij zapytanie",
+    "sending": "Wysyłanie...",
+    "success": "Dziękujemy! Wkrótce się z Tobą skontaktujemy.",
+    "sendAnother": "Wyślij kolejne pytanie",
+    "errorGeneric": "Nie udało się wysłać. Spróbuj ponownie lub napisz do nas bezpośrednio.",
+    "errorNoForm": "Formularz nie został skonfigurowany. Wyślij wiadomość e-mail na adres sales@wandagroups.com",
+    "privacyPrefix": "Zgadzam się na",
+    "privacySuffix": "oraz na przetwarzanie moich danych osobowych w celu obsługi niniejszego zapytania.",
+    "privacyLink": "Polityka prywatności",
+    "company": "Firma",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Wyślij za pomocą aplikacji e-mail"
+  },
+  "footer": {
+    "company": "Producent butli gazowych Wanda Group",
+    "tagline": "Profesjonalna produkcja butli gazowych",
+    "rights": "© 2026 Wanda Group. Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności"
+  },
+  "ui": {
+    "catalog": "Spis treści",
+    "catalogTitle": "Szczegółowe specyfikacje produktu",
+    "catalogSubtitle": "Kompletne dane techniczne, modele i parametry dla każdej kategorii. Wybierz produkt, aby wyświetlić tabelę specyfikacji.",
+    "requestPrice": "Poproś o cenę dla tego modelu",
+    "services": "Usług.",
+    "pricing": "Cennik",
+    "getExactQuote": "Uzyskaj dokładną ofertę",
+    "certifications": "Certyfikat/certyfikacja",
+    "order": "Przedsprzedaż",
+    "reviews": "Przeglądy",
+    "contact": "Kontakt",
+    "phone": "Telefon",
+    "location": "Lokalizacja",
+    "quoteResponse": "Odpowiedź na ofertę",
+    "support": "Wsparcie",
+    "exportReady": "Eksport jest gotowy.",
+    "years": "Lata",
+    "acetylene": "Acetylen ",
+    "isoCertified": "Certyfikat ISO 9001",
+    "globalExport": "Globalny eksport LNG",
+    "products": "Produkty",
+    "specs": "Dane techniczne",
+    "applications": "Aplikacje",
+    "whyUs": "Dlaczego my",
+    "about": "O nas",
+    "gallery": "Galeria",
+    "quality": "Jakość",
+    "faq": "Często zadawane pytania",
+    "blog": "Bloga",
+    "countriesServed": "Obsługiwane kraje",
+    "searchLanguage": "Wyszukaj język...",
+    "noLanguagesFound": "Nie znaleziono języków"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Eksportuj do ponad 50 krajów",
+    "MOQ od 100 szt",
+    "Czas realizacji 15–25 dni"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetylen",
+      "propane": "Propan",
+      "generator": "Generator",
+      "accessories": "Akcesoria"
+    },
+    "acetylene": {
+      "title": "Butle z rozpuszczonym acetylenem",
+      "intro": "Butle stalowe z porowatą masą i rozpuszczalnikiem do bezpiecznego przechowywania i transportu acetylenu. Stosowany przy spawaniu, cięciu, lutowaniu twardym i obróbce metali.",
+      "features": [
+        "Porowata masa + aceton dla stabilnego przechowywania",
+        "Zawory CGA 510/GOST/DIN na zamówienie",
+        "Hydrauliczne ciśnienie próbne 5,2 MPa",
+        "Malowanie RAL, tłoczenie i etykiety OEM",
+        "Eksportowe opakowania paletowe"
+      ],
+      "tableTitle": "Standardowe modele butli acetylenowych",
+      "headers": [
+        "Model",
+        "Objętość (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Waga (kg)",
+        "Wysokość (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Dokładne parametry zależą od standardu (ISO/DOT/GB) i konfiguracji zaworu. Poproś o arkusz specyfikacji dla swojego rynku."
+    },
+    "propane": {
+      "title": "Butle z propanem i LPG",
+      "intro": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy.",
+      "features": [
+        "Stal 37Mn/34CrMo4 zgodnie z ISO 9809",
+        "Ciśnienie robocze 1,8–2,1 MPa",
+        "Zawory POL, CGA 510, GOST",
+        "Malowanie proszkowe, antykorozyjne",
+        "Certyfikaty na rynki UE, USA, WNP"
+      ],
+      "tableTitle": "Standardowe modele butli z propanem",
+      "headers": [
+        "Model",
+        "Objętość (L)",
+        "Gaz (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Waga (kg)",
+        "Wysokość (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Ceny i MOQ zależą od wielkości zamówienia i rodzaju zaworu. Wyślij zapytanie o dokładną wycenę."
+    },
+    "generator": {
+      "title": "Generatory acetylenu",
+      "intro": "Urządzenia do produkcji acetylenu z węglika wapnia. Stabilne dostawy gazu dla potrzeb spawalniczych i przemysłowych bez scentralizowanej infrastruktury gazowej.",
+      "features": [
+        "Wydajność 3–100 m³/h",
+        "Automatyczne podawanie wody i węglika",
+        "System bezpieczeństwa i filtracja",
+        "Modele kompaktowe i przemysłowe",
+        "Pełna dokumentacja i szkolenie"
+      ],
+      "tableTitle": "Modele generatorów acetylenu",
+      "headers": [
+        "Model",
+        "Wydajność (m³/h)",
+        "Węglik (kg/h)",
+        "Ciśnienie (kPa)",
+        "Moc (kW)",
+        "Waga (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generatory dostarczane z układem chłodzenia, filtrami i zestawem części zamiennych na życzenie."
+    },
+    "accessories": {
+      "title": "Akcesoria i złączki do cylindrów",
+      "intro": "Kompletny asortyment do bezpiecznej obsługi butli z gazem: od manometrów po palniki spawalnicze. Kompleksowe zaopatrzenie w butle.",
+      "features": [
+        "Regulatory i mierniki (CGA/GOST/DIN)",
+        "Węże wysokociśnieniowe",
+        "Palniki do cięcia i palniki spawalnicze",
+        "Zawory nadmiarowe ciśnienia",
+        "Wózki, stojaki, czapki"
+      ],
+      "tableTitle": "Katalog akcesoriów",
+      "headers": [
+        "Kategoria",
+        "Modele",
+        "Standard",
+        "Aplikacja"
+      ],
+      "rows": [
+        [
+          "regulatory",
+          "WG-R510, WG-R580",
+          "CGA510/580",
+          "Acetylen, propan"
+        ],
+        [
+          "Wskaźniki",
+          "WG-G63, WG-G100",
+          "ISO5171",
+          "Monitorowanie ciśnienia"
+        ],
+        [
+          "Węże",
+          "WG-H6, WG-H9",
+          "PL 559",
+          "Spawanie, cięcie"
+        ],
+        [
+          "Pochodnie",
+          "WG-C100, WG-C300",
+          "—",
+          "Cięcie plazmowe/tlenowe"
+        ],
+        [
+          "Palniki",
+          "WG-T200, WG-T500",
+          "—",
+          "Spawanie, lutowanie"
+        ],
+        [
+          "Zawory",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Wszystkie typy cylindrów"
+        ]
+      ],
+      "note": "* Akcesoria dostępne osobno lub w zestawie z cylindrami. Rabat na zamówienia łączone."
+    }
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "subtitle": "Pełny cykl — od produkcji po dostawę do Twojego magazynu. Współpracujemy z dystrybutorami, markami OEM i nabywcami projektów.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Produkcja na zamówienie (OEM/ODM)",
+        "desc": "Butle z Twoją marką, kolorem i oznaczeniem.",
+        "points": [
+          "Logo i kolor RAL",
+          "Zawór standardowy na rynku",
+          "Opakowania i etykiety OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Eksport i logistyka",
+        "desc": "Pełna obsługa przesyłek międzynarodowych.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Dokumentacja eksportowa",
+          "Transport morski i kolejowy"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kontrola jakości",
+        "desc": "Testowanie i kontrola na każdym etapie.",
+        "points": [
+          "Badania hydrostatyczne",
+          "Kontrola spoin UT",
+          "Kontrola SGS/BV na żądanie"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Orzecznictwo",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "Karta charakterystyki i certyfikat jakości",
+          "Świadectwo pochodzenia"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Wsparcie techniczne",
+        "desc": "Pomoc w wyborze produktów i konfiguracji.",
+        "points": [
+          "Wybór oparty na rynku",
+          "Obliczanie MOQ i czasu realizacji",
+          "Szkolenie personelu"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Dostawa pakietu",
+        "desc": "Cylindry + akcesoria w jednym zamówieniu.",
+        "points": [
+          "Umowa pojedyncza",
+          "Skoordynowana dostawa",
+          "Rabat na pakiet"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Warunki cen i dostaw",
+    "subtitle": "Przejrzyste warunki zamówień B2B. Dokładna wycena ustalana jest indywidualnie – wyślij zapytanie, odpowiemy w ciągu 24 godzin.",
+    "note": "Podane ceny są cenami orientacyjnymi (EXW). Ostateczny koszt zależy od objętości, rodzaju zaworu, certyfikacji i warunków wysyłki.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "od 100 szt",
+        "desc": "Minimalne zamówienie na model"
+      },
+      {
+        "label": "Czas realizacji",
+        "value": "15–25 dni",
+        "desc": "Po potwierdzeniu zamówienia"
+      },
+      {
+        "label": "Zapłata",
+        "value": "T/T 30/70",
+        "desc": "30% depozytu, 70% przed wysyłką"
+      },
+      {
+        "label": "Gwarancja",
+        "value": "12 miesięcy",
+        "desc": "Przeciw wadom produkcyjnym"
+      }
+    ],
+    "factors": {
+      "title": "Czynniki cenowe",
+      "items": [
+        "Pojemność i model cylindra (2L – 50L)",
+        "Typ zaworu (CGA, GOST, DIN, POL)",
+        "Standard certyfikacji (ISO, DOT, TPED)",
+        "OEM: kolor, oznakowanie, opakowanie",
+        "Wielkość zamówienia i Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylen WG-10",
+        "moq": "200 szt",
+        "price": "28–35 USD / szt",
+        "lead": "18 dni"
+      },
+      {
+        "product": "Acetylen WG-25",
+        "moq": "100 szt",
+        "price": "45–58 USD / szt",
+        "lead": "20 dni"
+      },
+      {
+        "product": "Propan WG-P11",
+        "moq": "500 szt",
+        "price": "12–16 USD / szt",
+        "lead": "15 dni"
+      },
+      {
+        "product": "Propan WG-P50",
+        "moq": "100 szt",
+        "price": "55–72 USD / szt",
+        "lead": "22 dni"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 jednostka",
+        "price": "$3,500–4,200",
+        "lead": "25 dni"
+      },
+      {
+        "product": "Zestaw regulatora",
+        "moq": "50 szt",
+        "price": "8–15 USD / szt",
+        "lead": "10 dni"
+      }
+    ],
+    "tableHeaders": [
+      "Produkt",
+      "MOQ",
+      "Cena (EXW)",
+      "Czas realizacji"
+    ]
+  },
+  "certifications": {
+    "title": "Certyfikaty i standardy",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Bezszwowe butle do gazów stalowe – wymagania techniczne"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Butle z rozpuszczonym acetylenem"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certyfikat rynku amerykańskiego"
+      },
+      {
+        "name": "TPED",
+        "desc": "Europejska dyrektywa transportowa"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Chińska norma dotycząca butli gazowych"
+      },
+      {
+        "name": "Znak CE",
+        "desc": "Europejskie wymagania zgodności"
+      }
+    ]
+  },
+  "process": {
+    "title": "Jak zamówić",
+    "subtitle": "Prosty proces od zapytania po butle w Twoim magazynie.",
+    "steps": [
+      {
+        "title": "Wyślij zapytanie",
+        "desc": "Określ wymagania dotyczące produktu, objętości, kraju i zaworu"
+      },
+      {
+        "title": "Otrzymaj wycenę",
+        "desc": "Cena, MOQ, czas realizacji i specyfikacja w ciągu 24 godzin"
+      },
+      {
+        "title": "Potwierdź zamówienie",
+        "desc": "Podpisanie umowy i wpłata zadatku 30%."
+      },
+      {
+        "title": "Produkcja i kontrola jakości",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Wysyłka",
+        "desc": "Opakowanie, dokumenty, dostawa FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "spawalniczy",
+        "eyebrow": "Butle z acetylenem",
+        "title": "Stabilny płomień do precyzyjnego spawania",
+        "text": "Butle z rozpuszczonym acetylenem zaprojektowane do ciągłego spawania i lutowania — stałe ciśnienie, bezpieczna porowata masa, zawory gotowe do eksportu.",
+        "points": [
+          "Opcje ISO / DOT / GB",
+          "Zawory CGA/GOST/DIN",
+          "Kolor i oznaczenie OEM"
+        ]
+      },
+      {
+        "id": "cięcie",
+        "eyebrow": "Cięcie i produkcja",
+        "title": "Moc, gdy metal musi się poruszać",
+        "text": "Zestawy butli przystosowanych do acetylenu i tlenu o wysokim przepływie dla stoczni, warsztatów i ciężkich linii produkcyjnych.",
+        "points": [
+          "Szybkie przebijanie i cięcie",
+          "Zestawy gotowe do użycia z palnikiem",
+          "Przyjazny dla masowych MOQ"
+        ]
+      },
+      {
+        "id": "propan",
+        "eyebrow": "Propan i LPG",
+        "title": "Trwałe butle LPG na każdy rynek",
+        "text": "Od ogrzewania i gotowania na gazie po cięcie przemysłowe — cylindry stalowe zbudowane z myślą o ciśnieniu, powlekaniu i długiej żywotności.",
+        "points": [
+          "Zakres 3L–50L",
+          "Zawory POL/CGA",
+          "Wykończenie farbą proszkową"
+        ]
+      },
+      {
+        "id": "fabryka",
+        "eyebrow": "Produkcja",
+        "title": "Kontrola fabryczna od stali do wysyłki",
+        "text": "Formowanie, spawanie, testy hydrostatyczne i wykańczanie we własnym zakresie – dzięki czemu każda partia odpowiada Twojemu rysunkowi i standardom rynkowym.",
+        "points": [
+          "Testowany hydrostatycznie",
+          "Identyfikowalne partie",
+          "Gotowy do OEM/ODM"
+        ]
+      },
+      {
+        "id": "jakość",
+        "eyebrow": "Jakość i bezpieczeństwo",
+        "title": "Inspekcję możesz umieścić w wycenie",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Testy ciśnieniowe i szczelności",
+          "Certificate package",
+          "Zdjęcia przed wysyłką"
+        ]
+      },
+      {
+        "id": "eksport",
+        "eyebrow": "Globalny eksport",
+        "title": "Zapakowany do portów, gotowy na ponad 50 krajów",
+        "text": "Eksportuj palety, zabezpieczenia zaworów, wielojęzyczne etykiety i dokumenty wysyłkowe skoordynowane z Incoterms Twojego miejsca docelowego.",
+        "points": [
+          "Wsparcie FOB/CIF",
+          "Opakowanie paletowe",
+          "Czas realizacji 15–25 dni"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Przemysłowe butle gazowe gotowe w fabryce",
+    "about": "Gotowa do eksportu kolba butli z opakowaniem ochronnym",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Gotowy zapas cylindrów w fabryce",
+      "Spawanie produkcyjne na hali produkcyjnej",
+      "Opakowanie eksportowe z siatką ochronną",
+      "Propane cylinders ready for dispatch",
+      "Transport butli luzem ciężarówką",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Akcesoria",
+    "title": "Akcesoria do produktów",
+    "subtitle": "Części do butli z acetylenem, generatorów, spawanie i cięcie. Otwórz szczegóły, aby zapoznać się ze specyfikacjami i aplikacjami.",
+    "cta": "Zapytaj o szczegóły",
+    "details": "Bliższe dane",
+    "close": "Zamknąć",
+    "featuresLabel": "Kluczowe funkcje",
+    "specsLabel": "Dane techniczne",
+    "applicationsLabel": "Aplikacje",
+    "qualityLabel": "Jakość i dostawa",
+    "whyTitle": "Dlaczego warto wybrać nasze akcesoria?",
+    "why": [
+      "Trwały mosiądz, stal nierdzewna i materiały klasy przemysłowej",
+      "Kompatybilny z cylindrami, generatorami, regulatorami, wężami i systemami spawalniczymi",
+      "Logo OEM, opakowanie, rozmiar połączenia, typ gwintu i specyfikacje",
+      "Opakowanie eksportowe i stabilne dostawy dla międzynarodowych nabywców"
+    ],
+    "items": [
+      {
+        "title": "Zawór zwrotny acetylenu",
+        "desc": "Zapobiega odwrotnemu przepływowi gazu i cofaniu się płomienia w systemach spawania i cięcia acetylenowo-tlenowego.",
+        "intro": "Niezbędne urządzenie zabezpieczające w instalacjach acetylenowych. Wbudowany przerywacz płomienia ze spiekanej stali nierdzewnej i konstrukcja z przepływem jednokierunkowym chronią operatorów, węże i przewody gazowe. Kompatybilny z reduktorami, wężami i palnikami. Dostępne logo OEM, etykieta i opakowanie.",
+        "features": [
+          "Wkładka ze spieku ze stali nierdzewnej zatrzymująca płomień",
+          "Projekt przepływu bezzwrotnego (jednokierunkowego).",
+          "Korpus z mosiądzu o wysokiej wytrzymałości, odporny na korozję",
+          "Niezawodne uszczelnienie pod ciśnieniem roboczym",
+          "Standardowe złącza umożliwiające szybką instalację i wymianę"
+        ],
+        "specs": [
+          "Gaz: acetylen (C₂H₂); pochłaniacze tlenu dostarczane oddzielnie",
+          "Korpus: mosiądz; ogranicznik: stal nierdzewna",
+          "Przyłącze: G 3/8″ LH lub gwint niestandardowy",
+          "Ciśnienie robocze: do 1,5 MPa / dostosowane",
+          "Zastosowanie: spawanie tlenowo-acetylenowe, cięcie i podgrzewanie",
+          "Pakowanie: indywidualne pudełko, karton lub niestandardowe"
+        ],
+        "applications": [
+          "Spawanie i cięcie acetylenowo-tlenowe",
+          "Reduktory, węże i zespoły palnika",
+          "Przewody gazowe generatora acetylenu"
+        ],
+        "quality": [
+          "100% kontrola przed wysyłką",
+          "Testy szczelności, ciśnienia i działania płomienia zwrotnego",
+          "Opakowanie eksportowe do dostawy na duże odległości"
+        ]
+      },
+      {
+        "title": "Zbiornik generatora acetylenu",
+        "desc": "Kanister rdzeniowy do stabilnego wytwarzania acetylenu z węglika wapnia w przemysłowych instalacjach gazowych.",
+        "intro": "Zbiornik generatora jest głównym naczyniem układu wytwarzania acetylenu. Jest dostarczany w celu zapewnienia stabilnej produkcji gazu podczas spawania, cięcia i miejsc bez scentralizowanego zasilania butli. Wydajność, orurowanie i wyposażenie zabezpieczające można dopasować do modelu generatora.",
+        "features": [
+          "Pojemnik na rdzeń do systemów generatorów acetylenu",
+          "Zbudowany do stabilnego wytwarzania gazu z węglika wapnia",
+          "Możliwość dopasowania do zaworów filtracyjnych i bezpieczeństwa",
+          "Przemysłowe i kompaktowe układy generatorów",
+          "Oznaczenie OEM, przyłącza i opakowanie na życzenie"
+        ],
+        "specs": [
+          "Rola: montaż kanistra/kontenera generatora",
+          "Typowy zakres wydajności powiązanych generatorów: 3–100 m³/h",
+          "Ciśnienie robocze powiązanych jednostek: około 1,5–5 kPa",
+          "Na życzenie dostarczany z układem chłodzenia, filtrami i częściami zamiennymi",
+          "Połączenia, pojemność i wyposażenie potwierdzane na zamówienie"
+        ],
+        "applications": [
+          "Instalacje generatorów acetylenu i jednostki przenośne",
+          "Warsztaty bez scentralizowanego zasilania butlami",
+          "Przemysłowa produkcja gazów spawalniczych i tnących"
+        ],
+        "quality": [
+          "Fabryczne dopasowanie do modelu generatora",
+          "Opakowanie eksportowe i dokumentacja",
+          "Pojemność i szczegóły połączenia potwierdzone przed wysyłką"
+        ]
+      },
+      {
+        "title": "Palnik do cięcia",
+        "desc": "Wytrzymały palnik do cięcia tlenowo-acetylenowego zapewniający precyzyjne cięcie, stabilny płomień i wysoką wydajność.",
+        "intro": "Profesjonalny palnik do cięcia acetylenem zapewniający czyste i dokładne cięcie. Mosiężny korpus z rurkami ze stali nierdzewnej, ergonomiczny uchwyt i wymienne dysze. Kompatybilne z acetylenem i tlenem oraz ze standardowymi końcówkami.",
+        "features": [
+          "Wysokiej jakości konstrukcja z mosiądzu i stali nierdzewnej",
+          "Stabilny płomień i precyzyjna kontrola cięcia",
+          "Konstrukcja skupiona na bezpieczeństwie, aby zmniejszyć ryzyko wystąpienia pożaru",
+          "Ergonomiczny uchwyt, łatwy w montażu i obsłudze",
+          "Współpracuje ze standardowymi dyszami, końcówkami i zestawami węży"
+        ],
+        "specs": [
+          "Model: Palnik do cięcia CT-01",
+          "Gaz: acetylen + tlen",
+          "Grubość cięcia: 3–300 mm (w zależności od dyszy i ciśnienia)",
+          "Ciśnienie robocze: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Złącze: G5/8-14 lub dostosowane",
+          "Długość: ok. 460 mm",
+          "Pakowanie: 1 szt./opak., 10 szt./karton"
+        ],
+        "applications": [
+          "Cięcie blach, rur i profili ze stali węglowej",
+          "Zakłady produkcyjne, stocznie i budownictwo",
+          "Konserwacja przemysłowa i cięcie na miejscu"
+        ],
+        "quality": [
+          "100% kontrola przed dostawą",
+          "Kontrola wyglądu, podłączenia, uszczelnienia i działania",
+          "Opakowanie eksportowe do wysyłki na duże odległości"
+        ]
+      },
+      {
+        "title": "Zawór kątowy z gwintem wewnętrznym/zewnętrznym",
+        "desc": "Cylindryczny zawór kątowy do dużych obciążeń z możliwością wyboru gwintu wewnętrznego lub zewnętrznego, spełniający standardy rynkowe.",
+        "intro": "Zawory kątowe do acetylenu i innych gazów przemysłowych: solidny korpus z mosiądzu, precyzyjne uszczelnienie i płynna obsługa za pomocą pokrętła. Gwint wewnętrzny lub zewnętrzny dostosowany do standardów cylindrów i wyposażenia.",
+        "features": [
+          "Trwały korpus z mosiądzu, odporny na korozję",
+          "Wysoka precyzja obróbki zapewniająca niezawodne uszczelnienie",
+          "Opcje podłączenia gwintu wewnętrznego lub zewnętrznego",
+          "Ergonomiczne pokrętło ułatwiające otwieranie/zamykanie",
+          "100% kontrola bezpieczeństwa i działania"
+        ],
+        "specs": [
+          "Gaz: acetylen, tlen, argon, azot i gazy kompatybilne",
+          "Ciśnienie robocze: klasa 25 / 35 bar",
+          "Ciśnienie próbne: klasa 37,5 / 52,5 bar",
+          "Wlot/wylot: wewnętrzny lub zewnętrzny, dostosowany",
+          "Pokrętło: stop aluminium/cynku",
+          "Temperatura: -20°C do +60°C",
+          "Normy: ISO 10297, GB/T 8335, CGA lub niestandardowe",
+          "Pakowanie: 1 szt./worek, 50 szt./opakowanie"
+        ],
+        "applications": [
+          "Butle z acetylenem i gazami przemysłowymi",
+          "Instalacje gazowe do spawania i cięcia",
+          "Zaopatrzenie warsztatów, zakładów i laboratoriów w gaz"
+        ],
+        "quality": [
+          "Kontrola materiału, obróbki, szczelności i wyglądu",
+          "Opakowania eksportowe do transportu na duże odległości",
+          "Rozmiar gwintu i standard potwierdzone dla każdego rynku"
+        ]
+      },
+      {
+        "title": "Zacisk węża tlenowego",
+        "desc": "Opaska ślimakowa ze stali nierdzewnej zapewniająca bezpieczne i odporne na wycieki połączenia węży tlenowych i przemysłowych.",
+        "intro": "Zaciski do węży tlenowych ze stali nierdzewnej do spawania i zastosowań przemysłowych. Duża siła mocowania, odporność na rdzę i krawędzie przyjazne dla węży. Nadaje się do wielokrotnego użytku i jest łatwy w montażu.",
+        "features": [
+          "Stal nierdzewna 201/304",
+          "Duża siła zacisku i pewne mocowanie",
+          "Odporność na rdzę, korozję i utlenianie",
+          "Gładkie krawędzie opaski pomagają chronić wąż",
+          "Łatwy w instalacji, demontażu i ponownym użyciu"
+        ],
+        "specs": [
+          "Typ: obejma węża z napędem ślimakowym",
+          "Zakres węży: 8–100 mm, rozmiary niestandardowe dla materiałów luzem",
+          "Szerokość opaski: 9/12 mm; grubość 0,6–0,8 mm",
+          "Śruba: z łbem szczelinowym lub sześciokątnym",
+          "Normy: DIN 3017 / SAE J1508",
+          "Wykończenie: polerowane",
+          "Pakowanie: 100 sztuk/worek, 10 torebek/karton lub niestandardowe"
+        ],
+        "applications": [
+          "Węże tlenowe i paliwowe do spawania i cięcia",
+          "Złącza cylindra, regulatora i węża palnika",
+          "Linie fabryczne, warsztatowe i konserwacyjne"
+        ],
+        "quality": [
+          "100% kontrola przed dostawą",
+          "Rozmiar, pasek i opakowanie można dostosować",
+          "Opakowanie o jakości eksportowej"
+        ]
+      },
+      {
+        "title": "Rurki tlenowe",
+        "desc": "Elastyczny, wysokociśnieniowy wąż tlenowy o długiej żywotności, do spawania, cięcia i zasilania gazem przemysłowym.",
+        "intro": "Rurki tlenowe przeznaczone do bezpiecznego przesyłu gazu pod ciśnieniem. Elastyczny, odporny na załamania i ścieranie, z gładką ścianką wewnętrzną zapewniającą stabilny przepływ. Wiele identyfikatorów i długości do spawania i podłączenia butli.",
+        "features": [
+          "Wysokie ciśnienie robocze i rozrywające",
+          "Elastyczna, odporna na załamania konstrukcja",
+          "Odporność na starzenie, ozon i ścieranie",
+          "Gładka ściana wewnętrzna zapewnia stabilny przepływ gazu",
+          "Lekki i łatwy w obsłudze"
+        ],
+        "specs": [
+          "Gaz: tlen",
+          "Ciśnienie robocze: 20 barów / 290 psi",
+          "Ciśnienie rozrywające: 60 barów / 870 psi",
+          "ID: 6/8/9/10/12/13 mm (dostępne na zamówienie)",
+          "Długość: 10 / 20 / 30 / 50 / 100 m lub niestandardowa",
+          "Kolor: standardowy niebieski; materiał SBR/EPDM + przędza poliestrowa",
+          "Normy: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatura: -20°C do +80°C"
+        ],
+        "applications": [
+          "Zasilanie tlenem do spawania i cięcia",
+          "Połączenie węża butli z reduktorem",
+          "Fabryki, warsztaty i przemysłowe linie gazowe"
+        ],
+        "quality": [
+          "100% kontrola przed dostawą",
+          "Można dostosować średnicę, długość, kolor i etykietę",
+          "Opakowanie eksportowe: termokurczliwa / tkana torba / karton"
+        ]
+      },
+      {
+        "title": "Ciśnieniomierz",
+        "desc": "Dokładny wyświetlacz ciśnienia tlenu, acetylenu i innych gazów przemysłowych.",
+        "intro": "Manometry do acetylenu, tlenu i gazów przemysłowych: czytelna tarcza, trwała konstrukcja i stabilne odczyty na butlach, reduktorach i rurociągach. Wiele asortymentów i połączeń dla OEM i eksportu.",
+        "features": [
+          "Wysoka dokładność i stabilna wydajność",
+          "Wyraźne pokrętło ułatwiające odczyt",
+          "Odporna na wstrząsy konstrukcja przemysłowa",
+          "Materiały odporne na korozję",
+          "Wiele zakresów i mocowania dolne/tylne"
+        ],
+        "specs": [
+          "Gaz: acetylen, tlen, argon, CO₂, azot i kompatybilne gazy",
+          "Tarcza: 50 / 63 / 100 mm, dostępna na zamówienie",
+          "Zakres: 0–1 bar do 0–400 bar, niestandardowe",
+          "Dokładność: ±2,5% standardowo, ±1,6% opcjonalnie",
+          "Gwint: G1/4, G1/8, NPT1/4, M12×1,5 lub niestandardowy",
+          "Koperta: stal czarna / opcjonalnie stal nierdzewna; złącze mosiężne lub SS",
+          "Okno: szkło lub poliwęglan; −20°C do +60°C",
+          "Pakowanie: 1 szt./opak., 50 szt./karton"
+        ],
+        "applications": [
+          "Butle gazowe i regulatory ciśnienia",
+          "Rurociągi i instalacje gazów przemysłowych",
+          "Panele do spawania i cięcia tlenowo-acetylenowego"
+        ],
+        "quality": [
+          "100% testów przed dostawą",
+          "Opcje wybierania i brandingu OEM",
+          "Opakowanie eksportowe"
+        ]
+      },
+      {
+        "title": "Zawór bezpieczeństwa",
+        "desc": "Automatycznie uwalnia nadciśnienie, chroniąc butle, rurociągi i operatorów.",
+        "intro": "Zawory bezpieczeństwa automatycznie rozładowują nadciśnienie, chroniąc sprzęt i personel. Nadaje się do tlenu, acetylenu, powietrza, azotu i kompatybilnych gazów. Kompaktowy mosiężny korpus, wiele nastaw ciśnień i rozmiarów gwintów.",
+        "features": [
+          "Automatyczne zabezpieczenie przed nadmiernym ciśnieniem",
+          "Stabilne odciążenie pod wysokim ciśnieniem",
+          "Korpus z mosiądzu, odporny na ciepło i korozję",
+          "Kompaktowa konstrukcja ułatwiająca instalację i serwis",
+          "Wiele ustawionych ciśnień i rozmiarów gwintów"
+        ],
+        "specs": [
+          "Gaz: tlen, acetylen, powietrze, azot i kompatybilne gazy",
+          "Ciśnienie robocze: do 25 bar / 25 kg/cm²",
+          "Zakres podciśnienia: 0,1–2,5 MPa, konfigurowalny",
+          "Temperatura: -20°C do +120°C",
+          "Podłączenie: męskie/żeńskie; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Korpus: mosiądz; uszczelka: NBR / PTFE",
+          "Klasa ciśnienia ciała: 25 / 35 bar",
+          "Pakowanie: 1 szt./opak., 50 szt./karton"
+        ],
+        "applications": [
+          "Zabezpieczenie cylindra i kolektora przed nadmiernym ciśnieniem",
+          "Przemysłowe urządzenia i rurociągi gazowe",
+          "Systemy spawania i cięcia tlenowego"
+        ],
+        "quality": [
+          "100% testów przed wysyłką",
+          "Ustawione ciśnienie, gwint i uszczelnienie można dostosować",
+          "Opakowanie eksportowe"
+        ]
+      },
+      {
+        "title": "Palnik spawalniczy",
+        "desc": "Ergonomiczny palnik tlenowo-paliwowy z płynną regulacją płomienia do spawania, lutowania twardego i podgrzewania.",
+        "intro": "Wysokowydajny palnik spawalniczy do pracy z tlenem: stabilny płomień, precyzyjna kontrola i trwały korpus z mosiądzu. Miedziane końcówki, wymienne dysze i złącza węży do zastosowań warsztatowych i przemysłowych.",
+        "features": [
+          "Stabilny płomień do spawania i naprawy metali",
+          "Płynny przepływ gazu i precyzyjna kontrola płomienia",
+          "Trwały korpus z mosiądzu, odporny na ciepło i korozję",
+          "Ergonomiczny uchwyt zapewniający wygodną obsługę",
+          "Kompatybilny z tlenem, acetylenem i opcjonalnie propanem"
+        ],
+        "specs": [
+          "Typ: palnik do spawania acetylenowo-tlenowego",
+          "Korpus: mosiądz; końcówka: miedziana, wymienna",
+          "Przyłącze węża: G1/4″ lub 9/16″-18 UNF",
+          "Ciśnienie robocze: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatura: -20°C do +60°C",
+          "Zastosowanie: spawanie, lutowanie, podgrzewanie; cięcie za pomocą pasujących końcówek",
+          "Pakowanie: 1 szt./opak., 10 szt./karton"
+        ],
+        "applications": [
+          "Spawanie i naprawy tlenowo-acetylenowe",
+          "Lutowanie, podgrzewanie i łączenie",
+          "Warsztaty i konserwacja przemysłowa"
+        ],
+        "quality": [
+          "100% kontrola przed dostawą",
+          "Styl palnika, złącze, opakowanie i logo mogą być OEM",
+          "Kontrola materiału, szczelności i wyglądu"
+        ]
+      },
+      {
+        "title": "Głowica konwertera filtra",
+        "desc": "Łączy element filtrujący z regulatorem lub rurociągiem w celu skutecznej filtracji gazu.",
+        "intro": "Głowica konwertera filtra stanowi połączenie pomiędzy elementem filtrującym a reduktorem lub przewodem gazowym. Osadza element, utrzymuje prawidłowy kierunek przepływu i ułatwia serwisowanie i wymianę butli i systemów dystrybucyjnych.",
+        "features": [
+          "Łączy element filtrujący z regulatorem lub rurociągiem",
+          "Wspomaga skuteczną filtrację w przewodzie gazowym",
+          "Przemysłowa konstrukcja z mosiądzu/metalu",
+          "Standardowe porty gwintowane do dopasowania systemu",
+          "Gwint OEM, rozmiar i opakowanie na żądanie"
+        ],
+        "specs": [
+          "Rola: konwerter filtra / głowica adaptera",
+          "Zastosowanie: zespoły filtrów reduktorów, rurociągów i cylindrów",
+          "Rozmiar przyłącza i gwint potwierdzone na zamówienie",
+          "W razie potrzeby w komplecie z elementami filtrującymi i misami"
+        ],
+        "applications": [
+          "Dystrybucja gazu przed reduktorami i narzędziami",
+          "Zespoły filtrów cylindrów i generatorów",
+          "Linie gazowe warsztatowe i przemysłowe"
+        ],
+        "quality": [
+          "Rozmiar połączenia potwierdzony przed produkcją",
+          "Opakowanie eksportowe",
+          "Może być dostarczony z pasującymi elementami filtrującymi"
+        ]
+      },
+      {
+        "title": "Filtr",
+        "desc": "Filtr o wysokiej wydajności, który usuwa wilgoć, olej i cząstki, aby chronić dalszy sprzęt.",
+        "intro": "Usuwa cząstki stałe, wodę, olej i inne zanieczyszczenia ze strumienia gazu, chroniąc sprzęt i przedłużając jego żywotność. Mosiężna główka, element jakościowy i stabilna praca pod ciśnieniem. Do tlenu, acetylenu, powietrza, azotu i gazów kompatybilnych.",
+        "features": [
+          "Wysokowydajna filtracja zapewniająca czysty przepływ gazu",
+          "Usuwa wilgoć, olej i cząsteczki",
+          "Wytrzymała mosiężna główka i metalowa misa",
+          "Odpinany element do czyszczenia lub wymiany",
+          "Stabilna praca pod ciśnieniem roboczym"
+        ],
+        "specs": [
+          "Gaz: tlen, acetylen, powietrze, azot i kompatybilne gazy",
+          "Ciśnienie wlotowe: do 2,5 MPa",
+          "Ciśnienie robocze: 0,01–1,6 MPa",
+          "Dokładność: opcjonalnie 5 / 20 / 50 µm",
+          "Przyłącze: G1/4″, G3/8″, G1/2″, G3/4″ opcjonalnie",
+          "Korpus: mosiądz; element: brąz spiekany / stal nierdzewna",
+          "Temperatura: -20°C do +60°C",
+          "Pakowanie: 1 szt./opakowanie, 20 szt./karton"
+        ],
+        "applications": [
+          "Systemy butli, regulatorów i dystrybucji",
+          "Fabryki, warsztaty i przemysłowe linie gazowe",
+          "Czystszy przepływ podczas spawania, cięcia i zaopatrzenia laboratorium"
+        ],
+        "quality": [
+          "100% kontrola przed dostawą",
+          "Gwint, dokładność i element można dostosować",
+          "Opakowanie eksportowe"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Prawny",
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: 25 sierpnia 2026 r",
+    "intro": [
+      "Wanda Group („my”, „nas”) prowadzi tę stronę internetową w celu prezentowania butli gazowych, akcesoriów i powiązanych dostaw eksportowych, a także otrzymywania zapytań handlowych od odbiorców przemysłowych.",
+      "Niniejsza polityka wyjaśnia, jakie dane osobowe gromadzimy za pośrednictwem witryny, dlaczego z nich korzystamy i w jaki sposób możesz się z nami skontaktować w tej sprawie. Na stronie nie publikujemy filmów fabrycznych ani plików certyfikatów; materiały te wysyłamy prywatnie na życzenie."
+    ],
+    "sections": [
+      {
+        "title": "Kto jest odpowiedzialny",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Jakie dane zbieramy",
+        "body": [
+          "Kiedy wysyłasz formularz zapytania, otrzymujemy wprowadzone przez Ciebie dane: imię i nazwisko, adres e-mail, telefon, kraj docelowy, rodzaj produktu, ilość i wiadomość.",
+          "Strona przechowuje także wybrany przez Ciebie język w przeglądarce (localStorage). Nie używamy reklamowych plików cookie ani nie sprzedajemy list gości."
+        ]
+      },
+      {
+        "title": "Dlaczego wykorzystujemy dane",
+        "body": [
+          "Dane zapytania wykorzystujemy wyłącznie w celu udzielenia odpowiedzi na Twoją prośbę, przygotowania oferty, przesłania informacji o produktach, filmów lub certyfikatów, o które prosiłeś, a także w celu koordynowania zamówienia, jeśli rozpoczniemy współpracę.",
+          "Podstawa prawna: Twoja zgoda w przypadku zaznaczenia checkboxa w formularzu oraz nasz prawnie uzasadniony interes polegający na odpowiadaniu na zapytania sprzedażowe B2B."
+        ]
+      },
+      {
+        "title": "Kto otrzymuje dane",
+        "body": [
+          "Twoja wiadomość zostanie dostarczona do naszego zespołu sprzedaży pocztą elektroniczną. W zależności od konfiguracji formularz może być przetwarzany przez Web3Forms jako dostawcę technicznego, który przekazuje nam wiadomość.",
+          "Nie sprzedajemy danych osobowych. Możemy dzielić się tym, co jest potrzebne partnerom logistycznym, inspekcyjnym lub bankowym tylko wtedy, gdy jest to wymagane do realizacji uzgodnionego zamówienia."
+        ]
+      },
+      {
+        "title": "Jak długo to przechowujemy",
+        "body": [
+          "Dane zapytania są przechowywane tak długo, jak jest to konieczne do rozpatrzenia wniosku, a także przez rozsądny okres po jego zakończeniu w celu monitorowania sprzedaży i księgowości, chyba że poprosisz nas o wcześniejsze usunięcie ich, jeśli pozwala na to prawo."
+        ]
+      },
+      {
+        "title": "Twoje prawa",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Bezpieczeństwo i dzieci",
+        "body": [
+          "Podejmujemy rozsądne kroki techniczne i organizacyjne, aby chronić wiadomości przesyłane i przechowywane w naszej skrzynce pocztowej. Ta strona internetowa jest przeznaczona dla klientów biznesowych, a nie dla dzieci."
+        ]
+      }
+    ],
+    "contactLead": "Pytania dotyczące tej polityki:"
+  }
+}

@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Productos",
+    "specs": "Especificaciones",
+    "applications": "Aplicaciones",
+    "about": "Nosotros",
+    "gallery": "Galería",
+    "quality": "Calidad",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contacto",
+    "getQuote": "Solicitar presupuesto",
+    "inquire": "Consultar →",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "accessories": "Accesorios",
+    "home": "Inicio",
+    "factory": "Fábrica"
+  },
+  "hero": {
+    "badge": "Fabricante de cilindros de gas",
+    "title": "Cilindros de gas fiables para industria y soldadura",
+    "subtitle": "Wanda Group es un fabricante y proveedor de confianza de cilindros de acetileno, propano y accesorios. Soluciones para suministro de gas, soldadura, corte y almacenamiento en todo el mundo.",
+    "cta": "Solicitar presupuesto",
+    "ctaSecondary": "Nuestros productos",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Años de experiencia"
+      },
+      {
+        "value": "500K+",
+        "label": "Capacidad de producción / año"
+      },
+      {
+        "value": "50+",
+        "label": "Mercados de exportación"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Calidad y Certificación"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Accesorios confiables para cilindros de gas",
+    "text": "Manómetros, válvulas, mangueras, sopletes y accesorios de seguridad: se suministran junto con los cilindros o como pedido por separado.",
+    "cta": "Ver accesorios"
+  },
+  "products": {
+    "title": "Nuestros productos",
+    "subtitle": "Cilindros de acetileno, generadores, cilindros de propano y accesorios para aplicaciones industriales y de soldadura.",
+    "items": [
+      {
+        "title": "Cilindro de acetileno",
+        "desc": "Cilindros de acetileno disuelto para soldadura, corte y gases industriales. Varios tamaños y opciones de válvula.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / PUNTO / TPED"
+      },
+      {
+        "title": "Generador de acetileno",
+        "desc": "Equipos para producción estable de gas, fácil operación y aplicaciones industriales.",
+        "icon": "⚙️",
+        "spec": "Sistemas de generación industrial"
+      },
+      {
+        "title": "Cilindro de propano",
+        "desc": "Cilindros duraderos para propano y GLP — almacenamiento, calefacción, corte y uso industrial.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Accesorios para cilindros",
+        "desc": "Mangueras, manómetros, soplete de corte, quemadores de soldadura, válvulas de seguridad y más.",
+        "icon": "🔧",
+        "spec": "Válvulas · reguladores · mangueras · antorchas"
+      }
+    ],
+    "viewDetails": "Ver detalles"
+  },
+  "specs": {
+    "title": "Especificaciones técnicas",
+    "subtitle": "Explore opciones de cilindros, capacidades de personalización y detalles de envío antes de enviar una consulta.",
+    "items": [
+      {
+        "title": "Capacidad del cilindro",
+        "desc": "Diversas opciones de capacidad y volumen según la aplicación y los requisitos del mercado."
+      },
+      {
+        "title": "Válvulas y tapas",
+        "desc": "Válvulas, tapas y racores suministrados según las necesidades del cliente y del proyecto."
+      },
+      {
+        "title": "Opciones de disolvente",
+        "desc": "Sistema de relleno poroso y disolventes para un almacenamiento estable de acetileno."
+      },
+      {
+        "title": "Embalaje y envío",
+        "desc": "Embalaje de exportación y soporte de envío para distribuidores y clientes de proyectos."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Aplicaciones de los cilindros",
+    "subtitle": "Productos diseñados para tareas habituales de gas industrial y requisitos de compradores internacionales.",
+    "items": [
+      "Soldadura y brasado",
+      "Corte de metal",
+      "Suministro de gas industrial",
+      "Construcción",
+      "Fabricación metálica",
+      "Almacenamiento y distribución de gas"
+    ]
+  },
+  "whyUs": {
+    "title": "¿Por qué Wanda Group?",
+    "subtitle": "Fabricación directa, personalización y soporte completo de exportación — todo para su negocio.",
+    "items": [
+      {
+        "title": "Alta calidad",
+        "desc": "Cilindros de acero construidos para soldadura industrial y suministro de gas."
+      },
+      {
+        "title": "Estricto control de calidad",
+        "desc": "Inspección desde la entrada de materiales hasta el embalaje final."
+      },
+      {
+        "title": "Fabricación avanzada",
+        "desc": "Conformado, soldadura, pruebas y acabado en una sola planta."
+      },
+      {
+        "title": "OEM/ODM",
+        "desc": "Color, válvula, marcado, tapón y embalaje bajo pedido."
+      },
+      {
+        "title": "Exportación Internacional",
+        "desc": "Documentación y embalaje para compradores industriales extranjeros."
+      },
+      {
+        "title": "Entrega confiable",
+        "desc": "Plazo de entrega típico de 15 a 25 días después de la confirmación del pedido."
+      }
+    ]
+  },
+  "about": {
+    "title": "Fabricante profesional de cilindros de gas",
+    "text": "Wanda Group Gas Cylinder Manufacturer se especializa en la producción y suministro de cilindros de gas industrial y accesorios relacionados. Nuestros productos se utilizan ampliamente en soldadura, corte, distribución de gas, almacenamiento industrial y otros campos de suministro de gas.",
+    "text2": "Apoyamos a compradores internacionales en la selección de productos, personalización, inspección de calidad, embalaje y coordinación de envíos.",
+    "facts": [
+      {
+        "title": "Experiencia",
+        "desc": "Más de 15 años suministrando cilindros de gas industriales."
+      },
+      {
+        "title": "Producción",
+        "desc": "Conformado, soldadura, pruebas y acabados internos."
+      },
+      {
+        "title": "Calidad",
+        "desc": "Opciones ISO 9809, DOT y TPED por mercado."
+      },
+      {
+        "title": "Exportar",
+        "desc": "Envíos coordinados para más de 50 mercados de destino."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Dentro de nuestra fábrica",
+    "subtitle": "Producción, soldadura, pruebas, pintura y cilindros terminados: cómo preparamos los pedidos de exportación.",
+    "items": [
+      {
+        "title": "Cilindros terminados",
+        "desc": "Inventario listo en nuestra planta: capacidad de volumen para pedidos al por mayor y de exportación."
+      },
+      {
+        "title": "Soldadura de producción",
+        "desc": "Fabricación de metal en planta con suministro de gas industrial."
+      },
+      {
+        "title": "Embalaje de exportación",
+        "desc": "Embalaje de malla protectora y pallet antes del envío internacional."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Envío de cilindros a granel",
+        "desc": "Cargas en jaulas seguras para transporte por carretera a distribuidores y plantas."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Rango de tamaño del cilindro",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Control de calidad",
+    "subtitle": "Cada lote sigue el mismo camino: producción, pruebas, inspección y control de calidad final.",
+    "steps": [
+      {
+        "title": "Producción",
+        "desc": "Conformado, soldadura y montaje bajo control de proceso en planta."
+      },
+      {
+        "title": "Pruebas",
+        "desc": "Pruebas de presión y fugas antes de que los cilindros salgan de la línea."
+      },
+      {
+        "title": "Inspección",
+        "desc": "Controles visuales, de marcado y dimensionales respecto al pedido."
+      },
+      {
+        "title": "Control de Calidad Final",
+        "desc": "Inspección de embalaje antes del envío de exportación."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "¿No encontraste tu pregunta? Envíe el producto, tamaño, cantidad y país de destino; le responderemos con una oferta detallada.",
+    "ctaBtn": "Obtenga una cotización",
+    "groups": [
+      {
+        "title": "Compañía",
+        "items": [
+          {
+            "q": "¿Es usted un fabricante de cilindros de gas?",
+            "a": "Sí. Wanda Group se especializa en la fabricación de cilindros de gas y soluciones relacionadas de suministro de gas industrial para compradores industriales extranjeros."
+          },
+          {
+            "q": "¿Qué productos suministran principalmente?",
+            "a": "Suministramos cilindros de acetileno, cilindros de propano, generadores de acetileno y accesorios para cilindros de gas, como válvulas, reguladores, mangueras, manómetros y sopletes."
+          },
+          {
+            "q": "¿Pueden admitir la personalización OEM?",
+            "a": "Sí. El color del cilindro, el marcado, la válvula, la tapa y las opciones de empaque se pueden discutir según el pedido y el mercado objetivo."
+          },
+          {
+            "q": "¿Apoya a las compradores extranjeras?",
+            "a": "Sí. Apoyamos la exportación, selección de productos, requisitos de embalaje, documentación y coordinación de envíos."
+          },
+          {
+            "q": "¿Cómo puedo obtener una cotización?",
+            "a": "Especifique el tipo de producto, el tamaño del cilindro, la cantidad, el país de destino y los requisitos de personalización a través del formulario de consulta o por correo electrónico. Nuestro equipo le responderá con detalles del producto y una cotización."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "¿Puedo ver vídeos de fábrica antes de realizar un pedido?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "¿Proporcionan vídeos de productos, especialmente para cilindros de acetileno?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "¿Pueden mostrar videos de producción y control de calidad?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "¿Puedo solicitar un vídeo de producto realizado para un pedido específico?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Soluciones",
+        "items": [
+          {
+            "q": "¿Qué soluciones de cilindros de gas ofrecen?",
+            "a": "Ofrecemos soluciones para soldadura y corte, distribución de gas, almacenamiento industrial, generación de acetileno, suministro OEM y compras de exportación."
+          },
+          {
+            "q": "¿Pueden recomendar productos para mi aplicación?",
+            "a": "Sí. Envíe su solicitud, tamaño del cilindro, cantidad, país de destino y accesorios necesarios; le recomendaremos los productos adecuados."
+          },
+          {
+            "q": "¿Suministran accesorios junto con los cilindros?",
+            "a": "Sí. Podemos suministrar reguladores de presión, mangueras, manómetros, sopletes de corte, sopletes de soldadura, válvulas y accesorios junto con los cilindros."
+          },
+          {
+            "q": "¿Pueden suministrar cilindros de gas para compradores OEM?",
+            "a": "Sí. El color del cilindro, la marca, la válvula, la tapa, el logotipo y el embalaje se pueden discutir según el pedido."
+          }
+        ]
+      },
+      {
+        "title": "Productos",
+        "items": [
+          {
+            "q": "¿Para qué se utiliza un cilindro de acetileno disuelto?",
+            "a": "Los cilindros de acetileno disuelto se utilizan ampliamente para soldar, cortar, soldar, fabricar metales y suministrar gases industriales."
+          },
+          {
+            "q": "¿Qué tamaños de cilindros pueden suministrar?",
+            "a": "Se pueden discutir varios volúmenes y capacidades dependiendo de su mercado objetivo, aplicación y cantidad de pedido. Para confirmar, especifique el tamaño requerido o el estándar local."
+          },
+          {
+            "q": "¿Se pueden cambiar el color, la válvula y el marcado del cilindro?",
+            "a": "Sí. El color del cilindro, la válvula, la tapa, el marcado, la etiqueta y el embalaje de exportación se pueden realizar bajo pedido."
+          }
+        ]
+      },
+      {
+        "title": "Accesorios",
+        "items": [
+          {
+            "q": "¿Qué accesorios suministran?",
+            "a": "Suministramos supresores de retroceso de llama, manómetros, válvulas de seguridad, mangueras de oxígeno, abrazaderas de manguera, sopletes de corte, sopletes de soldadura, filtros, adaptadores y otros accesorios para cilindros de gas."
+          },
+          {
+            "q": "¿Se pueden personalizar los accesorios para cilindros de gas?",
+            "a": "Sí. Podemos personalizar el logotipo, el embalaje, el tamaño de la conexión, el tipo de rosca, el rango de presión y las especificaciones técnicas."
+          },
+          {
+            "q": "¿Se pueden pedir accesorios junto con las bombonas de gas?",
+            "a": "Sí. Los accesorios se pueden suministrar junto con cilindros de acetileno, cilindros de propano y generadores de acetileno."
+          },
+          {
+            "q": "¿Apoya el embalaje OEM?",
+            "a": "Sí. Para pedidos al por mayor, podemos proporcionar marcas OEM, cajas, bolsas y etiquetas de productos."
+          },
+          {
+            "q": "¿Puede proporcionar fotografías y especificaciones del producto?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "¿Cómo puedo obtener una cotización de accesorios?",
+            "a": "Especifique el nombre del producto, la cantidad, el tamaño de la conexión, la presión de trabajo, los requisitos de embalaje y el país o puerto de destino."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Últimos artículos",
+    "subtitle": "Contenido experto para profesionales de soldadura y suministro de gas.",
+    "readMore": "Leer más →",
+    "close": "Cerrar",
+    "items": [
+      {
+        "tag": "Artesanos",
+        "title": "Solución completa de suministro de cilindros de propano",
+        "desc": "La estabilidad del equipo afecta directamente la eficiencia del trabajo de soldadura y corte.",
+        "body": [
+          "Para artesanos que sueldan, reparan y fabrican metal cada día, un equipo de gas estable afecta directamente la calidad y la velocidad del trabajo.",
+          "Los cilindros de propano de Wanda Group están disponibles de 3L a 50L con válvulas POL, CGA 510 o GOST según su mercado — un solo proveedor para soldadura, corte y calefacción.",
+          "Recomendamos pedir cilindros junto con reguladores, mangueras y sopletes. El suministro en paquete reduce el coste logístico y garantiza la compatibilidad de los accesorios.",
+          "Al pedir, indique el mercado objetivo, el volumen, el tipo de válvula y el color — preparamos marcado OEM y embalaje de exportación bajo su marca."
+        ]
+      },
+      {
+        "tag": "Almacenamiento",
+        "title": "Consejos para el almacenamiento a largo plazo de cilindros de acetileno",
+        "desc": "Condiciones de almacenamiento, métodos de colocación e inspecciones periódicas para cilindros no utilizados.",
+        "body": [
+          "Muchas empresas almacenan cilindros de acetileno y propano durante pausas de producción o como inventario. Los cilindros no utilizados siguen requiriendo un manejo adecuado.",
+          "Almacene los cilindros en posición vertical en un área bien ventilada, lejos de fuentes de calor y de la luz solar directa. La temperatura de almacenamiento normalmente no debe superar los 40–50°C.",
+          "Inspeccione válvulas, tapas y marcados al menos trimestralmente. Para el almacenamiento prolongado de acetileno, mantenga los cilindros verticales y nunca permita inclinaciones.",
+          "Wanda Group envía cilindros con tapas protectoras y embalaje de exportación diseñado para un transporte y almacenamiento seguros. Las guías de almacenamiento están disponibles en su idioma bajo petición."
+        ]
+      },
+      {
+        "tag": "Precios",
+        "title": "Guía de presupuesto para la compra de cilindros de acetileno",
+        "desc": "Factores que afectan el coste y cómo elegir la oferta óptima.",
+        "body": [
+          "El precio del cilindro de acetileno depende del volumen (2L–40L), el tipo de válvula, la certificación (ISO, DOT, TPED) y la cantidad del pedido. Precios EXW indicativos: WG-10 $28–35, WG-25 $45–58 por unidad.",
+          "Los lotes más grandes (200–500+ uds.) reciben descuentos significativos. La pintura OEM, el logotipo y el embalaje especial añaden un 5–15% al precio base, pero aumentan el valor para los distribuidores.",
+          "También tenga en cuenta el envío (FOB/CIF), los documentos y el MOQ. Respondemos en 24 horas con especificación completa, plazo de entrega e Incoterms.",
+          "Para un presupuesto exacto, incluya el modelo, la cantidad, el país de destino y los requisitos de válvula en el formulario de contacto — o escriba a sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Solicitar una cotización",
+    "subtitle": "Indíquenos el tamaño, la cantidad, el país de destino y la aplicación — prepararemos un presupuesto detallado.",
+    "formTitle": "Solicitar una cotización",
+    "formSubtitle": "Deje sus requisitos — nuestro equipo de ventas responderá con información del producto, precios, MOQ y plazo de entrega.",
+    "name": "Nombre",
+    "phone": "Teléfono/WhatsApp",
+    "email": "Correo electrónico",
+    "product": "Producto",
+    "quantity": "Cantidad",
+    "country": "País de destino",
+    "productOptions": [
+      "Cilindro de acetileno",
+      "Cilindro de propano",
+      "Generador de acetileno",
+      "Accesorios",
+      "Pedido en paquete"
+    ],
+    "message": "Requisitos adicionales",
+    "messagePlaceholder": "Producto, tamaño, cantidad, país de destino...",
+    "submit": "Enviar consulta",
+    "sending": "Enviando...",
+    "success": "¡Gracias! Nos pondremos en contacto con usted en breve.",
+    "sendAnother": "Enviar otra consulta",
+    "errorGeneric": "No se pudo enviar. Inténtelo de nuevo o escríbanos directamente.",
+    "errorNoForm": "Formulario no configurado. Escriba a sales@wandagroups.com",
+    "privacyPrefix": "Estoy de acuerdo con el",
+    "privacySuffix": "y al tratamiento de mis datos personales para atender esta consulta.",
+    "privacyLink": "política de privacidad",
+    "company": "Compañía",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Enviar a través de la aplicación de correo electrónico"
+  },
+  "footer": {
+    "company": "Fabricante de cilindros de gas del grupo Wanda",
+    "tagline": "Fabricación profesional de cilindros de gas",
+    "rights": "© 2026 Wanda Group. Todos los derechos reservados.",
+    "privacy": "política de privacidad"
+  },
+  "ui": {
+    "catalog": "Catálogo",
+    "catalogTitle": "Especificaciones detalladas del producto",
+    "catalogSubtitle": "Datos técnicos completos, modelos y parámetros de cada categoría. Seleccione un producto para ver la tabla de especificaciones.",
+    "requestPrice": "Solicitar precio de este modelo",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "getExactQuote": "Obtener presupuesto exacto",
+    "certifications": "Certificaciones",
+    "order": "Pedido",
+    "reviews": "Reseñas",
+    "contact": "Contacto",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "quoteResponse": "Respuesta de presupuesto",
+    "support": "Soporte",
+    "exportReady": "Listo para exportar",
+    "years": "Años",
+    "acetylene": "Acetileno",
+    "isoCertified": "Certificado ISO",
+    "globalExport": "Exportación global",
+    "products": "Productos",
+    "specs": "Presupuesto",
+    "applications": "Aplicaciones",
+    "whyUs": "Por qué nosotras",
+    "about": "Sobre nosotros",
+    "gallery": "Galería",
+    "quality": "Calidad",
+    "faq": "Preguntas frecuentes",
+    "blog": "Blog",
+    "countriesServed": "Países atendidos",
+    "searchLanguage": "Buscar idioma...",
+    "noLanguagesFound": "No se encontraron idiomas"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Exportar a más de 50 países",
+    "MOQ de 100 piezas",
+    "Plazo de entrega 15 a 25 días"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetileno",
+      "propane": "Propano",
+      "generator": "Generador",
+      "accessories": "Accesorios"
+    },
+    "acetylene": {
+      "title": "Cilindros de acetileno disuelto",
+      "intro": "Cilindros de acero con masa porosa y disolvente para almacenamiento y transporte seguro de acetileno. Utilizado en soldadura, corte, soldadura fuerte y fabricación de metales.",
+      "features": [
+        "Masa porosa + acetona para almacenamiento estable.",
+        "Válvulas CGA 510 / GOST / DIN bajo pedido",
+        "Presión de prueba hidráulica 5,2 MPa",
+        "Pintura RAL, estampado y etiquetas OEM",
+        "Embalaje de palets de exportación"
+      ],
+      "tableTitle": "Modelos de cilindros de acetileno estándar",
+      "headers": [
+        "Modelo",
+        "Volumen (litros)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Peso (kg)",
+        "Altura (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Los parámetros exactos dependen del estándar (ISO/DOT/GB) y de la configuración de la válvula. Solicite hoja de especificaciones para su mercado."
+    },
+    "propane": {
+      "title": "Cilindros de propano y GLP",
+      "intro": "Cilindros para mezclas de propano, butano y GLP. Se utiliza en calefacción, corte, soldadura fuerte, construcción y suministro de gas industrial.",
+      "features": [
+        "Acero 37Mn/34CrMo4 según ISO 9809",
+        "Presión de trabajo 1,8–2,1 MPa",
+        "Válvulas POL, CGA 510, GOST",
+        "Recubrimiento en polvo, anticorrosión.",
+        "Certificados para los mercados de la UE, EE. UU. y CEI"
+      ],
+      "tableTitle": "Modelos de cilindros de propano estándar",
+      "headers": [
+        "Modelo",
+        "Volumen (litros)",
+        "Gas (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Peso (kg)",
+        "Altura (mm)"
+      ],
+      "rows": [
+        [
+          "GT-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "GT-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "GT-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Los precios y MOQ dependen del volumen del pedido y del tipo de válvula. Envíe su consulta para obtener una cotización exacta."
+    },
+    "generator": {
+      "title": "Generadores de acetileno",
+      "intro": "Equipo para producir acetileno a partir de carburo de calcio. Suministro estable de gas para soldadura y necesidades industriales sin infraestructura de gas centralizada.",
+      "features": [
+        "Capacidad de salida de 3 a 100 m³/h",
+        "Alimentación automática de agua y carburo",
+        "Sistema de seguridad y filtración.",
+        "Modelos compactos e industriales.",
+        "Documentación completa y formación"
+      ],
+      "tableTitle": "Modelos de generadores de acetileno",
+      "headers": [
+        "Modelo",
+        "Salida (m³/h)",
+        "Carburo (kg/h)",
+        "Presión (kPa)",
+        "Potencia (kW)",
+        "Peso (kg)"
+      ],
+      "rows": [
+        [
+          "GT-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "GT-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "GT-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "GT-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generadores suministrados con sistema de refrigeración, filtros y kit de repuestos bajo pedido."
+    },
+    "accessories": {
+      "title": "Accesorios y accesorios para cilindros",
+      "intro": "Gama completa para el funcionamiento seguro de las bombonas de gas: desde manómetros hasta sopletes de soldadura. Adquisición integral de cilindros.",
+      "features": [
+        "Reguladores y medidores (CGA/GOST/DIN)",
+        "Mangueras de alta presión",
+        "Sopletes de corte y quemadores de soldadura",
+        "Válvulas de alivio de presión",
+        "Carros, soportes, gorras."
+      ],
+      "tableTitle": "Catálogo de accesorios",
+      "headers": [
+        "Categoría",
+        "Modelos",
+        "Estándar",
+        "Solicitud"
+      ],
+      "rows": [
+        [
+          "Reguladoras",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetileno, propano"
+        ],
+        [
+          "medidores",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Monitoreo de presión"
+        ],
+        [
+          "Mangueras",
+          "GT-H6, GT-H9",
+          "EN 559",
+          "soldadura, corte"
+        ],
+        [
+          "Antorchas",
+          "WG-C100, WG-C300",
+          "—",
+          "Plasma/oxicorte"
+        ],
+        [
+          "Quemadores",
+          "WG-T200, WG-T500",
+          "—",
+          "Soldadura, soldadura fuerte"
+        ],
+        [
+          "válvulas",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Todos los tipos de cilindros"
+        ]
+      ],
+      "note": "* Accesorios disponibles por separado o incluidos con los cilindros. Descuento en pedidos combinados."
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Ciclo completo: desde la fabricación hasta la entrega en su almacén. Trabajamos con distribuidores, marcas OEM y compradores de proyectos.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Fabricación personalizada (OEM/ODM)",
+        "desc": "Cilindros con su marca, color y marcado.",
+        "points": [
+          "Logotipo y color RAL",
+          "Válvula estándar del mercado",
+          "Embalajes y etiquetas OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Exportación y Logística",
+        "desc": "Soporte completo para envíos internacionales.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Documentación de exportación",
+          "Transporte marítimo y ferroviario"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Control de calidad",
+        "desc": "Pruebas e inspección en cada etapa.",
+        "points": [
+          "Pruebas hidrostáticas",
+          "Inspección de soldadura UT",
+          "Inspección SGS/BV bajo petición"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Proceso de dar un título",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, PUNTO, TPED",
+          "MSDS y certificado de calidad",
+          "certificado de origen"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Apoyo técnico",
+        "desc": "Ayuda en selección de productos y configuración.",
+        "points": [
+          "Selección basada en el mercado",
+          "Cálculo de MOQ y plazo de entrega",
+          "Formación del personal"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Suministro de paquetes",
+        "desc": "Cilindros + accesorios en un solo pedido.",
+        "points": [
+          "Contrato único",
+          "Entrega coordinada",
+          "Descuento por paquete"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Términos de precios y suministro",
+    "subtitle": "Términos transparentes para la contratación B2B. El precio exacto se calcula individualmente: envíe su consulta y le responderemos dentro de las 24 horas.",
+    "note": "Los precios mostrados son orientativos (EXW). El costo final depende del volumen, tipo de válvula, certificación y condiciones de envío.",
+    "cards": [
+      {
+        "label": "Cantidad mínima de pedido",
+        "value": "desde 100 piezas",
+        "desc": "Pedido mínimo por modelo"
+      },
+      {
+        "label": "Plazo de entrega",
+        "value": "15–25 días",
+        "desc": "Después de la confirmación del pedido"
+      },
+      {
+        "label": "Pago",
+        "value": "T/T 30/70",
+        "desc": "30% de depósito, 70% antes del envío"
+      },
+      {
+        "label": "Garantía",
+        "value": "12 meses",
+        "desc": "Contra defectos de fabricación"
+      }
+    ],
+    "factors": {
+      "title": "Factores de precio",
+      "items": [
+        "Volumen y modelo del cilindro (2L – 50L)",
+        "Tipo de válvula (CGA, GOST, DIN, POL)",
+        "Estándar de certificación (ISO, DOT, TPED)",
+        "OEM: color, marcado, embalaje.",
+        "Volumen de pedidos e Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetileno WG-10",
+        "moq": "200 piezas",
+        "price": "$28–35 / ud.",
+        "lead": "18 dias"
+      },
+      {
+        "product": "Acetileno WG-25",
+        "moq": "100 piezas",
+        "price": "$45–58 / pieza",
+        "lead": "20 dias"
+      },
+      {
+        "product": "Propano WG-P11",
+        "moq": "500 piezas",
+        "price": "$12–16 / pieza",
+        "lead": "15 dias"
+      },
+      {
+        "product": "Propano WG-P50",
+        "moq": "100 piezas",
+        "price": "$55–72 / pieza",
+        "lead": "22 dias"
+      },
+      {
+        "product": "Generador WG-G20",
+        "moq": "1 unidad",
+        "price": "$3,500–4,200",
+        "lead": "25 dias"
+      },
+      {
+        "product": "Conjunto regulador",
+        "moq": "50 piezas",
+        "price": "$8–15 / pieza",
+        "lead": "10 dias"
+      }
+    ],
+    "tableHeaders": [
+      "Producto",
+      "Cantidad mínima de pedido",
+      "Precio (EXW)",
+      "Plazo de entrega"
+    ]
+  },
+  "certifications": {
+    "title": "Certificaciones y estándares",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Cilindros de gas de acero sin costura: requisitos técnicos"
+      },
+      {
+        "name": "Norma ISO 9809-3",
+        "desc": "Cilindros de acetileno disuelto"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certificación del mercado estadounidense"
+      },
+      {
+        "name": "TPED",
+        "desc": "directiva europea de transporte"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Estándar chino para cilindros de gas."
+      },
+      {
+        "name": "Marca CE",
+        "desc": "Requisitos de conformidad europeos"
+      }
+    ]
+  },
+  "process": {
+    "title": "Cómo hacer un pedido",
+    "subtitle": "Proceso sencillo desde la consulta hasta los cilindros en su almacén.",
+    "steps": [
+      {
+        "title": "Enviar consulta",
+        "desc": "Especifique los requisitos de producto, volumen, país y válvula."
+      },
+      {
+        "title": "Recibir cotización",
+        "desc": "Precio, MOQ, plazo de entrega y hoja de especificaciones dentro de 24 horas"
+      },
+      {
+        "title": "Confirmar pedido",
+        "desc": "Firma de contrato y pago de depósito del 30%."
+      },
+      {
+        "title": "Producción y control de calidad",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Envío",
+        "desc": "Embalaje, documentos, entrega FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "soldadura",
+        "eyebrow": "Cilindros de acetileno",
+        "title": "Llama estable para soldadura de precisión",
+        "text": "Cilindros de acetileno disuelto diseñados para soldadura continua y fuerte: presión constante, masa porosa segura y válvulas listas para exportar.",
+        "points": [
+          "Opciones ISO/DOT/GB",
+          "Válvulas CGA / GOST / DIN",
+          "Color y marcado OEM"
+        ]
+      },
+      {
+        "id": "corte",
+        "eyebrow": "Corte y fabricación",
+        "title": "Energía cuando el metal tiene que moverse",
+        "text": "Juegos de cilindros listos para oxígeno y acetileno de alto flujo para astilleros, talleres y líneas de fabricación pesada.",
+        "points": [
+          "Perforación y corte rápidos",
+          "Kits listos para la antorcha",
+          "Compatible con MOQ a granel"
+        ]
+      },
+      {
+        "id": "propano",
+        "eyebrow": "Propano y GLP",
+        "title": "Cilindros de GLP duraderos para todos los mercados",
+        "text": "Desde gas para calefacción y cocina hasta corte industrial: cilindros de acero fabricados para ofrecer presión, recubrimiento y una larga vida útil.",
+        "points": [
+          "Rango de 3L a 50L",
+          "Válvulas POL/CGA",
+          "Acabado de capa en polvo"
+        ]
+      },
+      {
+        "id": "fábrica",
+        "eyebrow": "Fabricación",
+        "title": "Control de fábrica desde el acero hasta el envío.",
+        "text": "Conformado, soldadura, pruebas hidrostáticas y acabado internos, para que cada lote coincida con su plano y estándar del mercado.",
+        "points": [
+          "Probado hidrostáticamente",
+          "Lotes rastreables",
+          "Listo para OEM/ODM"
+        ]
+      },
+      {
+        "id": "calidad",
+        "eyebrow": "Calidad y seguridad",
+        "title": "Inspección que puedes poner en la cotización.",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Pruebas de presión y fugas",
+          "Certificate package",
+          "Fotos previas al envío"
+        ]
+      },
+      {
+        "id": "exportar",
+        "eyebrow": "Exportación mundial",
+        "title": "Equipado para puertos, listo para más de 50 países",
+        "text": "Exporte pallets, protección de válvulas, etiquetas multilingües y documentos de envío coordinados para los Incoterms de su destino.",
+        "points": [
+          "Soporte MANDO/CIF",
+          "embalaje paletizado",
+          "Plazo de entrega 15-25 días"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Cilindros de gas industrial listos en la fábrica.",
+    "about": "Stock de cilindros listos para exportación con embalaje protector",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Stock de cilindros terminados en fábrica.",
+      "Soldadura de producción en la fábrica",
+      "Embalaje de exportación con malla protectora.",
+      "Propane cylinders ready for dispatch",
+      "Envío de cilindros a granel en camión",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Accesorios",
+    "title": "Accesorios del producto",
+    "subtitle": "Piezas para cilindros de acetileno, generadores, soldadura y corte. Abra Detalles para especificaciones y aplicaciones.",
+    "cta": "Solicitar detalles",
+    "details": "Detalles",
+    "close": "Cerca",
+    "featuresLabel": "Características clave",
+    "specsLabel": "Presupuesto",
+    "applicationsLabel": "Aplicaciones",
+    "qualityLabel": "Calidad y suministro",
+    "whyTitle": "¿Por qué elegir nuestros accesorios?",
+    "why": [
+      "Latón duradero, acero inoxidable y materiales de calidad industrial.",
+      "Compatible con cilindros, generadores, reguladores, mangueras y sistemas de soldadura.",
+      "Logotipo OEM, embalaje, tamaño de conexión, tipo de rosca y especificaciones",
+      "Embalaje de exportación y suministro estable para compradores internacionales."
+    ],
+    "items": [
+      {
+        "title": "Válvula de retroceso de acetileno",
+        "desc": "Previene el flujo inverso de gas y el retroceso de la llama en sistemas de corte y soldadura con oxiacetileno.",
+        "intro": "Un dispositivo de seguridad esencial para sistemas de acetileno. El apagallamas de acero inoxidable sinterizado incorporado y el diseño de flujo unidireccional protegen a los operadores, las mangueras y las líneas de gas. Compatible con reguladores, mangueras y antorchas. Logotipo, etiqueta y embalaje OEM disponibles.",
+        "features": [
+          "Inserto de acero inoxidable sinterizado ignífugo",
+          "Diseño de flujo sin retorno (unidireccional)",
+          "Cuerpo de latón de alta resistencia, resistente a la corrosión.",
+          "Sellado fiable bajo presión de trabajo.",
+          "Conexiones estándar para una instalación y reemplazo rápidos"
+        ],
+        "specs": [
+          "Gas: acetileno (C₂H₂); supresores de oxígeno suministrados por separado",
+          "Cuerpo: latón; arrestor: acero inoxidable",
+          "Conexión: G 3/8″ LH o rosca personalizada",
+          "Presión de trabajo: hasta 1,5 MPa/personalizada",
+          "Uso: soldadura, corte y calentamiento con oxiacetileno.",
+          "Embalaje: caja individual, cartón o personalizado"
+        ],
+        "applications": [
+          "Soldadura y corte con oxiacetileno.",
+          "Reguladores, mangueras y conjuntos de antorcha.",
+          "Líneas de gas del generador de acetileno"
+        ],
+        "quality": [
+          "100% inspección antes del envío",
+          "Pruebas de sellado, presión y función de retroceso.",
+          "Embalaje de exportación para entregas a larga distancia"
+        ]
+      },
+      {
+        "title": "Recipiente generador de acetileno",
+        "desc": "Recipiente central para la generación estable de acetileno a partir de carburo de calcio en sistemas de gas industriales.",
+        "intro": "El recipiente del generador es el recipiente principal de un sistema de generación de acetileno. Se suministra para la producción estable de gas en soldadura, corte y sitios sin suministro centralizado de cilindros. La capacidad, las tuberías y los ajustes de seguridad se pueden adaptar al modelo de generador.",
+        "features": [
+          "Contenedor de núcleos para sistemas generadores de acetileno",
+          "Construido para una generación estable de gas a partir de carburo de calcio.",
+          "Se puede combinar con válvulas de filtración y seguridad.",
+          "Diseños de generadores industriales y compactos.",
+          "Marcado OEM, conexiones y embalaje bajo pedido."
+        ],
+        "specs": [
+          "Función: conjunto de recipiente/contenedor del generador",
+          "Rango de salida típico de generadores relacionados: 3–100 m³/h",
+          "Presión de trabajo de unidades relacionadas: alrededor de 1,5 a 5 kPa",
+          "Se suministra con refrigeración, filtros y repuestos bajo pedido.",
+          "Conexiones, capacidad y equipamiento confirmados por pedido."
+        ],
+        "applications": [
+          "Plantas generadoras de acetileno y unidades portátiles.",
+          "Talleres sin alimentación centralizada de cilindros",
+          "Producción de gas industrial para soldadura y corte."
+        ],
+        "quality": [
+          "Coincidencia de fábrica con el modelo de generador.",
+          "Embalaje y documentación de exportación.",
+          "Detalles de capacidad y conexión confirmados antes del envío."
+        ]
+      },
+      {
+        "title": "Antorcha de corte",
+        "desc": "Soplete de corte de oxiacetileno duradero para cortes precisos, llama estable y alta productividad.",
+        "intro": "Soplete de corte profesional de acetileno para cortes limpios y precisos. Cuerpo de latón con tubos inoxidables, mango ergonómico y boquillas reemplazables. Compatible con acetileno y oxígeno y con puntas estándar.",
+        "features": [
+          "Construcción de latón y acero inoxidable de primera calidad.",
+          "Llama estable y control de corte preciso",
+          "Diseño centrado en la seguridad para reducir el riesgo de retroceso",
+          "Mango ergonómico, fácil de montar y mantener.",
+          "Funciona con boquillas, puntas y juegos de mangueras estándar"
+        ],
+        "specs": [
+          "Modelo: soplete de corte CT-01",
+          "Gas: acetileno + oxígeno",
+          "Espesor de corte: 3–300 mm (depende de la boquilla y la presión)",
+          "Presión de trabajo: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Conector: G5/8-14 o personalizado",
+          "Longitud: aprox. 460 milímetros",
+          "Embalaje: 1 unidad/caja, 10 unidades/caja"
+        ],
+        "applications": [
+          "Corte de placas, tubos y perfiles de acero al carbono.",
+          "Talleres de fabricación, astilleros y construcción.",
+          "Mantenimiento industrial y corte en obra."
+        ],
+        "quality": [
+          "100% inspección antes de la entrega",
+          "Controles de apariencia, conexión, sellado y funcionamiento.",
+          "Embalaje de exportación para envíos de larga distancia"
+        ]
+      },
+      {
+        "title": "Válvula de ángulo roscada interna/externa",
+        "desc": "Válvula de ángulo para cilindro de alta resistencia con opciones de rosca interna o externa para los estándares del mercado.",
+        "intro": "Válvulas de ángulo para acetileno y otros gases industriales: cuerpo robusto de latón, sellado preciso y funcionamiento suave mediante volante. Rosca interna o externa para cumplir con los estándares del cilindro y del equipo.",
+        "features": [
+          "Cuerpo de latón duradero, resistente a la corrosión.",
+          "Mecanizado de alta precisión para un sellado fiable",
+          "Opciones de conexión de rosca interna o externa",
+          "Volante ergonómico para abrir y cerrar fácilmente",
+          "Inspección 100% de seguridad y funcionamiento."
+        ],
+        "specs": [
+          "Gas: acetileno, oxígeno, argón, nitrógeno y gases compatibles",
+          "Presión de trabajo: clase 25 / 35 bar",
+          "Presión de prueba: clase 37,5 / 52,5 bar",
+          "Entrada/salida: interna o externa, personalizada",
+          "Volante: aleación de aluminio/cinc",
+          "Temperatura: −20 °C a +60 °C",
+          "Estándares: ISO 10297, GB/T 8335, CGA o personalizado",
+          "Embalaje: 1 unidad/bolsa, 50 unidades/caja"
+        ],
+        "applications": [
+          "Cilindros de acetileno y gases industriales.",
+          "Sistemas de gas para soldadura y corte.",
+          "Talleres, plantas y suministro de gas para laboratorios."
+        ],
+        "quality": [
+          "Comprobaciones de material, mecanizado, fugas y apariencia.",
+          "Embalaje de exportación para transporte de larga distancia.",
+          "Tamaño de rosca y estándar confirmados por mercado."
+        ]
+      },
+      {
+        "title": "Abrazadera de manguera de oxígeno",
+        "desc": "Abrazadera de tornillo sin fin de acero inoxidable para conexiones seguras y resistentes a fugas de oxígeno y mangueras industriales.",
+        "intro": "Abrazaderas para manguera de oxígeno de acero inoxidable para soldadura y uso industrial. Fuerte fuerza de sujeción, resistencia a la oxidación y bordes amigables con las mangueras. Reutilizable y fácil de instalar.",
+        "features": [
+          "Acero inoxidable 201 / 304",
+          "Fuerte fuerza de sujeción y fijación segura",
+          "Resistencia al óxido, la corrosión y la oxidación.",
+          "Los bordes lisos de la banda ayudan a proteger la manguera.",
+          "Fácil de instalar, quitar y reutilizar"
+        ],
+        "specs": [
+          "Tipo: abrazadera de manguera de tornillo sin fin",
+          "Rango de manguera: 8–100 mm, tamaños personalizados para granel",
+          "Ancho de banda: 9 / 12 mm; espesor 0,6–0,8 mm",
+          "Tornillo: cabeza ranurada o hexagonal",
+          "Normas: DIN 3017 / SAE J1508",
+          "Acabado: pulida",
+          "Embalaje: 100 unidades/bolsa, 10 bolsas/caja o personalizado"
+        ],
+        "applications": [
+          "Mangueras de oxígeno y combustible para soldadura y corte.",
+          "Juntas de mangueras de cilindro, regulador y antorcha",
+          "Líneas de fábrica, taller y mantenimiento."
+        ],
+        "quality": [
+          "100% inspección antes de la entrega",
+          "El tamaño, la banda y el embalaje se pueden personalizar.",
+          "Embalaje de calidad de exportación"
+        ]
+      },
+      {
+        "title": "Tubos de oxígeno",
+        "desc": "Manguera flexible de oxígeno de alta presión con larga vida útil para soldadura, corte y suministro de gas industrial.",
+        "intro": "Tubos de oxígeno fabricados para la transferencia segura de gas bajo presión. Flexible, resistente a torceduras y resistente a la abrasión, con una pared interior lisa para un flujo estable. Múltiples ID y longitudes para soldadura y conexión de cilindros.",
+        "features": [
+          "Alta presión de trabajo y de rotura",
+          "Construcción flexible y resistente a torceduras.",
+          "Resistencia al envejecimiento, al ozono y a la abrasión",
+          "Pared interior lisa para un flujo de gas estable",
+          "Ligera y fácil de manejar"
+        ],
+        "specs": [
+          "Gas: oxígeno",
+          "Presión de trabajo: 20 bar / 290 psi",
+          "Presión de estallido: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (personalizado disponible)",
+          "Longitud: 10 / 20 / 30 / 50 / 100 m o personalizado",
+          "Color: azul estándar; material SBR / EPDM + hilo de poliéster",
+          "Normas: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatura: −20 °C a +80 °C"
+        ],
+        "applications": [
+          "Suministro de oxígeno para soldadura y corte.",
+          "Conexión de manguera del cilindro al regulador",
+          "Fábricas, talleres y líneas de gas industrial."
+        ],
+        "quality": [
+          "100% inspección antes de la entrega",
+          "El diámetro, la longitud, el color y la etiqueta se pueden personalizar",
+          "Embalaje de exportación: encogimiento/bolsa tejida/cartón"
+        ]
+      },
+      {
+        "title": "Manómetro",
+        "desc": "Visualización precisa de la presión de oxígeno, acetileno y otros gases industriales.",
+        "intro": "Medidores para acetileno, oxígeno y gases industriales: esfera transparente, construcción duradera y lecturas estables en cilindros, reguladores y tuberías. Múltiples gamas y conexiones para OEM y exportación.",
+        "features": [
+          "Alta precisión y rendimiento estable",
+          "Esfera clara para una fácil lectura",
+          "Construcción industrial resistente a los golpes",
+          "Materiales resistentes a la corrosión",
+          "Múltiples rangos y montajes inferiores/traseros"
+        ],
+        "specs": [
+          "Gas: acetileno, oxígeno, argón, CO₂, nitrógeno y gases compatibles",
+          "Esfera: 50/63/100 mm, disponible a medida",
+          "Rango: 0–1 bar hasta 0–400 bar, personalizado",
+          "Precisión: ±2,5% estándar, ±1,6% opcional",
+          "Rosca: G1/4, G1/8, NPT1/4, M12×1.5 o personalizada",
+          "Caja: acero negro/inoxidable opcional; Conector de latón o SS.",
+          "Ventana: vidrio o policarbonato; −20 °C a +60 °C",
+          "Embalaje: 1 unidad/caja, 50 unidades/caja"
+        ],
+        "applications": [
+          "Cilindros de gas y reguladores de presión.",
+          "Tuberías y sistemas de gas industrial.",
+          "Soldadura y corte de paneles con oxiacetileno."
+        ],
+        "quality": [
+          "100% prueba antes de la entrega",
+          "Opciones de marca y marcación OEM",
+          "Embalaje de exportación"
+        ]
+      },
+      {
+        "title": "Válvula de alivio de seguridad",
+        "desc": "Libera automáticamente el exceso de presión para proteger cilindros, tuberías y operadores.",
+        "intro": "Las válvulas de alivio de seguridad descargan la sobrepresión automáticamente para proteger el equipo y al personal. Apto para oxígeno, acetileno, aire, nitrógeno y gases compatibles. Cuerpo compacto de latón, múltiples presiones de ajuste y tamaños de rosca.",
+        "features": [
+          "Protección automática contra sobrepresión",
+          "Alivio estable bajo alta presión.",
+          "Cuerpo de latón, resistente al calor y a la corrosión.",
+          "Diseño compacto para fácil instalación y servicio.",
+          "Múltiples presiones de ajuste y tamaños de rosca"
+        ],
+        "specs": [
+          "Gas: oxígeno, acetileno, aire, nitrógeno y gases compatibles",
+          "Presión de trabajo: hasta 25 bar / 25 kg/cm²",
+          "Rango de alivio: 0,1–2,5 MPa, personalizable",
+          "Temperatura: −20 °C a +120 °C",
+          "Conexión: macho/hembra; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Cuerpo: latón; junta: NBR / PTFE",
+          "Clase de presión del cuerpo: 25 / 35 bar",
+          "Embalaje: 1 unidad/caja, 50 unidades/caja"
+        ],
+        "applications": [
+          "Protección contra sobrepresión del cilindro y del colector",
+          "Equipos y tuberías de gas industrial.",
+          "Sistemas de corte y soldadura con oxicombustible"
+        ],
+        "quality": [
+          "100% prueba antes del envío",
+          "La presión de ajuste, la rosca y el empaque se pueden personalizar",
+          "Embalaje de exportación"
+        ]
+      },
+      {
+        "title": "Antorcha de soldadura",
+        "desc": "Antorcha ergonómica de oxicombustible con control suave de la llama para soldadura, soldadura fuerte y calentamiento.",
+        "intro": "Antorcha de soldadura de alto rendimiento para trabajos con oxígeno y combustible: llama estable, control preciso y cuerpo de latón duradero. Puntas de cobre, boquillas reemplazables y conexiones de mangueras para uso industrial y de taller.",
+        "features": [
+          "Llama estable para soldadura y reparación de metales.",
+          "Flujo de gas suave y control preciso de la llama.",
+          "Cuerpo de latón duradero, resistente al calor y a la corrosión.",
+          "Mango ergonómico para una operación cómoda",
+          "Compatible con oxígeno, acetileno y propano opcional."
+        ],
+        "specs": [
+          "Tipo: soplete de soldadura de oxiacetileno",
+          "Cuerpo: latón; punta: cobre, reemplazable",
+          "Conexión de manguera: G1/4″ o 9/16″-18 UNF",
+          "Presión de trabajo: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatura: −20 °C a +60 °C",
+          "Uso: soldadura, soldadura fuerte, calefacción; cortar con puntas a juego",
+          "Embalaje: 1 unidad/caja, 10 unidades/caja"
+        ],
+        "applications": [
+          "Soldadura y reparación de oxígeno-acetileno.",
+          "Soldadura, calentamiento y unión",
+          "Talleres y mantenimiento industrial."
+        ],
+        "quality": [
+          "100% inspección antes de la entrega",
+          "El estilo, el conector, el embalaje y el logotipo de la antorcha pueden ser OEM",
+          "Comprobaciones de materiales, fugas y apariencia."
+        ]
+      },
+      {
+        "title": "Cabezal convertidor de filtro",
+        "desc": "Conecta el elemento filtrante a un regulador o tubería para una filtración de gas efectiva.",
+        "intro": "El cabezal del convertidor de filtro es la conexión entre el elemento filtrante y el regulador o línea de gas. Asienta el elemento, mantiene la dirección del flujo correcta y simplifica el servicio y el reemplazo en los sistemas de cilindros y distribución.",
+        "features": [
+          "Vincula el elemento filtrante al regulador o tubería",
+          "Soporta una filtración efectiva en la línea de gas.",
+          "Construcción industrial de latón/metal.",
+          "Puertos roscados estándar para emparejar el sistema",
+          "Rosca, tamaño y embalaje OEM bajo pedido."
+        ],
+        "specs": [
+          "Función: convertidor de filtro/cabezal adaptador",
+          "Uso: conjuntos de filtro de regulador, tubería y cilindro",
+          "Tamaño de conexión y rosca confirmados por pedido.",
+          "Combinado con elementos filtrantes y cuencos como juego si es necesario"
+        ],
+        "applications": [
+          "Distribución de gas ante reguladores y herramientas.",
+          "Conjuntos de filtro de cilindro y generador.",
+          "Tuberías de gas industriales y de taller"
+        ],
+        "quality": [
+          "Tamaño de conexión confirmado antes de la producción.",
+          "Embalaje de exportación",
+          "Se puede suministrar con elementos filtrantes a juego."
+        ]
+      },
+      {
+        "title": "Filtrar",
+        "desc": "Filtro de alta eficiencia que elimina la humedad, el aceite y las partículas para proteger los equipos posteriores.",
+        "intro": "Elimina partículas sólidas, agua, aceite y otras impurezas del flujo de gas para proteger el equipo y extender la vida útil. Cabezal de latón, elemento de calidad y funcionamiento estable bajo presión. Para oxígeno, acetileno, aire, nitrógeno y gases compatibles.",
+        "features": [
+          "Filtración de alta eficiencia para un flujo de gas limpio",
+          "Elimina humedad, aceite y partículas.",
+          "Cabezal de latón duradero y cuenco de metal.",
+          "Elemento desmontable para limpieza o sustitución.",
+          "Operación estable bajo presión de trabajo"
+        ],
+        "specs": [
+          "Gas: oxígeno, acetileno, aire, nitrógeno y gases compatibles",
+          "Presión de entrada: hasta 2,5 MPa",
+          "Presión de trabajo: 0,01–1,6 MPa",
+          "Precisión: 5 / 20 / 50 μm opcional",
+          "Conexión: G1/4″, G3/8″, G1/2″, G3/4″ opcional",
+          "Cuerpo: latón; elemento: bronce sinterizado / acero inoxidable",
+          "Temperatura: −20 °C a +60 °C",
+          "Embalaje: 1 unidad/caja, 20 unidades/caja"
+        ],
+        "applications": [
+          "Sistemas de cilindros, reguladores y distribución.",
+          "Fábricas, talleres y líneas de gas industrial.",
+          "Flujo más limpio para soldadura, corte y suministro de laboratorio."
+        ],
+        "quality": [
+          "100% inspección antes de la entrega",
+          "El hilo, la precisión y el elemento se pueden personalizar.",
+          "Embalaje de exportación"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "política de privacidad",
+    "updated": "Última actualización: 25 de agosto de 2026",
+    "intro": [
+      "Wanda Group (“nosotros”, “nos”) opera este sitio web para presentar cilindros de gas, accesorios y suministros de exportación relacionados, y para recibir consultas comerciales de compradores industriales.",
+      "Esta política explica qué datos personales recopilamos a través del sitio, por qué los usamos y cómo puede contactarnos al respecto. No publicamos vídeos de fábrica ni archivos de certificados en el sitio web; esos materiales se envían de forma privada a pedido."
+    ],
+    "sections": [
+      {
+        "title": "quien es responsable",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Qué datos recopilamos",
+        "body": [
+          "Cuando envías el formulario de consulta recibimos los datos que introduces: nombre, email, teléfono, país de destino, tipo de producto, cantidad y mensaje.",
+          "El sitio también almacena su elección de idioma en el navegador (localStorage). No ejecutamos cookies publicitarias ni vendemos listas de visitantes."
+        ]
+      },
+      {
+        "title": "Por qué utilizamos los datos",
+        "body": [
+          "Utilizamos los datos de la consulta solo para responder a su solicitud, preparar una cotización, enviar información del producto, videos o certificados que solicitó y para coordinar un pedido si comenzamos a trabajar juntos.",
+          "Base jurídica: su consentimiento al marcar la casilla del formulario, y nuestro interés legítimo en atender solicitudes de venta B2B."
+        ]
+      },
+      {
+        "title": "¿Quién recibe los datos?",
+        "body": [
+          "Su mensaje se entrega a nuestro equipo de ventas por correo electrónico. Dependiendo de la configuración, el formulario puede ser procesado por Web3Forms como proveedor técnico que nos transmite el mensaje.",
+          "No vendemos datos personales. Podemos compartir lo que se necesita con socios de logística, inspección o banca solo si es necesario para cumplir con un pedido acordado."
+        ]
+      },
+      {
+        "title": "Cuanto tiempo la guardamos",
+        "body": [
+          "Los datos de la consulta se conservan durante el tiempo necesario para gestionar la solicitud y durante un período razonable posterior para el seguimiento de las ventas y la contabilidad, a menos que nos solicite que los eliminemos antes cuando la ley lo permita."
+        ]
+      },
+      {
+        "title": "Tus derechos",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Seguridad y niños",
+        "body": [
+          "Tomamos medidas técnicas y organizativas razonables para proteger los mensajes en tránsito y en nuestro buzón. Este sitio web está destinado a compradores comerciales, no a niños."
+        ]
+      }
+    ],
+    "contactLead": "Preguntas sobre esta póliza:"
+  }
+}

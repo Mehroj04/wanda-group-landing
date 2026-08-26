@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produse",
+    "specs": "armonizate",
+    "applications": "Utilizări",
+    "about": "Despre",
+    "gallery": "Galerie",
+    "quality": "Calitatea",
+    "faq": "Întrebări frecvente",
+    "contact": "Contact",
+    "getQuote": "CEREȚI O OFERTĂ",
+    "inquire": "Cerere pret",
+    "services": "Servicii",
+    "pricing": "Prețuri",
+    "accessories": "Accesorii",
+    "home": "Acasă",
+    "factory": "Fabrică"
+  },
+  "hero": {
+    "badge": "Producător butelie de gaz",
+    "title": "Butelii de gaz fiabile pentru industrie și sudură",
+    "subtitle": "Wanda Group este un producător și furnizor de încredere de acetilenă, butelii de propan și accesorii. Soluții pentru alimentarea cu gaz, sudare, tăiere și depozitare la nivel mondial.",
+    "cta": "CEREȚI O OFERTĂ",
+    "ctaSecondary": "Produsele noastre",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Ani de experiență"
+      },
+      {
+        "value": "500K+",
+        "label": "Capacitate de producție/an"
+      },
+      {
+        "value": "50+",
+        "label": "Piețele de export"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Calitate & Certificare"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Accesorii de încredere pentru butelii de gaz",
+    "text": "Manometre, supape, furtunuri, torțe și fitinguri de siguranță — furnizate împreună cu cilindri sau ca comandă separată.",
+    "cta": "Vezi accesorii"
+  },
+  "products": {
+    "title": "Produsele noastre",
+    "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudură.",
+    "items": [
+      {
+        "title": "Cilindru acetilenă",
+        "desc": "Butelii de acetilenă dizolvate pentru sudare, tăiere și gaze industriale. Diferite dimensiuni și opțiuni de supape.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Generator de acetilenă",
+        "desc": "Echipamente pentru producția stabilă de gaze, operare ușoară și aplicații industriale.",
+        "icon": "⚙️",
+        "spec": "Sisteme industriale de generare"
+      },
+      {
+        "title": "Cilindru de propan",
+        "desc": "Butelii durabile pentru propan și GPL — depozitare, încălzire, tăiere și utilizare industrială.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Accesorii cilindru",
+        "desc": "Furtunuri, manometre, pistolete de tăiere, arzătoare de sudură, supape de siguranță și multe altele.",
+        "icon": "🔧",
+        "spec": "Supape · regulatoare · furtunuri · pistolete"
+      }
+    ],
+    "viewDetails": "Vedeți detalii"
+  },
+  "specs": {
+    "title": "Specificații tehnice",
+    "subtitle": "Explorați opțiunile buteliei, capacitățile de personalizare și detaliile de expediere înainte de a trimite o solicitare.",
+    "items": [
+      {
+        "title": "Capacitate cilindrică",
+        "desc": "Diverse opțiuni de capacitate și volum în funcție de cerințele aplicației și ale pieței."
+      },
+      {
+        "title": "Supape și capace",
+        "desc": "Supape, capace și fitinguri furnizate în funcție de nevoile clientului și ale proiectului."
+      },
+      {
+        "title": "Opțiuni de solvenți",
+        "desc": "Sistem de umplere poros și solvenți pentru depozitarea stabilă a acetilenei."
+      },
+      {
+        "title": "Ambalare și expediere",
+        "desc": "Suport pentru ambalare și expediere la export pentru distribuitori și clienții proiectului."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Aplicații cilindru",
+    "subtitle": "Produse concepute pentru sarcini comune de gaze industriale și cerințe ale cumpărătorilor de peste mări.",
+    "items": [
+      "Sudare și lipire",
+      "Tăierea metalelor",
+      "Alimentare cu gaz industrial",
+      "Constructii",
+      "Fabricarea metalelor",
+      "Depozitare și distribuție gaze"
+    ]
+  },
+  "whyUs": {
+    "title": "De ce Wanda Group?",
+    "subtitle": "Producție directă, personalizare și asistență completă la export — totul pentru afacerea dvs.",
+    "items": [
+      {
+        "title": "Calitate superioară",
+        "desc": "Butelii din oțel construite pentru sudare industrială și alimentare cu gaz."
+      },
+      {
+        "title": "Control strict al calității",
+        "desc": "Inspecție de la materialele primite până la ambalarea finală."
+      },
+      {
+        "title": "Producție avansată",
+        "desc": "Formare, sudare, testare și finisare într-o singură fabrică."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Culoare, supapă, marcaj, capac și ambalare la comandă."
+      },
+      {
+        "title": "Export Internațional",
+        "desc": "Documente și ambalaje pentru cumpărători industriali de peste mări."
+      },
+      {
+        "title": "Livrare de încredere",
+        "desc": "Timp de livrare obișnuit 15-25 de zile după confirmarea comenzii."
+      }
+    ]
+  },
+  "about": {
+    "title": "Producător profesionist de butelii cu gaz",
+    "text": "Producătorul de butelii de gaz Wanda Group este specializat în producerea și furnizarea buteliilor de gaz industriale și a accesoriilor aferente. Produsele noastre sunt utilizate pe scară largă în sudare, tăiere, distribuție de gaze, depozitare industrială și alte domenii de aprovizionare cu gaze.",
+    "text2": "Sprijinim cumpărătorii din străinătate în selectarea produselor, personalizarea, inspecția calității, ambalarea și coordonarea transportului.",
+    "facts": [
+      {
+        "title": "Experienţă",
+        "desc": "15+ ani furnizând butelii de gaz industriale."
+      },
+      {
+        "title": "Productie",
+        "desc": "Formare internă, sudare, testare și finisare."
+      },
+      {
+        "title": "Calitate",
+        "desc": "Opțiuni ISO 9809, DOT și TPED în funcție de piață."
+      },
+      {
+        "title": "Export",
+        "desc": "Livrări coordonate pentru peste 50 de piețe de destinație."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "În interiorul fabricii noastre",
+    "subtitle": "Producție, sudare, testare, vopsire și cilindri finiți — cum pregătim comenzile de export.",
+    "items": [
+      {
+        "title": "Stoc de cilindru finit",
+        "desc": "Stoc gata în fabrica noastră — capacitate de volum pentru comenzi en-gros și de export."
+      },
+      {
+        "title": "Sudură de producție",
+        "desc": "Fabricație metalică la etajul fabricii cu alimentare cu gaz industrial."
+      },
+      {
+        "title": "Ambalaje de export",
+        "desc": "Plasă de protecție și ambalare pentru paleți înainte de expedierea internațională."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Livrare în vrac cilindri",
+        "desc": "Asigurați încărcăturile cu cuști pentru transportul rutier către distribuitori și fabrici."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Gama de dimensiuni a cilindrului",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Controlul calității",
+    "subtitle": "Fiecare lot urmează aceeași cale: producție, testare, inspecție și control final al calității.",
+    "steps": [
+      {
+        "title": "Productie",
+        "desc": "Formare, sudare și asamblare sub controlul procesului din fabrică."
+      },
+      {
+        "title": "Testare",
+        "desc": "Teste de presiune și de scurgere înainte ca cilindrii să părăsească linia."
+      },
+      {
+        "title": "Inspecţie",
+        "desc": "Verificări vizuale, de marcare și dimensionale în funcție de comandă."
+      },
+      {
+        "title": "Controlul final al calității",
+        "desc": "Inspecția ambalajului înainte de expedierea la export."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Nu ți-ai găsit întrebarea? Trimiteți produsul, mărimea, cantitatea și țara de destinație - vă vom răspunde cu o ofertă detaliată.",
+    "ctaBtn": "Obțineți o cotație",
+    "groups": [
+      {
+        "title": "Companie",
+        "items": [
+          {
+            "q": "Sunteți producător de butelii de gaz?",
+            "a": "Da. Wanda Group este specializată în producția de butelii de gaz și soluții conexe de alimentare cu gaz industrial pentru cumpărătorii industriali de peste mări."
+          },
+          {
+            "q": "Ce produse furnizați în principal?",
+            "a": "Furnizăm butelii de acetilenă, butelii de propan, generatoare de acetilenă și accesorii pentru butelii de gaz, cum ar fi supape, regulatoare, furtunuri, manometre și torțe."
+          },
+          {
+            "q": "Puteți accepta personalizarea OEM?",
+            "a": "Da. Culoarea cilindrului, marcajul, supapa, capacul și opțiunile de ambalare pot fi discutate în funcție de comandă și de piața țintă."
+          },
+          {
+            "q": "Sprijiniți cumpărătorii de peste mări?",
+            "a": "Da. Susținem exportul, selecția produselor, cerințele de ambalare, documentația și coordonarea expedierii."
+          },
+          {
+            "q": "Cum pot obține o cotație?",
+            "a": "Vă rugăm să specificați tipul de produs, dimensiunea cilindrului, cantitatea, țara de destinație și cerințele de personalizare prin formularul de întrebare sau prin e-mail. Echipa noastră va răspunde cu detalii despre produs și o cotație."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Pot viziona videoclipuri din fabrică înainte de a plasa o comandă?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Oferiți videoclipuri despre produse, în special pentru butelii de acetilenă?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Puteți afișa videoclipuri cu producția și controlul calității?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Pot solicita un videoclip al produsului realizat pentru o anumită comandă?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Soluții",
+        "items": [
+          {
+            "q": "Ce soluții pentru butelii de gaz oferiți?",
+            "a": "Oferim soluții pentru sudare și tăiere, distribuție de gaze, depozitare industrială, generare de acetilenă, furnizare OEM și achiziții de export."
+          },
+          {
+            "q": "Îmi puteți recomanda produse pentru aplicația mea?",
+            "a": "Da. Trimiteți cererea dvs., dimensiunea cilindrului, cantitatea, țara de destinație și accesoriile necesare - vă vom recomanda produsele potrivite."
+          },
+          {
+            "q": "Furnizați accesorii împreună cu cilindrii?",
+            "a": "Da. Putem furniza regulatoare de presiune, furtunuri, manometre, pistolete de taiere, pistolete de sudura, supape si fitinguri impreuna cu cilindrii."
+          },
+          {
+            "q": "Puteți furniza butelii de gaz pentru cumpărătorii OEM?",
+            "a": "Da. Culoarea cilindrului, marcajul, supapa, capacul, sigla și ambalajul pot fi discutate în funcție de comandă."
+          }
+        ]
+      },
+      {
+        "title": "Produse",
+        "items": [
+          {
+            "q": "Pentru ce se folosește un cilindru de acetilenă dizolvată?",
+            "a": "Cilindrii de acetilenă dizolvată sunt utilizați pe scară largă pentru sudare, tăiere, lipire, fabricarea metalelor și alimentarea cu gaz industrial."
+          },
+          {
+            "q": "Ce dimensiuni de cilindru puteți furniza?",
+            "a": "Pot fi discutate diverse volume și capacități în funcție de piața țintă, de aplicație și de cantitatea comenzii. Pentru confirmare, specificați dimensiunea necesară sau standardul local."
+          },
+          {
+            "q": "Culoarea cilindrului, supapa și marcajul pot fi schimbate?",
+            "a": "Da. Culoarea cilindrului, supapa, capacul, marcajul, eticheta și ambalajul de export pot fi realizate la comandă."
+          }
+        ]
+      },
+      {
+        "title": "Accesorii",
+        "items": [
+          {
+            "q": "Ce accesorii furnizați?",
+            "a": "Furnizam dispozitive de blocare a fulgerului, manometre, supape de siguranta, furtunuri de oxigen, cleme de furtun, pistolete de taiere, pistolete de sudura, filtre, adaptoare si alte accesorii pentru butelii de gaz."
+          },
+          {
+            "q": "Accesoriile buteliilor de gaz pot fi personalizate?",
+            "a": "Da. Putem personaliza sigla, ambalajul, dimensiunea conexiunii, tipul filetului, domeniul de presiune și specificațiile tehnice."
+          },
+          {
+            "q": "Accesoriile pot fi comandate împreună cu buteliile de gaz?",
+            "a": "Da. Accesoriile pot fi furnizate împreună cu cilindri de acetilenă, butelii de propan și generatoare de acetilenă."
+          },
+          {
+            "q": "Acceptați ambalarea OEM?",
+            "a": "Da. Pentru comenzile cu ridicata putem oferi marcaj OEM, cutii de carton, pungi și etichete pentru produse."
+          },
+          {
+            "q": "Puteți furniza fotografii și specificații ale produselor?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Cum pot obține o cotație pentru accesorii?",
+            "a": "Vă rugăm să specificați numele produsului, cantitatea, dimensiunea conexiunii, presiunea de lucru, cerințele de ambalare și țara sau portul de destinație."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Ultimele articole",
+    "subtitle": "Conținut expert pentru profesioniștii din domeniul sudării și alimentării cu gaz.",
+    "readMore": "Detalii",
+    "close": "Închideți",
+    "items": [
+      {
+        "tag": "MEȘTEȘUGARI",
+        "title": "Soluție completă de alimentare cu butelie de propan",
+        "desc": "Stabilitatea echipamentului afectează în mod direct eficiența lucrărilor de sudare și tăiere.",
+        "body": [
+          "Pentru meșterii care sudează, repară și fabrică metale în fiecare zi, echipamentele stabile pe gaz afectează în mod direct calitatea și viteza lucrărilor.",
+          "Buteliile de propan Wanda Group sunt disponibile de la 3L la 50L cu supape POL, CGA 510 sau GOST în funcție de piața dvs. — un singur furnizor pentru sudare, tăiere și încălzire.",
+          "Vă recomandăm să comandați cilindri împreună cu regulatoare, furtunuri și pistolete. Pachetul de aprovizionare reduce costurile logistice și asigură compatibilitatea accesoriilor.",
+          "Când comandați, specificați piața țintă, volumul, tipul și culoarea supapei — pregătim marcajul OEM și exportăm ambalajele sub marca dvs."
+        ]
+      },
+      {
+        "tag": "Depozitare",
+        "title": "Sfaturi pentru depozitarea cilindrului de acetilenă pe termen lung",
+        "desc": "Condiții de depozitare, metode de amplasare și inspecții periodice pentru buteliile neutilizate.",
+        "body": [
+          "Multe companii depozitează butelii de acetilenă și propan în timpul pauzelor de producție sau ca inventar. Buteliile neutilizate necesită în continuare o manipulare corespunzătoare.",
+          "Depozitați buteliile în poziție verticală într-o zonă bine ventilată, departe de sursele de căldură și de lumina directă a soarelui. Temperatura de depozitare nu trebuie să depășească, de obicei, 40–50°C.",
+          "Verificați supapele, capacele și marcajele cel puțin trimestrial. Pentru depozitarea pe termen lung a acetilenei, păstrați buteliile în poziție verticală și nu permiteți niciodată înclinarea.",
+          "Grupul Wanda livrează butelii cu capace de protecție și ambalaje de export concepute pentru transport și depozitare în condiții de siguranță. Ghidurile de stocare sunt disponibile în limba dvs. la cerere."
+        ]
+      },
+      {
+        "tag": "Prețuri",
+        "title": "Ghid bugetar pentru achiziționarea cilindrului de acetilenă",
+        "desc": "Factorii care afectează costul și modul de alegere a ofertei optime.",
+        "body": [
+          "Prețul buteliei de acetilenă depinde de volum (2L-40L), tipul supapei, certificare (ISO, DOT, TPED) și cantitatea comenzii. Prețuri indicative EXW: WG-10 $28–35, WG-25 $45–58 pe unitate.",
+          "Loturile mai mari (200–500+ bucăți) beneficiază de reduceri semnificative. Vopseaua OEM, sigla și ambalajul special adaugă 5–15% la prețul de bază, dar cresc valoarea pentru distribuitori.",
+          "De asemenea, luați în considerare transportul maritim (FOB/CIF), documentele și MOQ. Răspundem în termen de 24 de ore cu specificații complete, timp de execuție și Incoterms.",
+          "Pentru o ofertă exactă, includeți modelul, cantitatea, țara de destinație și cerințele supapei în formularul de contact — sau e-mail sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Solicitați o cotație",
+    "subtitle": "Spuneți-ne dimensiunea, cantitatea, țara de destinație și aplicația — vom pregăti o ofertă detaliată.",
+    "formTitle": "Solicitați o cotație",
+    "formSubtitle": "Lăsați cerințele dvs. — echipa noastră de vânzări va răspunde cu informații despre produs, prețuri, MOQ și timp de execuție.",
+    "name": "Nume",
+    "phone": "Telefon / WhatsApp",
+    "email": "E-mail",
+    "product": "Produs",
+    "quantity": "Cantitate",
+    "country": "Țara de destinație",
+    "productOptions": [
+      "Cilindru de acetilenă",
+      "Cilindru de propan",
+      "Generator de acetilenă",
+      "Accesorii",
+      "Comanda pachetului"
+    ],
+    "message": "Cerințe suplimentare",
+    "messagePlaceholder": "Produs, dimensiune, cantitate, țara de destinație...",
+    "submit": "Trimiteți întrebarea",
+    "sending": "Se trimite…",
+    "success": "Vă mulțumim! Vă vom contacta în scurt timp.",
+    "sendAnother": "Trimite o altă solicitare",
+    "errorGeneric": "Trimiterea nu a reușit. Te rugăm să încerci din nou sau să ne trimiți un e-mail direct.",
+    "errorNoForm": "Formularul nu este configurat. Vă rugăm să trimiteți un e-mail la sales@wandagroups.com",
+    "privacyPrefix": "Sunt de acord cu",
+    "privacySuffix": "și la prelucrarea datelor mele personale pentru a gestiona această solicitare.",
+    "privacyLink": "Politica de confidențialitate",
+    "company": "Companie",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Trimiteți prin aplicația de e-mail"
+  },
+  "footer": {
+    "company": "Producător cilindru de gaz Wanda Group",
+    "tagline": "Producție profesională de butelii cu gaz",
+    "rights": "© 2026 Wanda Group. Toate drepturile rezervate.",
+    "privacy": "Politica de confidențialitate"
+  },
+  "ui": {
+    "catalog": "Catalog",
+    "catalogTitle": "Specificații detaliate ale produsului",
+    "catalogSubtitle": "Date tehnice complete, modele și parametri pentru fiecare categorie. Selectați un produs pentru a vizualiza tabelul cu specificații.",
+    "requestPrice": "Solicitați prețul pentru acest model",
+    "services": "Servicii",
+    "pricing": "Prețuri",
+    "getExactQuote": "Obține o ofertă exactă",
+    "certifications": "Certificări",
+    "order": "Comandă",
+    "reviews": "Recenzii",
+    "contact": "Contact",
+    "phone": "Telefon",
+    "location": "Locație",
+    "quoteResponse": "Răspuns la ofertă",
+    "support": "Suport",
+    "exportReady": "Exportul este gata.",
+    "years": "Ani",
+    "acetylene": "Acetilenă",
+    "isoCertified": "Certificat ISO",
+    "globalExport": "Export global",
+    "products": "Produse",
+    "specs": "Specificații",
+    "applications": "Aplicații",
+    "whyUs": "De ce Noi",
+    "about": "Despre noi",
+    "gallery": "Galerie",
+    "quality": "Calitate",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "countriesServed": "Țările deservite",
+    "searchLanguage": "Căutați limba...",
+    "noLanguagesFound": "Nu s-au găsit limbi"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Exportați în peste 50 de țări",
+    "MOQ de la 100 buc",
+    "Timp de livrare 15–25 de zile"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetilenă",
+      "propane": "propan",
+      "generator": "Generator",
+      "accessories": "Accesorii"
+    },
+    "acetylene": {
+      "title": "Cilindri de acetilenă dizolvați",
+      "intro": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor.",
+      "features": [
+        "Masă poroasă + acetonă pentru depozitare stabilă",
+        "Vane CGA 510 / GOST / DIN la cerere",
+        "Presiune de încercare hidraulică 5,2 MPa",
+        "Vopsire RAL, ștanțare și etichete OEM",
+        "Ambalaje pentru paleți de export"
+      ],
+      "tableTitle": "Modele standard de cilindri de acetilenă",
+      "headers": [
+        "Model",
+        "Volumul (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Greutate (kg)",
+        "Înălțime (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0,3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0,8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38,0",
+          "1250"
+        ]
+      ],
+      "note": "* Parametrii exacti depind de standard (ISO/DOT/GB) și de configurația supapei. Solicitați fișa de specificații pentru piața dvs."
+    },
+    "propane": {
+      "title": "Butelii de propan și GPL",
+      "intro": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+      "features": [
+        "Oțel 37Mn/34CrMo4 conform ISO 9809",
+        "Presiune de lucru 1,8–2,1 MPa",
+        "Supape POL, CGA 510, GOST",
+        "Acoperire cu pulbere, anticoroziune",
+        "Certificate pentru piețele UE, SUA, CSI"
+      ],
+      "tableTitle": "Modele standard de butelii de propan",
+      "headers": [
+        "Model",
+        "Volumul (L)",
+        "Gaz (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Greutate (kg)",
+        "Înălțime (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20,0",
+          "1.8",
+          "5.2",
+          "42,0",
+          "1180"
+        ]
+      ],
+      "note": "* Prețul și MOQ depind de volumul comenzii și tipul de supapă. Trimiteți întrebarea pentru oferta exactă."
+    },
+    "generator": {
+      "title": "Generatoare de acetilenă",
+      "intro": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz.",
+      "features": [
+        "Capacitate de ieșire 3–100 m³/h",
+        "Alimentare automată cu apă și carbură",
+        "Sistem de siguranță și filtrare",
+        "Modele compacte și industriale",
+        "Documentație completă și instruire"
+      ],
+      "tableTitle": "Modele cu generatoare de acetilenă",
+      "headers": [
+        "Model",
+        "Debit (m³/h)",
+        "Carbură (kg/h)",
+        "Presiune (kPa)",
+        "Putere (kW)",
+        "Greutate (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1,5–5",
+          "0,5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1,5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1,5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1,5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1,5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generatoare livrate cu sistem de racire, filtre si kit de piese de schimb la cerere."
+    },
+    "accessories": {
+      "title": "Accesorii și fitinguri pentru cilindri",
+      "intro": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri.",
+      "features": [
+        "Regulatoare și manometre (CGA/GOST/DIN)",
+        "Furtunuri de înaltă presiune",
+        "Torte de taiere si arzatoare de sudura",
+        "Supape de limitare a presiunii",
+        "Cărucioare, suporturi, capace"
+      ],
+      "tableTitle": "Catalog Accesorii",
+      "headers": [
+        "Categorie",
+        "Modele",
+        "Standard",
+        "Aplicație"
+      ],
+      "rows": [
+        [
+          "Regulatoare",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetilenă, propan"
+        ],
+        [
+          "Calibre",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Monitorizarea presiunii"
+        ],
+        [
+          "Furtunuri",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Sudare, tăiere"
+        ],
+        [
+          "Torte",
+          "WG-C100, WG-C300",
+          "—",
+          "Tăiere cu plasmă/oxi"
+        ],
+        [
+          "Arzătoare",
+          "WG-T200, WG-T500",
+          "—",
+          "Sudare, lipire"
+        ],
+        [
+          "Supape",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Toate tipurile de cilindri"
+        ]
+      ],
+      "note": "* Accesorii disponibile separat sau la pachet cu cilindri. Reducere la comenzile combinate."
+    }
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "subtitle": "Ciclu complet — de la producție până la livrare la depozitul dumneavoastră. Lucrăm cu distribuitori, mărci OEM și cumpărători de proiecte.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Fabricare personalizată (OEM/ODM)",
+        "desc": "Cilindri cu marca, culoarea și marcarea dvs.",
+        "points": [
+          "Logo și culoare RAL",
+          "Supapă standard pe piață",
+          "Ambalaje și etichete OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Export & Logistica",
+        "desc": "Asistență completă pentru expedieri internaționale.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Documentatie de export",
+          "Transport maritim si feroviar"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Controlul calității",
+        "desc": "Testare și inspecție în fiecare etapă.",
+        "points": [
+          "Teste hidrostatice",
+          "Inspecția sudurii UT",
+          "Inspecție SGS/BV la cerere"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Certificare",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS și certificat de calitate",
+          "Certificat de origine"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Suport tehnic",
+        "desc": "Ajutor la selectarea produselor și la configurare.",
+        "points": [
+          "Selecția bazată pe piață",
+          "MOQ și calculul timpului de livrare",
+          "Instruirea personalului"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Aprovizionare pachet",
+        "desc": "Cilindri + accesorii într-o singură comandă.",
+        "points": [
+          "Contract unic",
+          "Livrare coordonata",
+          "Reducere la pachet"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Condiții de preț și aprovizionare",
+    "subtitle": "Condiții transparente pentru achizițiile B2B. Prețul exact este calculat individual - trimiteți întrebarea, răspundem în 24 de ore.",
+    "note": "Prețurile afișate sunt orientative (EXW). Costul final depinde de volum, tip de supapă, certificare și termeni de transport.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "de la 100 buc",
+        "desc": "Comanda minima pe model"
+      },
+      {
+        "label": "Perioada de graţie",
+        "value": "15-25 de zile",
+        "desc": "Dupa confirmarea comenzii"
+      },
+      {
+        "label": "Plată",
+        "value": "T/T 30/70",
+        "desc": "30% depozit, 70% înainte de expediere"
+      },
+      {
+        "label": "garanție",
+        "value": "12 luni",
+        "desc": "Împotriva defectelor de fabricație"
+      }
+    ],
+    "factors": {
+      "title": "Factori de preț",
+      "items": [
+        "Volumul și modelul cilindrului (2L – 50L)",
+        "Tip supapă (CGA, GOST, DIN, POL)",
+        "Standard de certificare (ISO, DOT, TPED)",
+        "OEM: culoare, marcaj, ambalare",
+        "Volumul comenzii și Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetilenă WG-10",
+        "moq": "200 buc",
+        "price": "28–35 USD/buc",
+        "lead": "18 zile"
+      },
+      {
+        "product": "Acetilenă WG-25",
+        "moq": "100 buc",
+        "price": "45–58 USD / buc",
+        "lead": "20 de zile"
+      },
+      {
+        "product": "Propan WG-P11",
+        "moq": "500 buc",
+        "price": "12–16 USD/buc",
+        "lead": "15 zile"
+      },
+      {
+        "product": "Propan WG-P50",
+        "moq": "100 buc",
+        "price": "55–72 USD / buc",
+        "lead": "22 de zile"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 unitate",
+        "price": "$3,500–4,200",
+        "lead": "25 de zile"
+      },
+      {
+        "product": "Set regulator",
+        "moq": "50 buc",
+        "price": "8–15 USD/buc",
+        "lead": "10 zile"
+      }
+    ],
+    "tableHeaders": [
+      "Produs",
+      "MOQ",
+      "Preț (EXW)",
+      "Perioada de graţie"
+    ]
+  },
+  "certifications": {
+    "title": "Certificari si standarde",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Butelii de gaz din oțel fără sudură — cerințe tehnice"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Cilindri de acetilenă dizolvați"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certificare pe piața SUA"
+      },
+      {
+        "name": "TPED",
+        "desc": "Directiva europeană a transporturilor"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Cilindru de gaz chinezesc standard"
+      },
+      {
+        "name": "Marcaj CE",
+        "desc": "Cerințe europene de conformitate"
+      }
+    ]
+  },
+  "process": {
+    "title": "Cum se comandă",
+    "subtitle": "Proces simplu de la solicitare la cilindri în depozitul dumneavoastră.",
+    "steps": [
+      {
+        "title": "Trimiteți întrebarea",
+        "desc": "Specificați cerințele privind produsul, volumul, țara și supapa"
+      },
+      {
+        "title": "Primiți cotația",
+        "desc": "Preț, MOQ, termen de livrare și fișă de specificații în 24 de ore"
+      },
+      {
+        "title": "Confirmați comanda",
+        "desc": "Semnarea contractului și plata avansului de 30%."
+      },
+      {
+        "title": "Producție și QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Expediere",
+        "desc": "Ambalare, documente, livrare FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "sudare",
+        "eyebrow": "Cilindri de acetilenă",
+        "title": "Flacără stabilă pentru sudare de precizie",
+        "text": "Cilindri de acetilenă dizolvată proiectați pentru sudare și lipire continuă - presiune constantă, masă poroasă sigură, supape gata de export.",
+        "points": [
+          "Opțiuni ISO / DOT / GB",
+          "Supape CGA / GOST / DIN",
+          "Culoare și marcaj OEM"
+        ]
+      },
+      {
+        "id": "tăiere",
+        "eyebrow": "Tăiere și fabricare",
+        "title": "Putere atunci când metalul trebuie să se miște",
+        "text": "Seturi de cilindri de acetilenă și oxigen cu debit mare pentru șantiere navale, ateliere și linii grele de fabricație.",
+        "points": [
+          "Perforare și tăiere rapidă",
+          "Truse gata pentru torță",
+          "Vrac MOQ prietenos"
+        ]
+      },
+      {
+        "id": "propan",
+        "eyebrow": "Propan și GPL",
+        "title": "Butelii GPL durabile pentru fiecare piață",
+        "text": "De la încălzire și gătit gaz până la tăiere industrială - cilindri de oțel construiti pentru presiune, acoperire și durată lungă de viață.",
+        "points": [
+          "Gama 3L–50L",
+          "Supape POL / CGA",
+          "Finisaj acoperit cu pulbere"
+        ]
+      },
+      {
+        "id": "fabrică",
+        "eyebrow": "Fabricarea",
+        "title": "Controlul fabricii de la oțel până la livrare",
+        "text": "Formare internă, sudare, testare hidrostatică și finisare - astfel încât fiecare lot să se potrivească cu desenul și standardul de piață.",
+        "points": [
+          "Testat hidrostatic",
+          "Loturi trasabile",
+          "Pregătit OEM/ODM"
+        ]
+      },
+      {
+        "id": "calitate",
+        "eyebrow": "Calitate și siguranță",
+        "title": "Inspecție puteți pune în cotație",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Teste de presiune și de scurgere",
+          "Certificate package",
+          "Fotografii înainte de expediere"
+        ]
+      },
+      {
+        "id": "export",
+        "eyebrow": "Export global",
+        "title": "Ambalat pentru porturi, gata pentru peste 50 de țări",
+        "text": "Exportați paleți, protecție pentru supape, etichete multilingve și documente de expediere coordonate pentru Incoterms de destinație.",
+        "points": [
+          "Suport FOB/CIF",
+          "Ambalaj paletizat",
+          "Timp de livrare 15-25 zile"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Butelii de gaz industriale gata din fabrică",
+    "about": "Stoc de cilindru gata de export cu ambalaj de protecție",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Cilindru de acetilenă dizolvată cu masă poroasă și supapă de alamă",
+      "Generator industrial de acetilenă pe un derapaj din fabrică",
+      "Butelii de propan și GPL în mai multe dimensiuni și culori",
+      "Kit accesorii pentru sudura si taiere pentru butelii de gaz"
+    ],
+    "gallery": [
+      "Stoc de cilindru finit din fabrică",
+      "Sudarea de producție la etajul fabricii",
+      "Ambalaj de export cu plasă de protecție",
+      "Cilindri de acetilenă în cuști de siguranță",
+      "Livrare de cilindri în vrac pe camion",
+      "Documentația de export și inspecția ambalajului",
+      "Ansamblu supapă pe linia de producție",
+      "Tăiere cu oxicombustibil cu cilindri de oxigen și acetilenă",
+      "Sudare industrială la etaj",
+      "Sudarea țevilor pe bancul de fabricație",
+      "Fabricare grea în interiorul fabricii",
+      "Gama de dimensiuni a cilindrului din fabrică"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Accesorii",
+    "title": "Accesorii pentru produse",
+    "subtitle": "Piese pentru cilindri de acetilena, generatoare, sudare si taiere. Deschideți Detalii pentru specificații și aplicații.",
+    "cta": "Solicitați detalii",
+    "details": "Detalii",
+    "close": "Aproape",
+    "featuresLabel": "Caracteristici cheie",
+    "specsLabel": "Specificații",
+    "applicationsLabel": "Aplicații",
+    "qualityLabel": "Calitate și aprovizionare",
+    "whyTitle": "De ce să ne alegem accesoriile?",
+    "why": [
+      "Alama durabila, otel inoxidabil si materiale de calitate industriala",
+      "Compatibil cu cilindri, generatoare, regulatoare, furtunuri și sisteme de sudare",
+      "Sigla OEM, ambalaj, dimensiunea conexiunii, tipul filetului și specificațiile",
+      "Ambalare de export și aprovizionare stabilă pentru cumpărătorii internaționali"
+    ],
+    "items": [
+      {
+        "title": "Supapă de retur cu acetilenă",
+        "desc": "Previne curgerea inversă a gazului și reluarea flăcării în sistemele de sudare și tăiere cu oxiacetilenă.",
+        "intro": "Un dispozitiv de siguranță esențial pentru sistemele cu acetilenă. Dispozitivul de oprire a flăcării din inox sinterizat încorporat și designul de curgere unidirecțională protejează operatorii, furtunurile și conductele de gaz. Compatibil cu regulatoare, furtunuri și torțe. Logo OEM, etichetă și ambalare disponibile.",
+        "features": [
+          "Insert inoxidabil sinterizat ignifug",
+          "Design de flux fără retur (unidirecțional).",
+          "Corp din alamă de înaltă rezistență, rezistent la coroziune",
+          "Etanșare fiabilă la presiunea de lucru",
+          "Conexiuni standard pentru instalare și înlocuire rapidă"
+        ],
+        "specs": [
+          "Gaz: acetilenă (C2H2); opritoare de oxigen furnizate separat",
+          "Corp: alamă; opritor: oțel inoxidabil",
+          "Conexiune: G 3/8″ LH sau filet personalizat",
+          "Presiune de lucru: până la 1,5 MPa / personalizat",
+          "Utilizare: sudare oxiacetilenă, tăiere și încălzire",
+          "Ambalare: cutie individuală, carton sau personalizat"
+        ],
+        "applications": [
+          "Sudarea și tăierea cu oxi-acetilenă",
+          "Regulatoare, furtunuri și ansambluri de lanternă",
+          "Linii de gaz generator de acetilenă"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de expediere",
+          "Teste de etanșare, presiune și funcții de reluare",
+          "Ambalare de export pentru livrare la distanță lungă"
+        ]
+      },
+      {
+        "title": "Recipient generator de acetilenă",
+        "desc": "Canister de miez pentru generarea stabilă de acetilenă din carbură de calciu în sistemele industriale de gaz.",
+        "intro": "Canistra generatorului este vasul principal al unui sistem de generare a acetilenei. Este furnizat pentru producția stabilă de gaz în sudare, tăiere și locații fără alimentare centralizată a buteliilor. Capacitatea, conductele și dispozitivele de siguranță pot fi adaptate modelului de generator.",
+        "features": [
+          "Container de miez pentru sisteme generatoare de acetilenă",
+          "Construit pentru generarea stabilă de gaz din carbură de calciu",
+          "Poate fi asortat cu supape de filtrare și de siguranță",
+          "Dispoziții generatoare industriale și compacte",
+          "Marcare OEM, conexiuni și ambalare la cerere"
+        ],
+        "specs": [
+          "Rol: ansamblu recipient generator/container",
+          "Gama tipică de putere a generatoarelor aferente: 3–100 m³/h",
+          "Presiunea de lucru a unităților aferente: aproximativ 1,5–5 kPa",
+          "Se livreaza cu racire, filtre si piese de schimb la cerere",
+          "Conexiuni, capacitate și tăiere confirmate la comandă"
+        ],
+        "applications": [
+          "Instalații generatoare de acetilenă și unități portabile",
+          "Ateliere fără alimentare centralizată cu butelii",
+          "Productie industriala de gaz de sudare si taiere"
+        ],
+        "quality": [
+          "Potrivire din fabrică cu modelul generatorului",
+          "Ambalare și documentație de export",
+          "Capacitate și detalii de conectare confirmate înainte de expediere"
+        ]
+      },
+      {
+        "title": "Torță de tăiere",
+        "desc": "Lanterna durabilă de tăiere cu oxiacetilenă pentru tăieturi precise, o flacără stabilă și productivitate ridicată.",
+        "intro": "Lanterna profesională de tăiere cu acetilenă pentru tăieturi curate și precise. Corp din alamă cu tuburi inoxidabile, mâner ergonomic și duze înlocuibile. Compatibil cu acetilenă și oxigen și cu vârfuri standard.",
+        "features": [
+          "Construcție premium din alamă și inoxidabil",
+          "Flacără stabilă și control precis al tăierii",
+          "Design axat pe siguranță pentru a reduce riscul de întoarcere",
+          "Mâner ergonomic, ușor de asamblat și de întreținut",
+          "Funcționează cu duze standard, vârfuri și seturi de furtunuri"
+        ],
+        "specs": [
+          "Model: lanterna de tăiere CT-01",
+          "Gaz: acetilena + oxigen",
+          "Grosimea de tăiere: 3–300 mm (în funcție de duză și presiune)",
+          "Presiune de lucru: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Conector: G5/8-14 sau personalizat",
+          "Lungime: aprox. 460 mm",
+          "Ambalare: 1 buc/cutie, 10 buc/cutie"
+        ],
+        "applications": [
+          "Tăiere plăci, țevi și profil din oțel carbon",
+          "Magazine de fabricatie, santiere navale si constructii",
+          "Întreținere industrială și tăiere la fața locului"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de livrare",
+          "Verificări de aspect, conectare, etanșare și funcționare",
+          "Ambalare de export pentru transport pe distanțe lungi"
+        ]
+      },
+      {
+        "title": "Supapă cu unghi filetat intern/extern",
+        "desc": "Supapă unghiulară de cilindru de rezistență cu opțiuni de filet intern sau extern pentru standardele pieței.",
+        "intro": "Supape unghiulare pentru acetilenă și alte gaze industriale: corp robust din alamă, etanșare precisă și funcționare lină a roții de mână. Filet interior sau exterior pentru a se potrivi cu standardele de cilindru și echipament.",
+        "features": [
+          "Corp durabil din alamă, rezistent la coroziune",
+          "Prelucrare de înaltă precizie pentru etanșare fiabilă",
+          "Opțiuni de conectare cu filet intern sau extern",
+          "Roată de mână ergonomică pentru deschidere/închidere ușoară",
+          "Inspecție de siguranță și funcționare 100%."
+        ],
+        "specs": [
+          "Gaz: acetilenă, oxigen, argon, azot și gaze compatibile",
+          "Presiune de lucru: clasa 25 / 35 bar",
+          "Presiune de testare: clasa 37,5 / 52,5 bar",
+          "Intrare/ieșire: internă sau externă, personalizat",
+          "Roată de mână: aliaj de aluminiu/zinc",
+          "Temperatura: -20 °C până la +60 °C",
+          "Standarde: ISO 10297, GB/T 8335, CGA sau personalizate",
+          "Ambalare: 1 buc/pungă, 50 buc/cutie"
+        ],
+        "applications": [
+          "Acetilenă și butelii de gaz industriale",
+          "Sisteme de sudare și tăiere cu gaz",
+          "Ateliere, instalații și alimentare cu gaz de laborator"
+        ],
+        "quality": [
+          "Verificari materiale, prelucrare, scurgeri si aspect",
+          "Ambalare de export pentru transport pe distanțe lungi",
+          "Dimensiunea firului și standardul confirmate pe piață"
+        ]
+      },
+      {
+        "title": "Colieră pentru furtun de oxigen",
+        "desc": "Clemă din oțel inoxidabil pentru conexiuni sigure, rezistente la scurgeri de oxigen și furtunuri industriale.",
+        "intro": "Cleme de furtun de oxigen din oțel inoxidabil pentru sudare și uz industrial. Forță de strângere puternică, rezistență la rugină și margini prietenoase cu furtunurile. Reutilizabil și ușor de instalat.",
+        "features": [
+          "Oțel inoxidabil 201 / 304",
+          "Forță de strângere puternică și fixare sigură",
+          "Rezistență la rugină, coroziune și oxidare",
+          "Marginile netede ale benzii ajută la protejarea furtunului",
+          "Ușor de instalat, îndepărtat și reutilizat"
+        ],
+        "specs": [
+          "Tip: clemă de furtun cu antrenare melcat",
+          "Gama de furtunuri: 8–100 mm, dimensiuni personalizate pentru vrac",
+          "Latime banda: 9 / 12 mm; grosime 0,6–0,8 mm",
+          "Șurub: crestat sau cap hexagonal",
+          "Standarde: DIN 3017 / SAE J1508",
+          "Finisaj: lustruit",
+          "Ambalare: 100 buc/pungă, 10 pungi/cutie sau personalizat"
+        ],
+        "applications": [
+          "Furtunuri de oxigen si combustibil pentru sudare si taiere",
+          "Racorduri pentru furtunul cilindrului, regulatorului și pistoletului",
+          "Linii de fabrică, atelier și întreținere"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de livrare",
+          "Dimensiunea, banda și ambalajul pot fi personalizate",
+          "Export de ambalare de calitate"
+        ]
+      },
+      {
+        "title": "Tuburi de oxigen",
+        "desc": "Furtun flexibil de oxigen de înaltă presiune cu durată lungă de viață pentru sudare, tăiere și alimentare cu gaz industrial.",
+        "intro": "Tuburi de oxigen realizate pentru un transfer sigur de gaz sub presiune. Flexibil, rezistent la îndoire și rezistent la abraziune, cu un perete interior neted pentru un flux stabil. ID-uri și lungimi multiple pentru sudură și conexiunea cilindrului.",
+        "features": [
+          "Presiune mare de lucru și de spargere",
+          "Construcție flexibilă, rezistentă la îndoire",
+          "Rezistență la îmbătrânire, la ozon și la abraziune",
+          "Perete interior neted pentru un flux stabil de gaz",
+          "Ușoare și ușor de manevrat"
+        ],
+        "specs": [
+          "Gaz: oxigen",
+          "Presiune de lucru: 20 bar / 290 psi",
+          "Presiune de spargere: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (disponibil la comandă)",
+          "Lungime: 10 / 20 / 30 / 50 / 100 m sau la comanda",
+          "Culoare: albastru standard; material SBR / EPDM + fire de poliester",
+          "Standarde: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatura: -20 °C până la +80 °C"
+        ],
+        "applications": [
+          "Alimentare cu oxigen pentru sudare și tăiere",
+          "Conexiune furtun cilindru-regulator",
+          "Fabrici, ateliere și linii industriale de gaz"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de livrare",
+          "Diametrul, lungimea, culoarea și eticheta pot fi personalizate",
+          "Ambalare de export: ambalare / sac țesut / carton"
+        ]
+      },
+      {
+        "title": "Manometru",
+        "desc": "Afișare precisă a presiunii pentru oxigen, acetilenă și alte gaze industriale.",
+        "intro": "Manometre pentru acetilenă, oxigen și gaze industriale: cadran transparent, construcție durabilă și citiri stabile pe cilindri, regulatoare și conducte. Game și conexiuni multiple pentru OEM și export.",
+        "features": [
+          "Precizie ridicată și performanță stabilă",
+          "Cadran clar pentru citire ușoară",
+          "Construcție industrială rezistentă la șocuri",
+          "Materiale rezistente la coroziune",
+          "Game multiple și monturi de jos/spate"
+        ],
+        "specs": [
+          "Gaz: acetilenă, oxigen, argon, CO₂, azot și gaze compatibile",
+          "Cadran: 50 / 63 / 100 mm, disponibil personalizat",
+          "Interval: 0–1 bar până la 0–400 bar, personalizat",
+          "Precizie: ±2,5% standard, ±1,6% opțional",
+          "Filet: G1/4, G1/8, NPT1/4, M12×1.5 sau personalizat",
+          "Carcasa: otel negru / inox optional; conector din alamă sau inox",
+          "Fereastra: sticla sau policarbonat; -20 °C până la +60 °C",
+          "Ambalare: 1 buc/cutie, 50 buc/cutie"
+        ],
+        "applications": [
+          "Butelii de gaz și regulatoare de presiune",
+          "Conducte și sisteme industriale de gaze",
+          "Sudura si taierea panourilor oxiacetilene"
+        ],
+        "quality": [
+          "Testare 100% înainte de livrare",
+          "Cadran OEM și opțiuni de branding",
+          "Ambalare de export"
+        ]
+      },
+      {
+        "title": "Supapă de siguranță",
+        "desc": "Eliberează automat excesul de presiune pentru a proteja buteliile, conductele și operatorii.",
+        "intro": "Supapele de siguranță descarcă automat suprapresiune pentru a proteja echipamentele și personalul. Potrivit pentru oxigen, acetilenă, aer, azot și gaze compatibile. Corp compact din alamă, presiuni multiple și dimensiuni ale filetului.",
+        "features": [
+          "Protecție automată la suprapresiune",
+          "Relief stabil la presiune ridicată",
+          "Corp din alamă, rezistent la căldură și coroziune",
+          "Design compact pentru instalare și service ușor",
+          "Presiuni setate multiple și dimensiuni ale filetului"
+        ],
+        "specs": [
+          "Gaz: oxigen, acetilenă, aer, azot și gaze compatibile",
+          "Presiune de lucru: până la 25 bar / 25 kg/cm²",
+          "Interval de relief: 0,1–2,5 MPa, personalizabil",
+          "Temperatura: -20 °C până la +120 °C",
+          "Conexiune: masculin/femeie; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Corp: alamă; etanșare: NBR / PTFE",
+          "Clasa de presiune corporală: 25 / 35 bar",
+          "Ambalare: 1 buc/cutie, 50 buc/cutie"
+        ],
+        "applications": [
+          "Protecție la suprapresiune a cilindrului și a galeriei",
+          "Echipamente industriale și conducte de gaz",
+          "Sisteme de sudare și tăiere cu oxicombustibil"
+        ],
+        "quality": [
+          "Testare 100% înainte de expediere",
+          "Presiunea setată, firul și ambalajul pot fi personalizate",
+          "Ambalare de export"
+        ]
+      },
+      {
+        "title": "Torta de sudura",
+        "desc": "Lanterna ergonomică de sudură cu oxicombustibil cu control fin al flăcării pentru sudare, lipire și încălzire.",
+        "intro": "Lanterna de sudură de înaltă performanță pentru lucrări cu oxigen-combustibil: flacără stabilă, control precis și corp durabil din alamă. Vârfuri de cupru, duze înlocuibile și racorduri pentru furtunuri pentru atelier și uz industrial.",
+        "features": [
+          "Flacără stabilă pentru sudare și reparare a metalelor",
+          "Flux lin de gaz și control precis al flăcării",
+          "Corp durabil din alamă, rezistent la căldură și coroziune",
+          "Mâner ergonomic pentru o operare confortabilă",
+          "Compatibil cu oxigen, acetilenă și propan opțional"
+        ],
+        "specs": [
+          "Tip: pistolet de sudare oxiacetilenă",
+          "Corp: alamă; sfat: cupru, înlocuibil",
+          "Conexiune furtun: G1/4″ sau 9/16″-18 UNF",
+          "Presiune de lucru: O₂ 0,2–1,0 MPa; C2H2 0,01–0,15 MPa",
+          "Temperatura: -20 °C până la +60 °C",
+          "Utilizare: sudare, lipire, încălzire; tăierea cu vârfuri potrivite",
+          "Ambalare: 1 buc/cutie, 10 buc/cutie"
+        ],
+        "applications": [
+          "Sudare și reparare oxigen-acetilenă",
+          "Lipire, încălzire și îmbinare",
+          "Ateliere si intretinere industriala"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de livrare",
+          "Stilul lanternă, conectorul, ambalajul și logo-ul pot fi OEM",
+          "Verificări materiale, scurgeri și aspect"
+        ]
+      },
+      {
+        "title": "Cap convertizor filtru",
+        "desc": "Conectează elementul de filtru la un regulator sau o conductă pentru o filtrare eficientă a gazului.",
+        "intro": "Capul convertor al filtrului este conexiunea dintre elementul de filtru și regulator sau conducta de gaz. Așează elementul, menține direcția corectă a fluxului și face service-ul și înlocuirea simplă în cilindri și sisteme de distribuție.",
+        "features": [
+          "Conectează elementul de filtru la regulator sau conductă",
+          "Sprijină filtrarea eficientă în conducta de gaz",
+          "Constructie industriala din alama / metal",
+          "Porturi filetate standard pentru potrivirea sistemului",
+          "Filet OEM, dimensiunea și ambalajul la cerere"
+        ],
+        "specs": [
+          "Rol: convertor filtru / cap adaptor",
+          "Utilizare: ansambluri de regulator, conducte și filtru cilindru",
+          "Dimensiunea conexiunii și firul confirmate la comandă",
+          "Se potrivește cu elemente de filtrare și boluri ca set, dacă este necesar"
+        ],
+        "applications": [
+          "Distribuția gazului înainte de regulatoare și scule",
+          "Ansambluri filtru cilindru și generator",
+          "Atelier și conducte de gaz industrial"
+        ],
+        "quality": [
+          "Dimensiunea conexiunii a fost confirmată înainte de producție",
+          "Ambalare de export",
+          "Poate fi furnizat cu elemente de filtrare potrivite"
+        ]
+      },
+      {
+        "title": "Filtra",
+        "desc": "Filtru de înaltă eficiență care elimină umezeala, uleiul și particulele pentru a proteja echipamentele din aval.",
+        "intro": "Îndepărtează particulele solide, apa, uleiul și alte impurități din fluxul de gaz pentru a proteja echipamentul și pentru a prelungi durata de viață. Cap din alama, element de calitate si functionare stabila sub presiune. Pentru oxigen, acetilenă, aer, azot și gaze compatibile.",
+        "features": [
+          "Filtrare de înaltă eficiență pentru un flux de gaz curat",
+          "Îndepărtează umezeala, uleiul și particulele",
+          "Cap de alamă rezistent și bol metalic",
+          "Element detasabil pentru curatare sau inlocuire",
+          "Funcționare stabilă sub presiune de lucru"
+        ],
+        "specs": [
+          "Gaz: oxigen, acetilenă, aer, azot și gaze compatibile",
+          "Presiune de intrare: până la 2,5 MPa",
+          "Presiune de lucru: 0,01–1,6 MPa",
+          "Precizie: 5 / 20 / 50 μm opțional",
+          "Conexiune: G1/4″, G3/8″, G1/2″, G3/4″ opțional",
+          "Corp: alamă; element: bronz sinterizat / oțel inoxidabil",
+          "Temperatura: -20 °C până la +60 °C",
+          "Ambalare: 1 buc/cutie, 20 buc/cutie"
+        ],
+        "applications": [
+          "Cilindru, regulator și sisteme de distribuție",
+          "Fabrici, ateliere și linii industriale de gaz",
+          "Flux mai curat pentru sudare, tăiere și furnizare de laborator"
+        ],
+        "quality": [
+          "Inspecție 100% înainte de livrare",
+          "Firul, precizia și elementul pot fi personalizate",
+          "Ambalare de export"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Politica de confidențialitate",
+    "updated": "Ultima actualizare: 25 august 2026",
+    "intro": [
+      "Wanda Group („noi”, „noi”) operează acest site web pentru a prezenta butelii de gaz, accesorii și furnizarea de export aferentă și pentru a primi întrebări comerciale de la cumpărători industriali.",
+      "Această politică explică ce date personale colectăm prin intermediul site-ului, de ce le folosim și cum ne puteți contacta în legătură cu aceasta. Nu publicăm videoclipuri din fabrică sau fișiere de certificat pe site; acele materiale sunt trimise privat la cerere."
+    ],
+    "sections": [
+      {
+        "title": "Cine este responsabil",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Ce date colectăm",
+        "body": [
+          "Când trimiteți formularul de întrebare primim datele pe care le introduceți: nume, e-mail, telefon, țara de destinație, tip de produs, cantitate și mesaj.",
+          "Site-ul stochează, de asemenea, limba selectată în browser (localStorage). Nu rulăm cookie-uri de publicitate și nu vindem liste de vizitatori."
+        ]
+      },
+      {
+        "title": "De ce folosim datele",
+        "body": [
+          "Folosim datele de solicitare doar pentru a răspunde la cererea dumneavoastră, a pregăti o ofertă, a trimite informații despre produse, videoclipuri sau certificate pe care le-ați solicitat și pentru a coordona o comandă dacă începem să lucrăm împreună.",
+          "Temei juridic: consimțământul dvs. atunci când bifați caseta de selectare din formular și interesul nostru legitim de a răspunde solicitărilor de vânzări B2B."
+        ]
+      },
+      {
+        "title": "Cine primește datele",
+        "body": [
+          "Mesajul dumneavoastră este livrat echipei noastre de vânzări prin e-mail. În funcție de configurație, formularul poate fi procesat de Web3Forms ca furnizor tehnic care ne transmite mesajul.",
+          "Nu vindem date personale. Putem împărtăși ceea ce este necesar cu partenerii de logistică, de inspecție sau bancar numai dacă acest lucru este necesar pentru a îndeplini o comandă convenită."
+        ]
+      },
+      {
+        "title": "Cât timp îl păstrăm",
+        "body": [
+          "Datele de anchetă sunt păstrate atât timp cât este necesar pentru a gestiona cererea și pentru o perioadă rezonabilă ulterior pentru urmărirea vânzărilor și contabilitate, cu excepția cazului în care ne solicitați să le ștergem mai devreme, acolo unde legea permite."
+        ]
+      },
+      {
+        "title": "Drepturile tale",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Securitate și copii",
+        "body": [
+          "Luăm măsuri tehnice și organizatorice rezonabile pentru a proteja mesajele în tranzit și în căsuța noastră poștală. Acest site este destinat cumpărătorilor de afaceri, nu copiilor."
+        ]
+      }
+    ],
+    "contactLead": "Întrebări despre această politică:"
+  }
+}

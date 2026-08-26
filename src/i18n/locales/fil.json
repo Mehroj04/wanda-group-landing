@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Mga produkto",
+    "specs": "Mga pagtutukoy",
+    "applications": "Mga aplikasyon",
+    "about": "Tungkol sa",
+    "gallery": "Gallery",
+    "quality": "Kalidad",
+    "faq": "FAQ",
+    "contact": "Makipag-ugnayan",
+    "getQuote": "Kumuha ng Quote",
+    "inquire": "Magtanong →",
+    "services": "Mga serbisyo",
+    "pricing": "Pagpepresyo",
+    "accessories": "Mga accessories",
+    "home": "Bahay",
+    "factory": "Pabrika"
+  },
+  "hero": {
+    "badge": "Tagagawa ng Silindro ng Gas",
+    "title": "Mga Maaasahang Gas Cylinder para sa Industriya at Welding",
+    "subtitle": "Ang Wanda Group ay isang pinagkakatiwalaang manufacturer at supplier ng acetylene, propane cylinders at accessories. Mga solusyon para sa supply ng gas, welding, cutting at storage sa buong mundo.",
+    "cta": "Kumuha ng Quote",
+    "ctaSecondary": "Ang Aming Mga Produkto",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Mga Taon ng Karanasan"
+      },
+      {
+        "value": "500K+",
+        "label": "Kapasidad ng Produksyon / Taon"
+      },
+      {
+        "value": "50+",
+        "label": "I-export ang mga Merkado"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kalidad at Sertipikasyon"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Maaasahang Gas Cylinder Accessories",
+    "text": "Gauges, valves, hose, torches at safety fitting — ibigay kasama ng mga cylinder o bilang isang hiwalay na order.",
+    "cta": "Tingnan ang mga accessory"
+  },
+  "products": {
+    "title": "Ang Aming Mga Produkto",
+    "subtitle": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
+    "items": [
+      {
+        "title": "Silindro ng Acetylene",
+        "desc": "Mga dissolved acetylene cylinders para sa welding, cutting at industrial gases. Iba't ibang laki at opsyon sa balbula.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Tagabuo ng Acetylene",
+        "desc": "Kagamitan para sa matatag na produksyon ng gas, madaling operasyon at mga pang-industriyang aplikasyon.",
+        "icon": "⚙️",
+        "spec": "Mga sistema ng henerasyong pang-industriya"
+      },
+      {
+        "title": "Silindro ng propane",
+        "desc": "Mga matibay na silindro para sa propane at LPG — imbakan, pagpainit, paggupit at paggamit sa industriya.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Mga Kagamitan sa Silindro",
+        "desc": "Mga hose, gauge, cutting torches, welding burner, safety valve at marami pa.",
+        "icon": "🔧",
+        "spec": "Mga balbula · regulators · hose · mga sulo"
+      }
+    ],
+    "viewDetails": "Tingnan ang mga Detalye"
+  },
+  "specs": {
+    "title": "Teknikal na Pagtutukoy",
+    "subtitle": "Galugarin ang mga opsyon sa cylinder, mga kakayahan sa pagpapasadya at mga detalye sa pagpapadala bago magpadala ng isang pagtatanong.",
+    "items": [
+      {
+        "title": "Kapasidad ng Silindro",
+        "desc": "Iba't ibang mga opsyon sa kapasidad at dami depende sa aplikasyon at mga kinakailangan sa merkado."
+      },
+      {
+        "title": "Mga balbula at takip",
+        "desc": "Ang mga balbula, takip at mga kabit ay ibinibigay ayon sa pangangailangan ng customer at proyekto."
+      },
+      {
+        "title": "Mga Opsyon sa Solvent",
+        "desc": "Pous filler system at solvents para sa matatag na imbakan ng acetylene."
+      },
+      {
+        "title": "Packaging at Pagpapadala",
+        "desc": "I-export ang packaging at suporta sa pagpapadala para sa mga distributor at customer ng proyekto."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Mga Aplikasyon ng Silindro",
+    "subtitle": "Mga produktong idinisenyo para sa mga karaniwang gawaing pang-industriya na gas at mga kinakailangan ng mamimili sa ibang bansa.",
+    "items": [
+      "Welding at Brazing",
+      "Pagputol ng Metal",
+      "Pang-industriya na Supply ng Gas",
+      "Konstruksyon",
+      "Paggawa ng Metal",
+      "Imbakan at Pamamahagi ng Gas"
+    ]
+  },
+  "whyUs": {
+    "title": "Bakit Wanda Group?",
+    "subtitle": "Direktang pagmamanupaktura, pag-customize at buong suporta sa pag-export — lahat para sa iyong negosyo.",
+    "items": [
+      {
+        "title": "Mataas na Kalidad",
+        "desc": "Mga silindro ng bakal na binuo para sa pang-industriyang welding at supply ng gas."
+      },
+      {
+        "title": "Mahigpit na Kontrol sa Kalidad",
+        "desc": "Inspeksyon mula sa mga papasok na materyales hanggang sa huling pag-iimpake."
+      },
+      {
+        "title": "Advanced na Paggawa",
+        "desc": "Pagbubuo, hinang, pagsubok at pagtatapos sa isang planta."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Kulay, balbula, pagmamarka, takip at pag-iimpake upang mag-order."
+      },
+      {
+        "title": "International Export",
+        "desc": "Mga dokumento at pagpapakete para sa mga mamimiling pang-industriya sa ibang bansa."
+      },
+      {
+        "title": "Maaasahang Paghahatid",
+        "desc": "Karaniwang lead time 15–25 araw pagkatapos makumpirma ang order."
+      }
+    ]
+  },
+  "about": {
+    "title": "Propesyonal na Gas Cylinder Manufacturer",
+    "text": "Ang Wanda Group Gas Cylinder Manufacturer ay dalubhasa sa paggawa at pagbibigay ng mga pang-industriya na silindro ng gas at mga kaugnay na accessory. Ang aming mga produkto ay malawakang ginagamit sa hinang, pagputol, pamamahagi ng gas, pang-industriya na imbakan at iba pang larangan ng suplay ng gas.",
+    "text2": "Sinusuportahan namin ang mga mamimili sa ibang bansa sa pagpili ng produkto, pagpapasadya, inspeksyon ng kalidad, packaging at koordinasyon sa pagpapadala.",
+    "facts": [
+      {
+        "title": "karanasan",
+        "desc": "15+ taon na nagsusuplay ng mga pang-industriya na silindro ng gas."
+      },
+      {
+        "title": "Produksyon",
+        "desc": "In-house forming, welding, testing at finishing."
+      },
+      {
+        "title": "Kalidad",
+        "desc": "ISO 9809, DOT at TPED na mga opsyon ayon sa market."
+      },
+      {
+        "title": "I-export",
+        "desc": "Nag-coordinate ang mga pagpapadala para sa 50+ patutunguhang merkado."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Sa loob ng Aming Pabrika",
+    "subtitle": "Produksyon, welding, pagsubok, pagpipinta at mga natapos na cylinder — kung paano namin inihahanda ang mga order sa pag-export.",
+    "items": [
+      {
+        "title": "Tapos na stock ng silindro",
+        "desc": "Handa na imbentaryo sa aming planta — dami ng kapasidad para sa pakyawan at pag-export ng mga order."
+      },
+      {
+        "title": "Produksyon ng hinang",
+        "desc": "Paggawa ng metal sa sahig ng pabrika na may supply ng gas na pang-industriya."
+      },
+      {
+        "title": "I-export ang packaging",
+        "desc": "Proteksiyon na mesh at pallet packing bago ang internasyonal na pagpapadala."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Pagpapadala ng bulk cylinder",
+        "desc": "Secure load sa hawla para sa transportasyon sa kalsada sa mga distributor at halaman."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Saklaw ng laki ng silindro",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kontrol sa Kalidad",
+    "subtitle": "Ang bawat batch ay sumusunod sa parehong landas: produksyon, pagsubok, inspeksyon at panghuling kontrol sa kalidad.",
+    "steps": [
+      {
+        "title": "Produksyon",
+        "desc": "Pagbubuo, hinang at pagpupulong sa ilalim ng kontrol ng proseso ng halaman."
+      },
+      {
+        "title": "Pagsubok",
+        "desc": "Mga pagsusuri sa presyon at pagtagas bago umalis ang mga silindro sa linya."
+      },
+      {
+        "title": "Inspeksyon",
+        "desc": "Visual, pagmamarka at dimensional na mga pagsusuri laban sa pagkakasunud-sunod."
+      },
+      {
+        "title": "Pangwakas na Kontrol sa Kalidad",
+        "desc": "Pag-iinspeksyon sa pag-iimpake bago i-export ang kargamento."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Mga Madalas Itanong",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Hindi mahanap ang iyong tanong? Ipadala ang produkto, laki, dami at destinasyong bansa — tutugon kami ng isang detalyadong alok.",
+    "ctaBtn": "Kumuha ng Quote",
+    "groups": [
+      {
+        "title": "kumpanya",
+        "items": [
+          {
+            "q": "Ikaw ba ay isang tagagawa ng silindro ng gas?",
+            "a": "Oo. Dalubhasa ang Wanda Group sa pagmamanupaktura ng mga silindro ng gas at mga nauugnay na solusyon sa supply ng gas na pang-industriya para sa mga mamimiling pang-industriya sa ibang bansa."
+          },
+          {
+            "q": "Anong mga produkto ang pangunahin mong ibinibigay?",
+            "a": "Nagbibigay kami ng acetylene cylinders, propane cylinders, acetylene generators at gas cylinder accessories gaya ng valves, regulators, hose, pressure gauge at torches."
+          },
+          {
+            "q": "Maaari mo bang suportahan ang pag-customize ng OEM?",
+            "a": "Oo. Ang kulay ng silindro, pagmamarka, balbula, takip at mga opsyon sa pag-iimpake ay maaaring talakayin ayon sa pagkakasunud-sunod at sa target na merkado."
+          },
+          {
+            "q": "Sinusuportahan mo ba ang mga mamimili sa ibang bansa?",
+            "a": "Oo. Sinusuportahan namin ang pag-export, pagpili ng produkto, mga kinakailangan sa pag-iimpake, dokumentasyon at koordinasyon sa pagpapadala."
+          },
+          {
+            "q": "Paano ako makakakuha ng isang quote?",
+            "a": "Mangyaring tukuyin ang uri ng produkto, laki ng silindro, dami, bansang patutunguhan at mga kinakailangan sa pagpapasadya sa pamamagitan ng form ng pagtatanong o sa pamamagitan ng email. Sasagot ang aming team ng mga detalye ng produkto at isang quotation."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Maaari ba akong manood ng mga factory video bago mag-order?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Nagbibigay ka ba ng mga video ng produkto, lalo na para sa mga acetylene cylinders?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Maaari ka bang magpakita ng mga video ng produksyon at kontrol sa kalidad?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Maaari ba akong humiling ng isang video ng produkto na ginawa para sa isang partikular na order?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Mga solusyon",
+        "items": [
+          {
+            "q": "Anong mga gas cylinder solution ang inaalok mo?",
+            "a": "Nag-aalok kami ng mga solusyon para sa welding at pagputol, pamamahagi ng gas, imbakan ng industriya, pagbuo ng acetylene, supply ng OEM at pagbili ng pag-export."
+          },
+          {
+            "q": "Maaari ka bang magrekomenda ng mga produkto para sa aking aplikasyon?",
+            "a": "Oo. Ipadala ang iyong aplikasyon, laki ng silindro, dami, bansang patutunguhan at mga kinakailangang accessory — magrerekomenda kami ng mga angkop na produkto."
+          },
+          {
+            "q": "Nagbibigay ka ba ng mga accessories kasama ng mga cylinder?",
+            "a": "Oo. Maaari kaming mag-supply ng mga pressure regulator, hose, gauge, cutting torches, welding torches, valves at fitting kasama ng mga cylinder."
+          },
+          {
+            "q": "Maaari ka bang magbigay ng mga silindro ng gas para sa mga mamimili ng OEM?",
+            "a": "Oo. Ang kulay ng silindro, pagmamarka, balbula, takip, logo at pag-iimpake ay maaaring talakayin ayon sa pagkakasunud-sunod."
+          }
+        ]
+      },
+      {
+        "title": "Mga produkto",
+        "items": [
+          {
+            "q": "Ano ang gamit ng dissolved acetylene cylinder?",
+            "a": "Ang dissolved acetylene cylinders ay malawakang ginagamit para sa welding, cutting, brazing, metal fabrication at industrial gas supply."
+          },
+          {
+            "q": "Anong mga sukat ng silindro ang maaari mong ibigay?",
+            "a": "Maaaring talakayin ang iba't ibang volume at kapasidad depende sa iyong target na market, aplikasyon at dami ng order. Upang kumpirmahin, tukuyin ang kinakailangang laki o lokal na pamantayan."
+          },
+          {
+            "q": "Maaari bang baguhin ang kulay ng silindro, balbula at pagmamarka?",
+            "a": "Oo. Ang kulay ng silindro, balbula, takip, pagmamarka, label at pag-export ng packing ay maaaring gawin upang mag-order."
+          }
+        ]
+      },
+      {
+        "title": "Mga accessories",
+        "items": [
+          {
+            "q": "Anong mga accessories ang ibinibigay mo?",
+            "a": "Nagbibigay kami ng mga flashback arrestor, pressure gauge, safety valve, oxygen hose, hose clamp, cutting torches, welding torches, filter, adapter at iba pang gas cylinder accessories."
+          },
+          {
+            "q": "Maaari bang ipasadya ang mga accessory ng silindro ng gas?",
+            "a": "Oo. Maaari naming i-customize ang logo, pag-iimpake, laki ng koneksyon, uri ng thread, hanay ng presyon at mga teknikal na detalye."
+          },
+          {
+            "q": "Maaari bang mag-order ng mga accessories kasama ng mga silindro ng gas?",
+            "a": "Oo. Maaaring ibigay ang mga accessory kasama ng mga acetylene cylinders, propane cylinders at acetylene generators."
+          },
+          {
+            "q": "Sinusuportahan mo ba ang OEM packing?",
+            "a": "Oo. Para sa pakyawan na mga order maaari kaming magbigay ng OEM marking, mga karton, bag at mga label ng produkto."
+          },
+          {
+            "q": "Maaari ka bang magbigay ng mga larawan at detalye ng produkto?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Paano ako makakakuha ng quote para sa mga accessories?",
+            "a": "Mangyaring tukuyin ang pangalan ng produkto, dami, laki ng koneksyon, presyon ng trabaho, mga kinakailangan sa pag-iimpake at destinasyong bansa o daungan."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Pinakabagong Mga Artikulo",
+    "subtitle": "Ekspertong nilalaman para sa mga propesyonal sa welding at gas supply.",
+    "readMore": "Magbasa nang higit pa →",
+    "close": "Isara",
+    "items": [
+      {
+        "tag": "mga manggagawa",
+        "title": "Kumpletong Propane Cylinder Supply Solution",
+        "desc": "Ang katatagan ng kagamitan ay direktang nakakaapekto sa welding at cutting work efficiency.",
+        "body": [
+          "Para sa mga manggagawa na nagwelding, nagkukumpuni at gumagawa ng metal araw-araw, direktang nakakaapekto ang stable gas equipment sa kalidad at bilis ng trabaho.",
+          "Available ang mga propane cylinder ng Wanda Group mula 3L hanggang 50L na may mga POL, CGA 510 o GOST valves depende sa iyong market — isang supplier para sa welding, cutting at heating.",
+          "Inirerekomenda namin ang pag-order ng mga cylinder kasama ng mga regulator, hose at torches. Binabawasan ng supply ng bundle ang gastos sa logistik at tinitiyak ang pagiging tugma ng accessory.",
+          "Kapag nag-order, tukuyin ang target na market, volume, uri ng balbula at kulay — naghahanda kami ng OEM marking at export packaging sa ilalim ng iyong brand."
+        ]
+      },
+      {
+        "tag": "Imbakan",
+        "title": "Pangmatagalang Mga Tip sa Pag-iimbak ng Acetylene Cylinder",
+        "desc": "Mga kondisyon sa pag-iimbak, paraan ng paglalagay at regular na inspeksyon para sa mga hindi nagamit na silindro.",
+        "body": [
+          "Maraming mga kumpanya ang nag-iimbak ng mga silindro ng acetylene at propane sa panahon ng mga break ng produksyon o bilang imbentaryo. Ang mga hindi nagamit na silindro ay nangangailangan pa rin ng wastong paghawak.",
+          "Itabi ang mga cylinder nang patayo sa isang lugar na may mahusay na bentilasyon na malayo sa mga pinagmumulan ng init at direktang sikat ng araw. Karaniwang hindi dapat lumampas sa 40–50°C ang temperatura ng imbakan.",
+          "Siyasatin ang mga balbula, takip at marka nang hindi bababa sa quarterly. Para sa pangmatagalang imbakan ng acetylene, panatilihing patayo ang mga cylinder at huwag hayaang tumagilid.",
+          "Nagpapadala ang Wanda Group ng mga cylinder na may mga protective cap at export packaging na idinisenyo para sa ligtas na transportasyon at warehousing. Available ang mga gabay sa storage sa iyong wika kapag hiniling."
+        ]
+      },
+      {
+        "tag": "Pagpepresyo",
+        "title": "Gabay sa Badyet para sa Pagbili ng Acetylene Cylinder",
+        "desc": "Mga salik na nakakaapekto sa gastos at kung paano pipiliin ang pinakamainam na alok.",
+        "body": [
+          "Ang presyo ng acetylene cylinder ay depende sa volume (2L–40L), uri ng balbula, sertipikasyon (ISO, DOT, TPED) at dami ng order. Mga indikatibong presyo ng EXW: WG-10 $28–35, WG-25 $45–58 bawat unit.",
+          "Ang mga malalaking lote (200–500+ pcs) ay tumatanggap ng makabuluhang diskwento. Ang pagpipinta, logo at espesyal na packaging ng OEM ay nagdaragdag ng 5–15% sa baseng presyo ngunit nagpapataas ng halaga para sa mga distributor.",
+          "Salik din sa pagpapadala (FOB/CIF), mga dokumento at MOQ. Tumugon kami sa loob ng 24 na oras na may buong detalye, oras ng pag-lead at Incoterms.",
+          "Para sa eksaktong quote, isama ang modelo, dami, destinasyong bansa at mga kinakailangan sa balbula sa form sa pakikipag-ugnayan — o mag-email sa sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Humiling ng Quote",
+    "subtitle": "Sabihin sa amin ang laki, dami, destinasyong bansa at aplikasyon — maghahanda kami ng detalyadong quote.",
+    "formTitle": "Humiling ng Quote",
+    "formSubtitle": "Iwanan ang iyong mga kinakailangan — tutugon ang aming koponan sa pagbebenta kasama ang impormasyon ng produkto, pagpepresyo, MOQ at oras ng lead.",
+    "name": "Pangalan",
+    "phone": "Telepono / WhatsApp",
+    "email": "Email",
+    "product": "produkto",
+    "quantity": "Dami",
+    "country": "Destinasyon na Bansa",
+    "productOptions": [
+      "Silindro ng Acetylene",
+      "Silindro ng propane",
+      "Tagabuo ng Acetylene",
+      "Mga accessories",
+      "Bundle Order"
+    ],
+    "message": "Mga Karagdagang Kinakailangan",
+    "messagePlaceholder": "Produkto, laki, dami, destinasyong bansa...",
+    "submit": "Magpadala ng Inquiry",
+    "sending": "Ipinapadala...",
+    "success": "salamat po! Makikipag-ugnayan kami sa iyo sa ilang sandali.",
+    "sendAnother": "Magpadala ng isa pang pagtatanong",
+    "errorGeneric": "Nabigong ipadala. Pakisubukang muli o direktang mag-email sa amin.",
+    "errorNoForm": "Hindi na-configure ang form. Mangyaring mag-email sa sales@wandagroups.com",
+    "privacyPrefix": "Sumasang-ayon ako sa",
+    "privacySuffix": "at sa pagproseso ng aking personal na data upang mahawakan ang pagtatanong na ito.",
+    "privacyLink": "Patakaran sa Privacy",
+    "company": "kumpanya",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Ipadala sa pamamagitan ng email app"
+  },
+  "footer": {
+    "company": "Wanda Group Gas Cylinder Manufacturer",
+    "tagline": "Propesyonal na Gas Cylinder Manufacturing",
+    "rights": "© 2026 Wanda Group. Lahat ng karapatan ay nakalaan.",
+    "privacy": "Patakaran sa Privacy"
+  },
+  "ui": {
+    "catalog": "Catalog",
+    "catalogTitle": "Detalyadong Detalye ng Produkto",
+    "catalogSubtitle": "Kumpletuhin ang teknikal na data, modelo at parameter para sa bawat kategorya. Pumili ng produkto para tingnan ang spec table.",
+    "requestPrice": "Humiling ng Presyo para sa Modelong Ito",
+    "services": "Mga serbisyo",
+    "pricing": "Pagpepresyo",
+    "getExactQuote": "Kumuha ng Eksaktong Sipi",
+    "certifications": "Mga Sertipikasyon",
+    "order": "Umorder",
+    "reviews": "Mga pagsusuri",
+    "contact": "Makipag-ugnayan",
+    "phone": "Telepono",
+    "location": "Lokasyon",
+    "quoteResponse": "Quote tugon",
+    "support": "Suporta",
+    "exportReady": "Handa na ang pag-export",
+    "years": "taon",
+    "acetylene": "Acetylene",
+    "isoCertified": "ISO Certified",
+    "globalExport": "Pandaigdigang Pag-export",
+    "products": "Mga produkto",
+    "specs": "Mga pagtutukoy",
+    "applications": "Mga aplikasyon",
+    "whyUs": "Bakit Tayo",
+    "about": "Tungkol sa Amin",
+    "gallery": "Gallery",
+    "quality": "Kalidad",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "countriesServed": "Mga bansang pinaglilingkuran",
+    "searchLanguage": "Maghanap ng wika...",
+    "noLanguagesFound": "Walang nahanap na mga wika"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "I-export sa 50+ Bansa",
+    "MOQ mula sa 100 pcs",
+    "Lead Time 15–25 Araw"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
+      "accessories": "Mga accessories"
+    },
+    "acetylene": {
+      "title": "Mga Natunaw na Silindro ng Acetylene",
+      "intro": "Mga silindro ng bakal na may buhaghag na masa at solvent para sa ligtas na imbakan at transportasyon ng acetylene. Ginagamit sa hinang, pagputol, pagpapatigas at paggawa ng metal.",
+      "features": [
+        "Porous mass + acetone para sa matatag na imbakan",
+        "Mga balbula ng CGA 510 / GOST / DIN kapag hiniling",
+        "Hydraulic test pressure 5.2 MPa",
+        "RAL painting, stamping at OEM label",
+        "I-export ang pallet packaging"
+      ],
+      "tableTitle": "Mga Karaniwang Modelo ng Acetylene Cylinder",
+      "headers": [
+        "Modelo",
+        "Dami (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Timbang (kg)",
+        "Taas (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Nakadepende ang mga eksaktong parameter sa standard (ISO/DOT/GB) at configuration ng valve. Humiling ng spec sheet para sa iyong market."
+    },
+    "propane": {
+      "title": "Mga Silindro ng Propane at LPG",
+      "intro": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas.",
+      "features": [
+        "37Mn/34CrMo4 steel bawat ISO 9809",
+        "Presyon sa pagtatrabaho 1.8–2.1 MPa",
+        "Mga balbula ng POL, CGA 510, GOST",
+        "Powder coating, anti-corrosion",
+        "Mga sertipiko para sa mga merkado ng EU, US, CIS"
+      ],
+      "tableTitle": "Mga Karaniwang Modelo ng Propane Cylinder",
+      "headers": [
+        "Modelo",
+        "Dami (L)",
+        "Gas (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Timbang (kg)",
+        "Taas (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Ang pagpepresyo at MOQ ay nakadepende sa dami ng order at uri ng balbula. Magpadala ng pagtatanong para sa eksaktong quotation."
+    },
+    "generator": {
+      "title": "Mga Generator ng Acetylene",
+      "intro": "Kagamitan para sa paggawa ng acetylene mula sa calcium carbide. Matatag na suplay ng gas para sa hinang at mga pang-industriyang pangangailangan nang walang sentralisadong imprastraktura ng gas.",
+      "features": [
+        "Output 3–100 m³/h kapasidad",
+        "Awtomatikong tubig at carbide feed",
+        "Sistema ng kaligtasan at pagsasala",
+        "Compact at pang-industriya na mga modelo",
+        "Buong dokumentasyon at pagsasanay"
+      ],
+      "tableTitle": "Mga Modelo ng Acetylene Generator",
+      "headers": [
+        "Modelo",
+        "Output (m³/h)",
+        "Carbide (kg/h)",
+        "Presyon (kPa)",
+        "Power (kW)",
+        "Timbang (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Ang mga generator ay binibigyan ng cooling system, mga filter at spare parts kit kapag hiniling."
+    },
+    "accessories": {
+      "title": "Cylinder Accessories at Fittings",
+      "intro": "Kumpletong hanay para sa ligtas na pagpapatakbo ng silindro ng gas: mula sa mga panukat hanggang sa mga welding torches. One-stop na pagkuha gamit ang mga cylinder.",
+      "features": [
+        "Mga regulator at gauge (CGA/GOST/DIN)",
+        "Mga hose na may mataas na presyon",
+        "Pagputol ng mga sulo at welding burner",
+        "Mga pressure relief valve",
+        "Trolleys, stands, caps"
+      ],
+      "tableTitle": "Katalogo ng Mga Kagamitan",
+      "headers": [
+        "Kategorya",
+        "Mga modelo",
+        "Pamantayan",
+        "Aplikasyon"
+      ],
+      "rows": [
+        [
+          "Mga regulator",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylene, propane"
+        ],
+        [
+          "Gauges",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Pagsubaybay sa presyon"
+        ],
+        [
+          "Mga hose",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Welding, pagputol"
+        ],
+        [
+          "Mga tanglaw",
+          "WG-C100, WG-C300",
+          "—",
+          "Pagputol ng plasma/oxy"
+        ],
+        [
+          "Mga burner",
+          "WG-T200, WG-T500",
+          "—",
+          "Welding, brazing"
+        ],
+        [
+          "Mga balbula",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Lahat ng uri ng silindro"
+        ]
+      ],
+      "note": "* Available ang mga accessory nang hiwalay o kasama ng mga cylinder. Diskwento sa pinagsamang mga order."
+    }
+  },
+  "services": {
+    "title": "Aming Serbisyo",
+    "subtitle": "Buong cycle — mula sa pagmamanupaktura hanggang sa paghahatid sa iyong bodega. Nakikipagtulungan kami sa mga distributor, mga tatak ng OEM at mga mamimili ng proyekto.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Custom na Paggawa (OEM/ODM)",
+        "desc": "Mga silindro na may tatak, kulay at pagmamarka mo.",
+        "points": [
+          "Kulay ng logo at RAL",
+          "Market-standard na balbula",
+          "OEM packaging at mga label"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "I-export at Logistics",
+        "desc": "Kumpletuhin ang suporta sa internasyonal na pagpapadala.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "I-export ang dokumentasyon",
+          "Mga kargamento sa dagat at riles"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kontrol sa Kalidad",
+        "desc": "Pagsubok at inspeksyon sa bawat yugto.",
+        "points": [
+          "Mga pagsubok sa hydrostatic",
+          "UT weld inspeksyon",
+          "SGS/BV inspeksyon kapag hiniling"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertipikasyon",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS at sertipiko ng kalidad",
+          "Sertipiko ng pinagmulan"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Teknikal na Suporta",
+        "desc": "Tumulong sa pagpili ng mga produkto at configuration.",
+        "points": [
+          "Pagpili batay sa merkado",
+          "MOQ at pagkalkula ng lead time",
+          "Pagsasanay ng mga tauhan"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Bundle Supply",
+        "desc": "Mga silindro + accessories sa isang pagkakasunud-sunod.",
+        "points": [
+          "Isang kontrata",
+          "Coordinated na paghahatid",
+          "Bundle na diskwento"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Mga Tuntunin sa Pagpepresyo at Supply",
+    "subtitle": "Mga malinaw na tuntunin para sa pagkuha ng B2B. Ang eksaktong pagpepresyo ay kinakalkula nang paisa-isa — magpadala ng pagtatanong, tumugon kami sa loob ng 24 na oras.",
+    "note": "Ang mga ipinapakitang presyo ay indicative (EXW). Ang huling gastos ay depende sa dami, uri ng balbula, sertipikasyon at mga tuntunin sa pagpapadala.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "mula sa 100 pcs",
+        "desc": "Minimum na order bawat modelo"
+      },
+      {
+        "label": "Lead Time",
+        "value": "15–25 araw",
+        "desc": "Pagkatapos ng kumpirmasyon ng order"
+      },
+      {
+        "label": "Pagbabayad",
+        "value": "T/T 30/70",
+        "desc": "30% na deposito, 70% bago ipadala"
+      },
+      {
+        "label": "Warranty",
+        "value": "12 buwan",
+        "desc": "Laban sa mga depekto sa pagmamanupaktura"
+      }
+    ],
+    "factors": {
+      "title": "Mga Salik sa Presyo",
+      "items": [
+        "Dami at modelo ng silindro (2L – 50L)",
+        "Uri ng balbula (CGA, GOST, DIN, POL)",
+        "Pamantayan sa sertipikasyon (ISO, DOT, TPED)",
+        "OEM: kulay, pagmamarka, packaging",
+        "Dami ng order at Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylene WG-10",
+        "moq": "200 pcs",
+        "price": "$28–35 / pc",
+        "lead": "18 araw"
+      },
+      {
+        "product": "Acetylene WG-25",
+        "moq": "100 pcs",
+        "price": "$45–58 / pc",
+        "lead": "20 araw"
+      },
+      {
+        "product": "Propane WG-P11",
+        "moq": "500 pcs",
+        "price": "$12–16 / pc",
+        "lead": "15 araw"
+      },
+      {
+        "product": "Propane WG-P50",
+        "moq": "100 pcs",
+        "price": "$55–72 / pc",
+        "lead": "22 araw"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 unit",
+        "price": "$3,500–4,200",
+        "lead": "25 araw"
+      },
+      {
+        "product": "Set ng regulator",
+        "moq": "50 pcs",
+        "price": "$8–15 / pc",
+        "lead": "10 araw"
+      }
+    ],
+    "tableHeaders": [
+      "produkto",
+      "MOQ",
+      "Presyo (EXW)",
+      "Lead Time"
+    ]
+  },
+  "certifications": {
+    "title": "Mga Sertipikasyon at Pamantayan",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Seamless steel gas cylinders — mga teknikal na kinakailangan"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Mga natunaw na silindro ng acetylene"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Sertipikasyon sa merkado ng US"
+      },
+      {
+        "name": "TPED",
+        "desc": "Direktiba sa transportasyon ng Europa"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Pamantayan ng Chinese gas cylinder"
+      },
+      {
+        "name": "CE Mark",
+        "desc": "Mga kinakailangan sa pagsang-ayon sa Europa"
+      }
+    ]
+  },
+  "process": {
+    "title": "Paano Mag-order",
+    "subtitle": "Simpleng proseso mula sa pagtatanong hanggang sa mga cylinder sa iyong bodega.",
+    "steps": [
+      {
+        "title": "Magpadala ng Inquiry",
+        "desc": "Tukuyin ang produkto, dami, bansa at mga kinakailangan sa balbula"
+      },
+      {
+        "title": "Tumanggap ng Sipi",
+        "desc": "Presyo, MOQ, lead time at spec sheet sa loob ng 24 na oras"
+      },
+      {
+        "title": "Kumpirmahin ang Order",
+        "desc": "Pagpirma ng kontrata at 30% pagbabayad ng deposito"
+      },
+      {
+        "title": "Produksyon at QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Pagpapadala",
+        "desc": "Packaging, mga dokumento, FOB/CIF/DDP delivery"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "hinang",
+        "eyebrow": "Mga silindro ng acetylene",
+        "title": "Matatag na apoy para sa precision welding",
+        "text": "Mga dissolved acetylene cylinders na inengineered para sa tuluy-tuloy na welding at brazing — pare-pareho ang presyon, ligtas na buhaghag na masa, mga balbula na handa sa pag-export.",
+        "points": [
+          "Mga pagpipilian sa ISO / DOT / GB",
+          "Mga balbula ng CGA / GOST / DIN",
+          "Kulay at pagmamarka ng OEM"
+        ]
+      },
+      {
+        "id": "pagputol",
+        "eyebrow": "Pagputol at paggawa",
+        "title": "Lakas kapag kailangang gumalaw ang metal",
+        "text": "High-flow acetylene at oxygen-ready cylinder set para sa shipyards, workshops at heavy fabrication lines.",
+        "points": [
+          "Mabilis na butas at hiwa",
+          "Mga kit na handa ng tanglaw",
+          "Bulk MOQ friendly"
+        ]
+      },
+      {
+        "id": "propane",
+        "eyebrow": "Propane at LPG",
+        "title": "Matibay na LPG cylinders para sa bawat merkado",
+        "text": "Mula sa pagpainit at pagluluto ng gas hanggang sa pang-industriyang pagputol — mga silindro ng bakal na ginawa para sa presyon, patong at mahabang buhay ng serbisyo.",
+        "points": [
+          "3L–50L na hanay",
+          "Mga balbula ng POL / CGA",
+          "Powder coat finish"
+        ]
+      },
+      {
+        "id": "pabrika",
+        "eyebrow": "Paggawa",
+        "title": "Kontrol ng pabrika mula sa bakal hanggang sa kargamento",
+        "text": "In-house forming, welding, hydrostatic testing at finishing — kaya bawat batch ay tumutugma sa iyong drawing at market standard.",
+        "points": [
+          "Nasubok ang hydrostatic",
+          "Traceable batch",
+          "Handa na ang OEM / ODM"
+        ]
+      },
+      {
+        "id": "kalidad",
+        "eyebrow": "Kalidad at kaligtasan",
+        "title": "Inspeksyon na maaari mong ilagay sa quote",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Mga pagsubok sa presyon at pagtagas",
+          "Certificate package",
+          "Mga larawan ng pre-shipment"
+        ]
+      },
+      {
+        "id": "i-export",
+        "eyebrow": "Pandaigdigang pag-export",
+        "title": "Naka-pack para sa mga daungan, handa para sa 50+ bansa",
+        "text": "I-export ang mga pallet, proteksyon ng balbula, mga multilinggwal na label at mga dokumento sa pagpapadala na pinag-ugnay para sa iyong patutunguhan na Incoterms.",
+        "points": [
+          "Suporta sa FOB / CIF",
+          "Palletized na pag-iimpake",
+          "Lead time 15–25 araw"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Ang mga pang-industriya na silindro ng gas ay handa sa pabrika",
+    "about": "I-export-ready na cylinder stock na may protective packaging",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Dissolved acetylene cylinder na may porous mass at brass valve",
+      "Industrial acetylene generator sa isang factory skid",
+      "Mga silindro ng propane at LPG sa maraming laki at kulay",
+      "Welding at cutting accessory kit para sa mga silindro ng gas"
+    ],
+    "gallery": [
+      "Tapos na stock ng silindro sa pabrika",
+      "Production welding sa sahig ng pabrika",
+      "I-export ang packaging na may protective mesh",
+      "Mga silindro ng acetylene sa mga safety cage",
+      "Bulk cylinder shipping sa trak",
+      "I-export ang dokumentasyon at inspeksyon sa pag-iimpake",
+      "Pagpupulong ng balbula sa linya ng produksyon",
+      "Oxy-fuel cutting na may oxygen at acetylene cylinders",
+      "Pang-industriya na hinang sa sahig ng tindahan",
+      "Pipe welding sa fabrication bench",
+      "Mabigat na katha sa loob ng halaman",
+      "Saklaw ng laki ng silindro sa pabrika"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Mga accessories",
+    "title": "Mga Accessory ng Produkto",
+    "subtitle": "Mga bahagi para sa acetylene cylinders, generators, welding at cutting. Buksan ang Mga Detalye para sa mga detalye at aplikasyon.",
+    "cta": "Humiling ng mga detalye",
+    "details": "Mga Detalye",
+    "close": "Isara",
+    "featuresLabel": "Mga pangunahing tampok",
+    "specsLabel": "Mga pagtutukoy",
+    "applicationsLabel": "Mga aplikasyon",
+    "qualityLabel": "Kalidad at supply",
+    "whyTitle": "Bakit pipiliin ang aming mga accessories?",
+    "why": [
+      "Matibay na tanso, hindi kinakalawang na asero at pang-industriya na mga materyales",
+      "Tugma sa mga cylinder, generator, regulator, hose at welding system",
+      "OEM logo, packing, laki ng koneksyon, uri ng thread at mga detalye",
+      "I-export ang packing at stable na supply para sa mga internasyonal na mamimili"
+    ],
+    "items": [
+      {
+        "title": "Acetylene Flashback Valve",
+        "desc": "Pinipigilan ang reverse gas flow at flame flashback sa oxy-acetylene welding at cutting system.",
+        "intro": "Isang mahalagang aparatong pangkaligtasan para sa mga sistema ng acetylene. Ang built-in na sintered stainless flame arrestor at one-way na disenyo ng daloy ay nagpoprotekta sa mga operator, hose, at linya ng gas. Tugma sa mga regulator, hose at torches. Available ang logo ng OEM, label at packing.",
+        "features": [
+          "Sintered na insert na hindi kinakalawang na panlaban sa apoy",
+          "Non-return (one-way) na disenyo ng daloy",
+          "Mataas na lakas ng katawan ng tanso, lumalaban sa kaagnasan",
+          "Maaasahang sealing sa ilalim ng nagtatrabaho presyon",
+          "Mga karaniwang koneksyon para sa mabilis na pag-install at pagpapalit"
+        ],
+        "specs": [
+          "Gas: acetylene (C₂H₂); hiwalay na ibinibigay ang mga oxygen arrestor",
+          "Katawan: tanso; arrestor: hindi kinakalawang na asero",
+          "Koneksyon: G 3/8″ LH o naka-customize na thread",
+          "Paggawa ng presyon: hanggang sa 1.5 MPa / customized",
+          "Gamitin ang: oxy-acetylene welding, pagputol at pagpainit",
+          "Pag-iimpake: indibidwal na kahon, karton o custom"
+        ],
+        "applications": [
+          "Oxy-acetylene welding at pagputol",
+          "Mga regulator, hose at torch assemblies",
+          "Mga linya ng gas ng generator ng acetylene"
+        ],
+        "quality": [
+          "100% inspeksyon bago ipadala",
+          "Mga pagsubok sa seal, pressure at flashback-function",
+          "I-export ang packing para sa malayuang paghahatid"
+        ]
+      },
+      {
+        "title": "Acetylene Generator Canister",
+        "desc": "Core canister para sa stable acetylene generation mula sa calcium carbide sa mga industrial gas system.",
+        "intro": "Ang generator canister ay ang pangunahing sisidlan ng isang sistema ng pagbuo ng acetylene. Ito ay ibinibigay para sa matatag na produksyon ng gas sa hinang, pagputol at mga site na walang sentralisadong suplay ng silindro. Ang kapasidad, piping at safety trim ay maaaring itugma sa modelo ng generator.",
+        "features": [
+          "Core container para sa mga sistema ng generator ng acetylene",
+          "Binuo para sa matatag na pagbuo ng gas mula sa calcium carbide",
+          "Maaaring itugma sa pagsasala at mga balbula sa kaligtasan",
+          "Pang-industriya at compact na mga layout ng generator",
+          "Ang pagmamarka ng OEM, mga koneksyon at pagpapakete kapag hiniling"
+        ],
+        "specs": [
+          "Tungkulin: generator canister / container assembly",
+          "Karaniwang hanay ng output ng mga nauugnay na generator: 3–100 m³/h",
+          "Gumaganang presyon ng mga kaugnay na yunit: mga 1.5–5 kPa",
+          "Ibinigay sa paglamig, mga filter at mga ekstrang bahagi kapag hiniling",
+          "Nakumpirma ang mga koneksyon, kapasidad at trim bawat order"
+        ],
+        "applications": [
+          "Acetylene generator plants at portable units",
+          "Mga workshop na walang sentralisadong suplay ng silindro",
+          "Pang-industriya na hinang at pagputol ng produksyon ng gas"
+        ],
+        "quality": [
+          "Pagtutugma ng pabrika sa modelo ng generator",
+          "I-export ang packing at dokumentasyon",
+          "Ang mga detalye ng kapasidad at koneksyon ay nakumpirma bago ipadala"
+        ]
+      },
+      {
+        "title": "Pagputol ng Sulo",
+        "desc": "Matibay na oxy-acetylene cutting torch para sa mga tumpak na hiwa, isang matatag na apoy at mataas na produktibidad.",
+        "intro": "Propesyonal na acetylene cutting torch para sa malinis, tumpak na mga hiwa. Brass na katawan na may mga hindi kinakalawang na tubo, ergonomic na hawakan at mapapalitang mga nozzle. Tugma sa acetylene at oxygen at may karaniwang mga tip.",
+        "features": [
+          "Premium na tanso at hindi kinakalawang na konstruksyon",
+          "Matatag na apoy at tumpak na kontrol sa hiwa",
+          "Disenyong nakatuon sa kaligtasan upang mabawasan ang panganib ng backfire",
+          "Ergonomic na hawakan, madaling i-assemble at serbisyo",
+          "Gumagana sa karaniwang mga nozzle, tip at hose set"
+        ],
+        "specs": [
+          "Modelo: CT-01 cutting torch",
+          "Gas: acetylene + oxygen",
+          "Kapal ng pagputol: 3–300 mm (depende sa nozzle at presyon)",
+          "Presyon sa pagtatrabaho: C₂H₂ 0.02–0.15 MPa; O₂ 0.2–1.0 MPa",
+          "Konektor: G5/8-14 o naka-customize",
+          "Haba: approx. 460 mm",
+          "Pag-iimpake: 1 pc/box, 10 pcs/carton"
+        ],
+        "applications": [
+          "Carbon steel plate, pipe at profile cutting",
+          "Fabrication shop, shipyards at construction",
+          "Pagpapanatili ng industriya at pagputol sa lugar"
+        ],
+        "quality": [
+          "100% inspeksyon bago ihatid",
+          "Hitsura, koneksyon, sealing at mga tseke ng function",
+          "I-export ang packing para sa malayuang pagpapadala"
+        ]
+      },
+      {
+        "title": "Panloob/Palabas na May Sinulid na Anggulo Valve",
+        "desc": "Heavy-duty cylinder angle valve na may panloob o panlabas na mga opsyon sa thread para sa mga pamantayan ng merkado.",
+        "intro": "Angle valves para sa acetylene at iba pang pang-industriya na gas: matibay na brass body, tumpak na sealing at makinis na handwheel operation. Panloob o panlabas na thread upang tumugma sa mga pamantayan ng silindro at kagamitan.",
+        "features": [
+          "Matibay na katawan ng tanso, lumalaban sa kaagnasan",
+          "High-precision machining para sa maaasahang sealing",
+          "Mga opsyon sa koneksyon sa panloob o panlabas na thread",
+          "Ergonomic na handwheel para sa madaling pagbukas/pagsara",
+          "100% kaligtasan at inspeksyon ng pag-andar"
+        ],
+        "specs": [
+          "Gas: acetylene, oxygen, argon, nitrogen at mga katugmang gas",
+          "Presyon sa pagtatrabaho: 25/35 bar na klase",
+          "Presyon ng pagsubok: 37.5 / 52.5 bar na klase",
+          "Inlet/outlet: panloob o panlabas, na-customize",
+          "Handwheel: aluminyo / zinc alloy",
+          "Temperatura: −20 °C hanggang +60 °C",
+          "Mga Pamantayan: ISO 10297, GB/T 8335, CGA o custom",
+          "Packing: 1 pc/bag, 50 pcs/box"
+        ],
+        "applications": [
+          "Acetylene at pang-industriya na mga silindro ng gas",
+          "Welding at pagputol ng mga sistema ng gas",
+          "Mga workshop, halaman at supply ng gas sa laboratoryo"
+        ],
+        "quality": [
+          "Mga pagsusuri sa materyal, machining, pagtagas at hitsura",
+          "I-export ang packing para sa malayuang transportasyon",
+          "Ang laki ng thread at pamantayan ay nakumpirma sa bawat merkado"
+        ]
+      },
+      {
+        "title": "Oxygen Hose Clamp",
+        "desc": "Hindi kinakalawang na asero worm-drive clamp para sa secure, leak-resistant na oxygen at mga pang-industriyang hose na koneksyon.",
+        "intro": "Hindi kinakalawang na asero oxygen hose clamp para sa hinang at pang-industriya na paggamit. Malakas na clamping force, paglaban sa kalawang at hose-friendly na mga gilid. Reusable at madaling i-install.",
+        "features": [
+          "Hindi kinakalawang na asero 201 / 304",
+          "Malakas na puwersa ng clamp at secure na pangkabit",
+          "Ang kalawang, kaagnasan at paglaban sa oksihenasyon",
+          "Ang makinis na mga gilid ng banda ay nakakatulong na protektahan ang hose",
+          "Madaling i-install, alisin at muling gamitin"
+        ],
+        "specs": [
+          "Uri: worm-drive hose clamp",
+          "Saklaw ng hose: 8–100 mm, mga custom na laki para sa maramihan",
+          "Lapad ng banda: 9 / 12 mm; kapal 0.6–0.8 mm",
+          "Screw: may slotted o hex na ulo",
+          "Mga Pamantayan: DIN 3017 / SAE J1508",
+          "Tapusin: pinakintab",
+          "Pag-iimpake: 100 pcs/bag, 10 bags/carton o custom"
+        ],
+        "applications": [
+          "Oxygen at mga hose ng gasolina para sa hinang at pagputol",
+          "Cylinder, regulator at torch hose joints",
+          "Mga linya ng pabrika, pagawaan at pagpapanatili"
+        ],
+        "quality": [
+          "100% inspeksyon bago ihatid",
+          "Maaaring i-customize ang laki, banda at pag-iimpake",
+          "I-export ang kalidad ng packing"
+        ]
+      },
+      {
+        "title": "Mga Tubong Oxygen",
+        "desc": "Flexible high-pressure oxygen hose na may mahabang buhay ng serbisyo para sa welding, pagputol at pang-industriya na supply ng gas.",
+        "intro": "Ang mga tubo ng oxygen na ginawa para sa ligtas na paglipat ng gas sa ilalim ng presyon. Flexible, kink-resistant at abrasion-resistant, na may makinis na panloob na pader para sa stable na daloy. Maramihang mga ID at haba para sa welding at cylinder connection.",
+        "features": [
+          "Mataas na working at burst pressure",
+          "Flexible, kink-resistant na konstruksyon",
+          "Pagtanda, ozone at abrasion resistance",
+          "Makinis na panloob na dingding para sa matatag na daloy ng gas",
+          "Magaan at madaling hawakan"
+        ],
+        "specs": [
+          "Gas: oxygen",
+          "Presyon ng pagtatrabaho: 20 bar / 290 psi",
+          "Presyon ng pagsabog: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (custom available)",
+          "Haba: 10 / 20 / 30 / 50 / 100 m o custom",
+          "Kulay: asul na pamantayan; materyal na SBR / EPDM + polyester na sinulid",
+          "Mga Pamantayan: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatura: −20 °C hanggang +80 °C"
+        ],
+        "applications": [
+          "Ang supply ng oxygen para sa hinang at pagputol",
+          "Koneksyon ng hose ng cylinder-to-regulator",
+          "Mga pabrika, workshop at pang-industriya na linya ng gas"
+        ],
+        "quality": [
+          "100% inspeksyon bago ihatid",
+          "Ang diameter, haba, kulay at label ay maaaring ipasadya",
+          "Export packing: pag-urong / habi bag / karton"
+        ]
+      },
+      {
+        "title": "Pressure Gauge",
+        "desc": "Tumpak na pagpapakita ng presyon para sa oxygen, acetylene at iba pang mga gas na pang-industriya.",
+        "intro": "Mga gauge para sa acetylene, oxygen at mga gas na pang-industriya: malinaw na dial, matibay na konstruksyon at matatag na pagbabasa sa mga cylinder, regulator at pipeline. Maramihang mga saklaw at koneksyon para sa OEM at pag-export.",
+        "features": [
+          "Mataas na katumpakan at matatag na pagganap",
+          "I-clear ang dial para sa madaling pagbabasa",
+          "Pang-industriyang konstruksiyon na lumalaban sa shock",
+          "Mga materyales na lumalaban sa kaagnasan",
+          "Maramihang mga saklaw at pang-ibaba/likod na mga mount"
+        ],
+        "specs": [
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen at mga katugmang gas",
+          "Dial: 50 / 63 / 100 mm, custom na available",
+          "Saklaw: 0–1 bar hanggang 0–400 bar, custom",
+          "Katumpakan: ±2.5% pamantayan, ±1.6% opsyonal",
+          "Thread: G1/4, G1/8, NPT1/4, M12×1.5 o custom",
+          "Kaso: itim na bakal / hindi kinakalawang na opsyonal; connector na tanso o SS",
+          "Bintana: salamin o polycarbonate; −20 °C hanggang +60 °C",
+          "Pag-iimpake: 1 pc/box, 50 pcs/carton"
+        ],
+        "applications": [
+          "Mga silindro ng gas at mga regulator ng presyon",
+          "Mga pipeline at pang-industriya na sistema ng gas",
+          "Oxy-acetylene welding at cutting panel"
+        ],
+        "quality": [
+          "100% pagsubok bago ang paghahatid",
+          "OEM dial at mga opsyon sa pagba-brand",
+          "I-export ang packing"
+        ]
+      },
+      {
+        "title": "Safety Relief Valve",
+        "desc": "Awtomatikong naglalabas ng labis na presyon upang protektahan ang mga cylinder, pipeline at operator.",
+        "intro": "Ang mga safety relief valve ay awtomatikong naglalabas ng overpressure upang protektahan ang mga kagamitan at tauhan. Angkop para sa oxygen, acetylene, hangin, nitrogen at mga katugmang gas. Compact brass body, maraming set pressure at laki ng thread.",
+        "features": [
+          "Awtomatikong over-pressure na proteksyon",
+          "Matatag na lunas sa ilalim ng mataas na presyon",
+          "Katawan ng tanso, lumalaban sa init at kaagnasan",
+          "Compact na disenyo para sa madaling pag-install at serbisyo",
+          "Maramihang mga set ng presyon at laki ng thread"
+        ],
+        "specs": [
+          "Gas: oxygen, acetylene, hangin, nitrogen at mga katugmang gas",
+          "Presyon sa pagtatrabaho: hanggang 25 bar / 25 kg/cm²",
+          "Relief range: 0.1–2.5 MPa, nako-customize",
+          "Temperatura: −20 °C hanggang +120 °C",
+          "Koneksyon: lalaki/babae; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Katawan: tanso; selyo: NBR / PTFE",
+          "Klase ng presyon ng katawan: 25 / 35 bar",
+          "Pag-iimpake: 1 pc/box, 50 pcs/carton"
+        ],
+        "applications": [
+          "Cylinder at manifold over-pressure na proteksyon",
+          "Pang-industriya na kagamitan sa gas at mga pipeline",
+          "Oxy-fuel welding at cutting system"
+        ],
+        "quality": [
+          "100% pagsubok bago ipadala",
+          "Itakda ang presyon, thread at pag-iimpake ay maaaring ipasadya",
+          "I-export ang packing"
+        ]
+      },
+      {
+        "title": "Welding Torch",
+        "desc": "Ergonomic oxy-fuel welding torch na may makinis na kontrol ng apoy para sa welding, brazing at pagpainit.",
+        "intro": "High-performance welding torch para sa oxygen-fuel work: matatag na apoy, tumpak na kontrol at matibay na tansong katawan. Mga tip sa tanso, mga mapapalitang nozzle at mga koneksyon sa hose para sa pagawaan at pang-industriya na paggamit.",
+        "features": [
+          "Matatag na apoy para sa hinang at pagkumpuni ng metal",
+          "Makinis na daloy ng gas at tumpak na kontrol ng apoy",
+          "Matibay na katawan ng tanso, lumalaban sa init at kaagnasan",
+          "Ergonomic na hawakan para sa kumportableng operasyon",
+          "Tugma sa oxygen, acetylene at opsyonal na propane"
+        ],
+        "specs": [
+          "Uri: oxy-acetylene welding torch",
+          "Katawan: tanso; tip: tanso, maaaring palitan",
+          "Koneksyon ng hose: G1/4″ o 9/16″-18 UNF",
+          "Presyon sa pagtatrabaho: O₂ 0.2–1.0 MPa; C₂H₂ 0.01–0.15 MPa",
+          "Temperatura: −20 °C hanggang +60 °C",
+          "Gamitin: hinang, pagpapatigas, pagpainit; paggupit na may matching tip",
+          "Pag-iimpake: 1 pc/box, 10 pcs/carton"
+        ],
+        "applications": [
+          "Oxygen-acetylene welding at pagkumpuni",
+          "Pagpapatigas, pag-init at pagsali",
+          "Mga workshop at pagpapanatili ng industriya"
+        ],
+        "quality": [
+          "100% inspeksyon bago ihatid",
+          "Ang estilo ng tanglaw, connector, packing at logo ay maaaring OEM",
+          "Mga pagsusuri sa materyal, pagtagas at hitsura"
+        ]
+      },
+      {
+        "title": "Ulo ng Filter Converter",
+        "desc": "Ikinokonekta ang elemento ng filter sa isang regulator o pipeline para sa epektibong pagsasala ng gas.",
+        "intro": "Ang filter converter head ay ang koneksyon sa pagitan ng elemento ng filter at ng regulator o linya ng gas. Pinapaupo nito ang elemento, pinapanatiling tama ang direksyon ng daloy at ginagawang diretso ang serbisyo at pagpapalit sa mga cylinder at distribution system.",
+        "features": [
+          "Iniuugnay ang elemento ng filter sa regulator o pipeline",
+          "Sinusuportahan ang epektibong pagsasala sa linya ng gas",
+          "Pang-industriya na tanso / konstruksiyon ng metal",
+          "Mga karaniwang sinulid na port para sa pagtutugma ng system",
+          "OEM thread, laki at packing kapag hiniling"
+        ],
+        "specs": [
+          "Tungkulin: filter converter / ulo ng adaptor",
+          "Gamitin: regulator, pipeline at cylinder filter assemblies",
+          "Nakumpirma ang laki ng koneksyon at thread bawat order",
+          "Itinugma sa mga elemento ng filter at bowl bilang isang set kung kinakailangan"
+        ],
+        "applications": [
+          "Pamamahagi ng gas bago ang mga regulator at tool",
+          "Cylinder at generator filter assemblies",
+          "Workshop at pang-industriya na mga linya ng gas"
+        ],
+        "quality": [
+          "Nakumpirma ang laki ng koneksyon bago ang produksyon",
+          "I-export ang packing",
+          "Maaaring ibigay sa mga tumutugmang elemento ng filter"
+        ]
+      },
+      {
+        "title": "Salain",
+        "desc": "High-efficiency filter na nag-aalis ng moisture, langis at mga particle upang protektahan ang downstream na kagamitan.",
+        "intro": "Tinatanggal ang mga solidong particle, tubig, langis at iba pang mga dumi mula sa gas stream upang protektahan ang kagamitan at pahabain ang buhay ng serbisyo. Brass head, kalidad na elemento at matatag na operasyon sa ilalim ng presyon. Para sa oxygen, acetylene, hangin, nitrogen at mga katugmang gas.",
+        "features": [
+          "High-efficiency na pagsasala para sa malinis na daloy ng gas",
+          "Tinatanggal ang kahalumigmigan, langis at mga particle",
+          "Matibay na tanso na ulo at metal na mangkok",
+          "Nababakas na elemento para sa paglilinis o pagpapalit",
+          "Matatag na operasyon sa ilalim ng presyon ng pagtatrabaho"
+        ],
+        "specs": [
+          "Gas: oxygen, acetylene, hangin, nitrogen at mga katugmang gas",
+          "Inlet pressure: hanggang 2.5 MPa",
+          "Presyon ng pagtatrabaho: 0.01–1.6 MPa",
+          "Katumpakan: 5 / 20 / 50 μm opsyonal",
+          "Koneksyon: G1/4″, G3/8″, G1/2″, G3/4″ opsyonal",
+          "Katawan: tanso; elemento: sintered bronze / hindi kinakalawang na asero",
+          "Temperatura: −20 °C hanggang +60 °C",
+          "Pag-iimpake: 1 pc/box, 20 pcs/carton"
+        ],
+        "applications": [
+          "Cylinder, regulator at mga sistema ng pamamahagi",
+          "Mga pabrika, workshop at pang-industriya na linya ng gas",
+          "Mas malinis na daloy para sa welding, cutting at supply ng laboratoryo"
+        ],
+        "quality": [
+          "100% inspeksyon bago ihatid",
+          "Maaaring i-customize ang thread, katumpakan at elemento",
+          "I-export ang packing"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Patakaran sa Privacy",
+    "updated": "Huling na-update: Agosto 25, 2026",
+    "intro": [
+      "Ang Wanda Group (“kami”, “kami”) ay nagpapatakbo ng website na ito upang ipakita ang mga silindro ng gas, mga accessory at kaugnay na supply ng pag-export, at upang makatanggap ng mga komersyal na katanungan mula sa mga pang-industriyang mamimili.",
+      "Ipinapaliwanag ng patakarang ito kung anong personal na data ang kinokolekta namin sa pamamagitan ng site, kung bakit namin ito ginagamit, at kung paano ka makikipag-ugnayan sa amin tungkol dito. Hindi kami nag-publish ng mga factory na video o mga file ng certificate sa website; ang mga materyales na iyon ay ipinapadala nang pribado kapag hiniling."
+    ],
+    "sections": [
+      {
+        "title": "Sino ang may pananagutan",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Anong data ang aming kinokolekta",
+        "body": [
+          "Kapag nagpadala ka ng form ng pagtatanong natatanggap namin ang data na iyong inilagay: pangalan, email, telepono, destinasyong bansa, uri ng produkto, dami at mensahe.",
+          "Iniimbak din ng site ang iyong piniling wika sa browser (localStorage). Hindi kami nagpapatakbo ng cookies sa advertising o nagbebenta ng mga listahan ng bisita."
+        ]
+      },
+      {
+        "title": "Bakit namin ginagamit ang data",
+        "body": [
+          "Gumagamit lang kami ng data ng pagtatanong para tumugon sa iyong kahilingan, maghanda ng quotation, magpadala ng impormasyon ng produkto, mga video o certificate na hiniling mo, at para mag-coordinate ng order kung magsisimula kaming magtulungan.",
+          "Legal na batayan: ang iyong pahintulot kapag nilagyan mo ng check ang checkbox sa form, at ang aming lehitimong interes sa pagsagot sa mga kahilingan sa pagbebenta ng B2B."
+        ]
+      },
+      {
+        "title": "Sino ang tumatanggap ng data",
+        "body": [
+          "Ang iyong mensahe ay naihatid sa aming koponan sa pagbebenta sa pamamagitan ng email. Depende sa configuration, ang form ay maaaring iproseso ng Web3Forms bilang isang teknikal na provider na nagpapadala ng mensahe sa amin.",
+          "Hindi kami nagbebenta ng personal na data. Maaari naming ibahagi ang kailangan sa mga kasosyo sa logistik, inspeksyon o pagbabangko kung kinakailangan lamang iyon upang matupad ang isang napagkasunduang utos."
+        ]
+      },
+      {
+        "title": "Hanggang kailan natin ito itatago",
+        "body": [
+          "Ang data ng pagtatanong ay pinapanatili hangga't kinakailangan upang mahawakan ang kahilingan at para sa isang makatwirang panahon pagkatapos para sa pagsubaybay sa mga benta at accounting, maliban kung hihilingin mo sa amin na tanggalin ito nang mas maaga kung saan pinapayagan ng batas."
+        ]
+      },
+      {
+        "title": "Ang iyong mga karapatan",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Seguridad at mga bata",
+        "body": [
+          "Gumagawa kami ng mga makatwirang teknikal at pang-organisasyong hakbang upang protektahan ang mga mensaheng nasa transit at sa aming mailbox. Ang website na ito ay inilaan para sa mga mamimili ng negosyo, hindi para sa mga bata."
+        ]
+      }
+    ],
+    "contactLead": "Mga tanong tungkol sa patakarang ito:"
+  }
+}

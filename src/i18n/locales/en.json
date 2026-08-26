@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "specs": "Specifications",
+    "applications": "Applications",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "factory": "Factory",
+    "quality": "Quality",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "getQuote": "Request a Quote",
+    "inquire": "Inquire →",
+    "services": "Services",
+    "pricing": "Pricing",
+    "accessories": "Accessories"
+  },
+  "hero": {
+    "badge": "Gas Cylinder Manufacturer",
+    "title": "Industrial Gas Cylinders, Manufactured for Export",
+    "subtitle": "Wanda Group produces acetylene cylinders, propane cylinders, generators and accessories for welding, cutting and industrial gas supply.",
+    "cta": "Request a Quote",
+    "ctaSecondary": "Explore Products",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "500K+",
+        "label": "Production Capacity / Year"
+      },
+      {
+        "value": "50+",
+        "label": "Export Markets"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Quality & Certification"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Reliable Gas Cylinder Accessories",
+    "text": "Gauges, valves, hoses, torches and safety fittings — supply together with cylinders or as a separate order.",
+    "cta": "View accessories"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Acetylene cylinders, generators, propane cylinders and accessories for industrial and welding applications.",
+    "viewDetails": "View Details",
+    "items": [
+      {
+        "title": "Acetylene Cylinder",
+        "spec": "2L–40L · ISO / DOT / TPED",
+        "desc": "Dissolved acetylene cylinders for welding, cutting and industrial gas supply.",
+        "icon": "🔥"
+      },
+      {
+        "title": "Acetylene Generator",
+        "spec": "Industrial generation systems",
+        "desc": "Equipment for stable acetylene production on site and in the plant.",
+        "icon": "⚙️"
+      },
+      {
+        "title": "Propane Cylinder",
+        "spec": "3L–50L · POL / CGA / GOST",
+        "desc": "Durable LPG cylinders for heating, cutting and industrial use.",
+        "icon": "🛢️"
+      },
+      {
+        "title": "Cylinder Accessories",
+        "spec": "Valves · regulators · hoses · torches",
+        "desc": "Matching fittings supplied with cylinders or as a separate order.",
+        "icon": "🔧"
+      }
+    ]
+  },
+  "specs": {
+    "title": "Technical Specifications",
+    "subtitle": "Explore cylinder options, customization capabilities and shipping details before sending an inquiry.",
+    "items": [
+      {
+        "title": "Cylinder Capacity",
+        "desc": "Various capacity and volume options depending on application and market requirements."
+      },
+      {
+        "title": "Valves & Caps",
+        "desc": "Valves, caps and fittings supplied according to customer and project needs."
+      },
+      {
+        "title": "Solvent Options",
+        "desc": "Porous filler system and solvents for stable acetylene storage."
+      },
+      {
+        "title": "Packaging & Shipping",
+        "desc": "Export packaging and shipping support for distributors and project customers."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Cylinder Applications",
+    "subtitle": "Products designed for common industrial gas tasks and overseas buyer requirements.",
+    "items": [
+      "Welding & Brazing",
+      "Metal Cutting",
+      "Industrial Gas Supply",
+      "Construction",
+      "Metal Fabrication",
+      "Gas Storage & Distribution"
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose Wanda Group",
+    "subtitle": "A compact manufacturing partner for quality, OEM supply and export.",
+    "items": [
+      {
+        "title": "High Quality",
+        "desc": "Steel cylinders built for industrial welding and gas supply."
+      },
+      {
+        "title": "Strict Quality Control",
+        "desc": "Inspection from incoming materials to final packing."
+      },
+      {
+        "title": "Advanced Manufacturing",
+        "desc": "Forming, welding, testing and finishing in one plant."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Colour, valve, marking, cap and packing to order."
+      },
+      {
+        "title": "International Export",
+        "desc": "Documents and packing for overseas industrial buyers."
+      },
+      {
+        "title": "Reliable Delivery",
+        "desc": "Typical lead time 15–25 days after order confirmation."
+      }
+    ]
+  },
+  "about": {
+    "title": "Gas cylinder manufacturer for industrial buyers",
+    "text": "Wanda Group manufactures acetylene cylinders, propane cylinders, generators and accessories for welding, cutting and industrial gas supply.",
+    "text2": "We support overseas buyers with product selection, OEM, inspection, packing and shipping.",
+    "facts": [
+      {
+        "title": "Experience",
+        "desc": "15+ years supplying industrial gas cylinders."
+      },
+      {
+        "title": "Production",
+        "desc": "In-house forming, welding, testing and finishing."
+      },
+      {
+        "title": "Quality",
+        "desc": "ISO 9809, DOT and TPED options by market."
+      },
+      {
+        "title": "Export",
+        "desc": "Shipments coordinated for 50+ destination markets."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Inside Our Factory",
+    "subtitle": "Production, welding, testing, painting and finished cylinders — how we prepare export orders.",
+    "items": [
+      {
+        "title": "Finished cylinder stock",
+        "desc": "Ready inventory in our plant — volume capacity for wholesale and export orders."
+      },
+      {
+        "title": "Production welding",
+        "desc": "Metal fabrication on the factory floor with industrial gas supply."
+      },
+      {
+        "title": "Export packaging",
+        "desc": "Protective mesh and pallet packing before international shipment."
+      },
+      {
+        "title": "Acetylene in safety cages",
+        "desc": "Caged cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Bulk cylinder shipping",
+        "desc": "Secure cage loads for road transport to distributors and plants."
+      },
+      {
+        "title": "Export documentation",
+        "desc": "Checklists, packing and shipping papers prepared with every overseas order."
+      },
+      {
+        "title": "Valve assembly",
+        "desc": "Brass valves fitted on the line before packing and dispatch."
+      },
+      {
+        "title": "Oxy-fuel cutting",
+        "desc": "Industrial cutting with oxygen and acetylene supply on the shop floor."
+      },
+      {
+        "title": "Industrial welding",
+        "desc": "Shop-floor welding — the kind of work our cylinders are built to supply."
+      },
+      {
+        "title": "Pipe welding",
+        "desc": "Joining pipework with industrial gas on the fabrication bench."
+      },
+      {
+        "title": "Heavy fabrication",
+        "desc": "Large-scale metalwork inside the plant — lifting, fitting and assembly."
+      },
+      {
+        "title": "Cylinder size range",
+        "desc": "Multiple capacities from the same production line — ready for OEM colour and valves."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Quality Control",
+    "subtitle": "Every batch follows the same path: production, testing, inspection and final quality control.",
+    "steps": [
+      {
+        "title": "Production",
+        "desc": "Forming, welding and assembly under plant process control."
+      },
+      {
+        "title": "Testing",
+        "desc": "Pressure and leak tests before cylinders leave the line."
+      },
+      {
+        "title": "Inspection",
+        "desc": "Visual, marking and dimensional checks against the order."
+      },
+      {
+        "title": "Final Quality Control",
+        "desc": "Packing inspection before export shipment."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Company, products, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Didn’t find your question? Send the product, size, quantity and destination country — we will reply with a detailed offer.",
+    "ctaBtn": "Get a Quote",
+    "groups": [
+      {
+        "title": "Company",
+        "items": [
+          {
+            "q": "Are you a gas cylinder manufacturer?",
+            "a": "Yes. Wanda Group specializes in manufacturing gas cylinders and related industrial gas supply solutions for overseas industrial buyers."
+          },
+          {
+            "q": "What products do you mainly supply?",
+            "a": "We supply acetylene cylinders, propane cylinders, acetylene generators and gas cylinder accessories such as valves, regulators, hoses, pressure gauges and torches."
+          },
+          {
+            "q": "Can you support OEM customization?",
+            "a": "Yes. Cylinder color, marking, valve, cap and packing options can be discussed according to the order and the target market."
+          },
+          {
+            "q": "Do you support overseas buyers?",
+            "a": "Yes. We support export, product selection, packing requirements, documentation and shipping coordination."
+          },
+          {
+            "q": "How can I get a quote?",
+            "a": "Please specify the product type, cylinder size, quantity, destination country and customization requirements through the inquiry form or by email. Our team will reply with product details and a quotation."
+          }
+        ]
+      },
+      {
+        "title": "Videos and documents",
+        "items": [
+          {
+            "q": "Can I watch factory videos before placing an order?",
+            "a": "Yes. Videos of production, warehouses, products and packing are sent privately on request — by email or messenger. They are not published on the website."
+          },
+          {
+            "q": "Do you provide product videos, especially for acetylene cylinders?",
+            "a": "Yes. Videos, photos and detailed information on acetylene cylinders are sent privately according to your request."
+          },
+          {
+            "q": "Can you show videos of production and quality control?",
+            "a": "Yes. Available videos of production, quality inspection, packing and warehouse storage are sent privately so you can see how products are prepared."
+          },
+          {
+            "q": "Can I request a product video made for a specific order?",
+            "a": "For a specific order or product requirements, contact us — we will discuss video support and send the materials privately."
+          },
+          {
+            "q": "How do I get videos, certificates and a quotation?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and what to send: videos, certificates or both. We will send them privately and prepare an offer."
+          }
+        ]
+      },
+      {
+        "title": "Solutions",
+        "items": [
+          {
+            "q": "What gas cylinder solutions do you offer?",
+            "a": "We offer solutions for welding and cutting, gas distribution, industrial storage, acetylene generation, OEM supply and export purchasing."
+          },
+          {
+            "q": "Can you recommend products for my application?",
+            "a": "Yes. Send your application, cylinder size, quantity, destination country and required accessories — we will recommend suitable products."
+          },
+          {
+            "q": "Do you supply accessories together with cylinders?",
+            "a": "Yes. We can supply pressure regulators, hoses, gauges, cutting torches, welding torches, valves and fittings together with the cylinders."
+          },
+          {
+            "q": "Can you supply gas cylinders for OEM buyers?",
+            "a": "Yes. Cylinder color, marking, valve, cap, logo and packing can be discussed according to the order."
+          }
+        ]
+      },
+      {
+        "title": "Products",
+        "items": [
+          {
+            "q": "What is a dissolved acetylene cylinder used for?",
+            "a": "Dissolved acetylene cylinders are widely used for welding, cutting, brazing, metal fabrication and industrial gas supply."
+          },
+          {
+            "q": "What cylinder sizes can you supply?",
+            "a": "Various volumes and capacities can be discussed depending on your target market, application and order quantity. To confirm, specify the required size or local standard."
+          },
+          {
+            "q": "Can cylinder color, valve and marking be changed?",
+            "a": "Yes. Cylinder color, valve, cap, marking, label and export packing can be made to order."
+          }
+        ]
+      },
+      {
+        "title": "Accessories",
+        "items": [
+          {
+            "q": "What accessories do you supply?",
+            "a": "We supply flashback arrestors, pressure gauges, safety valves, oxygen hoses, hose clamps, cutting torches, welding torches, filters, adapters and other gas cylinder accessories."
+          },
+          {
+            "q": "Can gas cylinder accessories be customized?",
+            "a": "Yes. We can customize logo, packing, connection size, thread type, pressure range and technical specifications."
+          },
+          {
+            "q": "Can accessories be ordered together with gas cylinders?",
+            "a": "Yes. Accessories can be supplied together with acetylene cylinders, propane cylinders and acetylene generators."
+          },
+          {
+            "q": "Do you support OEM packing?",
+            "a": "Yes. For wholesale orders we can provide OEM marking, cartons, bags and product labels."
+          },
+          {
+            "q": "Can you provide product photos and specifications?",
+            "a": "Yes. Product photos, specifications and datasheets are sent privately on request."
+          },
+          {
+            "q": "How can I get a quote for accessories?",
+            "a": "Please specify the product name, quantity, connection size, working pressure, packing requirements and destination country or port."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Latest Articles",
+    "subtitle": "Expert content for welding and gas supply professionals.",
+    "readMore": "Read more →",
+    "close": "Close",
+    "items": [
+      {
+        "tag": "Craftsmen",
+        "title": "Complete Propane Cylinder Supply Solution",
+        "desc": "Equipment stability directly affects welding and cutting work efficiency.",
+        "body": [
+          "For craftsmen who weld, repair and fabricate metal every day, stable gas equipment directly affects work quality and speed.",
+          "Wanda Group propane cylinders are available from 3L to 50L with POL, CGA 510 or GOST valves depending on your market — one supplier for welding, cutting and heating.",
+          "We recommend ordering cylinders together with regulators, hoses and torches. Bundle supply reduces logistics cost and ensures accessory compatibility.",
+          "When ordering, specify target market, volume, valve type and color — we prepare OEM marking and export packaging under your brand."
+        ]
+      },
+      {
+        "tag": "Storage",
+        "title": "Long-Term Acetylene Cylinder Storage Tips",
+        "desc": "Storage conditions, placement methods and regular inspections for unused cylinders.",
+        "body": [
+          "Many companies store acetylene and propane cylinders during production breaks or as inventory. Unused cylinders still require proper handling.",
+          "Store cylinders upright in a well-ventilated area away from heat sources and direct sunlight. Storage temperature should typically not exceed 40–50°C.",
+          "Inspect valves, caps and markings at least quarterly. For long-term acetylene storage, keep cylinders vertical and never allow tilting.",
+          "Wanda Group ships cylinders with protective caps and export packaging designed for safe transport and warehousing. Storage guides are available in your language on request."
+        ]
+      },
+      {
+        "tag": "Pricing",
+        "title": "Budget Guide for Acetylene Cylinder Purchase",
+        "desc": "Factors affecting cost and how to choose the optimal offer.",
+        "body": [
+          "Acetylene cylinder price depends on volume (2L–40L), valve type, certification (ISO, DOT, TPED) and order quantity. Indicative EXW prices: WG-10 $28–35, WG-25 $45–58 per unit.",
+          "Larger lots (200–500+ pcs) receive meaningful discounts. OEM painting, logo and special packaging add 5–15% to base price but increase value for distributors.",
+          "Also factor in shipping (FOB/CIF), documents and MOQ. We reply within 24 hours with full specification, lead time and Incoterms.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Request a Quote",
+    "subtitle": "Tell us the size, quantity, destination country and application — we will prepare a detailed quote.",
+    "formTitle": "Request a Quote",
+    "formSubtitle": "Leave your requirements — our sales team will respond with product info, pricing, MOQ and lead time.",
+    "name": "Name",
+    "company": "Company",
+    "phone": "Phone / WhatsApp",
+    "email": "Email",
+    "product": "Product",
+    "quantity": "Quantity",
+    "country": "Destination Country",
+    "productOptions": [
+      "Acetylene Cylinder",
+      "Propane Cylinder",
+      "Acetylene Generator",
+      "Accessories",
+      "Bundle Order"
+    ],
+    "message": "Additional Requirements",
+    "messagePlaceholder": "Product, size, quantity, destination country...",
+    "submit": "Send Inquiry",
+    "sending": "Sending...",
+    "success": "Thank you! We will contact you shortly.",
+    "sendAnother": "Send another inquiry",
+    "errorGeneric": "Failed to send. Please try again or email us directly.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Send via email app",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "I agree to the ",
+    "privacySuffix": " and to the processing of my personal data to handle this inquiry.",
+    "privacyLink": "Privacy Policy"
+  },
+  "footer": {
+    "company": "Wanda Group Gas Cylinder Manufacturer",
+    "tagline": "Professional Gas Cylinder Manufacturing",
+    "rights": "© 2026 Wanda Group. All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Privacy Policy",
+    "updated": "Last updated: 25 August 2026",
+    "intro": [
+      "Wanda Group (“we”, “us”) operates this website to present gas cylinders, accessories and related export supply, and to receive commercial inquiries from industrial buyers.",
+      "This policy explains what personal data we collect through the site, why we use it, and how you can contact us about it. We do not publish factory videos or certificate files on the website; those materials are sent privately on request."
+    ],
+    "sections": [
+      {
+        "title": "Who is responsible",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "What data we collect",
+        "body": [
+          "When you send the inquiry form we receive the data you enter: name, email, phone, destination country, product type, quantity and message.",
+          "The site also stores your language choice in the browser (localStorage). We do not run advertising cookies or sell visitor lists."
+        ]
+      },
+      {
+        "title": "Why we use the data",
+        "body": [
+          "We use inquiry data only to reply to your request, prepare a quotation, send product information, videos or certificates that you asked for, and to coordinate an order if we start working together.",
+          "Legal basis: your consent when you tick the checkbox on the form, and our legitimate interest in answering B2B sales requests."
+        ]
+      },
+      {
+        "title": "Who receives the data",
+        "body": [
+          "Your message is delivered to our sales team by email. The form is processed by Web3Forms, a technical provider that transmits the message to us.",
+          "We do not sell personal data. We may share what is needed with logistics, inspection or banking partners only if that is required to fulfil an agreed order."
+        ]
+      },
+      {
+        "title": "How long we keep it",
+        "body": [
+          "Inquiry data is kept for as long as needed to handle the request and for a reasonable period afterwards for sales follow-up and accounting, unless you ask us to delete it earlier where the law allows."
+        ]
+      },
+      {
+        "title": "Your rights",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Security and children",
+        "body": [
+          "We take reasonable technical and organisational steps to protect messages in transit and in our mailbox. This website is intended for business buyers, not for children."
+        ]
+      }
+    ],
+    "contactLead": "Questions about this policy:"
+  },
+  "ui": {
+    "catalog": "Catalog",
+    "catalogTitle": "Detailed Product Specifications",
+    "catalogSubtitle": "Complete technical data, models and parameters for each category. Select a product to view the spec table.",
+    "requestPrice": "Request Price for This Model",
+    "services": "Services",
+    "pricing": "Pricing",
+    "getExactQuote": "Get Exact Quote",
+    "certifications": "Certifications",
+    "order": "Order",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "phone": "Phone",
+    "location": "Location",
+    "quoteResponse": "Quote response",
+    "support": "Support",
+    "countriesServed": "Countries served",
+    "exportReady": "Export ready",
+    "years": "Years",
+    "acetylene": "Acetylene",
+    "isoCertified": "ISO Certified",
+    "globalExport": "Global Export",
+    "products": "Products",
+    "specs": "Specifications",
+    "applications": "Applications",
+    "whyUs": "Why Us",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "quality": "Quality",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "searchLanguage": "Search language...",
+    "noLanguagesFound": "No languages found"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Export to 50+ Countries",
+    "MOQ from 100 pcs",
+    "Lead Time 15–25 Days"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
+      "accessories": "Accessories"
+    },
+    "acetylene": {
+      "title": "Dissolved Acetylene Cylinders",
+      "intro": "Steel cylinders with porous mass and solvent for safe acetylene storage and transport. Used in welding, cutting, brazing and metal fabrication.",
+      "features": [
+        "Porous mass + acetone for stable storage",
+        "CGA 510 / GOST / DIN valves on request",
+        "Hydraulic test pressure 5.2 MPa",
+        "RAL painting, stamping & OEM labels",
+        "Export pallet packaging"
+      ],
+      "tableTitle": "Standard Acetylene Cylinder Models",
+      "headers": [
+        "Model",
+        "Volume (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Weight (kg)",
+        "Height (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Exact parameters depend on standard (ISO/DOT/GB) and valve configuration. Request spec sheet for your market."
+    },
+    "propane": {
+      "title": "Propane & LPG Cylinders",
+      "intro": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply.",
+      "features": [
+        "37Mn/34CrMo4 steel per ISO 9809",
+        "Working pressure 1.8–2.1 MPa",
+        "POL, CGA 510, GOST valves",
+        "Powder coating, anti-corrosion",
+        "Certificates for EU, US, CIS markets"
+      ],
+      "tableTitle": "Standard Propane Cylinder Models",
+      "headers": [
+        "Model",
+        "Volume (L)",
+        "Gas (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Weight (kg)",
+        "Height (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Pricing and MOQ depend on order volume and valve type. Send inquiry for exact quotation."
+    },
+    "generator": {
+      "title": "Acetylene Generators",
+      "intro": "Equipment for producing acetylene from calcium carbide. Stable gas supply for welding and industrial needs without centralized gas infrastructure.",
+      "features": [
+        "Output 3–100 m³/h capacity",
+        "Automatic water & carbide feed",
+        "Safety system & filtration",
+        "Compact and industrial models",
+        "Full documentation & training"
+      ],
+      "tableTitle": "Acetylene Generator Models",
+      "headers": [
+        "Model",
+        "Output (m³/h)",
+        "Carbide (kg/h)",
+        "Pressure (kPa)",
+        "Power (kW)",
+        "Weight (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generators supplied with cooling system, filters and spare parts kit on request."
+    },
+    "accessories": {
+      "title": "Cylinder Accessories & Fittings",
+      "intro": "Complete range for safe gas cylinder operation: from gauges to welding torches. One-stop procurement with cylinders.",
+      "features": [
+        "Regulators & gauges (CGA/GOST/DIN)",
+        "High-pressure hoses",
+        "Cutting torches & welding burners",
+        "Pressure relief valves",
+        "Trolleys, stands, caps"
+      ],
+      "tableTitle": "Accessories Catalog",
+      "headers": [
+        "Category",
+        "Models",
+        "Standard",
+        "Application"
+      ],
+      "rows": [
+        [
+          "Regulators",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylene, propane"
+        ],
+        [
+          "Gauges",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Pressure monitoring"
+        ],
+        [
+          "Hoses",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Welding, cutting"
+        ],
+        [
+          "Torches",
+          "WG-C100, WG-C300",
+          "—",
+          "Plasma/oxy cutting"
+        ],
+        [
+          "Burners",
+          "WG-T200, WG-T500",
+          "—",
+          "Welding, brazing"
+        ],
+        [
+          "Valves",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "All cylinder types"
+        ]
+      ],
+      "note": "* Accessories available separately or bundled with cylinders. Discount on combined orders."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Full cycle — from manufacturing to delivery at your warehouse. We work with distributors, OEM brands and project buyers.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Custom Manufacturing (OEM/ODM)",
+        "desc": "Cylinders with your brand, color and marking.",
+        "points": [
+          "Logo & RAL color",
+          "Market-standard valve",
+          "OEM packaging & labels"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Export & Logistics",
+        "desc": "Complete international shipment support.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Export documentation",
+          "Sea & rail freight"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Quality Control",
+        "desc": "Testing and inspection at every stage.",
+        "points": [
+          "Hydrostatic tests",
+          "UT weld inspection",
+          "SGS/BV inspection on request"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Certification",
+        "desc": "Documents for customs and regulators. Copies are sent privately on request.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS & quality certificate",
+          "Certificate of origin"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Technical Support",
+        "desc": "Help selecting products and configuration.",
+        "points": [
+          "Market-based selection",
+          "MOQ & lead time calculation",
+          "Staff training"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Bundle Supply",
+        "desc": "Cylinders + accessories in one order.",
+        "points": [
+          "Single contract",
+          "Coordinated delivery",
+          "Bundle discount"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing & Supply Terms",
+    "subtitle": "Transparent terms for B2B procurement. Exact pricing is calculated individually — send inquiry, we reply within 24 hours.",
+    "note": "Prices shown are indicative (EXW). Final cost depends on volume, valve type, certification and shipping terms.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "from 100 pcs",
+        "desc": "Minimum order per model"
+      },
+      {
+        "label": "Lead Time",
+        "value": "15–25 days",
+        "desc": "After order confirmation"
+      },
+      {
+        "label": "Payment",
+        "value": "T/T 30/70",
+        "desc": "30% deposit, 70% before shipment"
+      },
+      {
+        "label": "Warranty",
+        "value": "12 months",
+        "desc": "Against manufacturing defects"
+      }
+    ],
+    "factors": {
+      "title": "Price Factors",
+      "items": [
+        "Cylinder volume & model (2L – 50L)",
+        "Valve type (CGA, GOST, DIN, POL)",
+        "Certification standard (ISO, DOT, TPED)",
+        "OEM: color, marking, packaging",
+        "Order volume & Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylene WG-10",
+        "moq": "200 pcs",
+        "price": "$28–35 / pc",
+        "lead": "18 days"
+      },
+      {
+        "product": "Acetylene WG-25",
+        "moq": "100 pcs",
+        "price": "$45–58 / pc",
+        "lead": "20 days"
+      },
+      {
+        "product": "Propane WG-P11",
+        "moq": "500 pcs",
+        "price": "$12–16 / pc",
+        "lead": "15 days"
+      },
+      {
+        "product": "Propane WG-P50",
+        "moq": "100 pcs",
+        "price": "$55–72 / pc",
+        "lead": "22 days"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 unit",
+        "price": "$3,500–4,200",
+        "lead": "25 days"
+      },
+      {
+        "product": "Regulator set",
+        "moq": "50 pcs",
+        "price": "$8–15 / pc",
+        "lead": "10 days"
+      }
+    ],
+    "tableHeaders": [
+      "Product",
+      "MOQ",
+      "Price (EXW)",
+      "Lead Time"
+    ]
+  },
+  "certifications": {
+    "title": "Certifications & Standards",
+    "subtitle": "Products comply with international safety standards. Certificate copies are sent privately on request — files are not published on the website.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Seamless steel gas cylinders — technical requirements"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Dissolved acetylene cylinders"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "US market certification"
+      },
+      {
+        "name": "TPED",
+        "desc": "European transport directive"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Chinese gas cylinder standard"
+      },
+      {
+        "name": "CE Mark",
+        "desc": "European conformity requirements"
+      }
+    ]
+  },
+  "process": {
+    "title": "How to Order",
+    "subtitle": "Simple process from inquiry to cylinders at your warehouse.",
+    "steps": [
+      {
+        "title": "Send Inquiry",
+        "desc": "Specify product, volume, country and valve requirements"
+      },
+      {
+        "title": "Receive Quotation",
+        "desc": "Price, MOQ, lead time and spec sheet within 24 hours"
+      },
+      {
+        "title": "Confirm Order",
+        "desc": "Contract signing and 30% deposit payment"
+      },
+      {
+        "title": "Production & QC",
+        "desc": "Manufacturing and testing. Videos and certificates are sent privately on request"
+      },
+      {
+        "title": "Shipment",
+        "desc": "Packaging, documents, FOB/CIF/DDP delivery"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "welding",
+        "eyebrow": "Acetylene cylinders",
+        "title": "Stable flame for precision welding",
+        "text": "Dissolved acetylene cylinders engineered for continuous welding and brazing — consistent pressure, safe porous mass, export-ready valves.",
+        "points": [
+          "ISO / DOT / GB options",
+          "CGA / GOST / DIN valves",
+          "OEM color & marking"
+        ]
+      },
+      {
+        "id": "cutting",
+        "eyebrow": "Cutting & fabrication",
+        "title": "Power when metal has to move",
+        "text": "High-flow acetylene and oxygen-ready cylinder sets for shipyards, workshops and heavy fabrication lines.",
+        "points": [
+          "Fast pierce & cut",
+          "Torch-ready kits",
+          "Bulk MOQ friendly"
+        ]
+      },
+      {
+        "id": "propane",
+        "eyebrow": "Propane & LPG",
+        "title": "Durable LPG cylinders for every market",
+        "text": "From heating and cooking gas to industrial cutting — steel cylinders built for pressure, coating and long service life.",
+        "points": [
+          "3L–50L range",
+          "POL / CGA valves",
+          "Powder coat finish"
+        ]
+      },
+      {
+        "id": "factory",
+        "eyebrow": "Manufacturing",
+        "title": "Factory control from steel to shipment",
+        "text": "In-house forming, welding, hydrostatic testing and finishing — so every batch matches your drawing and market standard.",
+        "points": [
+          "Hydrostatic tested",
+          "Traceable batches",
+          "OEM / ODM ready"
+        ]
+      },
+      {
+        "id": "quality",
+        "eyebrow": "Quality & safety",
+        "title": "Inspection you can put in the quote",
+        "text": "Material checks, leak tests, valve torque and packing photos. Certificate packs and photo reports are sent privately on request.",
+        "points": [
+          "Pressure & leak tests",
+          "Certificates on request",
+          "Pre-shipment photos"
+        ]
+      },
+      {
+        "id": "export",
+        "eyebrow": "Global export",
+        "title": "Packed for ports, ready for 50+ countries",
+        "text": "Export pallets, valve protection, multilingual labels and shipping docs coordinated for your destination Incoterms.",
+        "points": [
+          "FOB / CIF support",
+          "Palletized packing",
+          "Lead time 15–25 days"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Industrial gas cylinders ready at the factory",
+    "about": "Export-ready cylinder stock with protective packaging",
+    "accessories": "Gas cylinder accessory kit — regulators, hoses, torches and fittings",
+    "products": [
+      "Dissolved acetylene cylinder with porous mass and brass valve",
+      "Industrial acetylene generator on a factory skid",
+      "Propane and LPG cylinders in multiple sizes and colours",
+      "Welding and cutting accessory kit for gas cylinders"
+    ],
+    "gallery": [
+      "Finished cylinder stock at the factory",
+      "Production welding on the factory floor",
+      "Export packaging with protective mesh",
+      "Acetylene cylinders in safety cages",
+      "Bulk cylinder shipping on truck",
+      "Export documentation and packing inspection",
+      "Valve assembly on the production line",
+      "Oxy-fuel cutting with oxygen and acetylene cylinders",
+      "Industrial welding on the shop floor",
+      "Pipe welding on the fabrication bench",
+      "Heavy fabrication inside the plant",
+      "Cylinder size range in the factory"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Accessories",
+    "title": "Product Accessories",
+    "subtitle": "Parts for acetylene cylinders, generators, welding and cutting. Open Details for specifications and applications.",
+    "cta": "Request details",
+    "details": "Details",
+    "close": "Close",
+    "featuresLabel": "Key features",
+    "specsLabel": "Specifications",
+    "applicationsLabel": "Applications",
+    "qualityLabel": "Quality & supply",
+    "whyTitle": "Why choose our accessories?",
+    "why": [
+      "Durable brass, stainless steel and industrial-grade materials",
+      "Compatible with cylinders, generators, regulators, hoses and welding systems",
+      "OEM logo, packing, connection size, thread type and specifications",
+      "Export packing and stable supply for international buyers"
+    ],
+    "items": [
+      {
+        "title": "Acetylene Flashback Valve",
+        "desc": "Prevents reverse gas flow and flame flashback in oxy-acetylene welding and cutting systems.",
+        "intro": "An essential safety device for acetylene systems. Built-in sintered stainless flame arrestor and one-way flow design protect operators, hoses and gas lines. Compatible with regulators, hoses and torches. OEM logo, label and packing available.",
+        "features": [
+          "Flame-arresting sintered stainless insert",
+          "Non-return (one-way) flow design",
+          "High-strength brass body, corrosion resistant",
+          "Reliable sealing under working pressure",
+          "Standard connections for quick install and replacement"
+        ],
+        "specs": [
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
+          "Body: brass; arrestor: stainless steel",
+          "Connection: G 3/8″ LH or customized thread",
+          "Working pressure: up to 1.5 MPa / customized",
+          "Use: oxy-acetylene welding, cutting and heating",
+          "Packing: individual box, carton or custom"
+        ],
+        "applications": [
+          "Oxy-acetylene welding and cutting",
+          "Regulators, hoses and torch assemblies",
+          "Acetylene generator gas lines"
+        ],
+        "quality": [
+          "100% inspection before shipment",
+          "Seal, pressure and flashback-function tests",
+          "Export packing for long-distance delivery"
+        ]
+      },
+      {
+        "title": "Acetylene Generator Canister",
+        "desc": "Core canister for stable acetylene generation from calcium carbide in industrial gas systems.",
+        "intro": "The generator canister is the main vessel of an acetylene generation system. It is supplied for stable gas production in welding, cutting and sites without centralized cylinder supply. Capacity, piping and safety trim can be matched to the generator model.",
+        "features": [
+          "Core container for acetylene generator systems",
+          "Built for stable gas generation from calcium carbide",
+          "Can be matched with filtration and safety valves",
+          "Industrial and compact generator layouts",
+          "OEM marking, connections and packing on request"
+        ],
+        "specs": [
+          "Role: generator canister / container assembly",
+          "Typical output range of related generators: 3–100 m³/h",
+          "Working pressure of related units: about 1.5–5 kPa",
+          "Supplied with cooling, filters and spare parts on request",
+          "Connections, capacity and trim confirmed per order"
+        ],
+        "applications": [
+          "Acetylene generator plants and portable units",
+          "Workshops without centralized cylinder supply",
+          "Industrial welding and cutting gas production"
+        ],
+        "quality": [
+          "Factory matching to generator model",
+          "Export packing and documentation",
+          "Capacity and connection details confirmed before shipment"
+        ]
+      },
+      {
+        "title": "Cutting Torch",
+        "desc": "Durable oxy-acetylene cutting torch for precise cuts, a stable flame and high productivity.",
+        "intro": "Professional acetylene cutting torch for clean, accurate cuts. Brass body with stainless tubes, ergonomic handle and replaceable nozzles. Compatible with acetylene and oxygen and with standard tips.",
+        "features": [
+          "Premium brass and stainless construction",
+          "Stable flame and precise cut control",
+          "Safety-focused design to reduce backfire risk",
+          "Ergonomic handle, easy to assemble and service",
+          "Works with standard nozzles, tips and hose sets"
+        ],
+        "specs": [
+          "Model: CT-01 cutting torch",
+          "Gas: acetylene + oxygen",
+          "Cutting thickness: 3–300 mm (nozzle and pressure dependent)",
+          "Working pressure: C₂H₂ 0.02–0.15 MPa; O₂ 0.2–1.0 MPa",
+          "Connector: G5/8-14 or customized",
+          "Length: approx. 460 mm",
+          "Packing: 1 pc/box, 10 pcs/carton"
+        ],
+        "applications": [
+          "Carbon steel plate, pipe and profile cutting",
+          "Fabrication shops, shipyards and construction",
+          "Industrial maintenance and onsite cutting"
+        ],
+        "quality": [
+          "100% inspection before delivery",
+          "Appearance, connection, sealing and function checks",
+          "Export packing for long-distance shipping"
+        ]
+      },
+      {
+        "title": "Internal/External Threaded Angle Valve",
+        "desc": "Heavy-duty cylinder angle valve with internal or external thread options for market standards.",
+        "intro": "Angle valves for acetylene and other industrial gases: robust brass body, precise sealing and smooth handwheel operation. Internal or external thread to match cylinder and equipment standards.",
+        "features": [
+          "Durable brass body, corrosion resistant",
+          "High-precision machining for reliable sealing",
+          "Internal or external thread connection options",
+          "Ergonomic handwheel for easy open/close",
+          "100% safety and function inspection"
+        ],
+        "specs": [
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
+          "Working pressure: 25 / 35 bar class",
+          "Test pressure: 37.5 / 52.5 bar class",
+          "Inlet/outlet: internal or external, customized",
+          "Handwheel: aluminium / zinc alloy",
+          "Temperature: −20 °C to +60 °C",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
+          "Packing: 1 pc/bag, 50 pcs/box"
+        ],
+        "applications": [
+          "Acetylene and industrial gas cylinders",
+          "Welding and cutting gas systems",
+          "Workshops, plants and laboratory gas supply"
+        ],
+        "quality": [
+          "Material, machining, leak and appearance checks",
+          "Export packing for long-distance transport",
+          "Thread size and standard confirmed per market"
+        ]
+      },
+      {
+        "title": "Oxygen Hose Clamp",
+        "desc": "Stainless steel worm-drive clamp for secure, leak-resistant oxygen and industrial hose connections.",
+        "intro": "Stainless steel oxygen hose clamps for welding and industrial use. Strong clamping force, rust resistance and hose-friendly edges. Reusable and easy to install.",
+        "features": [
+          "Stainless steel 201 / 304",
+          "Strong clamp force and secure fastening",
+          "Rust, corrosion and oxidation resistance",
+          "Smooth band edges help protect the hose",
+          "Easy to install, remove and reuse"
+        ],
+        "specs": [
+          "Type: worm-drive hose clamp",
+          "Hose range: 8–100 mm, custom sizes for bulk",
+          "Band width: 9 / 12 mm; thickness 0.6–0.8 mm",
+          "Screw: slotted or hex head",
+          "Standards: DIN 3017 / SAE J1508",
+          "Finish: polished",
+          "Packing: 100 pcs/bag, 10 bags/carton or custom"
+        ],
+        "applications": [
+          "Oxygen and fuel hoses for welding and cutting",
+          "Cylinder, regulator and torch hose joints",
+          "Factory, workshop and maintenance lines"
+        ],
+        "quality": [
+          "100% inspection before delivery",
+          "Size, band and packing can be customized",
+          "Export quality packing"
+        ]
+      },
+      {
+        "title": "Oxygen Tubes",
+        "desc": "Flexible high-pressure oxygen hose with long service life for welding, cutting and industrial gas supply.",
+        "intro": "Oxygen tubes made for safe gas transfer under pressure. Flexible, kink-resistant and abrasion-resistant, with a smooth inner wall for stable flow. Multiple IDs and lengths for welding and cylinder connection.",
+        "features": [
+          "High working and burst pressure",
+          "Flexible, kink-resistant construction",
+          "Ageing, ozone and abrasion resistance",
+          "Smooth inner wall for stable gas flow",
+          "Lightweight and easy to handle"
+        ],
+        "specs": [
+          "Gas: oxygen",
+          "Working pressure: 20 bar / 290 psi",
+          "Burst pressure: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (custom available)",
+          "Length: 10 / 20 / 30 / 50 / 100 m or custom",
+          "Colour: blue standard; material SBR / EPDM + polyester yarn",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperature: −20 °C to +80 °C"
+        ],
+        "applications": [
+          "Oxygen supply for welding and cutting",
+          "Cylinder-to-regulator hose connection",
+          "Factories, workshops and industrial gas lines"
+        ],
+        "quality": [
+          "100% inspection before delivery",
+          "Diameter, length, colour and label can be customized",
+          "Export packing: shrink / woven bag / carton"
+        ]
+      },
+      {
+        "title": "Pressure Gauge",
+        "desc": "Accurate pressure display for oxygen, acetylene and other industrial gases.",
+        "intro": "Gauges for acetylene, oxygen and industrial gases: clear dial, durable construction and stable readings on cylinders, regulators and pipelines. Multiple ranges and connections for OEM and export.",
+        "features": [
+          "High accuracy and stable performance",
+          "Clear dial for easy reading",
+          "Shock-resistant industrial construction",
+          "Corrosion-resistant materials",
+          "Multiple ranges and bottom/back mounts"
+        ],
+        "specs": [
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
+          "Dial: 50 / 63 / 100 mm, custom available",
+          "Range: 0–1 bar up to 0–400 bar, custom",
+          "Accuracy: ±2.5% standard, ±1.6% optional",
+          "Thread: G1/4, G1/8, NPT1/4, M12×1.5 or custom",
+          "Case: black steel / stainless optional; connector brass or SS",
+          "Window: glass or polycarbonate; −20 °C to +60 °C",
+          "Packing: 1 pc/box, 50 pcs/carton"
+        ],
+        "applications": [
+          "Gas cylinders and pressure regulators",
+          "Pipelines and industrial gas systems",
+          "Oxy-acetylene welding and cutting panels"
+        ],
+        "quality": [
+          "100% testing before delivery",
+          "OEM dial and branding options",
+          "Export packing"
+        ]
+      },
+      {
+        "title": "Safety Relief Valve",
+        "desc": "Automatically releases excess pressure to protect cylinders, pipelines and operators.",
+        "intro": "Safety relief valves discharge overpressure automatically to protect equipment and personnel. Suitable for oxygen, acetylene, air, nitrogen and compatible gases. Compact brass body, multiple set pressures and thread sizes.",
+        "features": [
+          "Automatic over-pressure protection",
+          "Stable relief under high pressure",
+          "Brass body, heat and corrosion resistant",
+          "Compact design for easy install and service",
+          "Multiple set pressures and thread sizes"
+        ],
+        "specs": [
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
+          "Working pressure: up to 25 bar / 25 kg/cm²",
+          "Relief range: 0.1–2.5 MPa, customizable",
+          "Temperature: −20 °C to +120 °C",
+          "Connection: male/female; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Body: brass; seal: NBR / PTFE",
+          "Body pressure class: 25 / 35 bar",
+          "Packing: 1 pc/box, 50 pcs/carton"
+        ],
+        "applications": [
+          "Cylinder and manifold over-pressure protection",
+          "Industrial gas equipment and pipelines",
+          "Oxy-fuel welding and cutting systems"
+        ],
+        "quality": [
+          "100% testing before shipment",
+          "Set pressure, thread and packing can be customized",
+          "Export packing"
+        ]
+      },
+      {
+        "title": "Welding Torch",
+        "desc": "Ergonomic oxy-fuel welding torch with smooth flame control for welding, brazing and heating.",
+        "intro": "High-performance welding torch for oxygen-fuel work: stable flame, precise control and a durable brass body. Copper tips, replaceable nozzles and hose connections for workshop and industrial use.",
+        "features": [
+          "Stable flame for welding and metal repair",
+          "Smooth gas flow and precise flame control",
+          "Durable brass body, heat and corrosion resistant",
+          "Ergonomic handle for comfortable operation",
+          "Compatible with oxygen, acetylene and optional propane"
+        ],
+        "specs": [
+          "Type: oxy-acetylene welding torch",
+          "Body: brass; tip: copper, replaceable",
+          "Hose connection: G1/4″ or 9/16″-18 UNF",
+          "Working pressure: O₂ 0.2–1.0 MPa; C₂H₂ 0.01–0.15 MPa",
+          "Temperature: −20 °C to +60 °C",
+          "Use: welding, brazing, heating; cutting with matching tips",
+          "Packing: 1 pc/box, 10 pcs/carton"
+        ],
+        "applications": [
+          "Oxygen-acetylene welding and repair",
+          "Brazing, heating and joining",
+          "Workshops and industrial maintenance"
+        ],
+        "quality": [
+          "100% inspection before delivery",
+          "Torch style, connector, packing and logo can be OEM",
+          "Material, leak and appearance checks"
+        ]
+      },
+      {
+        "title": "Filter Converter Head",
+        "desc": "Connects the filter element to a regulator or pipeline for effective gas filtration.",
+        "intro": "The filter converter head is the connection between the filter element and the regulator or gas line. It seats the element, keeps flow direction correct and makes service and replacement straightforward in cylinder and distribution systems.",
+        "features": [
+          "Links filter element to regulator or pipeline",
+          "Supports effective filtration in the gas line",
+          "Industrial brass / metal construction",
+          "Standard threaded ports for system matching",
+          "OEM thread, size and packing on request"
+        ],
+        "specs": [
+          "Role: filter converter / adapter head",
+          "Use: regulator, pipeline and cylinder filter assemblies",
+          "Connection size and thread confirmed per order",
+          "Matched with filter elements and bowls as a set if required"
+        ],
+        "applications": [
+          "Gas distribution before regulators and tools",
+          "Cylinder and generator filter assemblies",
+          "Workshop and industrial gas lines"
+        ],
+        "quality": [
+          "Connection size confirmed before production",
+          "Export packing",
+          "Can be supplied with matching filter elements"
+        ]
+      },
+      {
+        "title": "Filter",
+        "desc": "High-efficiency filter that removes moisture, oil and particles to protect downstream equipment.",
+        "intro": "Removes solid particles, water, oil and other impurities from the gas stream to protect equipment and extend service life. Brass head, quality element and stable operation under pressure. For oxygen, acetylene, air, nitrogen and compatible gases.",
+        "features": [
+          "High-efficiency filtration for clean gas flow",
+          "Removes moisture, oil and particles",
+          "Durable brass head and metal bowl",
+          "Detachable element for cleaning or replacement",
+          "Stable operation under working pressure"
+        ],
+        "specs": [
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
+          "Inlet pressure: up to 2.5 MPa",
+          "Working pressure: 0.01–1.6 MPa",
+          "Accuracy: 5 / 20 / 50 μm optional",
+          "Connection: G1/4″, G3/8″, G1/2″, G3/4″ optional",
+          "Body: brass; element: sintered bronze / stainless steel",
+          "Temperature: −20 °C to +60 °C",
+          "Packing: 1 pc/box, 20 pcs/carton"
+        ],
+        "applications": [
+          "Cylinder, regulator and distribution systems",
+          "Factories, workshops and industrial gas lines",
+          "Cleaner flow for welding, cutting and laboratory supply"
+        ],
+        "quality": [
+          "100% inspection before delivery",
+          "Thread, accuracy and element can be customized",
+          "Export packing"
+        ]
+      }
+    ]
+  }
+}

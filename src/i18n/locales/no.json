@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produkter",
+    "specs": "Spesifikasjoner",
+    "applications": "Applikasjoner",
+    "about": "Om",
+    "gallery": "Galleri",
+    "quality": "Kvalitet",
+    "faq": "Ofte stilte spørsmål",
+    "contact": "Kontaktinformasjon",
+    "getQuote": "Få et Tilbud",
+    "inquire": "spørre",
+    "services": "Tjenester",
+    "pricing": "Prisfastsetting",
+    "accessories": "Tilbehør",
+    "home": "Hjem",
+    "factory": "Fabrikk"
+  },
+  "hero": {
+    "badge": "Gassflaskeprodusent",
+    "title": "Pålitelige gassflasker for industri og sveising",
+    "subtitle": "Wanda Group er en pålitelig produsent og leverandør av acetylen-, propanflasker og tilbehør. Løsninger for gassforsyning, sveising, skjæring og lagring over hele verden.",
+    "cta": "Få et Tilbud",
+    "ctaSecondary": "Våre produkter",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "År med erfaring"
+      },
+      {
+        "value": "500K+",
+        "label": "Produksjonskapasitet / år"
+      },
+      {
+        "value": "50+",
+        "label": "Eksportmarkeder"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kvalitet og sertifisering"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Pålitelig gassylindertilbehør",
+    "text": "Målere, ventiler, slanger, brennere og sikkerhetsbeslag — leveres sammen med sylindere eller som separat bestilling.",
+    "cta": "Se tilbehør"
+  },
+  "products": {
+    "title": "Våre produkter",
+    "subtitle": "Acetylenflasker, generatorer, propanflasker og tilbehør for industrielle applikasjoner og sveiseapplikasjoner.",
+    "items": [
+      {
+        "title": "Acetylensylinder",
+        "desc": "Oppløst acetylen-sylindere for sveising, skjæring og industrigasser. Ulike størrelser og ventilalternativer.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetylengenerator",
+        "desc": "Utstyr for stabil gassproduksjon, enkel betjening og industrielle applikasjoner.",
+        "icon": "⚙️",
+        "spec": "Industrielle generasjonssystemer"
+      },
+      {
+        "title": "Propansylinder",
+        "desc": "Slitesterke sylindere for propan og LPG – lagring, oppvarming, skjæring og industriell bruk.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Sylindertilbehør",
+        "desc": "Slanger, målere, skjærebrennere, sveisebrennere, sikkerhetsventiler og mer.",
+        "icon": "🔧",
+        "spec": "Ventiler · regulatorer · slanger · fakler"
+      }
+    ],
+    "viewDetails": "Se detaljer"
+  },
+  "specs": {
+    "title": "Tekniske spesifikasjoner",
+    "subtitle": "Utforsk sylinderalternativer, tilpasningsmuligheter og fraktdetaljer før du sender en forespørsel.",
+    "items": [
+      {
+        "title": "Sylinderkapasitet",
+        "desc": "Ulike kapasitets- og volumalternativer avhengig av applikasjon og markedskrav."
+      },
+      {
+        "title": "Ventiler og hetter",
+        "desc": "Ventiler, hetter og beslag leveres i henhold til kundens og prosjektets behov."
+      },
+      {
+        "title": "Løsemiddelalternativer",
+        "desc": "Porøst fyllsystem og løsemidler for stabil acetylenlagring."
+      },
+      {
+        "title": "Emballasje og frakt",
+        "desc": "Eksportemballasje og fraktstøtte for distributører og prosjektkunder."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Sylinderapplikasjoner",
+    "subtitle": "Produkter utviklet for vanlige industrielle gassoppgaver og krav fra utenlandske kjøpere.",
+    "items": [
+      "Sveising og lodding",
+      "Metallskjæring",
+      "Industriell gassforsyning",
+      "Bygge- og anleggsnæringen",
+      "Metallfabrikasjon",
+      "Gasslagring og -distribusjon"
+    ]
+  },
+  "whyUs": {
+    "title": "Hvorfor Wanda-gruppen?",
+    "subtitle": "Direkte produksjon, tilpasning og full eksportstøtte – alt for din bedrift.",
+    "items": [
+      {
+        "title": "Høy kvalitet",
+        "desc": "Stålsylindere bygget for industriell sveising og gassforsyning."
+      },
+      {
+        "title": "Streng kvalitetskontroll",
+        "desc": "Inspeksjon fra innkommende materialer til sluttpakking."
+      },
+      {
+        "title": "Avansert produksjon",
+        "desc": "Forming, sveising, testing og etterbehandling i ett anlegg."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Farge, ventil, merking, hette og pakning på bestilling."
+      },
+      {
+        "title": "Internasjonal eksport",
+        "desc": "Dokumenter og pakking for utenlandske industrielle kjøpere."
+      },
+      {
+        "title": "Pålitelig levering",
+        "desc": "Typisk leveringstid 15–25 dager etter ordrebekreftelse."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesjonell produsent av gassflasker",
+    "text": "Wanda Group Gas Cylinder Manufacturer spesialiserer seg på produksjon og levering av industrielle gassflasker og tilhørende tilbehør. Produktene våre er mye brukt innen sveising, skjæring, gassdistribusjon, industriell lagring og andre gassforsyningsfelt.",
+    "text2": "Vi støtter utenlandske kjøpere med produktvalg, tilpasning, kvalitetsinspeksjon, emballasje og fraktkoordinering.",
+    "facts": [
+      {
+        "title": "Erfaring",
+        "desc": "15+ år som leverer industrielle gassflasker."
+      },
+      {
+        "title": "Produksjon",
+        "desc": "Intern forming, sveising, testing og etterbehandling."
+      },
+      {
+        "title": "Kvalitet",
+        "desc": "Alternativer for ISO 9809, DOT og TPED etter marked."
+      },
+      {
+        "title": "Eksport",
+        "desc": "Forsendelser koordinert for 50+ destinasjonsmarkeder."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Inne i fabrikken vår",
+    "subtitle": "Produksjon, sveising, testing, maling og ferdige sylindere — hvordan forbereder vi eksportordrer.",
+    "items": [
+      {
+        "title": "Ferdig sylinderlager",
+        "desc": "Klart inventar i anlegget vårt — volumkapasitet for engros- og eksportordrer."
+      },
+      {
+        "title": "Produksjonssveising",
+        "desc": "Metallproduksjon på fabrikkgulvet med industriell gassforsyning."
+      },
+      {
+        "title": "Eksporter emballasje",
+        "desc": "Beskyttende netting og pallepakking før internasjonal forsendelse."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Bulk sylinder frakt",
+        "desc": "Sikre merdlast for veitransport til distributører og anlegg."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Sylinderstørrelsesområde",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kvalitetskontroll",
+    "subtitle": "Hver batch følger samme vei: produksjon, testing, inspeksjon og endelig kvalitetskontroll.",
+    "steps": [
+      {
+        "title": "Produksjon",
+        "desc": "Forming, sveising og montering under anleggsprosesskontroll."
+      },
+      {
+        "title": "Testing",
+        "desc": "Trykk- og lekkasjetester før sylindere forlater linjen."
+      },
+      {
+        "title": "Undersøkelse",
+        "desc": "Visuelle, merkende og dimensjonale kontroller mot bestillingen."
+      },
+      {
+        "title": "Endelig kvalitetskontroll",
+        "desc": "Pakkeinspeksjon før eksportforsendelse."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Fant du ikke spørsmålet ditt? Send produkt, størrelse, mengde og destinasjonsland - vi svarer med et detaljert tilbud.",
+    "ctaBtn": "Få et tilbud",
+    "groups": [
+      {
+        "title": "Bedrift",
+        "items": [
+          {
+            "q": "Er du en gassflaskeprodusent?",
+            "a": "Ja. Wanda Group spesialiserer seg på produksjon av gassflasker og relaterte industrielle gassforsyningsløsninger for utenlandske industrielle kjøpere."
+          },
+          {
+            "q": "Hvilke produkter leverer du hovedsakelig?",
+            "a": "Vi leverer acetylenflasker, propanflasker, acetylengeneratorer og gassflasketilbehør som ventiler, regulatorer, slanger, trykkmålere og brennere."
+          },
+          {
+            "q": "Kan du støtte OEM-tilpasning?",
+            "a": "Ja. Sylinderfarge, merking, ventil, hette og pakningsalternativer kan diskuteres i henhold til bestillingen og målmarkedet."
+          },
+          {
+            "q": "Støtter du utenlandske kjøpere?",
+            "a": "Ja. Vi støtter eksport, produktvalg, pakkekrav, dokumentasjon og fraktkoordinering."
+          },
+          {
+            "q": "Hvordan kan jeg få et tilbud?",
+            "a": "Vennligst spesifiser produkttype, sylinderstørrelse, mengde, destinasjonsland og tilpasningskrav gjennom forespørselsskjemaet eller via e-post. Teamet vårt vil svare med produktdetaljer og et tilbud."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Kan jeg se fabrikkvideoer før jeg legger inn en bestilling?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Tilbyr du produktvideoer, spesielt for acetylensylindere?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Kan du vise videoer av produksjon og kvalitetskontroll?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Kan jeg be om en produktvideo laget for en bestemt bestilling?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Løsninger",
+        "items": [
+          {
+            "q": "Hvilke gassflaskeløsninger tilbyr du?",
+            "a": "Vi tilbyr løsninger for sveising og skjæring, gassdistribusjon, industriell lagring, acetylengenerering, OEM-forsyning og eksportinnkjøp."
+          },
+          {
+            "q": "Kan du anbefale produkter for applikasjonen min?",
+            "a": "Ja. Send søknaden din, sylinderstørrelse, mengde, destinasjonsland og nødvendig tilbehør - vi vil anbefale passende produkter."
+          },
+          {
+            "q": "Leverer du tilbehør sammen med sylindere?",
+            "a": "Ja. Vi kan levere trykkregulatorer, slanger, målere, skjærebrennere, sveisebrennere, ventiler og beslag sammen med sylindrene."
+          },
+          {
+            "q": "Kan du levere gassflasker til OEM-kjøpere?",
+            "a": "Ja. Sylinderfarge, merking, ventil, hette, logo og pakking kan diskuteres i henhold til bestillingen."
+          }
+        ]
+      },
+      {
+        "title": "Produkter",
+        "items": [
+          {
+            "q": "Hva brukes en oppløst acetylensylinder til?",
+            "a": "Sylindre med oppløst acetylen er mye brukt til sveising, skjæring, lodding, metallproduksjon og industriell gassforsyning."
+          },
+          {
+            "q": "Hvilke sylinderstørrelser kan du levere?",
+            "a": "Ulike volumer og kapasiteter kan diskuteres avhengig av målmarked, applikasjon og bestillingsmengde. For å bekrefte, spesifiser ønsket størrelse eller lokal standard."
+          },
+          {
+            "q": "Kan sylinderfarge, ventil og merking endres?",
+            "a": "Ja. Sylinderfarge, ventil, hette, merking, etikett og eksportpakning kan lages på bestilling."
+          }
+        ]
+      },
+      {
+        "title": "Tilbehør",
+        "items": [
+          {
+            "q": "Hvilket tilbehør leverer du?",
+            "a": "Vi leverer tilbakeslagsavledere, trykkmålere, sikkerhetsventiler, oksygenslanger, slangeklemmer, skjærebrennere, sveisebrennere, filtre, adaptere og annet gassflasketilbehør."
+          },
+          {
+            "q": "Kan gassflasketilbehør tilpasses?",
+            "a": "Ja. Vi kan tilpasse logo, pakning, tilkoblingsstørrelse, gjengetype, trykkområde og tekniske spesifikasjoner."
+          },
+          {
+            "q": "Kan tilbehør bestilles sammen med gassflasker?",
+            "a": "Ja. Tilbehør kan leveres sammen med acetylenflasker, propanflasker og acetylengeneratorer."
+          },
+          {
+            "q": "Støtter du OEM-pakking?",
+            "a": "Ja. For engrosordrer kan vi tilby OEM-merking, kartonger, poser og produktetiketter."
+          },
+          {
+            "q": "Kan du gi produktbilder og spesifikasjoner?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Hvordan kan jeg få et tilbud på tilbehør?",
+            "a": "Vennligst spesifiser produktnavn, mengde, tilkoblingsstørrelse, arbeidstrykk, pakkekrav og destinasjonsland eller havn."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Siste artikler",
+    "subtitle": "Ekspertinnhold for fagfolk innen sveising og gassforsyning.",
+    "readMore": "Les mer",
+    "close": "Lukk",
+    "items": [
+      {
+        "tag": "Handverker",
+        "title": "Komplett løsning for forsyning av propangasylindere",
+        "desc": "Utstyrsstabilitet påvirker direkte sveise- og skjærearbeidets effektivitet.",
+        "body": [
+          "For håndverkere som sveiser, reparerer og bearbeider metall hver dag, påvirker stabilt gassutstyr direkte arbeidskvaliteten og -hastigheten.",
+          "Wanda Groups propanflasker er tilgjengelige fra 3 til 50 liter med POL-, CGA 510- eller GOST-ventiler, avhengig av markedet – én leverandør for sveising, skjæring og oppvarming.",
+          "Vi anbefaler å bestille sylindere sammen med regulatorer, slanger og brennere. Pakkelevering reduserer logistikkkostnader og sikrer kompatibilitet med tilbehør.",
+          "Ved bestilling, spesifiser målmarked, volum, ventiltype og farge – vi utarbeider OEM-merking og eksportemballasje under ditt merke."
+        ]
+      },
+      {
+        "tag": "Lagring",
+        "title": "Tips for langtidslagring av acetylensylindere",
+        "desc": "Lagringsforhold, plasseringsmetoder og regelmessige inspeksjoner for ubrukte sylindere.",
+        "body": [
+          "Mange bedrifter lagrer acetylen- og propanflasker under produksjonspauser eller som lagerbeholdning. Ubrukte flasker krever fortsatt riktig håndtering.",
+          "Oppbevar sylindere stående på et godt ventilert sted, unna varmekilder og direkte sollys. Oppbevaringstemperaturen bør vanligvis ikke overstige 40–50 °C.",
+          "Inspiser ventiler, hetter og merkinger minst én gang i kvartalet. Ved langtidslagring av acetylen, hold sylinderne vertikale og la dem aldri vippe.",
+          "Wanda Group sender sylindere med beskyttelseshette og eksportemballasje designet for sikker transport og lagring. Lagringsveiledninger er tilgjengelige på ditt språk på forespørsel."
+        ]
+      },
+      {
+        "tag": "Prisfastsetting",
+        "title": "Budsjettguide for kjøp av acetylensylinder",
+        "desc": "Faktorer som påvirker kostnadene og hvordan man velger det optimale tilbudet.",
+        "body": [
+          "Prisen på acetylensylindere avhenger av volum (2–40 l), ventiltype, sertifisering (ISO, DOT, TPED) og bestillingsmengde. Veiledende EXW-priser: WG-10 $28–35, WG-25 $45–58 per enhet.",
+          "Større partier (200–500+ stk) får betydelige rabatter. OEM-lakkering, logo og spesialemballasje legger til 5–15 % til basisprisen, men øker verdien for distributører.",
+          "Ta også hensyn til frakt (FOB/CIF), dokumenter og MOQ. Vi svarer innen 24 timer med fullstendige spesifikasjoner, leveringstid og Incoterms.",
+          "For et nøyaktig tilbud, oppgi modell, antall, destinasjonsland og ventilkrav i kontaktskjemaet – eller send en e-post til sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Be om et tilbud",
+    "subtitle": "Fortell oss størrelse, antall, destinasjonsland og bruksområde – vi vil utarbeide et detaljert tilbud.",
+    "formTitle": "Be om et tilbud",
+    "formSubtitle": "Legg igjen dine krav – salgsteamet vårt vil svare med produktinformasjon, priser, MOQ og leveringstid.",
+    "name": "Navn",
+    "phone": "Telefon / WhatsApp",
+    "email": "E-post",
+    "product": "Produkt",
+    "quantity": "Antall",
+    "country": "Destinasjonsland",
+    "productOptions": [
+      "Acetylensylinder",
+      "Propansylinder",
+      "Acetylengenerator",
+      "Tilbehør",
+      "Pakkeordre"
+    ],
+    "message": "Andre krav",
+    "messagePlaceholder": "Produkt, størrelse, mengde, destinasjonsland...",
+    "submit": "Send forespørsel",
+    "sending": "Sender ...",
+    "success": "Takk! Vi kontakter deg snart.",
+    "sendAnother": "Send en ny forespørsel",
+    "errorGeneric": "Kunne ikke sende. Prøv på nytt eller send oss ​​en e-post direkte.",
+    "errorNoForm": "Skjemaet er ikke konfigurert. Send en e-post til sales@wandagroups.com",
+    "privacyPrefix": "Jeg er enig i",
+    "privacySuffix": "og til behandlingen av mine personopplysninger for å håndtere denne henvendelsen.",
+    "privacyLink": "Personvernerklæring",
+    "company": "Bedrift",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Send via e-post app"
+  },
+  "footer": {
+    "company": "Wanda Group gassflaskeprodusent",
+    "tagline": "Profesjonell produksjon av gassflasker",
+    "rights": "© 2026 Wanda Group. Alle rettigheter forbeholdt.",
+    "privacy": "Personvernerklæring"
+  },
+  "ui": {
+    "catalog": "Katalog",
+    "catalogTitle": "Detaljerte produktspesifikasjoner",
+    "catalogSubtitle": "Fullstendige tekniske data, modeller og parametere for hver kategori. Velg et produkt for å se spesifikasjonstabellen.",
+    "requestPrice": "Be om pris for denne modellen",
+    "services": "Tjenester",
+    "pricing": "Prisfastsetting",
+    "getExactQuote": "Få et nøyaktig tilbud",
+    "certifications": "Sertifiseringer",
+    "order": "Bestill",
+    "reviews": "Anmeldelser",
+    "contact": "Kontaktinformasjon",
+    "phone": "Telefon",
+    "location": "Lokasjon",
+    "quoteResponse": "Sitatsvar",
+    "support": "Kundestøtte",
+    "exportReady": "Eksporten er klar.",
+    "years": "År",
+    "acetylene": "Acetylen",
+    "isoCertified": "ISO-sertifisert",
+    "globalExport": "Global eksport",
+    "products": "Produkter",
+    "specs": "Spesifikasjoner",
+    "applications": "Søknader",
+    "whyUs": "Hvorfor oss",
+    "about": "Om oss",
+    "gallery": "Galleri",
+    "quality": "Kvalitet",
+    "faq": "FAQ",
+    "blog": "Blogg",
+    "countriesServed": "Land servert",
+    "searchLanguage": "Søk etter språk...",
+    "noLanguagesFound": "Ingen språk funnet"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Eksporter til 50+ land",
+    "MOQ fra 100 stk",
+    "Ledetid 15–25 dager"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetylen",
+      "propane": "Propan",
+      "generator": "Generator",
+      "accessories": "Tilbehør"
+    },
+    "acetylene": {
+      "title": "Oppløste acetylensylindere",
+      "intro": "Stålsylindere med porøs masse og løsemiddel for sikker lagring og transport av acetylen. Brukes til sveising, skjæring, lodding og metallproduksjon.",
+      "features": [
+        "Porøs masse + aceton for stabil lagring",
+        "CGA 510 / GOST / DIN ventiler på forespørsel",
+        "Hydraulisk prøvetrykk 5,2 MPa",
+        "RAL maling, stempling og OEM-etiketter",
+        "Eksporter pallemballasje"
+      ],
+      "tableTitle": "Standard Acetylen-sylindermodeller",
+      "headers": [
+        "Modell",
+        "Volum (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Vekt (kg)",
+        "Høyde (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Nøyaktige parametere avhenger av standard (ISO/DOT/GB) og ventilkonfigurasjon. Be om spesifikasjonsark for markedet ditt."
+    },
+    "propane": {
+      "title": "Propan- og LPG-sylindere",
+      "intro": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning.",
+      "features": [
+        "37Mn/34CrMo4 stål i henhold til ISO 9809",
+        "Arbeidstrykk 1,8–2,1 MPa",
+        "POL, CGA 510, GOST ventiler",
+        "Pulverlakk, anti-korrosjon",
+        "Sertifikater for EU, USA, CIS markeder"
+      ],
+      "tableTitle": "Standard propansylindermodeller",
+      "headers": [
+        "Modell",
+        "Volum (L)",
+        "Gass (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Vekt (kg)",
+        "Høyde (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Priser og MOQ avhenger av ordrevolum og ventiltype. Send forespørsel for nøyaktig tilbud."
+    },
+    "generator": {
+      "title": "Acetylen generatorer",
+      "intro": "Utstyr for å produsere acetylen fra kalsiumkarbid. Stabil gassforsyning for sveising og industrielle behov uten sentralisert gassinfrastruktur.",
+      "features": [
+        "Ytelse 3–100 m³/t kapasitet",
+        "Automatisk vann- og karbidmating",
+        "Sikkerhetssystem og filtrering",
+        "Kompakte og industrielle modeller",
+        "Full dokumentasjon og opplæring"
+      ],
+      "tableTitle": "Acetylen Generator modeller",
+      "headers": [
+        "Modell",
+        "Utgang (m³/t)",
+        "Karbid (kg/t)",
+        "Trykk (kPa)",
+        "Effekt (kW)",
+        "Vekt (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generatorer leveres med kjølesystem, filtre og reservedelssett på forespørsel."
+    },
+    "accessories": {
+      "title": "Sylindertilbehør og beslag",
+      "intro": "Komplett utvalg for sikker drift av gassflasker: fra målere til sveisebrennere. One-stop anskaffelse med sylindere.",
+      "features": [
+        "Regulatorer og målere (CGA/GOST/DIN)",
+        "Høytrykksslanger",
+        "Skjærebrennere og sveisebrennere",
+        "Trykkavlastningsventiler",
+        "Traller, stativer, capser"
+      ],
+      "tableTitle": "Tilbehørskatalog",
+      "headers": [
+        "Kategori",
+        "Modeller",
+        "Standard",
+        "Søknad"
+      ],
+      "rows": [
+        [
+          "Regulatorer",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylen, propan"
+        ],
+        [
+          "Målere",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Trykkovervåking"
+        ],
+        [
+          "Slanger",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Sveising, skjæring"
+        ],
+        [
+          "Fakler",
+          "WG-C100, WG-C300",
+          "—",
+          "Plasma/oksy-skjæring"
+        ],
+        [
+          "Brennere",
+          "WG-T200, WG-T500",
+          "—",
+          "Sveising, lodding"
+        ],
+        [
+          "Ventiler",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Alle sylindertyper"
+        ]
+      ],
+      "note": "* Tilbehør tilgjengelig separat eller buntet med sylindere. Rabatt på kombinerte bestillinger."
+    }
+  },
+  "services": {
+    "title": "Våre tjenester",
+    "subtitle": "Full syklus - fra produksjon til levering på lageret ditt. Vi samarbeider med distributører, OEM-merker og prosjektkjøpere.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Tilpasset produksjon (OEM/ODM)",
+        "desc": "Sylindre med ditt merke, farge og merking.",
+        "points": [
+          "Logo og RAL farge",
+          "Markedsstandard ventil",
+          "OEM emballasje og etiketter"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Eksport og logistikk",
+        "desc": "Komplett internasjonal forsendelsesstøtte.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Eksporter dokumentasjon",
+          "Sjø- og jernbanefrakt"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kvalitetskontroll",
+        "desc": "Testing og inspeksjon på alle trinn.",
+        "points": [
+          "Hydrostatiske tester",
+          "UT sveisekontroll",
+          "SGS/BV inspeksjon på forespørsel"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertifisering",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "HMS-datablad og kvalitetssertifikat",
+          "Opprinnelsessertifikat"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Teknisk støtte",
+        "desc": "Hjelp til å velge produkter og konfigurasjon.",
+        "points": [
+          "Markedsbasert utvalg",
+          "MOQ og ledetidsberegning",
+          "Personalopplæring"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Pakketilførsel",
+        "desc": "Sylindre + tilbehør i én bestilling.",
+        "points": [
+          "Enkel kontrakt",
+          "Koordinert levering",
+          "Bundlerabatt"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Priser og leveringsvilkår",
+    "subtitle": "Transparente vilkår for B2B-anskaffelser. Nøyaktig pris beregnes individuelt - send forespørsel, vi svarer innen 24 timer.",
+    "note": "Prisene som vises er veiledende (EXW). Endelig kostnad avhenger av volum, ventiltype, sertifisering og fraktbetingelser.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "fra 100 stk",
+        "desc": "Minimumsbestilling per modell"
+      },
+      {
+        "label": "Ledetid",
+        "value": "15–25 dager",
+        "desc": "Etter ordrebekreftelse"
+      },
+      {
+        "label": "Betaling",
+        "value": "T/T 30/70",
+        "desc": "30% innskudd, 70% før forsendelse"
+      },
+      {
+        "label": "Garanti",
+        "value": "12 måneder",
+        "desc": "Mot produksjonsfeil"
+      }
+    ],
+    "factors": {
+      "title": "Prisfaktorer",
+      "items": [
+        "Sylindervolum og modell (2L – 50L)",
+        "Ventiltype (CGA, GOST, DIN, POL)",
+        "Sertifiseringsstandard (ISO, DOT, TPED)",
+        "OEM: farge, merking, emballasje",
+        "Ordrevolum og Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylen WG-10",
+        "moq": "200 stk",
+        "price": "$28–35 / stk",
+        "lead": "18 dager"
+      },
+      {
+        "product": "Acetylen WG-25",
+        "moq": "100 stk",
+        "price": "$45–58 / stk",
+        "lead": "20 dager"
+      },
+      {
+        "product": "Propan WG-P11",
+        "moq": "500 stk",
+        "price": "$12–16 / stk",
+        "lead": "15 dager"
+      },
+      {
+        "product": "Propan WG-P50",
+        "moq": "100 stk",
+        "price": "$55–72 / stk",
+        "lead": "22 dager"
+      },
+      {
+        "product": "Generator WG-G20",
+        "moq": "1 enhet",
+        "price": "$3,500–4,200",
+        "lead": "25 dager"
+      },
+      {
+        "product": "Regulator sett",
+        "moq": "50 stk",
+        "price": "$8–15 / stk",
+        "lead": "10 dager"
+      }
+    ],
+    "tableHeaders": [
+      "Produkt",
+      "MOQ",
+      "Pris (EXW)",
+      "Ledetid"
+    ]
+  },
+  "certifications": {
+    "title": "Sertifiseringer og standarder",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Sømløse gassflasker i stål — tekniske krav"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Oppløste acetylensylindere"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "amerikansk markedssertifisering"
+      },
+      {
+        "name": "TPED",
+        "desc": "Europeisk transportdirektiv"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Kinesisk gassflaske standard"
+      },
+      {
+        "name": "CE-merke",
+        "desc": "Europeiske samsvarskrav"
+      }
+    ]
+  },
+  "process": {
+    "title": "Hvordan bestille",
+    "subtitle": "Enkel prosess fra forespørsel til sylindere på ditt lager.",
+    "steps": [
+      {
+        "title": "Send forespørsel",
+        "desc": "Spesifiser produkt-, volum-, land- og ventilkrav"
+      },
+      {
+        "title": "Motta tilbud",
+        "desc": "Pris, MOQ, ledetid og spesifikasjonsark innen 24 timer"
+      },
+      {
+        "title": "Bekreft bestilling",
+        "desc": "Kontraktsignering og 30% depositum"
+      },
+      {
+        "title": "Produksjon & QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Forsendelse",
+        "desc": "Emballasje, dokumenter, FOB/CIF/DDP-levering"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "sveising",
+        "eyebrow": "Acetylensylindere",
+        "title": "Stabil flamme for presisjonssveising",
+        "text": "Sylindre med oppløst acetylen konstruert for kontinuerlig sveising og lodding – konsekvent trykk, sikker porøs masse, eksportklare ventiler.",
+        "points": [
+          "ISO / DOT / GB alternativer",
+          "CGA / GOST / DIN ventiler",
+          "OEM farge og merking"
+        ]
+      },
+      {
+        "id": "kutting",
+        "eyebrow": "Kutting og fabrikasjon",
+        "title": "Strøm når metall må bevege seg",
+        "text": "Høyflytende acetylen og oksygenklare sylindersett for verft, verksteder og tunge fabrikasjonslinjer.",
+        "points": [
+          "Rask gjennomboring og kutt",
+          "Fakkelklare sett",
+          "Bulk MOQ-vennlig"
+        ]
+      },
+      {
+        "id": "propan",
+        "eyebrow": "Propan og LPG",
+        "title": "Slitesterke LPG-sylindere for alle markeder",
+        "text": "Fra varme- og kokegass til industriell skjæring — stålsylindere bygget for trykk, belegg og lang levetid.",
+        "points": [
+          "3L–50L rekkevidde",
+          "POL / CGA ventiler",
+          "Pulverlakk finish"
+        ]
+      },
+      {
+        "id": "fabrikk",
+        "eyebrow": "Produksjon",
+        "title": "Fabrikkkontroll fra stål til forsendelse",
+        "text": "Intern forming, sveising, hydrostatisk testing og etterbehandling – slik at hver batch matcher din tegning og markedsstandard.",
+        "points": [
+          "Hydrostatisk testet",
+          "Sporbare partier",
+          "OEM / ODM klar"
+        ]
+      },
+      {
+        "id": "kvalitet",
+        "eyebrow": "Kvalitet og sikkerhet",
+        "title": "Befaring kan du legge inn i tilbudet",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Trykk- og lekkasjetester",
+          "Certificate package",
+          "Bilder før forsendelse"
+        ]
+      },
+      {
+        "id": "eksport",
+        "eyebrow": "Global eksport",
+        "title": "Pakket for porter, klar for 50+ land",
+        "text": "Eksporter paller, ventilbeskyttelse, flerspråklige etiketter og forsendelsesdokumenter koordinert for din destinasjon Incoterms.",
+        "points": [
+          "FOB / CIF-støtte",
+          "Palletisert pakking",
+          "Ledetid 15–25 dager"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Industrigassflasker klare på fabrikk",
+    "about": "Eksportklart sylinderlager med beskyttende emballasje",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Ferdig sylinderlager på fabrikk",
+      "Produksjonssveising på fabrikkgulvet",
+      "Eksportemballasje med beskyttelsesnett",
+      "Propane cylinders ready for dispatch",
+      "Bulksylinder frakt på lastebil",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Tilbehør",
+    "title": "Produkttilbehør",
+    "subtitle": "Deler til acetylensylindere, generatorer, sveising og skjæring. Åpne Detaljer for spesifikasjoner og applikasjoner.",
+    "cta": "Be om detaljer",
+    "details": "Detaljer",
+    "close": "Lukke",
+    "featuresLabel": "Nøkkelfunksjoner",
+    "specsLabel": "Spesifikasjoner",
+    "applicationsLabel": "Søknader",
+    "qualityLabel": "Kvalitet og forsyning",
+    "whyTitle": "Hvorfor velge vårt tilbehør?",
+    "why": [
+      "Slitesterk messing, rustfritt stål og industrielle materialer",
+      "Kompatibel med sylindere, generatorer, regulatorer, slanger og sveisesystemer",
+      "OEM-logo, pakning, tilkoblingsstørrelse, trådtype og spesifikasjoner",
+      "Eksportpakking og stabil forsyning for internasjonale kjøpere"
+    ],
+    "items": [
+      {
+        "title": "Acetylen tilbakeslagsventil",
+        "desc": "Forhindrer omvendt gassstrøm og tilbakeslag av flamme i oksy-acetylen sveise- og skjæresystemer.",
+        "intro": "En viktig sikkerhetsanordning for acetylensystemer. Innebygd sintret rustfri flammesperre og enveis strømningsdesign beskytter operatører, slanger og gassledninger. Kompatibel med regulatorer, slanger og lommelykter. OEM-logo, etikett og pakking tilgjengelig.",
+        "features": [
+          "Flammehemmende sintret rustfri innsats",
+          "Ikke-retur (enveis) flytdesign",
+          "Høyfast messingkropp, korrosjonsbestandig",
+          "Pålitelig tetning under arbeidstrykk",
+          "Standardkoblinger for rask installasjon og utskifting"
+        ],
+        "specs": [
+          "Gass: acetylen (C2H2); oksygenavledere leveres separat",
+          "Kropp: messing; avleder: rustfritt stål",
+          "Tilkobling: G 3/8\" LH eller tilpasset gjenger",
+          "Arbeidstrykk: opptil 1,5 MPa / tilpasset",
+          "Bruk: oksy-acetylen sveising, skjæring og oppvarming",
+          "Emballasje: individuell boks, kartong eller tilpasset"
+        ],
+        "applications": [
+          "Oksy-acetylen sveising og skjæring",
+          "Regulatorer, slanger og lommelykter",
+          "Acetylen generator gassledninger"
+        ],
+        "quality": [
+          "100% inspeksjon før forsendelse",
+          "Tester av tetning, trykk og tilbakeslagsfunksjon",
+          "Eksportemballasje for langdistanselevering"
+        ]
+      },
+      {
+        "title": "Acetylengeneratorbeholder",
+        "desc": "Kjernebeholder for stabil acetylengenerering fra kalsiumkarbid i industrielle gasssystemer.",
+        "intro": "Generatorbeholderen er hovedbeholderen i et acetylengenereringssystem. Den leveres for stabil gassproduksjon i sveising, skjæring og steder uten sentralisert sylindertilførsel. Kapasitet, rør og sikkerhetstrim kan tilpasses generatormodellen.",
+        "features": [
+          "Kjernebeholder for acetylengeneratorsystemer",
+          "Bygget for stabil gassgenerering fra kalsiumkarbid",
+          "Kan matches med filtrerings- og sikkerhetsventiler",
+          "Industrielle og kompakte generatoroppsett",
+          "OEM-merking, koblinger og pakking på forespørsel"
+        ],
+        "specs": [
+          "Rolle: generatorbeholder/beholdermontering",
+          "Typisk effektområde for relaterte generatorer: 3–100 m³/t",
+          "Arbeidstrykk for relaterte enheter: ca. 1,5–5 kPa",
+          "Leveres med kjøling, filtre og reservedeler på forespørsel",
+          "Tilkoblinger, kapasitet og trim bekreftet per bestilling"
+        ],
+        "applications": [
+          "Acetylengeneratoranlegg og bærbare enheter",
+          "Verksteder uten sentralisert sylinderforsyning",
+          "Industriell sveising og skjæregassproduksjon"
+        ],
+        "quality": [
+          "Fabrikktilpasning til generatormodell",
+          "Eksport pakking og dokumentasjon",
+          "Kapasitet og tilkoblingsdetaljer bekreftet før forsendelse"
+        ]
+      },
+      {
+        "title": "Skjærebrenner",
+        "desc": "Slitesterk oksy-acetylen skjærebrenner for presise kutt, en stabil flamme og høy produktivitet.",
+        "intro": "Profesjonell acetylen-skjærebrenner for rene, nøyaktige kutt. Messinghus med rustfrie rør, ergonomisk håndtak og utskiftbare dyser. Kompatibel med acetylen og oksygen og med standard spisser.",
+        "features": [
+          "Premium messing og rustfri konstruksjon",
+          "Stabil flamme og presis kuttkontroll",
+          "Sikkerhetsfokusert design for å redusere tilbakeslagsrisiko",
+          "Ergonomisk håndtak, lett å montere og vedlikeholde",
+          "Fungerer med standard dyser, spisser og slangesett"
+        ],
+        "specs": [
+          "Modell: CT-01 skjærebrenner",
+          "Gass: acetylen + oksygen",
+          "Kuttetykkelse: 3–300 mm (dyse og trykkavhengig)",
+          "Arbeidstrykk: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Kontakt: G5/8-14 eller tilpasset",
+          "Lengde: ca. 460 mm",
+          "Emballasje: 1 stk/boks, 10 stk/kartong"
+        ],
+        "applications": [
+          "Karbonstålplate, rør og profilskjæring",
+          "Fabrikkbutikker, verft og konstruksjon",
+          "Industrielt vedlikehold og skjæring på stedet"
+        ],
+        "quality": [
+          "100 % inspeksjon før levering",
+          "Utseende, tilkobling, forsegling og funksjonskontroll",
+          "Eksporter emballasje for langtransport"
+        ]
+      },
+      {
+        "title": "Innvendig/ekstern gjenget vinkelventil",
+        "desc": "Kraftig sylindervinkelventil med innvendige eller utvendige gjengealternativer for markedsstandarder.",
+        "intro": "Vinkelventiler for acetylen og andre industrigasser: robust messinghus, presis tetting og jevn betjening av håndhjulet. Innvendig eller utvendig gjenge for å matche sylinder- og utstyrsstandarder.",
+        "features": [
+          "Slitesterk messingkropp, korrosjonsbestandig",
+          "Høypresisjonsmaskinering for pålitelig tetting",
+          "Alternativer for intern eller ekstern gjengetilkobling",
+          "Ergonomisk håndhjul for enkel åpning/lukking",
+          "100 % sikkerhets- og funksjonsinspeksjon"
+        ],
+        "specs": [
+          "Gass: acetylen, oksygen, argon, nitrogen og kompatible gasser",
+          "Arbeidstrykk: 25 / 35 bar klasse",
+          "Prøvetrykk: 37,5 / 52,5 bar klasse",
+          "Innløp/uttak: internt eller eksternt, tilpasset",
+          "Håndhjul: aluminium / sinklegering",
+          "Temperatur: −20 °C til +60 °C",
+          "Standarder: ISO 10297, GB/T 8335, CGA eller tilpasset",
+          "Pakning: 1 stk/pose, 50 stk/eske"
+        ],
+        "applications": [
+          "Acetylen og industrielle gassflasker",
+          "Sveise- og kuttegasssystemer",
+          "Verksteder, anlegg og laboratoriegassforsyning"
+        ],
+        "quality": [
+          "Kontroll av materialer, maskinering, lekkasje og utseende",
+          "Eksportemballasje for langtransport",
+          "Trådstørrelse og standard bekreftet per marked"
+        ]
+      },
+      {
+        "title": "Oksygenslangeklemme",
+        "desc": "Snekkedrevet klemme i rustfritt stål for sikre, lekkasjebestandige oksygen- og industrielle slangekoblinger.",
+        "intro": "Oksygenslangeklemmer i rustfritt stål for sveising og industriell bruk. Sterk klemkraft, rustmotstand og slangevennlige kanter. Gjenbrukbar og enkel å installere.",
+        "features": [
+          "Rustfritt stål 201/304",
+          "Sterk klemkraft og sikker feste",
+          "Rust-, korrosjons- og oksidasjonsbestandighet",
+          "Glatte båndkanter bidrar til å beskytte slangen",
+          "Enkel å installere, fjerne og gjenbruke"
+        ],
+        "specs": [
+          "Type: slangeklemme med snekkedrev",
+          "Slangeområde: 8–100 mm, tilpassede størrelser for bulk",
+          "Båndbredde: 9 / 12 mm; tykkelse 0,6–0,8 mm",
+          "Skrue: slisset eller sekskanthode",
+          "Standarder: DIN 3017 / SAE J1508",
+          "Finish: polert",
+          "Pakking: 100 stk/pose, 10 poser/kartong eller tilpasset"
+        ],
+        "applications": [
+          "Oksygen- og drivstoffslanger for sveising og skjæring",
+          "Sylinder, regulator og brenner slange skjøter",
+          "Fabrikk-, verksted- og vedlikeholdslinjer"
+        ],
+        "quality": [
+          "100 % inspeksjon før levering",
+          "Størrelse, bånd og pakning kan tilpasses",
+          "Eksporter kvalitetsemballasje"
+        ]
+      },
+      {
+        "title": "Oksygenrør",
+        "desc": "Fleksibel høytrykks oksygenslange med lang levetid for sveising, skjæring og industrigassforsyning.",
+        "intro": "Oksygenrør laget for sikker gassoverføring under trykk. Fleksibel, knekkbestandig og slitesterk, med glatt innervegg for stabil flyt. Flere IDer og lengder for sveising og sylindertilkobling.",
+        "features": [
+          "Høyt arbeids- og sprengtrykk",
+          "Fleksibel, knekkbestandig konstruksjon",
+          "Aldring, ozon og slitestyrke",
+          "Glatt innervegg for stabil gassstrøm",
+          "Lett og lett å håndtere"
+        ],
+        "specs": [
+          "Gass: oksygen",
+          "Arbeidstrykk: 20 bar / 290 psi",
+          "Sprengtrykk: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (tilpasset tilgjengelig)",
+          "Lengde: 10 / 20 / 30 / 50 / 100 m eller tilpasset",
+          "Farge: blå standard; materiale SBR / EPDM + polyestergarn",
+          "Standarder: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatur: −20 °C til +80 °C"
+        ],
+        "applications": [
+          "Oksygentilførsel for sveising og skjæring",
+          "Sylinder-til-regulator slangetilkobling",
+          "Fabrikker, verksteder og industrielle gassledninger"
+        ],
+        "quality": [
+          "100 % inspeksjon før levering",
+          "Diameter, lengde, farge og etikett kan tilpasses",
+          "Eksportemballasje: krympe / vevd pose / kartong"
+        ]
+      },
+      {
+        "title": "Trykkmåler",
+        "desc": "Nøyaktig trykkvisning for oksygen, acetylen og andre industrielle gasser.",
+        "intro": "Målere for acetylen, oksygen og industrigasser: klar skive, holdbar konstruksjon og stabile avlesninger på sylindere, regulatorer og rørledninger. Flere serier og tilkoblinger for OEM og eksport.",
+        "features": [
+          "Høy nøyaktighet og stabil ytelse",
+          "Klar skive for enkel lesing",
+          "Støtsikker industrikonstruksjon",
+          "Korrosjonsbestandige materialer",
+          "Flere rekkevidder og bunn-/bakfester"
+        ],
+        "specs": [
+          "Gass: acetylen, oksygen, argon, CO₂, nitrogen og kompatible gasser",
+          "Urskive: 50 / 63 / 100 mm, tilpasset tilgjengelig",
+          "Rekkevidde: 0–1 bar opp til 0–400 bar, tilpasset",
+          "Nøyaktighet: ±2,5 % standard, ±1,6 % valgfritt",
+          "Tråd: G1/4, G1/8, NPT1/4, M12×1.5 eller tilpasset",
+          "Veske: svart stål / rustfritt valgfritt; kobling messing eller SS",
+          "Vindu: glass eller polykarbonat; −20 °C til +60 °C",
+          "Pakning: 1 stk/boks, 50 stk/kartong"
+        ],
+        "applications": [
+          "Gassflasker og trykkregulatorer",
+          "Rørledninger og industrielle gasssystemer",
+          "Oksy-acetylen sveise- og skjærepaneler"
+        ],
+        "quality": [
+          "100 % testing før levering",
+          "OEM-skive og merkevarealternativer",
+          "Eksporter emballasje"
+        ]
+      },
+      {
+        "title": "Sikkerhetsavlastningsventil",
+        "desc": "Frigjør automatisk overtrykk for å beskytte sylindere, rørledninger og operatører.",
+        "intro": "Sikkerhetsventiler slipper ut overtrykk automatisk for å beskytte utstyr og personell. Egnet for oksygen, acetylen, luft, nitrogen og kompatible gasser. Kompakt messinghus, flere innstilte trykk og gjengestørrelser.",
+        "features": [
+          "Automatisk overtrykksbeskyttelse",
+          "Stabil avlastning under høyt trykk",
+          "Messinghus, varme- og korrosjonsbestandig",
+          "Kompakt design for enkel installasjon og service",
+          "Flere innstilte trykk og gjengestørrelser"
+        ],
+        "specs": [
+          "Gass: oksygen, acetylen, luft, nitrogen og kompatible gasser",
+          "Arbeidstrykk: opptil 25 bar / 25 kg/cm²",
+          "Avlastningsområde: 0,1–2,5 MPa, kan tilpasses",
+          "Temperatur: −20 °C til +120 °C",
+          "Tilkobling: hann/kvinne; 1/4\", 3/8\", 1/2\", 3/4\" BSP/NPT",
+          "Kropp: messing; tetning: NBR / PTFE",
+          "Kroppstrykkklasse: 25 / 35 bar",
+          "Pakning: 1 stk/boks, 50 stk/kartong"
+        ],
+        "applications": [
+          "Sylinder og manifold overtrykksbeskyttelse",
+          "Industrielt gassutstyr og rørledninger",
+          "Oxy-fuel sveise- og skjæresystemer"
+        ],
+        "quality": [
+          "100% testing før forsendelse",
+          "Innstillingstrykk, gjenger og pakking kan tilpasses",
+          "Eksporter emballasje"
+        ]
+      },
+      {
+        "title": "Sveisebrenner",
+        "desc": "Ergonomisk oxy-fuel sveisebrenner med jevn flammekontroll for sveising, lodding og oppvarming.",
+        "intro": "Høyytelses sveisebrenner for oksygen-drivstoffarbeid: stabil flamme, presis kontroll og en slitesterk messingkropp. Kobberspisser, utskiftbare dyser og slangekoblinger for verksted og industribruk.",
+        "features": [
+          "Stabil flamme for sveising og metallreparasjon",
+          "Jevn gasstrøm og presis flammekontroll",
+          "Slitesterk messingkropp, varme- og korrosjonsbestandig",
+          "Ergonomisk håndtak for komfortabel betjening",
+          "Kompatibel med oksygen, acetylen og valgfri propan"
+        ],
+        "specs": [
+          "Type: oksy-acetylen sveisebrenner",
+          "Kropp: messing; tips: kobber, utskiftbar",
+          "Slangetilkobling: G1/4″ eller 9/16″-18 UNF",
+          "Arbeidstrykk: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatur: −20 °C til +60 °C",
+          "Bruk: sveising, lodding, oppvarming; skjæring med matchende tips",
+          "Emballasje: 1 stk/boks, 10 stk/kartong"
+        ],
+        "applications": [
+          "Oksygen-acetylen sveising og reparasjon",
+          "Lodding, oppvarming og sammenføyning",
+          "Verksteder og industrielt vedlikehold"
+        ],
+        "quality": [
+          "100 % inspeksjon før levering",
+          "Lommelyktstil, kontakt, pakking og logo kan være OEM",
+          "Material-, lekkasje- og utseendekontroller"
+        ]
+      },
+      {
+        "title": "Filteromformerhode",
+        "desc": "Kobler filterelementet til en regulator eller rørledning for effektiv gassfiltrering.",
+        "intro": "Filteromformerhodet er forbindelsen mellom filterelementet og regulatoren eller gassledningen. Den setter elementet, holder strømningsretningen riktig og gjør service og utskifting enkel i sylinder- og distribusjonssystemer.",
+        "features": [
+          "Kobler filterelement til regulator eller rørledning",
+          "Støtter effektiv filtrering i gassledningen",
+          "Industriell messing/metallkonstruksjon",
+          "Standard gjengede porter for systemtilpasning",
+          "OEM gjenger, størrelse og pakking på forespørsel"
+        ],
+        "specs": [
+          "Rolle: filteromformer / adapterhode",
+          "Bruk: regulator, rørledning og sylinderfilter",
+          "Tilkoblingsstørrelse og gjenger bekreftet per bestilling",
+          "Matches med filterelementer og skåler som et sett om nødvendig"
+        ],
+        "applications": [
+          "Gassdistribusjon før regulatorer og verktøy",
+          "Sylinder- og generatorfilterenheter",
+          "Verksted og industrigassledninger"
+        ],
+        "quality": [
+          "Tilkoblingsstørrelse bekreftet før produksjon",
+          "Eksporter emballasje",
+          "Kan leveres med matchende filterelementer"
+        ]
+      },
+      {
+        "title": "Filter",
+        "desc": "Høyeffektivt filter som fjerner fuktighet, olje og partikler for å beskytte nedstrømsutstyr.",
+        "intro": "Fjerner faste partikler, vann, olje og andre urenheter fra gasstrømmen for å beskytte utstyret og forlenge levetiden. Messinghode, kvalitetselement og stabil drift under trykk. For oksygen, acetylen, luft, nitrogen og kompatible gasser.",
+        "features": [
+          "Høyeffektiv filtrering for ren gasstrøm",
+          "Fjerner fuktighet, olje og partikler",
+          "Slitesterk messinghode og metallskål",
+          "Avtakbart element for rengjøring eller utskifting",
+          "Stabil drift under arbeidspress"
+        ],
+        "specs": [
+          "Gass: oksygen, acetylen, luft, nitrogen og kompatible gasser",
+          "Innløpstrykk: opptil 2,5 MPa",
+          "Arbeidstrykk: 0,01–1,6 MPa",
+          "Nøyaktighet: 5 / 20 / 50 μm valgfritt",
+          "Tilkobling: G1/4″, G3/8″, G1/2″, G3/4″ valgfritt",
+          "Kropp: messing; element: sintret bronse / rustfritt stål",
+          "Temperatur: −20 °C til +60 °C",
+          "Emballasje: 1 stk/boks, 20 stk/kartong"
+        ],
+        "applications": [
+          "Sylinder, regulator og distribusjonssystemer",
+          "Fabrikker, verksteder og industrielle gassledninger",
+          "Renere flyt for sveising, skjæring og laboratorieforsyning"
+        ],
+        "quality": [
+          "100 % inspeksjon før levering",
+          "Tråd, nøyaktighet og element kan tilpasses",
+          "Eksporter emballasje"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Lovlig",
+    "title": "Personvernerklæring",
+    "updated": "Sist oppdatert: 25. august 2026",
+    "intro": [
+      "Wanda Group (\"vi\", \"oss\") driver denne nettsiden for å presentere gassflasker, tilbehør og relatert eksportforsyning, og for å motta kommersielle henvendelser fra industrielle kjøpere.",
+      "Denne policyen forklarer hvilke personopplysninger vi samler inn gjennom nettstedet, hvorfor vi bruker det, og hvordan du kan kontakte oss om det. Vi publiserer ikke fabrikkvideoer eller sertifikatfiler på nettstedet; disse materialene sendes privat på forespørsel."
+    ],
+    "sections": [
+      {
+        "title": "Hvem er ansvarlig",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Hvilke data vi samler inn",
+        "body": [
+          "Når du sender forespørselsskjemaet mottar vi dataene du oppgir: navn, e-post, telefon, destinasjonsland, produkttype, mengde og melding.",
+          "Siden lagrer også ditt språkvalg i nettleseren (localStorage). Vi kjører ikke reklameinformasjonskapsler eller selger besøkslister."
+        ]
+      },
+      {
+        "title": "Hvorfor vi bruker dataene",
+        "body": [
+          "Vi bruker forespørselsdata kun for å svare på forespørselen din, utarbeide et tilbud, sende produktinformasjon, videoer eller sertifikater som du har bedt om, og for å koordinere en bestilling hvis vi begynner å samarbeide.",
+          "Juridisk grunnlag: ditt samtykke når du krysser av i boksen på skjemaet, og vår legitime interesse i å svare på B2B-salgsforespørsler."
+        ]
+      },
+      {
+        "title": "Hvem mottar dataene",
+        "body": [
+          "Meldingen din blir levert til vårt salgsteam på e-post. Avhengig av konfigurasjonen kan skjemaet behandles av Web3Forms som en teknisk leverandør som sender meldingen til oss.",
+          "Vi selger ikke personopplysninger. Vi kan dele det som trengs med logistikk-, inspeksjons- eller bankpartnere bare hvis det er nødvendig for å oppfylle en avtalt ordre."
+        ]
+      },
+      {
+        "title": "Hvor lenge holder vi det",
+        "body": [
+          "Forespørselsdata oppbevares så lenge det er nødvendig for å håndtere forespørselen og i en rimelig periode etterpå for salgsoppfølging og regnskap, med mindre du ber oss om å slette dem tidligere der loven tillater det."
+        ]
+      },
+      {
+        "title": "Dine rettigheter",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Trygghet og barn",
+        "body": [
+          "Vi tar rimelige tekniske og organisatoriske skritt for å beskytte meldinger under transport og i postkassen vår. Denne nettsiden er ment for bedriftskjøpere, ikke for barn."
+        ]
+      }
+    ],
+    "contactLead": "Spørsmål om denne policyen:"
+  }
+}

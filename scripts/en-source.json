@@ -1,0 +1,190 @@
+﻿{
+  "nav": {
+    "products": "Products",
+    "specs": "Specifications",
+    "applications": "Applications",
+    "about": "About",
+    "gallery": "Gallery",
+    "quality": "Quality",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "getQuote": "Get a Quote",
+    "inquire": "Inquire →",
+    "services": "Services",
+    "pricing": "Pricing"
+  },
+  "hero": {
+    "badge": "Gas Cylinder Manufacturer",
+    "title": "Reliable Gas Cylinders for Industry & Welding",
+    "subtitle": "Wanda Group is a trusted manufacturer and supplier of acetylene, propane cylinders and accessories. Solutions for gas supply, welding, cutting and storage worldwide.",
+    "cta": "Get a Quote",
+    "ctaSecondary": "Our Products",
+    "stats": [
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "50+", "label": "Countries Served" },
+      { "value": "500K+", "label": "Cylinders/Year" },
+      { "value": "24h", "label": "Quote Response" }
+    ]
+  },
+  "accessories": {
+    "title": "Reliable Gas Cylinder Accessories",
+    "text": "High-quality gauges, valves, hoses and fittings for safe gas distribution, welding and industrial applications.",
+    "cta": "Get an Offer"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Acetylene cylinders, generators, propane cylinders and accessories for industrial and welding applications.",
+    "items": [
+      { "title": "Acetylene Cylinder", "desc": "Dissolved acetylene cylinders for welding, cutting and industrial gases. Various sizes and valve options.", "icon": "🔥" },
+      { "title": "Acetylene Generator", "desc": "Equipment for stable gas production, easy operation and industrial applications.", "icon": "⚙️" },
+      { "title": "Propane Cylinder", "desc": "Durable cylinders for propane and LPG — storage, heating, cutting and industrial use.", "icon": "🛢️" },
+      { "title": "Cylinder Accessories", "desc": "Hoses, gauges, cutting torches, welding burners, safety valves and more.", "icon": "🔧" }
+    ]
+  },
+  "specs": {
+    "title": "Technical Specifications",
+    "subtitle": "Explore cylinder options, customization capabilities and shipping details before sending an inquiry.",
+    "items": [
+      { "title": "Cylinder Capacity", "desc": "Various capacity and volume options depending on application and market requirements." },
+      { "title": "Valves & Caps", "desc": "Valves, caps and fittings supplied according to customer and project needs." },
+      { "title": "Solvent Options", "desc": "Porous filler system and solvents for stable acetylene storage." },
+      { "title": "Packaging & Shipping", "desc": "Export packaging and shipping support for distributors and project customers." }
+    ]
+  },
+  "applications": {
+    "title": "Cylinder Applications",
+    "subtitle": "Products designed for common industrial gas tasks and overseas buyer requirements.",
+    "items": ["Welding & Brazing", "Metal Cutting", "Industrial Gas Supply", "Construction", "Metal Fabrication", "Gas Storage & Distribution"]
+  },
+  "whyUs": {
+    "title": "Why Wanda Group?",
+    "subtitle": "Direct manufacturing, customization and full export support — everything for your business.",
+    "items": [
+      { "title": "Factory Direct", "desc": "Direct communication with manufacturer" },
+      { "title": "OEM Options", "desc": "Custom color, valve and marking" },
+      { "title": "Export Support", "desc": "Packaging and full documentation" },
+      { "title": "One-Stop Sourcing", "desc": "Cylinders and accessories together" }
+    ]
+  },
+  "about": {
+    "title": "Professional Gas Cylinder Manufacturer",
+    "text": "Wanda Group Gas Cylinder Manufacturer specializes in producing and supplying industrial gas cylinders and related accessories. Our products are widely used in welding, cutting, gas distribution, industrial storage and other gas supply fields.",
+    "text2": "We support overseas buyers in product selection, customization, quality inspection, packaging and shipping coordination."
+  },
+  "gallery": {
+    "title": "Production & Products",
+    "subtitle": "Photos of our manufacturing, equipment and gas cylinder applications."
+  },
+  "quality": {
+    "title": "Quality Control & Safety",
+    "subtitle": "From raw material inspection to final packaging — every step ensures reliable product quality.",
+    "steps": [
+      { "title": "Raw Material Inspection", "desc": "Material and process requirement verification" },
+      { "title": "Forming & Welding", "desc": "Controlled cylinder manufacturing processes" },
+      { "title": "Pressure Testing", "desc": "Safety and leak testing at every stage" },
+      { "title": "Surface Treatment", "desc": "Painting, marking and finishing per order" },
+      { "title": "Valve Assembly", "desc": "Installation of valves, caps and accessories" },
+      { "title": "Final Packaging", "desc": "Export packaging and shipping preparation" }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to common buyer questions — get to your quote request faster.",
+    "items": [
+      { "q": "What is a dissolved acetylene cylinder used for?", "a": "Welding, cutting, brazing, metal fabrication and industrial gas supply." },
+      { "q": "What cylinder volumes do you supply?", "a": "Various volumes depending on your target market, application and order quantity." },
+      { "q": "Can I customize color, valve and marking?", "a": "Yes. Cylinder color, valve, cap, label and export packaging can be customized." },
+      { "q": "Do you supply accessories with cylinders?", "a": "Yes — hoses, gauges, regulators, cutting torches, burners and safety valves." },
+      { "q": "How do I get a quote?", "a": "Provide product, size, valve type, quantity, destination country and special requirements." }
+    ]
+  },
+  "articles": {
+    "title": "Latest Articles",
+    "subtitle": "Expert content for welding and gas supply professionals.",
+    "readMore": "Read more →",
+    "close": "Close",
+    "items": [
+      {
+        "tag": "Craftsmen",
+        "title": "Complete Propane Cylinder Supply Solution",
+        "desc": "Equipment stability directly affects welding and cutting work efficiency.",
+        "body": [
+          "For craftsmen who weld, repair and fabricate metal every day, stable gas equipment directly affects work quality and speed.",
+          "Wanda Group propane cylinders are available from 3L to 50L with POL, CGA 510 or GOST valves depending on your market — one supplier for welding, cutting and heating.",
+          "We recommend ordering cylinders together with regulators, hoses and torches. Bundle supply reduces logistics cost and ensures accessory compatibility.",
+          "When ordering, specify target market, volume, valve type and color — we prepare OEM marking and export packaging under your brand."
+        ]
+      },
+      {
+        "tag": "Storage",
+        "title": "Long-Term Acetylene Cylinder Storage Tips",
+        "desc": "Storage conditions, placement methods and regular inspections for unused cylinders.",
+        "body": [
+          "Many companies store acetylene and propane cylinders during production breaks or as inventory. Unused cylinders still require proper handling.",
+          "Store cylinders upright in a well-ventilated area away from heat sources and direct sunlight. Storage temperature should typically not exceed 40–50°C.",
+          "Inspect valves, caps and markings at least quarterly. For long-term acetylene storage, keep cylinders vertical and never allow tilting.",
+          "Wanda Group ships cylinders with protective caps and export packaging designed for safe transport and warehousing. Storage guides are available in your language on request."
+        ]
+      },
+      {
+        "tag": "Pricing",
+        "title": "Budget Guide for Acetylene Cylinder Purchase",
+        "desc": "Factors affecting cost and how to choose the optimal offer.",
+        "body": [
+          "Acetylene cylinder price depends on volume (2L–40L), valve type, certification (ISO, DOT, TPED) and order quantity. Indicative EXW prices: WG-10 $28–35, WG-25 $45–58 per unit.",
+          "Larger lots (200–500+ pcs) receive meaningful discounts. OEM painting, logo and special packaging add 5–15% to base price but increase value for distributors.",
+          "Also factor in shipping (FOB/CIF), documents and MOQ. We reply within 24 hours with full specification, lead time and Incoterms.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need Reliable Gas Cylinder Supply?",
+    "subtitle": "Tell us the size, quantity, destination country and application — we will prepare a detailed quote.",
+    "formTitle": "Request a Quote",
+    "formSubtitle": "Leave your requirements — our sales team will respond with product info, pricing, MOQ and lead time.",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "product": "Product",
+    "quantity": "Quantity",
+    "country": "Destination Country",
+    "productOptions": ["Acetylene Cylinder", "Propane Cylinder", "Acetylene Generator", "Accessories", "Bundle Order"],
+    "message": "Additional Requirements",
+    "messagePlaceholder": "Product, size, quantity, destination country...",
+    "submit": "Send Inquiry",
+    "sending": "Sending...",
+    "success": "Thank you! We will contact you shortly.",
+    "sendAnother": "Send another inquiry",
+    "errorGeneric": "Failed to send. Please try again or email us directly.",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com"
+  },
+  "footer": {
+    "company": "Wanda Group Gas Cylinder Manufacturer",
+    "tagline": "Professional Gas Cylinder Manufacturing",
+    "rights": "© 2026 Wanda Group. All rights reserved."
+  },
+  "ui": {
+    "catalog": "Catalog",
+    "catalogTitle": "Detailed Product Specifications",
+    "catalogSubtitle": "Complete technical data, models and parameters for each category. Select a product to view the spec table.",
+    "requestPrice": "Request Price for This Model",
+    "services": "Services",
+    "pricing": "Pricing",
+    "getExactQuote": "Get Exact Quote",
+    "certifications": "Certifications",
+    "order": "Order",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "phone": "Phone",
+    "location": "Location",
+    "quoteResponse": "Quote response",
+    "support": "Support",
+    "exportReady": "Export ready",
+    "years": "Years",
+    "acetylene": "Acetylene",
+    "isoCertified": "ISO Certified",
+    "globalExport": "Global Export"
+  }
+}

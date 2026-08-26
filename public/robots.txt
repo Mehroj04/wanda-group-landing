@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Allow: /favicon.ico
+Allow: /favicon-120x120.png
+Allow: /apple-touch-icon.png
+Host: www.wandagroups.com
+
+User-agent: YandexImages
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /favicon-48x48.png
+Allow: /favicon-96x96.png
+Allow: /favicon-192x192.png
+Allow: /favicon.ico
+
+Sitemap: https://www.wandagroups.com/sitemap.xml

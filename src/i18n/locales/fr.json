@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produits",
+    "specs": "Caractéristiques",
+    "applications": "Applications",
+    "about": "À propos",
+    "gallery": "Galerie",
+    "quality": "Qualité",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "getQuote": "Obtenez un devis",
+    "inquire": "Renseignez-vous →",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "accessories": "Accessoires",
+    "home": "Maison",
+    "factory": "Usine"
+  },
+  "hero": {
+    "badge": "Fabricant de bouteilles de gaz",
+    "title": "Bouteilles de gaz fiables pour l'industrie et le soudage",
+    "subtitle": "Wanda Group est un fabricant et fournisseur de confiance de bouteilles et d'accessoires d'acétylène, de propane. Solutions pour l'approvisionnement en gaz, le soudage, le coupage et le stockage dans le monde entier.",
+    "cta": "Obtenez un devis",
+    "ctaSecondary": "Nos produits",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Années d'expérience"
+      },
+      {
+        "value": "500K+",
+        "label": "Capacité de production / an"
+      },
+      {
+        "value": "50+",
+        "label": "Marchés d'exportation"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Qualité et certification"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Accessoires fiables pour bouteilles de gaz",
+    "text": "Jauges, vannes, flexibles, torches et raccords de sécurité – fournis avec les bouteilles ou en commande séparée.",
+    "cta": "Voir les accessoires"
+  },
+  "products": {
+    "title": "Nos produits",
+    "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+    "items": [
+      {
+        "title": "Cylindre d'acétylène",
+        "desc": "Bouteilles d'acétylène dissous pour gaz de soudage, de coupage et industriels. Différentes tailles et options de vannes.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO/DOT/TPED"
+      },
+      {
+        "title": "Générateur d'acétylène",
+        "desc": "Équipement pour une production de gaz stable, une utilisation facile et des applications industrielles.",
+        "icon": "⚙️",
+        "spec": "Systèmes de génération industrielle"
+      },
+      {
+        "title": "Bouteille de propane",
+        "desc": "Bouteilles durables pour propane et GPL — stockage, chauffage, découpe et utilisation industrielle.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Accessoires pour cylindres",
+        "desc": "Tuyaux, jauges, chalumeaux coupants, brûleurs de soudage, soupapes de sécurité et plus encore.",
+        "icon": "🔧",
+        "spec": "Vannes · régulateurs · flexibles · torches"
+      }
+    ],
+    "viewDetails": "Afficher les détails"
+  },
+  "specs": {
+    "title": "Spécifications techniques",
+    "subtitle": "Explorez les options de cylindres, les capacités de personnalisation et les détails d'expédition avant d'envoyer une demande.",
+    "items": [
+      {
+        "title": "Capacité du cylindre",
+        "desc": "Différentes options de capacité et de volume en fonction de l'application et des exigences du marché."
+      },
+      {
+        "title": "Vannes et bouchons",
+        "desc": "Vannes, bouchons et raccords fournis selon les besoins du client et du projet."
+      },
+      {
+        "title": "Options de solvants",
+        "desc": "Système de remplissage poreux et solvants pour un stockage stable de l'acétylène."
+      },
+      {
+        "title": "Emballage et expédition",
+        "desc": "Emballage à l'exportation et assistance à l'expédition pour les distributeurs et les clients du projet."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Applications de cylindre",
+    "subtitle": "Produits conçus pour les tâches courantes liées aux gaz industriels et les exigences des acheteurs étrangers.",
+    "items": [
+      "Soudage et brasage",
+      "Découpe de métal",
+      "Approvisionnement en gaz industriel",
+      "Construction",
+      "Fabrication de métaux",
+      "Stockage et distribution de gaz"
+    ]
+  },
+  "whyUs": {
+    "title": "Pourquoi le groupe Wanda ?",
+    "subtitle": "Fabrication directe, personnalisation et assistance complète à l'exportation : tout pour votre entreprise.",
+    "items": [
+      {
+        "title": "Haute qualité",
+        "desc": "Bouteilles en acier conçues pour le soudage industriel et l'approvisionnement en gaz."
+      },
+      {
+        "title": "Contrôle de qualité strict",
+        "desc": "Inspection depuis les matériaux entrants jusqu'à l'emballage final."
+      },
+      {
+        "title": "Fabrication avancée",
+        "desc": "Formage, soudage, tests et finition dans une seule usine."
+      },
+      {
+        "title": "OEM/ODM",
+        "desc": "Couleur, valve, marquage, bouchon et emballage sur commande."
+      },
+      {
+        "title": "Exportation internationale",
+        "desc": "Documents et emballage pour les acheteurs industriels étrangers."
+      },
+      {
+        "title": "Livraison fiable",
+        "desc": "Délai de livraison typique 15 à 25 jours après la confirmation de la commande."
+      }
+    ]
+  },
+  "about": {
+    "title": "Fabricant professionnel de bouteilles de gaz",
+    "text": "Le fabricant de bouteilles de gaz du groupe Wanda est spécialisé dans la production et la fourniture de bouteilles de gaz industrielles et d'accessoires associés. Nos produits sont largement utilisés dans les domaines du soudage, du découpage, de la distribution de gaz, du stockage industriel et d’autres domaines d’approvisionnement en gaz.",
+    "text2": "Nous aidons les acheteurs étrangers dans la sélection des produits, la personnalisation, l'inspection de la qualité, l'emballage et la coordination de l'expédition.",
+    "facts": [
+      {
+        "title": "Expérience",
+        "desc": "Plus de 15 ans dans la fourniture de bouteilles de gaz industrielles."
+      },
+      {
+        "title": "Production",
+        "desc": "Formage, soudage, tests et finition en interne."
+      },
+      {
+        "title": "Qualité",
+        "desc": "Options ISO 9809, DOT et TPED par marché."
+      },
+      {
+        "title": "Exporter",
+        "desc": "Expéditions coordonnées pour plus de 50 marchés de destination."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "À l'intérieur de notre usine",
+    "subtitle": "Production, soudage, essais, peinture et cylindres finis : comment nous préparons les commandes à l'exportation.",
+    "items": [
+      {
+        "title": "Stock de cylindres finis",
+        "desc": "Inventaire prêt dans notre usine — capacité de volume pour les commandes de gros et d'exportation."
+      },
+      {
+        "title": "Soudage de production",
+        "desc": "Fabrication métallique en usine avec alimentation en gaz industriel."
+      },
+      {
+        "title": "Emballage d'exportation",
+        "desc": "Maille de protection et emballage des palettes avant expédition internationale."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Expédition de bouteilles en vrac",
+        "desc": "Chargements en cage sécurisés pour le transport routier vers les distributeurs et les usines."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Gamme de tailles de cylindres",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Contrôle de qualité",
+    "subtitle": "Chaque lot suit le même chemin : production, tests, inspection et contrôle qualité final.",
+    "steps": [
+      {
+        "title": "Production",
+        "desc": "Formage, soudage et assemblage sous contrôle des processus en usine."
+      },
+      {
+        "title": "Essai",
+        "desc": "Tests de pression et de fuite avant que les bouteilles ne quittent la ligne."
+      },
+      {
+        "title": "Inspection",
+        "desc": "Contrôles visuels, de marquage et dimensionnels par rapport à la commande."
+      },
+      {
+        "title": "Contrôle de qualité final",
+        "desc": "Inspection de l'emballage avant expédition à l'exportation."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Vous n'avez pas trouvé votre question ? Envoyez le produit, la taille, la quantité et le pays de destination — nous vous répondrons avec une offre détaillée.",
+    "ctaBtn": "Obtenez un devis",
+    "groups": [
+      {
+        "title": "Entreprise",
+        "items": [
+          {
+            "q": "Êtes-vous un fabricant de bouteilles de gaz ?",
+            "a": "Oui. Wanda Group est spécialisé dans la fabrication de bouteilles de gaz et de solutions d'approvisionnement en gaz industriel associées pour les acheteurs industriels étrangers."
+          },
+          {
+            "q": "Quels produits fournissez-vous principalement ?",
+            "a": "Nous fournissons des bouteilles d'acétylène, des bouteilles de propane, des générateurs d'acétylène et des accessoires pour bouteilles de gaz tels que des valves, des régulateurs, des tuyaux, des manomètres et des chalumeaux."
+          },
+          {
+            "q": "Pouvez-vous prendre en charge la personnalisation OEM ?",
+            "a": "Oui. La couleur du cylindre, le marquage, la valve, le bouchon et les options d'emballage peuvent être discutés en fonction de la commande et du marché cible."
+          },
+          {
+            "q": "Soutenez-vous les acheteurs étrangers ?",
+            "a": "Oui. Nous prenons en charge l’exportation, la sélection des produits, les exigences d’emballage, la documentation et la coordination des expéditions."
+          },
+          {
+            "q": "Comment puis-je obtenir un devis ?",
+            "a": "Veuillez spécifier le type de produit, la taille du cylindre, la quantité, le pays de destination et les exigences de personnalisation via le formulaire de demande ou par e-mail. Notre équipe vous répondra avec les détails du produit et un devis."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Puis-je regarder des vidéos d’usine avant de passer une commande ?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Proposez-vous des vidéos de produits, notamment pour les bouteilles d'acétylène ?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Pouvez-vous montrer des vidéos de production et de contrôle qualité ?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Puis-je demander une vidéo de produit réalisée pour une commande spécifique ?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Solutions",
+        "items": [
+          {
+            "q": "Quelles solutions de bouteilles de gaz proposez-vous ?",
+            "a": "Nous proposons des solutions pour le soudage et le coupage, la distribution de gaz, le stockage industriel, la production d'acétylène, l'approvisionnement OEM et les achats à l'exportation."
+          },
+          {
+            "q": "Pouvez-vous me recommander des produits pour mon application ?",
+            "a": "Oui. Envoyez votre demande, la taille du cylindre, la quantité, le pays de destination et les accessoires requis — nous vous recommanderons des produits adaptés."
+          },
+          {
+            "q": "Fournissez-vous des accessoires avec des cylindres ?",
+            "a": "Oui. Nous pouvons fournir des régulateurs de pression, des tuyaux, des jauges, des chalumeaux coupants, des chalumeaux de soudage, des vannes et des raccords avec les bouteilles."
+          },
+          {
+            "q": "Pouvez-vous fournir des bouteilles de gaz aux acheteurs OEM ?",
+            "a": "Oui. La couleur du cylindre, le marquage, la valve, le capuchon, le logo et l'emballage peuvent être discutés en fonction de la commande."
+          }
+        ]
+      },
+      {
+        "title": "Produits",
+        "items": [
+          {
+            "q": "A quoi sert une bouteille d'acétylène dissous ?",
+            "a": "Les bouteilles d'acétylène dissous sont largement utilisées pour le soudage, le découpage, le brasage, la fabrication de métaux et l'approvisionnement en gaz industriel."
+          },
+          {
+            "q": "Quelles tailles de cylindres pouvez-vous fournir ?",
+            "a": "Différents volumes et capacités peuvent être discutés en fonction de votre marché cible, de votre application et de la quantité commandée. Pour confirmer, précisez la taille requise ou la norme locale."
+          },
+          {
+            "q": "La couleur, la valve et le marquage des bouteilles peuvent-ils être modifiés ?",
+            "a": "Oui. La couleur du cylindre, la valve, le capuchon, le marquage, l'étiquette et l'emballage d'exportation peuvent être fabriqués sur commande."
+          }
+        ]
+      },
+      {
+        "title": "Accessoires",
+        "items": [
+          {
+            "q": "Quels accessoires fournissez-vous ?",
+            "a": "Nous fournissons des pare-flammes, des manomètres, des soupapes de sécurité, des tuyaux d'oxygène, des colliers de serrage, des chalumeaux coupants, des chalumeaux de soudage, des filtres, des adaptateurs et d'autres accessoires pour bouteilles de gaz."
+          },
+          {
+            "q": "Les accessoires pour bouteilles de gaz peuvent-ils être personnalisés ?",
+            "a": "Oui. Nous pouvons personnaliser le logo, l'emballage, la taille de connexion, le type de filetage, la plage de pression et les spécifications techniques."
+          },
+          {
+            "q": "Les accessoires peuvent-ils être commandés avec des bouteilles de gaz ?",
+            "a": "Oui. Les accessoires peuvent être fournis avec des bouteilles d'acétylène, des bouteilles de propane et des générateurs d'acétylène."
+          },
+          {
+            "q": "Soutenez-vous l'emballage OEM ?",
+            "a": "Oui. Pour les commandes en gros, nous pouvons fournir le marquage OEM, les cartons, les sacs et les étiquettes de produits."
+          },
+          {
+            "q": "Pouvez-vous fournir des photos et des spécifications du produit ?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Comment puis-je obtenir un devis pour les accessoires ?",
+            "a": "Veuillez spécifier le nom du produit, la quantité, la taille de connexion, la pression de service, les exigences d'emballage et le pays ou le port de destination."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Derniers articles",
+    "subtitle": "Contenu expert pour les professionnels du soudage et de la fourniture de gaz.",
+    "readMore": "Lire la suite →",
+    "close": "Fermer",
+    "items": [
+      {
+        "tag": "Artisans",
+        "title": "Solution complète d'approvisionnement en bouteilles de propane",
+        "desc": "La stabilité de l’équipement affecte directement l’efficacité du travail de soudage et de découpage.",
+        "body": [
+          "Pour les artisans qui soudent, réparent et fabriquent du métal quotidiennement, un équipement à gaz stable affecte directement la qualité et la rapidité du travail.",
+          "Les bouteilles de propane Wanda Group sont disponibles de 3 L à 50 L avec vannes POL, CGA 510 ou GOST selon votre marché — un seul fournisseur pour le soudage, le découpage et le chauffage.",
+          "Nous vous recommandons de commander les bouteilles avec les régulateurs, les tuyaux et les torches. La fourniture groupée réduit les coûts logistiques et garantit la compatibilité des accessoires.",
+          "Lors de la commande, précisez le marché cible, le volume, le type de vanne et la couleur. Nous préparons le marquage OEM et exportons les emballages sous votre marque."
+        ]
+      },
+      {
+        "tag": "Stockage",
+        "title": "Conseils de stockage à long terme des bouteilles d’acétylène",
+        "desc": "Conditions de stockage, méthodes de placement et inspections régulières des bouteilles inutilisées.",
+        "body": [
+          "De nombreuses entreprises stockent des bouteilles d’acétylène et de propane pendant les pauses de production ou comme inventaire. Les bouteilles inutilisées nécessitent toujours une manipulation appropriée.",
+          "Stockez les bouteilles à la verticale dans un endroit bien ventilé, à l'écart des sources de chaleur et de la lumière directe du soleil. La température de stockage ne doit généralement pas dépasser 40 à 50°C.",
+          "Inspectez les vannes, les bouchons et les marquages ​​au moins une fois par trimestre. Pour le stockage à long terme de l’acétylène, gardez les bouteilles verticales et ne les laissez jamais basculer.",
+          "Wanda Group expédie des bouteilles avec des capuchons de protection et des emballages d'exportation conçus pour un transport et un entreposage en toute sécurité. Des guides de stockage sont disponibles dans votre langue sur demande."
+        ]
+      },
+      {
+        "tag": "Tarifs",
+        "title": "Guide budgétaire pour l’achat de bouteilles d’acétylène",
+        "desc": "Facteurs affectant le coût et comment choisir l'offre optimale.",
+        "body": [
+          "Le prix des bouteilles d'acétylène dépend du volume (2 L à 40 L), du type de vanne, de la certification (ISO, DOT, TPED) et de la quantité commandée. Prix ​​EXW indicatifs : WG-10 28 à 35 $, WG-25 45 à 58 $ par unité.",
+          "Les lots plus grands (200 à 500+ pièces) bénéficient de réductions significatives. La peinture OEM, le logo et l'emballage spécial ajoutent 5 à 15 % au prix de base mais augmentent la valeur pour les distributeurs.",
+          "Tenez également compte de l’expédition (FOB/CIF), des documents et du MOQ. Nous répondons dans les 24 heures avec les spécifications complètes, les délais de livraison et les Incoterms.",
+          "Pour un devis exact, indiquez le modèle, la quantité, le pays de destination et les exigences en matière de vannes dans le formulaire de contact – ou envoyez un e-mail à sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Demander un devis",
+    "subtitle": "Indiquez-nous la taille, la quantité, le pays de destination et l'application – nous préparerons un devis détaillé.",
+    "formTitle": "Demander un devis",
+    "formSubtitle": "Laissez vos exigences - notre équipe commerciale vous répondra avec des informations sur le produit, les prix, le MOQ et les délais de livraison.",
+    "name": "Nom",
+    "phone": "Téléphone/WhatsApp",
+    "email": "E-mail",
+    "product": "Produit",
+    "quantity": "Quantité",
+    "country": "Pays de destination",
+    "productOptions": [
+      "Cylindre d'acétylène",
+      "Bouteille de propane",
+      "Générateur d'acétylène",
+      "Accessoires",
+      "Commande groupée"
+    ],
+    "message": "Exigences supplémentaires",
+    "messagePlaceholder": "Produit, taille, quantité, pays de destination...",
+    "submit": "Envoyer une demande",
+    "sending": "Envoi...",
+    "success": "Merci! Nous vous contacterons sous peu.",
+    "sendAnother": "Envoyer une autre demande",
+    "errorGeneric": "Échec de l'envoi. Veuillez réessayer ou envoyez-nous un e-mail directement.",
+    "errorNoForm": "Formulaire non configuré. Veuillez envoyer un e-mail à sales@wandagroups.com",
+    "privacyPrefix": "J'accepte le",
+    "privacySuffix": "et au traitement de mes données personnelles pour traiter cette demande.",
+    "privacyLink": "politique de confidentialité",
+    "company": "Entreprise",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Envoyer via l'application de messagerie"
+  },
+  "footer": {
+    "company": "Fabricant de bouteilles de gaz du groupe Wanda",
+    "tagline": "Fabrication professionnelle de bouteilles de gaz",
+    "rights": "© 2026 Groupe Wanda. Tous droits réservés.",
+    "privacy": "politique de confidentialité"
+  },
+  "ui": {
+    "catalog": "Catalogue",
+    "catalogTitle": "Spécifications détaillées du produit",
+    "catalogSubtitle": "Données techniques complètes, modèles et paramètres pour chaque catégorie. Sélectionnez un produit pour afficher le tableau des spécifications.",
+    "requestPrice": "Demander un prix pour ce modèle",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "getExactQuote": "Obtenez un devis exact",
+    "certifications": "Certifications",
+    "order": "Commande",
+    "reviews": "Avis",
+    "contact": "Contact",
+    "phone": "Téléphone",
+    "location": "Emplacement",
+    "quoteResponse": "Réponse au devis",
+    "support": "Soutien",
+    "exportReady": "Prêt à exporter",
+    "years": "Années",
+    "acetylene": "Acétylène",
+    "isoCertified": "Certifié ISO",
+    "globalExport": "Exportation mondiale",
+    "products": "Produits",
+    "specs": "Caractéristiques",
+    "applications": "Applications",
+    "whyUs": "Pourquoi nous",
+    "about": "À propos de nous",
+    "gallery": "Galerie",
+    "quality": "Qualité",
+    "faq": "FAQ",
+    "blog": "Blogue",
+    "countriesServed": "Pays desservis",
+    "searchLanguage": "Langue de recherche...",
+    "noLanguagesFound": "Aucune langue trouvée"
+  },
+  "trustMarquee": [
+    "OIN 9809-1",
+    "POINT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Exporter vers plus de 50 pays",
+    "MOQ à partir de 100 pièces",
+    "Délai de livraison 15 à 25 jours"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acétylène",
+      "propane": "Propane",
+      "generator": "Génératrice",
+      "accessories": "Accessoires"
+    },
+    "acetylene": {
+      "title": "Bouteilles d'acétylène dissous",
+      "intro": "Cylindres en acier avec masse poreuse et solvant pour le stockage et le transport sûrs de l'acétylène. Utilisé dans le soudage, le découpage, le brasage et la fabrication de métaux.",
+      "features": [
+        "Masse poreuse + acétone pour un stockage stable",
+        "Vannes CGA 510 / GOST / DIN sur demande",
+        "Pression d'épreuve hydraulique 5,2 MPa",
+        "Peinture RAL, estampage et étiquettes OEM",
+        "Emballage de palettes d'exportation"
+      ],
+      "tableTitle": "Modèles de bouteilles d'acétylène standard",
+      "headers": [
+        "Modèle",
+        "Volume (L)",
+        "C₂H₂ (kg)",
+        "PM (MPa)",
+        "TP (MPa)",
+        "Poids (kg)",
+        "Hauteur (mm)"
+      ],
+      "rows": [
+        [
+          "GT-2",
+          "2",
+          "0,3",
+          "1,5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "GT-5",
+          "5",
+          "0,8",
+          "1,5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "GT-10",
+          "10",
+          "1,5",
+          "1,5",
+          "5.2",
+          "12,5",
+          "780"
+        ],
+        [
+          "GT-25",
+          "25",
+          "4.0",
+          "1,5",
+          "5.2",
+          "24,0",
+          "980"
+        ],
+        [
+          "GT-40",
+          "40",
+          "6.5",
+          "1,5",
+          "5.2",
+          "38,0",
+          "1250"
+        ]
+      ],
+      "note": "* Les paramètres exacts dépendent de la norme (ISO/DOT/GB) et de la configuration de la vanne. Demandez la fiche technique de votre marché."
+    },
+    "propane": {
+      "title": "Bouteilles de propane et de GPL",
+      "intro": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+      "features": [
+        "Acier 37Mn/34CrMo4 selon ISO 9809",
+        "Pression de service 1,8 à 2,1 MPa",
+        "Vannes POL, CGA 510, GOST",
+        "Revêtement en poudre, anticorrosion",
+        "Certificats pour les marchés de l'UE, des États-Unis et de la CEI"
+      ],
+      "tableTitle": "Modèles de bouteilles de propane standard",
+      "headers": [
+        "Modèle",
+        "Volume (L)",
+        "Gaz (kg)",
+        "PM (MPa)",
+        "TP (MPa)",
+        "Poids (kg)",
+        "Hauteur (mm)"
+      ],
+      "rows": [
+        [
+          "GT-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "GT-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12,5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20,0",
+          "1.8",
+          "5.2",
+          "42,0",
+          "1180"
+        ]
+      ],
+      "note": "* Le prix et le MOQ dépendent du volume de la commande et du type de vanne. Envoyez une demande pour un devis exact."
+    },
+    "generator": {
+      "title": "Générateurs d'acétylène",
+      "intro": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée.",
+      "features": [
+        "Capacité de 3 à 100 m³/h",
+        "Alimentation automatique en eau et carbure",
+        "Système de sécurité et filtration",
+        "Modèles compacts et industriels",
+        "Documentation complète et formation"
+      ],
+      "tableTitle": "Modèles de générateurs d'acétylène",
+      "headers": [
+        "Modèle",
+        "Débit (m³/h)",
+        "Carbure (kg/h)",
+        "Pression (kPa)",
+        "Puissance (kW)",
+        "Poids (kg)"
+      ],
+      "rows": [
+        [
+          "GT-G3",
+          "3",
+          "12",
+          "1,5 à 5",
+          "0,5",
+          "180"
+        ],
+        [
+          "GT-G5",
+          "5",
+          "20",
+          "1,5 à 5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1,5 à 5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1,5 à 5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1,5 à 5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Groupes électrogènes fournis avec système de refroidissement, filtres et kit de pièces détachées sur demande."
+    },
+    "accessories": {
+      "title": "Accessoires et raccords pour cylindres",
+      "intro": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres.",
+      "features": [
+        "Régulateurs et jauges (CGA/GOST/DIN)",
+        "Tuyaux haute pression",
+        "Chalumeaux coupants et brûleurs de soudage",
+        "Soupapes de surpression",
+        "Chariots, stands, casquettes"
+      ],
+      "tableTitle": "Catalogue d'accessoires",
+      "headers": [
+        "Catégorie",
+        "Modèles",
+        "Standard",
+        "Application"
+      ],
+      "rows": [
+        [
+          "Régulatrices",
+          "WG-R510, WG-R580",
+          "CGA510/580",
+          "Acétylène, propane"
+        ],
+        [
+          "Jauges",
+          "WG-G63, WG-G100",
+          "OIN 5171",
+          "Surveillance de la pression"
+        ],
+        [
+          "Tuyaux",
+          "GT-H6, GT-H9",
+          "FR 559",
+          "Soudage, découpe"
+        ],
+        [
+          "Torches",
+          "WG-C100, WG-C300",
+          "—",
+          "Découpe plasma/oxy"
+        ],
+        [
+          "Brûleuses",
+          "WG-T200, WG-T500",
+          "—",
+          "Soudage, brasage"
+        ],
+        [
+          "Vannes",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Tous types de cylindres"
+        ]
+      ],
+      "note": "* Accessoires disponibles séparément ou groupés avec des cylindres. Remise sur les commandes groupées."
+    }
+  },
+  "services": {
+    "title": "Nos prestations",
+    "subtitle": "Cycle complet : de la fabrication à la livraison à votre entrepôt. Nous travaillons avec des distributeurs, des marques OEM et des acheteurs de projets.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Fabrication sur mesure (OEM/ODM)",
+        "desc": "Cylindres avec votre marque, couleur et marquage.",
+        "points": [
+          "Logo et couleur RAL",
+          "Vanne standard du marché",
+          "Emballages et étiquettes OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Exportation & Logistique",
+        "desc": "Prise en charge complète des expéditions internationales.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Documents d'exportation",
+          "Fret maritime et ferroviaire"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Contrôle de qualité",
+        "desc": "Tests et inspections à chaque étape.",
+        "points": [
+          "Essais hydrostatiques",
+          "Inspection des soudures UT",
+          "Inspection SGS/BV sur demande"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Attestation",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, POINT, TPED",
+          "Fiche signalétique et certificat de qualité",
+          "Certificat d'origine"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Assistance technique",
+        "desc": "Aide à la sélection des produits et de la configuration.",
+        "points": [
+          "Sélection basée sur le marché",
+          "Calcul du MOQ et du délai de livraison",
+          "Formation du personnel"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Offre groupée",
+        "desc": "Cylindres + accessoires en une seule commande.",
+        "points": [
+          "Contrat unique",
+          "Livraison coordonnée",
+          "Remise groupée"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Conditions de prix et de fourniture",
+    "subtitle": "Conditions transparentes pour les achats B2B. Le prix exact est calculé individuellement — envoyez une demande, nous répondons dans les 24 heures.",
+    "note": "Les prix indiqués sont indicatifs (EXW). Le coût final dépend du volume, du type de vanne, de la certification et des conditions d'expédition.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "à partir de 100 pièces",
+        "desc": "Commande minimum par modèle"
+      },
+      {
+        "label": "Délai de mise en œuvre",
+        "value": "15 à 25 jours",
+        "desc": "Après confirmation de commande"
+      },
+      {
+        "label": "Paiement",
+        "value": "T/T 30/70",
+        "desc": "Dépôt de 30%, 70% avant expédition"
+      },
+      {
+        "label": "Garantie",
+        "value": "12 mois",
+        "desc": "Contre les défauts de fabrication"
+      }
+    ],
+    "factors": {
+      "title": "Facteurs de prix",
+      "items": [
+        "Volume et modèle du cylindre (2L – 50L)",
+        "Type de vanne (CGA, GOST, DIN, POL)",
+        "Norme de certification (ISO, DOT, TPED)",
+        "OEM : couleur, marquage, packaging",
+        "Volume de commande et Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acétylène WG-10",
+        "moq": "200 pièces",
+        "price": "28 à 35 $/pièce",
+        "lead": "18 jours"
+      },
+      {
+        "product": "Acétylène WG-25",
+        "moq": "100 pièces",
+        "price": "45 à 58 $/pièce",
+        "lead": "20 jours"
+      },
+      {
+        "product": "Propane WG-P11",
+        "moq": "500 pièces",
+        "price": "12 à 16 $/pièce",
+        "lead": "15 jours"
+      },
+      {
+        "product": "Propane WG-P50",
+        "moq": "100 pièces",
+        "price": "55 à 72 $/pièce",
+        "lead": "22 jours"
+      },
+      {
+        "product": "Générateur WG-G20",
+        "moq": "1 unité",
+        "price": "$3,500–4,200",
+        "lead": "25 jours"
+      },
+      {
+        "product": "Ensemble régulateur",
+        "moq": "50 pièces",
+        "price": "8 à 15 $/pièce",
+        "lead": "10 jours"
+      }
+    ],
+    "tableHeaders": [
+      "Produit",
+      "MOQ",
+      "Prix ​​(EXW)",
+      "Délai de mise en œuvre"
+    ]
+  },
+  "certifications": {
+    "title": "Certifications et normes",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Bouteilles à gaz en acier sans soudure — exigences techniques"
+      },
+      {
+        "name": "OIN 9809-3",
+        "desc": "Bouteilles d'acétylène dissous"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certification du marché américain"
+      },
+      {
+        "name": "TPED",
+        "desc": "Directive européenne sur les transports"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Norme chinoise sur les bouteilles de gaz"
+      },
+      {
+        "name": "Marquage CE",
+        "desc": "Exigences de conformité européennes"
+      }
+    ]
+  },
+  "process": {
+    "title": "Comment commander",
+    "subtitle": "Processus simple, de la demande de renseignements aux cylindres dans votre entrepôt.",
+    "steps": [
+      {
+        "title": "Envoyer une demande",
+        "desc": "Spécifier les exigences en matière de produit, de volume, de pays et de vanne"
+      },
+      {
+        "title": "Recevoir un devis",
+        "desc": "Prix, MOQ, délai de livraison et fiche technique dans les 24 heures"
+      },
+      {
+        "title": "Confirmer la commande",
+        "desc": "Signature du contrat et paiement d'un acompte de 30 %"
+      },
+      {
+        "title": "Production et contrôle qualité",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Expédition",
+        "desc": "Emballages, documents, livraison FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "soudage",
+        "eyebrow": "Bouteilles d'acétylène",
+        "title": "Flamme stable pour un soudage de précision",
+        "text": "Bouteilles d'acétylène dissous conçues pour le soudage et le brasage continus : pression constante, masse poreuse sûre, vannes prêtes à l'exportation.",
+        "points": [
+          "Options ISO / DOT / Go",
+          "Vannes CGA / GOST / DIN",
+          "Couleur et marquage OEM"
+        ]
+      },
+      {
+        "id": "coupe",
+        "eyebrow": "Découpe et fabrication",
+        "title": "La puissance quand le métal doit bouger",
+        "text": "Ensembles de bouteilles d'acétylène et d'oxygène à haut débit pour les chantiers navals, les ateliers et les lignes de fabrication lourde.",
+        "points": [
+          "Perçage et coupe rapides",
+          "Kits prêts pour le chalumeau",
+          "Quantité minimale de commande en vrac"
+        ]
+      },
+      {
+        "id": "propane",
+        "eyebrow": "Propane et GPL",
+        "title": "Des bouteilles de GPL durables pour tous les marchés",
+        "text": "Du gaz de chauffage et de cuisson à la découpe industrielle : des cylindres en acier conçus pour la pression, le revêtement et une longue durée de vie.",
+        "points": [
+          "Gamme 3L–50L",
+          "Vannes POL/CGA",
+          "Finition en poudre"
+        ]
+      },
+      {
+        "id": "usine",
+        "eyebrow": "Fabrication",
+        "title": "Contrôle d'usine de l'acier à l'expédition",
+        "text": "Formage, soudage, tests hydrostatiques et finition en interne — afin que chaque lot corresponde à votre dessin et aux normes du marché.",
+        "points": [
+          "Testé hydrostatique",
+          "Lots traçables",
+          "Prêt pour les OEM/ODM"
+        ]
+      },
+      {
+        "id": "qualité",
+        "eyebrow": "Qualité et sécurité",
+        "title": "Inspection que vous pouvez mettre dans le devis",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Tests de pression et d'étanchéité",
+          "Certificate package",
+          "Photos avant expédition"
+        ]
+      },
+      {
+        "id": "exporter",
+        "eyebrow": "Exportation mondiale",
+        "title": "Emballé pour les ports, prêt pour plus de 50 pays",
+        "text": "Exportez des palettes, des protections de valves, des étiquettes multilingues et des documents d'expédition coordonnés pour vos Incoterms de destination.",
+        "points": [
+          "Prise en charge FOB/CIF",
+          "Emballage palettisé",
+          "Délai 15 à 25 jours"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Bouteilles de gaz industriels prêtes en usine",
+    "about": "Stock de bouteilles prêt à l'exportation avec emballage de protection",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Bouteille d'acétylène dissous avec masse poreuse et valve en laiton",
+      "Générateur d'acétylène industriel sur un patin d'usine",
+      "Bouteilles de propane et de GPL en plusieurs tailles et couleurs",
+      "Kit d'accessoires de soudage et de coupage pour bouteilles de gaz"
+    ],
+    "gallery": [
+      "Stock de cylindres finis en usine",
+      "Soudage de production en usine",
+      "Emballage d'exportation avec filet de protection",
+      "Bouteilles d'acétylène dans des cages de sécurité",
+      "Expédition de bouteilles en vrac sur camion",
+      "Documentation d'exportation et inspection de l'emballage",
+      "Assemblage de vannes sur la ligne de production",
+      "Oxycoupage avec bouteilles d'oxygène et d'acétylène",
+      "Soudure industrielle en atelier",
+      "Soudage de tuyaux sur banc de fabrication",
+      "Fabrication lourde à l'intérieur de l'usine",
+      "Gamme de tailles de cylindres en usine"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Accessoires",
+    "title": "Accessoires du produit",
+    "subtitle": "Pièces pour bouteilles d'acétylène, générateurs, soudage et découpage. Ouvrez les détails pour les spécifications et les applications.",
+    "cta": "Demander des détails",
+    "details": "Détails",
+    "close": "Fermer",
+    "featuresLabel": "Principales caractéristiques",
+    "specsLabel": "Caractéristiques",
+    "applicationsLabel": "Applications",
+    "qualityLabel": "Qualité et approvisionnement",
+    "whyTitle": "Pourquoi choisir nos accessoires ?",
+    "why": [
+      "Laiton durable, acier inoxydable et matériaux de qualité industrielle",
+      "Compatible avec les cylindres, générateurs, régulateurs, tuyaux et systèmes de soudage",
+      "Logo OEM, emballage, taille de connexion, type de filetage et spécifications",
+      "Emballage d'exportation et approvisionnement stable pour les acheteurs internationaux"
+    ],
+    "items": [
+      {
+        "title": "Valve anti-retour en acétylène",
+        "desc": "Empêche le flux de gaz inversé et le retour de flamme dans les systèmes de soudage et de coupage oxyacétylène.",
+        "intro": "Un dispositif de sécurité essentiel pour les systèmes à acétylène. Le pare-flammes intégré en acier inoxydable fritté et la conception à flux unidirectionnel protègent les opérateurs, les tuyaux et les conduites de gaz. Compatible avec les régulateurs, tuyaux et torches. Logo OEM, étiquette et emballage disponibles.",
+        "features": [
+          "Insert en acier inoxydable fritté coupe-flamme",
+          "Conception à flux sans retour (unidirectionnel)",
+          "Corps en laiton haute résistance, résistant à la corrosion",
+          "Étanchéité fiable sous pression de service",
+          "Connexions standard pour une installation et un remplacement rapides"
+        ],
+        "specs": [
+          "Gaz : acétylène (C₂H₂) ; parafoudres à oxygène fournis séparément",
+          "Corps : laiton ; parafoudre : acier inoxydable",
+          "Raccordement : G 3/8″ LH ou filetage personnalisé",
+          "Pression de service : jusqu'à 1,5 MPa / sur mesure",
+          "Utilisation : soudage oxyacétylène, coupage et chauffage",
+          "Emballage : boîte individuelle, carton ou personnalisé"
+        ],
+        "applications": [
+          "Soudage et coupage oxyacétylène",
+          "Régulateurs, tuyaux et ensembles de torches",
+          "Conduites de gaz pour générateur d'acétylène"
+        ],
+        "quality": [
+          "Inspection à 100 % avant expédition",
+          "Tests d'étanchéité, de pression et de fonction retour de flamme",
+          "Emballage d'exportation pour livraison longue distance"
+        ]
+      },
+      {
+        "title": "Cartouche de générateur d'acétylène",
+        "desc": "Cartouche centrale pour la génération stable d'acétylène à partir de carbure de calcium dans les systèmes de gaz industriels.",
+        "intro": "La cartouche du générateur est le récipient principal d'un système de génération d'acétylène. Il est fourni pour une production de gaz stable dans les domaines du soudage, du coupage et des sites sans alimentation centralisée en bouteilles. La capacité, la tuyauterie et les garnitures de sécurité peuvent être adaptées au modèle de générateur.",
+        "features": [
+          "Conteneur de noyau pour systèmes générateurs d'acétylène",
+          "Conçu pour une génération de gaz stable à partir de carbure de calcium",
+          "Peut être associé à des soupapes de filtration et de sécurité",
+          "Dispositions de générateurs industriels et compacts",
+          "Marquage OEM, connexions et emballage sur demande"
+        ],
+        "specs": [
+          "Rôle : ensemble cartouche/conteneur de générateur",
+          "Plage de puissance typique des générateurs associés : 3–100 m³/h",
+          "Pression de service des unités associées : environ 1,5 à 5 kPa",
+          "Livré avec refroidissement, filtres et pièces détachées sur demande",
+          "Connexions, capacité et garniture confirmées par commande"
+        ],
+        "applications": [
+          "Centrales génératrices d'acétylène et unités portables",
+          "Ateliers sans alimentation centralisée en bouteilles",
+          "Production industrielle de gaz de soudage et de coupage"
+        ],
+        "quality": [
+          "Correspondance d'usine au modèle de générateur",
+          "Emballage et documentation d'exportation",
+          "Détails de capacité et de connexion confirmés avant expédition"
+        ]
+      },
+      {
+        "title": "Chalumeau coupant",
+        "desc": "Chalumeau coupeur oxyacétylène durable pour des coupes précises, une flamme stable et une productivité élevée.",
+        "intro": "Chalumeau professionnel à acétylène pour des coupes nettes et précises. Corps en laiton avec tubes en acier inoxydable, poignée ergonomique et buses remplaçables. Compatible avec l'acétylène et l'oxygène et avec les embouts standards.",
+        "features": [
+          "Construction en laiton et acier inoxydable de qualité supérieure",
+          "Flamme stable et contrôle précis de la coupe",
+          "Conception axée sur la sécurité pour réduire le risque de retour de flamme",
+          "Poignée ergonomique, facile à assembler et à entretenir",
+          "Fonctionne avec des buses, embouts et ensembles de tuyaux standards"
+        ],
+        "specs": [
+          "Modèle : torche de coupe CT-01",
+          "Gaz : acétylène + oxygène",
+          "Épaisseur de coupe : 3–300 mm (en fonction de la buse et de la pression)",
+          "Pression de service : C₂H₂ 0,02–0,15 MPa ; O₂ 0,2 à 1,0 MPa",
+          "Connecteur : G5/8-14 ou personnalisé",
+          "Longueur : env. 460 millimètres",
+          "Emballage : 1 pièce/boîte, 10 pièces/carton"
+        ],
+        "applications": [
+          "Découpe de tôles, tubes et profilés en acier au carbone",
+          "Ateliers de fabrication, chantiers navals et construction",
+          "Maintenance industrielle et découpe sur site"
+        ],
+        "quality": [
+          "Inspection à 100 % avant la livraison",
+          "Contrôles d'apparence, de connexion, d'étanchéité et de fonctionnement",
+          "Emballage d'exportation pour l'expédition longue distance"
+        ]
+      },
+      {
+        "title": "Vanne d'angle filetée interne/externe",
+        "desc": "Vanne d'angle à cylindre robuste avec options de filetage interne ou externe pour les normes du marché.",
+        "intro": "Vannes d'angle pour acétylène et autres gaz industriels : corps en laiton robuste, étanchéité précise et fonctionnement fluide du volant. Filetage interne ou externe pour correspondre aux normes des cylindres et des équipements.",
+        "features": [
+          "Corps en laiton durable, résistant à la corrosion",
+          "Usinage de haute précision pour une étanchéité fiable",
+          "Options de connexion par filetage interne ou externe",
+          "Volant ergonomique pour une ouverture/fermeture facile",
+          "Inspection à 100 % de la sécurité et du fonctionnement"
+        ],
+        "specs": [
+          "Gaz : acétylène, oxygène, argon, azote et gaz compatibles",
+          "Pression de service : classe 25 / 35 bars",
+          "Pression d'essai : classe 37,5 / 52,5 bars",
+          "Entrée/sortie : interne ou externe, sur mesure",
+          "Volant : aluminium/alliage de zinc",
+          "Température : −20 °C à +60 °C",
+          "Normes : ISO 10297, GB/T 8335, CGA ou personnalisé",
+          "Emballage : 1 pièce/sac, 50 pièces/boîte"
+        ],
+        "applications": [
+          "Bouteilles d'acétylène et de gaz industriels",
+          "Systèmes de gaz de soudage et de coupage",
+          "Approvisionnement en gaz pour ateliers, usines et laboratoires"
+        ],
+        "quality": [
+          "Contrôles de matériaux, d'usinage, d'étanchéité et d'apparence",
+          "Emballage d'exportation pour le transport longue distance",
+          "Taille de filetage et standard confirmés par marché"
+        ]
+      },
+      {
+        "title": "Collier de serrage pour tuyau d'oxygène",
+        "desc": "Collier de serrage à vis sans fin en acier inoxydable pour des connexions sécurisées et résistantes aux fuites de tuyaux d'oxygène et de tuyaux industriels.",
+        "intro": "Colliers de serrage pour tuyaux d'oxygène en acier inoxydable pour le soudage et l'usage industriel. Forte force de serrage, résistance à la rouille et bords adaptés aux tuyaux. Réutilisable et facile à installer.",
+        "features": [
+          "Acier inoxydable 201 / 304",
+          "Forte force de serrage et fixation sécurisée",
+          "Résistance à la rouille, à la corrosion et à l'oxydation",
+          "Les bords lisses de la bande aident à protéger le tuyau",
+          "Facile à installer, à retirer et à réutiliser"
+        ],
+        "specs": [
+          "Type : collier de serrage à vis sans fin",
+          "Gamme de tuyaux : 8 à 100 mm, tailles personnalisées pour le vrac",
+          "Largeur de bande : 9/12 mm ; épaisseur 0,6–0,8 mm",
+          "Vis : tête fendue ou hexagonale",
+          "Normes : DIN 3017 / SAE J1508",
+          "Finition : polie",
+          "Emballage : 100 pcs/sac, 10 sacs/carton ou personnalisé"
+        ],
+        "applications": [
+          "Tuyaux d'oxygène et de carburant pour le soudage et le découpage",
+          "Joints de cylindre, de régulateur et de tuyau de torche",
+          "Lignes d'usine, d'atelier et de maintenance"
+        ],
+        "quality": [
+          "Inspection à 100 % avant la livraison",
+          "La taille, le bracelet et l'emballage peuvent être personnalisés",
+          "Emballage de qualité à l'exportation"
+        ]
+      },
+      {
+        "title": "Tubes à oxygène",
+        "desc": "Tuyau flexible d'oxygène haute pression à longue durée de vie pour le soudage, le coupage et l'alimentation en gaz industriels.",
+        "intro": "Tubes à oxygène conçus pour un transfert de gaz sûr sous pression. Flexible, résistant aux torsions et à l'abrasion, avec une paroi intérieure lisse pour un débit stable. Plusieurs ID et longueurs pour le soudage et la connexion des cylindres.",
+        "features": [
+          "Pression de travail et d'éclatement élevée",
+          "Construction flexible et résistante aux torsions",
+          "Résistance au vieillissement, à l'ozone et à l'abrasion",
+          "Paroi intérieure lisse pour un débit de gaz stable",
+          "Léger et facile à manipuler"
+        ],
+        "specs": [
+          "Gaz : oxygène",
+          "Pression de service : 20 bars / 290 psi",
+          "Pression d'éclatement : 60 bars / 870 psi",
+          "ID : 6/8/9/10/12/13 mm (personnalisé disponible)",
+          "Longueur : 10 / 20 / 30 / 50 / 100 m ou sur mesure",
+          "Couleur : bleu standard ; matière SBR / EPDM + fil polyester",
+          "Normes : ISO 3821 / EN 559 / GB/T 20098",
+          "Température : −20 °C à +80 °C"
+        ],
+        "applications": [
+          "Alimentation en oxygène pour le soudage et le coupage",
+          "Raccordement du tuyau cylindre-détendeur",
+          "Usines, ateliers et conduites de gaz industriels"
+        ],
+        "quality": [
+          "Inspection à 100 % avant la livraison",
+          "Le diamètre, la longueur, la couleur et l'étiquette peuvent être personnalisés",
+          "Emballage d'exportation: rétractable/sac tissé/carton"
+        ]
+      },
+      {
+        "title": "Manomètre",
+        "desc": "Affichage précis de la pression pour l'oxygène, l'acétylène et autres gaz industriels.",
+        "intro": "Jauges pour acétylène, oxygène et gaz industriels : cadran clair, construction durable et lectures stables sur les bouteilles, les régulateurs et les canalisations. Multiples gammes et connexions pour OEM et export.",
+        "features": [
+          "Haute précision et performances stables",
+          "Cadran clair pour une lecture facile",
+          "Construction industrielle résistante aux chocs",
+          "Matériaux résistants à la corrosion",
+          "Plusieurs gammes et supports inférieurs/arrière"
+        ],
+        "specs": [
+          "Gaz : acétylène, oxygène, argon, CO₂, azote et gaz compatibles",
+          "Cadran : 50 / 63 / 100 mm, personnalisé disponible",
+          "Plage : 0 à 1 bar jusqu'à 0 à 400 bar, personnalisé",
+          "Précision : ±2,5 % en standard, ±1,6 % en option",
+          "Filetage : G1/4, G1/8, NPT1/4, M12×1,5 ou personnalisé",
+          "Boîtier : acier noir / inoxydable en option ; connecteur en laiton ou SS",
+          "Fenêtre : verre ou polycarbonate ; −20 °C à +60 °C",
+          "Emballage : 1 pièce/boîte, 50 pièces/carton"
+        ],
+        "applications": [
+          "Bouteilles de gaz et régulateurs de pression",
+          "Pipelines et systèmes de gaz industriels",
+          "Panneaux de soudage et de découpe oxyacétylène"
+        ],
+        "quality": [
+          "100 % de tests avant la livraison",
+          "Options de cadran et de marque OEM",
+          "Emballage d'exportation"
+        ]
+      },
+      {
+        "title": "Soupape de sécurité",
+        "desc": "Libère automatiquement l'excès de pression pour protéger les cylindres, les pipelines et les opérateurs.",
+        "intro": "Les soupapes de sécurité évacuent automatiquement la surpression pour protéger l'équipement et le personnel. Convient pour l'oxygène, l'acétylène, l'air, l'azote et les gaz compatibles. Corps en laiton compact, plusieurs pressions de réglage et tailles de filetage.",
+        "features": [
+          "Protection automatique contre la surpression",
+          "Soulagement stable sous haute pression",
+          "Corps en laiton, résistant à la chaleur et à la corrosion",
+          "Conception compacte pour une installation et un entretien faciles",
+          "Plusieurs pressions de réglage et tailles de filetage"
+        ],
+        "specs": [
+          "Gaz : oxygène, acétylène, air, azote et gaz compatibles",
+          "Pression de service : jusqu'à 25 bar / 25 kg/cm²",
+          "Plage de décharge : 0,1 à 2,5 MPa, personnalisable",
+          "Température : −20 °C à +120 °C",
+          "Connexion : mâle/femelle ; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Corps : laiton ; joint : NBR/PTFE",
+          "Classe de pression corporelle : 25 / 35 bar",
+          "Emballage : 1 pièce/boîte, 50 pièces/carton"
+        ],
+        "applications": [
+          "Protection contre les surpressions des cylindres et des collecteurs",
+          "Équipements et pipelines de gaz industriels",
+          "Systèmes de soudage et de coupage oxy-combustible"
+        ],
+        "quality": [
+          "100 % testé avant expédition",
+          "La pression réglée, le filetage et l'emballage peuvent être personnalisés",
+          "Emballage d'exportation"
+        ]
+      },
+      {
+        "title": "Torche de soudage",
+        "desc": "Torche de soudage oxy-combustible ergonomique avec contrôle de flamme en douceur pour le soudage, le brasage et le chauffage.",
+        "intro": "Torche de soudage haute performance pour les travaux à l'oxygène : flamme stable, contrôle précis et corps en laiton durable. Embouts en cuivre, buses remplaçables et raccords de tuyaux pour atelier et usage industriel.",
+        "features": [
+          "Flamme stable pour le soudage et la réparation des métaux",
+          "Débit de gaz fluide et contrôle précis de la flamme",
+          "Corps en laiton durable, résistant à la chaleur et à la corrosion",
+          "Poignée ergonomique pour une utilisation confortable",
+          "Compatible avec l'oxygène, l'acétylène et le propane en option"
+        ],
+        "specs": [
+          "Type : chalumeau de soudage oxyacétylène",
+          "Corps : laiton ; pointe : cuivre, remplaçable",
+          "Raccordement du tuyau : G1/4″ ou 9/16″-18 UNF",
+          "Pression de service : O₂ 0,2–1,0 MPa ; C₂H₂ 0,01–0,15 MPa",
+          "Température : −20 °C à +60 °C",
+          "Utilisation : soudage, brasage, chauffage ; coupe avec des conseils correspondants",
+          "Emballage : 1 pièce/boîte, 10 pièces/carton"
+        ],
+        "applications": [
+          "Soudage et réparation oxygène-acétylène",
+          "Brasage, chauffage et assemblage",
+          "Ateliers et maintenance industrielle"
+        ],
+        "quality": [
+          "Inspection à 100 % avant la livraison",
+          "Le style de la torche, le connecteur, l'emballage et le logo peuvent être OEM",
+          "Contrôles de matériaux, d'étanchéité et d'apparence"
+        ]
+      },
+      {
+        "title": "Tête de convertisseur de filtre",
+        "desc": "Connecte l'élément filtrant à un régulateur ou à un pipeline pour une filtration efficace des gaz.",
+        "intro": "La tête du convertisseur de filtre est la connexion entre l'élément filtrant et le régulateur ou la conduite de gaz. Il place l'élément, maintient la direction d'écoulement correcte et facilite l'entretien et le remplacement dans les systèmes de cylindres et de distribution.",
+        "features": [
+          "Relie l’élément filtrant au régulateur ou au pipeline",
+          "Prend en charge une filtration efficace dans la conduite de gaz",
+          "Construction industrielle en laiton/métal",
+          "Ports filetés standard pour la correspondance du système",
+          "Filetage OEM, taille et emballage sur demande"
+        ],
+        "specs": [
+          "Rôle : convertisseur de filtre/tête d'adaptateur",
+          "Utilisation : ensembles de régulateurs, de pipelines et de filtres cylindriques",
+          "Taille de connexion et filetage confirmés par commande",
+          "Assorti aux éléments filtrants et aux bols en tant qu'ensemble si nécessaire"
+        ],
+        "applications": [
+          "Distribution de gaz avant régulateurs et outillages",
+          "Ensembles de filtres pour cylindres et générateurs",
+          "Conduites de gaz d'atelier et industrielles"
+        ],
+        "quality": [
+          "Taille de connexion confirmée avant la production",
+          "Emballage d'exportation",
+          "Peut être fourni avec des éléments filtrants correspondants"
+        ]
+      },
+      {
+        "title": "Filtre",
+        "desc": "Filtre à haute efficacité qui élimine l'humidité, l'huile et les particules pour protéger les équipements en aval.",
+        "intro": "Élimine les particules solides, l'eau, l'huile et autres impuretés du flux de gaz pour protéger l'équipement et prolonger la durée de vie. Tête en laiton, élément de qualité et fonctionnement stable sous pression. Pour l'oxygène, l'acétylène, l'air, l'azote et les gaz compatibles.",
+        "features": [
+          "Filtration à haute efficacité pour un flux de gaz propre",
+          "Élimine l'humidité, l'huile et les particules",
+          "Tête en laiton durable et bol en métal",
+          "Élément détachable pour le nettoyage ou le remplacement",
+          "Fonctionnement stable sous pression de service"
+        ],
+        "specs": [
+          "Gaz : oxygène, acétylène, air, azote et gaz compatibles",
+          "Pression d'entrée : jusqu'à 2,5 MPa",
+          "Pression de service : 0,01 à 1,6 MPa",
+          "Précision : 5 / 20 / 50 μm en option",
+          "Connexion : G1/4″, G3/8″, G1/2″, G3/4″ en option",
+          "Corps : laiton ; élément : bronze fritté / acier inoxydable",
+          "Température : −20 °C à +60 °C",
+          "Emballage : 1 pièce/boîte, 20 pièces/carton"
+        ],
+        "applications": [
+          "Systèmes de bouteilles, de régulateurs et de distribution",
+          "Usines, ateliers et conduites de gaz industriels",
+          "Flux plus propre pour le soudage, le coupage et l’approvisionnement des laboratoires"
+        ],
+        "quality": [
+          "Inspection à 100 % avant la livraison",
+          "Le fil, la précision et l'élément peuvent être personnalisés",
+          "Emballage d'exportation"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Légale",
+    "title": "politique de confidentialité",
+    "updated": "Dernière mise à jour : 25 août 2026",
+    "intro": [
+      "Wanda Group (« nous », « notre ») exploite ce site Web pour présenter les bouteilles de gaz, les accessoires et les fournitures d'exportation associées, et pour recevoir des demandes commerciales d'acheteurs industriels.",
+      "Cette politique explique quelles données personnelles nous collectons via le site, pourquoi nous les utilisons et comment vous pouvez nous contacter à ce sujet. Nous ne publions pas de vidéos d'usine ni de fichiers de certificat sur le site Web ; ces documents sont envoyés en privé sur demande."
+    ],
+    "sections": [
+      {
+        "title": "Qui est responsable",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Quelles données nous collectons",
+        "body": [
+          "Lorsque vous envoyez le formulaire de demande, nous recevons les données que vous saisissez : nom, email, téléphone, pays de destination, type de produit, quantité et message.",
+          "Le site stocke également votre choix de langue dans le navigateur (localStorage). Nous n'utilisons pas de cookies publicitaires et ne vendons pas de listes de visiteurs."
+        ]
+      },
+      {
+        "title": "Pourquoi nous utilisons les données",
+        "body": [
+          "Nous utilisons les données de demande uniquement pour répondre à votre demande, préparer un devis, envoyer des informations sur les produits, des vidéos ou des certificats que vous avez demandés et pour coordonner une commande si nous commençons à travailler ensemble.",
+          "Base juridique : votre consentement lorsque vous cochez la case du formulaire, et notre intérêt légitime à répondre aux demandes de vente B2B."
+        ]
+      },
+      {
+        "title": "Qui reçoit les données",
+        "body": [
+          "Votre message est transmis à notre équipe commerciale par email. Selon la configuration, le formulaire peut être traité par Web3Forms en tant que prestataire technique qui nous transmet le message.",
+          "Nous ne vendons pas de données personnelles. Nous pouvons partager ce qui est nécessaire avec des partenaires logistiques, d'inspection ou bancaires uniquement si cela est nécessaire pour exécuter une commande convenue."
+        ]
+      },
+      {
+        "title": "Combien de temps on le garde",
+        "body": [
+          "Les données de la demande sont conservées aussi longtemps que nécessaire au traitement de la demande et pendant une durée raisonnable ensuite pour le suivi des ventes et la comptabilité, sauf si vous nous demandez de les supprimer plus tôt lorsque la loi le permet."
+        ]
+      },
+      {
+        "title": "Vos droits",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Sécurité et enfants",
+        "body": [
+          "Nous prenons des mesures techniques et organisationnelles raisonnables pour protéger les messages en transit et dans notre boîte aux lettres. Ce site Web est destiné aux acheteurs professionnels et non aux enfants."
+        ]
+      }
+    ],
+    "contactLead": "Questions sur cette politique :"
+  }
+}

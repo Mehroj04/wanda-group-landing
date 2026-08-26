@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Bidhaa",
+    "specs": "Vipimo",
+    "applications": "Matumizi",
+    "about": "Kuhusu",
+    "gallery": "Matunzio",
+    "quality": "Ubora",
+    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
+    "contact": "Wasiliana",
+    "getQuote": "Pata Nukuu",
+    "inquire": "Uliza →",
+    "services": "Huduma",
+    "pricing": "Bei",
+    "accessories": "Vifaa",
+    "home": "Nyumbani",
+    "factory": "Kiwanda"
+  },
+  "hero": {
+    "badge": "Mtengenezaji wa Silinda za Gesi",
+    "title": "Silinda za Gesi Zinazoaminika kwa Viwanda na Kulehemu",
+    "subtitle": "Wanda Group ni mtengenezaji na msambazaji anayeaminika wa silinda za asetilini, propani na vifaa vya ziada. Suluhisho kwa usambazaji wa gesi, kulehemu, kukata na kuhifadhi duniani kote.",
+    "cta": "Pata Nukuu",
+    "ctaSecondary": "Bidhaa Zetu",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Miaka ya Uzoefu"
+      },
+      {
+        "value": "500K+",
+        "label": "Uwezo wa Uzalishaji / Mwaka"
+      },
+      {
+        "value": "50+",
+        "label": "Masoko ya kuuza nje"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Ubora na Udhibitisho"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Vifaa vya Kuaminika vya Silinda ya Gesi",
+    "text": "Vipimo, vali, hosi, tochi na vifaa vya usalama - toa pamoja na mitungi au kama mpangilio tofauti.",
+    "cta": "Tazama vifaa"
+  },
+  "products": {
+    "title": "Bidhaa Zetu",
+    "subtitle": "Silinda za asetilini, jenereta, silinda za propani na vifaa vya ziada kwa matumizi ya viwanda na kulehemu.",
+    "items": [
+      {
+        "title": "Silinda ya Asetilini",
+        "desc": "Silinda za asetilini iliyoyeyushwa kwa kulehemu, kukata na gesi za viwanda. Ukubwa mbalimbali na chaguo za valvu.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Jenereta ya Asetilini",
+        "desc": "Vifaa kwa uzalishaji thabiti wa gesi, uendeshaji rahisi na matumizi ya viwanda.",
+        "icon": "⚙️",
+        "spec": "Mifumo ya uzalishaji wa viwanda"
+      },
+      {
+        "title": "Silinda ya Propani",
+        "desc": "Silinda imara kwa propani na LPG — kuhifadhi, kupasha joto, kukata na matumizi ya viwanda.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Vifaa vya Ziada vya Silinda",
+        "desc": "Mirija, vipimo, tochi za kukata, burna za kulehemu, valvu za usalama na zaidi.",
+        "icon": "🔧",
+        "spec": "Vali · vidhibiti · hosi · tochi"
+      }
+    ],
+    "viewDetails": "Tazama Maelezo"
+  },
+  "specs": {
+    "title": "Vipimo vya Kiufundi",
+    "subtitle": "Chunguza chaguo za silinda, uwezo wa kubinafsisha na maelezo ya usafirishaji kabla ya kutuma ombi.",
+    "items": [
+      {
+        "title": "Uwezo wa Silinda",
+        "desc": "Chaguo mbalimbali za uwezo na kiasi kulingana na matumizi na mahitaji ya soko."
+      },
+      {
+        "title": "Valvu na Kofia",
+        "desc": "Valvu, kofia na viunganishi hutolewa kulingana na mahitaji ya mteja na mradi."
+      },
+      {
+        "title": "Chaguo za Kutengenezea",
+        "desc": "Mfumo wa kujaza wenye vinyweleo na vimumunyisho kwa uhifadhi thabiti wa asetilini."
+      },
+      {
+        "title": "Ufungashaji na Usafirishaji",
+        "desc": "Ufungashaji wa mauzo ya nje na msaada wa usafirishaji kwa wasambazaji na wateja wa miradi."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Matumizi ya Silinda",
+    "subtitle": "Bidhaa zilizoundwa kwa kazi za kawaida za gesi za viwanda na mahitaji ya wanunuzi wa nje.",
+    "items": [
+      "Kulehemu na Kubrazi",
+      "Kukata Metali",
+      "Usambazaji wa Gesi za Viwanda",
+      "Ujenzi",
+      "Utengenezaji wa Metali",
+      "Uhifadhi na Usambazaji wa Gesi"
+    ]
+  },
+  "whyUs": {
+    "title": "Kwa Nini Wanda Group?",
+    "subtitle": "Utengenezaji wa moja kwa moja, ubinafsishaji na msaada kamili wa mauzo ya nje — kila kitu kwa biashara yako.",
+    "items": [
+      {
+        "title": "Ubora wa Juu",
+        "desc": "Mitungi ya chuma iliyojengwa kwa ajili ya kulehemu viwanda na usambazaji wa gesi."
+      },
+      {
+        "title": "Udhibiti Mkali wa Ubora",
+        "desc": "Ukaguzi kutoka kwa nyenzo zinazoingia hadi ufungaji wa mwisho."
+      },
+      {
+        "title": "Utengenezaji wa hali ya juu",
+        "desc": "Kuunda, kulehemu, kupima na kumaliza katika mmea mmoja."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Rangi, vali, kuashiria, kofia na kufunga ili kuagiza."
+      },
+      {
+        "title": "Usafirishaji wa Kimataifa",
+        "desc": "Nyaraka na ufungashaji kwa wanunuzi wa viwanda vya ng'ambo."
+      },
+      {
+        "title": "Uwasilishaji wa Kuaminika",
+        "desc": "Muda wa kawaida wa kuongoza siku 15-25 baada ya uthibitisho wa agizo."
+      }
+    ]
+  },
+  "about": {
+    "title": "Mtengenezaji Mtaalamu wa Silinda za Gesi",
+    "text": "Wanda Group Gas Cylinder Manufacturer inabobea katika kutengeneza na kusambaza silinda za gesi za viwanda na vifaa vinavyohusiana. Bidhaa zetu hutumika sana katika kulehemu, kukata, usambazaji wa gesi, uhifadhi wa viwanda na nyanja nyingine za usambazaji wa gesi.",
+    "text2": "Tunasaidia wanunuzi wa nje katika uteuzi wa bidhaa, ubinafsishaji, ukaguzi wa ubora, ufungashaji na uratibu wa usafirishaji.",
+    "facts": [
+      {
+        "title": "Uzoefu",
+        "desc": "Miaka 15+ kusambaza mitungi ya gesi ya viwandani."
+      },
+      {
+        "title": "Uzalishaji",
+        "desc": "Kuunda ndani ya nyumba, kulehemu, kupima na kumaliza."
+      },
+      {
+        "title": "Ubora",
+        "desc": "ISO 9809, chaguo za DOT na TPED kulingana na soko."
+      },
+      {
+        "title": "Hamisha",
+        "desc": "Usafirishaji umeratibiwa kwa masoko 50+ lengwa."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Ndani ya Kiwanda Chetu",
+    "subtitle": "Uzalishaji, kulehemu, kupima, kupaka rangi na mitungi iliyokamilishwa - jinsi tunavyotayarisha maagizo ya kuuza nje.",
+    "items": [
+      {
+        "title": "Imemaliza hisa ya silinda",
+        "desc": "Orodha iliyo tayari katika kiwanda chetu - uwezo wa kiasi kwa maagizo ya jumla na ya kuuza nje."
+      },
+      {
+        "title": "Ulehemu wa uzalishaji",
+        "desc": "Utengenezaji wa chuma kwenye sakafu ya kiwanda na usambazaji wa gesi ya viwandani."
+      },
+      {
+        "title": "Ufungaji wa kuuza nje",
+        "desc": "Ufungaji wa matundu ya kinga na godoro kabla ya usafirishaji wa kimataifa."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Usafirishaji wa silinda nyingi",
+        "desc": "Salama mizigo ya ngome kwa usafiri wa barabara kwa wasambazaji na mimea."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Saizi ya silinda",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Udhibiti wa Ubora",
+    "subtitle": "Kila kundi hufuata njia sawa: uzalishaji, majaribio, ukaguzi na udhibiti wa ubora wa mwisho.",
+    "steps": [
+      {
+        "title": "Uzalishaji",
+        "desc": "Kuunda, kulehemu na kukusanyika chini ya udhibiti wa mchakato wa mmea."
+      },
+      {
+        "title": "Kupima",
+        "desc": "Vipimo vya shinikizo na uvujaji kabla ya mitungi kuondoka kwenye mstari."
+      },
+      {
+        "title": "Ukaguzi",
+        "desc": "Visual, kuashiria na dimensional hundi dhidi ya utaratibu."
+      },
+      {
+        "title": "Udhibiti wa Ubora wa Mwisho",
+        "desc": "Ukaguzi wa kufunga kabla ya usafirishaji wa nje."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Maswali Yanayoulizwa Mara Kwa Mara",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Hujapata swali lako? Tuma bidhaa, saizi, idadi na nchi unakoenda - tutajibu kwa toleo la kina.",
+    "ctaBtn": "Pata Nukuu",
+    "groups": [
+      {
+        "title": "Kampuni",
+        "items": [
+          {
+            "q": "Je, wewe ni mtengenezaji wa mitungi ya gesi?",
+            "a": "Ndiyo. Kikundi cha Wanda kinataalam katika utengenezaji wa mitungi ya gesi na suluhu zinazohusiana za usambazaji wa gesi ya viwandani kwa wanunuzi wa viwandani wa ng'ambo."
+          },
+          {
+            "q": "Je, unasambaza bidhaa gani hasa?",
+            "a": "Tunasambaza mitungi ya asetilini, mitungi ya propani, jenereta za asetilini na vifaa vya silinda ya gesi kama vile vali, vidhibiti, hosi, vipimo vya shinikizo na tochi."
+          },
+          {
+            "q": "Je, unaweza kuunga mkono ubinafsishaji wa OEM?",
+            "a": "Ndiyo. Rangi ya silinda, kuashiria, valve, kofia na chaguzi za kufunga zinaweza kujadiliwa kulingana na utaratibu na soko la lengo."
+          },
+          {
+            "q": "Je, unasaidia wanunuzi wa ng'ambo?",
+            "a": "Ndiyo. Tunaunga mkono usafirishaji, uteuzi wa bidhaa, mahitaji ya upakiaji, uhifadhi wa nyaraka na uratibu wa usafirishaji."
+          },
+          {
+            "q": "Ninawezaje kupata nukuu?",
+            "a": "Tafadhali taja aina ya bidhaa, saizi ya silinda, wingi, nchi lengwa na mahitaji ya ubinafsishaji kupitia fomu ya uchunguzi au kwa barua pepe. Timu yetu itajibu kwa maelezo ya bidhaa na nukuu."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Je, ninaweza kutazama video za kiwandani kabla ya kuagiza?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Je, unatoa video za bidhaa, hasa kwa mitungi ya asetilini?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Je, unaweza kuonyesha video za uzalishaji na udhibiti wa ubora?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Je, ninaweza kuomba video ya bidhaa iliyoundwa kwa agizo mahususi?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Ufumbuzi",
+        "items": [
+          {
+            "q": "Je, unatoa suluhu gani za silinda za gesi?",
+            "a": "Tunatoa suluhisho za kulehemu na kukata, usambazaji wa gesi, uhifadhi wa viwandani, kizazi cha asetilini, usambazaji wa OEM na ununuzi wa kuuza nje."
+          },
+          {
+            "q": "Je, unaweza kupendekeza bidhaa kwa ajili ya maombi yangu?",
+            "a": "Ndiyo. Tuma programu yako, saizi ya silinda, idadi, nchi unakoenda na vifaa vinavyohitajika - tutapendekeza bidhaa zinazofaa."
+          },
+          {
+            "q": "Je, unasambaza vifaa pamoja na mitungi?",
+            "a": "Ndiyo. Tunaweza kusambaza vidhibiti shinikizo, hoses, geji, tochi za kukata, tochi za kulehemu, vali na vifaa vya kuweka pamoja na mitungi."
+          },
+          {
+            "q": "Je, unaweza kusambaza mitungi ya gesi kwa wanunuzi wa OEM?",
+            "a": "Ndiyo. Rangi ya silinda, kuashiria, valve, kofia, nembo na kufunga inaweza kujadiliwa kulingana na utaratibu."
+          }
+        ]
+      },
+      {
+        "title": "Bidhaa",
+        "items": [
+          {
+            "q": "Je, silinda ya asetilini iliyoyeyushwa inatumika kwa nini?",
+            "a": "Mitungi ya acetylene iliyoyeyushwa hutumiwa sana kwa kulehemu, kukata, kuimarisha, kutengeneza chuma na usambazaji wa gesi ya viwanda."
+          },
+          {
+            "q": "Je, unaweza kutoa saizi gani za silinda?",
+            "a": "Kiasi na uwezo mbalimbali unaweza kujadiliwa kulingana na soko unalolenga, maombi na wingi wa agizo. Ili kuthibitisha, taja ukubwa unaohitajika au kiwango cha ndani."
+          },
+          {
+            "q": "Je, rangi ya silinda, vali na alama zinaweza kubadilishwa?",
+            "a": "Ndiyo. Rangi ya silinda, vali, kofia, kuweka alama, lebo na upakiaji wa kuuza nje inaweza kufanywa ili kuagiza."
+          }
+        ]
+      },
+      {
+        "title": "Vifaa",
+        "items": [
+          {
+            "q": "Je, unatoa vifaa gani?",
+            "a": "Tunatoa viambatanisho vya flashback, vipimo vya shinikizo, vali za usalama, mabomba ya oksijeni, vifungo vya hose, tochi za kukata, tochi za kulehemu, vichungi, adapta na vifaa vingine vya silinda ya gesi."
+          },
+          {
+            "q": "Je! vifaa vya silinda ya gesi vinaweza kubinafsishwa?",
+            "a": "Ndiyo. Tunaweza kubinafsisha nembo, upakiaji, saizi ya muunganisho, aina ya uzi, masafa ya shinikizo na vipimo vya kiufundi."
+          },
+          {
+            "q": "Je, vifaa vinaweza kuagizwa pamoja na mitungi ya gesi?",
+            "a": "Ndiyo. Vifaa vinaweza kutolewa pamoja na mitungi ya asetilini, silinda za propane na jenereta za acetylene."
+          },
+          {
+            "q": "Je, unaunga mkono upakiaji wa OEM?",
+            "a": "Ndiyo. Kwa maagizo ya jumla tunaweza kutoa alama za OEM, katoni, mifuko na lebo za bidhaa."
+          },
+          {
+            "q": "Je, unaweza kutoa picha za bidhaa na vipimo?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Ninawezaje kupata nukuu ya vifaa?",
+            "a": "Tafadhali taja jina la bidhaa, wingi, saizi ya muunganisho, shinikizo la kufanya kazi, mahitaji ya upakiaji na nchi au bandari unakoenda."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Makala za Hivi Karibuni",
+    "subtitle": "Maudhui ya kitaalamu kwa wataalamu wa kulehemu na usambazaji wa gesi.",
+    "readMore": "Soma zaidi →",
+    "close": "Funga",
+    "items": [
+      {
+        "tag": "Mafundi",
+        "title": "Suluhisho Kamili la Usambazaji wa Silinda za Propani",
+        "desc": "Uthabiti wa vifaa huathiri moja kwa moja ufanisi wa kazi za kulehemu na kukata.",
+        "body": [
+          "Kwa mafundi wanaolehemu, kutengeneza na kutengeneza metali kila siku, vifaa thabiti vya gesi huathiri moja kwa moja ubora na kasi ya kazi.",
+          "Silinda za propani za Wanda Group zinapatikana kutoka 3L hadi 50L zenye valvu za POL, CGA 510 au GOST kulingana na soko lako — msambazaji mmoja kwa kulehemu, kukata na kupasha joto.",
+          "Tunapendekeza kuagiza silinda pamoja na vidhibiti, mirija na tochi. Usambazaji wa pakiti hupunguza gharama za usafirishaji na kuhakikisha uoanifu wa vifaa vya ziada.",
+          "Unapoagiza, bainisha soko lengwa, ujazo, aina ya valvu na rangi — tunaandaa alama za OEM na ufungashaji wa mauzo ya nje chini ya chapa yako."
+        ]
+      },
+      {
+        "tag": "Uhifadhi",
+        "title": "Vidokezo vya Uhifadhi wa Muda Mrefu wa Silinda za Asetilini",
+        "desc": "Hali za uhifadhi, mbinu za kuweka na ukaguzi wa mara kwa mara kwa silinda zisizotumika.",
+        "body": [
+          "Kampuni nyingi huhifadhi silinda za asetilini na propani wakati wa mapumziko ya uzalishaji au kama hesabu. Silinda zisizotumika bado zinahitaji usimamizi sahihi.",
+          "Hifadhi silinda wima katika eneo lenye uingizaji hewa mzuri mbali na vyanzo vya joto na mwanga wa jua wa moja kwa moja. Joto la uhifadhi kwa kawaida halipaswi kuzidi 40–50°C.",
+          "Kagua valvu, kofia na alama angalau kila robo mwaka. Kwa uhifadhi wa muda mrefu wa asetilini, weka silinda wima na usiruhusu kupinda.",
+          "Wanda Group husafirisha silinda zenye kofia za kinga na ufungashaji wa mauzo ya nje uliobuniwa kwa usafirishaji na uhifadhi salama. Mwongozo wa uhifadhi unapatikana kwa lugha yako kwa ombi."
+        ]
+      },
+      {
+        "tag": "Bei",
+        "title": "Mwongozo wa Bajeti kwa Ununuzi wa Silinda za Asetilini",
+        "desc": "Mambo yanayoathiri gharama na jinsi ya kuchagua ofa bora.",
+        "body": [
+          "Bei ya silinda ya asetilini inategemea ujazo (2L–40L), aina ya valvu, vyeti (ISO, DOT, TPED) na kiasi cha oda. Bei za dalili za EXW: WG-10 $28–35, WG-25 $45–58 kwa kipande.",
+          "Oda kubwa (200–500+ pcs) hupata punguzo muhimu. Kupaka rangi kwa OEM, nembo na ufungashaji maalum huongeza 5–15% kwa bei ya msingi lakini huongeza thamani kwa wasambazaji.",
+          "Pia zingatia usafirishaji (FOB/CIF), nyaraka na MOQ. Tunajibu ndani ya saa 24 kwa vipimo kamili, muda wa utoaji na Incoterms.",
+          "Kwa nukuu sahihi, jumuisha modeli, kiasi, nchi ya marudio na mahitaji ya valvu katika fomu ya mawasiliano — au tuma barua pepe sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Omba Nukuu",
+    "subtitle": "Tuambie ukubwa, kiasi, nchi ya marudio na matumizi — tutaandaa nukuu yenye maelezo.",
+    "formTitle": "Omba Nukuu",
+    "formSubtitle": "Acha mahitaji yako — timu yetu ya mauzo itajibu kwa taarifa za bidhaa, bei, MOQ na muda wa utoaji.",
+    "name": "Jina",
+    "phone": "Simu / WhatsApp",
+    "email": "Barua pepe",
+    "product": "Bidhaa",
+    "quantity": "Kiasi",
+    "country": "Nchi ya Marudio",
+    "productOptions": [
+      "Silinda ya Asetilini",
+      "Silinda ya Propani",
+      "Jenereta ya Asetilini",
+      "Vifaa vya Ziada",
+      "Oda ya Pakiti"
+    ],
+    "message": "Mahitaji ya Ziada",
+    "messagePlaceholder": "Bidhaa, ukubwa, kiasi, nchi ya marudio...",
+    "submit": "Tuma Uchunguzi",
+    "sending": "Inatuma...",
+    "success": "Asante! Tutawasiliana nawe hivi karibuni.",
+    "sendAnother": "Tuma ombi lingine",
+    "errorGeneric": "Imeshindwa kutuma. Tafadhali jaribu tena au tutumie barua pepe moja kwa moja.",
+    "errorNoForm": "Fomu haijasanidiwa. Tafadhali tuma barua pepe sales@wandagroups.com",
+    "privacyPrefix": "Nakubaliana na",
+    "privacySuffix": "na kwa usindikaji wa data yangu ya kibinafsi kushughulikia uchunguzi huu.",
+    "privacyLink": "Sera ya Faragha",
+    "company": "Kampuni",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Tuma kupitia programu ya barua pepe"
+  },
+  "footer": {
+    "company": "Mtengenezaji wa Silinda ya Gesi ya Wanda Group",
+    "tagline": "Utengenezaji wa Kitaalamu wa Silinda za Gesi",
+    "rights": "© 2026 Wanda Group. Haki zote zimehifadhiwa.",
+    "privacy": "Sera ya Faragha"
+  },
+  "ui": {
+    "catalog": "Katalogi",
+    "catalogTitle": "Vipimo vya Kina vya Bidhaa",
+    "catalogSubtitle": "Data kamili ya kiufundi, modeli na vigezo kwa kila kategoria. Chagua bidhaa kuona jedwali la vipimo.",
+    "requestPrice": "Omba Bei ya Modeli Hii",
+    "services": "Huduma",
+    "pricing": "Bei",
+    "getExactQuote": "Pata Nukuu Sahihi",
+    "certifications": "Vyeti",
+    "order": "Agiza",
+    "reviews": "Maoni",
+    "contact": "Wasiliana",
+    "phone": "Simu",
+    "location": "Mahali",
+    "quoteResponse": "Majibu ya nukuu",
+    "support": "Msaada",
+    "exportReady": "Tayari kwa mauzo ya nje",
+    "years": "Miaka",
+    "acetylene": "Asetilini",
+    "isoCertified": "Imethibitishwa na ISO",
+    "globalExport": "Mauzo ya Nje Duniani",
+    "products": "Bidhaa",
+    "specs": "Vipimo",
+    "applications": "Maombi",
+    "whyUs": "Kwanini Sisi",
+    "about": "Kuhusu Sisi",
+    "gallery": "Matunzio",
+    "quality": "Ubora",
+    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
+    "blog": "Blogu",
+    "countriesServed": "Nchi zinazohudumiwa",
+    "searchLanguage": "Tafuta lugha...",
+    "noLanguagesFound": "Hakuna lugha zilizopatikana"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Hamisha kwa Nchi 50+",
+    "MOQ kutoka pcs 100",
+    "Muda wa Kuongoza Siku 15-25"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Asetilini",
+      "propane": "Propani",
+      "generator": "Jenereta",
+      "accessories": "Vifaa"
+    },
+    "acetylene": {
+      "title": "Mitungi ya Asetilini iliyoyeyushwa",
+      "intro": "Mitungi ya chuma yenye wingi wa vinyweleo na kutengenezea kwa ajili ya uhifadhi na usafiri wa asetilini salama. Kutumika katika kulehemu, kukata, kutengeneza shaba na kutengeneza chuma.",
+      "features": [
+        "Misa ya porous + asetoni kwa hifadhi imara",
+        "Vali za CGA 510 / GOST / DIN kwa ombi",
+        "Shinikizo la mtihani wa majimaji 5.2 MPa",
+        "Uchoraji wa RAL, kukanyaga & lebo za OEM",
+        "Hamisha ufungaji wa godoro"
+      ],
+      "tableTitle": "Mifano ya Silinda ya Asetilini ya Kawaida",
+      "headers": [
+        "Mfano",
+        "Kiasi (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Uzito (kg)",
+        "Urefu (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Vigezo halisi hutegemea kiwango (ISO/DOT/GB) na usanidi wa valve. Omba karatasi maalum kwa soko lako."
+    },
+    "propane": {
+      "title": "Propani & Silinda za LPG",
+      "intro": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+      "features": [
+        "37Mn/34CrMo4 chuma kwa ISO 9809",
+        "Shinikizo la kufanya kazi 1.8-2.1 MPa",
+        "POL, CGA 510, vali za GOST",
+        "Mipako ya poda, kupambana na kutu",
+        "Vyeti vya masoko ya EU, US, CIS"
+      ],
+      "tableTitle": "Mifano ya Kawaida ya Silinda ya Propane",
+      "headers": [
+        "Mfano",
+        "Kiasi (L)",
+        "Gesi (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Uzito (kg)",
+        "Urefu (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Bei na MOQ hutegemea kiasi cha agizo na aina ya valves. Tuma swali kwa nukuu halisi."
+    },
+    "generator": {
+      "title": "Jenereta za asetilini",
+      "intro": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati.",
+      "features": [
+        "Uwezo wa kutoa 3–100 m³/h",
+        "Maji otomatiki na malisho ya kaboni",
+        "Mfumo wa usalama na uchujaji",
+        "Mifano ya kompakt na viwanda",
+        "Nyaraka kamili na mafunzo"
+      ],
+      "tableTitle": "Mifano ya Jenereta ya Acetylene",
+      "headers": [
+        "Mfano",
+        "Pato (m³/h)",
+        "Carbide (kg/h)",
+        "Shinikizo (kPa)",
+        "Nguvu (kW)",
+        "Uzito (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Jenereta zinazotolewa na mfumo wa kupoeza, vichungi na vifaa vya vipuri kwa ombi."
+    },
+    "accessories": {
+      "title": "Vifaa vya Silinda na Viambatisho",
+      "intro": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi.",
+      "features": [
+        "Vidhibiti na vipimo (CGA/GOST/DIN)",
+        "Hoses ya shinikizo la juu",
+        "Kukata mienge & vichomaji vya kulehemu",
+        "Valve za kupunguza shinikizo",
+        "Trolleys, anasimama, kofia"
+      ],
+      "tableTitle": "Katalogi ya Vifaa",
+      "headers": [
+        "Kategoria",
+        "Mifano",
+        "Kawaida",
+        "Maombi"
+      ],
+      "rows": [
+        [
+          "Vidhibiti",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylene, propane"
+        ],
+        [
+          "Vipimo",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Ufuatiliaji wa shinikizo"
+        ],
+        [
+          "Hoses",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Kulehemu, kukata"
+        ],
+        [
+          "Mwenge",
+          "WG-C100, WG-C300",
+          "—",
+          "Kukata Plasma/oksidi"
+        ],
+        [
+          "Vichomaji moto",
+          "WG-T200, WG-T500",
+          "—",
+          "Kulehemu, kuimarisha"
+        ],
+        [
+          "Vali",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Aina zote za silinda"
+        ]
+      ],
+      "note": "* Vifaa vinapatikana kando au vimefungwa na silinda. Punguzo kwa maagizo ya pamoja."
+    }
+  },
+  "services": {
+    "title": "Huduma zetu",
+    "subtitle": "Mzunguko kamili - kutoka kwa utengenezaji hadi uwasilishaji kwenye ghala lako. Tunafanya kazi na wasambazaji, chapa za OEM na wanunuzi wa mradi.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Utengenezaji Maalum (OEM/ODM)",
+        "desc": "Silinda zenye chapa yako, rangi na alama.",
+        "points": [
+          "Nembo na rangi ya RAL",
+          "Valve ya kiwango cha soko",
+          "Ufungaji na lebo za OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Hamisha na Usafirishaji",
+        "desc": "Msaada kamili wa usafirishaji wa kimataifa.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Hamisha nyaraka",
+          "Usafirishaji wa baharini na reli"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Udhibiti wa Ubora",
+        "desc": "Upimaji na ukaguzi katika kila hatua.",
+        "points": [
+          "Vipimo vya Hydrostatic",
+          "ukaguzi wa weld wa UT",
+          "Ukaguzi wa SGS/BV kwa ombi"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Uthibitisho",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS & cheti cha ubora",
+          "Cheti cha asili"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Msaada wa Kiufundi",
+        "desc": "Saidia kuchagua bidhaa na usanidi.",
+        "points": [
+          "Uchaguzi kulingana na soko",
+          "MOQ & hesabu ya muda wa kuongoza",
+          "Mafunzo ya wafanyakazi"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Ugavi wa Bundle",
+        "desc": "Silinda + vifaa kwa utaratibu mmoja.",
+        "points": [
+          "Mkataba mmoja",
+          "Utoaji ulioratibiwa",
+          "Punguzo la kifungu"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Masharti ya Bei na Ugavi",
+    "subtitle": "Masharti ya uwazi ya ununuzi wa B2B. Bei huhesabiwa kila mmoja - tuma swali, tunajibu ndani ya saa 24.",
+    "note": "Bei zilizoonyeshwa ni elekezi (EXW). Gharama ya mwisho inategemea kiasi, aina ya valves, udhibitisho na masharti ya usafirishaji.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "kutoka pcs 100",
+        "desc": "Agizo la chini kwa kila modeli"
+      },
+      {
+        "label": "Muda wa Kuongoza",
+        "value": "Siku 15-25",
+        "desc": "Baada ya uthibitisho wa agizo"
+      },
+      {
+        "label": "Malipo",
+        "value": "T/T 30/70",
+        "desc": "30% amana, 70% kabla ya usafirishaji"
+      },
+      {
+        "label": "Udhamini",
+        "value": "Miezi 12",
+        "desc": "Dhidi ya kasoro za utengenezaji"
+      }
+    ],
+    "factors": {
+      "title": "Mambo ya Bei",
+      "items": [
+        "Kiasi cha silinda na muundo (2L - 50L)",
+        "Aina ya valves (CGA, GOST, DIN, POL)",
+        "Kiwango cha uthibitisho (ISO, DOT, TPED)",
+        "OEM: rangi, kuashiria, ufungaji",
+        "Kiasi cha agizo na Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Asetilini WG-10",
+        "moq": "200 pcs",
+        "price": "$ 28-35 / pc",
+        "lead": "siku 18"
+      },
+      {
+        "product": "Asetilini WG-25",
+        "moq": "pcs 100",
+        "price": "$ 45-58 / pc",
+        "lead": "siku 20"
+      },
+      {
+        "product": "Propani WG-P11",
+        "moq": "pcs 500",
+        "price": "$ 12-16 / pc",
+        "lead": "siku 15"
+      },
+      {
+        "product": "Propani WG-P50",
+        "moq": "pcs 100",
+        "price": "$ 55-72 / pc",
+        "lead": "siku 22"
+      },
+      {
+        "product": "Jenereta WG-G20",
+        "moq": "1 kitengo",
+        "price": "$3,500–4,200",
+        "lead": "siku 25"
+      },
+      {
+        "product": "Seti ya mdhibiti",
+        "moq": "50 pcs",
+        "price": "$ 8-15 / pc",
+        "lead": "siku 10"
+      }
+    ],
+    "tableHeaders": [
+      "Bidhaa",
+      "MOQ",
+      "Bei (EXW)",
+      "Muda wa Kuongoza"
+    ]
+  },
+  "certifications": {
+    "title": "Vyeti na Viwango",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Mitungi ya gesi ya chuma isiyo na mshono - mahitaji ya kiufundi"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Mitungi ya asetilini iliyoyeyushwa"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Udhibitisho wa soko la Amerika"
+      },
+      {
+        "name": "TPED",
+        "desc": "maelekezo ya usafiri wa Ulaya"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Kiwango cha silinda ya gesi ya Kichina"
+      },
+      {
+        "name": "CE Mark",
+        "desc": "Mahitaji ya kufuata Ulaya"
+      }
+    ]
+  },
+  "process": {
+    "title": "Jinsi ya Kuagiza",
+    "subtitle": "Mchakato rahisi kutoka kwa uchunguzi hadi silinda kwenye ghala lako.",
+    "steps": [
+      {
+        "title": "Tuma Uchunguzi",
+        "desc": "Bainisha mahitaji ya bidhaa, kiasi, nchi na vali"
+      },
+      {
+        "title": "Pokea Nukuu",
+        "desc": "Bei, MOQ, muda wa kuongoza na karatasi maalum ndani ya saa 24"
+      },
+      {
+        "title": "Thibitisha Agizo",
+        "desc": "Kusaini mkataba na malipo ya amana ya 30%."
+      },
+      {
+        "title": "Uzalishaji na QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Usafirishaji",
+        "desc": "Ufungaji, hati, utoaji wa FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "kulehemu",
+        "eyebrow": "Mitungi ya asetilini",
+        "title": "Moto thabiti kwa kulehemu kwa usahihi",
+        "text": "Mitungi ya asetilini iliyoyeyushwa ambayo imeundwa kwa ajili ya kulehemu na kuwekea nguvu mara kwa mara - shinikizo thabiti, wingi wa vinyweleo salama, vali zilizo tayari kusafirisha nje.",
+        "points": [
+          "Chaguzi za ISO / DOT / GB",
+          "Vipu vya CGA / GOST / DIN",
+          "OEM rangi & kuashiria"
+        ]
+      },
+      {
+        "id": "kukata",
+        "eyebrow": "Kukata & utengenezaji",
+        "title": "Nguvu wakati chuma kinapaswa kusonga",
+        "text": "Seti ya asetilini yenye mtiririko wa juu na seti za mitungi iliyo tayari oksijeni kwa viwanja vya meli, warsha na njia nzito za kutengeneza.",
+        "points": [
+          "Kutoboa haraka na kukata",
+          "Vifaa vilivyo tayari kwa mwenge",
+          "Wingi MOQ kirafiki"
+        ]
+      },
+      {
+        "id": "propane",
+        "eyebrow": "Propani na LPG",
+        "title": "Silinda za kudumu za LPG kwa kila soko",
+        "text": "Kutoka kwa kupokanzwa na gesi ya kupikia hadi kukata viwandani - mitungi ya chuma iliyojengwa kwa shinikizo, mipako na maisha marefu ya huduma.",
+        "points": [
+          "Kiwango cha 3L–50L",
+          "Vali za POL / CGA",
+          "Kumaliza kanzu ya unga"
+        ]
+      },
+      {
+        "id": "kiwanda",
+        "eyebrow": "Utengenezaji",
+        "title": "Udhibiti wa kiwanda kutoka kwa chuma hadi usafirishaji",
+        "text": "Uundaji wa ndani, welding, upimaji wa hydrostatic na umaliziaji - kwa hivyo kila kundi lilingane na mchoro wako na kiwango cha soko.",
+        "points": [
+          "Kupimwa kwa hydrostatic",
+          "Vikundi vinavyoweza kufuatiliwa",
+          "OEM / ODM tayari"
+        ]
+      },
+      {
+        "id": "ubora",
+        "eyebrow": "Ubora na usalama",
+        "title": "Ukaguzi unaweza kuweka katika quote",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Vipimo vya shinikizo na uvujaji",
+          "Certificate package",
+          "Picha kabla ya usafirishaji"
+        ]
+      },
+      {
+        "id": "kuuza nje",
+        "eyebrow": "Usafirishaji wa kimataifa",
+        "title": "Imefungwa kwa ajili ya bandari, tayari kwa nchi 50+",
+        "text": "Hamisha pallets, ulinzi wa vali, lebo za lugha nyingi na hati za usafirishaji zilizoratibiwa kwa Incoterms unakoenda.",
+        "points": [
+          "Msaada wa FOB / CIF",
+          "Ufungashaji wa palletized",
+          "Muda wa kozi ni siku 15-25"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Mitungi ya gesi ya viwandani tayari kiwandani hapo",
+    "about": "Silinda ya silinda iliyo tayari kuuza nje yenye vifungashio vya kinga",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Imemaliza hisa ya silinda kiwandani",
+      "Ulehemu wa uzalishaji kwenye sakafu ya kiwanda",
+      "Hamisha vifungashio vyenye matundu ya kinga",
+      "Propane cylinders ready for dispatch",
+      "Usafirishaji wa silinda nyingi kwenye lori",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Vifaa",
+    "title": "Vifaa vya Bidhaa",
+    "subtitle": "Sehemu za mitungi ya acetylene, jenereta, kulehemu na kukata. Fungua Maelezo kwa vipimo na programu.",
+    "cta": "Omba maelezo",
+    "details": "Maelezo",
+    "close": "Funga",
+    "featuresLabel": "Vipengele muhimu",
+    "specsLabel": "Vipimo",
+    "applicationsLabel": "Maombi",
+    "qualityLabel": "Ubora na usambazaji",
+    "whyTitle": "Kwa nini kuchagua vifaa vyetu?",
+    "why": [
+      "Shaba ya kudumu, chuma cha pua na vifaa vya daraja la viwanda",
+      "Inapatana na mitungi, jenereta, vidhibiti, hoses na mifumo ya kulehemu",
+      "Nembo ya OEM, ufungashaji, saizi ya unganisho, aina ya nyuzi na vipimo",
+      "Ufungashaji wa kuuza nje na usambazaji thabiti kwa wanunuzi wa kimataifa"
+    ],
+    "items": [
+      {
+        "title": "Valve ya Acetylene Flashback",
+        "desc": "Huzuia mtiririko wa gesi unaorudi nyuma na kurudi nyuma kwa mwali katika mifumo ya kulehemu na kukata ya oksi-asetilini.",
+        "intro": "Kifaa muhimu cha usalama kwa mifumo ya asetilini. Kizuia moto cha pua kilichojengewa ndani na muundo wa mtiririko wa njia moja hulinda waendeshaji, mabomba na njia za gesi. Inapatana na vidhibiti, hoses na tochi. Nembo ya OEM, lebo na upakiaji zinapatikana.",
+        "features": [
+          "Ingizo lisilo na pua la kuzuia moto",
+          "Muundo wa mtiririko usio na kurudi (wa njia moja).",
+          "Mwili wa shaba wenye nguvu nyingi, sugu ya kutu",
+          "Kufunga kwa kuaminika chini ya shinikizo la kufanya kazi",
+          "Miunganisho ya kawaida kwa usakinishaji wa haraka na uingizwaji"
+        ],
+        "specs": [
+          "Gesi: asetilini (C₂H₂); vizuia oksijeni hutolewa tofauti",
+          "Mwili: shaba; kizuizi: chuma cha pua",
+          "Muunganisho: G 3/8″ LH au uzi maalum",
+          "Shinikizo la kufanya kazi: hadi 1.5 MPa / iliyobinafsishwa",
+          "Tumia: kulehemu kwa oxy-asetilini, kukata na kupokanzwa",
+          "Ufungaji: sanduku la mtu binafsi, katoni au desturi"
+        ],
+        "applications": [
+          "Oxy-acetylene kulehemu na kukata",
+          "Vidhibiti, hoses na makusanyiko ya tochi",
+          "Mistari ya gesi ya jenereta ya asetilini"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya usafirishaji",
+          "Vipimo vya muhuri, shinikizo na flashback-kazi",
+          "Hamisha vifungashio kwa usafirishaji wa umbali mrefu"
+        ]
+      },
+      {
+        "title": "Jenereta ya Acetylene Jenereta",
+        "desc": "Canister ya msingi kwa ajili ya uzalishaji wa asetilini imara kutoka kwa carbudi ya kalsiamu katika mifumo ya gesi ya viwanda.",
+        "intro": "Jenereta ya jenereta ni chombo kikuu cha mfumo wa kizazi cha asetilini. Imetolewa kwa ajili ya uzalishaji wa gesi imara katika kulehemu, kukata na maeneo bila usambazaji wa silinda ya kati. Uwezo, bomba na trim ya usalama inaweza kuendana na mfano wa jenereta.",
+        "features": [
+          "Chombo cha msingi cha mifumo ya jenereta ya asetilini",
+          "Imejengwa kwa kizazi cha gesi thabiti kutoka kwa carbudi ya kalsiamu",
+          "Inaweza kuendana na filtration na valves usalama",
+          "Mipangilio ya jenereta ya viwanda na kompakt",
+          "Kuashiria kwa OEM, miunganisho na upakiaji kwa ombi"
+        ],
+        "specs": [
+          "Jukumu: kontena la jenereta / mkusanyiko wa chombo",
+          "Aina ya kawaida ya matokeo ya jenereta zinazohusiana: 3–100 m³/h",
+          "Shinikizo la kufanya kazi la vitengo vinavyohusiana: kuhusu 1.5-5 kPa",
+          "Imetolewa na baridi, vichungi na vipuri kwa ombi",
+          "Viunganisho, uwezo na upunguzaji vimethibitishwa kwa agizo"
+        ],
+        "applications": [
+          "Mimea ya jenereta ya asetilini na vitengo vya kubebeka",
+          "Warsha bila usambazaji wa silinda ya kati",
+          "Kulehemu viwanda na kukata uzalishaji wa gesi"
+        ],
+        "quality": [
+          "Kiwanda kinacholingana na muundo wa jenereta",
+          "Hamisha kufunga na nyaraka",
+          "Maelezo ya uwezo na muunganisho yamethibitishwa kabla ya usafirishaji"
+        ]
+      },
+      {
+        "title": "Kukata Mwenge",
+        "desc": "Mwenge wa kukata oksi-asetilini unaodumu kwa kupunguzwa kwa usahihi, mwali thabiti na tija ya juu.",
+        "intro": "Mwenge wa kitaalamu wa kukata asetilini kwa ajili ya kupunguzwa safi na sahihi. Mwili wa shaba na mirija isiyo na pua, mpini wa ergonomic na nozzles zinazoweza kubadilishwa. Inaoana na asetilini na oksijeni na vidokezo vya kawaida.",
+        "features": [
+          "Shaba ya hali ya juu na ujenzi usio na pua",
+          "Moto thabiti na udhibiti sahihi wa kukata",
+          "Muundo unaozingatia usalama ili kupunguza hatari ya kurudi nyuma",
+          "Ushughulikiaji wa ergonomic, rahisi kukusanyika na huduma",
+          "Inafanya kazi na nozzles za kawaida, vidokezo na seti za hose"
+        ],
+        "specs": [
+          "Mfano: CT-01 kukata tochi",
+          "Gesi: asetilini + oksijeni",
+          "Unene wa kukata: 3-300 mm (pua na shinikizo hutegemea)",
+          "Shinikizo la kufanya kazi: C₂H₂ 0.02–0.15 MPa; O₂ MPa 0.2–1.0",
+          "Kiunganishi: G5/8-14 au kilichobinafsishwa",
+          "Urefu: takriban. 460 mm",
+          "Ufungaji: 1 pc/sanduku, pcs 10/katoni"
+        ],
+        "applications": [
+          "Sahani ya chuma ya kaboni, bomba na kukata wasifu",
+          "Maduka ya utengezaji, viwanja vya meli na ujenzi",
+          "Matengenezo ya viwanda na kukata kwenye tovuti"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya kujifungua",
+          "Muonekano, uunganisho, kuziba na hundi za kazi",
+          "Hamisha vifungashio kwa usafirishaji wa umbali mrefu"
+        ]
+      },
+      {
+        "title": "Valve ya Pembe yenye Threaded ya Ndani/Nje",
+        "desc": "Valve ya pembe ya silinda yenye kazi nzito yenye chaguzi za nyuzi za ndani au nje kwa viwango vya soko.",
+        "intro": "Vali za pembe za asetilini na gesi zingine za viwandani: mwili wa shaba dhabiti, kuziba kwa usahihi na uendeshaji laini wa gurudumu la mikono. Uzi wa ndani au wa nje ili kuendana na viwango vya silinda na vifaa.",
+        "features": [
+          "Mwili wa shaba unaodumu, sugu ya kutu",
+          "Usahihi wa hali ya juu kwa kuziba kwa kuaminika",
+          "Chaguzi za uunganisho wa nyuzi za ndani au nje",
+          "Gurudumu la mkono la ergonomic kwa kufungua / kufunga kwa urahisi",
+          "100% ukaguzi wa usalama na utendakazi"
+        ],
+        "specs": [
+          "Gesi: asetilini, oksijeni, argon, nitrojeni na gesi sambamba",
+          "Shinikizo la kufanya kazi: darasa la 25/35 la bar",
+          "Shinikizo la mtihani: 37.5 / 52.5 bar darasa",
+          "Inlet/outlet: ndani au nje, customized",
+          "Handwheel: aloi ya alumini / zinki",
+          "Joto: −20 °C hadi +60 °C",
+          "Viwango: ISO 10297, GB/T 8335, CGA au desturi",
+          "Ufungaji: 1 pc / mfuko, pcs 50 / sanduku"
+        ],
+        "applications": [
+          "Asetilini na mitungi ya gesi ya viwandani",
+          "Kulehemu na kukata mifumo ya gesi",
+          "Warsha, mimea na usambazaji wa gesi ya maabara"
+        ],
+        "quality": [
+          "Nyenzo, machining, uvujaji na hundi ya kuonekana",
+          "Ufungashaji wa nje kwa usafiri wa umbali mrefu",
+          "Ukubwa wa thread na kiwango kimethibitishwa kwa kila soko"
+        ]
+      },
+      {
+        "title": "Bamba la Hose ya Oksijeni",
+        "desc": "Kitufe cha chuma cha pua kinachozuia minyoo kwa miunganisho salama ya oksijeni inayostahimili kuvuja na bomba la viwandani.",
+        "intro": "Vibano vya hose ya oksijeni ya chuma cha pua kwa kulehemu na matumizi ya viwandani. Nguvu kali ya kubana, ukinzani wa kutu na kingo zinazofaa kwa bomba. Inaweza kutumika tena na rahisi kusakinisha.",
+        "features": [
+          "Chuma cha pua 201/304",
+          "Nguvu kali ya kubana na kufunga salama",
+          "Kutu, kutu na upinzani wa oxidation",
+          "Kingo za bendi laini husaidia kulinda hose",
+          "Rahisi kusakinisha, kuondoa na kutumia tena"
+        ],
+        "specs": [
+          "Aina: bomba la bomba la kuendesha gari la minyoo",
+          "Aina ya bomba: 8-100 mm, saizi maalum kwa wingi",
+          "Upana wa bendi: 9 / 12 mm; unene 0.6-0.8 mm",
+          "Parafujo: kichwa kilichofungwa au hex",
+          "Viwango: DIN 3017 / SAE J1508",
+          "Kumaliza: polished",
+          "Ufungashaji: pcs 100/begi, mifuko 10/katoni au desturi"
+        ],
+        "applications": [
+          "Oksijeni na hoses za mafuta kwa kulehemu na kukata",
+          "Silinda, mdhibiti na viungo vya hose ya tochi",
+          "Kiwanda, semina na mistari ya matengenezo"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya kujifungua",
+          "Ukubwa, bendi na kufunga inaweza kubinafsishwa",
+          "Hamisha ufungaji wa ubora"
+        ]
+      },
+      {
+        "title": "Mirija ya oksijeni",
+        "desc": "Hose ya oksijeni yenye shinikizo la juu na maisha marefu ya huduma kwa kulehemu, kukata na usambazaji wa gesi ya viwandani.",
+        "intro": "Mirija ya oksijeni iliyotengenezwa kwa ajili ya uhamisho wa gesi salama chini ya shinikizo. Inayoweza kunyumbulika, sugu na inayostahimili mikwaruzo, yenye ukuta laini wa ndani kwa mtiririko thabiti. Vitambulisho vingi na urefu wa kuunganisha na silinda.",
+        "features": [
+          "Shinikizo la juu la kufanya kazi na kupasuka",
+          "Ujenzi rahisi, sugu wa kink",
+          "Kuzeeka, ozoni na upinzani wa abrasion",
+          "Ukuta laini wa ndani kwa mtiririko thabiti wa gesi",
+          "Nyepesi na rahisi kushughulikia"
+        ],
+        "specs": [
+          "Gesi: oksijeni",
+          "Shinikizo la kufanya kazi: 20 bar / 290 psi",
+          "Shinikizo la kupasuka: 60 bar / 870 psi",
+          "Kitambulisho: 6 / 8 / 9 / 10 / 12 / 13 mm (inapatikana maalum)",
+          "Urefu: 10 / 20 / 30 / 50 / 100 m au desturi",
+          "Rangi: kiwango cha bluu; nyenzo SBR / EPDM + uzi wa polyester",
+          "Viwango: ISO 3821 / EN 559 / GB/T 20098",
+          "Joto: −20 °C hadi +80 °C"
+        ],
+        "applications": [
+          "Ugavi wa oksijeni kwa kulehemu na kukata",
+          "Uunganisho wa hose ya silinda-kwa-mdhibiti",
+          "Viwanda, warsha na njia za gesi za viwandani"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya kujifungua",
+          "Kipenyo, urefu, rangi na lebo inaweza kubinafsishwa",
+          "Ufungashaji wa kuuza nje: shrink / kusuka mfuko / carton"
+        ]
+      },
+      {
+        "title": "Kipimo cha Shinikizo",
+        "desc": "Onyesho sahihi la shinikizo kwa oksijeni, asetilini na gesi zingine za viwandani.",
+        "intro": "Vipimo vya asetilini, oksijeni na gesi za viwanda: piga wazi, ujenzi wa kudumu na usomaji thabiti kwenye mitungi, vidhibiti na mabomba. Safu nyingi na miunganisho ya OEM na usafirishaji.",
+        "features": [
+          "Usahihi wa juu na utendaji thabiti",
+          "Piga simu kwa urahisi kwa kusoma",
+          "Ujenzi wa viwanda unaostahimili mshtuko",
+          "Nyenzo zinazostahimili kutu",
+          "Masafa mengi na vilima vya chini/nyuma"
+        ],
+        "specs": [
+          "Gesi: asetilini, oksijeni, argon, CO₂, nitrojeni na gesi zinazolingana",
+          "Piga: 50/63/100 mm, desturi inapatikana",
+          "Masafa: Pau 0–1 hadi pau 0–400, maalum",
+          "Usahihi: ± 2.5% ya kawaida, ± 1.6% ya hiari",
+          "Thread: G1/4, G1/8, NPT1/4, M12×1.5 au desturi",
+          "Kesi: chuma nyeusi / cha pua kwa hiari; shaba ya kiunganishi au SS",
+          "Dirisha: kioo au polycarbonate; −20 °C hadi +60 °C",
+          "Ufungaji: 1 pc/sanduku, pcs 50/katoni"
+        ],
+        "applications": [
+          "Mitungi ya gesi na vidhibiti vya shinikizo",
+          "Mabomba na mifumo ya gesi ya viwandani",
+          "Oxy-acetylene kulehemu na kukata paneli"
+        ],
+        "quality": [
+          "100% kupima kabla ya kujifungua",
+          "Chaguzi za kupiga simu na chapa ya OEM",
+          "Ufungaji wa kuuza nje"
+        ]
+      },
+      {
+        "title": "Valve ya Usaidizi wa Usalama",
+        "desc": "Hutoa shinikizo la ziada kiotomatiki ili kulinda silinda, mabomba na waendeshaji.",
+        "intro": "Vali za usaidizi wa usalama hutoa shinikizo la ziada kiotomatiki ili kulinda vifaa na wafanyikazi. Inafaa kwa oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana. Mwili wa shaba ulioshikana, shinikizo nyingi za kuweka na saizi za nyuzi.",
+        "features": [
+          "Ulinzi wa kiotomatiki wa shinikizo kupita kiasi",
+          "Msaada thabiti chini ya shinikizo la juu",
+          "Mwili wa shaba, sugu ya joto na kutu",
+          "Muundo thabiti kwa usakinishaji na huduma kwa urahisi",
+          "Shinikizo la kuweka nyingi na saizi za nyuzi"
+        ],
+        "specs": [
+          "Gesi: oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana",
+          "Shinikizo la kufanya kazi: hadi 25 bar / 25 kg/cm²",
+          "Masafa ya usaidizi: MPa 0.1–2.5, inayoweza kubinafsishwa",
+          "Joto: −20 °C hadi +120 °C",
+          "Uunganisho: mwanamume / mwanamke; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Mwili: shaba; muhuri: NBR / PTFE",
+          "Darasa la shinikizo la mwili: 25/35 bar",
+          "Ufungaji: 1 pc/sanduku, pcs 50/katoni"
+        ],
+        "applications": [
+          "Ulinzi wa silinda na mwingiliano wa shinikizo kupita kiasi",
+          "Vifaa vya gesi ya viwanda na mabomba",
+          "Oxy-fuel kulehemu na kukata mifumo"
+        ],
+        "quality": [
+          "100% kupima kabla ya usafirishaji",
+          "Kuweka shinikizo, thread na kufunga inaweza kuwa umeboreshwa",
+          "Ufungaji wa kuuza nje"
+        ]
+      },
+      {
+        "title": "Mwenge wa kulehemu",
+        "desc": "Mwenge wa kulehemu wa oksidi wa Ergonomic na udhibiti laini wa mwali wa kulehemu, kuwasha na kupasha joto.",
+        "intro": "Mwenge wa kulehemu wa utendaji wa juu kwa kazi ya oksijeni-mafuta: moto thabiti, udhibiti sahihi na mwili wa shaba wa kudumu. Vidokezo vya shaba, nozzles zinazoweza kubadilishwa na viunganisho vya hose kwa warsha na matumizi ya viwanda.",
+        "features": [
+          "Moto thabiti kwa kulehemu na ukarabati wa chuma",
+          "Mtiririko wa gesi laini na udhibiti sahihi wa moto",
+          "Mwili wa shaba unaodumu, sugu ya joto na kutu",
+          "Kushughulikia kwa ergonomic kwa uendeshaji wa starehe",
+          "Inapatana na oksijeni, asetilini na propane ya hiari"
+        ],
+        "specs": [
+          "Aina: tochi ya kulehemu ya oxy-asetilini",
+          "Mwili: shaba; ncha: shaba, inayoweza kubadilishwa",
+          "Muunganisho wa bomba: G1/4″ au 9/16″-18 UNF",
+          "Shinikizo la kufanya kazi: O₂ 0.2–1.0 MPa; C₂H₂ MPa 0.01–0.15",
+          "Joto: −20 °C hadi +60 °C",
+          "Tumia: kulehemu, kuimarisha, inapokanzwa; kukata kwa vidokezo vinavyolingana",
+          "Ufungaji: 1 pc/sanduku, pcs 10/katoni"
+        ],
+        "applications": [
+          "Kulehemu na kutengeneza oksijeni-asetilini",
+          "Brazing, inapokanzwa na kujiunga",
+          "Warsha na matengenezo ya viwanda"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya kujifungua",
+          "Mtindo wa tochi, kontakt, kufunga na nembo inaweza kuwa OEM",
+          "Nyenzo, uvujaji na hundi za kuonekana"
+        ]
+      },
+      {
+        "title": "Kichwa cha Kubadilisha Kichujio",
+        "desc": "Huunganisha kipengele cha chujio kwa kidhibiti au bomba kwa uchujaji mzuri wa gesi.",
+        "intro": "Kichwa cha kubadilisha kichungi ni uhusiano kati ya kipengele cha chujio na mdhibiti au mstari wa gesi. Huweka kipengele, huweka mwelekeo wa mtiririko kuwa sahihi na hufanya huduma na uingizwaji kuwa moja kwa moja katika mifumo ya silinda na usambazaji.",
+        "features": [
+          "Huunganisha kipengele cha kichujio kwa kidhibiti au bomba",
+          "Inasaidia kuchuja kwa ufanisi kwenye mstari wa gesi",
+          "Ujenzi wa shaba / chuma wa viwanda",
+          "Milango ya kawaida yenye nyuzi kwa ulinganishaji wa mfumo",
+          "OEM thread, ukubwa na kufunga juu ya ombi"
+        ],
+        "specs": [
+          "Jukumu: kibadilishaji kichungi / kichwa cha adapta",
+          "Tumia: makusanyiko ya kidhibiti, bomba na chujio cha silinda",
+          "Ukubwa wa muunganisho na thread imethibitishwa kwa agizo",
+          "Inalingana na vipengele vya chujio na bakuli kama seti ikiwa inahitajika"
+        ],
+        "applications": [
+          "Usambazaji wa gesi kabla ya vidhibiti na zana",
+          "Mikusanyiko ya vichungi vya silinda na jenereta",
+          "Warsha na mistari ya gesi ya viwandani"
+        ],
+        "quality": [
+          "Ukubwa wa muunganisho umethibitishwa kabla ya uzalishaji",
+          "Ufungaji wa kuuza nje",
+          "Inaweza kutolewa kwa vipengele vinavyolingana vya chujio"
+        ]
+      },
+      {
+        "title": "Chuja",
+        "desc": "Kichujio cha ufanisi wa juu ambacho huondoa unyevu, mafuta na chembe ili kulinda vifaa vya chini vya mto.",
+        "intro": "Huondoa chembe ngumu, maji, mafuta na uchafu mwingine kutoka kwa mkondo wa gesi ili kulinda vifaa na kupanua maisha ya huduma. Kichwa cha shaba, kipengele cha ubora na operesheni imara chini ya shinikizo. Kwa oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana.",
+        "features": [
+          "Uchujaji wa ufanisi wa juu kwa mtiririko safi wa gesi",
+          "Huondoa unyevu, mafuta na chembe",
+          "Kichwa cha shaba cha kudumu na bakuli la chuma",
+          "Kipengele kinachoweza kutengwa kwa kusafisha au uingizwaji",
+          "Operesheni thabiti chini ya shinikizo la kufanya kazi"
+        ],
+        "specs": [
+          "Gesi: oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana",
+          "Shinikizo la kuingiza: hadi 2.5 MPa",
+          "Shinikizo la kufanya kazi: 0.01-1.6 MPa",
+          "Usahihi: 5 / 20 / 50 μm kwa hiari",
+          "Muunganisho: G1/4″, G3/8″, G1/2″, G3/4″ hiari",
+          "Mwili: shaba; kipengele: sintered shaba / chuma cha pua",
+          "Joto: −20 °C hadi +60 °C",
+          "Ufungaji: 1 pc/sanduku, pcs 20/katoni"
+        ],
+        "applications": [
+          "Silinda, mdhibiti na mifumo ya usambazaji",
+          "Viwanda, warsha na njia za gesi za viwandani",
+          "Mtiririko safi kwa kulehemu, kukata na usambazaji wa maabara"
+        ],
+        "quality": [
+          "100% ukaguzi kabla ya kujifungua",
+          "Thread, usahihi na kipengele inaweza kuwa customized",
+          "Ufungaji wa kuuza nje"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Kisheria",
+    "title": "Sera ya Faragha",
+    "updated": "Ilisasishwa mwisho: 25 Agosti 2026",
+    "intro": [
+      "Wanda Group (“sisi”, “sisi”) huendesha tovuti hii ili kuwasilisha mitungi ya gesi, vifuasi na usambazaji unaohusiana na usafirishaji nje, na kupokea maswali ya kibiashara kutoka kwa wanunuzi wa viwandani.",
+      "Sera hii inaeleza ni data gani ya kibinafsi tunayokusanya kupitia tovuti, kwa nini tunaitumia na jinsi unavyoweza kuwasiliana nasi kuihusu. Hatuchapishi video za kiwanda au faili za cheti kwenye wavuti; nyenzo hizo hutumwa kwa faragha kwa ombi."
+    ],
+    "sections": [
+      {
+        "title": "Nani anawajibika",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Data gani tunakusanya",
+        "body": [
+          "Unapotuma fomu ya uchunguzi tunapokea data unayoweka: jina, barua pepe, simu, nchi unakoenda, aina ya bidhaa, wingi na ujumbe.",
+          "Tovuti pia huhifadhi chaguo lako la lugha kwenye kivinjari (Hifadhi ya ndani). Hatuendeshi vidakuzi vya utangazaji au kuuza orodha za wageni."
+        ]
+      },
+      {
+        "title": "Kwa nini tunatumia data",
+        "body": [
+          "Tunatumia data ya uchunguzi pekee kujibu ombi lako, kuandaa nukuu, kutuma maelezo ya bidhaa, video au vyeti ulivyouliza, na kuratibu agizo iwapo tutaanza kufanya kazi pamoja.",
+          "Msingi wa kisheria: idhini yako unapoweka tiki kwenye kisanduku cha kuteua kwenye fomu, na nia yetu halali ya kujibu maombi ya mauzo ya B2B."
+        ]
+      },
+      {
+        "title": "Nani anapokea data",
+        "body": [
+          "Ujumbe wako unawasilishwa kwa timu yetu ya mauzo kwa barua pepe. Kulingana na usanidi, fomu inaweza kuchakatwa na Web3Forms kama mtoa huduma wa kiufundi anayetuma ujumbe kwetu.",
+          "Hatuuzi data ya kibinafsi. Tunaweza kushiriki kile kinachohitajika na washirika wa vifaa, ukaguzi au benki ikiwa tu inahitajika kutimiza agizo lililokubaliwa."
+        ]
+      },
+      {
+        "title": "Tunaiweka kwa muda gani",
+        "body": [
+          "Data ya uchunguzi huwekwa kwa muda unaohitajika kushughulikia ombi na kwa muda unaofaa baadaye kwa ufuatiliaji wa mauzo na uhasibu, isipokuwa utuombe tuifute mapema pale ambapo sheria inaruhusu."
+        ]
+      },
+      {
+        "title": "Haki zako",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Usalama na watoto",
+        "body": [
+          "Tunachukua hatua zinazokubalika za kiufundi na za shirika ili kulinda ujumbe unaposafirishwa na katika kisanduku chetu cha barua. Tovuti hii inalenga wanunuzi wa biashara, sio watoto."
+        ]
+      }
+    ],
+    "contactLead": "Maswali kuhusu sera hii:"
+  }
+}

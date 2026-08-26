@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Sản phẩm",
+    "specs": "Thông số kỹ thuật",
+    "applications": "Ứng dụng",
+    "about": "Giới thiệu",
+    "gallery": "Thư viện ảnh",
+    "quality": "Chất lượng",
+    "faq": "Hỏi đáp",
+    "contact": "Liên hệ",
+    "getQuote": "Nhận báo giá",
+    "inquire": "Gửi yêu cầu →",
+    "services": "Dịch vụ",
+    "pricing": "Bảng giá",
+    "accessories": "Phụ kiện",
+    "home": "Trang chủ",
+    "factory": "Nhà máy"
+  },
+  "hero": {
+    "badge": "Nhà sản xuất bình khí",
+    "title": "Bình khí đáng tin cậy cho công nghiệp và hàn",
+    "subtitle": "Wanda Group là nhà sản xuất và cung cấp uy tín các bình axetylen, propan và phụ kiện. Giải pháp cung cấp khí, hàn, cắt và lưu trữ trên toàn thế giới.",
+    "cta": "Nhận báo giá",
+    "ctaSecondary": "Sản phẩm của chúng tôi",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Số năm kinh nghiệm"
+      },
+      {
+        "value": "500K+",
+        "label": "Năng lực sản xuất / Năm"
+      },
+      {
+        "value": "50+",
+        "label": "Thị trường xuất khẩu"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Chất lượng & Chứng nhận"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Phụ kiện xi lanh khí đáng tin cậy",
+    "text": "Đồng hồ đo, van, ống mềm, đèn khò và phụ kiện an toàn - cung cấp cùng với xi lanh hoặc theo đơn đặt hàng riêng.",
+    "cta": "Xem phụ kiện"
+  },
+  "products": {
+    "title": "Sản phẩm của chúng tôi",
+    "subtitle": "Bình axetylen, máy phát, bình propan và phụ kiện cho ứng dụng công nghiệp và hàn.",
+    "items": [
+      {
+        "title": "Bình axetylen",
+        "desc": "Bình axetylen hòa tan cho hàn, cắt và khí công nghiệp. Nhiều kích thước và tùy chọn van.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Máy phát axetylen",
+        "desc": "Thiết bị sản xuất khí ổn định, dễ vận hành và phù hợp ứng dụng công nghiệp.",
+        "icon": "⚙️",
+        "spec": "Hệ thống phát điện công nghiệp"
+      },
+      {
+        "title": "Bình propan",
+        "desc": "Bình bền chắc cho propan và LPG — lưu trữ, sưởi, cắt và sử dụng công nghiệp.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Phụ kiện bình khí",
+        "desc": "Ống mềm, đồng hồ đo, mỏ cắt, đầu đốt hàn, van an toàn và nhiều hơn nữa.",
+        "icon": "🔧",
+        "spec": "Van · bộ điều chỉnh · ống · đèn pin"
+      }
+    ],
+    "viewDetails": "Xem chi tiết"
+  },
+  "specs": {
+    "title": "Thông số kỹ thuật",
+    "subtitle": "Tìm hiểu tùy chọn bình, khả năng tùy chỉnh và chi tiết vận chuyển trước khi gửi yêu cầu.",
+    "items": [
+      {
+        "title": "Dung tích bình",
+        "desc": "Nhiều tùy chọn dung tích và thể tích tùy theo ứng dụng và yêu cầu thị trường."
+      },
+      {
+        "title": "Van và nắp",
+        "desc": "Van, nắp và khớp nối được cung cấp theo nhu cầu khách hàng và dự án."
+      },
+      {
+        "title": "Tùy chọn dung môi",
+        "desc": "Hệ thống vật liệu xốp và dung môi để lưu trữ axetylen ổn định."
+      },
+      {
+        "title": "Đóng gói và vận chuyển",
+        "desc": "Hỗ trợ đóng gói xuất khẩu và vận chuyển cho nhà phân phối và khách hàng dự án."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Ứng dụng của bình khí",
+    "subtitle": "Sản phẩm thiết kế cho các tác vụ khí công nghiệp phổ biến và yêu cầu của người mua nước ngoài.",
+    "items": [
+      "Hàn và hàn cứng",
+      "Cắt kim loại",
+      "Cung cấp khí công nghiệp",
+      "Xây dựng",
+      "Gia công kim loại",
+      "Lưu trữ và phân phối khí"
+    ]
+  },
+  "whyUs": {
+    "title": "Tại sao chọn Wanda Group?",
+    "subtitle": "Sản xuất trực tiếp, tùy chỉnh và hỗ trợ xuất khẩu đầy đủ — mọi thứ cho doanh nghiệp của bạn.",
+    "items": [
+      {
+        "title": "Chất lượng cao",
+        "desc": "Xi lanh thép được chế tạo để hàn công nghiệp và cung cấp khí đốt."
+      },
+      {
+        "title": "Kiểm soát chất lượng nghiêm ngặt",
+        "desc": "Kiểm tra từ nguyên liệu đầu vào đến khâu đóng gói cuối cùng."
+      },
+      {
+        "title": "Sản xuất tiên tiến",
+        "desc": "Hình thành, hàn, thử nghiệm và hoàn thiện trong một nhà máy."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Màu sắc, van, nhãn hiệu, nắp và đóng gói theo đơn đặt hàng."
+      },
+      {
+        "title": "Xuất khẩu quốc tế",
+        "desc": "Tài liệu và đóng gói cho người mua công nghiệp ở nước ngoài."
+      },
+      {
+        "title": "Giao hàng đáng tin cậy",
+        "desc": "Thời gian giao hàng thông thường là 15–25 ngày sau khi xác nhận đơn hàng."
+      }
+    ]
+  },
+  "about": {
+    "title": "Nhà sản xuất bình khí chuyên nghiệp",
+    "text": "Wanda Group Gas Cylinder Manufacturer chuyên sản xuất và cung cấp bình khí công nghiệp cùng phụ kiện liên quan. Sản phẩm của chúng tôi được sử dụng rộng rãi trong hàn, cắt, phân phối khí, lưu trữ công nghiệp và các lĩnh vực cung cấp khí khác.",
+    "text2": "Chúng tôi hỗ trợ người mua nước ngoài trong việc chọn sản phẩm, tùy chỉnh, kiểm tra chất lượng, đóng gói và phối hợp vận chuyển.",
+    "facts": [
+      {
+        "title": "Kinh nghiệm",
+        "desc": "Hơn 15 năm cung cấp bình gas công nghiệp."
+      },
+      {
+        "title": "Sản xuất",
+        "desc": "Hình thành, hàn, thử nghiệm và hoàn thiện trong nhà."
+      },
+      {
+        "title": "Chất lượng",
+        "desc": "Tùy chọn ISO 9809, DOT và TPED theo thị trường."
+      },
+      {
+        "title": "Xuất khẩu",
+        "desc": "Các lô hàng được điều phối cho hơn 50 thị trường đích."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Bên trong nhà máy của chúng tôi",
+    "subtitle": "Sản xuất, hàn, thử nghiệm, sơn và hoàn thiện xi lanh - cách chúng tôi chuẩn bị đơn hàng xuất khẩu.",
+    "items": [
+      {
+        "title": "Kho xi lanh thành phẩm",
+        "desc": "Hàng tồn kho sẵn sàng tại nhà máy của chúng tôi — công suất lớn cho các đơn hàng bán buôn và xuất khẩu."
+      },
+      {
+        "title": "Hàn sản xuất",
+        "desc": "Gia công kim loại trên sàn nhà xưởng có cung cấp khí công nghiệp."
+      },
+      {
+        "title": "Bao bì xuất khẩu",
+        "desc": "Lưới bảo vệ và đóng gói pallet trước khi vận chuyển quốc tế."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Vận chuyển xi lanh số lượng lớn",
+        "desc": "Đảm bảo tải trọng lồng khi vận chuyển đường bộ đến nhà phân phối và nhà máy."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Phạm vi kích thước xi lanh",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kiểm soát chất lượng",
+    "subtitle": "Mỗi lô đều đi theo cùng một lộ trình: sản xuất, thử nghiệm, kiểm tra và kiểm soát chất lượng cuối cùng.",
+    "steps": [
+      {
+        "title": "Sản xuất",
+        "desc": "Hình thành, hàn và lắp ráp dưới sự kiểm soát quá trình của nhà máy."
+      },
+      {
+        "title": "Kiểm tra",
+        "desc": "Kiểm tra áp suất và rò rỉ trước khi xi lanh rời khỏi dây chuyền."
+      },
+      {
+        "title": "Điều tra",
+        "desc": "Kiểm tra trực quan, đánh dấu và kích thước theo đơn đặt hàng."
+      },
+      {
+        "title": "Kiểm soát chất lượng cuối cùng",
+        "desc": "Kiểm tra đóng gói trước khi xuất khẩu."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Không tìm thấy câu hỏi của bạn? Gửi sản phẩm, kích thước, số lượng và quốc gia nơi đến - chúng tôi sẽ trả lời kèm theo ưu đãi chi tiết.",
+    "ctaBtn": "Nhận báo giá",
+    "groups": [
+      {
+        "title": "Công ty",
+        "items": [
+          {
+            "q": "Bạn có phải là nhà sản xuất xi lanh khí?",
+            "a": "Đúng. Tập đoàn Wanda chuyên sản xuất bình gas và các giải pháp cung cấp khí công nghiệp liên quan cho khách hàng công nghiệp ở nước ngoài."
+          },
+          {
+            "q": "Những sản phẩm nào bạn chủ yếu cung cấp?",
+            "a": "Chúng tôi cung cấp xi lanh axetylen, xi lanh propan, máy tạo axetylen và các phụ kiện xi lanh khí như van, bộ điều chỉnh, ống mềm, đồng hồ đo áp suất và đèn khò."
+          },
+          {
+            "q": "Bạn có thể hỗ trợ tùy chỉnh OEM không?",
+            "a": "Đúng. Các tùy chọn về màu sắc, nhãn hiệu, van, nắp và đóng gói của xi lanh có thể được thảo luận theo đơn đặt hàng và thị trường mục tiêu."
+          },
+          {
+            "q": "Bạn có hỗ trợ người mua ở nước ngoài không?",
+            "a": "Đúng. Chúng tôi hỗ trợ xuất khẩu, lựa chọn sản phẩm, yêu cầu đóng gói, chứng từ và điều phối vận chuyển."
+          },
+          {
+            "q": "Làm thế nào tôi có thể nhận được báo giá?",
+            "a": "Vui lòng chỉ định loại sản phẩm, kích thước xi lanh, số lượng, quốc gia đích và các yêu cầu tùy chỉnh thông qua mẫu yêu cầu hoặc qua email. Nhóm của chúng tôi sẽ trả lời kèm theo chi tiết sản phẩm và báo giá."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Tôi có thể xem video của nhà máy trước khi đặt hàng không?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Bạn có cung cấp video sản phẩm, đặc biệt là xi lanh axetylen không?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Bạn có thể chiếu video về quá trình sản xuất và kiểm soát chất lượng được không?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Tôi có thể yêu cầu một video sản phẩm được thực hiện cho một đơn hàng cụ thể không?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Giải pháp",
+        "items": [
+          {
+            "q": "Những giải pháp xi lanh khí nào bạn cung cấp?",
+            "a": "Chúng tôi cung cấp các giải pháp hàn và cắt, phân phối khí, lưu trữ công nghiệp, sản xuất axetylen, cung cấp OEM và thu mua xuất khẩu."
+          },
+          {
+            "q": "Bạn có thể giới thiệu sản phẩm cho ứng dụng của tôi không?",
+            "a": "Đúng. Gửi đơn đăng ký, kích thước xi lanh, số lượng, quốc gia đến và các phụ kiện cần thiết - chúng tôi sẽ đề xuất các sản phẩm phù hợp."
+          },
+          {
+            "q": "Bạn có cung cấp phụ kiện cùng với xi lanh không?",
+            "a": "Đúng. Chúng tôi có thể cung cấp bộ điều chỉnh áp suất, ống mềm, đồng hồ đo, mỏ cắt, mỏ hàn, van và phụ kiện cùng với xi lanh."
+          },
+          {
+            "q": "Bạn có thể cung cấp bình gas cho người mua OEM không?",
+            "a": "Đúng. Màu xi lanh, đánh dấu, van, nắp, logo và bao bì có thể được thảo luận theo đơn đặt hàng."
+          }
+        ]
+      },
+      {
+        "title": "Các sản phẩm",
+        "items": [
+          {
+            "q": "Xi lanh axetylen hòa tan dùng để làm gì?",
+            "a": "Xi lanh axetylen hòa tan được sử dụng rộng rãi để hàn, cắt, hàn đồng, chế tạo kim loại và cung cấp khí công nghiệp."
+          },
+          {
+            "q": "Bạn có thể cung cấp kích thước xi lanh nào?",
+            "a": "Khối lượng và công suất khác nhau có thể được thảo luận tùy thuộc vào thị trường mục tiêu, ứng dụng và số lượng đặt hàng của bạn. Để xác nhận, hãy chỉ định kích thước yêu cầu hoặc tiêu chuẩn địa phương."
+          },
+          {
+            "q": "Màu xi lanh, van và nhãn hiệu có thể thay đổi được không?",
+            "a": "Đúng. Màu xi lanh, van, nắp, đánh dấu, nhãn và bao bì xuất khẩu có thể được thực hiện theo đơn đặt hàng."
+          }
+        ]
+      },
+      {
+        "title": "Phụ kiện",
+        "items": [
+          {
+            "q": "Bạn cung cấp những phụ kiện gì?",
+            "a": "Chúng tôi cung cấp thiết bị hãm hồi tưởng, đồng hồ đo áp suất, van an toàn, ống oxy, kẹp ống, mỏ cắt, mỏ hàn, bộ lọc, bộ điều hợp và các phụ kiện bình gas khác."
+          },
+          {
+            "q": "Phụ kiện xi lanh khí có thể được tùy chỉnh?",
+            "a": "Đúng. Chúng tôi có thể tùy chỉnh logo, bao bì, kích thước kết nối, loại ren, phạm vi áp suất và thông số kỹ thuật."
+          },
+          {
+            "q": "Phụ kiện có thể đặt cùng với bình gas được không?",
+            "a": "Đúng. Các phụ kiện có thể được cung cấp cùng với bình chứa khí axetylen, bình chứa khí propan và máy tạo khí axetylen."
+          },
+          {
+            "q": "Bạn có hỗ trợ đóng gói OEM không?",
+            "a": "Đúng. Đối với các đơn hàng bán buôn, chúng tôi có thể cung cấp nhãn hiệu OEM, thùng giấy, túi xách và nhãn sản phẩm."
+          },
+          {
+            "q": "Bạn có thể cung cấp hình ảnh sản phẩm và thông số kỹ thuật?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Làm thế nào tôi có thể nhận được báo giá cho các phụ kiện?",
+            "a": "Vui lòng nêu rõ tên sản phẩm, số lượng, kích thước kết nối, áp suất làm việc, yêu cầu đóng gói và quốc gia hoặc cảng đến."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Bài viết mới nhất",
+    "subtitle": "Nội dung chuyên sâu dành cho chuyên gia hàn và cung cấp khí.",
+    "readMore": "Đọc thêm →",
+    "close": "Đóng",
+    "items": [
+      {
+        "tag": "Thợ thủ công",
+        "title": "Giải pháp cung cấp bình propan hoàn chỉnh",
+        "desc": "Độ ổn định của thiết bị ảnh hưởng trực tiếp đến hiệu quả công việc hàn và cắt.",
+        "body": [
+          "Đối với thợ thủ công hàn, sửa chữa và gia công kim loại mỗi ngày, thiết bị khí ổn định ảnh hưởng trực tiếp đến chất lượng và tốc độ làm việc.",
+          "Bình propan Wanda Group có sẵn từ 3L đến 50L với van POL, CGA 510 hoặc GOST tùy theo thị trường của bạn — một nhà cung cấp cho hàn, cắt và sưởi.",
+          "Chúng tôi khuyên nên đặt bình kèm van giảm áp, ống mềm và mỏ hàn. Cung cấp theo bộ giảm chi phí logistics và đảm bảo tương thích phụ kiện.",
+          "Khi đặt hàng, hãy nêu thị trường mục tiêu, dung tích, loại van và màu sắc — chúng tôi chuẩn bị nhãn OEM và đóng gói xuất khẩu dưới thương hiệu của bạn."
+        ]
+      },
+      {
+        "tag": "Lưu trữ",
+        "title": "Mẹo lưu trữ bình axetylen dài hạn",
+        "desc": "Điều kiện lưu trữ, cách đặt và kiểm tra định kỳ cho bình không sử dụng.",
+        "body": [
+          "Nhiều công ty lưu trữ bình axetylen và propan trong thời gian ngừng sản xuất hoặc làm hàng tồn. Bình không sử dụng vẫn cần xử lý đúng cách.",
+          "Lưu trữ bình đứng thẳng ở nơi thông gió tốt, tránh nguồn nhiệt và ánh nắng trực tiếp. Nhiệt độ lưu trữ thường không nên vượt quá 40–50°C.",
+          "Kiểm tra van, nắp và nhãn ít nhất mỗi quý. Với lưu trữ axetylen dài hạn, giữ bình thẳng đứng và không bao giờ để nghiêng.",
+          "Wanda Group vận chuyển bình kèm nắp bảo vệ và đóng gói xuất khẩu thiết kế cho vận tải và kho bãi an toàn. Hướng dẫn lưu trữ có sẵn bằng ngôn ngữ của bạn theo yêu cầu."
+        ]
+      },
+      {
+        "tag": "Bảng giá",
+        "title": "Hướng dẫn ngân sách mua bình axetylen",
+        "desc": "Các yếu tố ảnh hưởng đến chi phí và cách chọn báo giá tối ưu.",
+        "body": [
+          "Giá bình axetylen phụ thuộc vào dung tích (2L–40L), loại van, chứng nhận (ISO, DOT, TPED) và số lượng đặt hàng. Giá EXW tham khảo: WG-10 $28–35, WG-25 $45–58 mỗi bình.",
+          "Lô lớn hơn (200–500+ chiếc) nhận chiết khấu đáng kể. Sơn OEM, logo và đóng gói đặc biệt tăng 5–15% so với giá cơ bản nhưng tăng giá trị cho nhà phân phối.",
+          "Cũng cần tính chi phí vận chuyển (FOB/CIF), chứng từ và MOQ. Chúng tôi phản hồi trong 24 giờ với đầy đủ thông số, thời gian giao hàng và Incoterms.",
+          "Để nhận báo giá chính xác, hãy ghi model, số lượng, quốc gia đích và yêu cầu van vào form liên hệ — hoặc email sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Yêu cầu báo giá",
+    "subtitle": "Cho chúng tôi biết kích thước, số lượng, quốc gia đích và ứng dụng — chúng tôi sẽ chuẩn bị báo giá chi tiết.",
+    "formTitle": "Yêu cầu báo giá",
+    "formSubtitle": "Để lại yêu cầu của bạn — đội ngũ bán hàng sẽ phản hồi với thông tin sản phẩm, giá, MOQ và thời gian giao hàng.",
+    "name": "Họ tên",
+    "phone": "Điện thoại / WhatsApp",
+    "email": "E-mail",
+    "product": "Sản phẩm",
+    "quantity": "Số lượng",
+    "country": "Quốc gia đích",
+    "productOptions": [
+      "Bình axetylen",
+      "Bình propan",
+      "Máy phát axetylen",
+      "Phụ kiện",
+      "Đơn hàng theo bộ"
+    ],
+    "message": "Yêu cầu bổ sung",
+    "messagePlaceholder": "Sản phẩm, kích thước, số lượng, quốc gia đích...",
+    "submit": "Gửi yêu cầu",
+    "sending": "Đang gửi...",
+    "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ sớm.",
+    "sendAnother": "Gửi yêu cầu khác",
+    "errorGeneric": "Gửi thất bại. Vui lòng thử lại hoặc email trực tiếp cho chúng tôi.",
+    "errorNoForm": "Form chưa được cấu hình. Vui lòng email sales@wandagroups.com",
+    "privacyPrefix": "Tôi đồng ý với",
+    "privacySuffix": "và việc xử lý dữ liệu cá nhân của tôi để xử lý yêu cầu này.",
+    "privacyLink": "Chính sách bảo mật",
+    "company": "Công ty",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Gửi qua ứng dụng email"
+  },
+  "footer": {
+    "company": "Nhà sản xuất xi lanh khí Wanda Group",
+    "tagline": "Sản xuất bình khí chuyên nghiệp",
+    "rights": "© 2026 Wanda Group. Bảo lưu mọi quyền.",
+    "privacy": "Chính sách bảo mật"
+  },
+  "ui": {
+    "catalog": "Danh mục",
+    "catalogTitle": "Thông số sản phẩm chi tiết",
+    "catalogSubtitle": "Dữ liệu kỹ thuật đầy đủ, model và thông số cho từng danh mục. Chọn sản phẩm để xem bảng thông số.",
+    "requestPrice": "Yêu cầu giá cho model này",
+    "services": "Dịch vụ",
+    "pricing": "Bảng giá",
+    "getExactQuote": "Nhận báo giá chính xác",
+    "certifications": "Chứng nhận",
+    "order": "Đặt hàng",
+    "reviews": "Đánh giá",
+    "contact": "Liên hệ",
+    "phone": "Điện thoại",
+    "location": "Vị trí",
+    "quoteResponse": "Phản hồi báo giá",
+    "support": "Hỗ trợ",
+    "exportReady": "Sẵn sàng xuất khẩu",
+    "years": "Năm",
+    "acetylene": "Axetylen",
+    "isoCertified": "Chứng nhận ISO",
+    "globalExport": "Xuất khẩu toàn cầu",
+    "products": "Các sản phẩm",
+    "specs": "Thông số kỹ thuật",
+    "applications": "Ứng dụng",
+    "whyUs": "Tại sao là chúng tôi",
+    "about": "Về chúng tôi",
+    "gallery": "Phòng trưng bày",
+    "quality": "Chất lượng",
+    "faq": "Câu hỏi thường gặp",
+    "blog": "Blog",
+    "countriesServed": "Các quốc gia phục vụ",
+    "searchLanguage": "Tìm kiếm ngôn ngữ...",
+    "noLanguagesFound": "Không tìm thấy ngôn ngữ nào"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Xuất khẩu sang hơn 50 quốc gia",
+    "MOQ từ 100 chiếc",
+    "Thời gian thực hiện 15–25 ngày"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Axetylen",
+      "propane": "Propane",
+      "generator": "Máy phát điện",
+      "accessories": "Phụ kiện"
+    },
+    "acetylene": {
+      "title": "Xi lanh axetylen hòa tan",
+      "intro": "Bình thép có khối xốp và dung môi để bảo quản và vận chuyển axetylen an toàn. Được sử dụng trong hàn, cắt, hàn và chế tạo kim loại.",
+      "features": [
+        "Khối xốp + axeton để bảo quản ổn định",
+        "Van CGA 510/GOST/DIN theo yêu cầu",
+        "Áp suất thử thủy lực 5,2 MPa",
+        "Sơn RAL, dán tem & nhãn OEM",
+        "Xuất khẩu bao bì pallet"
+      ],
+      "tableTitle": "Mô hình xi lanh axetylen tiêu chuẩn",
+      "headers": [
+        "Người mẫu",
+        "Khối lượng (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Trọng lượng (kg)",
+        "Chiều cao (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Thông số chính xác phụ thuộc vào tiêu chuẩn (ISO/DOT/GB) và cấu hình van. Yêu cầu bảng thông số kỹ thuật cho thị trường của bạn."
+    },
+    "propane": {
+      "title": "Xi lanh propan & LPG",
+      "intro": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+      "features": [
+        "Thép 37Mn/34CrMo4 theo tiêu chuẩn ISO 9809",
+        "Áp suất làm việc 1,8–2,1 MPa",
+        "Van POL, CGA 510, GOST",
+        "Sơn tĩnh điện, chống ăn mòn",
+        "Chứng chỉ dành cho thị trường EU, Mỹ, CIS"
+      ],
+      "tableTitle": "Mô hình xi lanh propan tiêu chuẩn",
+      "headers": [
+        "Người mẫu",
+        "Khối lượng (L)",
+        "Khí (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Trọng lượng (kg)",
+        "Chiều cao (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Giá cả và MOQ phụ thuộc vào khối lượng đặt hàng và loại van. Gửi yêu cầu cho báo giá chính xác."
+    },
+    "generator": {
+      "title": "Máy phát điện axetylen",
+      "intro": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung.",
+      "features": [
+        "Công suất đầu ra 3–100 m³/h",
+        "Cấp nước & cacbua tự động",
+        "Hệ thống an toàn & lọc",
+        "Mô hình nhỏ gọn và công nghiệp",
+        "Tài liệu và đào tạo đầy đủ"
+      ],
+      "tableTitle": "Mô hình máy phát điện axetylen",
+      "headers": [
+        "Người mẫu",
+        "Đầu ra (m³/h)",
+        "Cacbua (kg/h)",
+        "Áp suất (kPa)",
+        "Công suất (kW)",
+        "Trọng lượng (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Máy phát điện được cung cấp hệ thống làm mát, bộ lọc và bộ phụ tùng thay thế theo yêu cầu."
+    },
+    "accessories": {
+      "title": "Phụ kiện & phụ kiện xi lanh",
+      "intro": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh.",
+      "features": [
+        "Bộ điều chỉnh và đồng hồ đo (CGA/GOST/DIN)",
+        "Ống cao áp",
+        "Đuốc cắt và đầu đốt hàn",
+        "Van giảm áp",
+        "Xe đẩy, khán đài, mũ nón"
+      ],
+      "tableTitle": "Danh mục phụ kiện",
+      "headers": [
+        "Loại",
+        "Người mẫu",
+        "Tiêu chuẩn",
+        "Ứng dụng"
+      ],
+      "rows": [
+        [
+          "Bộ điều chỉnh",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Axetylen, propan"
+        ],
+        [
+          "Đồng hồ đo",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Giám sát áp suất"
+        ],
+        [
+          "ống mềm",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Hàn, cắt"
+        ],
+        [
+          "Đuốc",
+          "WG-C100, WG-C300",
+          "—",
+          "Cắt plasma/oxy"
+        ],
+        [
+          "Đầu đốt",
+          "WG-T200, WG-T500",
+          "—",
+          "Hàn, hàn đồng"
+        ],
+        [
+          "Van",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Tất cả các loại xi lanh"
+        ]
+      ],
+      "note": "* Phụ kiện có sẵn riêng biệt hoặc đi kèm với xi lanh. Giảm giá trên đơn đặt hàng kết hợp."
+    }
+  },
+  "services": {
+    "title": "Dịch vụ của chúng tôi",
+    "subtitle": "Chu kỳ đầy đủ - từ sản xuất đến giao hàng tại kho của bạn. Chúng tôi làm việc với các nhà phân phối, thương hiệu OEM và người mua dự án.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Sản xuất theo yêu cầu (OEM/ODM)",
+        "desc": "Xi lanh với thương hiệu, màu sắc và đánh dấu của bạn.",
+        "points": [
+          "Logo & màu RAL",
+          "Van tiêu chuẩn thị trường",
+          "Bao bì & nhãn OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Xuất khẩu & Hậu cần",
+        "desc": "Hỗ trợ vận chuyển quốc tế hoàn chỉnh.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Xuất tài liệu",
+          "Vận tải đường biển và đường sắt"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kiểm soát chất lượng",
+        "desc": "Kiểm tra và kiểm tra ở mọi giai đoạn.",
+        "points": [
+          "Kiểm tra thủy tĩnh",
+          "Kiểm tra mối hàn UT",
+          "Kiểm tra SGS/BV theo yêu cầu"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Chứng nhận",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS & giấy chứng nhận chất lượng",
+          "Giấy chứng nhận xuất xứ"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Hỗ trợ kỹ thuật",
+        "desc": "Giúp lựa chọn sản phẩm và cấu hình.",
+        "points": [
+          "Lựa chọn dựa trên thị trường",
+          "Tính toán moq và thời gian giao hàng",
+          "Đào tạo nhân viên"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Gói cung cấp",
+        "desc": "Xi lanh + phụ kiện theo một thứ tự.",
+        "points": [
+          "Hợp đồng duy nhất",
+          "Phối hợp giao hàng",
+          "Giảm giá theo gói"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Điều khoản về giá và cung cấp",
+    "subtitle": "Các điều khoản minh bạch cho hoạt động mua sắm B2B. Giá chính xác được tính riêng - gửi yêu cầu, chúng tôi trả lời trong vòng 24 giờ.",
+    "note": "Giá hiển thị là giá chỉ định (EXW). Chi phí cuối cùng phụ thuộc vào khối lượng, loại van, chứng nhận và điều kiện vận chuyển.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "từ 100 chiếc",
+        "desc": "Đơn hàng tối thiểu cho mỗi mẫu"
+      },
+      {
+        "label": "Thời gian dẫn",
+        "value": "15–25 ngày",
+        "desc": "Sau khi xác nhận đơn hàng"
+      },
+      {
+        "label": "Sự chi trả",
+        "value": "T/T 30/70",
+        "desc": "Đặt cọc 30%, 70% trước khi giao hàng"
+      },
+      {
+        "label": "Bảo hành",
+        "value": "12 tháng",
+        "desc": "Chống lại khuyết tật sản xuất"
+      }
+    ],
+    "factors": {
+      "title": "Yếu tố giá",
+      "items": [
+        "Dung tích & model xi lanh (2L – 50L)",
+        "Loại van (CGA, GOST, DIN, POL)",
+        "Tiêu chuẩn chứng nhận (ISO, DOT, TPED)",
+        "OEM: màu sắc, đánh dấu, đóng gói",
+        "Khối lượng đặt hàng & Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Axetylen WG-10",
+        "moq": "200 chiếc",
+        "price": "$28–35 / chiếc",
+        "lead": "18 ngày"
+      },
+      {
+        "product": "Axetylen WG-25",
+        "moq": "100 chiếc",
+        "price": "$45–58 / chiếc",
+        "lead": "20 ngày"
+      },
+      {
+        "product": "Propane WG-P11",
+        "moq": "500 chiếc",
+        "price": "$12–16 / chiếc",
+        "lead": "15 ngày"
+      },
+      {
+        "product": "Propane WG-P50",
+        "moq": "100 chiếc",
+        "price": "$55–72 / chiếc",
+        "lead": "22 ngày"
+      },
+      {
+        "product": "Máy phát điện WG-G20",
+        "moq": "1 đơn vị",
+        "price": "$3,500–4,200",
+        "lead": "25 ngày"
+      },
+      {
+        "product": "Bộ điều chỉnh",
+        "moq": "50 chiếc",
+        "price": "$8–15 / chiếc",
+        "lead": "10 ngày"
+      }
+    ],
+    "tableHeaders": [
+      "Sản phẩm",
+      "MOQ",
+      "Giá (EXW)",
+      "Thời gian dẫn"
+    ]
+  },
+  "certifications": {
+    "title": "Chứng nhận & Tiêu chuẩn",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Chai chứa khí bằng thép liền mạch - yêu cầu kỹ thuật"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Xi lanh axetylen hòa tan"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Chứng nhận thị trường Mỹ"
+      },
+      {
+        "name": "TPED",
+        "desc": "Chỉ thị vận tải châu Âu"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Tiêu chuẩn xi lanh khí Trung Quốc"
+      },
+      {
+        "name": "Dấu CE",
+        "desc": "Yêu cầu phù hợp của Châu Âu"
+      }
+    ]
+  },
+  "process": {
+    "title": "Cách đặt hàng",
+    "subtitle": "Quy trình đơn giản từ yêu cầu đến bình chứa tại kho của bạn.",
+    "steps": [
+      {
+        "title": "Gửi yêu cầu",
+        "desc": "Chỉ định các yêu cầu về sản phẩm, khối lượng, quốc gia và van"
+      },
+      {
+        "title": "Nhận báo giá",
+        "desc": "Giá, MOQ, thời gian giao hàng và bảng thông số kỹ thuật trong vòng 24 giờ"
+      },
+      {
+        "title": "Xác nhận đơn hàng",
+        "desc": "Ký kết hợp đồng và thanh toán cọc 30%"
+      },
+      {
+        "title": "Sản xuất & QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Lô hàng",
+        "desc": "Đóng gói, chứng từ, giao hàng FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "hàn",
+        "eyebrow": "Xi lanh axetylen",
+        "title": "Ngọn lửa ổn định để hàn chính xác",
+        "text": "Xi lanh axetylen hòa tan được thiết kế để hàn và hàn đồng liên tục - áp suất ổn định, khối xốp an toàn, van sẵn sàng xuất khẩu.",
+        "points": [
+          "Tùy chọn ISO/DOT/GB",
+          "Van CGA / GOST / DIN",
+          "Màu sắc & đánh dấu OEM"
+        ]
+      },
+      {
+        "id": "cắt",
+        "eyebrow": "Cắt & chế tạo",
+        "title": "Sức mạnh khi kim loại phải di chuyển",
+        "text": "Bộ xi lanh chứa axetylen và oxy lưu lượng cao dành cho nhà máy đóng tàu, nhà xưởng và dây chuyền chế tạo hạng nặng.",
+        "points": [
+          "Đâm và cắt nhanh",
+          "Bộ dụng cụ sẵn sàng cho ngọn đuốc",
+          "Số lượng lớn MOQ thân thiện"
+        ]
+      },
+      {
+        "id": "propan",
+        "eyebrow": "Propane & LPG",
+        "title": "Bình LPG bền bỉ cho mọi thị trường",
+        "text": "Từ khí đốt sưởi ấm và nấu ăn đến cắt công nghiệp — các xi lanh bằng thép được chế tạo để chịu áp lực, lớp phủ và tuổi thọ lâu dài.",
+        "points": [
+          "Phạm vi 3L–50L",
+          "Van POL/CGA",
+          "Sơn bột hoàn thiện"
+        ]
+      },
+      {
+        "id": "nhà máy",
+        "eyebrow": "Chế tạo",
+        "title": "Kiểm soát nhà máy từ thép đến vận chuyển",
+        "text": "Tạo hình, hàn, thử nghiệm thủy tĩnh và hoàn thiện nội bộ — vì vậy mỗi lô đều phù hợp với bản vẽ và tiêu chuẩn thị trường của bạn.",
+        "points": [
+          "Đã thử nghiệm thủy tĩnh",
+          "Lô có thể theo dõi",
+          "OEM/ODM sẵn sàng"
+        ]
+      },
+      {
+        "id": "chất lượng",
+        "eyebrow": "Chất lượng & an toàn",
+        "title": "Kiểm tra bạn có thể đưa vào báo giá",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Kiểm tra áp suất và rò rỉ",
+          "Certificate package",
+          "Hình ảnh trước khi giao hàng"
+        ]
+      },
+      {
+        "id": "xuất khẩu",
+        "eyebrow": "Xuất khẩu toàn cầu",
+        "title": "Được đóng gói cho các cảng, sẵn sàng cho hơn 50 quốc gia",
+        "text": "Xuất khẩu pallet, van bảo vệ, nhãn đa ngôn ngữ và tài liệu vận chuyển được điều phối cho Incoterms điểm đến của bạn.",
+        "points": [
+          "Hỗ trợ FOB/CIF",
+          "Đóng gói bằng pallet",
+          "Thời gian thực hiện 15–25 ngày"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Bình gas công nghiệp sẵn sàng tại nhà máy",
+    "about": "Kho xi lanh sẵn sàng xuất khẩu với bao bì bảo vệ",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Kho xi lanh thành phẩm tại nhà máy",
+      "Sản xuất hàn trên sàn nhà xưởng",
+      "Bao bì xuất khẩu có lưới bảo vệ",
+      "Propane cylinders ready for dispatch",
+      "Vận chuyển xi lanh số lượng lớn trên xe tải",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Phụ kiện",
+    "title": "Phụ kiện sản phẩm",
+    "subtitle": "Phụ tùng cho xi lanh axetylen, máy phát điện, hàn và cắt. Mở Chi tiết để biết thông số kỹ thuật và ứng dụng.",
+    "cta": "Yêu cầu chi tiết",
+    "details": "Chi tiết",
+    "close": "Đóng",
+    "featuresLabel": "Các tính năng chính",
+    "specsLabel": "Thông số kỹ thuật",
+    "applicationsLabel": "Ứng dụng",
+    "qualityLabel": "Chất lượng & cung cấp",
+    "whyTitle": "Tại sao chọn phụ kiện của chúng tôi?",
+    "why": [
+      "Đồng thau bền, thép không gỉ và vật liệu cấp công nghiệp",
+      "Tương thích với xi lanh, máy phát điện, bộ điều chỉnh, ống mềm và hệ thống hàn",
+      "Logo OEM, bao bì, kích thước kết nối, loại ren và thông số kỹ thuật",
+      "Đóng gói xuất khẩu và cung cấp ổn định cho khách hàng quốc tế"
+    ],
+    "items": [
+      {
+        "title": "Van hồi lưu axetylen",
+        "desc": "Ngăn chặn dòng khí đảo ngược và ngọn lửa bốc cháy trong hệ thống hàn và cắt oxy-axetylen.",
+        "intro": "Một thiết bị an toàn cần thiết cho hệ thống axetylen. Thiết bị chống cháy bằng thép không gỉ thiêu kết tích hợp và thiết kế dòng chảy một chiều bảo vệ người vận hành, ống mềm và đường dẫn khí. Tương thích với bộ điều chỉnh, ống mềm và đèn pin. Logo OEM, nhãn và bao bì có sẵn.",
+        "features": [
+          "Miếng chèn bằng thép không rỉ thiêu kết chống cháy",
+          "Thiết kế luồng không quay trở lại (một chiều)",
+          "Thân bằng đồng thau có độ bền cao, chống ăn mòn",
+          "Niêm phong đáng tin cậy dưới áp suất làm việc",
+          "Kết nối tiêu chuẩn để cài đặt và thay thế nhanh chóng"
+        ],
+        "specs": [
+          "Khí: axetylen (C₂H₂); thiết bị chống oxy được cung cấp riêng",
+          "Thân: đồng thau; thiết bị ngăn chặn: thép không gỉ",
+          "Kết nối: G 3/8” LH hoặc ren tùy chỉnh",
+          "Áp suất làm việc: lên tới 1,5 MPa / tùy chỉnh",
+          "Sử dụng: hàn, cắt và gia nhiệt bằng oxy-axetylen",
+          "Đóng gói: hộp cá nhân, thùng carton hoặc tùy chỉnh"
+        ],
+        "applications": [
+          "Hàn và cắt oxy-axetylen",
+          "Bộ điều chỉnh, ống mềm và cụm đèn pin",
+          "Đường dẫn khí máy phát điện axetylen"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Kiểm tra chức năng bịt kín, áp suất và hồi tưởng",
+          "Đóng gói xuất khẩu giao hàng đường dài"
+        ]
+      },
+      {
+        "title": "Hộp đựng máy phát điện axetylen",
+        "desc": "Hộp lõi để tạo axetylen ổn định từ cacbua canxi trong hệ thống khí công nghiệp.",
+        "intro": "Hộp đựng máy phát điện là thiết bị chính của hệ thống sản xuất axetylen. Nó được cung cấp để sản xuất khí ổn định trong hàn, cắt và các vị trí không có nguồn cung cấp xi lanh tập trung. Công suất, đường ống và trang bị an toàn có thể được kết hợp với kiểu máy phát điện.",
+        "features": [
+          "Thùng chứa lõi cho hệ thống tạo khí axetylen",
+          "Được thiết kế để tạo khí ổn định từ cacbua canxi",
+          "Có thể kết hợp với van lọc và van an toàn",
+          "Bố trí máy phát điện công nghiệp và nhỏ gọn",
+          "Đánh dấu OEM, kết nối và đóng gói theo yêu cầu"
+        ],
+        "specs": [
+          "Vai trò: lắp ráp hộp / thùng chứa máy phát điện",
+          "Phạm vi công suất điển hình của các máy phát điện liên quan: 3–100 m³/h",
+          "Áp suất làm việc của các đơn vị liên quan: khoảng 1,5–5 kPa",
+          "Cung cấp thiết bị làm mát, bộ lọc và phụ tùng theo yêu cầu",
+          "Kết nối, công suất và phần cắt được xác nhận theo đơn hàng"
+        ],
+        "applications": [
+          "Nhà máy phát điện axetylen và thiết bị di động",
+          "Xưởng không có nguồn cung cấp xi lanh tập trung",
+          "Sản xuất khí hàn cắt công nghiệp"
+        ],
+        "quality": [
+          "Nhà máy phù hợp với mô hình máy phát điện",
+          "Xuất khẩu đóng gói và tài liệu",
+          "Chi tiết về dung lượng và kết nối được xác nhận trước khi giao hàng"
+        ]
+      },
+      {
+        "title": "Đuốc cắt",
+        "desc": "Mỏ cắt oxy-axetylen bền bỉ để cắt chính xác, ngọn lửa ổn định và năng suất cao.",
+        "intro": "Mỏ cắt axetylen chuyên nghiệp cho vết cắt sạch và chính xác. Thân bằng đồng với ống không gỉ, tay cầm tiện dụng và vòi phun có thể thay thế. Tương thích với axetylen và oxy và với các đầu tip tiêu chuẩn.",
+        "features": [
+          "Xây dựng bằng đồng thau và không gỉ cao cấp",
+          "Ngọn lửa ổn định và kiểm soát cắt chính xác",
+          "Thiết kế tập trung vào an toàn để giảm nguy cơ cháy nổ",
+          "Tay cầm tiện dụng, dễ lắp ráp và bảo trì",
+          "Hoạt động với vòi phun, đầu tip và bộ ống tiêu chuẩn"
+        ],
+        "specs": [
+          "Model: Mỏ cắt CT-01",
+          "Khí: axetylen + oxy",
+          "Độ dày cắt: 3–300 mm (phụ thuộc vào vòi phun và áp suất)",
+          "Áp suất làm việc: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Đầu nối: G5/8-14 hoặc tùy chỉnh",
+          "Chiều dài: khoảng. 460mm",
+          "Đóng gói: 1 cái/hộp, 10 cái/thùng"
+        ],
+        "applications": [
+          "Cắt thép tấm, ống và profile",
+          "Cửa hàng chế tạo, nhà máy đóng tàu và xây dựng",
+          "Bảo trì công nghiệp và cắt tại chỗ"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Kiểm tra ngoại hình, kết nối, niêm phong và chức năng",
+          "Đóng gói xuất khẩu cho vận chuyển đường dài"
+        ]
+      },
+      {
+        "title": "Van góc ren trong/ngoài",
+        "desc": "Van góc xi lanh hạng nặng với các tùy chọn ren trong hoặc ngoài theo tiêu chuẩn thị trường.",
+        "intro": "Van góc cho khí axetylen và các loại khí công nghiệp khác: thân bằng đồng chắc chắn, bịt kín chính xác và vận hành tay quay trơn tru. Ren bên trong hoặc bên ngoài để phù hợp với tiêu chuẩn xi lanh và thiết bị.",
+        "features": [
+          "Thân đồng thau bền bỉ, chống ăn mòn",
+          "Gia công có độ chính xác cao để niêm phong đáng tin cậy",
+          "Tùy chọn kết nối luồng bên trong hoặc bên ngoài",
+          "Tay quay tiện dụng để đóng/mở dễ dàng",
+          "Kiểm tra an toàn và chức năng 100%"
+        ],
+        "specs": [
+          "Khí: axetylen, oxy, argon, nitơ và các loại khí tương thích",
+          "Áp suất làm việc: cấp 25/35 bar",
+          "Áp suất thử: loại 37,5 / 52,5 bar",
+          "Đầu vào/đầu ra: bên trong hoặc bên ngoài, tùy chỉnh",
+          "Tay quay: hợp kim nhôm/kẽm",
+          "Nhiệt độ: −20 °C đến +60 °C",
+          "Tiêu chuẩn: ISO 10297, GB/T 8335, CGA hoặc tùy chỉnh",
+          "Đóng gói: 1 cái/túi, 50 cái/hộp"
+        ],
+        "applications": [
+          "Bình chứa khí axetylen và khí công nghiệp",
+          "Hệ thống khí hàn và cắt",
+          "Nhà xưởng, nhà máy và cung cấp khí thí nghiệm"
+        ],
+        "quality": [
+          "Kiểm tra vật liệu, gia công, rò rỉ và bề ngoài",
+          "Đóng gói xuất khẩu vận chuyển đường dài",
+          "Kích thước chủ đề và tiêu chuẩn được xác nhận trên mỗi thị trường"
+        ]
+      },
+      {
+        "title": "Kẹp ống oxy",
+        "desc": "Kẹp truyền động sâu bằng thép không gỉ để kết nối ống oxy và ống công nghiệp an toàn, chống rò rỉ.",
+        "intro": "Kẹp ống oxy bằng thép không gỉ dùng trong hàn và công nghiệp. Lực kẹp mạnh, chống gỉ và các cạnh thân thiện với ống. Có thể tái sử dụng và dễ dàng cài đặt.",
+        "features": [
+          "Thép không gỉ 201/304",
+          "Lực kẹp mạnh và buộc chặt an toàn",
+          "Chống rỉ sét, ăn mòn và oxy hóa",
+          "Các cạnh dải mịn giúp bảo vệ ống",
+          "Dễ dàng cài đặt, gỡ bỏ và tái sử dụng"
+        ],
+        "specs": [
+          "Kiểu: kẹp ống dẫn động sâu",
+          "Phạm vi ống: 8–100 mm, kích thước tùy chỉnh cho số lượng lớn",
+          "Độ rộng dải: 9/12 mm; độ dày 0,6–0,8 mm",
+          "Vít: có rãnh hoặc đầu lục giác",
+          "Tiêu chuẩn: DIN 3017 / SAE J1508",
+          "Kết thúc: đánh bóng",
+          "Đóng gói: 100 chiếc/túi, 10 túi/thùng hoặc tùy chỉnh"
+        ],
+        "applications": [
+          "Ống oxy và nhiên liệu để hàn và cắt",
+          "Các khớp nối ống xi lanh, bộ điều chỉnh và đèn pin",
+          "Nhà máy, nhà xưởng và dây chuyền bảo trì"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Kích thước, băng tần và bao bì có thể được tùy chỉnh",
+          "Đóng gói chất lượng xuất khẩu"
+        ]
+      },
+      {
+        "title": "Ống oxy",
+        "desc": "Ống dẫn oxy áp suất cao linh hoạt có tuổi thọ cao dùng cho hàn, cắt và cung cấp khí công nghiệp.",
+        "intro": "Ống oxy được chế tạo để truyền khí an toàn dưới áp suất. Linh hoạt, chống xoắn và chống mài mòn, với thành bên trong nhẵn giúp dòng chảy ổn định. Nhiều ID và chiều dài để hàn và kết nối xi lanh.",
+        "features": [
+          "Áp suất làm việc và nổ cao",
+          "Cấu trúc linh hoạt, chống xoắn",
+          "Lão hóa, ozone và khả năng chống mài mòn",
+          "Thành bên trong nhẵn cho dòng khí ổn định",
+          "Nhẹ và dễ dàng xử lý"
+        ],
+        "specs": [
+          "Khí: oxy",
+          "Áp suất làm việc: 20 bar/290 psi",
+          "Áp suất nổ: 60 bar / 870 psi",
+          "ID: 6/8/9/10/12/13 mm (có sẵn tùy chỉnh)",
+          "Chiều dài: 10/20/30/50/100 m hoặc tùy chỉnh",
+          "Màu sắc: xanh tiêu chuẩn; chất liệu SBR/EPDM + sợi polyester",
+          "Tiêu chuẩn: ISO 3821 / EN 559 / GB/T 20098",
+          "Nhiệt độ: −20 °C đến +80 °C"
+        ],
+        "applications": [
+          "Cung cấp oxy cho hàn và cắt",
+          "Kết nối ống xi lanh với bộ điều chỉnh",
+          "Nhà máy, nhà xưởng và đường ống khí công nghiệp"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Đường kính, chiều dài, màu sắc và nhãn có thể được tùy chỉnh",
+          "Đóng gói xuất khẩu: thu nhỏ/túi dệt/thùng carton"
+        ]
+      },
+      {
+        "title": "Đồng hồ đo áp suất",
+        "desc": "Hiển thị áp suất chính xác cho oxy, axetylen và các loại khí công nghiệp khác.",
+        "intro": "Đồng hồ đo khí axetylen, oxy và khí công nghiệp: mặt số rõ ràng, kết cấu bền và số đọc ổn định trên xi lanh, bộ điều chỉnh và đường ống. Nhiều phạm vi và kết nối cho OEM và xuất khẩu.",
+        "features": [
+          "Độ chính xác cao và hiệu suất ổn định",
+          "Quay số rõ ràng để dễ đọc",
+          "Xây dựng công nghiệp chống sốc",
+          "Vật liệu chống ăn mòn",
+          "Nhiều phạm vi và giá đỡ phía dưới/phía sau"
+        ],
+        "specs": [
+          "Khí: axetylen, oxy, argon, CO₂, nitơ và các loại khí tương thích",
+          "Quay số: 50/63/100 mm, có sẵn tùy chỉnh",
+          "Phạm vi: 0–1 bar đến 0–400 bar, tùy chỉnh",
+          "Độ chính xác: ±2,5% tiêu chuẩn, ±1,6% tùy chọn",
+          "Chủ đề: G1/4, G1/8, NPT1/4, M12×1.5 hoặc tùy chỉnh",
+          "Vỏ: thép đen / không gỉ tùy chọn; đầu nối đồng thau hoặc SS",
+          "Cửa sổ: kính hoặc polycarbonate; −20 °C đến +60 °C",
+          "Đóng gói: 1 cái/hộp, 50 cái/thùng"
+        ],
+        "applications": [
+          "Bình gas và bộ điều chỉnh áp suất",
+          "Đường ống và hệ thống khí công nghiệp",
+          "Tấm hàn và cắt oxy-axetylen"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Tùy chọn quay số và nhãn hiệu OEM",
+          "Đóng gói xuất khẩu"
+        ]
+      },
+      {
+        "title": "Van cứu trợ an toàn",
+        "desc": "Tự động giải phóng áp suất dư thừa để bảo vệ xi lanh, đường ống và người vận hành.",
+        "intro": "Van giảm áp an toàn tự động xả quá áp để bảo vệ thiết bị và nhân sự. Thích hợp cho oxy, axetylen, không khí, nitơ và các loại khí tương thích. Thân bằng đồng nhỏ gọn, nhiều mức áp suất và kích cỡ ren.",
+        "features": [
+          "Tự động bảo vệ quá áp",
+          "Giảm đau ổn định dưới áp lực cao",
+          "Thân bằng đồng thau, chịu nhiệt và chống ăn mòn",
+          "Thiết kế nhỏ gọn để dễ dàng cài đặt và dịch vụ",
+          "Nhiều áp lực cài đặt và kích thước ren"
+        ],
+        "specs": [
+          "Khí: oxy, axetylen, không khí, nitơ và các loại khí tương thích",
+          "Áp suất làm việc: lên tới 25 bar / 25 kg/cm2",
+          "Phạm vi giảm áp: 0,1–2,5 MPa, có thể tùy chỉnh",
+          "Nhiệt độ: −20 °C đến +120 °C",
+          "Kết nối: nam/nữ; 1/4”, 3/8”, 1/2”, 3/4” BSP/NPT",
+          "Thân: đồng thau; con dấu: NBR / PTFE",
+          "Cấp áp suất cơ thể: 25/35 bar",
+          "Đóng gói: 1 cái/hộp, 50 cái/thùng"
+        ],
+        "applications": [
+          "Bảo vệ quá áp xi lanh và ống góp",
+          "Thiết bị và đường ống khí công nghiệp",
+          "Hệ thống hàn và cắt oxy-nhiên liệu"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Đặt áp suất, chỉ và cách đóng gói có thể được tùy chỉnh",
+          "Đóng gói xuất khẩu"
+        ]
+      },
+      {
+        "title": "Mỏ hàn",
+        "desc": "Mỏ hàn oxy-nhiên liệu tiện dụng có khả năng kiểm soát ngọn lửa mượt mà để hàn, hàn đồng và gia nhiệt.",
+        "intro": "Mỏ hàn hiệu suất cao dành cho công việc sử dụng nhiên liệu oxy: ngọn lửa ổn định, điều khiển chính xác và thân bằng đồng bền bỉ. Đầu bằng đồng, vòi phun và đầu nối ống có thể thay thế dùng cho nhà xưởng và công nghiệp.",
+        "features": [
+          "Ngọn lửa ổn định để hàn và sửa chữa kim loại",
+          "Dòng khí êm ái và kiểm soát ngọn lửa chính xác",
+          "Thân đồng thau bền, chịu nhiệt và chống ăn mòn",
+          "Tay cầm tiện dụng giúp thao tác thoải mái",
+          "Tương thích với oxy, axetylen và propan tùy chọn"
+        ],
+        "specs": [
+          "Kiểu: mỏ hàn oxy-axetylen",
+          "Thân: đồng thau; mẹo: đồng, có thể thay thế",
+          "Kết nối ống: G1/4” hoặc 9/16”-18 UNF",
+          "Áp suất làm việc: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Nhiệt độ: −20 °C đến +60 °C",
+          "Sử dụng: hàn, hàn đồng, sưởi ấm; cắt với các mẹo phù hợp",
+          "Đóng gói: 1 cái/hộp, 10 cái/thùng"
+        ],
+        "applications": [
+          "Hàn và sửa chữa oxy-axetylen",
+          "Hàn, sưởi ấm và nối",
+          "Nhà xưởng và bảo trì công nghiệp"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Kiểu đèn pin, đầu nối, bao bì và logo có thể là OEM",
+          "Kiểm tra vật liệu, rò rỉ và bề ngoài"
+        ]
+      },
+      {
+        "title": "Đầu chuyển đổi bộ lọc",
+        "desc": "Kết nối phần tử lọc với bộ điều chỉnh hoặc đường ống để lọc khí hiệu quả.",
+        "intro": "Đầu chuyển đổi bộ lọc là kết nối giữa phần tử bộ lọc và bộ điều chỉnh hoặc đường dẫn khí. Nó định vị phần tử, giữ hướng dòng chảy chính xác và giúp việc bảo trì và thay thế trở nên đơn giản trong hệ thống xi lanh và phân phối.",
+        "features": [
+          "Liên kết phần tử lọc với bộ điều chỉnh hoặc đường ống",
+          "Hỗ trợ lọc hiệu quả trong đường dẫn khí",
+          "Xây dựng đồng thau / kim loại công nghiệp",
+          "Cổng ren tiêu chuẩn để khớp hệ thống",
+          "Chủ đề OEM, kích thước và đóng gói theo yêu cầu"
+        ],
+        "specs": [
+          "Vai trò: Bộ chuyển đổi bộ lọc/Đầu chuyển đổi",
+          "Sử dụng: bộ điều chỉnh, đường ống và bộ lọc xi lanh",
+          "Kích thước kết nối và chủ đề được xác nhận trên mỗi đơn hàng",
+          "Phù hợp với các bộ phận lọc và bát như một bộ nếu được yêu cầu"
+        ],
+        "applications": [
+          "Phân phối khí trước bộ điều chỉnh và dụng cụ",
+          "Cụm lọc xi lanh và máy phát điện",
+          "Đường ống khí nhà xưởng và công nghiệp"
+        ],
+        "quality": [
+          "Kích thước kết nối được xác nhận trước khi sản xuất",
+          "Đóng gói xuất khẩu",
+          "Có thể được cung cấp với các phần tử lọc phù hợp"
+        ]
+      },
+      {
+        "title": "Lọc",
+        "desc": "Bộ lọc hiệu suất cao giúp loại bỏ độ ẩm, dầu và các hạt để bảo vệ thiết bị hạ lưu.",
+        "intro": "Loại bỏ các hạt rắn, nước, dầu và các tạp chất khác khỏi dòng khí để bảo vệ thiết bị và kéo dài tuổi thọ. Đầu bằng đồng thau, bộ phận chất lượng và hoạt động ổn định dưới áp lực. Đối với oxy, axetylen, không khí, nitơ và các loại khí tương thích.",
+        "features": [
+          "Lọc hiệu quả cao cho dòng khí sạch",
+          "Loại bỏ độ ẩm, dầu và các hạt",
+          "Đầu bằng đồng thau bền và bát kim loại",
+          "Yếu tố có thể tháo rời để làm sạch hoặc thay thế",
+          "Hoạt động ổn định dưới áp suất làm việc"
+        ],
+        "specs": [
+          "Khí: oxy, axetylen, không khí, nitơ và các loại khí tương thích",
+          "Áp suất đầu vào: lên tới 2,5 MPa",
+          "Áp suất làm việc: 0,01–1,6 MPa",
+          "Độ chính xác: 5/20/50 μm tùy chọn",
+          "Kết nối: G1/4”, G3/8”, G1/2”, G3/4” tùy chọn",
+          "Thân: đồng thau; nguyên tố: đồng thiêu kết / thép không gỉ",
+          "Nhiệt độ: −20 °C đến +60 °C",
+          "Đóng gói: 1 cái/hộp, 20 cái/thùng"
+        ],
+        "applications": [
+          "Hệ thống xi lanh, bộ điều chỉnh và phân phối",
+          "Nhà máy, nhà xưởng và đường ống khí công nghiệp",
+          "Dòng chảy sạch hơn dành cho hàn, cắt và cung cấp cho phòng thí nghiệm"
+        ],
+        "quality": [
+          "Kiểm tra 100% trước khi giao hàng",
+          "Chủ đề, độ chính xác và phần tử có thể được tùy chỉnh",
+          "Đóng gói xuất khẩu"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Hợp pháp",
+    "title": "Chính sách bảo mật",
+    "updated": "Cập nhật lần cuối: ngày 25 tháng 8 năm 2026",
+    "intro": [
+      "Tập đoàn Wanda (“chúng tôi”) vận hành trang web này để giới thiệu bình gas, phụ kiện và nguồn cung cấp xuất khẩu có liên quan, đồng thời nhận các yêu cầu thương mại từ người mua công nghiệp.",
+      "Chính sách này giải thích dữ liệu cá nhân nào chúng tôi thu thập thông qua trang web, lý do chúng tôi sử dụng dữ liệu đó và cách bạn có thể liên hệ với chúng tôi về dữ liệu đó. Chúng tôi không xuất bản video nhà máy hoặc tệp chứng chỉ trên trang web; những tài liệu đó được gửi riêng theo yêu cầu."
+    ],
+    "sections": [
+      {
+        "title": "Ai chịu trách nhiệm",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Dữ liệu nào chúng tôi thu thập",
+        "body": [
+          "Khi bạn gửi biểu mẫu yêu cầu, chúng tôi sẽ nhận được dữ liệu bạn nhập: tên, email, số điện thoại, quốc gia đến, loại sản phẩm, số lượng và tin nhắn.",
+          "Trang web cũng lưu trữ lựa chọn ngôn ngữ của bạn trong trình duyệt (localStorage). Chúng tôi không chạy cookie quảng cáo hoặc bán danh sách khách truy cập."
+        ]
+      },
+      {
+        "title": "Tại sao chúng tôi sử dụng dữ liệu",
+        "body": [
+          "Chúng tôi chỉ sử dụng dữ liệu yêu cầu để trả lời yêu cầu của bạn, chuẩn bị báo giá, gửi thông tin sản phẩm, video hoặc chứng chỉ mà bạn yêu cầu và để điều phối đơn đặt hàng nếu chúng ta bắt đầu làm việc cùng nhau.",
+          "Cơ sở pháp lý: sự đồng ý của bạn khi bạn đánh dấu vào hộp kiểm trên biểu mẫu và lợi ích chính đáng của chúng tôi trong việc trả lời các yêu cầu bán hàng B2B."
+        ]
+      },
+      {
+        "title": "Ai nhận được dữ liệu",
+        "body": [
+          "Tin nhắn của bạn sẽ được gửi đến đội ngũ bán hàng của chúng tôi qua email. Tùy thuộc vào cấu hình, biểu mẫu có thể được Web3Forms xử lý với tư cách là nhà cung cấp kỹ thuật truyền thông báo cho chúng tôi.",
+          "Chúng tôi không bán dữ liệu cá nhân. Chúng tôi chỉ có thể chia sẻ những gì cần thiết với các đối tác hậu cần, kiểm tra hoặc ngân hàng nếu điều đó là cần thiết để thực hiện đơn đặt hàng đã thỏa thuận."
+        ]
+      },
+      {
+        "title": "Chúng ta giữ nó trong bao lâu",
+        "body": [
+          "Dữ liệu yêu cầu được lưu giữ trong khoảng thời gian cần thiết để xử lý yêu cầu và trong khoảng thời gian hợp lý sau đó để theo dõi và hạch toán doanh số bán hàng, trừ khi bạn yêu cầu chúng tôi xóa dữ liệu đó sớm hơn nếu luật pháp cho phép."
+        ]
+      },
+      {
+        "title": "Quyền của bạn",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "An ninh và trẻ em",
+        "body": [
+          "Chúng tôi thực hiện các bước tổ chức và kỹ thuật hợp lý để bảo vệ thư được chuyển tiếp và trong hộp thư của chúng tôi. Trang web này dành cho người mua doanh nghiệp, không dành cho trẻ em."
+        ]
+      }
+    ],
+    "contactLead": "Các câu hỏi về chính sách này:"
+  }
+}

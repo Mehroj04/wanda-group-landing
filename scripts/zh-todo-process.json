@@ -1,0 +1,13 @@
+{
+  "process.title": "How to Order",
+  "process.subtitle": "Simple process from inquiry to cylinders at your warehouse.",
+  "process.steps[0].title": "Send Inquiry",
+  "process.steps[0].desc": "Specify product, volume, country and valve requirements",
+  "process.steps[1].title": "Receive Quotation",
+  "process.steps[1].desc": "Price, MOQ, lead time and spec sheet within 24 hours",
+  "process.steps[2].title": "Confirm Order",
+  "process.steps[2].desc": "Contract signing and 30% deposit payment",
+  "process.steps[3].title": "Production & QC",
+  "process.steps[4].title": "Shipment",
+  "process.steps[4].desc": "Packaging, documents, FOB/CIF/DDP delivery"
+}

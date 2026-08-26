@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Prodotti",
+    "specs": "Specifiche",
+    "applications": "Applicazioni",
+    "about": "Di",
+    "gallery": "Galleria",
+    "quality": "Qualità",
+    "faq": "Domande frequenti",
+    "contact": "Contatto",
+    "getQuote": "Ottieni un preventivo",
+    "inquire": "Chiedi →",
+    "services": "Servizi",
+    "pricing": "Prezzi",
+    "accessories": "Accessori",
+    "home": "Casa",
+    "factory": "Fabbrica"
+  },
+  "hero": {
+    "badge": "Produttore di bombole di gas",
+    "title": "Bombole di gas affidabili per l'industria e la saldatura",
+    "subtitle": "Wanda Group è un produttore e fornitore affidabile di bombole di acetilene, propano e accessori. Soluzioni per la fornitura di gas, saldatura, taglio e stoccaggio in tutto il mondo.",
+    "cta": "Ottieni un preventivo",
+    "ctaSecondary": "I nostri prodotti",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Anni di esperienza"
+      },
+      {
+        "value": "500K+",
+        "label": "Capacità produttiva/anno"
+      },
+      {
+        "value": "50+",
+        "label": "Mercati di esportazione"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Qualità e certificazione"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Accessori affidabili per bombole di gas",
+    "text": "Manometri, valvole, tubi flessibili, torce e raccordi di sicurezza: forniti insieme alle bombole o come ordine separato.",
+    "cta": "Visualizza gli accessori"
+  },
+  "products": {
+    "title": "I nostri prodotti",
+    "subtitle": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
+    "items": [
+      {
+        "title": "Cilindro di acetilene",
+        "desc": "Bombole di acetilene disciolto per saldatura, taglio e gas industriali. Varie dimensioni e opzioni di valvole.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO/DOT/TPED"
+      },
+      {
+        "title": "Generatore di acetilene",
+        "desc": "Apparecchiature per la produzione stabile di gas, facilità d'uso e applicazioni industriali.",
+        "icon": "⚙️",
+        "spec": "Sistemi di generazione industriale"
+      },
+      {
+        "title": "Bombola di propano",
+        "desc": "Bombole durevoli per propano e GPL: stoccaggio, riscaldamento, taglio e uso industriale.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL/CGA/GOST"
+      },
+      {
+        "title": "Accessori per cilindri",
+        "desc": "Tubi flessibili, manometri, cannelli da taglio, bruciatori per saldatura, valvole di sicurezza e altro ancora.",
+        "icon": "🔧",
+        "spec": "Valvole · regolatori · tubi · torce"
+      }
+    ],
+    "viewDetails": "Visualizza dettagli"
+  },
+  "specs": {
+    "title": "Specifiche tecniche",
+    "subtitle": "Esplora le opzioni del cilindro, le capacità di personalizzazione e i dettagli di spedizione prima di inviare una richiesta.",
+    "items": [
+      {
+        "title": "Capacità del cilindro",
+        "desc": "Varie opzioni di capacità e volume a seconda dell'applicazione e dei requisiti del mercato."
+      },
+      {
+        "title": "Valvole e cappucci",
+        "desc": "Valvole, tappi e raccordi forniti in base alle esigenze del cliente e del progetto."
+      },
+      {
+        "title": "Opzioni solvente",
+        "desc": "Sistema di riempimento poroso e solventi per lo stoccaggio stabile dell'acetilene."
+      },
+      {
+        "title": "Imballaggio e spedizione",
+        "desc": "Imballaggio per l'esportazione e supporto per la spedizione per distributori e clienti del progetto."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Applicazioni del cilindro",
+    "subtitle": "Prodotti progettati per le attività comuni relative ai gas industriali e per le esigenze degli acquirenti esteri.",
+    "items": [
+      "Saldatura e brasatura",
+      "Taglio dei metalli",
+      "Fornitura di gas industriale",
+      "Costruzione",
+      "Fabbricazione di metalli",
+      "Stoccaggio e distribuzione del gas"
+    ]
+  },
+  "whyUs": {
+    "title": "Perchè il Gruppo Wanda?",
+    "subtitle": "Produzione diretta, personalizzazione e supporto completo per l'esportazione: tutto per la tua azienda.",
+    "items": [
+      {
+        "title": "Alta qualità",
+        "desc": "Bombole in acciaio costruite per saldatura industriale e fornitura gas."
+      },
+      {
+        "title": "Controllo di qualità rigoroso",
+        "desc": "Ispezione dai materiali in entrata all'imballaggio finale."
+      },
+      {
+        "title": "Produzione avanzata",
+        "desc": "Formatura, saldatura, collaudo e finitura in un unico stabilimento."
+      },
+      {
+        "title": "OEM/ODM",
+        "desc": "Colore, valvola, marcatura, tappo e confezione su ordinazione."
+      },
+      {
+        "title": "Esportazione internazionale",
+        "desc": "Documenti e imballaggi per acquirenti industriali esteri."
+      },
+      {
+        "title": "Consegna affidabile",
+        "desc": "Tempi di consegna tipici 15–25 giorni dalla conferma dell'ordine."
+      }
+    ]
+  },
+  "about": {
+    "title": "Produttore professionale di bombole di gas",
+    "text": "Il produttore di bombole di gas del Gruppo Wanda è specializzato nella produzione e fornitura di bombole di gas industriali e relativi accessori. I nostri prodotti sono ampiamente utilizzati nei settori della saldatura, del taglio, della distribuzione del gas, dello stoccaggio industriale e in altri settori della fornitura di gas.",
+    "text2": "Supportiamo gli acquirenti esteri nella selezione dei prodotti, nella personalizzazione, nel controllo della qualità, nell'imballaggio e nel coordinamento della spedizione.",
+    "facts": [
+      {
+        "title": "Esperienza",
+        "desc": "Oltre 15 anni di fornitura di bombole di gas industriali."
+      },
+      {
+        "title": "Produzione",
+        "desc": "Formatura, saldatura, collaudo e finitura internamente."
+      },
+      {
+        "title": "Qualità",
+        "desc": "Opzioni ISO 9809, DOT e TPED per mercato."
+      },
+      {
+        "title": "Esportare",
+        "desc": "Spedizioni coordinate per oltre 50 mercati di destinazione."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "All'interno della nostra fabbrica",
+    "subtitle": "Produzione, saldatura, collaudo, verniciatura e cilindri finiti: come prepariamo gli ordini di esportazione.",
+    "items": [
+      {
+        "title": "Stock di cilindro finito",
+        "desc": "Inventario pronto nel nostro stabilimento: capacità di volume per ordini all'ingrosso ed esportazione."
+      },
+      {
+        "title": "Saldatura di produzione",
+        "desc": "Fabbricazione di metalli nello stabilimento con fornitura di gas industriale."
+      },
+      {
+        "title": "Imballaggio per l'esportazione",
+        "desc": "Rete protettiva e imballaggio su pallet prima della spedizione internazionale."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Spedizione di bombole sfuse",
+        "desc": "Carichi sicuri in gabbia per il trasporto su strada verso distributori e stabilimenti."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Gamma di dimensioni del cilindro",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Controllo di qualità",
+    "subtitle": "Ogni lotto segue lo stesso percorso: produzione, collaudo, ispezione e controllo qualità finale.",
+    "steps": [
+      {
+        "title": "Produzione",
+        "desc": "Formatura, saldatura e assemblaggio sotto controllo di processo in stabilimento."
+      },
+      {
+        "title": "Test",
+        "desc": "Test di pressione e tenuta prima che le bombole lascino la linea."
+      },
+      {
+        "title": "Ispezione",
+        "desc": "Controlli visivi, di marcatura e dimensionali rispetto all'ordine."
+      },
+      {
+        "title": "Controllo qualità finale",
+        "desc": "Ispezione dell'imballaggio prima della spedizione per l'esportazione."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Non hai trovato la tua domanda? Invia il prodotto, la taglia, la quantità e il paese di destinazione: ti risponderemo con un'offerta dettagliata.",
+    "ctaBtn": "Ottieni un preventivo",
+    "groups": [
+      {
+        "title": "Azienda",
+        "items": [
+          {
+            "q": "Sei un produttore di bombole di gas?",
+            "a": "SÌ. Il Gruppo Wanda è specializzato nella produzione di bombole di gas e relative soluzioni di fornitura di gas industriale per acquirenti industriali esteri."
+          },
+          {
+            "q": "Quali prodotti fornite principalmente?",
+            "a": "Forniamo bombole di acetilene, bombole di propano, generatori di acetilene e accessori per bombole di gas come valvole, regolatori, tubi flessibili, manometri e torce."
+          },
+          {
+            "q": "Potete supportare la personalizzazione OEM?",
+            "a": "SÌ. Il colore della bombola, la marcatura, la valvola, il cappuccio e le opzioni di imballaggio possono essere discussi in base all'ordine e al mercato di destinazione."
+          },
+          {
+            "q": "Supportate gli acquirenti esteri?",
+            "a": "SÌ. Supportiamo l'esportazione, la selezione del prodotto, i requisiti di imballaggio, la documentazione e il coordinamento delle spedizioni."
+          },
+          {
+            "q": "Come posso ottenere un preventivo?",
+            "a": "Si prega di specificare il tipo di prodotto, la dimensione della bombola, la quantità, il paese di destinazione e i requisiti di personalizzazione tramite il modulo di richiesta o via e-mail. Il nostro team risponderà con i dettagli del prodotto e un preventivo."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Posso guardare i video della fabbrica prima di effettuare un ordine?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Fornite video dei prodotti, in particolare per le bombole di acetilene?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Potete mostrare video di produzione e controllo qualità?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Posso richiedere un video prodotto realizzato per un ordine specifico?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Soluzioni",
+        "items": [
+          {
+            "q": "Quali soluzioni per bombole di gas offrite?",
+            "a": "Offriamo soluzioni per saldatura e taglio, distribuzione del gas, stoccaggio industriale, generazione di acetilene, fornitura OEM e acquisti per l'esportazione."
+          },
+          {
+            "q": "Potete consigliarmi prodotti per la mia applicazione?",
+            "a": "SÌ. Invia la tua richiesta, la dimensione della bombola, la quantità, il paese di destinazione e gli accessori richiesti: ti consiglieremo i prodotti adatti."
+          },
+          {
+            "q": "Fornite accessori insieme ai cilindri?",
+            "a": "SÌ. Possiamo fornire regolatori di pressione, tubi flessibili, manometri, cannelli da taglio, cannelli per saldatura, valvole e raccordi insieme alle bombole."
+          },
+          {
+            "q": "Potete fornire bombole di gas agli acquirenti OEM?",
+            "a": "SÌ. Il colore del cilindro, la marcatura, la valvola, il cappuccio, il logo e l'imballaggio possono essere discussi in base all'ordine."
+          }
+        ]
+      },
+      {
+        "title": "Prodotti",
+        "items": [
+          {
+            "q": "A cosa serve una bombola di acetilene disciolto?",
+            "a": "Le bombole di acetilene disciolto sono ampiamente utilizzate per saldatura, taglio, brasatura, fabbricazione di metalli e fornitura di gas industriale."
+          },
+          {
+            "q": "Quali dimensioni di cilindro potete fornire?",
+            "a": "È possibile discutere di vari volumi e capacità a seconda del mercato di riferimento, dell'applicazione e della quantità dell'ordine. Per confermare, specificare la dimensione richiesta o lo standard locale."
+          },
+          {
+            "q": "È possibile modificare il colore della bombola, la valvola e la marcatura?",
+            "a": "SÌ. Il colore della bombola, la valvola, il cappuccio, la marcatura, l'etichetta e l'imballaggio per l'esportazione possono essere realizzati su ordinazione."
+          }
+        ]
+      },
+      {
+        "title": "Accessori",
+        "items": [
+          {
+            "q": "Quali accessori fornite?",
+            "a": "Forniamo dispositivi antiritorno di fiamma, manometri, valvole di sicurezza, tubi dell'ossigeno, fascette stringitubo, cannelli da taglio, torce per saldatura, filtri, adattatori e altri accessori per bombole di gas."
+          },
+          {
+            "q": "Gli accessori per bombole di gas possono essere personalizzati?",
+            "a": "SÌ. Possiamo personalizzare logo, imballaggio, dimensione della connessione, tipo di filettatura, campo di pressione e specifiche tecniche."
+          },
+          {
+            "q": "È possibile ordinare gli accessori insieme alle bombole del gas?",
+            "a": "SÌ. Gli accessori possono essere forniti insieme a bombole di acetilene, bombole di propano e generatori di acetilene."
+          },
+          {
+            "q": "Supportate l'imballaggio OEM?",
+            "a": "SÌ. Per gli ordini all'ingrosso possiamo fornire marcatura OEM, cartoni, sacchetti ed etichette di prodotto."
+          },
+          {
+            "q": "Potete fornire foto e specifiche del prodotto?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Come posso ottenere un preventivo per gli accessori?",
+            "a": "Si prega di specificare il nome del prodotto, la quantità, la dimensione della connessione, la pressione di esercizio, i requisiti di imballaggio e il paese o il porto di destinazione."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Ultimi articoli",
+    "subtitle": "Contenuti esperti per professionisti della saldatura e della fornitura di gas.",
+    "readMore": "Leggi di più →",
+    "close": "Vicina",
+    "items": [
+      {
+        "tag": "Artigiani",
+        "title": "Soluzione completa per la fornitura di bombole di propano",
+        "desc": "La stabilità dell'attrezzatura influisce direttamente sull'efficienza del lavoro di saldatura e taglio.",
+        "body": [
+          "Per gli artigiani che saldano, riparano e fabbricano metalli ogni giorno, le apparecchiature a gas stabili influiscono direttamente sulla qualità e sulla velocità del lavoro.",
+          "Le bombole di propano del Gruppo Wanda sono disponibili da 3 litri a 50 litri con valvole POL, CGA 510 o GOST a seconda del mercato: un unico fornitore per saldatura, taglio e riscaldamento.",
+          "Consigliamo di ordinare le bombole insieme a regolatori, tubi e torce. La fornitura in bundle riduce i costi logistici e garantisce la compatibilità degli accessori.",
+          "Al momento dell'ordine, specifica il mercato di destinazione, il volume, il tipo di valvola e il colore: prepariamo la marcatura OEM e l'imballaggio per l'esportazione con il tuo marchio."
+        ]
+      },
+      {
+        "tag": "Magazzinaggio",
+        "title": "Suggerimenti per lo stoccaggio a lungo termine delle bombole di acetilene",
+        "desc": "Condizioni di conservazione, metodi di posizionamento e ispezioni periodiche delle bombole non utilizzate.",
+        "body": [
+          "Molte aziende immagazzinano bombole di acetilene e propano durante le interruzioni della produzione o come scorte. Le bombole inutilizzate richiedono ancora una gestione adeguata.",
+          "Conservare le bombole in posizione verticale in un'area ben ventilata, lontano da fonti di calore e dalla luce solare diretta. La temperatura di conservazione in genere non deve superare i 40–50°C.",
+          "Ispezionare valvole, cappucci e contrassegni almeno trimestralmente. Per lo stoccaggio dell'acetilene a lungo termine, mantenere le bombole verticali e non inclinarle mai.",
+          "Wanda Group spedisce bombole con cappucci protettivi e imballaggi per l'esportazione progettati per il trasporto e lo stoccaggio sicuri. Le guide allo stoccaggio sono disponibili nella tua lingua su richiesta."
+        ]
+      },
+      {
+        "tag": "Prezzi",
+        "title": "Guida al budget per l'acquisto di bombole di acetilene",
+        "desc": "Fattori che influenzano i costi e come scegliere l'offerta ottimale.",
+        "body": [
+          "Il prezzo delle bombole di acetilene dipende dal volume (2-40 l), dal tipo di valvola, dalla certificazione (ISO, DOT, TPED) e dalla quantità ordinata. Prezzi EXW indicativi: WG-10 $ 28–35, WG-25 $ 45–58 per unità.",
+          "I lotti più grandi (200–500+ pezzi) ricevono sconti significativi. La verniciatura OEM, il logo e l'imballaggio speciale aggiungono il 5–15% al ​​prezzo base ma aumentano il valore per i distributori.",
+          "Tieni conto anche della spedizione (FOB/CIF), dei documenti e del MOQ. Rispondiamo entro 24 ore con specifiche complete, tempi di consegna e Incoterms.",
+          "Per un preventivo esatto, includi modello, quantità, paese di destinazione e requisiti della valvola nel modulo di contatto o invia un'e-mail a sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Richiedi un preventivo",
+    "subtitle": "Comunicaci le dimensioni, la quantità, il paese di destinazione e l'applicazione: prepareremo un preventivo dettagliato.",
+    "formTitle": "Richiedi un preventivo",
+    "formSubtitle": "Lascia le tue esigenze: il nostro team di vendita risponderà con informazioni sul prodotto, prezzi, MOQ e tempi di consegna.",
+    "name": "Nome",
+    "phone": "Telefono/WhatsApp",
+    "email": "E-mail",
+    "product": "Prodotto",
+    "quantity": "Quantità",
+    "country": "Paese di destinazione",
+    "productOptions": [
+      "Cilindro di acetilene",
+      "Bombola di propano",
+      "Generatore di acetilene",
+      "Accessori",
+      "Ordine del pacchetto"
+    ],
+    "message": "Requisiti aggiuntivi",
+    "messagePlaceholder": "Prodotto, taglia, quantità, paese di destinazione...",
+    "submit": "Invia richiesta",
+    "sending": "Invio...",
+    "success": "Grazie! Ti contatteremo a breve.",
+    "sendAnother": "Invia un'altra richiesta",
+    "errorGeneric": "Impossibile inviare. Riprova o inviaci direttamente un'e-mail.",
+    "errorNoForm": "Modulo non configurato. Si prega di inviare un'e-mail a sales@wandagroups.com",
+    "privacyPrefix": "Sono d'accordo con",
+    "privacySuffix": "e al trattamento dei miei dati personali per gestire la presente richiesta.",
+    "privacyLink": "politica sulla riservatezza",
+    "company": "Azienda",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Invia tramite app di posta elettronica"
+  },
+  "footer": {
+    "company": "Produttore di bombole di gas del Gruppo Wanda",
+    "tagline": "Produzione professionale di bombole di gas",
+    "rights": "© 2026 Gruppo Wanda. Tutti i diritti riservati.",
+    "privacy": "politica sulla riservatezza"
+  },
+  "ui": {
+    "catalog": "Catalogare",
+    "catalogTitle": "Specifiche dettagliate del prodotto",
+    "catalogSubtitle": "Dati tecnici completi, modelli e parametri per ogni categoria. Seleziona un prodotto per visualizzare la tabella delle specifiche.",
+    "requestPrice": "Richiedi il prezzo per questo modello",
+    "services": "Servizi",
+    "pricing": "Prezzi",
+    "getExactQuote": "Ottieni un preventivo esatto",
+    "certifications": "Certificazioni",
+    "order": "Ordine",
+    "reviews": "Recensioni",
+    "contact": "Contatto",
+    "phone": "Telefono",
+    "location": "Posizione",
+    "quoteResponse": "Risposta al preventivo",
+    "support": "Supporto",
+    "exportReady": "Esportazione pronta",
+    "years": "Anni",
+    "acetylene": "Acetilene",
+    "isoCertified": "Certificato ISO",
+    "globalExport": "Esportazione globale",
+    "products": "Prodotti",
+    "specs": "Specifiche",
+    "applications": "Applicazioni",
+    "whyUs": "Perché noi",
+    "about": "Chi siamo",
+    "gallery": "Galleria",
+    "quality": "Qualità",
+    "faq": "Domande frequenti",
+    "blog": "Blog",
+    "countriesServed": "Paesi serviti",
+    "searchLanguage": "Cerca lingua...",
+    "noLanguagesFound": "Nessuna lingua trovata"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Esporta in oltre 50 paesi",
+    "MOQ da 100 pz",
+    "Tempi di consegna 15–25 giorni"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetilene",
+      "propane": "Propano",
+      "generator": "Generatrice",
+      "accessories": "Accessori"
+    },
+    "acetylene": {
+      "title": "Cilindri di acetilene disciolto",
+      "intro": "Cilindri in acciaio con massa porosa e solvente per lo stoccaggio e il trasporto sicuro dell'acetilene. Utilizzato nella saldatura, nel taglio, nella brasatura e nella fabbricazione dei metalli.",
+      "features": [
+        "Massa porosa + acetone per una conservazione stabile",
+        "Valvole CGA 510 / GOST / DIN su richiesta",
+        "Pressione di prova idraulica 5,2 MPa",
+        "Verniciatura RAL, stampaggio ed etichette OEM",
+        "Imballaggio su pallet per esportazione"
+      ],
+      "tableTitle": "Modelli con bombole di acetilene standard",
+      "headers": [
+        "Modella",
+        "Volume (l)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Peso (kg)",
+        "Altezza (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* I parametri esatti dipendono dallo standard (ISO/DOT/GB) e dalla configurazione della valvola. Richiedi la scheda tecnica per il tuo mercato."
+    },
+    "propane": {
+      "title": "Bombole di propano e GPL",
+      "intro": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale.",
+      "features": [
+        "Acciaio 37Mn/34CrMo4 conforme a ISO 9809",
+        "Pressione di esercizio 1,8–2,1 MPa",
+        "Valvole POL, CGA 510, GOST",
+        "Verniciatura a polvere, anticorrosione",
+        "Certificati per i mercati UE, USA, CSI"
+      ],
+      "tableTitle": "Modelli di bombole di propano standard",
+      "headers": [
+        "Modella",
+        "Volume (l)",
+        "Gas (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Peso (kg)",
+        "Altezza (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "*Il prezzo e il MOQ dipendono dal volume dell'ordine e dal tipo di valvola. Invia richiesta per un preventivo esatto."
+    },
+    "generator": {
+      "title": "Generatori di acetilene",
+      "intro": "Attrezzatura per la produzione di acetilene dal carburo di calcio. Fornitura di gas stabile per esigenze di saldatura e industriali senza infrastruttura del gas centralizzata.",
+      "features": [
+        "Portata 3–100 m³/h",
+        "Alimentazione automatica di acqua e carburo",
+        "Sistema di sicurezza e filtraggio",
+        "Modelli compatti e industriali",
+        "Documentazione e formazione complete"
+      ],
+      "tableTitle": "Modelli di generatori di acetilene",
+      "headers": [
+        "Modella",
+        "Produzione (m³/h)",
+        "Carburo (kg/ora)",
+        "Pressione (kPa)",
+        "Potenza (kW)",
+        "Peso (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "*Generatori forniti con sistema di raffreddamento, filtri e kit ricambi su richiesta."
+    },
+    "accessories": {
+      "title": "Accessori e raccordi per cilindri",
+      "intro": "Gamma completa per il funzionamento sicuro delle bombole di gas: dai manometri alle torce di saldatura. Approvvigionamento unico per le bombole.",
+      "features": [
+        "Regolatori e manometri (CGA/GOST/DIN)",
+        "Tubi ad alta pressione",
+        "Cannelli da taglio e bruciatori per saldatura",
+        "Valvole limitatrici di pressione",
+        "Carrelli, supporti, cappellini"
+      ],
+      "tableTitle": "Catalogo Accessori",
+      "headers": [
+        "Categoria",
+        "Modelle",
+        "Standard",
+        "Applicazione"
+      ],
+      "rows": [
+        [
+          "Regolatori",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetilene, propano"
+        ],
+        [
+          "Calibri",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Monitoraggio della pressione"
+        ],
+        [
+          "Tubi",
+          "WG-H6, WG-H9",
+          "EN559",
+          "Saldatura, taglio"
+        ],
+        [
+          "Torce",
+          "WG-C100, WG-C300",
+          "—",
+          "Taglio plasma/ossitaglio"
+        ],
+        [
+          "Bruciatori",
+          "WG-T200, WG-T500",
+          "—",
+          "Saldatura, brasatura"
+        ],
+        [
+          "Valvole",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Tutti i tipi di cilindri"
+        ]
+      ],
+      "note": "*Accessori disponibili separatamente o in bundle con i cilindri. Sconto su ordini combinati."
+    }
+  },
+  "services": {
+    "title": "I nostri servizi",
+    "subtitle": "Ciclo completo: dalla produzione alla consegna al vostro magazzino. Lavoriamo con distributori, marchi OEM e acquirenti di progetti.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Produzione personalizzata (OEM/ODM)",
+        "desc": "Cilindri con il tuo marchio, colore e marcatura.",
+        "points": [
+          "Logo e colore RAL",
+          "Valvola standard di mercato",
+          "Imballaggi ed etichette OEM"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Esportazione e logistica",
+        "desc": "Supporto completo per le spedizioni internazionali.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Documentazione di esportazione",
+          "Trasporto marittimo e ferroviario"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Controllo di qualità",
+        "desc": "Test e controlli in ogni fase.",
+        "points": [
+          "Prove idrostatiche",
+          "Ispezione delle saldature UT",
+          "Ispezione SGS/BV su richiesta"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Certificazione",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "Scheda di sicurezza e certificato di qualità",
+          "Certificato di origine"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Supporto tecnico",
+        "desc": "Aiuta nella selezione dei prodotti e nella configurazione.",
+        "points": [
+          "Selezione basata sul mercato",
+          "MOQ e calcolo dei tempi di consegna",
+          "Formazione del personale"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Fornitura in bundle",
+        "desc": "Bombole + accessori in un unico ordine.",
+        "points": [
+          "Contratto unico",
+          "Consegna coordinata",
+          "Sconto pacchetto"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Prezzi e termini di fornitura",
+    "subtitle": "Termini trasparenti per gli appalti B2B. Il prezzo esatto viene calcolato individualmente: invia una richiesta, ti risponderemo entro 24 ore.",
+    "note": "I prezzi indicati sono indicativi (EXW). Il costo finale dipende dal volume, dal tipo di valvola, dalla certificazione e dai termini di spedizione.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "da 100 pz",
+        "desc": "Ordine minimo per modello"
+      },
+      {
+        "label": "Tempi di consegna",
+        "value": "15–25 giorni",
+        "desc": "Dopo la conferma dell'ordine"
+      },
+      {
+        "label": "Pagamento",
+        "value": "T/T 30/70",
+        "desc": "Deposito del 30%, 70% prima della spedizione"
+      },
+      {
+        "label": "Garanzia",
+        "value": "12 mesi",
+        "desc": "Contro i difetti di fabbricazione"
+      }
+    ],
+    "factors": {
+      "title": "Fattori di prezzo",
+      "items": [
+        "Volume e modello della bombola (2L – 50L)",
+        "Tipo di valvola (CGA, GOST, DIN, POL)",
+        "Standard di certificazione (ISO, DOT, TPED)",
+        "OEM: colore, marcatura, confezione",
+        "Volume degli ordini e Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetilene WG-10",
+        "moq": "200 pezzi",
+        "price": "$ 28-35 / pz",
+        "lead": "18 giorni"
+      },
+      {
+        "product": "Acetilene WG-25",
+        "moq": "100 pezzi",
+        "price": "$ 45–58 / pz",
+        "lead": "20 giorni"
+      },
+      {
+        "product": "Propano WG-P11",
+        "moq": "500 pezzi",
+        "price": "$ 12-16 / pz",
+        "lead": "15 giorni"
+      },
+      {
+        "product": "Propano WG-P50",
+        "moq": "100 pezzi",
+        "price": "$ 55-72 / pz",
+        "lead": "22 giorni"
+      },
+      {
+        "product": "Generatore WG-G20",
+        "moq": "1 unità",
+        "price": "$3,500–4,200",
+        "lead": "25 giorni"
+      },
+      {
+        "product": "Insieme del regolatore",
+        "moq": "50 pz",
+        "price": "$ 8-15 / pz",
+        "lead": "10 giorni"
+      }
+    ],
+    "tableHeaders": [
+      "Prodotto",
+      "MOQ",
+      "Prezzo (EXW)",
+      "Tempi di consegna"
+    ]
+  },
+  "certifications": {
+    "title": "Certificazioni e standard",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Bombole per gas in acciaio senza saldatura: requisiti tecnici"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Cilindri di acetilene disciolto"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certificazione per il mercato statunitense"
+      },
+      {
+        "name": "TPED",
+        "desc": "Direttiva europea sui trasporti"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Norma cinese sulle bombole di gas"
+      },
+      {
+        "name": "Marchio CE",
+        "desc": "Requisiti di conformità europei"
+      }
+    ]
+  },
+  "process": {
+    "title": "Come ordinare",
+    "subtitle": "Processo semplice dalla richiesta alle bombole presso il vostro magazzino.",
+    "steps": [
+      {
+        "title": "Invia richiesta",
+        "desc": "Specificare i requisiti di prodotto, volume, paese e valvola"
+      },
+      {
+        "title": "Ricevi preventivo",
+        "desc": "Prezzo, MOQ, tempi di consegna e scheda tecnica entro 24 ore"
+      },
+      {
+        "title": "Conferma ordine",
+        "desc": "Firma del contratto e pagamento dell'acconto del 30%."
+      },
+      {
+        "title": "Produzione e controllo qualità",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Spedizione",
+        "desc": "Imballaggio, documenti, consegna FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "saldatura",
+        "eyebrow": "Cilindri di acetilene",
+        "title": "Fiamma stabile per saldature di precisione",
+        "text": "Bombole di acetilene disciolto progettate per la saldatura e la brasatura continue: pressione costante, massa porosa sicura, valvole pronte per l'esportazione.",
+        "points": [
+          "Opzioni ISO/DOT/GB",
+          "Valvole CGA/GOST/DIN",
+          "Colore e marcatura OEM"
+        ]
+      },
+      {
+        "id": "taglio",
+        "eyebrow": "Taglio e fabbricazione",
+        "title": "Potenza quando il metallo deve muoversi",
+        "text": "Set di bombole pronte per acetilene e ossigeno ad alto flusso per cantieri navali, officine e linee di fabbricazione pesante.",
+        "points": [
+          "Foratura e taglio rapidi",
+          "Kit pronti per la torcia",
+          "Compatibile con MOQ di massa"
+        ]
+      },
+      {
+        "id": "propano",
+        "eyebrow": "Propano e GPL",
+        "title": "Bombole GPL durevoli per ogni mercato",
+        "text": "Dal gas da riscaldamento e da cucina al taglio industriale: cilindri in acciaio costruiti per pressione, rivestimento e lunga durata.",
+        "points": [
+          "Gamma 3-50 litri",
+          "Valvole POL/CGA",
+          "Finitura con verniciatura a polvere"
+        ]
+      },
+      {
+        "id": "fabbrica",
+        "eyebrow": "Produzione",
+        "title": "Controllo di fabbrica dall'acciaio alla spedizione",
+        "text": "Formatura, saldatura, test idrostatici e finitura interni: così ogni lotto corrisponde al tuo disegno e allo standard di mercato.",
+        "points": [
+          "Testato idrostatico",
+          "Lotti tracciabili",
+          "OEM/ODM pronto"
+        ]
+      },
+      {
+        "id": "qualità",
+        "eyebrow": "Qualità e sicurezza",
+        "title": "Ispezione da inserire nel preventivo",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Test di pressione e tenuta",
+          "Certificate package",
+          "Foto pre-imbarco"
+        ]
+      },
+      {
+        "id": "esportare",
+        "eyebrow": "Esportazione globale",
+        "title": "Preparato per i porti, pronto per oltre 50 paesi",
+        "text": "Pallet per esportazione, protezione valvole, etichette multilingue e documenti di spedizione coordinati per la tua destinazione Incoterms.",
+        "points": [
+          "Supporto FOB/CIF",
+          "Imballaggio pallettizzato",
+          "Tempi di consegna 15–25 giorni"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Bombole di gas industriali pronte in fabbrica",
+    "about": "Stock di bombole pronte per l'esportazione con imballaggio protettivo",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Stock di cilindri finiti in fabbrica",
+      "Saldatura di produzione in fabbrica",
+      "Imballaggio per esportazione con rete protettiva",
+      "Propane cylinders ready for dispatch",
+      "Spedizione di bombole sfuse su camion",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Accessori",
+    "title": "Accessori del prodotto",
+    "subtitle": "Parti per bombole di acetilene, generatori, saldatura e taglio. Apri Dettagli per specifiche e applicazioni.",
+    "cta": "Richiedi dettagli",
+    "details": "Dettagli",
+    "close": "Vicina",
+    "featuresLabel": "Caratteristiche principali",
+    "specsLabel": "Specifiche",
+    "applicationsLabel": "Applicazioni",
+    "qualityLabel": "Qualità e fornitura",
+    "whyTitle": "Perché scegliere i nostri accessori?",
+    "why": [
+      "Ottone resistente, acciaio inossidabile e materiali di livello industriale",
+      "Compatibile con bombole, generatori, regolatori, tubi e sistemi di saldatura",
+      "Logo OEM, imballaggio, dimensione della connessione, tipo di filettatura e specifiche",
+      "Imballaggio per l'esportazione e fornitura stabile per gli acquirenti internazionali"
+    ],
+    "items": [
+      {
+        "title": "Valvola di ritorno di fiamma dell'acetilene",
+        "desc": "Previene il flusso inverso del gas e il ritorno di fiamma nei sistemi di saldatura e taglio ossiacetilenici.",
+        "intro": "Un dispositivo di sicurezza essenziale per i sistemi ad acetilene. Il rompifiamma integrato in acciaio inossidabile sinterizzato e il design del flusso unidirezionale proteggono gli operatori, i tubi flessibili e le linee del gas. Compatibile con regolatori, tubi e torce. Logo OEM, etichetta e imballaggio disponibili.",
+        "features": [
+          "Inserto in acciaio sinterizzato antifiamma",
+          "Progettazione del flusso di non ritorno (unidirezionale).",
+          "Corpo in ottone ad alta resistenza, resistente alla corrosione",
+          "Tenuta affidabile sotto pressione di esercizio",
+          "Connessioni standard per installazione e sostituzione rapide"
+        ],
+        "specs": [
+          "Gas: acetilene (C₂H₂); paraossigeno forniti separatamente",
+          "Corpo: ottone; limitatore: acciaio inossidabile",
+          "Attacco: G 3/8″ LH o filettatura personalizzata",
+          "Pressione di esercizio: fino a 1,5 MPa / personalizzata",
+          "Impiego: saldatura ossiacetilenica, taglio e riscaldo",
+          "Imballaggio: scatola individuale, cartone o personalizzato"
+        ],
+        "applications": [
+          "Saldatura e taglio ossiacetilenico",
+          "Regolatori, tubi e gruppi torcia",
+          "Linee gas del generatore di acetilene"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della spedizione",
+          "Test di tenuta, pressione e funzionalità di ritorno di fiamma",
+          "Imballaggio per l'esportazione per consegne a lunga distanza"
+        ]
+      },
+      {
+        "title": "Contenitore del generatore di acetilene",
+        "desc": "Canister per la generazione stabile di acetilene dal carburo di calcio negli impianti di gas industriali.",
+        "intro": "Il contenitore del generatore è il recipiente principale di un sistema di generazione di acetilene. Viene fornito per la produzione stabile di gas in operazioni di saldatura, taglio e siti senza alimentazione centralizzata delle bombole. Capacità, tubazioni e finiture di sicurezza possono essere adattati al modello del generatore.",
+        "features": [
+          "Contenitore centrale per sistemi generatori di acetilene",
+          "Costruito per la generazione stabile di gas dal carburo di calcio",
+          "Abbinabile a valvole di filtrazione e sicurezza",
+          "Layout di generatori industriali e compatti",
+          "Marcatura OEM, connessioni e imballaggio su richiesta"
+        ],
+        "specs": [
+          "Ruolo: gruppo contenitore/contenitore del generatore",
+          "Intervallo di potenza tipico dei generatori correlati: 3–100 m³/h",
+          "Pressione di esercizio delle unità correlate: circa 1,5–5 kPa",
+          "Fornito con raffreddamento, filtri e ricambi su richiesta",
+          "Connessioni, capacità e finiture confermate per ordine"
+        ],
+        "applications": [
+          "Impianti generatori di acetilene e unità portatili",
+          "Officine senza alimentazione centralizzata delle bombole",
+          "Produzione di gas per saldatura e taglio industriale"
+        ],
+        "quality": [
+          "Corrispondenza di fabbrica al modello del generatore",
+          "Imballaggio e documentazione per l'esportazione",
+          "Dettagli sulla capacità e sulla connessione confermati prima della spedizione"
+        ]
+      },
+      {
+        "title": "Torcia da taglio",
+        "desc": "Cannello da taglio ossiacetilenico durevole per tagli precisi, fiamma stabile ed elevata produttività.",
+        "intro": "Cannello da taglio professionale in acetilene per tagli puliti e precisi. Corpo in ottone con tubi in acciaio inox, impugnatura ergonomica e ugelli sostituibili. Compatibile con acetilene e ossigeno e con ugelli standard.",
+        "features": [
+          "Costruzione premium in ottone e acciaio inossidabile",
+          "Fiamma stabile e controllo preciso del taglio",
+          "Design incentrato sulla sicurezza per ridurre il rischio di ritorno di fiamma",
+          "Maniglia ergonomica, facile da montare e manutenere",
+          "Funziona con ugelli, punte e set di tubi standard"
+        ],
+        "specs": [
+          "Modello: cannello da taglio CT-01",
+          "Gas: acetilene + ossigeno",
+          "Spessore di taglio: 3–300 mm (a seconda dell'ugello e della pressione)",
+          "Pressione di esercizio: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Connettore: G5/8-14 o personalizzato",
+          "Lunghezza: ca. 460 mm",
+          "Imballaggio: 1 pz/scatola, 10 pz/cartone"
+        ],
+        "applications": [
+          "Taglio di lamiere, tubi e profili in acciaio al carbonio",
+          "Officine di fabbricazione, cantieri navali e costruzioni",
+          "Manutenzione industriale e taglio in cantiere"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della consegna",
+          "Verifiche estetiche, di collegamento, di tenuta e di funzionamento",
+          "Imballaggio per l'esportazione per spedizioni a lunga distanza"
+        ]
+      },
+      {
+        "title": "Valvola ad angolo filettata interna/esterna",
+        "desc": "Valvola ad angolo per cilindro per carichi pesanti con opzioni di filettatura interna o esterna per gli standard di mercato.",
+        "intro": "Valvole ad angolo per acetilene e altri gas industriali: robusto corpo in ottone, tenuta precisa e funzionamento regolare del volantino. Filettatura interna o esterna per soddisfare gli standard del cilindro e dell'attrezzatura.",
+        "features": [
+          "Corpo in ottone durevole, resistente alla corrosione",
+          "Lavorazione ad alta precisione per una tenuta affidabile",
+          "Opzioni di connessione con filettatura interna o esterna",
+          "Volantino ergonomico per una facile apertura/chiusura",
+          "Ispezione di sicurezza e funzionamento al 100%."
+        ],
+        "specs": [
+          "Gas: acetilene, ossigeno, argon, azoto e gas compatibili",
+          "Pressione di esercizio: classe 25 / 35 bar",
+          "Pressione di prova: classe 37,5 / 52,5 bar",
+          "Ingresso/uscita: interna o esterna, personalizzata",
+          "Volante: alluminio/lega di zinco",
+          "Temperatura: da −20 °C a +60 °C",
+          "Standard: ISO 10297, GB/T 8335, CGA o personalizzato",
+          "Imballaggio: 1 pz/sacchetto, 50 pz/scatola"
+        ],
+        "applications": [
+          "Bombole di acetilene e gas industriali",
+          "Impianti di saldatura e taglio gas",
+          "Officine, impianti e fornitura di gas da laboratorio"
+        ],
+        "quality": [
+          "Controlli sui materiali, sulla lavorazione, sulle perdite e sull'aspetto",
+          "Imballaggio per l'esportazione per il trasporto a lunga distanza",
+          "Dimensioni della filettatura e standard confermati per mercato"
+        ]
+      },
+      {
+        "title": "Fascetta per tubo dell'ossigeno",
+        "desc": "Morsetto a vite senza fine in acciaio inossidabile per collegamenti sicuri e resistenti alle perdite di ossigeno e tubi industriali.",
+        "intro": "Fascette fermatubo ossigeno in acciaio inox per saldatura e uso industriale. Elevata forza di serraggio, resistenza alla ruggine e bordi adatti ai tubi. Riutilizzabile e facile da installare.",
+        "features": [
+          "Acciaio inossidabile 201/304",
+          "Forte forza di serraggio e fissaggio sicuro",
+          "Resistenza alla ruggine, alla corrosione e all'ossidazione",
+          "I bordi lisci della fascia aiutano a proteggere il tubo",
+          "Facile da installare, rimuovere e riutilizzare"
+        ],
+        "specs": [
+          "Tipo: fascetta stringitubo a vite senza fine",
+          "Gamma tubi: 8–100 mm, dimensioni personalizzate per prodotti sfusi",
+          "Larghezza banda: 9/12 mm; spessore 0,6–0,8 mm",
+          "Vite: a testa scanalata o esagonale",
+          "Norme: DIN 3017 / SAE J1508",
+          "Finitura: lucida",
+          "Imballaggio: 100 pezzi/borsa, 10 sacchetti/cartone o personalizzato"
+        ],
+        "applications": [
+          "Tubi ossigeno e carburante per saldatura e taglio",
+          "Giunti per bombola, regolatore e tubo torcia",
+          "Linee di fabbrica, officina e manutenzione"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della consegna",
+          "Le dimensioni, la fascia e l'imballaggio possono essere personalizzati",
+          "Imballaggio di qualità per l'esportazione"
+        ]
+      },
+      {
+        "title": "Tubi di ossigeno",
+        "desc": "Tubo flessibile per ossigeno ad alta pressione con lunga durata per saldatura, taglio e fornitura di gas industriale.",
+        "intro": "Tubi di ossigeno realizzati per il trasferimento sicuro del gas sotto pressione. Flessibile, resistente alla piega e all'abrasione, con una parete interna liscia per un flusso stabile. Diversi ID e lunghezze per la saldatura e il collegamento del cilindro.",
+        "features": [
+          "Alta pressione di esercizio e di scoppio",
+          "Costruzione flessibile e resistente alle piegature",
+          "Resistenza all'invecchiamento, all'ozono e all'abrasione",
+          "Parete interna liscia per un flusso di gas stabile",
+          "Leggero e facile da maneggiare"
+        ],
+        "specs": [
+          "Gas: ossigeno",
+          "Pressione di esercizio: 20 bar / 290 psi",
+          "Pressione di scoppio: 60 bar / 870 psi",
+          "ID: 6/8/9/10/12/13 mm (disponibile su misura)",
+          "Lunghezza: 10 / 20 / 30 / 50 / 100 m o su misura",
+          "Colore: blu standard; materiale SBR/EPDM + filato di poliestere",
+          "Norme: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatura: da −20 °C a +80 °C"
+        ],
+        "applications": [
+          "Fornitura di ossigeno per saldatura e taglio",
+          "Collegamento del tubo da cilindro a regolatore",
+          "Fabbriche, officine e gasdotti industriali"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della consegna",
+          "Diametro, lunghezza, colore ed etichetta possono essere personalizzati",
+          "Imballaggio per l'esportazione: sacchetto termoretraibile/tessuto/cartone"
+        ]
+      },
+      {
+        "title": "Manometro",
+        "desc": "Visualizzazione accurata della pressione per ossigeno, acetilene e altri gas industriali.",
+        "intro": "Manometri per acetilene, ossigeno e gas industriali: quadrante chiaro, struttura durevole e letture stabili su bombole, regolatori e tubazioni. Gamme e connessioni multiple per OEM ed esportazione.",
+        "features": [
+          "Alta precisione e prestazioni stabili",
+          "Quadrante chiaro per una facile lettura",
+          "Costruzione industriale resistente agli urti",
+          "Materiali resistenti alla corrosione",
+          "Gamme multiple e supporti inferiori/posteriori"
+        ],
+        "specs": [
+          "Gas: acetilene, ossigeno, argon, CO₂, azoto e gas compatibili",
+          "Quadrante: 50/63/100 mm, disponibile su misura",
+          "Intervallo: da 0–1 bar fino a 0–400 bar, personalizzato",
+          "Precisione: ±2,5% standard, ±1,6% opzionale",
+          "Filettatura: G1/4, G1/8, NPT1/4, M12×1,5 o personalizzata",
+          "Cassa: acciaio nero/inossidabile opzionale; connettore ottone o SS",
+          "Finestra: vetro o policarbonato; Da −20 °C a +60 °C",
+          "Imballaggio: 1 pz/scatola, 50 pz/cartone"
+        ],
+        "applications": [
+          "Bombole di gas e regolatori di pressione",
+          "Condotte e sistemi di gas industriali",
+          "Saldatura e taglio ossiacetilenico di pannelli"
+        ],
+        "quality": [
+          "Test al 100% prima della consegna",
+          "Quadrante OEM e opzioni di branding",
+          "Imballaggio per l'esportazione"
+        ]
+      },
+      {
+        "title": "Valvola di sicurezza",
+        "desc": "Rilascia automaticamente la pressione in eccesso per proteggere bombole, tubazioni e operatori.",
+        "intro": "Le valvole di sicurezza scaricano automaticamente la sovrapressione per proteggere l'attrezzatura e il personale. Adatto per ossigeno, acetilene, aria, azoto e gas compatibili. Corpo compatto in ottone, pressioni di regolazione multiple e dimensioni della filettatura.",
+        "features": [
+          "Protezione automatica da sovrapressione",
+          "Sollievo stabile sotto alta pressione",
+          "Corpo in ottone, resistente al calore e alla corrosione",
+          "Design compatto per una facile installazione e manutenzione",
+          "Pressioni di impostazione multiple e dimensioni della filettatura"
+        ],
+        "specs": [
+          "Gas: ossigeno, acetilene, aria, azoto e gas compatibili",
+          "Pressione di esercizio: fino a 25 bar / 25 kg/cm²",
+          "Intervallo di scarico: 0,1–2,5 MPa, personalizzabile",
+          "Temperatura: da −20 °C a +120 °C",
+          "Connessione: maschio/femmina; 1/4\", 3/8\", 1/2\", 3/4\" BSP/NPT",
+          "Corpo: ottone; guarnizione: NBR/PTFE",
+          "Classe di pressione corporea: 25 / 35 bar",
+          "Imballaggio: 1 pz/scatola, 50 pz/cartone"
+        ],
+        "applications": [
+          "Protezione da sovrapressione del cilindro e del collettore",
+          "Apparecchiature e condotte per gas industriali",
+          "Sistemi di saldatura e taglio ossitaglio"
+        ],
+        "quality": [
+          "Test al 100% prima della spedizione",
+          "La pressione impostata, la filettatura e l'imballaggio possono essere personalizzati",
+          "Imballaggio per l'esportazione"
+        ]
+      },
+      {
+        "title": "Torcia per saldatura",
+        "desc": "Torcia per saldatura ossitaglio ergonomica con controllo uniforme della fiamma per saldatura, brasatura e riscaldamento.",
+        "intro": "Torcia per saldatura ad alte prestazioni per lavori con ossigeno: fiamma stabile, controllo preciso e corpo in ottone resistente. Punte in rame, ugelli sostituibili e raccordi per tubi flessibili per uso artigianale e industriale.",
+        "features": [
+          "Fiamma stabile per la saldatura e la riparazione dei metalli",
+          "Flusso di gas regolare e controllo preciso della fiamma",
+          "Corpo in ottone durevole, resistente al calore e alla corrosione",
+          "Maniglia ergonomica per un funzionamento confortevole",
+          "Compatibile con ossigeno, acetilene e propano opzionale"
+        ],
+        "specs": [
+          "Tipo: cannello per saldatura ossiacetilenica",
+          "Corpo: ottone; punta: rame, sostituibile",
+          "Attacco tubo: G1/4″ o 9/16″-18 UNF",
+          "Pressione di esercizio: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatura: da −20 °C a +60 °C",
+          "Utilizzo: saldatura, brasatura, riscaldamento; taglio con punte abbinate",
+          "Imballaggio: 1 pz/scatola, 10 pz/cartone"
+        ],
+        "applications": [
+          "Saldatura e riparazione ossigeno-acetilene",
+          "Brasatura, riscaldamento e giunzione",
+          "Officine e manutenzioni industriali"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della consegna",
+          "Lo stile della torcia, il connettore, l'imballaggio e il logo possono essere OEM",
+          "Controlli sui materiali, sulle perdite e sull'aspetto"
+        ]
+      },
+      {
+        "title": "Testa del convertitore del filtro",
+        "desc": "Collega l'elemento filtrante a un regolatore o a una tubazione per un'efficace filtrazione del gas.",
+        "intro": "La testa del convertitore del filtro è il collegamento tra l'elemento filtrante e il regolatore o la linea del gas. Posiziona l'elemento, mantiene la direzione corretta del flusso e semplifica la manutenzione e la sostituzione nei cilindri e nei sistemi di distribuzione.",
+        "features": [
+          "Collega l'elemento filtrante al regolatore o alla tubazione",
+          "Supporta un filtraggio efficace nella linea del gas",
+          "Costruzione industriale in ottone/metallo",
+          "Porte filettate standard per l'adattamento al sistema",
+          "Filettatura OEM, dimensioni e imballaggio su richiesta"
+        ],
+        "specs": [
+          "Ruolo: convertitore filtro/testa adattatore",
+          "Utilizzo: gruppi di regolatore, tubazione e filtro del cilindro",
+          "Dimensioni della connessione e filettatura confermate per ordine",
+          "Se necessario, abbinato agli elementi filtranti e alle ciotole come set"
+        ],
+        "applications": [
+          "Distribuzione del gas prima dei regolatori e degli strumenti",
+          "Gruppi filtro cilindro e generatore",
+          "Officina e linee di gas industriali"
+        ],
+        "quality": [
+          "Dimensioni della connessione confermate prima della produzione",
+          "Imballaggio per l'esportazione",
+          "Può essere fornito con elementi filtranti abbinati"
+        ]
+      },
+      {
+        "title": "Filtro",
+        "desc": "Filtro ad alta efficienza che rimuove umidità, olio e particelle per proteggere le apparecchiature a valle.",
+        "intro": "Rimuove particelle solide, acqua, olio e altre impurità dal flusso di gas per proteggere le apparecchiature e prolungarne la durata. Testa in ottone, elemento di qualità e funzionamento stabile sotto pressione. Per ossigeno, acetilene, aria, azoto e gas compatibili.",
+        "features": [
+          "Filtrazione ad alta efficienza per un flusso di gas pulito",
+          "Rimuove umidità, olio e particelle",
+          "Testa in ottone resistente e ciotola in metallo",
+          "Elemento staccabile per pulizia o sostituzione",
+          "Funzionamento stabile sotto pressione di esercizio"
+        ],
+        "specs": [
+          "Gas: ossigeno, acetilene, aria, azoto e gas compatibili",
+          "Pressione in ingresso: fino a 2,5 MPa",
+          "Pressione di esercizio: 0,01–1,6 MPa",
+          "Precisione: 5/20/50 μm opzionale",
+          "Connessione: G1/4″, G3/8″, G1/2″, G3/4″ opzionale",
+          "Corpo: ottone; elemento: bronzo sinterizzato/acciaio inox",
+          "Temperatura: da −20 °C a +60 °C",
+          "Imballaggio: 1 pz/scatola, 20 pz/cartone"
+        ],
+        "applications": [
+          "Bombole, regolatori e sistemi di distribuzione",
+          "Fabbriche, officine e gasdotti industriali",
+          "Flusso più pulito per saldatura, taglio e fornitura di laboratorio"
+        ],
+        "quality": [
+          "Ispezione al 100% prima della consegna",
+          "Filo, precisione ed elemento possono essere personalizzati",
+          "Imballaggio per l'esportazione"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Legale",
+    "title": "politica sulla riservatezza",
+    "updated": "Ultimo aggiornamento: 25 agosto 2026",
+    "intro": [
+      "Wanda Group (\"noi\") gestisce questo sito Web per presentare bombole di gas, accessori e relative forniture per l'esportazione e per ricevere richieste commerciali da acquirenti industriali.",
+      "Questa politica spiega quali dati personali raccogliamo attraverso il sito, perché li utilizziamo e come puoi contattarci a riguardo. Non pubblichiamo video di fabbrica o file di certificati sul sito web; tali materiali vengono inviati privatamente su richiesta."
+    ],
+    "sections": [
+      {
+        "title": "Chi è responsabile",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Quali dati raccogliamo",
+        "body": [
+          "Quando invii il modulo di richiesta riceviamo i dati che inserisci: nome, email, telefono, paese di destinazione, tipo di prodotto, quantità e messaggio.",
+          "Il sito memorizza anche la scelta della lingua nel browser (localStorage). Non utilizziamo cookie pubblicitari né vendiamo elenchi di visitatori."
+        ]
+      },
+      {
+        "title": "Perché utilizziamo i dati",
+        "body": [
+          "Utilizziamo i dati della richiesta solo per rispondere alla tua richiesta, preparare un preventivo, inviare informazioni sul prodotto, video o certificati richiesti e per coordinare un ordine se iniziamo a lavorare insieme.",
+          "Base giuridica: il tuo consenso quando spunti la casella nel modulo e il nostro legittimo interesse a rispondere alle richieste di vendita B2B."
+        ]
+      },
+      {
+        "title": "Chi riceve i dati",
+        "body": [
+          "Il tuo messaggio viene consegnato al nostro team di vendita tramite e-mail. A seconda della configurazione, il modulo può essere elaborato da Web3Forms come fornitore tecnico che ci trasmette il messaggio.",
+          "Non vendiamo dati personali. Possiamo condividere ciò che è necessario con i partner logistici, ispettivi o bancari solo se ciò è necessario per soddisfare un ordine concordato."
+        ]
+      },
+      {
+        "title": "Per quanto tempo lo conserviamo",
+        "body": [
+          "I dati di richiesta vengono conservati per tutto il tempo necessario a gestire la richiesta e per un periodo ragionevole successivamente per il follow-up delle vendite e la contabilità, a meno che non ci chiediate di cancellarli prima laddove la legge lo consente."
+        ]
+      },
+      {
+        "title": "I tuoi diritti",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Sicurezza e bambini",
+        "body": [
+          "Adottiamo ragionevoli misure tecniche e organizzative per proteggere i messaggi in transito e nella nostra casella di posta. Questo sito web è destinato agli acquirenti aziendali, non ai bambini."
+        ]
+      }
+    ],
+    "contactLead": "Domande su questa politica:"
+  }
+}

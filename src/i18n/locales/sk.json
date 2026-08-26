@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produkty",
+    "specs": "Špecifikácie",
+    "applications": "Použitie",
+    "about": "O nás ",
+    "gallery": "Galéria",
+    "quality": "Kvalita",
+    "faq": "Často kladené otázky",
+    "contact": "Kontakt",
+    "getQuote": "Získajte cenovú ponuku",
+    "inquire": "spýtať sa",
+    "services": "Služby",
+    "pricing": "Cenník",
+    "accessories": "Príslušenstvo",
+    "home": "Domov",
+    "factory": "Fabrika"
+  },
+  "hero": {
+    "badge": "Výrobca plynových fliaš",
+    "title": "Spoľahlivé plynové fľaše pre priemysel a zváranie",
+    "subtitle": "Wanda Group je dôveryhodný výrobca a dodávateľ acetylénu, propánových fliaš a príslušenstva. Riešenia pre dodávky plynu, zváranie, rezanie a skladovanie na celom svete.",
+    "cta": "Získajte cenovú ponuku",
+    "ctaSecondary": "Naše produkty",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Roky skúseností"
+      },
+      {
+        "value": "500K+",
+        "label": "Výrobná kapacita / rok"
+      },
+      {
+        "value": "50+",
+        "label": "exportné trhy"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kvalita a certifikácia"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Spoľahlivé príslušenstvo pre plynové fľaše",
+    "text": "Meradlá, ventily, hadice, horáky a bezpečnostné armatúry – dodávame spolu s fľašami alebo ako samostatná objednávka.",
+    "cta": "Pozrite si príslušenstvo"
+  },
+  "products": {
+    "title": "Naše produkty",
+    "subtitle": "Acetylénové fľaše, generátory, propánové fľaše a príslušenstvo pre priemyselné a zváracie aplikácie.",
+    "items": [
+      {
+        "title": "Acetylénová fľaša",
+        "desc": "Rozpustené acetylénové fľaše na zváranie, rezanie a technické plyny. Rôzne veľkosti a možnosti ventilov.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetylénový generátor",
+        "desc": "Zariadenia pre stabilnú produkciu plynu, jednoduchú obsluhu a priemyselné aplikácie.",
+        "icon": "⚙️",
+        "spec": "Priemyselné výrobné systémy"
+      },
+      {
+        "title": "Propánový valec",
+        "desc": "Odolné valce na propán a LPG — skladovanie, vykurovanie, rezanie a priemyselné využitie.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Príslušenstvo k valcom",
+        "desc": "Hadice, meradlá, rezacie horáky, zváracie horáky, poistné ventily a ďalšie.",
+        "icon": "🔧",
+        "spec": "Ventily · regulátory · hadice · horáky"
+      }
+    ],
+    "viewDetails": "Zobraziť podrobnosti"
+  },
+  "specs": {
+    "title": "Technická špecifikácia",
+    "subtitle": "Pred odoslaním žiadosti preskúmajte možnosti cylindrickej vložky, možnosti prispôsobenia a podrobnosti o doručení.",
+    "items": [
+      {
+        "title": "Zdvihový objem:",
+        "desc": "Rôzne možnosti kapacity a objemu v závislosti od aplikácie a požiadaviek trhu."
+      },
+      {
+        "title": "Ventily a uzávery",
+        "desc": "Ventily, uzávery a armatúry dodávané podľa potrieb zákazníka a projektu."
+      },
+      {
+        "title": "Možnosti rozpúšťadla",
+        "desc": "Pórovitý plniaci systém a rozpúšťadlá pre stabilné skladovanie acetylénu."
+      },
+      {
+        "title": "Balenie a doprava",
+        "desc": "Exportná podpora balenia a prepravy pre distribútorov a projektových zákazníkov."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Aplikácie valcov",
+    "subtitle": "Výrobky určené pre bežné úlohy priemyselného plynu a požiadavky zahraničných kupujúcich.",
+    "items": [
+      "Zváranie a spájkovanie",
+      "Rezanie kovov",
+      "Dodávka priemyselného plynu",
+      "Konštrukcia",
+      "Výroba kovov",
+      "Skladovanie a distribúcia plynu"
+    ]
+  },
+  "whyUs": {
+    "title": "Prečo Wanda Group?",
+    "subtitle": "Priama výroba, prispôsobenie a plná podpora exportu — všetko pre vaše podnikanie.",
+    "items": [
+      {
+        "title": "Vysoká kvalita",
+        "desc": "Oceľové fľaše určené na priemyselné zváranie a zásobovanie plynom."
+      },
+      {
+        "title": "Prísna kontrola kvality",
+        "desc": "Kontrola od vstupných materiálov až po konečné balenie."
+      },
+      {
+        "title": "Pokročilá výroba",
+        "desc": "Tvárnenie, zváranie, testovanie a konečná úprava v jednom závode."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Farba, ventil, označenie, uzáver a balenie na objednávku."
+      },
+      {
+        "title": "Medzinárodný export",
+        "desc": "Dokumenty a balenie pre zahraničných priemyselných nákupcov."
+      },
+      {
+        "title": "Spoľahlivé doručenie",
+        "desc": "Typická dodacia lehota 15-25 dní po potvrdení objednávky."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesionálny výrobca plynových fliaš",
+    "text": "Výrobca plynových fliaš Wanda Group sa špecializuje na výrobu a dodávku priemyselných plynových fliaš a súvisiaceho príslušenstva. Naše výrobky sú široko používané v oblasti zvárania, rezania, distribúcie plynu, priemyselného skladovania a iných oblastí dodávok plynu.",
+    "text2": "Podporujeme zahraničných kupujúcich pri výbere produktov, prispôsobení, kontrole kvality, balení a koordinácii prepravy.",
+    "facts": [
+      {
+        "title": "Skúsenosti",
+        "desc": "Viac ako 15 rokov dodáva priemyselné plynové fľaše."
+      },
+      {
+        "title": "Výroba",
+        "desc": "Vlastné tvarovanie, zváranie, testovanie a konečná úprava."
+      },
+      {
+        "title": "Kvalita",
+        "desc": "Možnosti ISO 9809, DOT a TPED podľa trhu."
+      },
+      {
+        "title": "Exportovať",
+        "desc": "Zásielky koordinované pre viac ako 50 cieľových trhov."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Vnútri našej továrne",
+    "subtitle": "Výroba, zváranie, testovanie, lakovanie a hotové valce — ako pripravujeme exportné objednávky.",
+    "items": [
+      {
+        "title": "Hotová pažba valcov",
+        "desc": "Pripravený inventár v našom závode — objemová kapacita pre veľkoobchodné a exportné objednávky."
+      },
+      {
+        "title": "Výrobné zváranie",
+        "desc": "Kovovýroba v továrni s prívodom priemyselného plynu."
+      },
+      {
+        "title": "Exportné balenie",
+        "desc": "Ochranné pletivo a balenie paliet pred medzinárodnou prepravou."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Hromadná preprava valcov",
+        "desc": "Zabezpečte náklad v klietke pre cestnú prepravu k distribútorom a závodom."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Rozsah veľkostí valcov",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kontrola kvality",
+    "subtitle": "Každá šarža prechádza rovnakou cestou: výroba, testovanie, kontrola a konečná kontrola kvality.",
+    "steps": [
+      {
+        "title": "Výroba",
+        "desc": "Tvárnenie, zváranie a montáž pod kontrolou výrobných procesov."
+      },
+      {
+        "title": "Testovanie",
+        "desc": "Skúšky tlaku a tesnosti predtým, ako fľaše opustia linku."
+      },
+      {
+        "title": "Inšpekcia",
+        "desc": "Vizuálne, označovacie a rozmerové kontroly oproti objednávke."
+      },
+      {
+        "title": "Finálna kontrola kvality",
+        "desc": "Kontrola balenia pred vývoznou zásielkou."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Často kladené otázky",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Nenašli ste svoju otázku? Pošlite produkt, veľkosť, množstvo a cieľovú krajinu - odpovieme s podrobnou ponukou.",
+    "ctaBtn": "Získajte cenovú ponuku",
+    "groups": [
+      {
+        "title": "Spoločnosť",
+        "items": [
+          {
+            "q": "Ste výrobcom plynových fliaš?",
+            "a": "áno. Wanda Group sa špecializuje na výrobu plynových fliaš a súvisiacich riešení dodávok priemyselného plynu pre zámorských priemyselných nákupcov."
+          },
+          {
+            "q": "Aké produkty hlavne dodávate?",
+            "a": "Dodávame acetylénové fľaše, propánové fľaše, generátory acetylénu a príslušenstvo k plynovým fľašiam, ako sú ventily, regulátory, hadice, tlakomery a horáky."
+          },
+          {
+            "q": "Môžete podporiť prispôsobenie OEM?",
+            "a": "áno. Farba valca, označenie, ventil, uzáver a možnosti balenia je možné prediskutovať podľa objednávky a cieľového trhu."
+          },
+          {
+            "q": "Podporujete zahraničných kupujúcich?",
+            "a": "áno. Podporujeme export, výber produktov, požiadavky na balenie, dokumentáciu a koordináciu prepravy."
+          },
+          {
+            "q": "Ako môžem získať cenovú ponuku?",
+            "a": "Uveďte typ produktu, veľkosť valca, množstvo, cieľovú krajinu a požiadavky na prispôsobenie prostredníctvom formulára dopytu alebo e-mailom. Náš tím vám odpovie s podrobnosťami o produkte a cenovou ponukou."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Môžem si pred zadaním objednávky pozrieť továrenské videá?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Poskytujete produktové videá, najmä pre acetylénové fľaše?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Môžete zobraziť videá z výroby a kontroly kvality?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Môžem požiadať o produktové video vyrobené na konkrétnu objednávku?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Riešenia",
+        "items": [
+          {
+            "q": "Aké riešenia plynových fliaš ponúkate?",
+            "a": "Ponúkame riešenia pre zváranie a rezanie, distribúciu plynu, priemyselné skladovanie, výrobu acetylénu, OEM dodávky a exportný nákup."
+          },
+          {
+            "q": "Môžete mi odporučiť produkty pre moju aplikáciu?",
+            "a": "áno. Pošlite svoju žiadosť, veľkosť valca, množstvo, cieľovú krajinu a požadované príslušenstvo – odporučíme vám vhodné produkty."
+          },
+          {
+            "q": "Dodávate príslušenstvo spolu s valcami?",
+            "a": "áno. Spolu s fľašami vieme dodať regulátory tlaku, hadice, meradlá, rezacie horáky, zváracie horáky, ventily a armatúry."
+          },
+          {
+            "q": "Môžete dodať plynové fľaše pre kupujúcich OEM?",
+            "a": "áno. Farba valca, označenie, ventil, uzáver, logo a balenie je možné prediskutovať podľa objednávky."
+          }
+        ]
+      },
+      {
+        "title": "Produkty",
+        "items": [
+          {
+            "q": "Na čo sa používa fľaša s rozpusteným acetylénom?",
+            "a": "Rozpustené acetylénové fľaše sa široko používajú na zváranie, rezanie, tvrdé spájkovanie, kovovýrobu a dodávku priemyselného plynu."
+          },
+          {
+            "q": "Aké veľkosti valcov môžete dodať?",
+            "a": "Je možné diskutovať o rôznych objemoch a kapacitách v závislosti od vášho cieľového trhu, aplikácie a množstva objednávky. Pre potvrdenie zadajte požadovanú veľkosť alebo miestny štandard."
+          },
+          {
+            "q": "Je možné zmeniť farbu valca, ventil a označenie?",
+            "a": "áno. Farba valca, ventil, uzáver, označenie, štítok a exportné balenie je možné vyrobiť na objednávku."
+          }
+        ]
+      },
+      {
+        "title": "Príslušenstvo",
+        "items": [
+          {
+            "q": "Aké príslušenstvo dodávate?",
+            "a": "Dodávame tlmiče spätného vzplanutia, tlakomery, poistné ventily, kyslíkové hadice, hadicové spony, rezacie horáky, zváracie horáky, filtre, adaptéry a ďalšie príslušenstvo k plynovým fľašiam."
+          },
+          {
+            "q": "Je možné prispôsobiť príslušenstvo plynových fliaš?",
+            "a": "áno. Môžeme prispôsobiť logo, balenie, veľkosť pripojenia, typ závitu, rozsah tlaku a technické špecifikácie."
+          },
+          {
+            "q": "Je možné objednať príslušenstvo spolu s plynovými fľašami?",
+            "a": "áno. Príslušenstvo je možné dodať spolu s acetylénovými fľašami, propánovými fľašami a generátormi acetylénu."
+          },
+          {
+            "q": "Podporujete OEM balenie?",
+            "a": "áno. Pre veľkoobchodné objednávky môžeme poskytnúť OEM označenie, kartóny, tašky a produktové štítky."
+          },
+          {
+            "q": "Môžete poskytnúť fotografie produktov a špecifikácie?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Ako môžem získať cenovú ponuku na príslušenstvo?",
+            "a": "Uveďte názov produktu, množstvo, veľkosť pripojenia, pracovný tlak, požiadavky na balenie a cieľovú krajinu alebo prístav."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Posledné články",
+    "subtitle": "Odborný obsah pre profesionálov v oblasti zvárania a dodávok plynu.",
+    "readMore": "Ďalšie informácie",
+    "close": "Zatvoriť",
+    "items": [
+      {
+        "tag": "Remeselníci",
+        "title": "Kompletný roztok na zásobovanie tlakovej fľaše propánom",
+        "desc": "Stabilita zariadenia priamo ovplyvňuje efektivitu zvárania a rezania.",
+        "body": [
+          "Pre remeselníkov, ktorí každý deň zvárajú, opravujú a vyrábajú kov, stabilné plynové zariadenia priamo ovplyvňujú kvalitu a rýchlosť práce.",
+          "Propánové fľaše Wanda Group sú k dispozícii od 3 l do 50 l s ventilmi POL, CGA 510 alebo GOST v závislosti od vášho trhu — jeden dodávateľ pre zváranie, rezanie a vykurovanie.",
+          "Odporúčame objednať valce spolu s regulátormi, hadicami a horákmi. Dodávky balíkov znižujú náklady na logistiku a zaisťujú kompatibilitu príslušenstva.",
+          "Pri objednávke uveďte cieľový trh, objem, typ ventilu a farbu — pripravíme OEM značenie a exportné obaly pod Vašou značkou."
+        ]
+      },
+      {
+        "tag": "Pamäť",
+        "title": "Tipy na dlhodobé skladovanie acetylénových fliaš",
+        "desc": "Podmienky skladovania, spôsoby umiestnenia a pravidelné kontroly nepoužitých fliaš.",
+        "body": [
+          "Mnoho spoločností skladuje acetylénové a propánové fľaše počas výrobných prestávok alebo ako inventár. Nepoužité valce stále vyžadujú správnu manipuláciu.",
+          "Fľaše skladujte vo zvislej polohe na dobre vetranom mieste mimo zdrojov tepla a priameho slnečného žiarenia. Teplota skladovania by zvyčajne nemala prekročiť 40-50 °C.",
+          "Skontrolujte ventily, uzávery a označenia aspoň raz za štvrťrok. Pri dlhodobom skladovaní acetylénu udržiavajte valce vo zvislej polohe a nikdy nedovoľte nakláňanie.",
+          "Spoločnosť Wanda Group dodáva fľaše s ochrannými uzávermi a exportnými obalmi určenými na bezpečnú prepravu a skladovanie. Sprievodcovia ukladaním sú k dispozícii vo vašom jazyku na vyžiadanie."
+        ]
+      },
+      {
+        "tag": "Cenník",
+        "title": "Sprievodca rozpočtom pre nákup acetylénových fliaš",
+        "desc": "Faktory ovplyvňujúce náklady a spôsob výberu optimálnej ponuky.",
+        "body": [
+          "Cena acetylénovej fľaše závisí od objemu (2L–40L), typu ventilu, certifikácie (ISO, DOT, TPED) a objednaného množstva. Orientačné ceny EXW: WG-10 28–35 $, WG-25 45–58 $ za jednotku.",
+          "Väčšie šarže (200–500+ kusov) dostávajú zmysluplné zľavy. OEM maľovanie, logo a špeciálne balenie pridávajú 5–15% k základnej cene, ale zvyšujú hodnotu pre distribútorov.",
+          "Tiež faktor v lodnej doprave (FOB/CIF), dokumentoch a MOQ. Odpovieme do 24 hodín s úplnou špecifikáciou, dodacou lehotou a Incoterms.",
+          "Pre presnú cenovú ponuku uveďte požiadavky na model, množstvo, cieľovú krajinu a ventil v kontaktnom formulári — alebo pošlite e-mail na adresu sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Vyžiadajte si cenovú ponuku",
+    "subtitle": "Povedzte nám veľkosť, množstvo, cieľovú krajinu a žiadosť — pripravíme podrobnú cenovú ponuku.",
+    "formTitle": "Vyžiadajte si cenovú ponuku",
+    "formSubtitle": "Nechajte svoje požiadavky — náš predajný tím odpovie informáciami o produkte, cenami, MOQ a dodacou lehotou.",
+    "name": "Názov",
+    "phone": "Telefón / WhatsApp",
+    "email": "E-mail",
+    "product": "Výrobok",
+    "quantity": "Množstvo",
+    "country": "Krajina určenia",
+    "productOptions": [
+      "Acetylénová fľaša",
+      "Propánový valec",
+      "Acetylénový generátor",
+      "Príslušenstvo",
+      "Objednávka balíka"
+    ],
+    "message": "Dodatočné požiadavky",
+    "messagePlaceholder": "Produkt, veľkosť, množstvo, krajina určenia...",
+    "submit": "Odoslať dopyt",
+    "sending": "Prebieha odosielanie...",
+    "success": "Ďakujeme! Čoskoro sa vám ozveme.",
+    "sendAnother": "Odoslať ďalšiu požiadavku",
+    "errorGeneric": "Odoslanie zlyhalo. Skúste to znova alebo nám pošlite e-mail priamo.",
+    "errorNoForm": "Formulár nie je nakonfigurovaný. Pošlite e-mail na adresu sales@wandagroups.com",
+    "privacyPrefix": "súhlasím s",
+    "privacySuffix": "a na spracovanie mojich osobných údajov za účelom vybavenia tejto otázky.",
+    "privacyLink": "Zásady ochrany osobných údajov",
+    "company": "Spoločnosť",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Odoslať cez e-mailovú aplikáciu"
+  },
+  "footer": {
+    "company": "Výrobca plynových fliaš Wanda Group",
+    "tagline": "Profesionálna výroba plynových fliaš",
+    "rights": "© 2026 Wanda Group. Všetky práva vyhradené.",
+    "privacy": "Zásady ochrany osobných údajov"
+  },
+  "ui": {
+    "catalog": "Katalóg",
+    "catalogTitle": "Podrobné špecifikácie produktu",
+    "catalogSubtitle": "Kompletné technické údaje, modely a parametre pre každú kategóriu. Ak chcete zobraziť tabuľku špecifikácií, vyberte produkt.",
+    "requestPrice": "Požiadať o cenu za tento model",
+    "services": "Služby",
+    "pricing": "Cenník",
+    "getExactQuote": "Získajte presnú cenovú ponuku",
+    "certifications": "Certifikáty",
+    "order": "Nariadenie",
+    "reviews": "Referencie",
+    "contact": "Kontakt",
+    "phone": "Telefón",
+    "location": "Poloha",
+    "quoteResponse": "Odpoveď na cenovú ponuku",
+    "support": "Podpora ",
+    "exportReady": "Export je pripravený.",
+    "years": "Roky/rokov",
+    "acetylene": "Acetylén",
+    "isoCertified": "Certifikát ISO 2001",
+    "globalExport": "Globálny export",
+    "products": "Produkty",
+    "specs": "Špecifikácie",
+    "applications": "Aplikácie",
+    "whyUs": "Prečo práve my",
+    "about": "O nás",
+    "gallery": "Galéria",
+    "quality": "Kvalita",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "countriesServed": "Obsluhované krajiny",
+    "searchLanguage": "Jazyk vyhľadávania...",
+    "noLanguagesFound": "Nenašli sa žiadne jazyky"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Export do 50+ krajín",
+    "MOQ od 100 ks",
+    "Dodacia lehota 15-25 dní"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "acetylén",
+      "propane": "Propán",
+      "generator": "Generátor",
+      "accessories": "Príslušenstvo"
+    },
+    "acetylene": {
+      "title": "Rozpustené acetylénové valce",
+      "intro": "Oceľové fľaše s poréznou hmotou a rozpúšťadlom pre bezpečné skladovanie a prepravu acetylénu. Používa sa pri zváraní, rezaní, spájkovaní a pri výrobe kovov.",
+      "features": [
+        "Porézna hmota + acetón pre stabilné skladovanie",
+        "Ventily CGA 510 / GOST / DIN na vyžiadanie",
+        "Hydraulický skúšobný tlak 5,2 MPa",
+        "RAL lakovanie, razenie a OEM štítky",
+        "Exportné paletové balenie"
+      ],
+      "tableTitle": "Štandardné modely acetylénových valcov",
+      "headers": [
+        "Model",
+        "Objem (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Hmotnosť (kg)",
+        "výška (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Presné parametre závisia od štandardu (ISO/DOT/GB) a konfigurácie ventilu. Vyžiadajte si technický list pre váš trh."
+    },
+    "propane": {
+      "title": "Nádrže na propán a LPG",
+      "intro": "Nádrže na zmesi propánu, butánu a LPG. Používa sa pri vykurovaní, rezaní, spájkovaní, stavebníctve a pri dodávke priemyselného plynu.",
+      "features": [
+        "Oceľ 37Mn/34CrMo4 podľa ISO 9809",
+        "Pracovný tlak 1,8–2,1 MPa",
+        "Ventily POL, CGA 510, GOST",
+        "Práškové lakovanie, antikorózne",
+        "Certifikáty pre trhy EÚ, USA, SNŠ"
+      ],
+      "tableTitle": "Štandardné modely propánových valcov",
+      "headers": [
+        "Model",
+        "Objem (L)",
+        "plyn (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Hmotnosť (kg)",
+        "výška (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Cena a MOQ závisia od objemu objednávky a typu ventilu. Pošlite dopyt na presnú cenovú ponuku."
+    },
+    "generator": {
+      "title": "Generátory acetylénu",
+      "intro": "Zariadenia na výrobu acetylénu z karbidu vápnika. Stabilná dodávka plynu pre zváranie a priemyselné potreby bez centralizovanej plynárenskej infraštruktúry.",
+      "features": [
+        "Výkon 3–100 m³/h kapacita",
+        "Automatický prívod vody a karbidu",
+        "Bezpečnostný systém a filtrácia",
+        "Kompaktné a priemyselné modely",
+        "Kompletná dokumentácia a školenie"
+      ],
+      "tableTitle": "Modely generátora acetylénu",
+      "headers": [
+        "Model",
+        "Výkon (m³/h)",
+        "Karbid (kg/h)",
+        "Tlak (kPa)",
+        "Výkon (kW)",
+        "Hmotnosť (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Generátory dodávané s chladiacim systémom, filtrami a súpravou náhradných dielov na požiadanie."
+    },
+    "accessories": {
+      "title": "Príslušenstvo a armatúry valcov",
+      "intro": "Kompletný sortiment pre bezpečnú prevádzku plynových fliaš: od meradiel až po zváracie horáky. Jednorazové obstarávanie s valcami.",
+      "features": [
+        "Regulátory a meradlá (CGA/GOST/DIN)",
+        "Vysokotlakové hadice",
+        "Rezacie horáky a zváracie horáky",
+        "Pretlakové ventily",
+        "Vozíky, stojany, čiapky"
+      ],
+      "tableTitle": "Katalóg príslušenstva",
+      "headers": [
+        "Kategória",
+        "Modelky",
+        "Štandardné",
+        "Aplikácia"
+      ],
+      "rows": [
+        [
+          "regulátorov",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetylén, propán"
+        ],
+        [
+          "Meradlá",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Monitorovanie tlaku"
+        ],
+        [
+          "Hadice",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Zváranie, rezanie"
+        ],
+        [
+          "Pochodne",
+          "WG-C100, WG-C300",
+          "—",
+          "Rezanie plazmou/oxidom"
+        ],
+        [
+          "Horáky",
+          "WG-T200, WG-T500",
+          "—",
+          "Zváranie, spájkovanie"
+        ],
+        [
+          "Ventily",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Všetky typy valcov"
+        ]
+      ],
+      "note": "* Príslušenstvo dostupné samostatne alebo v balíku s valcami. Zľava na kombinované objednávky."
+    }
+  },
+  "services": {
+    "title": "Naše služby",
+    "subtitle": "Celý cyklus – od výroby až po dodanie do vášho skladu. Spolupracujeme s distribútormi, značkami OEM a nákupcami projektov.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Zákazková výroba (OEM/ODM)",
+        "desc": "Valce s vašou značkou, farbou a označením.",
+        "points": [
+          "Logo a farba RAL",
+          "Ventil štandardný na trhu",
+          "OEM balenie a štítky"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Export & Logistika",
+        "desc": "Kompletná podpora medzinárodnej prepravy.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Exportná dokumentácia",
+          "Námorná a železničná nákladná doprava"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kontrola kvality",
+        "desc": "Testovanie a kontrola v každej fáze.",
+        "points": [
+          "Hydrostatické skúšky",
+          "UT kontrola zvaru",
+          "Kontrola SGS/BV na vyžiadanie"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Certifikácia",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "Karta bezpečnostných údajov a certifikát kvality",
+          "Osvedčenie o pôvode"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Technická podpora",
+        "desc": "Pomoc pri výbere produktov a konfigurácii.",
+        "points": [
+          "Výber na základe trhu",
+          "MOQ a výpočet dodacej doby",
+          "Školenie personálu"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Dodávka balíkov",
+        "desc": "Valce + príslušenstvo v jednej objednávke.",
+        "points": [
+          "Jedna zmluva",
+          "Koordinované doručenie",
+          "Zľava na balík"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Ceny a dodacie podmienky",
+    "subtitle": "Transparentné podmienky pre B2B obstarávanie. Presná cena je kalkulovaná individuálne - pošlite dopyt, odpovieme do 24 hodín.",
+    "note": "Uvedené ceny sú orientačné (EXW). Konečná cena závisí od objemu, typu ventilu, certifikácie a prepravných podmienok.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "od 100 ks",
+        "desc": "Minimálna objednávka na model"
+      },
+      {
+        "label": "Dodacia lehota",
+        "value": "15-25 dní",
+        "desc": "Po potvrdení objednávky"
+      },
+      {
+        "label": "Platba",
+        "value": "T/T 30/70",
+        "desc": "30% záloha, 70% pred odoslaním"
+      },
+      {
+        "label": "Záruka",
+        "value": "12 mesiacov",
+        "desc": "Proti výrobným chybám"
+      }
+    ],
+    "factors": {
+      "title": "Cenové faktory",
+      "items": [
+        "Objem a model valca (2L – 50L)",
+        "Typ ventilu (CGA, GOST, DIN, POL)",
+        "Certifikačný štandard (ISO, DOT, TPED)",
+        "OEM: farba, označenie, balenie",
+        "Objem objednávky a podmienky Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetylén WG-10",
+        "moq": "200 ks",
+        "price": "28 – 35 USD / ks",
+        "lead": "18 dní"
+      },
+      {
+        "product": "Acetylén WG-25",
+        "moq": "100 ks",
+        "price": "45 – 58 USD / ks",
+        "lead": "20 dní"
+      },
+      {
+        "product": "Propán WG-P11",
+        "moq": "500 ks",
+        "price": "12 – 16 USD / ks",
+        "lead": "15 dní"
+      },
+      {
+        "product": "Propán WG-P50",
+        "moq": "100 ks",
+        "price": "55 – 72 USD / ks",
+        "lead": "22 dní"
+      },
+      {
+        "product": "Generátor WG-G20",
+        "moq": "1 jednotka",
+        "price": "$3,500–4,200",
+        "lead": "25 dní"
+      },
+      {
+        "product": "Sada regulátorov",
+        "moq": "50 ks",
+        "price": "8 – 15 USD / ks",
+        "lead": "10 dní"
+      }
+    ],
+    "tableHeaders": [
+      "Produkt",
+      "MOQ",
+      "Cena (EXW)",
+      "Dodacia lehota"
+    ]
+  },
+  "certifications": {
+    "title": "Certifikácie a štandardy",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Bezšvíkové oceľové plynové fľaše – technické požiadavky"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Rozpustené acetylénové fľaše"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Certifikácia amerického trhu"
+      },
+      {
+        "name": "TPED",
+        "desc": "európska dopravná smernica"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Čínsky štandard plynových fliaš"
+      },
+      {
+        "name": "Značka CE",
+        "desc": "Európske požiadavky na zhodu"
+      }
+    ]
+  },
+  "process": {
+    "title": "Ako objednať",
+    "subtitle": "Jednoduchý proces od dopytu až po fľaše vo vašom sklade.",
+    "steps": [
+      {
+        "title": "Odoslať dopyt",
+        "desc": "Uveďte požiadavky na produkt, objem, krajinu a ventil"
+      },
+      {
+        "title": "Prijať cenovú ponuku",
+        "desc": "Cena, MOQ, dodacia lehota a technický list do 24 hodín"
+      },
+      {
+        "title": "Potvrdiť objednávku",
+        "desc": "Podpis zmluvy a zaplatenie 30% zálohy"
+      },
+      {
+        "title": "Výroba a kontrola kvality",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Zásielka",
+        "desc": "Balenie, dokumenty, doručenie FOB/CIF/DDP"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "zváranie",
+        "eyebrow": "Acetylénové fľaše",
+        "title": "Stabilný plameň pre presné zváranie",
+        "text": "Rozpustené acetylénové fľaše navrhnuté na nepretržité zváranie a tvrdé spájkovanie – konzistentný tlak, bezpečná porézna hmota, ventily pripravené na export.",
+        "points": [
+          "Možnosti ISO / DOT / GB",
+          "Ventily CGA / GOST / DIN",
+          "OEM farba a označenie"
+        ]
+      },
+      {
+        "id": "rezanie",
+        "eyebrow": "Rezanie a výroba",
+        "title": "Sila, keď sa kov musí pohybovať",
+        "text": "Súpravy tlakových fliaš s vysokým prietokom acetylénu a kyslíka pre lodenice, dielne a ťažké výrobné linky.",
+        "points": [
+          "Rýchle prepichnutie a strihanie",
+          "Súpravy pripravené na baterku",
+          "Priateľské k hromadnému MOQ"
+        ]
+      },
+      {
+        "id": "propán",
+        "eyebrow": "Propán a LPG",
+        "title": "Odolné fľaše na LPG pre každý trh",
+        "text": "Od vykurovacieho plynu a plynu na varenie až po priemyselné rezanie – oceľové fľaše skonštruované pre tlak, povrchovú úpravu a dlhú životnosť.",
+        "points": [
+          "Rozsah 3L – 50L",
+          "POL / CGA ventily",
+          "Povrchová úprava práškovou farbou"
+        ]
+      },
+      {
+        "id": "továreň",
+        "eyebrow": "Výroba",
+        "title": "Továrenská kontrola od ocele až po prepravu",
+        "text": "Vlastné tvarovanie, zváranie, hydrostatické testovanie a konečná úprava – takže každá séria zodpovedá vášmu výkresu a trhovému štandardu.",
+        "points": [
+          "Hydrostaticky testované",
+          "Vysledovateľné šarže",
+          "OEM / ODM pripravené"
+        ]
+      },
+      {
+        "id": "kvalitu",
+        "eyebrow": "Kvalita a bezpečnosť",
+        "title": "Obhliadku môžete uviesť v cenovej ponuke",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Skúšky tlaku a tesnosti",
+          "Certificate package",
+          "Fotky pred odoslaním"
+        ]
+      },
+      {
+        "id": "exportovať",
+        "eyebrow": "Globálny export",
+        "title": "Balené pre prístavy, pripravené pre 50+ krajín",
+        "text": "Exportujte palety, ochranu ventilov, viacjazyčné štítky a prepravné dokumenty koordinované podľa Incoterms vašej destinácie.",
+        "points": [
+          "Podpora FOB / CIF",
+          "Paletové balenie",
+          "Dodacia lehota 15-25 dní"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Priemyselné plynové fľaše pripravené v továrni",
+    "about": "Sklad valcov pripravený na export s ochranným obalom",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Dokončené zásoby valcov v továrni",
+      "Výrobné zváranie v továrni",
+      "Exportné balenie s ochrannou sieťkou",
+      "Propane cylinders ready for dispatch",
+      "Hromadná preprava valcov na kamióne",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Príslušenstvo",
+    "title": "Príslušenstvo k produktu",
+    "subtitle": "Diely pre acetylénové fľaše, generátory, zváranie a rezanie. Otvorte Podrobnosti pre špecifikácie a aplikácie.",
+    "cta": "Vyžiadajte si podrobnosti",
+    "details": "Podrobnosti",
+    "close": "Zavrieť",
+    "featuresLabel": "Kľúčové vlastnosti",
+    "specsLabel": "Špecifikácie",
+    "applicationsLabel": "Aplikácie",
+    "qualityLabel": "Kvalita a ponuka",
+    "whyTitle": "Prečo si vybrať naše príslušenstvo?",
+    "why": [
+      "Odolná mosadz, nehrdzavejúca oceľ a priemyselné materiály",
+      "Kompatibilné s valcami, generátormi, regulátormi, hadicami a zváracími systémami",
+      "Logo OEM, balenie, veľkosť pripojenia, typ závitu a špecifikácie",
+      "Exportné balenie a stabilná dodávka pre medzinárodných kupujúcich"
+    ],
+    "items": [
+      {
+        "title": "Acetylénový spätný ventil",
+        "desc": "Zabraňuje spätnému toku plynu a spätnému vzplanutiu plameňa v systémoch na zváranie a rezanie kyslíkom a acetylénom.",
+        "intro": "Základné bezpečnostné zariadenie pre acetylénové systémy. Vstavaná sintrovaná nerezová poistka plameňa a jednosmerný prietokový dizajn chráni obsluhu, hadice a plynové potrubia. Kompatibilné s regulátormi, hadicami a horákmi. K dispozícii logo OEM, štítok a balenie.",
+        "features": [
+          "Nehorľavá spekaná nerezová vložka",
+          "Návrh spätného toku (jednosmerný).",
+          "Vysoko pevné mosadzné telo, odolné voči korózii",
+          "Spoľahlivé tesnenie pod pracovným tlakom",
+          "Štandardné pripojenia pre rýchlu inštaláciu a výmenu"
+        ],
+        "specs": [
+          "plyn: acetylén (C2H2); lapače kyslíka dodávané samostatne",
+          "Telo: mosadz; aretácia: nehrdzavejúca oceľ",
+          "Pripojenie: G 3/8″ LH alebo prispôsobený závit",
+          "Pracovný tlak: do 1,5 MPa / prispôsobený",
+          "Použitie: kyslíkovo-acetylénové zváranie, rezanie a ohrev",
+          "Balenie: jednotlivá škatuľa, kartón alebo na mieru"
+        ],
+        "applications": [
+          "Kyslíkovo-acetylénové zváranie a rezanie",
+          "Regulátory, hadice a zostavy horákov",
+          "Plynové potrubia generátora acetylénu"
+        ],
+        "quality": [
+          "100% kontrola pred odoslaním",
+          "Funkčné testy tesnenia, tlaku a spätného vzplanutia",
+          "Exportné balenie pre dodanie na dlhé vzdialenosti"
+        ]
+      },
+      {
+        "title": "Nádrž generátora acetylénu",
+        "desc": "Nádoba s jadrom pre stabilnú výrobu acetylénu z karbidu vápnika v priemyselných plynových systémoch.",
+        "intro": "Nádrž generátora je hlavnou nádobou systému na výrobu acetylénu. Dodáva sa pre stabilnú produkciu plynu pri zváraní, rezaní a na miestach bez centralizovaného napájania tlakových fliaš. Kapacita, potrubie a bezpečnostná výbava môžu byť prispôsobené modelu generátora.",
+        "features": [
+          "Jadrový kontajner pre systémy generátorov acetylénu",
+          "Postavené pre stabilnú tvorbu plynu z karbidu vápnika",
+          "Možno zladiť s filtráciou a poistnými ventilmi",
+          "Usporiadanie priemyselných a kompaktných generátorov",
+          "OEM označenie, pripojenia a balenie na požiadanie"
+        ],
+        "specs": [
+          "Úloha: zostava zásobníka generátora / kontajnera",
+          "Typický rozsah výkonu súvisiacich generátorov: 3–100 m³/h",
+          "Pracovný tlak súvisiacich jednotiek: cca 1,5–5 kPa",
+          "Na požiadanie dodávané s chladením, filtrami a náhradnými dielmi",
+          "Pripojenia, kapacita a výbava potvrdené na objednávku"
+        ],
+        "applications": [
+          "Zariadenia na výrobu acetylénu a prenosné jednotky",
+          "Dielne bez centralizovaného napájania valcov",
+          "Priemyselná výroba zváracieho a rezacieho plynu"
+        ],
+        "quality": [
+          "Továrenské prispôsobenie modelu generátora",
+          "Export obalov a dokumentácie",
+          "Podrobnosti o kapacite a pripojení potvrdené pred odoslaním"
+        ]
+      },
+      {
+        "title": "Rezacia pochodeň",
+        "desc": "Odolný kyslíkovo-acetylénový rezací horák pre presné rezy, stabilný plameň a vysokú produktivitu.",
+        "intro": "Profesionálny acetylénový rezací horák pre čisté a presné rezy. Mosadzné telo s nerezovými trubicami, ergonomickou rukoväťou a vymeniteľnými tryskami. Kompatibilné s acetylénom a kyslíkom a so štandardnými hrotmi.",
+        "features": [
+          "Prémiová mosadzná a nerezová konštrukcia",
+          "Stabilný plameň a presné ovládanie rezu",
+          "Dizajn zameraný na bezpečnosť na zníženie rizika spätného požiaru",
+          "Ergonomická rukoväť, jednoduchá montáž a servis",
+          "Funguje so štandardnými tryskami, koncovkami a súpravami hadíc"
+        ],
+        "specs": [
+          "Model: rezací horák CT-01",
+          "Plyn: acetylén + kyslík",
+          "Hrúbka rezu: 3–300 mm (v závislosti od trysky a tlaku)",
+          "Pracovný tlak: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Konektor: G5/8-14 alebo prispôsobený",
+          "Dĺžka: cca. 460 mm",
+          "Balenie: 1 ks/škatuľa, 10 ks/kartón"
+        ],
+        "applications": [
+          "Rezanie platní, rúr a profilov z uhlíkovej ocele",
+          "Výrobné dielne, lodenice a stavebníctvo",
+          "Priemyselná údržba a rezanie na mieste"
+        ],
+        "quality": [
+          "100% kontrola pred dodaním",
+          "Kontrola vzhľadu, pripojenia, tesnenia a funkcie",
+          "Exportné balenie na prepravu na dlhé vzdialenosti"
+        ]
+      },
+      {
+        "title": "Vnútorný/vonkajší závitový uhlový ventil",
+        "desc": "Uhlový ventil pre veľké zaťaženie s možnosťou vnútorného alebo vonkajšieho závitu podľa trhových štandardov.",
+        "intro": "Rohové ventily pre acetylén a iné priemyselné plyny: robustné mosadzné telo, presné tesnenie a hladký chod ručného kolieska. Vnútorný alebo vonkajší závit podľa noriem valca a vybavenia.",
+        "features": [
+          "Odolné mosadzné telo, odolné voči korózii",
+          "Vysoko presné obrábanie pre spoľahlivé utesnenie",
+          "Možnosti pripojenia vnútorného alebo vonkajšieho závitu",
+          "Ergonomické ručné koliesko pre ľahké otváranie/zatváranie",
+          "100% kontrola bezpečnosti a funkčnosti"
+        ],
+        "specs": [
+          "Plyn: acetylén, kyslík, argón, dusík a kompatibilné plyny",
+          "Pracovný tlak: trieda 25 / 35 bar",
+          "Skúšobný tlak: trieda 37,5 / 52,5 bar",
+          "Vstup / výstup: vnútorný alebo vonkajší, prispôsobený",
+          "Ručné koliesko: zliatina hliník/zinok",
+          "Teplota: -20 °C až +60 °C",
+          "Normy: ISO 10297, GB/T 8335, CGA alebo vlastné",
+          "Balenie: 1 ks/vrecko, 50 ks/krabica"
+        ],
+        "applications": [
+          "Fľaše na acetylén a priemyselné plynové fľaše",
+          "Zváracie a rezacie plynové systémy",
+          "Dielne, závody a zásobovanie laboratórnym plynom"
+        ],
+        "quality": [
+          "Kontrola materiálu, opracovania, netesnosti a vzhľadu",
+          "Exportné balenie pre prepravu na dlhé vzdialenosti",
+          "Veľkosť závitu a štandard potvrdený na trhu"
+        ]
+      },
+      {
+        "title": "Svorka na kyslíkovú hadicu",
+        "desc": "Šneková svorka z nehrdzavejúcej ocele pre bezpečné, nepriepustné spojenia kyslíkových a priemyselných hadíc.",
+        "intro": "Nerezové kyslíkové hadicové spony pre zváranie a priemyselné použitie. Silná upínacia sila, odolnosť proti hrdzi a okraje vhodné pre hadice. Opätovne použiteľné a ľahko sa inštaluje.",
+        "features": [
+          "Nerezová oceľ 201/304",
+          "Silná upínacia sila a bezpečné upevnenie",
+          "Odolnosť proti hrdzi, korózii a oxidácii",
+          "Hladké okraje pásky pomáhajú chrániť hadicu",
+          "Jednoduchá inštalácia, odstránenie a opätovné použitie"
+        ],
+        "specs": [
+          "Typ: hadicová svorka so šnekovým pohonom",
+          "Rozsah hadíc: 8–100 mm, vlastné veľkosti pre voľne ložené",
+          "Šírka pásu: 9 / 12 mm; hrúbka 0,6–0,8 mm",
+          "Skrutka: štrbinová alebo šesťhranná hlava",
+          "Normy: DIN 3017 / SAE J1508",
+          "Povrchová úprava: leštená",
+          "Balenie: 100 ks / vrece, 10 vrecúšok / kartón alebo na mieru"
+        ],
+        "applications": [
+          "Kyslíkové a palivové hadice na zváranie a rezanie",
+          "Spojky hadice valca, regulátora a horáka",
+          "Továrenské, dielenské a údržbárske linky"
+        ],
+        "quality": [
+          "100% kontrola pred dodaním",
+          "Veľkosť, pás a balenie je možné prispôsobiť",
+          "Exportné kvalitné balenie"
+        ]
+      },
+      {
+        "title": "Kyslíkové trubice",
+        "desc": "Flexibilná vysokotlaková kyslíková hadica s dlhou životnosťou na zváranie, rezanie a prívod priemyselného plynu.",
+        "intro": "Kyslíkové trubice vyrobené pre bezpečný prenos plynov pod tlakom. Flexibilné, odolné proti zalomeniu a oderu, s hladkou vnútornou stenou pre stabilný prietok. Viaceré ID a dĺžky pre zváranie a pripojenie valcov.",
+        "features": [
+          "Vysoký pracovný a praskací tlak",
+          "Flexibilná konštrukcia odolná voči zlomeniu",
+          "Odolnosť proti starnutiu, ozónu a oderu",
+          "Hladká vnútorná stena pre stabilný prietok plynu",
+          "Ľahký a ľahko ovládateľný"
+        ],
+        "specs": [
+          "Plyn: kyslík",
+          "Pracovný tlak: 20 bar / 290 psi",
+          "Trhací tlak: 60 bar / 870 psi",
+          "ID: 6/8/9/10/12/13 mm (k dispozícii na mieru)",
+          "Dĺžka: 10 / 20 / 30 / 50 / 100 m alebo na mieru",
+          "Farba: modrá štandardná; materiál SBR / EPDM + polyesterová priadza",
+          "Normy: ISO 3821 / EN 559 / GB/T 20098",
+          "Teplota: -20 °C až +80 °C"
+        ],
+        "applications": [
+          "Prívod kyslíka pre zváranie a rezanie",
+          "Hadicové spojenie medzi valcom a regulátorom",
+          "Továrne, dielne a priemyselné plynovody"
+        ],
+        "quality": [
+          "100% kontrola pred dodaním",
+          "Priemer, dĺžku, farbu a štítok je možné prispôsobiť",
+          "Exportné balenie: zmršťovacia / tkaná taška / kartón"
+        ]
+      },
+      {
+        "title": "Tlakomer",
+        "desc": "Presné zobrazenie tlaku kyslíka, acetylénu a iných priemyselných plynov.",
+        "intro": "Meradlá pre acetylén, kyslík a priemyselné plyny: prehľadný číselník, odolná konštrukcia a stabilné údaje na tlakových fľašiach, regulátoroch a potrubiach. Viaceré rozsahy a pripojenia pre OEM a export.",
+        "features": [
+          "Vysoká presnosť a stabilný výkon",
+          "Prehľadný ciferník pre ľahké čítanie",
+          "Priemyselná konštrukcia odolná voči nárazom",
+          "Materiály odolné voči korózii",
+          "Viacnásobné rozsahy a spodné / zadné držiaky"
+        ],
+        "specs": [
+          "Plyn: acetylén, kyslík, argón, CO₂, dusík a kompatibilné plyny",
+          "Ciferník: 50 / 63 / 100 mm, k dispozícii na objednávku",
+          "Rozsah: 0–1 bar až 0–400 bar, vlastný",
+          "Presnosť: ±2,5% štandardná, ±1,6% voliteľná",
+          "Závit: G1/4, G1/8, NPT1/4, M12×1,5 alebo vlastný",
+          "Puzdro: čierna oceľ / nerez voliteľné; konektor mosadz alebo SS",
+          "Okno: sklo alebo polykarbonát; -20 °C až +60 °C",
+          "Balenie: 1 ks/škatuľa, 50 ks/kartón"
+        ],
+        "applications": [
+          "Plynové fľaše a regulátory tlaku",
+          "Potrubia a priemyselné plynové systémy",
+          "Kyslíkovo-acetylénové zváranie a rezanie panelov"
+        ],
+        "quality": [
+          "100% testovanie pred dodaním",
+          "OEM ciferník a možnosti značky",
+          "Exportné balenie"
+        ]
+      },
+      {
+        "title": "Bezpečnostný poistný ventil",
+        "desc": "Automaticky uvoľňuje nadmerný tlak na ochranu fliaš, potrubí a operátorov.",
+        "intro": "Bezpečnostné poistné ventily automaticky vypúšťajú pretlak na ochranu zariadenia a personálu. Vhodné pre kyslík, acetylén, vzduch, dusík a kompatibilné plyny. Kompaktné mosadzné telo, viacnásobne nastavené tlaky a veľkosti závitov.",
+        "features": [
+          "Automatická ochrana proti pretlaku",
+          "Stabilná úľava pod vysokým tlakom",
+          "Mosadzné telo, odolné voči teplu a korózii",
+          "Kompaktný dizajn pre jednoduchú inštaláciu a servis",
+          "Viacnásobné nastavené tlaky a veľkosti závitov"
+        ],
+        "specs": [
+          "Plyn: kyslík, acetylén, vzduch, dusík a kompatibilné plyny",
+          "Pracovný tlak: do 25 bar / 25 kg/cm²",
+          "Rozsah reliéfu: 0,1–2,5 MPa, prispôsobiteľné",
+          "Teplota: -20 °C až +120 °C",
+          "Pripojenie: samec/samica; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Telo: mosadz; tesnenie: NBR / PTFE",
+          "Trieda tlaku tela: 25 / 35 bar",
+          "Balenie: 1 ks/škatuľa, 50 ks/kartón"
+        ],
+        "applications": [
+          "Ochrana proti pretlaku valca a potrubia",
+          "Priemyselné plynové zariadenia a potrubia",
+          "Systémy na kyslíkové zváranie a rezanie"
+        ],
+        "quality": [
+          "100% testovanie pred odoslaním",
+          "Nastavený tlak, závit a balenie je možné prispôsobiť",
+          "Exportné balenie"
+        ]
+      },
+      {
+        "title": "Zvárací horák",
+        "desc": "Ergonomický kyslíkovo-palivový zvárací horák s plynulou reguláciou plameňa na zváranie, tvrdé spájkovanie a ohrev.",
+        "intro": "Vysokovýkonný zvárací horák pre prácu s kyslíkom a palivom: stabilný plameň, presné ovládanie a odolné mosadzné telo. Medené hroty, vymeniteľné trysky a hadicové prípojky pre dielenské a priemyselné použitie.",
+        "features": [
+          "Stabilný plameň pre zváranie a opravy kovov",
+          "Plynulý prietok plynu a presné ovládanie plameňa",
+          "Odolné mosadzné telo, odolné voči teplu a korózii",
+          "Ergonomická rukoväť pre pohodlné ovládanie",
+          "Kompatibilné s kyslíkom, acetylénom a voliteľným propánom"
+        ],
+        "specs": [
+          "Typ: kyslíkovo-acetylénový zvárací horák",
+          "Telo: mosadz; hrot: meď, vymeniteľný",
+          "Hadicová prípojka: G1/4″ alebo 9/16″-18 UNF",
+          "Pracovný tlak: O₂ 0,2–1,0 MPa; C₂H₂ 0,01 až 0,15 MPa",
+          "Teplota: -20 °C až +60 °C",
+          "Použitie: zváranie, spájkovanie, ohrev; rezanie so zodpovedajúcimi hrotmi",
+          "Balenie: 1 ks/škatuľa, 10 ks/kartón"
+        ],
+        "applications": [
+          "Kyslíkovo-acetylénové zváranie a opravy",
+          "Spájkovanie, zahrievanie a spájanie",
+          "Dielne a priemyselná údržba"
+        ],
+        "quality": [
+          "100% kontrola pred dodaním",
+          "Štýl baterky, konektor, balenie a logo môžu byť OEM",
+          "Kontrola materiálu, netesnosti a vzhľadu"
+        ]
+      },
+      {
+        "title": "Hlava prevodníka filtra",
+        "desc": "Pripája filtračnú vložku k regulátoru alebo potrubiu pre efektívnu filtráciu plynu.",
+        "intro": "Hlava konvertora filtra je spojenie medzi filtračnou vložkou a regulátorom alebo plynovým potrubím. Usadí prvok, udržuje správny smer prúdenia a zjednodušuje servis a výmenu vo valcoch a rozvodoch.",
+        "features": [
+          "Spája filtračný prvok s regulátorom alebo potrubím",
+          "Podporuje efektívnu filtráciu v plynovom potrubí",
+          "Priemyselná mosadz / kovová konštrukcia",
+          "Štandardné závitové porty na prispôsobenie systému",
+          "OEM závit, veľkosť a balenie na vyžiadanie"
+        ],
+        "specs": [
+          "Úloha: konvertor filtra / hlava adaptéra",
+          "Použitie: zostavy regulátora, potrubia a valcového filtra",
+          "Veľkosť pripojenia a závit potvrdené na objednávku",
+          "V prípade potreby zladené s filtračnými prvkami a miskami ako súprava"
+        ],
+        "applications": [
+          "Rozvod plynu pred regulátormi a nástrojmi",
+          "Zostavy filtra valca a generátora",
+          "Dielenské a priemyselné rozvody plynu"
+        ],
+        "quality": [
+          "Veľkosť pripojenia potvrdená pred výrobou",
+          "Exportné balenie",
+          "Možno dodať so zodpovedajúcimi filtračnými prvkami"
+        ]
+      },
+      {
+        "title": "Filter",
+        "desc": "Vysokoúčinný filter, ktorý odstraňuje vlhkosť, olej a častice na ochranu následného zariadenia.",
+        "intro": "Odstraňuje pevné častice, vodu, olej a iné nečistoty z prúdu plynu, čím chráni zariadenie a predlžuje životnosť. Mosadzná hlava, kvalitný prvok a stabilný chod pod tlakom. Pre kyslík, acetylén, vzduch, dusík a kompatibilné plyny.",
+        "features": [
+          "Vysokoúčinná filtrácia pre čistý prietok plynu",
+          "Odstraňuje vlhkosť, olej a čiastočky",
+          "Odolná mosadzná hlava a kovová miska",
+          "Odnímateľný prvok na čistenie alebo výmenu",
+          "Stabilná prevádzka pod pracovným tlakom"
+        ],
+        "specs": [
+          "Plyn: kyslík, acetylén, vzduch, dusík a kompatibilné plyny",
+          "Vstupný tlak: do 2,5 MPa",
+          "Pracovný tlak: 0,01–1,6 MPa",
+          "Presnosť: 5 / 20 / 50 μm voliteľná",
+          "Pripojenie: G1/4″, G3/8″, G1/2″, G3/4″ voliteľné",
+          "Telo: mosadz; prvok: spekaný bronz / nehrdzavejúca oceľ",
+          "Teplota: -20 °C až +60 °C",
+          "Balenie: 1 ks/škatuľa, 20 ks/kartón"
+        ],
+        "applications": [
+          "Systémy valcov, regulátorov a rozvodov",
+          "Továrne, dielne a priemyselné plynovody",
+          "Čistejší tok pre zváranie, rezanie a zásobovanie laboratóriami"
+        ],
+        "quality": [
+          "100% kontrola pred dodaním",
+          "Závit, presnosť a prvok je možné prispôsobiť",
+          "Exportné balenie"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Právne",
+    "title": "Zásady ochrany osobných údajov",
+    "updated": "Posledná aktualizácia: 25. augusta 2026",
+    "intro": [
+      "Wanda Group („my“, „nás“) prevádzkuje túto webovú stránku na prezentáciu plynových fliaš, príslušenstva a súvisiacich exportných dodávok a na prijímanie obchodných otázok od priemyselných nákupcov.",
+      "Tieto zásady vysvetľujú, aké osobné údaje zhromažďujeme prostredníctvom stránky, prečo ich používame a ako nás v tejto veci môžete kontaktovať. Na webovej stránke nezverejňujeme továrenské videá ani súbory certifikátov; tieto materiály sa posielajú súkromne na požiadanie."
+    ],
+    "sections": [
+      {
+        "title": "Kto je zodpovedný",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Aké údaje zhromažďujeme",
+        "body": [
+          "Keď odošlete dopytový formulár, dostaneme údaje, ktoré zadáte: meno, email, telefón, cieľová krajina, typ produktu, množstvo a správa.",
+          "Stránka tiež ukladá váš výber jazyka v prehliadači (localStorage). Neprevádzkujeme reklamné súbory cookie ani nepredávame zoznamy návštevníkov."
+        ]
+      },
+      {
+        "title": "Prečo používame údaje",
+        "body": [
+          "Údaje z dopytu používame iba na to, aby sme odpovedali na vašu požiadavku, pripravili cenovú ponuku, poslali informácie o produkte, videá alebo certifikáty, o ktoré ste požiadali, a koordinovali objednávku, ak začneme spolupracovať.",
+          "Právny základ: váš súhlas, keď zaškrtnete políčko vo formulári, a náš oprávnený záujem odpovedať na žiadosti o predaj B2B."
+        ]
+      },
+      {
+        "title": "Kto prijíma údaje",
+        "body": [
+          "Vaša správa bude doručená nášmu obchodnému tímu e-mailom. V závislosti od konfigurácie môže formulár spracovať Web3Forms ako technický poskytovateľ, ktorý nám odošle správu.",
+          "Osobné údaje nepredávame. S logistickými, kontrolnými alebo bankovými partnermi môžeme zdieľať to, čo je potrebné, iba ak je to potrebné na splnenie dohodnutej objednávky."
+        ]
+      },
+      {
+        "title": "Ako dlho to držíme",
+        "body": [
+          "Údaje z dopytu sa uchovávajú tak dlho, ako je potrebné na vybavenie žiadosti, a následne na primerané obdobie na sledovanie predaja a účtovníctvo, pokiaľ nás nepožiadate o ich vymazanie skôr, ak to zákon umožňuje."
+        ]
+      },
+      {
+        "title": "Vaše práva",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Bezpečnosť a deti",
+        "body": [
+          "Podnikáme primerané technické a organizačné kroky na ochranu správ pri preprave a v našej poštovej schránke. Táto webová stránka je určená pre podnikateľov, nie pre deti."
+        ]
+      }
+    ],
+    "contactLead": "Otázky týkajúce sa týchto pravidiel:"
+  }
+}

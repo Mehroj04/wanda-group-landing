@@ -1,0 +1,386 @@
+:root {
+  --color-bg: #070b14;
+  --color-bg-elevated: #0d1320;
+  --color-bg-card: #131b2e;
+  --color-bg-card-hover: #182238;
+  --color-bg-glass: rgba(19, 27, 46, 0.75);
+  --color-primary: #ff6b2b;
+  --color-primary-light: #ff8f5a;
+  --color-primary-dark: #e04e0f;
+  --color-primary-glow: rgba(255, 107, 43, 0.3);
+  --color-accent: #38bdf8;
+  --color-accent-glow: rgba(56, 189, 248, 0.15);
+  --color-success: #22c55e;
+  --color-text: #f8fafc;
+  --color-text-muted: #8b9cb8;
+  --color-text-dim: #5a6a85;
+  --color-border: rgba(139, 156, 184, 0.1);
+  --color-border-hover: rgba(255, 107, 43, 0.45);
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-xl: 32px;
+  --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.35);
+  --shadow-glow: 0 0 60px var(--color-primary-glow);
+  --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.5);
+  --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-spring: 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 88px;
+  -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.65;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--color-primary);
+  color: white;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 28px;
+  min-width: 0;
+}
+
+.container--wide {
+  max-width: 1400px;
+}
+
+.section {
+  padding: 110px 0;
+  position: relative;
+}
+
+.section-header {
+  text-align: center;
+  max-width: 720px;
+  margin: 0 auto 72px;
+}
+
+.section-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  margin-bottom: 16px;
+  padding: 6px 14px;
+  background: rgba(255, 107, 43, 0.08);
+  border: 1px solid rgba(255, 107, 43, 0.2);
+  border-radius: 100px;
+}
+
+.section-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4.5vw, 3rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  margin-bottom: 20px;
+}
+
+.section-subtitle {
+  font-size: 1.125rem;
+  color: var(--color-text-muted);
+  line-height: 1.75;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 15px 32px;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  border-radius: var(--radius-md);
+  transition: all var(--transition);
+  white-space: nowrap;
+  letter-spacing: -0.01em;
+  min-height: 44px;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
+  color: white;
+  box-shadow: 0 4px 20px var(--color-primary-glow);
+}
+
+.btn-primary:hover {
+  border-color: var(--color-primary-dark);
+}
+
+.btn-outline {
+  border: 1.5px solid var(--color-border);
+  color: var(--color-text);
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(8px);
+}
+
+.btn-outline:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: rgba(255, 107, 43, 0.06);
+}
+
+.btn-sm {
+  padding: 10px 20px;
+  font-size: 0.875rem;
+}
+
+/* Scroll reveal — Oppo-style slide panels */
+.reveal {
+  opacity: 0;
+  transition:
+    opacity 0.85s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.85s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+
+.reveal--up {
+  transform: translateY(28px);
+}
+
+.reveal--left {
+  transform: translateX(-56px);
+}
+
+.reveal--right {
+  transform: translateX(56px);
+}
+
+.reveal--scale {
+  transform: scale(0.92) translateY(24px);
+}
+
+.reveal--fade {
+  transform: none;
+}
+
+.reveal--visible {
+  opacity: 1;
+  transform: translate(0, 0) scale(1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal--up,
+  .reveal--left,
+  .reveal--right,
+  .reveal--scale,
+  .reveal--fade {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Spec table shared */
+.spec-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-elevated);
+}
+
+.spec-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+  min-width: 640px;
+}
+
+.spec-table th {
+  padding: 16px 20px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-primary);
+  background: rgba(255, 107, 43, 0.06);
+  border-bottom: 1px solid var(--color-border);
+  white-space: nowrap;
+}
+
+.spec-table td {
+  padding: 14px 20px;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+}
+
+.spec-table tr:last-child td {
+  border-bottom: none;
+}
+
+.spec-table tbody tr {
+  transition: background var(--transition);
+}
+
+.spec-table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.spec-table td:first-child {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  html {
+    scroll-padding-top: 72px;
+    scroll-padding-bottom: 88px;
+  }
+
+  body {
+    padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
+  }
+
+  .section {
+    padding: 56px 0;
+  }
+
+  .section-header {
+    margin-bottom: 32px;
+  }
+
+  .section-title {
+    font-size: 1.625rem;
+    margin-bottom: 12px;
+  }
+
+  .section-subtitle {
+    font-size: 0.9375rem;
+  }
+
+  .container {
+    padding: 0 16px;
+  }
+
+  .btn {
+    padding: 13px 20px;
+    white-space: normal;
+    text-align: center;
+  }
+
+  .spec-table {
+    font-size: 0.75rem;
+    min-width: 560px;
+  }
+
+  .spec-table th,
+  .spec-table td {
+    padding: 10px 12px;
+  }
+}
+
+/* On phones the fixed 560px minimum pushed the right-hand columns off screen.
+   Letting the headers wrap shrinks the table enough that the narrow ones fit
+   outright; the wide ones still scroll, so the first column is pinned to keep
+   every value tied to its row. */
+@media (max-width: 600px) {
+  .spec-table {
+    min-width: 0;
+    font-size: 0.8125rem;
+    /* Sticky cells drop their borders under `collapse` in some browsers. */
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+
+  .spec-table th {
+    white-space: normal;
+    padding: 9px 5px;
+    font-size: 0.625rem;
+    line-height: 1.25;
+    letter-spacing: 0;
+  }
+
+  .spec-table td {
+    padding: 12px 5px;
+  }
+
+  /* Pinned only as a fallback: on very narrow screens, or if a translation
+     makes a header longer, the row label stays put instead of scrolling away. */
+  .spec-table th:first-child,
+  .spec-table td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+  }
+
+  .spec-table td:first-child {
+    background: var(--color-bg-elevated);
+  }
+
+  /* The shared header tint is translucent, so give it an opaque base or the
+     scrolling cells show through the pinned one. */
+  .spec-table th:first-child {
+    background:
+      linear-gradient(rgba(255, 107, 43, 0.06), rgba(255, 107, 43, 0.06)),
+      var(--color-bg-elevated);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

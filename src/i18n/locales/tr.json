@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Ürünler",
+    "specs": "Teknik Özellikler",
+    "applications": "Uygulamalar",
+    "about": "Hakkımızda",
+    "gallery": "Galeri",
+    "quality": "Kalite",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "getQuote": "Teklif Alın",
+    "inquire": "Sorgula →",
+    "services": "Hizmetler",
+    "pricing": "Fiyatlandırma",
+    "accessories": "Aksesuarlar",
+    "home": "Ana sayfa",
+    "factory": "Fabrika"
+  },
+  "hero": {
+    "badge": "Gaz Tüpü Üreticisi",
+    "title": "Sanayi ve Kaynak İçin Güvenilir Gaz Tüpleri",
+    "subtitle": "Wanda Group, asetilen, propan tüpleri ve aksesuarlarının güvenilir üreticisi ve tedarikçisidir. Dünya çapında gaz tedariki, kaynak, kesme ve depolama çözümleri.",
+    "cta": "Teklif Alın",
+    "ctaSecondary": "Ürünlerimiz",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Yılların Deneyimi"
+      },
+      {
+        "value": "500K+",
+        "label": "Üretim Kapasitesi / Yıl"
+      },
+      {
+        "value": "50+",
+        "label": "İhracat Pazarları"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kalite ve Sertifikasyon"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Güvenilir Gaz Tüpü Aksesuarları",
+    "text": "Göstergeler, valfler, hortumlar, torçlar ve emniyet bağlantı parçaları — silindirlerle birlikte veya ayrı sipariş olarak tedarik edilir.",
+    "cta": "Aksesuarları görüntüle"
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Endüstriyel ve kaynak uygulamaları için asetilen tüpleri, jeneratörler, propan tüpleri ve aksesuarlar.",
+    "items": [
+      {
+        "title": "Asetilen Tüpü",
+        "desc": "Kaynak, kesme ve endüstriyel gazlar için çözünmüş asetilen tüpleri. Çeşitli boyut ve vana seçenekleri.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Asetilen Jeneratörü",
+        "desc": "Stabil gaz üretimi, kolay kullanım ve endüstriyel uygulamalar için ekipman.",
+        "icon": "⚙️",
+        "spec": "Endüstriyel üretim sistemleri"
+      },
+      {
+        "title": "Propan Tüpü",
+        "desc": "Propan ve LPG için dayanıklı tüpler — depolama, ısıtma, kesme ve endüstriyel kullanım.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Tüp Aksesuarları",
+        "desc": "Hortumlar, manometreler, kesme torçları, kaynak brülörleri, emniyet vanaları ve daha fazlası.",
+        "icon": "🔧",
+        "spec": "Vanalar · regülatörler · hortumlar · fenerler"
+      }
+    ],
+    "viewDetails": "Ayrıntıları Görüntüle"
+  },
+  "specs": {
+    "title": "Teknik Özellikler",
+    "subtitle": "Sorgu göndermeden önce tüp seçeneklerini, özelleştirme olanaklarını ve sevkiyat detaylarını inceleyin.",
+    "items": [
+      {
+        "title": "Tüp Kapasitesi",
+        "desc": "Uygulama ve pazar gereksinimlerine göre çeşitli kapasite ve hacim seçenekleri."
+      },
+      {
+        "title": "Vanalar ve Kapaklar",
+        "desc": "Müşteri ve proje ihtiyaçlarına göre tedarik edilen vanalar, kapaklar ve bağlantı parçaları."
+      },
+      {
+        "title": "Çözücü Seçenekleri",
+        "desc": "Stabil asetilen depolama için gözenekli dolgu sistemi ve çözücüler."
+      },
+      {
+        "title": "Paketleme ve Sevkiyat",
+        "desc": "Distribütörler ve proje müşterileri için ihracat paketleme ve sevkiyat desteği."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Tüp Uygulamaları",
+    "subtitle": "Yaygın endüstriyel gaz görevleri ve yurt dışı alıcı gereksinimleri için tasarlanmış ürünler.",
+    "items": [
+      "Kaynak ve Sert Lehim",
+      "Metal Kesme",
+      "Endüstriyel Gaz Tedariki",
+      "İnşaat",
+      "Metal İmalat",
+      "Gaz Depolama ve Dağıtım"
+    ]
+  },
+  "whyUs": {
+    "title": "Neden Wanda Group?",
+    "subtitle": "Doğrudan üretim, özelleştirme ve tam ihracat desteği — işletmeniz için her şey.",
+    "items": [
+      {
+        "title": "Yüksek Kalite",
+        "desc": "Endüstriyel kaynak ve gaz tedariği için üretilmiş çelik silindirler."
+      },
+      {
+        "title": "Sıkı Kalite Kontrolü",
+        "desc": "Gelen malzemelerden son paketlemeye kadar denetim."
+      },
+      {
+        "title": "İleri Üretim",
+        "desc": "Tek bir tesiste şekillendirme, kaynaklama, test etme ve bitirme."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Siparişe göre renk, valf, markalama, kapak ve ambalaj."
+      },
+      {
+        "title": "Uluslararası İhracat",
+        "desc": "Yurtdışı endüstriyel alıcılar için belgeler ve paketleme."
+      },
+      {
+        "title": "Güvenilir Teslimat",
+        "desc": "Tipik teslimat süresi sipariş onayından sonra 15-25 gündür."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesyonel Gaz Tüpü Üreticisi",
+    "text": "Wanda Group Gas Cylinder Manufacturer, endüstriyel gaz tüpleri ve ilgili aksesuarların üretimi ve tedarikinde uzmanlaşmıştır. Ürünlerimiz kaynak, kesme, gaz dağıtımı, endüstriyel depolama ve diğer gaz tedarik alanlarında yaygın olarak kullanılır.",
+    "text2": "Yurt dışı alıcılara ürün seçimi, özelleştirme, kalite kontrolü, paketleme ve sevkiyat koordinasyonunda destek sunuyoruz.",
+    "facts": [
+      {
+        "title": "Deneyim",
+        "desc": "15 yılı aşkın süredir endüstriyel gaz tüpleri tedarik ediyoruz."
+      },
+      {
+        "title": "Üretme",
+        "desc": "Şirket içi şekillendirme, kaynaklama, test etme ve bitirme."
+      },
+      {
+        "title": "Kalite",
+        "desc": "Pazara göre ISO 9809, DOT ve TPED seçenekleri."
+      },
+      {
+        "title": "İhracat",
+        "desc": "50'den fazla hedef pazar için koordine edilen sevkiyatlar."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fabrikamızın İçinde",
+    "subtitle": "Üretim, kaynak, test, boyama ve bitmiş silindirler — ihracat siparişlerini nasıl hazırlıyoruz.",
+    "items": [
+      {
+        "title": "Bitmiş silindir stoğu",
+        "desc": "Tesisimizde hazır envanter — toptan ve ihracat siparişleri için hacim kapasitesi."
+      },
+      {
+        "title": "Üretim kaynağı",
+        "desc": "Endüstriyel gaz temini ile fabrika katında metal imalat."
+      },
+      {
+        "title": "İhracat ambalajı",
+        "desc": "Uluslararası sevkiyattan önce koruyucu ağ ve palet ambalajı."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Toplu silindir nakliyesi",
+        "desc": "Distribütörlere ve fabrikalara karayolu taşımacılığı için kafes yüklerini sabitleyin."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Silindir boyutu aralığı",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kalite Kontrol",
+    "subtitle": "Her parti aynı yolu izler: üretim, test, muayene ve son kalite kontrol.",
+    "steps": [
+      {
+        "title": "Üretme",
+        "desc": "Tesis proses kontrolü altında şekillendirme, kaynaklama ve montaj."
+      },
+      {
+        "title": "Test",
+        "desc": "Silindirler hattan ayrılmadan önce basınç ve sızıntı testleri."
+      },
+      {
+        "title": "Denetleme",
+        "desc": "Siparişe göre görsel, markalama ve boyutsal kontroller."
+      },
+      {
+        "title": "Nihai Kalite Kontrol",
+        "desc": "İhracat sevkiyatından önce ambalaj denetimi."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Sorunuzu bulamadınız mı? Ürünü, boyutunu, miktarını ve varış ülkesini gönderin; size ayrıntılı bir teklifle yanıt vereceğiz.",
+    "ctaBtn": "Teklif Al",
+    "groups": [
+      {
+        "title": "Şirket",
+        "items": [
+          {
+            "q": "Gaz tüpü üreticisi misiniz?",
+            "a": "Evet. Wanda Group, denizaşırı endüstriyel alıcılar için gaz tüpleri ve ilgili endüstriyel gaz tedarik çözümleri üretiminde uzmanlaşmıştır."
+          },
+          {
+            "q": "Ağırlıklı olarak hangi ürünleri tedarik ediyorsunuz?",
+            "a": "Asetilen tüpleri, propan tüpleri, asetilen jeneratörleri ve vanalar, regülatörler, hortumlar, manometreler ve fenerler gibi gaz tüpü aksesuarlarını tedarik ediyoruz."
+          },
+          {
+            "q": "OEM özelleştirmesini destekleyebilir misiniz?",
+            "a": "Evet. Siparişe ve hedef pazara göre silindir rengi, markalama, valf, kapak ve salmastra seçenekleri tartışılabilir."
+          },
+          {
+            "q": "Yurtdışı alıcıları destekliyor musunuz?",
+            "a": "Evet. İhracat, ürün seçimi, paketleme gereksinimleri, dokümantasyon ve nakliye koordinasyonunu destekliyoruz."
+          },
+          {
+            "q": "Nasıl teklif alabilirim?",
+            "a": "Lütfen ürün tipini, silindir boyutunu, miktarını, varış ülkesini ve özelleştirme gereksinimlerini talep formu veya e-posta yoluyla belirtin. Ekibimiz ürün ayrıntıları ve fiyat teklifiyle yanıt verecektir."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Sipariş vermeden önce fabrika videolarını izleyebilir miyim?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Özellikle asetilen tüpleri için ürün videoları sağlıyor musunuz?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Üretim ve kalite kontrol videolarını gösterebilir misiniz?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Belirli bir sipariş için hazırlanan ürün videosunu talep edebilir miyim?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Çözümler",
+        "items": [
+          {
+            "q": "Hangi gaz tüpü çözümlerini sunuyorsunuz?",
+            "a": "Kaynak ve kesme, gaz dağıtımı, endüstriyel depolama, asetilen üretimi, OEM tedariği ve ihracat satın alma konularında çözümler sunuyoruz."
+          },
+          {
+            "q": "Başvurum için ürün önerebilir misiniz?",
+            "a": "Evet. Uygulamanızı, silindir boyutunu, miktarını, varış ülkesini ve gerekli aksesuarları gönderin; uygun ürünleri önereceğiz."
+          },
+          {
+            "q": "Aksesuarları silindirlerle birlikte veriyor musunuz?",
+            "a": "Evet. Basınç regülatörleri, hortumlar, manometreler, kesme şalomaları, kaynak şalomaları, vanalar ve bağlantı parçalarını silindirlerle birlikte tedarik edebilmekteyiz."
+          },
+          {
+            "q": "OEM alıcıları için gaz silindirleri tedarik edebilir misiniz?",
+            "a": "Evet. Siparişe göre silindir rengi, markalama, valf, kapak, logo ve ambalaj tartışılabilir."
+          }
+        ]
+      },
+      {
+        "title": "Ürünler",
+        "items": [
+          {
+            "q": "Çözünmüş asetilen silindiri ne için kullanılır?",
+            "a": "Çözünmüş asetilen silindirleri kaynak, kesme, sert lehimleme, metal imalatı ve endüstriyel gaz temini için yaygın olarak kullanılmaktadır."
+          },
+          {
+            "q": "Hangi silindir boyutlarını tedarik edebilirsiniz?",
+            "a": "Hedef pazarınıza, uygulamanıza ve sipariş miktarınıza bağlı olarak çeşitli hacimler ve kapasiteler tartışılabilir. Onaylamak için gerekli boyutu veya yerel standardı belirtin."
+          },
+          {
+            "q": "Silindir rengi, valfi ve işareti değiştirilebilir mi?",
+            "a": "Evet. Sipariş üzerine silindir rengi, valf, kapak, markalama, etiket ve ihracat ambalajı yapılabilmektedir."
+          }
+        ]
+      },
+      {
+        "title": "Aksesuarlar",
+        "items": [
+          {
+            "q": "Hangi aksesuarları tedarik ediyorsunuz?",
+            "a": "Geri tepme önleyiciler, basınç göstergeleri, emniyet valfleri, oksijen hortumları, hortum kelepçeleri, kesme torçları, kaynak torçları, filtreler, adaptörler ve diğer gaz tüpü aksesuarlarını tedarik ediyoruz."
+          },
+          {
+            "q": "Gaz tüpü aksesuarları özelleştirilebilir mi?",
+            "a": "Evet. Logoyu, ambalajı, bağlantı boyutunu, diş tipini, basınç aralığını ve teknik özellikleri özelleştirebiliriz."
+          },
+          {
+            "q": "Aksesuarlar gaz tüpleriyle birlikte sipariş edilebilir mi?",
+            "a": "Evet. Aksesuarlar asetilen tüpleri, propan tüpleri ve asetilen jeneratörleri ile birlikte temin edilebilmektedir."
+          },
+          {
+            "q": "OEM ambalajını destekliyor musunuz?",
+            "a": "Evet. Toptan siparişler için OEM markalama, kartonlar, çantalar ve ürün etiketleri sağlayabiliriz."
+          },
+          {
+            "q": "Ürün fotoğraflarını ve özelliklerini sağlayabilir misiniz?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Aksesuarlar için nasıl fiyat teklifi alabilirim?",
+            "a": "Lütfen ürün adını, miktarını, bağlantı boyutunu, çalışma basıncını, paketleme gerekliliklerini ve varış ülkesini veya limanını belirtin."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Son Makaleler",
+    "subtitle": "Kaynak ve gaz tedarik profesyonelleri için uzman içerik.",
+    "readMore": "Devamını oku →",
+    "close": "Kapat",
+    "items": [
+      {
+        "tag": "Ustalar",
+        "title": "Komple Propan Tüpü Tedarik Çözümü",
+        "desc": "Ekipman stabilitesi, kaynak ve kesme iş verimliliğini doğrudan etkiler.",
+        "body": [
+          "Her gün metal kaynak, onarım ve imalat yapan ustalar için stabil gaz ekipmanı, iş kalitesini ve hızını doğrudan etkiler.",
+          "Wanda Group propan tüpleri, pazarınıza göre POL, CGA 510 veya GOST vanalarla 3L'den 50L'ye kadar mevcuttur — kaynak, kesme ve ısıtma için tek tedarikçi.",
+          "Tüpleri regülatörler, hortumlar ve torçlarla birlikte sipariş etmenizi öneririz. Paket tedarik lojistik maliyetini düşürür ve aksesuar uyumluluğunu sağlar.",
+          "Sipariş verirken hedef pazar, hacim, vana tipi ve rengi belirtin — markanız altında OEM işaretleme ve ihracat paketlemesi hazırlarız."
+        ]
+      },
+      {
+        "tag": "Depolama",
+        "title": "Uzun Süreli Asetilen Tüpü Depolama İpuçları",
+        "desc": "Kullanılmayan tüpler için depolama koşulları, yerleştirme yöntemleri ve düzenli kontroller.",
+        "body": [
+          "Birçok şirket üretim duraklamalarında veya stok olarak asetilen ve propan tüpleri saklar. Kullanılmayan tüpler yine de doğru kullanım gerektirir.",
+          "Tüpleri ısı kaynaklarından ve doğrudan güneş ışığından uzak, iyi havalandırılmış bir alanda dik konumda saklayın. Depolama sıcaklığı genellikle 40–50°C'yi aşmamalıdır.",
+          "Vanaları, kapakları ve işaretlemeleri en az üç ayda bir kontrol edin. Uzun süreli asetilen depolamada tüpleri dik tutun ve asla eğilmesine izin vermeyin.",
+          "Wanda Group, güvenli taşıma ve depolama için tasarlanmış koruyucu kapaklar ve ihracat paketlemesiyle tüpleri sevk eder. Depolama kılavuzları talep üzerine dilinizde mevcuttur."
+        ]
+      },
+      {
+        "tag": "Fiyatlandırma",
+        "title": "Asetilen Tüpü Satın Alma Bütçe Rehberi",
+        "desc": "Maliyeti etkileyen faktörler ve en uygun teklifi nasıl seçersiniz.",
+        "body": [
+          "Asetilen tüp fiyatı hacme (2L–40L), vana tipine, sertifikasyona (ISO, DOT, TPED) ve sipariş miktarına bağlıdır. Gösterge EXW fiyatları: WG-10 $28–35, WG-25 $45–58 birim başına.",
+          "Daha büyük partiler (200–500+ adet) anlamlı indirimler alır. OEM boyama, logo ve özel paketleme taban fiyata %5–15 ekler ancak distribütörler için değeri artırır.",
+          "Ayrıca sevkiyatı (FOB/CIF), belgeleri ve MOQ'yu hesaba katın. Tam spesifikasyon, teslim süresi ve Incoterms ile 24 saat içinde yanıt veririz.",
+          "Kesin teklif için iletişim formuna model, miktar, hedef ülke ve vana gereksinimlerini ekleyin — veya sales@wandagroups.com adresine e-posta gönderin."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Fiyat Teklifi İste",
+    "subtitle": "Boyut, miktar, hedef ülke ve uygulamayı bildirin — detaylı bir teklif hazırlayacağız.",
+    "formTitle": "Fiyat Teklifi İste",
+    "formSubtitle": "Gereksinimlerinizi bırakın — satış ekibimiz ürün bilgisi, fiyat, MOQ ve teslim süresiyle yanıt verecektir.",
+    "name": "Ad",
+    "phone": "Telefon / WhatsApp",
+    "email": "E-posta",
+    "product": "Ürün",
+    "quantity": "Miktar",
+    "country": "Hedef Ülke",
+    "productOptions": [
+      "Asetilen Tüpü",
+      "Propan Tüpü",
+      "Asetilen Jeneratörü",
+      "Aksesuarlar",
+      "Paket Sipariş"
+    ],
+    "message": "Ek Gereksinimler",
+    "messagePlaceholder": "Ürün, boyut, miktar, hedef ülke...",
+    "submit": "Talep Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Teşekkürler! En kısa sürede sizinle iletişime geçeceğiz.",
+    "sendAnother": "Başka bir sorgu gönder",
+    "errorGeneric": "Gönderilemedi. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "errorNoForm": "Form yapılandırılmamış. Lütfen sales@wandagroups.com adresine e-posta gönderin",
+    "privacyPrefix": "katılıyorum",
+    "privacySuffix": "ve bu soruşturmayı yürütmek için kişisel verilerimin işlenmesine.",
+    "privacyLink": "Gizlilik Politikası",
+    "company": "Şirket",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "E-posta uygulamasıyla gönder"
+  },
+  "footer": {
+    "company": "Wanda Group Gaz Tüpü Üreticisi",
+    "tagline": "Profesyonel Gaz Tüpü Üretimi",
+    "rights": "© 2026 Wanda Group. Tüm hakları saklıdır.",
+    "privacy": "Gizlilik Politikası"
+  },
+  "ui": {
+    "catalog": "Katalog",
+    "catalogTitle": "Detaylı Ürün Özellikleri",
+    "catalogSubtitle": "Her kategori için eksiksiz teknik veriler, modeller ve parametreler. Spec tablosunu görmek için bir ürün seçin.",
+    "requestPrice": "Bu Model İçin Fiyat İsteyin",
+    "services": "Hizmetler",
+    "pricing": "Fiyatlandırma",
+    "getExactQuote": "Kesin Teklif Alın",
+    "certifications": "Sertifikalar",
+    "order": "Sipariş",
+    "reviews": "Yorumlar",
+    "contact": "İletişim",
+    "phone": "Telefon",
+    "location": "Konum",
+    "quoteResponse": "Teklif yanıtı",
+    "support": "Destek",
+    "exportReady": "İhracata hazır",
+    "years": "Yıl",
+    "acetylene": "Asetilen",
+    "isoCertified": "ISO Sertifikalı",
+    "globalExport": "Küresel İhracat",
+    "products": "Ürünler",
+    "specs": "Özellikler",
+    "applications": "Uygulamalar",
+    "whyUs": "Neden Biz",
+    "about": "Hakkımızda",
+    "gallery": "Galeri",
+    "quality": "Kalite",
+    "faq": "SSS",
+    "blog": "Blog",
+    "countriesServed": "Hizmet verilen ülkeler",
+    "searchLanguage": "Dil ara...",
+    "noLanguagesFound": "Dil bulunamadı"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "50+ Ülkeye İhracat",
+    "Adedi 100 adetten itibaren",
+    "Teslimat Süresi 15–25 Gün"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Asetilen",
+      "propane": "Propan",
+      "generator": "Jeneratör",
+      "accessories": "Aksesuarlar"
+    },
+    "acetylene": {
+      "title": "Çözünmüş Asetilen Tüpleri",
+      "intro": "Asetilenin güvenli depolanması ve taşınması için gözenekli kütleye ve solvente sahip çelik silindirler. Kaynak, kesme, lehimleme ve metal imalatında kullanılır.",
+      "features": [
+        "Kararlı depolama için gözenekli kütle + aseton",
+        "Talep üzerine CGA 510 / GOST / DIN vanaları",
+        "Hidrolik test basıncı 5,2 MPa",
+        "RAL boyama, damgalama ve OEM etiketleri",
+        "İhracat palet ambalajı"
+      ],
+      "tableTitle": "Standart Asetilen Tüp Modelleri",
+      "headers": [
+        "Modeli",
+        "Hacim (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Ağırlık (kg)",
+        "Yükseklik (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Kesin parametreler standarda (ISO/DOT/GB) ve valf konfigürasyonuna bağlıdır. Pazarınız için teknik özellikler sayfası isteyin."
+    },
+    "propane": {
+      "title": "Propan ve LPG Tüpleri",
+      "intro": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+      "features": [
+        "ISO 9809'a göre 37Mn/34CrMo4 çeliği",
+        "Çalışma basıncı 1,8–2,1 MPa",
+        "POL, CGA 510, GOST vanaları",
+        "Toz boya, korozyon önleyici",
+        "AB, ABD ve BDT pazarlarına yönelik sertifikalar"
+      ],
+      "tableTitle": "Standart Propan Silindir Modelleri",
+      "headers": [
+        "Modeli",
+        "Hacim (L)",
+        "Gaz (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Ağırlık (kg)",
+        "Yükseklik (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Fiyatlandırma ve MOQ, sipariş hacmine ve vana tipine bağlıdır. Kesin teklif için soruşturma gönderin."
+    },
+    "generator": {
+      "title": "Asetilen Jeneratörleri",
+      "intro": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği.",
+      "features": [
+        "Çıkış 3–100 m³/saat kapasite",
+        "Otomatik su ve karbür beslemesi",
+        "Güvenlik sistemi ve filtreleme",
+        "Kompakt ve endüstriyel modeller",
+        "Tam dokümantasyon ve eğitim"
+      ],
+      "tableTitle": "Asetilen Jeneratör Modelleri",
+      "headers": [
+        "Modeli",
+        "Çıkış (m³/saat)",
+        "Karbür (kg/saat)",
+        "Basınç (kPa)",
+        "Güç (kW)",
+        "Ağırlık (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Jeneratörler istek üzerine soğutma sistemi, filtreler ve yedek parça kiti ile birlikte verilmektedir."
+    },
+    "accessories": {
+      "title": "Silindir Aksesuarları ve Bağlantı Parçaları",
+      "intro": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik.",
+      "features": [
+        "Düzenleyiciler ve göstergeler (CGA/GOST/DIN)",
+        "Yüksek basınç hortumları",
+        "Kesme meşaleleri ve kaynak brülörleri",
+        "Basınç tahliye vanaları",
+        "Arabalar, standlar, kapaklar"
+      ],
+      "tableTitle": "Aksesuar Kataloğu",
+      "headers": [
+        "Kategori",
+        "Modeller",
+        "Standart",
+        "Başvuru"
+      ],
+      "rows": [
+        [
+          "Düzenleyiciler",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Asetilen, propan"
+        ],
+        [
+          "Göstergeler",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Basınç izleme"
+        ],
+        [
+          "Hortumlar",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Kaynak, kesme"
+        ],
+        [
+          "Meşaleler",
+          "WG-C100, WG-C300",
+          "—",
+          "Plazma/oksi kesim"
+        ],
+        [
+          "Brülörler",
+          "WG-T200, WG-T500",
+          "—",
+          "Kaynak, sert lehimleme"
+        ],
+        [
+          "Vanalar",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Tüm silindir tipleri"
+        ]
+      ],
+      "note": "* Aksesuarlar ayrı olarak veya silindirlerle birlikte temin edilebilir. Kombine siparişlerde indirim."
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Üretimden deponuza teslimata kadar tam döngü. Distribütörler, OEM markalar ve proje alıcıları ile çalışıyoruz.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Özel İmalat (OEM/ODM)",
+        "desc": "Markanız, renginiz ve markanızın yazılı olduğu silindirler.",
+        "points": [
+          "Logo ve RAL rengi",
+          "Piyasa standardı valf",
+          "OEM ambalaj ve etiketler"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "İhracat ve Lojistik",
+        "desc": "Tam uluslararası gönderi desteği.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Belgeleri dışa aktar",
+          "Deniz ve demiryolu taşımacılığı"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kalite Kontrol",
+        "desc": "Her aşamada test ve muayene.",
+        "points": [
+          "Hidrostatik testler",
+          "UT kaynak muayenesi",
+          "Talep üzerine SGS/BV denetimi"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertifikasyon",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, NOKTA, TPED",
+          "MSDS ve kalite sertifikası",
+          "Menşe belgesi"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Teknik Destek",
+        "desc": "Ürünlerin ve konfigürasyonun seçilmesine yardımcı olun.",
+        "points": [
+          "Piyasaya dayalı seçim",
+          "MOQ ve teslim süresi hesaplaması",
+          "Personel eğitimi"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Paket Temini",
+        "desc": "Silindirler + aksesuarlar tek siparişte.",
+        "points": [
+          "Tek sözleşme",
+          "Koordineli teslimat",
+          "Paket indirimi"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Fiyatlandırma ve Tedarik Koşulları",
+    "subtitle": "B2B satın alma için şeffaf koşullar. Kesin fiyatlandırma ayrı ayrı hesaplanır; talebinizi gönderin, 24 saat içinde yanıt veririz.",
+    "note": "Gösterilen fiyatlar gösterge niteliğindedir (EXW). Nihai maliyet hacim, valf tipi, sertifikasyon ve nakliye şartlarına bağlıdır.",
+    "cards": [
+      {
+        "label": "Adedi",
+        "value": "100 adetten itibaren",
+        "desc": "Model başına minimum sipariş"
+      },
+      {
+        "label": "Kurşun zamanı",
+        "value": "15–25 gün",
+        "desc": "Sipariş onayından sonra"
+      },
+      {
+        "label": "Ödeme",
+        "value": "T/T 30/70",
+        "desc": "%30 depozito, %70 sevkıyattan önce"
+      },
+      {
+        "label": "Garanti",
+        "value": "12 ay",
+        "desc": "Üretim hatalarına karşı"
+      }
+    ],
+    "factors": {
+      "title": "Fiyat Faktörleri",
+      "items": [
+        "Silindir hacmi ve modeli (2L – 50L)",
+        "Vana tipi (CGA, GOST, DIN, POL)",
+        "Sertifikasyon standardı (ISO, DOT, TPED)",
+        "OEM: renk, işaretleme, paketleme",
+        "Sipariş hacmi ve Incoterms"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Asetilen WG-10",
+        "moq": "200 adet",
+        "price": "28–35 ABD Doları / adet",
+        "lead": "18 gün"
+      },
+      {
+        "product": "Asetilen WG-25",
+        "moq": "100 adet",
+        "price": "45–58 ABD Doları / adet",
+        "lead": "20 gün"
+      },
+      {
+        "product": "Propan WG-P11",
+        "moq": "500 adet",
+        "price": "12–16 ABD Doları / adet",
+        "lead": "15 gün"
+      },
+      {
+        "product": "Propan WG-P50",
+        "moq": "100 adet",
+        "price": "55–72 ABD Doları / adet",
+        "lead": "22 gün"
+      },
+      {
+        "product": "Jeneratör WG-G20",
+        "moq": "1 adet",
+        "price": "$3,500–4,200",
+        "lead": "25 gün"
+      },
+      {
+        "product": "Regülatör seti",
+        "moq": "50 adet",
+        "price": "8–15 ABD Doları / adet",
+        "lead": "10 gün"
+      }
+    ],
+    "tableHeaders": [
+      "Ürün",
+      "Adedi",
+      "Fiyat (EXW)",
+      "Kurşun zamanı"
+    ]
+  },
+  "certifications": {
+    "title": "Sertifikalar ve Standartlar",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Dikişsiz çelik gaz silindirleri - teknik gereksinimler"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Çözünmüş asetilen silindirleri"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "ABD pazarı sertifikası"
+      },
+      {
+        "name": "TPED",
+        "desc": "Avrupa taşımacılık direktifi"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Çin gaz silindiri standardı"
+      },
+      {
+        "name": "CE İşareti",
+        "desc": "Avrupa uygunluk gereksinimleri"
+      }
+    ]
+  },
+  "process": {
+    "title": "Nasıl Sipariş Verilir?",
+    "subtitle": "Sorgulamadan deponuzdaki silindirlere kadar basit süreç.",
+    "steps": [
+      {
+        "title": "Talep Gönder",
+        "desc": "Ürün, hacim, ülke ve vana gerekliliklerini belirtin"
+      },
+      {
+        "title": "Teklif Al",
+        "desc": "24 saat içinde fiyat, MOQ, teslimat süresi ve teknik özellikler sayfası"
+      },
+      {
+        "title": "Siparişi Onayla",
+        "desc": "Sözleşme imzalanması ve %30 depozito ödemesi"
+      },
+      {
+        "title": "Üretim ve Kalite Kontrol",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Sevkiyat",
+        "desc": "Paketleme, belgeler, FOB/CIF/DDP teslimatı"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Alıcılar ne diyor",
+    "items": [
+      {
+        "quote": "Bu yıl 40 litrelik asetilen tüplerini üçüncü kez yeniden sipariş ettik. GOST vanalar, OEM renk ve ihracat ambalajı her seferinde ilk numuneyle uyumlu geldi.",
+        "author": "Rustam Yusupov",
+        "role": "Kaynak gazları distribütörü sahibi",
+        "country": "Özbekistan"
+      },
+      {
+        "quote": "Teklif aynı gün geldi — net MOQ ve terminle. POL vanalı propan tüpleri ve eksiksiz packing list ile geldi, gümrükte sorun olmadı.",
+        "author": "Aigerim Bekova",
+        "role": "Endüstriyel tedarik satın alma müdürü",
+        "country": "Kazakistan"
+      },
+      {
+        "quote": "Tüpleri regülatör ve hortumlarla tek konteynerde alıyoruz. İşaretleme ve belgeler pazarımıza hazır — yeniden satış kolaydı.",
+        "author": "Faisal Al-Harbi",
+        "role": "Gaz ekipmanı ithalat alıcısı",
+        "country": "Suudi Arabistan"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "kaynak",
+        "eyebrow": "Asetilen silindirleri",
+        "title": "Hassas kaynak için kararlı alev",
+        "text": "Sürekli kaynak ve sert lehimleme için tasarlanmış çözünmüş asetilen silindirleri; tutarlı basınç, güvenli gözenekli kütle, ihracata hazır valfler.",
+        "points": [
+          "ISO / DOT / GB seçenekleri",
+          "CGA / GOST / DIN vanaları",
+          "OEM renk ve işaretleme"
+        ]
+      },
+      {
+        "id": "kesme",
+        "eyebrow": "Kesim ve imalat",
+        "title": "Metalin hareket etmesi gerektiğinde güç",
+        "text": "Tersaneler, atölyeler ve ağır imalat hatları için yüksek akışlı asetilen ve oksijene hazır silindir setleri.",
+        "points": [
+          "Hızlı delme ve kesme",
+          "Meşaleye hazır kitler",
+          "Toplu MOQ dostu"
+        ]
+      },
+      {
+        "id": "propan",
+        "eyebrow": "Propan ve LPG",
+        "title": "Her pazara uygun dayanıklı LPG tüpleri",
+        "text": "Isıtma ve pişirme gazından endüstriyel kesmeye kadar; basınç, kaplama ve uzun hizmet ömrü için tasarlanmış çelik silindirler.",
+        "points": [
+          "3L–50L aralığı",
+          "POL / CGA vanaları",
+          "Toz boya kaplama"
+        ]
+      },
+      {
+        "id": "fabrika",
+        "eyebrow": "Üretme",
+        "title": "Çelikten sevkiyata kadar fabrika kontrolü",
+        "text": "Şirket içi şekillendirme, kaynaklama, hidrostatik test ve son işlem; böylece her parti çiziminize ve pazar standardınıza uygundur.",
+        "points": [
+          "Hidrostatik test edildi",
+          "İzlenebilir partiler",
+          "OEM/ODM hazır"
+        ]
+      },
+      {
+        "id": "kalite",
+        "eyebrow": "Kalite ve güvenlik",
+        "title": "Fiyat teklifine ekleyebileceğiniz muayene",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Basınç ve sızıntı testleri",
+          "Certificate package",
+          "Sevkiyat öncesi fotoğraflar"
+        ]
+      },
+      {
+        "id": "ihracat",
+        "eyebrow": "Küresel ihracat",
+        "title": "Limanlar için paketlenmiş, 50'den fazla ülkeye hazır",
+        "text": "Hedef Incoterms'e göre koordine edilen ihracat paletleri, valf koruması, çok dilli etiketler ve nakliye belgeleri.",
+        "points": [
+          "FOB/CIF desteği",
+          "Paletli paketleme",
+          "Teslim süresi 15–25 gün"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Fabrikada hazır endüstriyel gaz silindirleri",
+    "about": "Koruyucu ambalajlı, ihracata hazır silindir stoğu",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Fabrikada bitmiş silindir stoğu",
+      "Fabrika katında üretim kaynağı",
+      "Koruyucu ağ ile ihracat ambalajı",
+      "Propane cylinders ready for dispatch",
+      "Kamyonda toplu silindir nakliyesi",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Aksesuarlar",
+    "title": "Ürün Aksesuarları",
+    "subtitle": "Asetilen silindirleri, jeneratörler, kaynak ve kesme parçaları. Spesifikasyonlar ve uygulamalar için Ayrıntıları açın.",
+    "cta": "Ayrıntıları talep et",
+    "details": "Detaylar",
+    "close": "Kapalı",
+    "featuresLabel": "Temel özellikler",
+    "specsLabel": "Özellikler",
+    "applicationsLabel": "Uygulamalar",
+    "qualityLabel": "Kalite ve tedarik",
+    "whyTitle": "Neden aksesuarlarımızı seçmelisiniz?",
+    "why": [
+      "Dayanıklı pirinç, paslanmaz çelik ve endüstriyel sınıf malzemeler",
+      "Silindirler, jeneratörler, regülatörler, hortumlar ve kaynak sistemleriyle uyumlu",
+      "OEM logosu, ambalaj, bağlantı boyutu, diş tipi ve teknik özellikler",
+      "Uluslararası alıcılar için ihracat ambalajı ve istikrarlı tedarik"
+    ],
+    "items": [
+      {
+        "title": "Asetilen Geri Dönüş Valfi",
+        "desc": "Oksi-asetilen kaynak ve kesme sistemlerinde ters gaz akışını ve alevin geri tepmesini önler.",
+        "intro": "Asetilen sistemleri için temel bir güvenlik cihazı. Dahili sinterlenmiş paslanmaz alev tutucu ve tek yönlü akış tasarımı operatörleri, hortumları ve gaz hatlarını korur. Regülatörler, hortumlar ve fenerlerle uyumludur. OEM logosu, etiket ve ambalaj mevcuttur.",
+        "features": [
+          "Alev durdurucu sinterlenmiş paslanmaz uç",
+          "Geri dönüşsüz (tek yönlü) akış tasarımı",
+          "Yüksek mukavemetli pirinç gövde, korozyona dayanıklı",
+          "Çalışma basıncı altında güvenilir sızdırmazlık",
+          "Hızlı kurulum ve değiştirme için standart bağlantılar"
+        ],
+        "specs": [
+          "Gaz: asetilen (C₂H₂); oksijen tutucular ayrı olarak tedarik edilir",
+          "Gövde: pirinç; tutucu: paslanmaz çelik",
+          "Bağlantı: G 3/8″ LH veya özelleştirilmiş dişli",
+          "Çalışma basıncı: 1,5 MPa'ya kadar / özelleştirilmiş",
+          "Kullanım: oksi-asetilen kaynağı, kesme ve ısıtma",
+          "Ambalaj: bireysel kutu, karton veya özel"
+        ],
+        "applications": [
+          "Oksi-asetilen kaynak ve kesme",
+          "Regülatörler, hortumlar ve torç düzenekleri",
+          "Asetilen jeneratörü gaz hatları"
+        ],
+        "quality": [
+          "Sevkiyat öncesi %100 muayene",
+          "Conta, basınç ve geri dönüş fonksiyonu testleri",
+          "Uzun mesafe teslimat için ihracat ambalajı"
+        ]
+      },
+      {
+        "title": "Asetilen Jeneratörü Bidonu",
+        "desc": "Endüstriyel gaz sistemlerinde kalsiyum karbürden stabil asetilen üretimi için çekirdek kabı.",
+        "intro": "Jeneratör kutusu asetilen üretim sisteminin ana kabıdır. Kaynak, kesme ve merkezi silindir beslemesi olmayan sahalarda stabil gaz üretimi için tedarik edilir. Kapasite, borular ve güvenlik trimi jeneratör modeline göre ayarlanabilir.",
+        "features": [
+          "Asetilen jeneratör sistemleri için çekirdek kabı",
+          "Kalsiyum karbürden stabil gaz üretimi için tasarlandı",
+          "Filtrasyon ve emniyet valfleri ile eşleştirilebilir",
+          "Endüstriyel ve kompakt jeneratör yerleşimleri",
+          "Talep üzerine OEM markalama, bağlantılar ve paketleme"
+        ],
+        "specs": [
+          "Rol: jeneratör kutusu / konteyner montajı",
+          "İlgili jeneratörlerin tipik çıkış aralığı: 3–100 m³/saat",
+          "İlgili ünitelerin çalışma basıncı: yaklaşık 1,5–5 kPa",
+          "Talep üzerine soğutma, filtreler ve yedek parçalarla birlikte verilir",
+          "Bağlantılar, kapasite ve donanım siparişe göre onaylanır"
+        ],
+        "applications": [
+          "Asetilen jeneratör tesisleri ve taşınabilir üniteler",
+          "Merkezi silindir beslemesi olmayan atölyeler",
+          "Endüstriyel kaynak ve kesme gazı üretimi"
+        ],
+        "quality": [
+          "Jeneratör modeline fabrika uyumu",
+          "İhracat ambalajı ve belgeleri",
+          "Kapasite ve bağlantı ayrıntıları sevkıyattan önce onaylandı"
+        ]
+      },
+      {
+        "title": "Kesme Meşalesi",
+        "desc": "Hassas kesimler, istikrarlı alev ve yüksek verimlilik için dayanıklı oksi-asetilen kesme hamlacı.",
+        "intro": "Temiz, doğru kesimler için profesyonel asetilen kesme hamlacı. Paslanmaz borulu pirinç gövde, ergonomik sap ve değiştirilebilir nozullar. Asetilen ve oksijenle ve standart uçlarla uyumludur.",
+        "features": [
+          "Birinci sınıf pirinç ve paslanmaz yapı",
+          "Kararlı alev ve hassas kesim kontrolü",
+          "Geri tepme riskini azaltmak için güvenlik odaklı tasarım",
+          "Ergonomik sap, montajı ve servisi kolay",
+          "Standart nozullar, uçlar ve hortum setleriyle çalışır"
+        ],
+        "specs": [
+          "Model: CT-01 kesme meşale",
+          "Gaz: asetilen + oksijen",
+          "Kesme kalınlığı: 3–300 mm (meme ve basınca bağlı)",
+          "Çalışma basıncı: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Bağlayıcı: G5/8-14 veya özelleştirilmiş",
+          "Uzunluk: yaklaşık. 460mm",
+          "Ambalaj: 1 adet/kutu, 10 adet/karton"
+        ],
+        "applications": [
+          "Karbon çelik levha, boru ve profil kesimi",
+          "İmalathaneler, tersaneler ve inşaat",
+          "Endüstriyel bakım ve yerinde kesim"
+        ],
+        "quality": [
+          "Teslimattan önce %100 muayene",
+          "Görünüm, bağlantı, sızdırmazlık ve fonksiyon kontrolleri",
+          "Uzun mesafe nakliye için ihracat ambalajı"
+        ]
+      },
+      {
+        "title": "İç/Dış Dişli Açılı Vana",
+        "desc": "Pazar standartlarına uygun iç veya dış dişli seçeneklerine sahip ağır hizmet tipi silindir açılı valf.",
+        "intro": "Asetilen ve diğer endüstriyel gazlar için açılı vanalar: sağlam pirinç gövde, hassas sızdırmazlık ve sorunsuz el çarkı çalışması. Silindir ve ekipman standartlarına uygun iç veya dış dişli.",
+        "features": [
+          "Dayanıklı pirinç gövde, korozyona dayanıklı",
+          "Güvenilir sızdırmazlık için yüksek hassasiyette işleme",
+          "İç veya dış dişli bağlantı seçenekleri",
+          "Kolay açma/kapama için ergonomik el çarkı",
+          "%100 güvenlik ve fonksiyon denetimi"
+        ],
+        "specs": [
+          "Gaz: asetilen, oksijen, argon, nitrojen ve uyumlu gazlar",
+          "Çalışma basıncı: 25 / 35 bar sınıfı",
+          "Test basıncı: 37,5 / 52,5 bar sınıfı",
+          "Giriş/çıkış: dahili veya harici, özelleştirilmiş",
+          "El çarkı: alüminyum / çinko alaşımı",
+          "Sıcaklık: −20 °C ila +60 °C",
+          "Standartlar: ISO 10297, GB/T 8335, CGA veya özel",
+          "Ambalaj: 1 adet/torba, 50 adet/kutu"
+        ],
+        "applications": [
+          "Asetilen ve endüstriyel gaz silindirleri",
+          "Kaynak ve kesme gazı sistemleri",
+          "Atölyeler, tesisler ve laboratuvar gazı temini"
+        ],
+        "quality": [
+          "Malzeme, işleme, sızıntı ve görünüm kontrolleri",
+          "Uzun mesafe taşımacılığı için ihracat ambalajı",
+          "Pazara göre onaylanan iplik boyutu ve standart"
+        ]
+      },
+      {
+        "title": "Oksijen Hortumu Kelepçesi",
+        "desc": "Güvenli, sızdırmaz oksijen ve endüstriyel hortum bağlantıları için paslanmaz çelik sonsuz vidalı kelepçe.",
+        "intro": "Kaynak ve endüstriyel kullanım için paslanmaz çelik oksijen hortumu kelepçeleri. Güçlü sıkma kuvveti, paslanmaya karşı dayanıklılık ve hortum dostu kenarlar. Yeniden kullanılabilir ve kurulumu kolaydır.",
+        "features": [
+          "Paslanmaz çelik 201/304",
+          "Güçlü kelepçe kuvveti ve güvenli sabitleme",
+          "Pas, korozyon ve oksidasyon direnci",
+          "Pürüzsüz bant kenarları hortumun korunmasına yardımcı olur",
+          "Kurulumu, kaldırılması ve yeniden kullanılması kolaydır"
+        ],
+        "specs": [
+          "Tip: sonsuz tahrikli hortum kelepçesi",
+          "Hortum aralığı: 8–100 mm, toplu ürünler için özel boyutlar",
+          "Bant genişliği: 9/12 mm; kalınlık 0,6–0,8 mm",
+          "Vida: oluklu veya altıgen başlı",
+          "Standartlar: DIN 3017 / SAE J1508",
+          "Bitiş: cilalı",
+          "Ambalaj: 100 adet/torba, 10 torba/karton veya özel"
+        ],
+        "applications": [
+          "Kaynak ve kesme için oksijen ve yakıt hortumları",
+          "Silindir, regülatör ve torç hortumu bağlantıları",
+          "Fabrika, atölye ve bakım hatları"
+        ],
+        "quality": [
+          "Teslimattan önce %100 muayene",
+          "Boyut, bant ve ambalaj özelleştirilebilir",
+          "İhracat kalitesinde ambalaj"
+        ]
+      },
+      {
+        "title": "Oksijen Tüpleri",
+        "desc": "Kaynak, kesme ve endüstriyel gaz beslemesi için uzun servis ömrüne sahip esnek yüksek basınçlı oksijen hortumu.",
+        "intro": "Basınç altında güvenli gaz transferi için yapılmış oksijen tüpleri. Esnek, bükülmeye ve aşınmaya dayanıklı, stabil akış için pürüzsüz iç duvarlı. Kaynak ve silindir bağlantısı için birden fazla kimlik ve uzunluk.",
+        "features": [
+          "Yüksek çalışma ve patlama basıncı",
+          "Esnek, bükülmeye dayanıklı yapı",
+          "Yaşlanma, ozon ve aşınma direnci",
+          "Sabit gaz akışı için pürüzsüz iç duvar",
+          "Hafif ve kullanımı kolay"
+        ],
+        "specs": [
+          "Gaz: oksijen",
+          "Çalışma basıncı: 20 bar / 290 psi",
+          "Patlama basıncı: 60 bar / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (özel olarak mevcuttur)",
+          "Uzunluk: 10 / 20 / 30 / 50 / 100 m veya özel",
+          "Renk: mavi standart; malzeme SBR / EPDM + polyester iplik",
+          "Standartlar: ISO 3821 / EN 559 / GB/T 20098",
+          "Sıcaklık: −20 °C ila +80 °C"
+        ],
+        "applications": [
+          "Kaynak ve kesme için oksijen kaynağı",
+          "Silindirden regülatöre hortum bağlantısı",
+          "Fabrikalar, atölyeler ve endüstriyel gaz hatları"
+        ],
+        "quality": [
+          "Teslimattan önce %100 muayene",
+          "Çap, uzunluk, renk ve etiket özelleştirilebilir",
+          "İhracat ambalajı: küçültmek/dokuma çanta/karton"
+        ]
+      },
+      {
+        "title": "Basınç Göstergesi",
+        "desc": "Oksijen, asetilen ve diğer endüstriyel gazlar için doğru basınç göstergesi.",
+        "intro": "Asetilen, oksijen ve endüstriyel gazlar için göstergeler: net kadran, dayanıklı yapı ve silindirler, regülatörler ve boru hatları üzerinde istikrarlı okumalar. OEM ve ihracat için çoklu aralıklar ve bağlantılar.",
+        "features": [
+          "Yüksek doğruluk ve istikrarlı performans",
+          "Kolay okuma için net kadran",
+          "Darbelere dayanıklı endüstriyel yapı",
+          "Korozyona dayanıklı malzemeler",
+          "Çoklu aralıklar ve alt/arka montajlar"
+        ],
+        "specs": [
+          "Gaz: asetilen, oksijen, argon, CO₂, nitrojen ve uyumlu gazlar",
+          "Kadran: 50/63/100 mm, özel olarak mevcuttur",
+          "Aralık: 0–1 bar'dan 0–400 bar'a kadar, özel",
+          "Doğruluk: ±%2,5 standart, ±%1,6 isteğe bağlı",
+          "Konu: G1/4, G1/8, NPT1/4, M12×1,5 veya özel",
+          "Kasa: siyah çelik / paslanmaz isteğe bağlı; bağlayıcı pirinç veya SS",
+          "Pencere: cam veya polikarbonat; −20 °C ila +60 °C",
+          "Ambalaj: 1 adet/kutu, 50 adet/karton"
+        ],
+        "applications": [
+          "Gaz tüpleri ve basınç regülatörleri",
+          "Boru hatları ve endüstriyel gaz sistemleri",
+          "Oksi-asetilen kaynak ve kesme panelleri"
+        ],
+        "quality": [
+          "Teslimattan önce %100 test",
+          "OEM arama ve markalama seçenekleri",
+          "İhracat ambalajı"
+        ]
+      },
+      {
+        "title": "Emniyet Tahliye Vanası",
+        "desc": "Silindirleri, boru hatlarını ve operatörleri korumak için aşırı basıncı otomatik olarak serbest bırakır.",
+        "intro": "Emniyet tahliye vanaları, ekipmanı ve personeli korumak için aşırı basıncı otomatik olarak boşaltır. Oksijen, asetilen, hava, nitrojen ve uyumlu gazlar için uygundur. Kompakt pirinç gövde, çoklu ayar basınçları ve diş boyutları.",
+        "features": [
+          "Otomatik aşırı basınç koruması",
+          "Yüksek basınç altında stabil rahatlama",
+          "Pirinç gövde, ısıya ve korozyona dayanıklı",
+          "Kolay kurulum ve servis için kompakt tasarım",
+          "Çoklu ayar basınçları ve diş boyutları"
+        ],
+        "specs": [
+          "Gaz: oksijen, asetilen, hava, nitrojen ve uyumlu gazlar",
+          "Çalışma basıncı: 25 bar / 25 kg/cm²'ye kadar",
+          "Rölyef aralığı: 0,1–2,5 MPa, özelleştirilebilir",
+          "Sıcaklık: −20 °C ila +120 °C",
+          "Bağlantı: erkek/dişi; 1/4\", 3/8\", 1/2\", 3/4\" BSP/NPT",
+          "Gövde: pirinç; mühür: NBR / PTFE",
+          "Gövde basınç sınıfı: 25 / 35 bar",
+          "Ambalaj: 1 adet/kutu, 50 adet/karton"
+        ],
+        "applications": [
+          "Silindir ve manifold aşırı basınç koruması",
+          "Endüstriyel gaz ekipmanları ve boru hatları",
+          "Oksi-yakıt kaynak ve kesme sistemleri"
+        ],
+        "quality": [
+          "Sevkiyattan önce %100 test",
+          "Ayar basıncı, iplik ve paketleme özelleştirilebilir",
+          "İhracat ambalajı"
+        ]
+      },
+      {
+        "title": "Kaynak Meşalesi",
+        "desc": "Kaynak, sert lehimleme ve ısıtma için pürüzsüz alev kontrolüne sahip ergonomik oksi yakıtlı kaynak torçu.",
+        "intro": "Oksijen-yakıt çalışması için yüksek performanslı kaynak torçu: sabit alev, hassas kontrol ve dayanıklı pirinç gövde. Atölye ve endüstriyel kullanıma yönelik bakır uçlar, değiştirilebilir nozullar ve hortum bağlantıları.",
+        "features": [
+          "Kaynak ve metal onarımı için kararlı alev",
+          "Pürüzsüz gaz akışı ve hassas alev kontrolü",
+          "Dayanıklı pirinç gövde, ısıya ve korozyona dayanıklı",
+          "Rahat çalışma için ergonomik sap",
+          "Oksijen, asetilen ve isteğe bağlı propanla uyumlu"
+        ],
+        "specs": [
+          "Tür: oksi-asetilen kaynak hamlacı",
+          "Gövde: pirinç; İpucu: bakır, değiştirilebilir",
+          "Hortum bağlantısı: G1/4″ veya 9/16″-18 UNF",
+          "Çalışma basıncı: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Sıcaklık: −20 °C ila +60 °C",
+          "Kullanım: kaynak, sert lehimleme, ısıtma; eşleşen uçlarla kesme",
+          "Ambalaj: 1 adet/kutu, 10 adet/karton"
+        ],
+        "applications": [
+          "Oksijen-asetilen kaynağı ve onarımı",
+          "Lehimleme, ısıtma ve birleştirme",
+          "Atölyeler ve endüstriyel bakım"
+        ],
+        "quality": [
+          "Teslimattan önce %100 muayene",
+          "Meşale stili, konektör, ambalaj ve logo OEM olabilir",
+          "Malzeme, sızıntı ve görünüm kontrolleri"
+        ]
+      },
+      {
+        "title": "Filtre Dönüştürücü Kafası",
+        "desc": "Etkili gaz filtrelemesi için filtre elemanını bir regülatöre veya boru hattına bağlar.",
+        "intro": "Filtre dönüştürücü kafası, filtre elemanı ile regülatör veya gaz hattı arasındaki bağlantıdır. Elemanı yerleştirir, akış yönünü doğru tutar ve silindir ve dağıtım sistemlerinde servis ve değiştirmeyi kolaylaştırır.",
+        "features": [
+          "Filtre elemanını regülatöre veya boru hattına bağlar",
+          "Gaz hattında etkili filtrelemeyi destekler",
+          "Endüstriyel pirinç / metal yapı",
+          "Sistem eşleştirmesi için standart dişli bağlantı noktaları",
+          "Talep üzerine OEM iplik, boyut ve ambalaj"
+        ],
+        "specs": [
+          "Rol: filtre dönüştürücü / adaptör kafası",
+          "Kullanım: regülatör, boru hattı ve silindir filtre düzenekleri",
+          "Bağlantı boyutu ve iş parçacığı siparişe göre onaylanır",
+          "Gerektiğinde set olarak filtre elemanları ve kaselerle eşleştirilebilir"
+        ],
+        "applications": [
+          "Regülatörler ve aletlerden önce gaz dağıtımı",
+          "Silindir ve jeneratör filtre düzenekleri",
+          "Atölye ve endüstriyel gaz hatları"
+        ],
+        "quality": [
+          "Bağlantı boyutu üretimden önce onaylandı",
+          "İhracat ambalajı",
+          "Eşleşen filtre elemanlarıyla birlikte temin edilebilir"
+        ]
+      },
+      {
+        "title": "Filtre",
+        "desc": "Çıkış yönündeki ekipmanı korumak için nemi, yağı ve parçacıkları gideren yüksek verimli filtre.",
+        "intro": "Ekipmanı korumak ve servis ömrünü uzatmak için katı parçacıkları, suyu, yağı ve diğer yabancı maddeleri gaz akışından temizler. Pirinç kafa, kaliteli eleman ve basınç altında stabil çalışma. Oksijen, asetilen, hava, nitrojen ve uyumlu gazlar için.",
+        "features": [
+          "Temiz gaz akışı için yüksek verimli filtreleme",
+          "Nemi, yağı ve parçacıkları giderir",
+          "Dayanıklı pirinç kafa ve metal kase",
+          "Temizlemek veya değiştirmek için çıkarılabilir eleman",
+          "Çalışma basıncı altında kararlı çalışma"
+        ],
+        "specs": [
+          "Gaz: oksijen, asetilen, hava, nitrojen ve uyumlu gazlar",
+          "Giriş basıncı: 2,5 MPa'ya kadar",
+          "Çalışma basıncı: 0,01–1,6 MPa",
+          "Doğruluk: 5/20/50 μm isteğe bağlı",
+          "Bağlantı: G1/4\", G3/8\", G1/2\", G3/4\" opsiyonel",
+          "Gövde: pirinç; eleman: sinterlenmiş bronz / paslanmaz çelik",
+          "Sıcaklık: −20 °C ila +60 °C",
+          "Ambalaj: 1 adet/kutu, 20 adet/karton"
+        ],
+        "applications": [
+          "Silindir, regülatör ve dağıtım sistemleri",
+          "Fabrikalar, atölyeler ve endüstriyel gaz hatları",
+          "Kaynak, kesme ve laboratuvar tedariği için daha temiz akış"
+        ],
+        "quality": [
+          "Teslimattan önce %100 muayene",
+          "Konu, doğruluk ve eleman özelleştirilebilir",
+          "İhracat ambalajı"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Yasal",
+    "title": "Gizlilik Politikası",
+    "updated": "Son güncelleme: 25 Ağustos 2026",
+    "intro": [
+      "Wanda Group (“biz”, “bize”) bu web sitesini gaz tüpleri, aksesuarları ve ilgili ihracat tedariklerini sunmak ve endüstriyel alıcılardan ticari sorular almak için işletiyor.",
+      "Bu politika, site aracılığıyla hangi kişisel verileri topladığımızı, bunları neden kullandığımızı ve bu konuda bizimle nasıl iletişime geçebileceğinizi açıklamaktadır. Web sitemizde fabrika videoları veya sertifika dosyaları yayınlamıyoruz; bu materyaller talep üzerine özel olarak gönderilir."
+    ],
+    "sections": [
+      {
+        "title": "Kim sorumlu?",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Hangi verileri topluyoruz?",
+        "body": [
+          "Talep formunu gönderdiğinizde girdiğiniz verileri alırız: ad, e-posta, telefon, varış ülkesi, ürün türü, miktar ve mesaj.",
+          "Site ayrıca dil seçiminizi tarayıcıda (localStorage) saklar. Reklam çerezleri çalıştırmıyoruz veya ziyaretçi listeleri satmıyoruz."
+        ]
+      },
+      {
+        "title": "Verileri neden kullanıyoruz?",
+        "body": [
+          "Sorgu verilerini yalnızca talebinize yanıt vermek, fiyat teklifi hazırlamak, talep ettiğiniz ürün bilgilerini, videoları veya sertifikaları göndermek ve birlikte çalışmaya başlarsak siparişi koordine etmek için kullanırız.",
+          "Yasal dayanak: formdaki onay kutusunu işaretlediğinizde onayınız ve B2B satış taleplerini yanıtlama konusundaki meşru menfaatimiz."
+        ]
+      },
+      {
+        "title": "Verileri kim alır?",
+        "body": [
+          "Mesajınız satış ekibimize e-posta yoluyla iletilmektedir. Yapılandırmaya bağlı olarak form, mesajı bize ileten teknik sağlayıcı olarak Web3Forms tarafından işlenebilir.",
+          "Kişisel verileri satmıyoruz. İhtiyaç duyulan şeyleri, yalnızca mutabakata varılan bir emrin yerine getirilmesi için gerekli olması halinde lojistik, denetim veya bankacılık ortaklarıyla paylaşabiliriz."
+        ]
+      },
+      {
+        "title": "Ne kadar süre saklayacağız",
+        "body": [
+          "Sorgu verileri, kanunun izin verdiği ölçüde daha önce silmemizi talep etmediğiniz sürece, talebin karşılanması için gereken süre boyunca ve sonrasında satış takibi ve muhasebe için makul bir süre boyunca saklanır."
+        ]
+      },
+      {
+        "title": "Haklarınız",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Güvenlik ve çocuklar",
+        "body": [
+          "Aktarım halindeki ve posta kutumuzdaki mesajları korumak için makul teknik ve organizasyonel adımlar atıyoruz. Bu web sitesi çocuklar için değil, ticari alıcılar için tasarlanmıştır."
+        ]
+      }
+    ],
+    "contactLead": "Bu politikayla ilgili sorular:"
+  }
+}

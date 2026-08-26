@@ -1,0 +1,12 @@
+{
+  "quality.title": "Quality Control",
+  "quality.subtitle": "Every batch follows the same path: production, testing, inspection and final quality control.",
+  "quality.steps[0].title": "Production",
+  "quality.steps[0].desc": "Forming, welding and assembly under plant process control.",
+  "quality.steps[1].title": "Testing",
+  "quality.steps[1].desc": "Pressure and leak tests before cylinders leave the line.",
+  "quality.steps[2].title": "Inspection",
+  "quality.steps[2].desc": "Visual, marking and dimensional checks against the order.",
+  "quality.steps[3].title": "Final Quality Control",
+  "quality.steps[3].desc": "Packing inspection before export shipment."
+}

@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Produktai",
+    "specs": "Specifikacijos",
+    "applications": "Programos",
+    "about": "Apie",
+    "gallery": "Galerija",
+    "quality": "Kokybė",
+    "faq": "DUK",
+    "contact": "Susisiekite",
+    "getQuote": "Gaukite citatą",
+    "inquire": "Teirautis →",
+    "services": "Paslaugos",
+    "pricing": "Kainodara",
+    "accessories": "Priedai",
+    "home": "Pradžia",
+    "factory": "Gamykla"
+  },
+  "hero": {
+    "badge": "Dujų baliono gamintojas",
+    "title": "Patikimi dujų balionai pramonei ir suvirinimui",
+    "subtitle": "Wanda Group yra patikimas acetileno, propano balionų ir priedų gamintojas ir tiekėjas. Dujų tiekimo, suvirinimo, pjovimo ir sandėliavimo sprendimai visame pasaulyje.",
+    "cta": "Gaukite citatą",
+    "ctaSecondary": "Mūsų gaminiai",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Ilgametė patirtis"
+      },
+      {
+        "value": "500K+",
+        "label": "Gamybos pajėgumai per metus"
+      },
+      {
+        "value": "50+",
+        "label": "Eksporto rinkos"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Kokybė ir sertifikavimas"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Patikimi dujų balionų priedai",
+    "text": "Matuokliai, vožtuvai, žarnos, degikliai ir saugos jungiamosios detalės – tiekiama kartu su cilindrais arba atskirai užsakant.",
+    "cta": "Žiūrėti priedus"
+  },
+  "products": {
+    "title": "Mūsų gaminiai",
+    "subtitle": "Acetileno balionai, generatoriai, propano cilindrai ir priedai, skirti pramoniniams ir suvirinimo darbams.",
+    "items": [
+      {
+        "title": "Acetileno cilindras",
+        "desc": "Ištirpusio acetileno balionai suvirinimui, pjovimui ir pramoninėms dujoms. Įvairių dydžių ir vožtuvų variantų.",
+        "icon": "🔥",
+        "spec": "2L–40L · ISO / DOT / TPED"
+      },
+      {
+        "title": "Acetileno generatorius",
+        "desc": "Įranga stabiliai dujų gamybai, paprastam naudojimui ir pramoniniam naudojimui.",
+        "icon": "⚙️",
+        "spec": "Pramoninės gamybos sistemos"
+      },
+      {
+        "title": "Propano cilindras",
+        "desc": "Patvarūs balionai propanui ir SND – saugojimui, šildymui, pjaustymui ir pramoniniam naudojimui.",
+        "icon": "🛢️",
+        "spec": "3L–50L · POL / CGA / GOST"
+      },
+      {
+        "title": "Cilindrų priedai",
+        "desc": "Žarnos, matuokliai, pjovimo degikliai, suvirinimo degikliai, apsauginiai vožtuvai ir kt.",
+        "icon": "🔧",
+        "spec": "Vožtuvai · reguliatoriai · žarnos · degikliai"
+      }
+    ],
+    "viewDetails": "Peržiūrėti išsamią informaciją"
+  },
+  "specs": {
+    "title": "Techninės specifikacijos",
+    "subtitle": "Prieš siųsdami užklausą, ištirkite cilindrų parinktis, tinkinimo galimybes ir pristatymo informaciją.",
+    "items": [
+      {
+        "title": "Cilindro talpa",
+        "desc": "Įvairios talpos ir apimties parinktys, priklausomai nuo taikymo ir rinkos reikalavimų."
+      },
+      {
+        "title": "Vožtuvai ir dangteliai",
+        "desc": "Vožtuvai, dangteliai ir jungiamosios detalės tiekiamos pagal kliento ir projekto poreikius."
+      },
+      {
+        "title": "Tirpiklio parinktys",
+        "desc": "Porėta užpildų sistema ir tirpikliai stabiliam acetileno saugojimui."
+      },
+      {
+        "title": "Pakavimas ir siuntimas",
+        "desc": "Eksporto pakuočių ir siuntimo palaikymas platintojams ir projekto klientams."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Cilindrų programos",
+    "subtitle": "Produktai, sukurti įprastoms pramoninių dujų užduotims ir užsienio pirkėjų reikalavimams.",
+    "items": [
+      "Suvirinimas ir litavimas",
+      "Metalo pjovimas",
+      "Pramoninių dujų tiekimas",
+      "Statyba",
+      "Metalo gamyba",
+      "Dujų saugojimas ir paskirstymas"
+    ]
+  },
+  "whyUs": {
+    "title": "Kodėl „Wanda Group“?",
+    "subtitle": "Tiesioginė gamyba, pritaikymas individualiems poreikiams ir visapusiškas eksporto palaikymas – viskas jūsų verslui.",
+    "items": [
+      {
+        "title": "Aukštos kokybės",
+        "desc": "Plieniniai balionai, skirti pramoniniam suvirinimui ir dujų tiekimui."
+      },
+      {
+        "title": "Griežta kokybės kontrolė",
+        "desc": "Patikrinimas nuo įvežamų medžiagų iki galutinio pakavimo."
+      },
+      {
+        "title": "Išplėstinė gamyba",
+        "desc": "Formavimas, suvirinimas, bandymas ir apdaila vienoje gamykloje."
+      },
+      {
+        "title": "OEM / ODM",
+        "desc": "Spalva, vožtuvas, žymėjimas, dangtelis ir pakuotė pagal užsakymą."
+      },
+      {
+        "title": "Tarptautinis eksportas",
+        "desc": "Dokumentai ir pakavimas užsienio pramonės pirkėjams."
+      },
+      {
+        "title": "Patikimas pristatymas",
+        "desc": "Įprastas pristatymo laikas 15–25 dienos po užsakymo patvirtinimo."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesionalus dujų balionų gamintojas",
+    "text": "„Wanda Group“ dujų balionų gamintojas specializuojasi pramoninių dujų balionų ir susijusių priedų gamyboje ir tiekime. Mūsų gaminiai plačiai naudojami suvirinimo, pjovimo, dujų paskirstymo, pramoninio sandėliavimo ir kitose dujų tiekimo srityse.",
+    "text2": "Mes palaikome užsienio pirkėjus gaminių pasirinkimo, pritaikymo, kokybės tikrinimo, pakavimo ir pristatymo koordinavimo srityse.",
+    "facts": [
+      {
+        "title": "Patirtis",
+        "desc": "15+ metų tiekia pramoninius dujų balionus."
+      },
+      {
+        "title": "Gamyba",
+        "desc": "Vidinis formavimas, suvirinimas, bandymas ir apdaila."
+      },
+      {
+        "title": "Kokybė",
+        "desc": "ISO 9809, DOT ir TPED parinktys pagal rinką."
+      },
+      {
+        "title": "Eksportuoti",
+        "desc": "Siuntos koordinuojamos daugiau nei 50 paskirties rinkų."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Mūsų gamyklos viduje",
+    "subtitle": "Gamyba, suvirinimas, bandymas, dažymas ir gatavų cilindrų gamyba – kaip ruošiame eksporto užsakymus.",
+    "items": [
+      {
+        "title": "Baigta cilindro atsarga",
+        "desc": "Paruoštas inventorius mūsų gamykloje – talpa didmeniniams ir eksporto užsakymams."
+      },
+      {
+        "title": "Gamybinis suvirinimas",
+        "desc": "Metalo gamyba gamyklos aukšte su pramoninių dujų tiekimu."
+      },
+      {
+        "title": "Eksporto pakuotė",
+        "desc": "Apsauginis tinklelis ir padėklų pakavimas prieš tarptautinį siuntimą."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Tūrinis balionų gabenimas",
+        "desc": "Saugūs narvų kroviniai, skirti transportuoti į platintojus ir gamyklas."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Cilindro dydžio diapazonas",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Kokybės kontrolė",
+    "subtitle": "Kiekviena partija eina tuo pačiu keliu: gamyba, bandymai, tikrinimas ir galutinė kokybės kontrolė.",
+    "steps": [
+      {
+        "title": "Gamyba",
+        "desc": "Formavimas, suvirinimas ir surinkimas kontroliuojant gamyklos procesą."
+      },
+      {
+        "title": "Testavimas",
+        "desc": "Slėgio ir nuotėkio bandymai prieš išleidžiant balionus iš linijos."
+      },
+      {
+        "title": "Apžiūra",
+        "desc": "Vizualinis, ženklinimo ir matmenų patikrinimas pagal užsakymą."
+      },
+      {
+        "title": "Galutinė kokybės kontrolė",
+        "desc": "Pakuotės patikrinimas prieš eksportuojant."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Dažnai užduodami klausimai",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Neradote savo klausimo? Atsiųskite prekę, dydį, kiekį ir paskirties šalį – atsakysime pateiksime išsamų pasiūlymą.",
+    "ctaBtn": "Gaukite citatą",
+    "groups": [
+      {
+        "title": "Įmonė",
+        "items": [
+          {
+            "q": "Ar esate dujų balionų gamintojas?",
+            "a": "Taip. „Wanda Group“ specializuojasi dujų balionų ir susijusių pramoninių dujų tiekimo sprendimų gamyboje užsienio pramonės pirkėjams."
+          },
+          {
+            "q": "Kokius produktus daugiausia tiekiate?",
+            "a": "Mes tiekiame acetileno balionus, propano balionus, acetileno generatorius ir dujų balionų priedus, tokius kaip vožtuvai, reguliatoriai, žarnos, manometrai ir degikliai."
+          },
+          {
+            "q": "Ar galite palaikyti OEM pritaikymą?",
+            "a": "Taip. Baliono spalva, žymėjimas, vožtuvas, dangtelis ir įpakavimo galimybės gali būti aptariamos pagal užsakymą ir tikslinę rinką."
+          },
+          {
+            "q": "Ar palaikote užsienio pirkėjus?",
+            "a": "Taip. Palaikome eksportą, produktų pasirinkimą, pakavimo reikalavimus, dokumentaciją ir siuntimo koordinavimą."
+          },
+          {
+            "q": "Kaip gauti citatą?",
+            "a": "Užklausos formoje arba el. paštu nurodykite produkto tipą, cilindro dydį, kiekį, paskirties šalį ir pritaikymo reikalavimus. Mūsų komanda atsakys pateikdama išsamią informaciją apie produktą ir pasiūlymą."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Ar galiu žiūrėti gamyklinius vaizdo įrašus prieš pateikdamas užsakymą?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Ar pateikiate produktų vaizdo įrašus, ypač apie acetileno balionus?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Ar galite parodyti gamybos ir kokybės kontrolės vaizdo įrašus?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Ar galiu paprašyti produkto vaizdo įrašo, sukurto konkrečiam užsakymui?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Sprendimai",
+        "items": [
+          {
+            "q": "Kokius dujų balionų sprendimus siūlote?",
+            "a": "Siūlome sprendimus suvirinimui ir pjovimui, dujų paskirstymui, pramoniniam saugojimui, acetileno gamybai, OEM tiekimui ir eksporto pirkimui."
+          },
+          {
+            "q": "Ar galite rekomenduoti produktus mano programai?",
+            "a": "Taip. Atsiųskite savo paraišką, cilindro dydį, kiekį, paskirties šalį ir reikalingus priedus – mes rekomenduosime tinkamus gaminius."
+          },
+          {
+            "q": "Ar tiekiate priedus kartu su cilindrais?",
+            "a": "Taip. Kartu su cilindrais galime tiekti slėgio reguliatorius, žarnas, matuoklius, pjovimo degiklius, suvirinimo degiklius, vožtuvus ir jungiamąsias detales."
+          },
+          {
+            "q": "Ar galite tiekti dujų balionus OEM pirkėjams?",
+            "a": "Taip. Baliono spalva, žymėjimas, vožtuvas, dangtelis, logotipas ir pakuotė gali būti aptariami pagal užsakymą."
+          }
+        ]
+      },
+      {
+        "title": "Produktai",
+        "items": [
+          {
+            "q": "Kam naudojamas ištirpusio acetileno cilindras?",
+            "a": "Ištirpusio acetileno balionai plačiai naudojami suvirinimui, pjovimui, litavimui, metalo gamybai ir pramoninių dujų tiekimui."
+          },
+          {
+            "q": "Kokio dydžio cilindrus galite tiekti?",
+            "a": "Gali būti aptariami įvairūs kiekiai ir pajėgumai, atsižvelgiant į jūsų tikslinę rinką, pritaikymą ir užsakymo kiekį. Norėdami patvirtinti, nurodykite reikiamą dydį arba vietinį standartą."
+          },
+          {
+            "q": "Ar galima pakeisti cilindro spalvą, vožtuvą ir ženklinimą?",
+            "a": "Taip. Baliono spalva, vožtuvas, dangtelis, žymėjimas, etiketė ir eksporto pakuotė gali būti pagaminti pagal užsakymą."
+          }
+        ]
+      },
+      {
+        "title": "Priedai",
+        "items": [
+          {
+            "q": "Kokius priedus tiekiate?",
+            "a": "Tiekiame blykstės iškroviklius, manometrus, apsauginius vožtuvus, deguonies žarnas, žarnų spaustukus, pjovimo degiklius, suvirinimo degiklius, filtrus, adapterius ir kitus dujų balionų priedus."
+          },
+          {
+            "q": "Ar galima pritaikyti dujų balionų priedus?",
+            "a": "Taip. Galime pritaikyti logotipą, pakuotę, jungties dydį, sriegio tipą, slėgio diapazoną ir technines specifikacijas."
+          },
+          {
+            "q": "Ar priedus galima užsisakyti kartu su dujų balionais?",
+            "a": "Taip. Priedai gali būti tiekiami kartu su acetileno balionais, propano balionais ir acetileno generatoriais."
+          },
+          {
+            "q": "Ar palaikote OEM pakuotę?",
+            "a": "Taip. Didmeniniams užsakymams galime pateikti OEM ženklinimą, dėžutes, maišelius ir gaminių etiketes."
+          },
+          {
+            "q": "Ar galite pateikti produkto nuotraukas ir specifikacijas?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Kaip gauti aksesuarų kainą?",
+            "a": "Nurodykite gaminio pavadinimą, kiekį, jungties dydį, darbinį slėgį, pakavimo reikalavimus ir paskirties šalį arba uostą."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Naujausi straipsniai",
+    "subtitle": "Ekspertinis turinys suvirinimo ir dujų tiekimo specialistams.",
+    "readMore": "Skaityti daugiau →",
+    "close": "Uždaryti",
+    "items": [
+      {
+        "tag": "Amatininkai",
+        "title": "Visas propano cilindro tiekimo sprendimas",
+        "desc": "Įrangos stabilumas tiesiogiai veikia suvirinimo ir pjovimo darbų efektyvumą.",
+        "body": [
+          "Kasdien metalą virinantiems, remontuojantiems ir apdirbantiems meistrams stabili dujų įranga tiesiogiai veikia darbo kokybę ir greitį.",
+          "„Wanda Group“ propano balionai yra nuo 3 l iki 50 l su POL, CGA 510 arba GOST vožtuvais, priklausomai nuo jūsų rinkos – vienas tiekėjas suvirinimui, pjovimui ir šildymui.",
+          "Rekomenduojame užsakyti balionus kartu su reguliatoriais, žarnomis ir degikliais. Pakuotės tiekimas sumažina logistikos išlaidas ir užtikrina priedų suderinamumą.",
+          "Užsakydami nurodykite tikslinę rinką, tūrį, vožtuvo tipą ir spalvą – paruošiame OEM ženklinimą ir eksportuojame pakuotes pagal jūsų prekės ženklą."
+        ]
+      },
+      {
+        "tag": "Sandėliavimas",
+        "title": "Ilgalaikio acetileno cilindro laikymo patarimai",
+        "desc": "Laikymo sąlygos, išdėstymo būdai ir reguliarios nenaudojamų balionų patikros.",
+        "body": [
+          "Daugelis įmonių sandėliuoja acetileno ir propano balionus per gamybos pertraukas arba kaip atsargas. Nenaudojamus balionus vis dar reikia tinkamai tvarkyti.",
+          "Balionus laikykite vertikaliai gerai vėdinamoje vietoje, atokiau nuo šilumos šaltinių ir tiesioginių saulės spindulių. Laikymo temperatūra paprastai neturi viršyti 40–50 °C.",
+          "Patikrinkite vožtuvus, dangtelius ir žymes bent kartą per ketvirtį. Ilgalaikiam acetileno saugojimui laikykite cilindrus vertikaliai ir niekada neleiskite pakreipti.",
+          "Wanda Group pristato balionus su apsauginiais dangteliais ir eksporto pakuotes, skirtas saugiam transportavimui ir sandėliavimui. Paprašius, galite gauti saugojimo vadovus jūsų kalba."
+        ]
+      },
+      {
+        "tag": "Kainodara",
+        "title": "Acetileno balionų pirkimo biudžeto vadovas",
+        "desc": "Veiksniai, įtakojantys išlaidas ir kaip pasirinkti optimalų pasiūlymą.",
+        "body": [
+          "Acetileno baliono kaina priklauso nuo tūrio (2L–40L), vožtuvo tipo, sertifikavimo (ISO, DOT, TPED) ir užsakymo kiekio. Orientacinės EXW kainos: WG-10 28–35 USD, WG-25 45–58 USD už vienetą.",
+          "Didesnėms aikštelėms (200–500+ vnt.) taikomos prasmingos nuolaidos. OEM dažymas, logotipas ir speciali pakuotė padidina bazinę kainą 5–15%, bet padidina vertę platintojams.",
+          "Taip pat atsižvelgiama į pristatymą (FOB / CIF), dokumentus ir MOQ. Mes atsakome per 24 valandas, pateikdami visas specifikacijas, pristatymo laiką ir „Incoterms“.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prašyti kainos pasiūlymo",
+    "subtitle": "Nurodykite dydį, kiekį, paskirties šalį ir paraišką – mes parengsime išsamią pasiūlymą.",
+    "formTitle": "Prašyti kainos pasiūlymo",
+    "formSubtitle": "Palikite savo reikalavimus – mūsų pardavimo komanda pateiks informaciją apie produktą, kainas, MOQ ir pristatymo laiką.",
+    "name": "Vardas",
+    "phone": "Telefonas / WhatsApp",
+    "email": "El. paštas",
+    "product": "Produktas",
+    "quantity": "Kiekis",
+    "country": "Paskirties šalis",
+    "productOptions": [
+      "Acetileno cilindras",
+      "Propano cilindras",
+      "Acetileno generatorius",
+      "Priedai",
+      "Paketo užsakymas"
+    ],
+    "message": "Papildomi reikalavimai",
+    "messagePlaceholder": "Produktas, dydis, kiekis, paskirties šalis...",
+    "submit": "Siųsti užklausą",
+    "sending": "Siunčiama...",
+    "success": "Ačiū! Netrukus su jumis susisieksime.",
+    "sendAnother": "Siųsti kitą užklausą",
+    "errorGeneric": "Nepavyko išsiųsti. Bandykite dar kartą arba parašykite mums tiesiogiai el. paštu.",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Sutinku su",
+    "privacySuffix": "ir mano asmens duomenų tvarkymui, kad būtų galima atlikti šį užklausą.",
+    "privacyLink": "Privatumo politika",
+    "company": "Įmonė",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Siųsti per el. pašto programą"
+  },
+  "footer": {
+    "company": "„Wanda Group“ dujų balionų gamintojas",
+    "tagline": "Profesionali dujų balionų gamyba",
+    "rights": "© „Wanda Group“, 2026 m. Visos teisės saugomos.",
+    "privacy": "Privatumo politika"
+  },
+  "ui": {
+    "catalog": "Katalogas",
+    "catalogTitle": "Išsamios gaminio specifikacijos",
+    "catalogSubtitle": "Išsamūs kiekvienos kategorijos techniniai duomenys, modeliai ir parametrai. Norėdami peržiūrėti specifikacijų lentelę, pasirinkite produktą.",
+    "requestPrice": "Prašyti šio modelio kainos",
+    "services": "Paslaugos",
+    "pricing": "Kainodara",
+    "getExactQuote": "Gaukite tikslią citatą",
+    "certifications": "Sertifikatai",
+    "order": "Užsakyti",
+    "reviews": "Atsiliepimai",
+    "contact": "Susisiekite",
+    "phone": "Telefonas",
+    "location": "Vieta",
+    "quoteResponse": "Citatos atsakymas",
+    "support": "Palaikymas",
+    "exportReady": "Paruošta eksportuoti",
+    "years": "Metai",
+    "acetylene": "Acetilenas",
+    "isoCertified": "Sertifikuota ISO",
+    "globalExport": "Pasaulinis eksportas",
+    "products": "Produktai",
+    "specs": "Specifikacijos",
+    "applications": "Programos",
+    "whyUs": "Kodėl Mes",
+    "about": "Apie mus",
+    "gallery": "Galerija",
+    "quality": "Kokybė",
+    "faq": "DUK",
+    "blog": "Dienoraštis",
+    "countriesServed": "Aptarnaujamos šalys",
+    "searchLanguage": "Ieškoti kalbos...",
+    "noLanguagesFound": "Kalbų nerasta"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Eksportas į daugiau nei 50 šalių",
+    "MOQ nuo 100 vnt",
+    "Pristatymo laikas 15-25 dienos"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Acetilenas",
+      "propane": "Propanas",
+      "generator": "Generatorius",
+      "accessories": "Priedai"
+    },
+    "acetylene": {
+      "title": "Ištirpusio acetileno cilindrai",
+      "intro": "Plieniniai cilindrai su porėta mase ir tirpikliu saugiam acetileno saugojimui ir transportavimui. Naudojamas suvirinimui, pjovimui, litavimui ir metalo gamyboje.",
+      "features": [
+        "Porėta masė + acetonas stabiliam laikymui",
+        "CGA 510 / GOST / DIN vožtuvai pagal užsakymą",
+        "Hidraulinis bandymo slėgis 5,2 MPa",
+        "RAL dažymas, štampavimas ir OEM etiketės",
+        "Eksporto padėklų pakuotė"
+      ],
+      "tableTitle": "Standartiniai acetileno cilindrų modeliai",
+      "headers": [
+        "Modelis",
+        "Tūris (L)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Svoris (kg)",
+        "Aukštis (mm)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Tikslūs parametrai priklauso nuo standarto (ISO/DOT/GB) ir vožtuvo konfigūracijos. Paprašykite savo rinkos specifikacijų lapo."
+    },
+    "propane": {
+      "title": "Propano ir SND balionai",
+      "intro": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+      "features": [
+        "37Mn/34CrMo4 plienas pagal ISO 9809",
+        "Darbinis slėgis 1,8–2,1 MPa",
+        "Vožtuvai POL, CGA 510, GOST",
+        "Miltelinis dažymas, antikorozinis",
+        "Sertifikatai ES, JAV, NVS rinkoms"
+      ],
+      "tableTitle": "Standartiniai propano cilindrų modeliai",
+      "headers": [
+        "Modelis",
+        "Tūris (L)",
+        "Dujos (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Svoris (kg)",
+        "Aukštis (mm)"
+      ],
+      "rows": [
+        [
+          "WG-P3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "WG-P5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "WG-P11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "WG-P15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "WG-P50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Kainos ir MOQ priklauso nuo užsakymo kiekio ir vožtuvo tipo. Dėl tikslios kainos siųskite užklausą."
+    },
+    "generator": {
+      "title": "Acetileno generatoriai",
+      "intro": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros.",
+      "features": [
+        "Našumas 3–100 m³/h",
+        "Automatinis vandens ir karbido padavimas",
+        "Saugos sistema ir filtravimas",
+        "Kompaktiški ir pramoniniai modeliai",
+        "Pilna dokumentacija ir mokymai"
+      ],
+      "tableTitle": "Acetileno generatorių modeliai",
+      "headers": [
+        "Modelis",
+        "Galia (m³/val.)",
+        "Karbidas (kg/val.)",
+        "Slėgis (kPa)",
+        "Galia (kW)",
+        "Svoris (kg)"
+      ],
+      "rows": [
+        [
+          "WG-G3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "WG-G5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "WG-G20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "WG-G50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "WG-G100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Pagal pageidavimą generatoriai tiekiami su aušinimo sistema, filtrais ir atsarginių dalių komplektu."
+    },
+    "accessories": {
+      "title": "Cilindrų priedai ir jungiamosios detalės",
+      "intro": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais.",
+      "features": [
+        "Reguliatoriai ir matuokliai (CGA / GOST / DIN)",
+        "Aukšto slėgio žarnos",
+        "Pjovimo degikliai ir suvirinimo degikliai",
+        "Slėgio mažinimo vožtuvai",
+        "Vežimėliai, stovai, kepurės"
+      ],
+      "tableTitle": "Aksesuarų katalogas",
+      "headers": [
+        "Kategorija",
+        "Modeliai",
+        "Standartinis",
+        "Taikymas"
+      ],
+      "rows": [
+        [
+          "Reguliatoriai",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
+          "Acetilenas, propanas"
+        ],
+        [
+          "Matuokliai",
+          "WG-G63, WG-G100",
+          "ISO 5171",
+          "Slėgio stebėjimas"
+        ],
+        [
+          "Žarnos",
+          "WG-H6, WG-H9",
+          "EN 559",
+          "Suvirinimas, pjovimas"
+        ],
+        [
+          "Fakelai",
+          "WG-C100, WG-C300",
+          "—",
+          "Pjovimas plazminiu/oksidu"
+        ],
+        [
+          "Degikliai",
+          "WG-T200, WG-T500",
+          "—",
+          "Suvirinimas, litavimas"
+        ],
+        [
+          "Vožtuvai",
+          "WG-V510, WG-VPOL",
+          "CGA/POL/GOST",
+          "Visų tipų cilindrai"
+        ]
+      ],
+      "note": "* Priedus galima įsigyti atskirai arba kartu su cilindrais. Nuolaida kombinuotiems užsakymams."
+    }
+  },
+  "services": {
+    "title": "Mūsų paslaugos",
+    "subtitle": "Visas ciklas – nuo ​​gamybos iki pristatymo Jūsų sandėlyje. Dirbame su platintojais, OEM prekių ženklais ir projektų pirkėjais.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Individualizuota gamyba (OEM / ODM)",
+        "desc": "Cilindrai su jūsų prekės ženklu, spalva ir žymėjimu.",
+        "points": [
+          "Logotipas ir RAL spalva",
+          "Rinkos standarto vožtuvas",
+          "OEM pakuotė ir etiketės"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Eksportas ir logistika",
+        "desc": "Visiškas tarptautinių siuntų palaikymas.",
+        "points": [
+          "Incoterms FOB/CIF/DDP",
+          "Eksporto dokumentacija",
+          "Krovinių gabenimas jūra ir geležinkeliu"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Kokybės kontrolė",
+        "desc": "Testavimas ir patikra kiekviename etape.",
+        "points": [
+          "Hidrostatiniai bandymai",
+          "UT suvirinimo patikrinimas",
+          "SGS/BV patikra pagal pageidavimą"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Sertifikavimas",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ISO 9809, DOT, TPED",
+          "MSDS ir kokybės sertifikatas",
+          "Kilmės sertifikatas"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Techninė pagalba",
+        "desc": "Pagalba pasirenkant gaminius ir konfigūraciją.",
+        "points": [
+          "Rinka pagrįstas pasirinkimas",
+          "MOQ ir pristatymo laiko skaičiavimas",
+          "Personalo mokymas"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Komplekto tiekimas",
+        "desc": "Cilindrai + priedai vienu užsakymu.",
+        "points": [
+          "Viena sutartis",
+          "Suderintas pristatymas",
+          "Komplekto nuolaida"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Kainos ir tiekimo sąlygos",
+    "subtitle": "Skaidrios B2B pirkimų sąlygos. Tiksli kaina skaičiuojama individualiai – siųskite užklausą, atsakysime per 24 val.",
+    "note": "Rodomos kainos yra orientacinės (EXW). Galutinė kaina priklauso nuo tūrio, vožtuvo tipo, sertifikavimo ir pristatymo sąlygų.",
+    "cards": [
+      {
+        "label": "MOQ",
+        "value": "nuo 100 vnt",
+        "desc": "Minimalus užsakymas vienam modeliui"
+      },
+      {
+        "label": "Pristatymo laikas",
+        "value": "15-25 dienos",
+        "desc": "Po užsakymo patvirtinimo"
+      },
+      {
+        "label": "Mokėjimas",
+        "value": "T/T 30/70",
+        "desc": "30% užstatas, 70% prieš išsiuntimą"
+      },
+      {
+        "label": "Garantija",
+        "value": "12 mėnesių",
+        "desc": "Prieš gamybos defektus"
+      }
+    ],
+    "factors": {
+      "title": "Kainos veiksniai",
+      "items": [
+        "Cilindro tūris ir modelis (2L – 50L)",
+        "Vožtuvo tipas (CGA, GOST, DIN, POL)",
+        "Sertifikavimo standartas (ISO, DOT, TPED)",
+        "OEM: spalva, žymėjimas, pakuotė",
+        "Užsakymų kiekis ir „Incoterms“."
+      ]
+    },
+    "samples": [
+      {
+        "product": "Acetilenas WG-10",
+        "moq": "200 vnt",
+        "price": "28–35 USD / vnt",
+        "lead": "18 dienų"
+      },
+      {
+        "product": "Acetilenas WG-25",
+        "moq": "100 vnt",
+        "price": "45–58 USD / vnt",
+        "lead": "20 dienų"
+      },
+      {
+        "product": "Propanas WG-P11",
+        "moq": "500 vnt",
+        "price": "12–16 USD / vnt",
+        "lead": "15 dienų"
+      },
+      {
+        "product": "Propanas WG-P50",
+        "moq": "100 vnt",
+        "price": "55–72 USD / vnt",
+        "lead": "22 dienos"
+      },
+      {
+        "product": "Generatorius WG-G20",
+        "moq": "1 vienetas",
+        "price": "$3,500–4,200",
+        "lead": "25 dienos"
+      },
+      {
+        "product": "Reguliatoriaus rinkinys",
+        "moq": "50 vnt",
+        "price": "8–15 USD / vnt",
+        "lead": "10 dienų"
+      }
+    ],
+    "tableHeaders": [
+      "Produktas",
+      "MOQ",
+      "Kaina (EXW)",
+      "Pristatymo laikas"
+    ]
+  },
+  "certifications": {
+    "title": "Sertifikatai ir standartai",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Besiūliai plieniniai dujų balionai – techniniai reikalavimai"
+      },
+      {
+        "name": "ISO 9809-3",
+        "desc": "Ištirpusio acetileno cilindrai"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "JAV rinkos sertifikatas"
+      },
+      {
+        "name": "TPED",
+        "desc": "Europos transporto direktyva"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Kinijos dujų balionų standartas"
+      },
+      {
+        "name": "CE ženklas",
+        "desc": "Europos atitikties reikalavimus"
+      }
+    ]
+  },
+  "process": {
+    "title": "Kaip užsisakyti",
+    "subtitle": "Paprastas procesas nuo užklausos iki balionų jūsų sandėlyje.",
+    "steps": [
+      {
+        "title": "Siųsti užklausą",
+        "desc": "Nurodykite gaminio, tūrio, šalies ir vožtuvo reikalavimus"
+      },
+      {
+        "title": "Gaukite citatą",
+        "desc": "Kaina, MOQ, pristatymo laikas ir specifikacijų lapas per 24 valandas"
+      },
+      {
+        "title": "Patvirtinti užsakymą",
+        "desc": "Sutarties pasirašymas ir 30% depozito mokėjimas"
+      },
+      {
+        "title": "Gamyba ir QC",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Siuntimas",
+        "desc": "Pakavimas, dokumentai, FOB/CIF/DDP pristatymas"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "suvirinimas",
+        "eyebrow": "Acetileno cilindrai",
+        "title": "Stabili liepsna tiksliam suvirinimui",
+        "text": "Ištirpusio acetileno cilindrai, sukurti nuolatiniam suvirinimui ir litavimui – pastovus slėgis, saugi poringa masė, eksportui paruošti vožtuvai.",
+        "points": [
+          "ISO / DOT / GB parinktys",
+          "CGA / GOST / DIN vožtuvai",
+          "OEM spalva ir žymėjimas"
+        ]
+      },
+      {
+        "id": "pjovimas",
+        "eyebrow": "Pjaustymas ir gamyba",
+        "title": "Galia, kai metalas turi judėti",
+        "text": "Didelio srauto acetileno ir deguonies paruošimo balionų rinkiniai, skirti laivų statykloms, dirbtuvėms ir sunkioms gamybos linijoms.",
+        "points": [
+          "Greitas pradurimas ir pjovimas",
+          "Fakelams paruošti rinkiniai",
+          "Draugiškas masiniam MOQ"
+        ]
+      },
+      {
+        "id": "propanas",
+        "eyebrow": "Propanas ir LPG",
+        "title": "Patvarūs SND balionai kiekvienai rinkai",
+        "text": "Nuo šildymo ir virimo dujų iki pramoninio pjovimo – plieniniai balionai, sukurti slėgiui, padengimui ir ilgaamžiškumui.",
+        "points": [
+          "3L-50L diapazonas",
+          "POL / CGA vožtuvai",
+          "Miltelinio lako apdaila"
+        ]
+      },
+      {
+        "id": "gamykla",
+        "eyebrow": "Gamyba",
+        "title": "Gamyklos kontrolė nuo plieno iki išsiuntimo",
+        "text": "Vidinis formavimas, suvirinimas, hidrostatinis bandymas ir apdaila – todėl kiekviena partija atitinka jūsų brėžinį ir rinkos standartą.",
+        "points": [
+          "Hidrostatinis išbandytas",
+          "Atsekamos partijos",
+          "Paruošta OEM / ODM"
+        ]
+      },
+      {
+        "id": "kokybės",
+        "eyebrow": "Kokybė ir saugumas",
+        "title": "Apžiūrą galite įrašyti į citatą",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Slėgio ir nuotėkio bandymai",
+          "Certificate package",
+          "Nuotraukos prieš išsiuntimą"
+        ]
+      },
+      {
+        "id": "eksportuoti",
+        "eyebrow": "Pasaulinis eksportas",
+        "title": "Supakuota uostams, paruošta daugiau nei 50 šalių",
+        "text": "Eksportuokite padėklus, vožtuvų apsaugą, daugiakalbes etiketes ir siuntimo dokumentus, suderintus pagal jūsų paskirties Incoterms.",
+        "points": [
+          "FOB / CIF palaikymas",
+          "Pakavimas ant padėklų",
+          "Pristatymo laikas 15-25 dienos"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Pramoniniai dujų balionai paruošti gamykloje",
+    "about": "Eksportui paruoštos balionų atsargos su apsaugine pakuote",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Gamykloje gatavų cilindrų atsargos",
+      "Gamybinis suvirinimas gamyklos grindyse",
+      "Eksporto pakuotė su apsauginiu tinkleliu",
+      "Propane cylinders ready for dispatch",
+      "Birių balionų gabenimas sunkvežimiu",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Priedai",
+    "title": "Produkto priedai",
+    "subtitle": "Acetileno cilindrų, generatorių, suvirinimo ir pjovimo dalys. Atidarykite Išsamią informaciją, kad sužinotumėte specifikacijas ir programas.",
+    "cta": "Prašyti išsamios informacijos",
+    "details": "Detalės",
+    "close": "Uždaryti",
+    "featuresLabel": "Pagrindinės savybės",
+    "specsLabel": "Specifikacijos",
+    "applicationsLabel": "Programos",
+    "qualityLabel": "Kokybė ir tiekimas",
+    "whyTitle": "Kodėl verta rinktis mūsų priedus?",
+    "why": [
+      "Patvarus žalvaris, nerūdijantis plienas ir pramoninės medžiagos",
+      "Suderinamas su cilindrais, generatoriais, reguliatoriais, žarnomis ir suvirinimo sistemomis",
+      "OEM logotipas, pakuotė, jungties dydis, sriegio tipas ir specifikacijos",
+      "Eksporto pakuotė ir stabilus tiekimas tarptautiniams pirkėjams"
+    ],
+    "items": [
+      {
+        "title": "Acetileno atbulinis vožtuvas",
+        "desc": "Apsaugo nuo atvirkštinio dujų srauto ir liepsnos atgarsio deguonies acetileno suvirinimo ir pjovimo sistemose.",
+        "intro": "Esminis acetileno sistemų saugos įtaisas. Integruotas sukepintas nerūdijančio plieno liepsnos slopintuvas ir vienpusio srauto konstrukcija apsaugo operatorius, žarnas ir dujų linijas. Suderinamas su reguliatoriais, žarnomis ir degikliais. Yra OEM logotipas, etiketė ir pakuotė.",
+        "features": [
+          "Liepsną stabdantis sukepintas nerūdijančio plieno įdėklas",
+          "Negrįžtamo (vienpusio) srauto projektavimas",
+          "Didelio stiprumo žalvario korpusas, atsparus korozijai",
+          "Patikimas sandarinimas esant darbiniam slėgiui",
+          "Standartinės jungtys greitam montavimui ir pakeitimui"
+        ],
+        "specs": [
+          "Dujos: acetilenas (C2H2); deguonies ribotuvai tiekiami atskirai",
+          "Korpusas: žalvaris; iškroviklis: nerūdijantis plienas",
+          "Jungtis: G 3/8″ LH arba pritaikytas sriegis",
+          "Darbinis slėgis: iki 1,5 MPa / pritaikytas",
+          "Naudojimas: deguonies-acetileno suvirinimas, pjovimas ir kaitinimas",
+          "Pakavimas: atskira dėžutė, dėžutė arba pagal užsakymą"
+        ],
+        "applications": [
+          "Deguonies-acetileno suvirinimas ir pjovimas",
+          "Reguliatoriai, žarnos ir degiklio mazgai",
+          "Acetileno generatorių dujų linijos"
+        ],
+        "quality": [
+          "100% patikrinimas prieš išsiuntimą",
+          "Sandarinimo, slėgio ir atgalinio veikimo bandymai",
+          "Eksporto pakuotė, skirta pristatymui dideliais atstumais"
+        ]
+      },
+      {
+        "title": "Acetileno generatoriaus kanistras",
+        "desc": "Šerdies kanistras, skirtas stabiliai acetileno gamybai iš kalcio karbido pramoninėse dujų sistemose.",
+        "intro": "Generatoriaus kanistras yra pagrindinis acetileno generavimo sistemos indas. Jis tiekiamas stabiliai dujų gamybai suvirinimo, pjovimo ir aikštelėse be centralizuoto balionų tiekimo. Talpa, vamzdynai ir saugos apdaila gali būti priderinti prie generatoriaus modelio.",
+        "features": [
+          "Acetileno generatorių sistemų korpusas",
+          "Sukurtas stabiliam dujų generavimui iš kalcio karbido",
+          "Galima derinti su filtravimo ir apsauginiais vožtuvais",
+          "Pramoniniai ir kompaktiški generatorių išdėstymai",
+          "OEM žymėjimas, jungtys ir pakavimas pagal užsakymą"
+        ],
+        "specs": [
+          "Vaidmuo: generatoriaus kanistro / konteinerio surinkimas",
+          "Tipiškas susijusių generatorių galios diapazonas: 3–100 m³/val",
+          "Susijusių mazgų darbinis slėgis: apie 1,5–5 kPa",
+          "Pagal pageidavimą tiekiamas aušinimas, filtrai ir atsarginės dalys",
+          "Jungtys, talpa ir apdaila patvirtinta pagal užsakymą"
+        ],
+        "applications": [
+          "Acetileno generatoriai ir nešiojamieji įrenginiai",
+          "Dirbtuvės be centralizuoto balionų tiekimo",
+          "Pramoninio suvirinimo ir pjovimo dujų gamyba"
+        ],
+        "quality": [
+          "Gamyklinis suderinimas su generatoriaus modeliu",
+          "Eksporto pakuotė ir dokumentacija",
+          "Talpa ir ryšio detalės patvirtintos prieš išsiuntimą"
+        ]
+      },
+      {
+        "title": "Pjovimo žibintuvėlis",
+        "desc": "Patvarus deguonies-acetileno pjovimo degiklis tiksliam pjovimui, stabiliai liepsnai ir dideliam produktyvumui.",
+        "intro": "Profesionalus acetileno pjovimo degiklis švariems ir tiksliam pjovimui. Žalvarinis korpusas su nerūdijančiais vamzdeliais, ergonomiška rankena ir keičiamais antgaliais. Suderinamas su acetilenu ir deguonimi bei su standartiniais antgaliais.",
+        "features": [
+          "Aukščiausios kokybės žalvario ir nerūdijančio plieno konstrukcija",
+          "Stabili liepsna ir tikslus pjovimo valdymas",
+          "Į saugą orientuotas dizainas sumažina atgalinio užsidegimo riziką",
+          "Ergonomiška rankena, lengva surinkti ir aptarnauti",
+          "Veikia su standartiniais antgaliais, antgaliais ir žarnų komplektais"
+        ],
+        "specs": [
+          "Modelis: CT-01 pjovimo degiklis",
+          "Dujos: acetilenas + deguonis",
+          "Pjovimo storis: 3–300 mm (priklauso nuo antgalio ir slėgio)",
+          "Darbinis slėgis: C₂H₂ 0,02–0,15 MPa; O₂ 0,2–1,0 MPa",
+          "Jungtis: G5/8-14 arba pritaikyta",
+          "Ilgis: apytiksl. 460 mm",
+          "Įpakavimas: 1 vnt / dėžutė, 10 vnt / dėžutė"
+        ],
+        "applications": [
+          "Anglinio plieno plokščių, vamzdžių ir profilių pjovimas",
+          "Gamybos parduotuvės, laivų statyklos ir statyba",
+          "Pramoninė priežiūra ir pjovimas vietoje"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "Išvaizdos, sujungimo, sandarinimo ir veikimo patikrinimai",
+          "Eksporto pakuotė gabenimui dideliais atstumais"
+        ]
+      },
+      {
+        "title": "Vidinis/išorinis kampinis vožtuvas su sriegiu",
+        "desc": "Tvirtas cilindrinis kampinis vožtuvas su vidiniu arba išoriniu sriegiu pagal rinkos standartus.",
+        "intro": "Kampiniai vožtuvai acetilenui ir kitoms pramoninėms dujoms: tvirtas žalvarinis korpusas, tikslus sandarinimas ir sklandus rankračio veikimas. Vidinis arba išorinis sriegis, atitinkantis cilindro ir įrangos standartus.",
+        "features": [
+          "Patvarus žalvarinis korpusas, atsparus korozijai",
+          "Didelio tikslumo apdirbimas patikimam sandarinimui",
+          "Vidinio arba išorinio sriegio prijungimo galimybės",
+          "Ergonomiškas rankinis ratas, skirtas lengvai atidaryti/uždaryti",
+          "100% saugos ir veikimo patikrinimas"
+        ],
+        "specs": [
+          "Dujos: acetilenas, deguonis, argonas, azotas ir suderinamos dujos",
+          "Darbinis slėgis: 25 / 35 barų klasė",
+          "Bandymo slėgis: 37,5 / 52,5 baro klasė",
+          "Įėjimas / išėjimas: vidinis arba išorinis, pritaikytas",
+          "Rankinis ratas: aliuminio / cinko lydinys",
+          "Temperatūra: –20 °C iki +60 °C",
+          "Standartai: ISO 10297, GB/T 8335, CGA arba pagal užsakymą",
+          "Įpakavimas: 1 vnt / maišelis, 50 vnt / dėžutė"
+        ],
+        "applications": [
+          "Acetileno ir pramoninių dujų balionai",
+          "Suvirinimo ir pjovimo dujų sistemos",
+          "Dirbtuvių, gamyklų ir laboratorinių dujų tiekimas"
+        ],
+        "quality": [
+          "Medžiagų, apdirbimo, sandarumo ir išvaizdos patikra",
+          "Eksporto pakavimas tolimiems atstumams",
+          "Siūlo dydis ir standartas patvirtinti kiekvienoje rinkoje"
+        ]
+      },
+      {
+        "title": "Deguonies žarnos spaustukas",
+        "desc": "Nerūdijančio plieno sliekinis spaustukas, skirtas saugioms, nesandarioms deguonies ir pramoninių žarnų jungtims.",
+        "intro": "Nerūdijančio plieno deguonies žarnų spaustukai, skirti suvirinimui ir pramoniniam naudojimui. Stipri suspaudimo jėga, atsparumas rūdims ir žarnoms draugiški kraštai. Daugkartinis ir lengvai montuojamas.",
+        "features": [
+          "Nerūdijantis plienas 201/304",
+          "Stipri suspaudimo jėga ir patikimas tvirtinimas",
+          "Atsparumas rūdims, korozijai ir oksidacijai",
+          "Lygūs juostos kraštai padeda apsaugoti žarną",
+          "Lengva montuoti, išimti ir naudoti pakartotinai"
+        ],
+        "specs": [
+          "Tipas: sliekinės pavaros žarnos spaustukas",
+          "Žarnų diapazonas: 8–100 mm, pasirinktiniai dydžiai dideliam kiekiui",
+          "Juostos plotis: 9 / 12 mm; storis 0,6–0,8 mm",
+          "Varžtas: įpjova arba šešiakampė galvutė",
+          "Standartai: DIN 3017 / SAE J1508",
+          "Apdaila: poliruotas",
+          "Pakuotė: 100 vnt / maišelis, 10 maišelių / dėžutė arba pagal užsakymą"
+        ],
+        "applications": [
+          "Deguonies ir kuro žarnos suvirinimui ir pjovimui",
+          "Cilindro, reguliatoriaus ir degiklio žarnų jungtys",
+          "Gamyklos, dirbtuvių ir priežiūros linijos"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "Dydis, juosta ir pakuotė gali būti pritaikyti",
+          "Eksportuoti kokybišką pakuotę"
+        ]
+      },
+      {
+        "title": "Deguonies vamzdeliai",
+        "desc": "Lanksti aukšto slėgio deguonies žarna su ilgu tarnavimo laiku, skirta suvirinimui, pjovimui ir pramoninių dujų tiekimui.",
+        "intro": "Deguonies vamzdeliai sukurti saugiam dujų perdavimui esant slėgiui. Lankstus, atsparus lenkimui ir dilimui, su lygia vidine sienele, užtikrinančia stabilų srautą. Keli ID ir ilgiai suvirinimui ir cilindrų prijungimui.",
+        "features": [
+          "Didelis darbinis ir sprogimo slėgis",
+          "Lanksti, atspari lenkimui konstrukcija",
+          "Atsparumas senėjimui, ozonui ir dilimui",
+          "Lygi vidinė sienelė stabiliam dujų srautui",
+          "Lengvas ir lengvai valdomas"
+        ],
+        "specs": [
+          "Dujos: deguonis",
+          "Darbinis slėgis: 20 bar / 290 psi",
+          "Plyšimo slėgis: 60 barų / 870 psi",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (galima pagal užsakymą)",
+          "Ilgis: 10/20/30/50/100 m arba pagal užsakymą",
+          "Spalva: mėlyna standartinė; medžiaga SBR / EPDM + poliesterio verpalai",
+          "Standartai: ISO 3821 / EN 559 / GB/T 20098",
+          "Temperatūra: –20 °C iki +80 °C"
+        ],
+        "applications": [
+          "Deguonies tiekimas suvirinimui ir pjovimui",
+          "Cilindro ir reguliatoriaus žarnos jungtis",
+          "Gamyklos, dirbtuvės ir pramoninės dujų linijos"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "Skersmuo, ilgis, spalva ir etiketė gali būti pritaikyti",
+          "Eksporto pakuotė: susitraukiantis / austas maišas / dėžutė"
+        ]
+      },
+      {
+        "title": "Slėgio matuoklis",
+        "desc": "Tikslus deguonies, acetileno ir kitų pramoninių dujų slėgio rodymas.",
+        "intro": "Acetileno, deguonies ir pramoninių dujų matuokliai: skaidrus ciferblatas, patvari konstrukcija ir stabilūs balionų, reguliatorių ir vamzdynų rodmenys. Keli asortimentai ir jungtys OĮG ir eksportui.",
+        "features": [
+          "Didelis tikslumas ir stabilus veikimas",
+          "Aiškus ratukas, kad būtų lengva skaityti",
+          "Atspari smūgiams pramoninė konstrukcija",
+          "Korozijai atsparios medžiagos",
+          "Keli diapazonai ir tvirtinimai apačioje / gale"
+        ],
+        "specs": [
+          "Dujos: acetilenas, deguonis, argonas, CO₂, azotas ir suderinamos dujos",
+          "Ciferblatas: 50 / 63 / 100 mm, galima pasirinkti pagal užsakymą",
+          "Diapazonas: 0–1 baras iki 0–400 barų, pagal užsakymą",
+          "Tikslumas: ±2,5% standartinis, ±1,6% neprivalomas",
+          "Sriegis: G1/4, G1/8, NPT1/4, M12 × 1,5 arba pasirinktinis",
+          "Korpusas: juodo plieno / nerūdijančio plieno pasirinktinai; jungtis žalvaris arba SS",
+          "Langas: stiklas arba polikarbonatas; -20 °C iki +60 °C",
+          "Įpakavimas: 1 vnt / dėžutė, 50 vnt / dėžutė"
+        ],
+        "applications": [
+          "Dujų balionai ir slėgio reguliatoriai",
+          "Vamzdynai ir pramoninės dujų sistemos",
+          "Oxy-acetileno suvirinimo ir pjovimo plokštės"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "OEM rinkimo ir prekės ženklo parinktys",
+          "Eksporto pakuotė"
+        ]
+      },
+      {
+        "title": "Apsauginis vožtuvas",
+        "desc": "Automatiškai išleidžia perteklinį slėgį, kad apsaugotų balionus, vamzdynus ir operatorius.",
+        "intro": "Apsauginiai vožtuvai automatiškai išleidžia viršslėgį, kad apsaugotų įrangą ir personalą. Tinka deguoniui, acetilenui, orui, azotui ir suderinamoms dujoms. Kompaktiškas žalvarinis korpusas, keli nustatyti slėgiai ir sriegio dydžiai.",
+        "features": [
+          "Automatinė apsauga nuo per didelio slėgio",
+          "Stabilus reljefas esant aukštam slėgiui",
+          "Korpusas žalvarinis, atsparus karščiui ir korozijai",
+          "Kompaktiškas dizainas lengvam montavimui ir aptarnavimui",
+          "Keli nustatyti slėgiai ir sriegio dydžiai"
+        ],
+        "specs": [
+          "Dujos: deguonis, acetilenas, oras, azotas ir suderinamos dujos",
+          "Darbinis slėgis: iki 25 bar / 25 kg/cm²",
+          "Reljefo diapazonas: 0,1–2,5 MPa, pritaikomas",
+          "Temperatūra: –20 °C iki +120 °C",
+          "Ryšys: vyriškas/moteris; 1/4″, 3/8″, 1/2″, 3/4″ BSP/NPT",
+          "Korpusas: žalvaris; sandariklis: NBR / PTFE",
+          "Kūno slėgio klasė: 25 / 35 barai",
+          "Įpakavimas: 1 vnt / dėžutė, 50 vnt / dėžutė"
+        ],
+        "applications": [
+          "Cilindro ir kolektoriaus apsauga nuo per didelio slėgio",
+          "Pramoninė dujų įranga ir vamzdynai",
+          "Deguonies suvirinimo ir pjovimo sistemos"
+        ],
+        "quality": [
+          "100% patikrinimas prieš išsiunčiant",
+          "Nustatytas slėgis, sriegis ir įpakavimas gali būti pritaikyti",
+          "Eksporto pakuotė"
+        ]
+      },
+      {
+        "title": "Suvirinimo žibintuvėlis",
+        "desc": "Ergonomiškas deguonies kuro suvirinimo degiklis su sklandžiu liepsnos valdymu, skirtas suvirinimui, litavimui ir šildymui.",
+        "intro": "Didelio našumo suvirinimo degiklis darbui su deguonimi: stabili liepsna, tikslus valdymas ir patvarus žalvarinis korpusas. Variniai antgaliai, keičiami antgaliai ir žarnų jungtys, skirtos dirbtuvėms ir pramoniniam naudojimui.",
+        "features": [
+          "Stabili liepsna suvirinimui ir metalo remontui",
+          "Sklandus dujų srautas ir tikslus liepsnos valdymas",
+          "Patvarus žalvarinis korpusas, atsparus karščiui ir korozijai",
+          "Ergonomiška rankena patogiam darbui",
+          "Suderinamas su deguonimi, acetilenu ir pasirinktinai propanu"
+        ],
+        "specs": [
+          "Tipas: deguonies-acetileno suvirinimo degiklis",
+          "Korpusas: žalvaris; antgalis: varinis, keičiamas",
+          "Žarnos jungtis: G1/4″ arba 9/16″-18 UNF",
+          "Darbinis slėgis: O₂ 0,2–1,0 MPa; C₂H₂ 0,01–0,15 MPa",
+          "Temperatūra: –20 °C iki +60 °C",
+          "Naudojimas: suvirinimas, litavimas, šildymas; pjovimas su atitinkamais antgaliais",
+          "Įpakavimas: 1 vnt / dėžutė, 10 vnt / dėžutė"
+        ],
+        "applications": [
+          "Deguonies-acetileno suvirinimas ir remontas",
+          "Litavimas, šildymas ir sujungimas",
+          "Dirbtuvės ir pramonės priežiūra"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "Degiklio stilius, jungtis, pakuotė ir logotipas gali būti OEM",
+          "Medžiagų, sandarumo ir išvaizdos patikrinimai"
+        ]
+      },
+      {
+        "title": "Filtro keitiklio galvutė",
+        "desc": "Sujungia filtro elementą su reguliatoriumi arba vamzdynu, kad būtų efektyviai filtruojamos dujos.",
+        "intro": "Filtro keitiklio galvutė yra jungtis tarp filtro elemento ir reguliatoriaus arba dujų linijos. Jis pritvirtina elementą, išlaiko teisingą srauto kryptį ir palengvina aptarnavimą bei keitimą cilindrų ir paskirstymo sistemose.",
+        "features": [
+          "Sujungia filtro elementą su reguliatoriumi arba vamzdynu",
+          "Palaiko efektyvų filtravimą dujų linijoje",
+          "Pramoninės žalvario/metalo konstrukcijos",
+          "Standartiniai srieginiai prievadai sistemos suderinimui",
+          "OEM sriegis, dydis ir pakuotė pagal užsakymą"
+        ],
+        "specs": [
+          "Paskirtis: filtro keitiklis / adapterio galvutė",
+          "Naudojimas: reguliatoriaus, vamzdyno ir cilindro filtrų mazgai",
+          "Jungties dydis ir sriegis patvirtinti pagal užsakymą",
+          "Jei reikia, derinama su filtravimo elementais ir dubenėliais kaip komplektas"
+        ],
+        "applications": [
+          "Dujų paskirstymas prieš reguliatorius ir įrankius",
+          "Cilindro ir generatoriaus filtrų mazgai",
+          "Dirbtuvės ir pramoninės dujų linijos"
+        ],
+        "quality": [
+          "Ryšio dydis patvirtintas prieš gamybą",
+          "Eksporto pakuotė",
+          "Gali būti tiekiamas su atitinkamais filtro elementais"
+        ]
+      },
+      {
+        "title": "Filtruoti",
+        "desc": "Didelio efektyvumo filtras, kuris pašalina drėgmę, alyvą ir daleles, kad apsaugotų paskesnę įrangą.",
+        "intro": "Pašalina kietąsias daleles, vandenį, alyvą ir kitus nešvarumus iš dujų srauto, kad apsaugotų įrangą ir pailgintų tarnavimo laiką. Žalvario galvutė, kokybiškas elementas ir stabilus veikimas esant slėgiui. Deguoniui, acetilenui, orui, azotui ir suderinamoms dujoms.",
+        "features": [
+          "Didelio efektyvumo filtravimas švariam dujų srautui",
+          "Pašalina drėgmę, aliejų ir daleles",
+          "Patvari žalvario galvutė ir metalinis dubuo",
+          "Nuimamas elementas valymui arba pakeitimui",
+          "Stabilus veikimas esant darbiniam slėgiui"
+        ],
+        "specs": [
+          "Dujos: deguonis, acetilenas, oras, azotas ir suderinamos dujos",
+          "Įleidimo slėgis: iki 2,5 MPa",
+          "Darbinis slėgis: 0,01–1,6 MPa",
+          "Tikslumas: 5 / 20 / 50 μm neprivalomas",
+          "Jungtis: G1/4″, G3/8″, G1/2″, G3/4″ neprivaloma",
+          "Korpusas: žalvaris; elementas: sukepinta bronza / nerūdijantis plienas",
+          "Temperatūra: –20 °C iki +60 °C",
+          "Įpakavimas: 1 vnt / dėžutė, 20 vnt / dėžutė"
+        ],
+        "applications": [
+          "Cilindrų, reguliatorių ir paskirstymo sistemos",
+          "Gamyklos, dirbtuvės ir pramoninės dujų linijos",
+          "Švaresnis srautas suvirinimui, pjovimui ir tiekimui laboratorijoje"
+        ],
+        "quality": [
+          "100% patikrinimas prieš pristatymą",
+          "Siūlą, tikslumą ir elementą galima pritaikyti",
+          "Eksporto pakuotė"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Teisinė",
+    "title": "Privatumo politika",
+    "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 25 d",
+    "intro": [
+      "„Wanda Group“ („mes“, „mes“) valdo šią svetainę, siekdama pristatyti dujų balionus, priedus ir susijusius eksporto tiekimus bei gauti pramoninių pirkėjų komercinius užklausas.",
+      "Šioje politikoje paaiškinama, kokius asmens duomenis renkame per svetainę, kodėl juos naudojame ir kaip galite dėl to su mumis susisiekti. Svetainėje neskelbiame gamyklinių vaizdo įrašų ar sertifikatų failų; tos medžiagos siunčiamos privačiai paprašius."
+    ],
+    "sections": [
+      {
+        "title": "Kas atsakingas",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Kokius duomenis renkame",
+        "body": [
+          "Kai siunčiate užklausos formą, gauname jūsų įvestus duomenis: vardą, pavardę, el. paštą, telefoną, paskirties šalį, prekės tipą, kiekį ir žinutę.",
+          "Svetainė taip pat išsaugo jūsų pasirinktą kalbą naršyklėje (localStorage). Mes nenaudojame reklaminių slapukų ir neparduodame lankytojų sąrašų."
+        ]
+      },
+      {
+        "title": "Kodėl mes naudojame duomenis",
+        "body": [
+          "Užklausos duomenis naudojame tik atsakydami į Jūsų užklausą, parengdami citatą, atsiųsdami informaciją apie produktą, vaizdo įrašus ar sertifikatus, kurių paprašėte, ir derindami užsakymą, jei pradėsime dirbti kartu.",
+          "Teisinis pagrindas: jūsų sutikimas, kai pažymite žymimąjį laukelį formoje, ir mūsų teisėtas interesas atsakyti į B2B pardavimo užklausas."
+        ]
+      },
+      {
+        "title": "Kas gauna duomenis",
+        "body": [
+          "Jūsų žinutė mūsų pardavimų komandai pristatoma el. paštu. Priklausomai nuo konfigūracijos, formą gali apdoroti Web3Forms kaip techninis teikėjas, perduodantis mums pranešimą.",
+          "Mes neparduodame asmens duomenų. Su logistikos, tikrinimo ar bankininkystės partneriais galime dalytis tuo, ko reikia tik tuo atveju, jei to reikia sutartam užsakymui įvykdyti."
+        ]
+      },
+      {
+        "title": "Kiek laiko mes jį laikome",
+        "body": [
+          "Užklausos duomenys saugomi tiek, kiek reikia užklausai nagrinėti, o po to protingą laikotarpį pardavimų stebėjimui ir apskaitai, nebent paprašysite anksčiau juos ištrinti, kai tai leidžia įstatymai."
+        ]
+      },
+      {
+        "title": "Jūsų teisės",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Saugumas ir vaikai",
+        "body": [
+          "Mes imamės pagrįstų techninių ir organizacinių veiksmų, kad apsaugotume siunčiamus ir mūsų pašto dėžutės pranešimus. Ši svetainė skirta verslo pirkėjams, o ne vaikams."
+        ]
+      }
+    ],
+    "contactLead": "Klausimai apie šią politiką:"
+  }
+}

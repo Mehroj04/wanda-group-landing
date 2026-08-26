@@ -1,0 +1,123 @@
+.accessory-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+
+.accessory-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  background: rgba(0, 0, 0, 0.72);
+  cursor: pointer;
+}
+
+.accessory-modal__panel {
+  position: relative;
+  z-index: 1;
+  width: min(980px, 100%);
+  max-height: min(90vh, 860px);
+  overflow: auto;
+  display: grid;
+  grid-template-columns: 1fr 1.1fr;
+  gap: 0;
+  background: var(--color-bg-card, #111827);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.45);
+}
+
+.accessory-modal__close {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* The ratio lives on the image, not the wrapper: a percentage-height image
+   inside an aspect-ratio grid item makes the row collapse to 0 and the photo
+   then paints over the text. `align-self: start` keeps the wrapper the exact
+   height of the photo instead of stretching an empty panel down the column. */
+.accessory-modal__media {
+  align-self: start;
+  overflow: hidden;
+  background: var(--color-bg-elevated);
+}
+
+.accessory-modal__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* Keeps the photo from filling a short window and pushing all the text
+     below the fold; `cover` crops instead of distorting when it bites. */
+  max-height: 46vh;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.accessory-modal__body {
+  padding: 28px 28px 32px;
+}
+
+.accessory-modal__title {
+  font-size: 1.35rem;
+  font-weight: 750;
+  margin: 0 0 12px;
+  padding-right: 36px;
+}
+
+.accessory-modal__intro {
+  color: var(--color-text-muted);
+  line-height: 1.65;
+  margin: 0 0 18px;
+  font-size: 0.95rem;
+}
+
+.accessory-modal__heading {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 16px 0 8px;
+}
+
+.accessory-modal__list {
+  margin: 0;
+  padding: 0 0 0 18px;
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+  line-height: 1.55;
+}
+
+.accessory-modal__list li + li {
+  margin-top: 4px;
+}
+
+.accessory-modal__cta {
+  margin-top: 22px;
+}
+
+@media (max-width: 820px) {
+  .accessory-modal {
+    padding: 12px;
+  }
+
+  .accessory-modal__panel {
+    grid-template-columns: 1fr;
+    max-height: 92vh;
+  }
+
+  .accessory-modal__body {
+    padding: 20px 18px 24px;
+  }
+}

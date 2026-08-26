@@ -1,0 +1,1498 @@
+{
+  "nav": {
+    "products": "Proizvodi",
+    "specs": "Specifikacije",
+    "applications": "Primene",
+    "about": "O studiji",
+    "gallery": "Galerija ",
+    "quality": "Kvalitet",
+    "faq": "uslovi i odredbe",
+    "contact": "Kontakt",
+    "getQuote": "Zatražite ponudu",
+    "inquire": "Pošalji upit →",
+    "services": "Usluge",
+    "pricing": "Određivanje cena",
+    "accessories": "Прибор",
+    "home": "Хоме",
+    "factory": "Фабрика"
+  },
+  "hero": {
+    "badge": "Proizvođač gasnih boca",
+    "title": "Pouzdani plinski cilindri za industriju i zavarivanje",
+    "subtitle": "Wanda Group je pouzdan proizvođač i dobavljač acetilena, propanskih cilindara i dodatne opreme. Rešenja za snabdevanje gasom, zavarivanje, sečenje i skladištenje širom sveta.",
+    "cta": "Zatražite ponudu",
+    "ctaSecondary": "Naši proizvodi",
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Године искуства"
+      },
+      {
+        "value": "500K+",
+        "label": "Производни капацитет / Год"
+      },
+      {
+        "value": "50+",
+        "label": "Извозна тржишта"
+      },
+      {
+        "value": "ISO / DOT / TPED",
+        "label": "Квалитет и сертификација"
+      }
+    ]
+  },
+  "accessories": {
+    "title": "Поуздан прибор за гасне боце",
+    "text": "Мерачи, вентили, црева, горионици и сигурносни елементи — испоручују се заједно са цилиндрима или као посебна поруџбина.",
+    "cta": "Погледајте додатну опрему"
+  },
+  "products": {
+    "title": "Naši proizvodi",
+    "subtitle": "Acetilenski cilindri, generatori, propanski cilindri i pribor za industrijsku primenu i primenu zavarivanja.",
+    "items": [
+      {
+        "title": "Acetilenski cilindar",
+        "desc": "Rastvoreni acetilenski cilindri za zavarivanje, sečenje i industrijske gasove. Različite veličine i opcije ventila.",
+        "icon": "🔥",
+        "spec": "2Л–40Л · ИСО / ДОТ / ТПЕД"
+      },
+      {
+        "title": "Generator acetilena",
+        "desc": "Oprema za stabilnu proizvodnju gasa, lako rukovanje i industrijsku primenu.",
+        "icon": "⚙️",
+        "spec": "Системи индустријске производње"
+      },
+      {
+        "title": "Propanski cilindar",
+        "desc": "Izdržljive boce za propan i TNG — skladištenje, grejanje, sečenje i industrijska upotreba.",
+        "icon": "🛢️",
+        "spec": "3Л–50Л · ПОЛ / ЦГА / ГОСТ"
+      },
+      {
+        "title": "Dodatna oprema za cilindre",
+        "desc": "Creva, merači, baklje za sečenje, gorionici za zavarivanje, sigurnosni ventili i još mnogo toga.",
+        "icon": "🔧",
+        "spec": "Вентили · регулатори · црева · бакље"
+      }
+    ],
+    "viewDetails": "Прикажи детаље"
+  },
+  "specs": {
+    "title": "Tehničke specifikacije",
+    "subtitle": "Istražite opcije cilindra, mogućnosti prilagođavanja i detalje isporuke pre slanja upita.",
+    "items": [
+      {
+        "title": "Kapacitet cilindra",
+        "desc": "Različite mogućnosti kapaciteta i obima u zavisnosti od primene i zahteva tržišta."
+      },
+      {
+        "title": "Ventili i poklopci",
+        "desc": "Ventili, kape i fitinzi se isporučuju u skladu sa potrebama kupca i projekta."
+      },
+      {
+        "title": "Opcije rastvarača",
+        "desc": "Sistem poroznog punila i rastvarači za stabilno skladištenje acetilena."
+      },
+      {
+        "title": "Pakovanje i isporuka",
+        "desc": "Podrška za izvoznu ambalažu i otpremu za distributere i korisnike projekta."
+      }
+    ]
+  },
+  "applications": {
+    "title": "Primene cilindra",
+    "subtitle": "Proizvodi dizajnirani za uobičajene zadatke vezane za industrijski gas i zahteve kupaca u inostranstvu.",
+    "items": [
+      "Заваривање и лемљење",
+      "Sečenje metala",
+      "Snabdevanje industrijskim gasom",
+      "Tumačenje",
+      "Izrada metala",
+      "Skladištenje i distribucija gasa"
+    ]
+  },
+  "whyUs": {
+    "title": "Zašto Wanda Group?",
+    "subtitle": "Direktna proizvodnja, prilagođavanje i potpuna podrška izvozu — sve za vaše poslovanje.",
+    "items": [
+      {
+        "title": "Висок квалитет",
+        "desc": "Челични цилиндри за индустријско заваривање и снабдевање гасом."
+      },
+      {
+        "title": "Строга контрола квалитета",
+        "desc": "Инспекција од улазног материјала до коначног паковања."
+      },
+      {
+        "title": "Адванцед Мануфацтуринг",
+        "desc": "Формирање, заваривање, испитивање и дорада у једном постројењу."
+      },
+      {
+        "title": "ОЕМ / ОДМ",
+        "desc": "Боја, вентил, ознака, капа и паковање по наруџбини."
+      },
+      {
+        "title": "Међународни извоз",
+        "desc": "Документи и паковање за индустријске купце из иностранства."
+      },
+      {
+        "title": "Поуздана испорука",
+        "desc": "Уобичајено време испоруке 15–25 дана након потврде поруџбине."
+      }
+    ]
+  },
+  "about": {
+    "title": "Profesionalni proizvođač gasnih boca",
+    "text": "Proizvođač boca za gas Wanda Group specijalizovan je za proizvodnju i snabdevanje industrijskih boca za gas i pratećeg pribora. Naši proizvodi se široko koriste u zavarivanju, sečenju, distribuciji gasa, industrijskom skladištenju i drugim poljima za snabdevanje gasom.",
+    "text2": "Podržavamo inostrane kupce u izboru proizvoda, prilagođavanju, kontroli kvaliteta, koordinaciji pakovanja i otpreme.",
+    "facts": [
+      {
+        "title": "Искуство",
+        "desc": "15+ година снабдевање индустријским гасним боцама."
+      },
+      {
+        "title": "Производња",
+        "desc": "Формирање, заваривање, испитивање и завршна обрада у кући."
+      },
+      {
+        "title": "Квалитет",
+        "desc": "ИСО 9809, ДОТ и ТПЕД опције по тржишту."
+      },
+      {
+        "title": "Извоз",
+        "desc": "Пошиљке координиране за 50+ одредишних тржишта."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Унутар наше фабрике",
+    "subtitle": "Производња, заваривање, тестирање, фарбање и готових цилиндара — како припремамо извозне поруџбине.",
+    "items": [
+      {
+        "title": "Готова залиха цилиндара",
+        "desc": "Спреман инвентар у нашој фабрици — запремински капацитет за велепродајне и извозне поруџбине."
+      },
+      {
+        "title": "Производно заваривање",
+        "desc": "Израда метала у фабрици са доводом индустријског гаса."
+      },
+      {
+        "title": "Извозна амбалажа",
+        "desc": "Заштитна мрежа и палета палета пре међународне испоруке."
+      },
+      {
+        "title": "Propane ready for dispatch",
+        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+      },
+      {
+        "title": "Отпремање цилиндара на велико",
+        "desc": "Обезбедите терет кавеза за друмски транспорт до дистрибутера и постројења."
+      },
+      {
+        "title": "Delivery on the road",
+        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+      },
+      {
+        "title": "Global export containers",
+        "desc": "Container logistics for overseas partners and long-haul orders."
+      },
+      {
+        "title": "Order packing & dispatch",
+        "desc": "Careful packing and outbound handling for accessories and spare parts."
+      },
+      {
+        "title": "Oxy-fuel cutting in use",
+        "desc": "Real workshop application with oxygen and acetylene cylinders."
+      },
+      {
+        "title": "Precision craft welding",
+        "desc": "Skilled production work that reflects our quality standard."
+      },
+      {
+        "title": "Manufacturing facility",
+        "desc": "Clean industrial halls with crane systems for heavy production."
+      },
+      {
+        "title": "Распон величина цилиндара",
+        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+      }
+    ]
+  },
+  "quality": {
+    "title": "Контрола квалитета",
+    "subtitle": "Свака серија иде истим путем: производња, испитивање, инспекција и коначна контрола квалитета.",
+    "steps": [
+      {
+        "title": "Производња",
+        "desc": "Формирање, заваривање и монтажа под контролом процеса постројења."
+      },
+      {
+        "title": "Тестирање",
+        "desc": "Тестови притиска и цурења пре него што цилиндри напусте линију."
+      },
+      {
+        "title": "Инспекција",
+        "desc": "Визуелне, обележавање и провере димензија у односу на поруџбину."
+      },
+      {
+        "title": "Коначна контрола квалитета",
+        "desc": "Инспекција паковања пре извозне пошиљке."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Често постављана питања",
+    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "cta": "Нисте пронашли своје питање? Пошаљите производ, величину, количину и земљу одредишта — ми ћемо вам одговорити са детаљном понудом.",
+    "ctaBtn": "Затражите понуду",
+    "groups": [
+      {
+        "title": "Компанија",
+        "items": [
+          {
+            "q": "Да ли сте произвођач гасних боца?",
+            "a": "Да. Ванда Гроуп је специјализована за производњу гасних боца и сродних решења за снабдевање индустријским гасом за иностране индустријске купце."
+          },
+          {
+            "q": "Које производе углавном испоручујете?",
+            "a": "Снабдевамо ацетиленске боце, пропан боце, генераторе ацетилена и додатке за гасне боце као што су вентили, регулатори, црева, манометри и бакље."
+          },
+          {
+            "q": "Можете ли подржати прилагођавање ОЕМ-а?",
+            "a": "Да. Боја цилиндра, означавање, вентил, капа и опције паковања могу се разговарати у складу са наруџбом и циљним тржиштем."
+          },
+          {
+            "q": "Да ли подржавате купце из иностранства?",
+            "a": "Да. Подржавамо извоз, избор производа, захтеве за паковање, документацију и координацију испоруке."
+          },
+          {
+            "q": "Како могу добити понуду?",
+            "a": "Наведите тип производа, величину цилиндра, количину, земљу одредишта и захтеве за прилагођавање путем обрасца за упит или путем е-поште. Наш тим ће одговорити са детаљима о производу и цитатом."
+          }
+        ]
+      },
+      {
+        "title": "Factory videos",
+        "items": [
+          {
+            "q": "Могу ли да гледам фабричке видео записе пре него што наручим?",
+            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+          },
+          {
+            "q": "Да ли пружате видео записе о производима, посебно за ацетиленске цилиндре?",
+            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+          },
+          {
+            "q": "Можете ли показати видео снимке производње и контроле квалитета?",
+            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+          },
+          {
+            "q": "Могу ли да затражим видео снимак производа направљен за одређену поруџбину?",
+            "a": "For specific orders or product requirements, contact us to discuss video support."
+          },
+          {
+            "q": "How do I get a quotation after watching the videos?",
+            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+          }
+        ]
+      },
+      {
+        "title": "Решења",
+        "items": [
+          {
+            "q": "Која решења за гасне боце нудите?",
+            "a": "Нудимо решења за заваривање и сечење, дистрибуцију гаса, индустријско складиштење, производњу ацетилена, снабдевање ОЕМ-ом и извозну куповину."
+          },
+          {
+            "q": "Можете ли препоручити производе за моју апликацију?",
+            "a": "Да. Пошаљите своју апликацију, величину цилиндра, количину, земљу одредишта и потребну додатну опрему — ми ћемо препоручити одговарајуће производе."
+          },
+          {
+            "q": "Да ли испоручујете прибор заједно са цилиндрима?",
+            "a": "Да. Заједно са цилиндрима можемо испоручити регулаторе притиска, црева, мераче, бакље за сечење, горионике за заваривање, вентиле и фитинге."
+          },
+          {
+            "q": "Можете ли испоручити плинске боце за ОЕМ купце?",
+            "a": "Да. Боја цилиндра, ознака, вентил, капа, лого и паковање се могу разговарати према наруџбини."
+          }
+        ]
+      },
+      {
+        "title": "Производи",
+        "items": [
+          {
+            "q": "За шта се користи растворени ацетиленски цилиндар?",
+            "a": "Цилиндри са раствореним ацетиленом се широко користе за заваривање, сечење, лемљење, производњу метала и снабдевање индустријским гасом."
+          },
+          {
+            "q": "Које величине цилиндара можете испоручити?",
+            "a": "Може се разговарати о различитим количинама и капацитетима у зависности од вашег циљног тржишта, апликације и количине поруџбине. Да бисте потврдили, наведите потребну величину или локални стандард."
+          },
+          {
+            "q": "Да ли се боја цилиндра, вентил и ознака могу променити?",
+            "a": "Да. Боја цилиндра, вентил, поклопац, означавање, етикета и паковање за извоз могу се направити по наруџбини."
+          }
+        ]
+      },
+      {
+        "title": "Прибор",
+        "items": [
+          {
+            "q": "Коју додатну опрему испоручујете?",
+            "a": "Испоручујемо одводнике повратног удара, манометаре, сигурносне вентиле, црева за кисеоник, стезаљке за црева, горионике за сечење, горионике за заваривање, филтере, адаптере и друге додатке за гасне боце."
+          },
+          {
+            "q": "Да ли се прибор за гасне боце може прилагодити?",
+            "a": "Да. Можемо прилагодити логотип, паковање, величину прикључка, тип навоја, опсег притиска и техничке спецификације."
+          },
+          {
+            "q": "Да ли се додаци могу наручити заједно са гасним боцама?",
+            "a": "Да. Прибор се може испоручити заједно са ацетиленским боцама, боцама за пропан и генераторима ацетилена."
+          },
+          {
+            "q": "Да ли подржавате ОЕМ паковање?",
+            "a": "Да. За велепродајне поруџбине можемо обезбедити ОЕМ ознаку, картоне, кесе и етикете производа."
+          },
+          {
+            "q": "Можете ли дати фотографије и спецификације производа?",
+            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+          },
+          {
+            "q": "Како могу добити понуду за додатну опрему?",
+            "a": "Наведите назив производа, количину, величину прикључка, радни притисак, захтеве за паковање и одредишну земљу или луку."
+          }
+        ]
+      }
+    ]
+  },
+  "articles": {
+    "title": "Najnoviji članci",
+    "subtitle": "Stručni sadržaj za stručnjake za zavarivanje i snabdevanje gasom.",
+    "readMore": "Saznajte više",
+    "close": "Zatvori",
+    "items": [
+      {
+        "tag": "obrtna redstva",
+        "title": "Kompletno rešenje za snabdevanje propan cilindra",
+        "desc": "Stabilnost opreme direktno utiče na efikasnost zavarivanja i sečenja.",
+        "body": [
+          "Za zanatlije koji svakodnevno zavaruju, popravljaju i izrađuju metal, stabilna gasna oprema direktno utiče na kvalitet i brzinu rada.",
+          "Wanda Group boce sa propanom su dostupne od 3L do 50L sa POL, CGA 510 ili gost ventilima u zavisnosti od vašeg tržišta — jedan dobavljač za zavarivanje, sečenje i grejanje.",
+          "Preporučujemo naručivanje cilindara zajedno sa regulatorima, crevima i bakljama. Snabdevanje paketom smanjuje logističke troškove i obezbeđuje kompatibilnost dodatne opreme.",
+          "Prilikom naručivanja navesti ciljno tržište, zapreminu, tip ventila i boju — pripremamo OEM obeležavanje i izvoznu ambalažu pod Vašim brendom."
+        ]
+      },
+      {
+        "tag": "Складиштење",
+        "title": "Dugoročni saveti za skladištenje acetilenskog cilindra",
+        "desc": "Uslovi skladištenja, načini postavljanja i redovne kontrole neiskorišćenih boca.",
+        "body": [
+          "Mnoge kompanije skladište boce sa acetilenom i propanom tokom proizvodnih pauza ili kao inventar. Neiskorišćeni cilindri i dalje zahtevaju pravilno rukovanje.",
+          "Skladištite cilindre u uspravnom položaju u dobro provetrenom prostoru, dalje od izvora toplote i direktne sunčeve svetlosti. Temperatura skladištenja obično ne bi trebalo da prelazi 40–50°C.",
+          "Pregledajte ventile, poklopce i oznake najmanje jednom kvartalno. Za dugotrajno skladištenje acetilena, držite cilindre vertikalno i nikada ne dozvolite naginjanje.",
+          "Grupa Wanda isporučuje boce sa zaštitnim poklopcima i izvoznom ambalažom dizajniranom za bezbedan transport i skladištenje. Vodiči za skladištenje su dostupni na vašem jeziku na zahtev."
+        ]
+      },
+      {
+        "tag": "Određivanje cena",
+        "title": "Vodič za budžet za kupovinu acetilenskog cilindra",
+        "desc": "Faktori koji utiču na troškove i kako odabrati optimalnu ponudu.",
+        "body": [
+          "Cena acetilenskog cilindra zavisi od zapremine (2L–40L), tipa ventila, sertifikacije (ISO, DOT, TPED) i količine narudžbine. Okvirne EXW cene: WG-10 28–35 $, WG-25 45–58 $ po jedinici.",
+          "Veće parcele (200–500+ kom) dobijaju značajne popuste. OEM farbanje, logotip i specijalna ambalaža dodaju 5–15% osnovnoj ceni, ali povećavaju vrednost za distributere.",
+          "Takođe faktor u isporuci (FOB/CIF), dokumentima i MOQ. U roku od 24 sata odgovaramo sa punim specifikacijama, rokom isporuke i Incoterms-om.",
+          "Za tačnu ponudu, navedite zahteve za model, količinu, odredišnu zemlju i ventil u obrascu za kontakt — ili pošaljite e-poruku na sales@wandagroups.com."
+        ]
+      }
+    ]
+  },
+  "cta": {
+    "title": "Затражите понуду",
+    "subtitle": "Recite nam veličinu, količinu, odredišnu zemlju i primenu — pripremićemo detaljnu ponudu.",
+    "formTitle": "Затражите понуду",
+    "formSubtitle": "Ostavite svoje zahteve — naš prodajni tim će odgovoriti sa informacijama o proizvodu, cenama, MOQ-om i vremenom isporuke.",
+    "name": "Ime",
+    "phone": "Телефон / ВхатсАпп",
+    "email": "Емаил",
+    "product": "Proizvod",
+    "quantity": "Količina",
+    "country": "Земља дестинације",
+    "productOptions": [
+      "Acetilenski cilindar",
+      "Propanski cilindar",
+      "Generator acetilena",
+      "Dodatna oprema",
+      "Porudžbina paketa"
+    ],
+    "message": "Dodatni Zahtjevi",
+    "messagePlaceholder": "Proizvod, veličina, količina, odredišna zemlja...",
+    "submit": "Пошаљите упит",
+    "sending": "Шаље се…",
+    "success": "Hvala! Kontaktiraćemo vas uskoro.",
+    "sendAnother": "Pošaljite još jedan upit",
+    "errorGeneric": "Slanje nije uspelo. Pokušajte ponovo ili nam direktno pošaljite imejl.",
+    "errorNoForm": "Obrazac nije konfigurisan. Pošaljite e-poruku na sales@wandagroups.com",
+    "privacyPrefix": "Слажем се са",
+    "privacySuffix": "и на обраду мојих личних података ради обраде овог упита.",
+    "privacyLink": "Политика приватности",
+    "company": "Компанија",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Пошаљите путем апликације за е-пошту"
+  },
+  "footer": {
+    "company": "Proizvođač gasnih boca Wanda Group",
+    "tagline": "Profesionalna proizvodnja gasnih boca",
+    "rights": "© 2026. Wanda Group. Sva prava zadržana.",
+    "privacy": "Политика приватности"
+  },
+  "ui": {
+    "catalog": "Каталог",
+    "catalogTitle": "Detaljne specifikacije proizvoda",
+    "catalogSubtitle": "Kompletni tehnički podaci, modeli i parametri za svaku kategoriju. Izaberite proizvod da biste videli tabelu sa specifikacijama.",
+    "requestPrice": "Zatražite cenu za ovaj model",
+    "services": "Usluge",
+    "pricing": "Određivanje cena",
+    "getExactQuote": "Preuzmite tačnu ponudu",
+    "certifications": "Sertifikati",
+    "order": "Налог",
+    "reviews": "Recenzije",
+    "contact": "Kontakt",
+    "phone": "Telefon",
+    "location": "Lokacija",
+    "quoteResponse": "Odgovor na ponudu",
+    "support": "Potpora",
+    "exportReady": "Spremno za izvoz",
+    "years": "Godine",
+    "acetylene": "Acetilen!",
+    "isoCertified": "ISO sertifikat",
+    "globalExport": "Globalni izvoz",
+    "products": "Производи",
+    "specs": "Спецификације",
+    "applications": "Апликације",
+    "whyUs": "Зашто нас",
+    "about": "О нама",
+    "gallery": "Галерија",
+    "quality": "Квалитет",
+    "faq": "ФАК",
+    "blog": "Блог",
+    "countriesServed": "Служене земље",
+    "searchLanguage": "Претражи језик...",
+    "noLanguagesFound": "Ниједан језик није пронађен"
+  },
+  "trustMarquee": [
+    "ISO 9809-1",
+    "DOT 3AA",
+    "TPED",
+    "GB 5099",
+    "CE",
+    "OEM/ODM",
+    "Извоз у 50+ земаља",
+    "МОК од 100 ком",
+    "Време испоруке 15–25 дана"
+  ],
+  "productDetails": {
+    "tabs": {
+      "acetylene": "Ацетилен",
+      "propane": "Пропан",
+      "generator": "Генератор",
+      "accessories": "Прибор"
+    },
+    "acetylene": {
+      "title": "Цилиндри са раствореним ацетиленом",
+      "intro": "Челични цилиндри са порозном масом и растварачем за безбедно складиштење и транспорт ацетилена. Користи се за заваривање, сечење, лемљење и производњу метала.",
+      "features": [
+        "Порозна маса + ацетон за стабилно складиштење",
+        "ЦГА 510 / ГОСТ / ДИН вентили на захтев",
+        "Хидраулични испитни притисак 5,2 МПа",
+        "РАЛ фарбање, штанцање и ОЕМ етикете",
+        "Извоз палетне амбалаже"
+      ],
+      "tableTitle": "Стандардни модели ацетиленских цилиндара",
+      "headers": [
+        "Модел",
+        "Запремина (Л)",
+        "C₂H₂ (kg)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Тежина (кг)",
+        "Висина (мм)"
+      ],
+      "rows": [
+        [
+          "WG-2",
+          "2",
+          "0.3",
+          "1.5",
+          "5.2",
+          "4.5",
+          "395"
+        ],
+        [
+          "WG-5",
+          "5",
+          "0.8",
+          "1.5",
+          "5.2",
+          "7.2",
+          "490"
+        ],
+        [
+          "WG-10",
+          "10",
+          "1.5",
+          "1.5",
+          "5.2",
+          "12.5",
+          "780"
+        ],
+        [
+          "WG-25",
+          "25",
+          "4.0",
+          "1.5",
+          "5.2",
+          "24.0",
+          "980"
+        ],
+        [
+          "WG-40",
+          "40",
+          "6.5",
+          "1.5",
+          "5.2",
+          "38.0",
+          "1250"
+        ]
+      ],
+      "note": "* Тачни параметри зависе од стандарда (ИСО/ДОТ/ГБ) и конфигурације вентила. Затражите спецификацију за ваше тржиште."
+    },
+    "propane": {
+      "title": "Пропан и ТНГ цилиндри",
+      "intro": "Цилиндри за мешавине пропана, бутана и ТНГ-а. Користи се за грејање, сечење, лемљење, грађевинарство и снабдевање индустријским гасом.",
+      "features": [
+        "37Мн/34ЦрМо4 челик по ИСО 9809",
+        "Радни притисак 1,8–2,1 МПа",
+        "ПОЛ, ЦГА 510, ГОСТ вентили",
+        "Прашкасти премаз, антикорозивни",
+        "Сертификати за тржишта ЕУ, САД, ЗНД"
+      ],
+      "tableTitle": "Стандардни модели цилиндара са пропаном",
+      "headers": [
+        "Модел",
+        "Запремина (Л)",
+        "гас (кг)",
+        "WP (MPa)",
+        "TP (MPa)",
+        "Тежина (кг)",
+        "Висина (мм)"
+      ],
+      "rows": [
+        [
+          "ВГ-П3",
+          "3",
+          "1.2",
+          "1.8",
+          "5.2",
+          "3.8",
+          "280"
+        ],
+        [
+          "ВГ-П5",
+          "5",
+          "2.0",
+          "1.8",
+          "5.2",
+          "5.5",
+          "340"
+        ],
+        [
+          "ВГ-П11",
+          "11",
+          "4.5",
+          "1.8",
+          "5.2",
+          "9.8",
+          "510"
+        ],
+        [
+          "ВГ-П15",
+          "15",
+          "6.0",
+          "1.8",
+          "5.2",
+          "12.5",
+          "580"
+        ],
+        [
+          "ВГ-П50",
+          "50",
+          "20.0",
+          "1.8",
+          "5.2",
+          "42.0",
+          "1180"
+        ]
+      ],
+      "note": "* Цене и МОК зависе од обима поруџбине и типа вентила. Пошаљите упит за тачну понуду."
+    },
+    "generator": {
+      "title": "Генератори ацетилена",
+      "intro": "Опрема за производњу ацетилена од калцијум карбида. Стабилно снабдевање гасом за заваривање и индустријске потребе без централизоване гасне инфраструктуре.",
+      "features": [
+        "Излаз 3–100 м³/х капацитет",
+        "Аутоматско напајање водом и карбидом",
+        "Сигурносни систем и филтрација",
+        "Компактни и индустријски модели",
+        "Комплетна документација и обука"
+      ],
+      "tableTitle": "Модели генератора ацетилена",
+      "headers": [
+        "Модел",
+        "Излаз (м³/х)",
+        "Карбид (кг/х)",
+        "Притисак (кПа)",
+        "Снага (кВ)",
+        "Тежина (кг)"
+      ],
+      "rows": [
+        [
+          "ВГ-Г3",
+          "3",
+          "12",
+          "1.5–5",
+          "0.5",
+          "180"
+        ],
+        [
+          "ВГ-Г5",
+          "5",
+          "20",
+          "1.5–5",
+          "1.0",
+          "280"
+        ],
+        [
+          "ВГ-Г20",
+          "20",
+          "80",
+          "1.5–5",
+          "3.5",
+          "850"
+        ],
+        [
+          "ВГ-Г50",
+          "50",
+          "200",
+          "1.5–5",
+          "7.5",
+          "1800"
+        ],
+        [
+          "ВГ-Г100",
+          "100",
+          "400",
+          "1.5–5",
+          "15",
+          "3200"
+        ]
+      ],
+      "note": "* Генератори се испоручују са системом хлађења, филтерима и комплетом резервних делова на захтев."
+    },
+    "accessories": {
+      "title": "Прибор и опрема за цилиндре",
+      "intro": "Комплетан асортиман за сигуран рад гасних боца: од мерача до горионика за заваривање. Набавка на једном месту са цилиндрима.",
+      "features": [
+        "Регулатори и мерачи (ЦГА/ГОСТ/ДИН)",
+        "Црева високог притиска",
+        "Резне бакље и горионици за заваривање",
+        "Вентили за смањење притиска",
+        "Колица, постоља, капе"
+      ],
+      "tableTitle": "Каталог додатне опреме",
+      "headers": [
+        "Категорија",
+        "Модели",
+        "Стандард",
+        "Апликација"
+      ],
+      "rows": [
+        [
+          "Регулатори",
+          "ВГ-Р510, ВГ-Р580",
+          "ЦГА 510/580",
+          "Ацетилен, пропан"
+        ],
+        [
+          "Гаугес",
+          "ВГ-Г63, ВГ-Г100",
+          "ИСО 5171",
+          "Праћење притиска"
+        ],
+        [
+          "Црева",
+          "ВГ-Х6, ВГ-Х9",
+          "ЕН 559",
+          "Заваривање, сечење"
+        ],
+        [
+          "Бакље",
+          "ВГ-Ц100, ВГ-Ц300",
+          "—",
+          "Плазма/окси резање"
+        ],
+        [
+          "Горионици",
+          "ВГ-Т200, ВГ-Т500",
+          "—",
+          "Заваривање, лемљење"
+        ],
+        [
+          "Вентили",
+          "ВГ-В510, ВГ-ВПОЛ",
+          "ЦГА/ПОЛ/ГОСТ",
+          "Сви типови цилиндара"
+        ]
+      ],
+      "note": "* Додатна опрема доступна засебно или у пакету са цилиндрима. Попуст на комбиноване поруџбине."
+    }
+  },
+  "services": {
+    "title": "Наше услуге",
+    "subtitle": "Цео циклус — од производње до испоруке у Вашем складишту. Радимо са дистрибутерима, ОЕМ брендовима и купцима пројеката.",
+    "items": [
+      {
+        "icon": "🏭",
+        "title": "Производња по мери (ОЕМ/ОДМ)",
+        "desc": "Цилиндри са вашим брендом, бојом и ознаком.",
+        "points": [
+          "Лого и РАЛ боја",
+          "Тржишни стандардни вентил",
+          "ОЕМ паковање и етикете"
+        ]
+      },
+      {
+        "icon": "🚢",
+        "title": "Извоз и логистика",
+        "desc": "Потпуна подршка за међународне пошиљке.",
+        "points": [
+          "Инцотермс ФОБ/ЦИФ/ДДП",
+          "Извозна документација",
+          "Поморски и железнички транспорт"
+        ]
+      },
+      {
+        "icon": "🔬",
+        "title": "Контрола квалитета",
+        "desc": "Тестирање и инспекција у свакој фази.",
+        "points": [
+          "Хидростатички тестови",
+          "УТ преглед завара",
+          "СГС/БВ инспекција на захтев"
+        ]
+      },
+      {
+        "icon": "📋",
+        "title": "Цертифицатион",
+        "desc": "Documents for customs and regulators.",
+        "points": [
+          "ИСО 9809, ДОТ, ТПЕД",
+          "МСДС и сертификат квалитета",
+          "Потврда о пореклу"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "title": "Техничка подршка",
+        "desc": "Помозите у избору производа и конфигурације.",
+        "points": [
+          "Избор заснован на тржишту",
+          "МОК и израчунавање времена испоруке",
+          "Обука особља"
+        ]
+      },
+      {
+        "icon": "📦",
+        "title": "Бундле Суппли",
+        "desc": "Цилиндри + прибор у једној наруџбини.",
+        "points": [
+          "Јединствени уговор",
+          "Координисана испорука",
+          "Попуст на пакет"
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Цене и услови снабдевања",
+    "subtitle": "Транспарентни услови за Б2Б набавке. Тачна цена се обрачунава појединачно — пошаљите упит, ми одговарамо у року од 24 сата.",
+    "note": "Приказане цене су индикативне (ЕКСВ). Коначни трошак зависи од запремине, типа вентила, сертификације и услова испоруке.",
+    "cards": [
+      {
+        "label": "МОК",
+        "value": "од 100 ком",
+        "desc": "Минимална поруџбина по моделу"
+      },
+      {
+        "label": "Леад Тиме",
+        "value": "15–25 дана",
+        "desc": "Након потврде поруџбине"
+      },
+      {
+        "label": "Плаћање",
+        "value": "Т/Т 30/70",
+        "desc": "30% депозита, 70% пре испоруке"
+      },
+      {
+        "label": "Гаранција",
+        "value": "12 месеци",
+        "desc": "Против грешака у производњи"
+      }
+    ],
+    "factors": {
+      "title": "Фактори цене",
+      "items": [
+        "Запремина и модел цилиндра (2Л – 50Л)",
+        "Тип вентила (ЦГА, ГОСТ, ДИН, ПОЛ)",
+        "Стандард сертификације (ИСО, ДОТ, ТПЕД)",
+        "ОЕМ: боја, означавање, паковање",
+        "Обим поруџбина и Инцотермс"
+      ]
+    },
+    "samples": [
+      {
+        "product": "Ацетилен ВГ-10",
+        "moq": "200 ком",
+        "price": "$28–35 / ком",
+        "lead": "18 дана"
+      },
+      {
+        "product": "Ацетилен ВГ-25",
+        "moq": "100 ком",
+        "price": "$45–58 / ком",
+        "lead": "20 дана"
+      },
+      {
+        "product": "Пропан ВГ-П11",
+        "moq": "500 ком",
+        "price": "12–16 долара / ком",
+        "lead": "15 дана"
+      },
+      {
+        "product": "Пропан ВГ-П50",
+        "moq": "100 ком",
+        "price": "$55–72 / ком",
+        "lead": "22 дана"
+      },
+      {
+        "product": "Генератор ВГ-Г20",
+        "moq": "1 јединица",
+        "price": "$3,500–4,200",
+        "lead": "25 дана"
+      },
+      {
+        "product": "Регулатор сет",
+        "moq": "50 ком",
+        "price": "$8–15 / ком",
+        "lead": "10 дана"
+      }
+    ],
+    "tableHeaders": [
+      "Производ",
+      "МОК",
+      "Цена (ЕКСВ)",
+      "Леад Тиме"
+    ]
+  },
+  "certifications": {
+    "title": "Сертификати и стандарди",
+    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "items": [
+      {
+        "name": "ISO 9809-1",
+        "desc": "Бешавне челичне боце за гас — технички захтеви"
+      },
+      {
+        "name": "ИСО 9809-3",
+        "desc": "Растворени ацетиленски цилиндри"
+      },
+      {
+        "name": "DOT 3AA",
+        "desc": "Сертификација америчког тржишта"
+      },
+      {
+        "name": "TPED",
+        "desc": "Европска транспортна директива"
+      },
+      {
+        "name": "GB 5099",
+        "desc": "Кинески стандард за гасне боце"
+      },
+      {
+        "name": "ЦЕ ознака",
+        "desc": "Европски захтеви за усаглашеност"
+      }
+    ]
+  },
+  "process": {
+    "title": "Како наручити",
+    "subtitle": "Једноставан процес од упита до цилиндара у вашем складишту.",
+    "steps": [
+      {
+        "title": "Пошаљите упит",
+        "desc": "Наведите захтеве производа, запремине, земље и вентила"
+      },
+      {
+        "title": "Примите понуду",
+        "desc": "Цена, МОК, време испоруке и спецификација у року од 24 сата"
+      },
+      {
+        "title": "Потврдите наруџбу",
+        "desc": "Потписивање уговора и уплата депозита од 30%."
+      },
+      {
+        "title": "Производња & КЦ",
+        "desc": "Manufacturing, testing, photo report on request"
+      },
+      {
+        "title": "Испорука",
+        "desc": "Паковање, документи, ФОБ/ЦИФ/ДДП достава"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What buyers say",
+    "items": [
+      {
+        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "author": "Rustam Yusupov",
+        "role": "Owner, welding gas distributor",
+        "country": "Uzbekistan"
+      },
+      {
+        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "author": "Aigerim Bekova",
+        "role": "Procurement manager, industrial supply",
+        "country": "Kazakhstan"
+      },
+      {
+        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "author": "Faisal Al-Harbi",
+        "role": "Import buyer, gas equipment trading",
+        "country": "Saudi Arabia"
+      }
+    ]
+  },
+  "story": {
+    "slides": [
+      {
+        "id": "заваривање",
+        "eyebrow": "Ацетиленски цилиндри",
+        "title": "Стабилан пламен за прецизно заваривање",
+        "text": "Цилиндри са раствореним ацетиленом пројектовани за непрекидно заваривање и лемљење — конзистентан притисак, безбедна порозна маса, вентили спремни за извоз.",
+        "points": [
+          "ИСО / ДОТ / ГБ опције",
+          "ЦГА / ГОСТ / ДИН вентили",
+          "ОЕМ боја и означавање"
+        ]
+      },
+      {
+        "id": "сечење",
+        "eyebrow": "Сечење и израда",
+        "title": "Снага када метал мора да се креће",
+        "text": "Комплети цилиндара са високим протоком ацетилена и кисеоника за бродоградилишта, радионице и тешке производне линије.",
+        "points": [
+          "Брзо бушење и сечење",
+          "Комплети спремни за бакље",
+          "Булк МОК фриендли"
+        ]
+      },
+      {
+        "id": "пропан",
+        "eyebrow": "Пропан и ТНГ",
+        "title": "Издржљиве ТНГ боце за свако тржиште",
+        "text": "Од грејања и гаса за кување до индустријског сечења — челични цилиндри направљени за притисак, премазивање и дуг радни век.",
+        "points": [
+          "Распон од 3Л-50Л",
+          "ПОЛ / ЦГА вентили",
+          "Завршна обрада у праху"
+        ]
+      },
+      {
+        "id": "фабрика",
+        "eyebrow": "Мануфацтуринг",
+        "title": "Фабричка контрола од челика до испоруке",
+        "text": "Ин-хоусе обликовање, заваривање, хидростатичко испитивање и завршна обрада — тако да свака серија одговара вашем цртежу и тржишном стандарду.",
+        "points": [
+          "Хидростатички испитан",
+          "Сљедиве серије",
+          "ОЕМ / ОДМ спреман"
+        ]
+      },
+      {
+        "id": "квалитета",
+        "eyebrow": "Квалитет и сигурност",
+        "title": "Инспекцију можете ставити у понуду",
+        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "points": [
+          "Тестови притиска и цурења",
+          "Certificate package",
+          "Фотографије пре испоруке"
+        ]
+      },
+      {
+        "id": "извоз",
+        "eyebrow": "Глобални извоз",
+        "title": "Упаковано за луке, спремно за 50+ земаља",
+        "text": "Палете за извоз, заштита вентила, вишејезичне етикете и отпремна документација усклађена за Инцотермс ваше дестинације.",
+        "points": [
+          "ФОБ / ЦИФ подршка",
+          "Палетизирано паковање",
+          "Време испоруке 15-25 дана"
+        ]
+      }
+    ]
+  },
+  "imageAlts": {
+    "hero": "Индустријске гасне боце спремне у фабрици",
+    "about": "Залиха цилиндара спремна за извоз са заштитном амбалажом",
+    "accessories": "Welding and cutting with gas cylinder accessories",
+    "products": [
+      "Acetylene gas cylinders in factory stock",
+      "Industrial gas production equipment",
+      "Propane cylinders ready for dispatch",
+      "Oxy-fuel cutting and cylinder accessories in use"
+    ],
+    "gallery": [
+      "Готова залиха цилиндара у фабрици",
+      "Производно заваривање у фабрици",
+      "Извозно паковање са заштитном мрежицом",
+      "Propane cylinders ready for dispatch",
+      "Испорука расутих цилиндара на камиону",
+      "Cylinder delivery transport",
+      "Global export shipping containers",
+      "Order packing and dispatch",
+      "Oxy-fuel cutting with gas cylinders",
+      "Precision craft welding",
+      "Manufacturing facility hall",
+      "Cylinder size range lineup"
+    ]
+  },
+  "accessoriesCatalog": {
+    "label": "Прибор",
+    "title": "Додатна опрема за производе",
+    "subtitle": "Делови за ацетиленске цилиндре, генераторе, заваривање и сечење. Отворите Детаљи за спецификације и апликације.",
+    "cta": "Захтевајте детаље",
+    "details": "Детаљи",
+    "close": "Затвори",
+    "featuresLabel": "Кључне карактеристике",
+    "specsLabel": "Спецификације",
+    "applicationsLabel": "Апликације",
+    "qualityLabel": "Квалитет и снабдевање",
+    "whyTitle": "Зашто одабрати наш прибор?",
+    "why": [
+      "Издржљиви месинг, нерђајући челик и индустријски материјали",
+      "Компатибилан са цилиндрима, генераторима, регулаторима, цревима и системима за заваривање",
+      "ОЕМ лого, паковање, величина везе, тип навоја и спецификације",
+      "Извозно паковање и стабилно снабдевање за међународне купце"
+    ],
+    "items": [
+      {
+        "title": "Ацетиленски повратни вентил",
+        "desc": "Спречава обрнути проток гаса и повратни пламен у системима за заваривање и сечење кисеоником-ацетиленом.",
+        "intro": "Неопходан сигурносни уређај за ацетиленске системе. Уграђени хватач пламена од синтерованог нерђајућег челика и дизајн једносмерног протока штите оператере, црева и гасоводе. Компатибилан са регулаторима, цревима и горионицима. ОЕМ лого, етикета и паковање су доступни.",
+        "features": [
+          "Уметак од синтерованог нерђајућег челика отпоран на пламен",
+          "Дизајн неповратног (једносмерног) тока",
+          "Тело од месинга високе чврстоће, отпорно на корозију",
+          "Поуздано заптивање под радним притиском",
+          "Стандардни прикључци за брзу инсталацију и замену"
+        ],
+        "specs": [
+          "Гас: ацетилен (Ц2Х2); одводници кисеоника се испоручују засебно",
+          "Тело: месинг; одводник: нерђајући челик",
+          "Прикључак: Г 3/8″ ЛХ или прилагођени навој",
+          "Радни притисак: до 1,5 МПа / прилагођено",
+          "Употреба: заваривање, сечење и загревање кисеоником-ацетиленом",
+          "Паковање: појединачна кутија, картон или прилагођено"
+        ],
+        "applications": [
+          "Заваривање и сечење кисеоником-ацетиленом",
+          "Регулатори, црева и склопови горионика",
+          "Гасни водови генератора ацетилена"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Тестови заптивања, притиска и функције флешбека",
+          "Извозно паковање за доставу на велике удаљености"
+        ]
+      },
+      {
+        "title": "Канистер генератора ацетилена",
+        "desc": "Језгро канистера за стабилно стварање ацетилена из калцијум карбида у индустријским гасним системима.",
+        "intro": "Канистер генератора је главна посуда система за производњу ацетилена. Испоручује се за стабилну производњу гаса у заваривању, резању и на местима без централизованог снабдевања цилиндаром. Капацитет, цевовод и сигурносни оквир могу се ускладити са моделом генератора.",
+        "features": [
+          "Контејнер језгра за системе генератора ацетилена",
+          "Направљен за стабилну производњу гаса од калцијум карбида",
+          "Може се комбиновати са филтрационим и сигурносним вентилима",
+          "Индустријски и компактни распореди генератора",
+          "ОЕМ ознака, прикључци и паковање на захтев"
+        ],
+        "specs": [
+          "Улога: монтажа канистера генератора / контејнера",
+          "Типични излазни опсег повезаних генератора: 3–100 м³/х",
+          "Радни притисак повезаних јединица: око 1,5–5 кПа",
+          "Испоручује се са хлађењем, филтерима и резервним деловима на захтев",
+          "Прикључци, капацитет и трим потврђени по наруџбини"
+        ],
+        "applications": [
+          "Постројења за генераторе ацетилена и преносиве јединице",
+          "Радионице без централизованог снабдевања цилиндаром",
+          "Индустријско заваривање и производња гаса за резање"
+        ],
+        "quality": [
+          "Фабричко усклађивање са моделом генератора",
+          "Извозно паковање и документација",
+          "Подаци о капацитету и прикључку потврђени пре испоруке"
+        ]
+      },
+      {
+        "title": "Цуттинг Торцх",
+        "desc": "Издржљив оксид-ацетиленски горионик за прецизне резове, стабилан пламен и високу продуктивност.",
+        "intro": "Професионални ацетиленски горионик за чисте, прецизне резове. Тело од месинга са цевима од нерђајућег челика, ергономском ручком и заменљивим млазницама. Компатибилан са ацетиленом и кисеоником и са стандардним врховима.",
+        "features": [
+          "Врхунска конструкција од месинга и нерђајућег челика",
+          "Стабилан пламен и прецизна контрола резања",
+          "Дизајн фокусиран на безбедност за смањење ризика од повратног удара",
+          "Ергономска ручка, лака за склапање и сервисирање",
+          "Ради са стандардним млазницама, врховима и сетовима црева"
+        ],
+        "specs": [
+          "Модел: ЦТ-01 бакља за сечење",
+          "Гас: ацетилен + кисеоник",
+          "Дебљина сечења: 3–300 мм (зависно од млазнице и притиска)",
+          "Радни притисак: Ц₂Х₂ 0,02–0,15 МПа; О₂ 0,2–1,0 МПа",
+          "Конектор: Г5/8-14 или прилагођен",
+          "Дужина: прибл. 460 мм",
+          "Паковање: 1 ком/кутија, 10 ком/картон"
+        ],
+        "applications": [
+          "Резање плоча, цеви и профила од угљеничног челика",
+          "Радње за производњу, бродоградилишта и грађевинарство",
+          "Индустријско одржавање и сечење на лицу места"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Провера изгледа, везе, заптивања и функције",
+          "Извозно паковање за доставу на велике удаљености"
+        ]
+      },
+      {
+        "title": "Угаони вентил са унутрашњим/спољним навојем",
+        "desc": "Угаони вентил цилиндра за тешке услове рада са опцијама унутрашњег или спољашњег навоја за тржишне стандарде.",
+        "intro": "Угаони вентили за ацетилен и друге индустријске гасове: робусно тело од месинга, прецизно заптивање и несметан рад ручног точка. Унутрашњи или спољни навој у складу са стандардима за цилиндар и опрему.",
+        "features": [
+          "Издржљиво тело од месинга, отпорно на корозију",
+          "Високо прецизна обрада за поуздано заптивање",
+          "Могућности повезивања унутрашњег или спољашњег навоја",
+          "Ергономски ручни точак за лако отварање/затварање",
+          "100% безбедност и провера функције"
+        ],
+        "specs": [
+          "Гас: ацетилен, кисеоник, аргон, азот и компатибилни гасови",
+          "Радни притисак: класа 25 / 35 бара",
+          "Испитни притисак: класа 37,5 / 52,5 бара",
+          "Улаз/излаз: унутрашњи или екстерни, прилагођени",
+          "Ручни точак: алуминијум / легура цинка",
+          "Температура: -20 °Ц до +60 °Ц",
+          "Стандарди: ИСО 10297, ГБ/Т 8335, ЦГА или прилагођени",
+          "Паковање: 1 ком/кеса, 50 ком/кутија"
+        ],
+        "applications": [
+          "Боце за ацетилен и индустријски гас",
+          "Гасни системи за заваривање и сечење",
+          "Радионице, постројења и лабораторијско снабдевање гасом"
+        ],
+        "quality": [
+          "Провере материјала, обраде, цурења и изгледа",
+          "Извозно паковање за транспорт на велике удаљености",
+          "Величина нити и стандард потврђени по тржишту"
+        ]
+      },
+      {
+        "title": "Обујмица за црево за кисеоник",
+        "desc": "Стезаљка са пужним погоном од нерђајућег челика за сигурне, отпорне на цурење спојеве кисеоника и индустријских црева.",
+        "intro": "Обујмице за црева за кисеоник од нерђајућег челика за заваривање и индустријску употребу. Јака сила стезања, отпорност на рђу и ивице погодне за црева. За вишекратну употребу и лако се инсталира.",
+        "features": [
+          "Нерђајући челик 201 / 304",
+          "Јака сила стезања и сигурно причвршћивање",
+          "Отпорност на рђу, корозију и оксидацију",
+          "Глатке ивице траке помажу у заштити црева",
+          "Лако се инсталира, уклања и поново користи"
+        ],
+        "specs": [
+          "Тип: обујмица за црево са пужним погоном",
+          "Опсег црева: 8–100 мм, прилагођене величине за расути терет",
+          "Ширина траке: 9 / 12 мм; дебљина 0,6–0,8 мм",
+          "Вијак: прорезна или шестоугаона глава",
+          "Стандарди: ДИН 3017 / САЕ Ј1508",
+          "Завршна обрада: полирана",
+          "Паковање: 100 ком / врећа, 10 врећа / картон или по наруџби"
+        ],
+        "applications": [
+          "Црева за кисеоник и гориво за заваривање и сечење",
+          "Спојеви црева цилиндара, регулатора и горионика",
+          "Фабрика, радионица и линије за одржавање"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Величина, трака и паковање се могу прилагодити",
+          "Квалитетно паковање за извоз"
+        ]
+      },
+      {
+        "title": "Кисеоничке цеви",
+        "desc": "Флексибилно црево за кисеоник под високим притиском са дугим веком трајања за заваривање, сечење и снабдевање индустријским гасом.",
+        "intro": "Цијеви за кисеоник направљене за сигуран пренос гаса под притиском. Флексибилан, отпоран на савијање и хабање, са глатким унутрашњим зидом за стабилан проток. Више ИД-ова и дужина за заваривање и спајање цилиндара.",
+        "features": [
+          "Висок радни притисак и притисак на пуцање",
+          "Флексибилна конструкција отпорна на савијање",
+          "Отпорност на старење, озон и хабање",
+          "Глатки унутрашњи зид за стабилан проток гаса",
+          "Лаган и лак за руковање"
+        ],
+        "specs": [
+          "Гас: кисеоник",
+          "Радни притисак: 20 бар / 290 пси",
+          "Притисак пуцања: 60 ​​бар / 870 пси",
+          "ИД: 6 / 8 / 9 / 10 / 12 / 13 мм (доступно по наруџби)",
+          "Дужина: 10 / 20 / 30 / 50 / 100 м или по мери",
+          "Боја: плава стандардна; материјал СБР / ЕПДМ + полиестерско предиво",
+          "Стандарди: ИСО 3821 / ЕН 559 / ГБ/Т 20098",
+          "Температура: -20 °Ц до +80 °Ц"
+        ],
+        "applications": [
+          "Снабдевање кисеоником за заваривање и сечење",
+          "Прикључак црева цилиндар-регулатор",
+          "Фабрике, радионице и индустријски гасовод"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Пречник, дужина, боја и етикета се могу прилагодити",
+          "Извозно паковање: скупљање / ткана торба / картон"
+        ]
+      },
+      {
+        "title": "Манометар",
+        "desc": "Тачан приказ притиска за кисеоник, ацетилен и друге индустријске гасове.",
+        "intro": "Мерачи за ацетилен, кисеоник и индустријске гасове: јасан бројчаник, издржљива конструкција и стабилна очитавања на цилиндрима, регулаторима и цевоводима. Више опсега и веза за ОЕМ и извоз.",
+        "features": [
+          "Висока тачност и стабилне перформансе",
+          "Јасан бројчаник за лако читање",
+          "Индустријска конструкција отпорна на ударце",
+          "Материјали отпорни на корозију",
+          "Више опсега и доњи/позади носачи"
+        ],
+        "specs": [
+          "Гас: ацетилен, кисеоник, аргон, ЦО₂, азот и компатибилни гасови",
+          "Бројчаник: 50 / 63 / 100 мм, доступан по мери",
+          "Опсег: 0–1 бар до 0–400 бара, прилагођено",
+          "Тачност: ±2,5% стандардно, ±1,6% опционо",
+          "Навој: Г1/4, Г1/8, НПТ1/4, М12×1.5 или прилагођени",
+          "Кућиште: црни челик / нерђајући опционо; конектор месинг или СС",
+          "Прозор: стакло или поликарбонат; -20 °Ц до +60 °Ц",
+          "Паковање: 1 ком/кутија, 50 ком/картон"
+        ],
+        "applications": [
+          "Гасне боце и регулатори притиска",
+          "Цевоводи и индустријски гасни системи",
+          "Заваривање и сечење панела са кисеоником-ацетиленом"
+        ],
+        "quality": [
+          "100% тестирање пре испоруке",
+          "ОЕМ бирање и опције брендирања",
+          "Извозно паковање"
+        ]
+      },
+      {
+        "title": "Сигурносни вентил",
+        "desc": "Аутоматски ослобађа вишак притиска ради заштите цилиндара, цевовода и оператера.",
+        "intro": "Сигурносни вентили аутоматски испуштају надпритисак ради заштите опреме и особља. Погодно за кисеоник, ацетилен, ваздух, азот и компатибилне гасове. Компактно тело од месинга, вишеструки притисци и величине навоја.",
+        "features": [
+          "Аутоматска заштита од прекомерног притиска",
+          "Стабилно олакшање под високим притиском",
+          "Тело од месинга, отпорно на топлоту и корозију",
+          "Компактан дизајн за једноставну инсталацију и сервис",
+          "Више подешених притисака и величина навоја"
+        ],
+        "specs": [
+          "Гас: кисеоник, ацетилен, ваздух, азот и компатибилни гасови",
+          "Радни притисак: до 25 бара / 25 кг/цм²",
+          "Опсег рељефа: 0,1–2,5 МПа, прилагодљив",
+          "Температура: -20 °Ц до +120 °Ц",
+          "Веза: мушко/женско; 1/4″, 3/8″, 1/2″, 3/4″ БСП/НПТ",
+          "Тело: месинг; заптивка: НБР / ПТФЕ",
+          "Класа притиска тела: 25 / 35 бара",
+          "Паковање: 1 ком/кутија, 50 ком/картон"
+        ],
+        "applications": [
+          "Заштита цилиндара и колектора од превисоког притиска",
+          "Индустријска гасна опрема и цевоводи",
+          "Системи за заваривање и сечење кисеоником"
+        ],
+        "quality": [
+          "100% тестирање пре испоруке",
+          "Подешени притисак, навој и паковање се могу прилагодити",
+          "Извозно паковање"
+        ]
+      },
+      {
+        "title": "Велдинг Торцх",
+        "desc": "Ергономски горионик за заваривање са кисеоником са глатком контролом пламена за заваривање, лемљење и грејање.",
+        "intro": "Горионик за заваривање високих перформанси за рад са кисеоником и горивом: стабилан пламен, прецизна контрола и издржљиво тело од месинга. Бакарни врхови, заменљиве млазнице и прикључци црева за радионичку и индустријску употребу.",
+        "features": [
+          "Стабилан пламен за заваривање и поправку метала",
+          "Глатки проток гаса и прецизна контрола пламена",
+          "Издржљиво тело од месинга, отпорно на топлоту и корозију",
+          "Ергономска ручка за удобан рад",
+          "Компатибилан са кисеоником, ацетиленом и опционим пропаном"
+        ],
+        "specs": [
+          "Тип: кисеоник-ацетиленски горионик за заваривање",
+          "Тело: месинг; врх: бакар, заменљив",
+          "Прикључак за црево: Г1/4″ или 9/16″-18 УНФ",
+          "Радни притисак: О₂ 0,2–1,0 МПа; Ц₂Х₂ 0,01–0,15 МПа",
+          "Температура: -20 °Ц до +60 °Ц",
+          "Употреба: заваривање, лемљење, грејање; сечење са одговарајућим врховима",
+          "Паковање: 1 ком/кутија, 10 ком/картон"
+        ],
+        "applications": [
+          "Кисеонично-ацетиленско заваривање и поправка",
+          "Лемљење, загревање и спајање",
+          "Радионице и индустријско одржавање"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Стил бакље, конектор, паковање и логотип могу бити ОЕМ",
+          "Провере материјала, цурења и изгледа"
+        ]
+      },
+      {
+        "title": "Филтер Цонвертер Хеад",
+        "desc": "Повезује филтерски елемент са регулатором или цевоводом за ефикасну филтрацију гаса.",
+        "intro": "Глава претварача филтера је веза између филтерског елемента и регулатора или гасовода. Он поставља елемент, одржава правац протока исправним и чини сервис и замену једноставним у цилиндрима и дистрибутивним системима.",
+        "features": [
+          "Повезује филтерски елемент са регулатором или цевоводом",
+          "Подржава ефикасну филтрацију у гасоводу",
+          "Индустријска конструкција од месинга / метала",
+          "Стандардни портови са навојем за усклађивање система",
+          "ОЕМ конац, величина и паковање на захтев"
+        ],
+        "specs": [
+          "Улога: претварач филтера / глава адаптера",
+          "Употреба: склопови регулатора, цевовода и филтера цилиндара",
+          "Величина везе и навој потврђени по наруџбини",
+          "У комбинацији са филтерским елементима и посудама као комплет ако је потребно"
+        ],
+        "applications": [
+          "Дистрибуција гаса пре регулатора и алата",
+          "Филтерски склопови цилиндара и генератора",
+          "Радионички и индустријски гасовод"
+        ],
+        "quality": [
+          "Величина везе потврђена пре производње",
+          "Извозно паковање",
+          "Може се испоручити са одговарајућим филтерским елементима"
+        ]
+      },
+      {
+        "title": "Филтер",
+        "desc": "Високо ефикасан филтер који уклања влагу, уље и честице ради заштите опреме која се налази испод.",
+        "intro": "Уклања чврсте честице, воду, уље и друге нечистоће из струје гаса како би заштитио опрему и продужио радни век. Глава од месинга, квалитетан елемент и стабилан рад под притиском. За кисеоник, ацетилен, ваздух, азот и компатибилне гасове.",
+        "features": [
+          "Високоефикасна филтрација за чист проток гаса",
+          "Уклања влагу, уље и честице",
+          "Издржљива месингана глава и метална посуда",
+          "Одвојиви елемент за чишћење или замену",
+          "Стабилан рад под радним притиском"
+        ],
+        "specs": [
+          "Гас: кисеоник, ацетилен, ваздух, азот и компатибилни гасови",
+          "Улазни притисак: до 2,5 МПа",
+          "Радни притисак: 0,01–1,6 МПа",
+          "Прецизност: 5 / 20 / 50 μм опционо",
+          "Веза: Г1/4″, Г3/8″, Г1/2″, Г3/4″ опционо",
+          "Тело: месинг; елемент: синтерована бронза / нерђајући челик",
+          "Температура: -20 °Ц до +60 °Ц",
+          "Паковање: 1 ком/кутија, 20 ком/картон"
+        ],
+        "applications": [
+          "Цилиндар, регулатор и дистрибутивни системи",
+          "Фабрике, радионице и индустријски гасовод",
+          "Чистији проток за заваривање, сечење и лабораторијско снабдевање"
+        ],
+        "quality": [
+          "100% инспекција пре испоруке",
+          "Навој, тачност и елемент се могу прилагодити",
+          "Извозно паковање"
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "label": "Правна",
+    "title": "Политика приватности",
+    "updated": "Последње ажурирање: 25. августа 2026",
+    "intro": [
+      "Ванда Гроуп („ми“, „нас“) управља овом веб-страницом како би представила боце за гас, прибор и сродну извозну понуду, као и за примање комерцијалних упита од индустријских купаца.",
+      "Ова политика објашњава које личне податке прикупљамо преко сајта, зашто их користимо и како можете да нас контактирате у вези са тим. Не објављујемо фабричке видео записе или фајлове сертификата на веб локацији; ти материјали се шаљу приватно на захтев."
+    ],
+    "sections": [
+      {
+        "title": "Ко је одговоран",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Које податке прикупљамо",
+        "body": [
+          "Када пошаљете упитник добијамо податке које унесете: име, е-маил, телефон, одредишну земљу, тип производа, количину и поруку.",
+          "Сајт такође чува ваш избор језика у претраживачу (лоцалСтораге). Не покрећемо рекламне колачиће нити продајемо листе посетилаца."
+        ]
+      },
+      {
+        "title": "Зашто користимо податке",
+        "body": [
+          "Податке о упитима користимо само да бисмо одговорили на ваш захтев, припремили понуду, послали информације о производу, видео записе или сертификате које сте тражили и да бисмо координирали поруџбину ако почнемо да радимо заједно.",
+          "Правни основ: ваш пристанак када означите поље за потврду на обрасцу и наш легитимни интерес да одговоримо на захтеве Б2Б продаје."
+        ]
+      },
+      {
+        "title": "Ко прима податке",
+        "body": [
+          "Ваша порука се доставља нашем продајном тиму путем е-поште. У зависности од конфигурације, образац може да обрађује ФормСубмит или Формспрее као технички провајдер који нам шаље поруку.",
+          "Ми не продајемо личне податке. Можемо да поделимо оно што је потребно са логистичким, инспекцијским или банкарским партнерима само ако је то потребно за испуњење договореног налога."
+        ]
+      },
+      {
+        "title": "Колико дуго га чувамо",
+        "body": [
+          "Подаци о упитима се чувају онолико дуго колико је потребно за обраду захтева и разуман период након тога за праћење продаје и рачуноводство, осим ако од нас затражите да их избришемо раније где закон дозвољава."
+        ]
+      },
+      {
+        "title": "Ваша права",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Обезбеђење и деца",
+        "body": [
+          "Предузимамо разумне техничке и организационе кораке да заштитимо поруке у транспорту иу нашем поштанском сандучету. Ова веб страница је намењена пословним купцима, а не деци."
+        ]
+      }
+    ],
+    "contactLead": "Питања о овој политици:"
+  }
+}
