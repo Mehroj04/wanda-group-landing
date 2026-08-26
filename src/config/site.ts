@@ -19,12 +19,7 @@ export function siteLocation(lang: string) {
   return siteConfig.location.en
 }
 
-/** Public Web3Forms key (safe in the browser). Empty if not set at build time. */
-export function getWeb3FormsAccessKey() {
-  return String(import.meta.env.VITE_WEB3FORMS_ACCESS_KEY || '').trim()
-}
-
-/** Server backup if the browser cannot reach Web3Forms. */
+/** Server route; Web3Forms key stays on Vercel as WEB3FORMS_ACCESS_KEY. */
 export function getFormEndpoint() {
   return {
     provider: 'self' as const,

@@ -2,7 +2,7 @@ import { useState, type FormEvent } from 'react'
 
 import { useLanguage } from '../i18n/LanguageContext'
 
-import { siteConfig, getFormEndpoint, getWeb3FormsAccessKey, siteLocation } from '../config/site'
+import { siteConfig, getFormEndpoint, siteLocation } from '../config/site'
 import { trackLead } from '../config/analytics'
 
 import ScrollReveal from './ScrollReveal'
@@ -88,59 +88,6 @@ export default function Contact() {
       country: String(payload.country || ''),
       message: String(payload.message || ''),
       language: lang,
-    }
-
-    const message = [
-      quote.message || '(no additional requirements)',
-      '',
-      `Name: ${quote.name}`,
-      `Company: ${quote.company || '-'}`,
-      `Email: ${quote.email}`,
-      `Phone / WhatsApp: ${quote.phone || '-'}`,
-      `Product: ${quote.product}`,
-      `Quantity: ${quote.quantity || '-'}`,
-      `Country: ${quote.country || '-'}`,
-      `Language: ${quote.language}`,
-    ].join('\n')
-
-    try {
-      const web3Key = getWeb3FormsAccessKey()
-      if (web3Key) {
-        const body = new URLSearchParams({
-          access_key: web3Key,
-          from_name: 'Wanda Groups website',
-          subject: `Wanda Group Quote — ${quote.product} — ${quote.name}`,
-          name: quote.name,
-          email: quote.email,
-          replyto: quote.email,
-          company: quote.company,
-          phone: quote.phone,
-          product: quote.product,
-          quantity: quote.quantity,
-          country: quote.country,
-          language: quote.language,
-          message,
-        })
-        const res = await fetch('https://api.web3forms.com/submit', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded', Accept: 'application/json' },
-          body,
-        })
-        const data = await res.json().catch(() => null)
-        if (res.ok && data?.success === true) {
-          trackLead('quote_form', {
-            product: quote.product,
-            country: quote.country || 'unknown',
-            language: quote.language,
-            channel: 'web3forms',
-          })
-          setStatus('success')
-          form.reset()
-          return
-        }
-      }
-    } catch {
-      // try the site API next
     }
 
     try {
