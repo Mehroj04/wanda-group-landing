@@ -7,9 +7,9 @@ export const siteConfig = {
   wechat: '+86 130 8285 5282',
   wechatQr: '/images/wechat-qr.png',
   location: {
-    ru: 'ул. Хуанхэдун, 58, г. Цанчжоу, провинция Хэбэй, Китай',
-    en: '58, Huanghedong Street, Cangzhou, Hebei Province, China',
-    zh: '中国河北省沧州市黄河东街58号',
+    ru: 'ул. Хуанхэдун, 58, г. Цанчжоу, провинция Хэбэй, 061000, Китай',
+    en: '58, Huanghedong Street, Cangzhou, Hebei Province 061000, China',
+    zh: '中国河北省沧州市黄河东街58号 061000',
   },
 }
 
