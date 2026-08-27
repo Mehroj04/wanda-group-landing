@@ -73,8 +73,35 @@
   font-size: 1.125rem;
   color: var(--color-text-muted);
   line-height: 1.7;
-  margin-bottom: 32px;
+  margin-bottom: 18px;
   max-width: 540px;
+}
+
+.hero__lines {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 28px;
+}
+
+.hero__line {
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 14px;
+  border: 1px solid rgba(255, 107, 43, 0.55);
+  border-radius: 100px;
+  background: rgba(255, 107, 43, 0.14);
+  color: #fff;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  transition: border-color var(--transition), background var(--transition);
+}
+
+.hero__line:hover {
+  border-color: var(--color-primary);
+  background: rgba(255, 107, 43, 0.16);
 }
 
 .hero__actions {
@@ -128,7 +155,11 @@
 
   .hero__subtitle {
     font-size: 1rem;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
+  }
+
+  .hero__lines {
+    margin-bottom: 22px;
   }
 
   .hero__actions {

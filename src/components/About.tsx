@@ -1,5 +1,7 @@
+import { Link } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images } from '../config/images'
+import { routes } from '../config/routes'
 import './About.css'
 
 export default function About() {
@@ -32,7 +34,7 @@ export default function About() {
               </li>
             ))}
           </ul>
-          <a href="#contact" className="btn btn-primary">{t.nav.getQuote}</a>
+          <Link to={routes.contact} className="btn btn-primary">{t.nav.getQuote}</Link>
         </div>
       </div>
     </section>

@@ -14,32 +14,43 @@
     "pricing": "Harga",
     "accessories": "Aksesori",
     "home": "Rumah",
-    "factory": "Kilang"
+    "factory": "Kilang",
+    "refrigeration": "Cold storage",
+    "cooling": "Cooling",
+    "certifications": "Certifications",
+    "oem": "OEM",
+    "markets": "Markets"
   },
   "hero": {
-    "badge": "Pengeluar Silinder Gas",
-    "title": "Silinder-silinder Gas yang Boleh Dipercayai untuk Industri & Kimpalan",
-    "subtitle": "Wanda Group adalah pengeluar dan pembekal asetilena, silinder propana dan aksesori yang dipercayai. Penyelesaian untuk bekalan gas, kimpalan, pemotongan dan penyimpanan di seluruh dunia.",
-    "cta": "Dapatkan Sebut Harga",
-    "ctaSecondary": "Produk-produk Kami",
+    "badge": "Industrial Gas Cylinder Manufacturer",
+    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
+    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "cta": "Get a Quote",
+    "ctaSecondary": "View Products",
     "stats": [
       {
-        "value": "15+",
-        "label": "Bertahun Pengalaman"
+        "value": "Factory Direct",
+        "label": "Manufacturer-focused supply"
       },
       {
-        "value": "500K+",
-        "label": "Kapasiti Pengeluaran / Tahun"
+        "value": "OEM",
+        "label": "Private label and customization"
       },
       {
-        "value": "50+",
-        "label": "Pasaran Eksport"
+        "value": "Export",
+        "label": "International shipping support"
       },
       {
-        "value": "ISO / DOT / TPED",
-        "label": "Kualiti & Pensijilan"
+        "value": "QC",
+        "label": "Inspection and testing process"
+      },
+      {
+        "value": "Standards",
+        "label": "Market-specific options on request"
       }
-    ]
+    ],
+    "lineGas": "Gas cylinders",
+    "lineCold": "Refrigeration units"
   },
   "accessories": {
     "title": "Aksesori Silinder Gas Boleh Dipercayai",
@@ -54,7 +65,7 @@
         "title": "Silinder Asetilena",
         "desc": "Silinder asetilena terlarut untuk kimpalan, pemotongan dan gas industri. Pelbagai saiz dan pilihan injap.",
         "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2–40 L · ISO / DOT / TPED"
       },
       {
         "title": "Penjana Asetilena",
@@ -66,7 +77,7 @@
         "title": "Silinder Propana",
         "desc": "Silinder tahan lama untuk propana dan LPG — penyimpanan, pemanasan, pemotongan dan kegunaan industri.",
         "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3–50 L · POL / CGA / GOST"
       },
       {
         "title": "Aksesori Silinder",
@@ -112,32 +123,36 @@
     ]
   },
   "whyUs": {
-    "title": "Mengapa Kumpulan Wanda?",
-    "subtitle": "Pengilangan langsung, penyesuaian dan sokongan eksport penuh — semuanya untuk perniagaan anda.",
+    "title": "Why Choose Wanda Groups",
+    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
     "items": [
       {
-        "title": "Kualiti Tinggi",
-        "desc": "Silinder keluli dibina untuk kimpalan industri dan bekalan gas."
+        "title": "Manufacturer-focused supply",
+        "desc": "Product supply oriented around production, not only trading catalogues."
       },
       {
-        "title": "Kawalan Kualiti yang Ketat",
-        "desc": "Pemeriksaan dari bahan masuk hingga pembungkusan akhir."
+        "title": "OEM support",
+        "desc": "Custom colour, marking, valve and packing discussed per order."
       },
       {
-        "title": "Pembuatan Termaju",
-        "desc": "Membentuk, mengimpal, menguji dan menyelesaikan dalam satu loji."
+        "title": "Quality control",
+        "desc": "Inspection from materials through packing before shipment."
       },
       {
-        "title": "OEM / ODM",
-        "desc": "Warna, injap, penandaan, penutup dan pembungkusan mengikut pesanan."
+        "title": "International export",
+        "desc": "Export packing and shipping coordination for overseas buyers."
       },
       {
-        "title": "Eksport Antarabangsa",
-        "desc": "Dokumen dan pembungkusan untuk pembeli industri luar negara."
+        "title": "Product customization",
+        "desc": "Specifications adapted to market and application requirements."
       },
       {
-        "title": "Penghantaran Boleh Dipercayai",
-        "desc": "Masa utama biasa 15–25 hari selepas pengesahan pesanan."
+        "title": "Responsive sales support",
+        "desc": "Quotes and technical replies through form, email and messengers."
+      },
+      {
+        "title": "Bulk order capability",
+        "desc": "Wholesale quantities supported for distributors and project buyers."
       }
     ]
   },
@@ -147,76 +162,90 @@
     "text2": "Kami menyokong pembeli luar negara dalam pemilihan produk, penyesuaian, pemeriksaan kualiti, pembungkusan dan penyelarasan penghantaran.",
     "facts": [
       {
-        "title": "Pengalaman",
-        "desc": "15+ tahun membekalkan silinder gas industri."
+        "title": "Manufacturing",
+        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
       },
       {
-        "title": "Pengeluaran",
-        "desc": "Pembentukan dalaman, kimpalan, ujian dan kemasan."
+        "title": "OEM Support",
+        "desc": "Colour, marking, valve, cap and packing options by order."
       },
       {
-        "title": "Kualiti",
-        "desc": "Pilihan ISO 9809, DOT dan TPED mengikut pasaran."
+        "title": "Quality Process",
+        "desc": "Inspection and testing aligned with order and market requirements."
       },
       {
-        "title": "Eksport",
-        "desc": "Penghantaran diselaraskan untuk 50+ pasaran destinasi."
+        "title": "International Export",
+        "desc": "Documentation and packing support for overseas industrial buyers."
       }
     ]
   },
   "gallery": {
     "title": "Di Dalam Kilang Kami",
-    "subtitle": "Pengeluaran, kimpalan, ujian, pengecatan dan silinder siap — cara kami menyediakan pesanan eksport.",
+    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
     "items": [
       {
-        "title": "Stok silinder siap",
-        "desc": "Inventori sedia di kilang kami — kapasiti volum untuk pesanan borong dan eksport."
+        "title": "Night dispatch",
+        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
       },
       {
-        "title": "Kimpalan pengeluaran",
-        "desc": "Fabrikasi logam di lantai kilang dengan bekalan gas industri."
+        "title": "Cargo staged for shipment",
+        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
       },
       {
-        "title": "Pembungkusan eksport",
-        "desc": "Mesh pelindung dan pembungkusan palet sebelum penghantaran antarabangsa."
+        "title": "Packed stock",
+        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
       },
       {
-        "title": "Propane ready for dispatch",
-        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+        "title": "Packed for dispatch",
+        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
       },
       {
-        "title": "Penghantaran silinder pukal",
-        "desc": "Muatan sangkar selamat untuk pengangkutan jalan kepada pengedar dan loji."
+        "title": "Production conveyor",
+        "desc": "Cylinder bodies moving through the forming and handling line."
       },
       {
-        "title": "Delivery on the road",
-        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+        "title": "LPG finishing line",
+        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
       },
       {
-        "title": "Global export containers",
-        "desc": "Container logistics for overseas partners and long-haul orders."
+        "title": "Inside the plant",
+        "desc": "The production hall — people, machines and in-process stock."
       },
       {
-        "title": "Order packing & dispatch",
-        "desc": "Careful packing and outbound handling for accessories and spare parts."
+        "title": "Welded cylinder bodies",
+        "desc": "Shells after circumferential welding, before painting and valves."
       },
       {
-        "title": "Oxy-fuel cutting in use",
-        "desc": "Real workshop application with oxygen and acetylene cylinders."
+        "title": "Shells before painting",
+        "desc": "Unpainted bodies batched on the floor for the next process step."
       },
       {
-        "title": "Precision craft welding",
-        "desc": "Skilled production work that reflects our quality standard."
+        "title": "In-process stock",
+        "desc": "Tube sections and capped shells waiting for assembly."
       },
       {
-        "title": "Manufacturing facility",
-        "desc": "Clean industrial halls with crane systems for heavy production."
+        "title": "Cylinder bodies in stock",
+        "desc": "Rolled shells stacked after welding, before heads and valves."
       },
       {
-        "title": "Julat saiz silinder",
-        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+        "title": "Base rings",
+        "desc": "Foot rings prepared for welding onto cylinder shells."
+      },
+      {
+        "title": "Packed fittings",
+        "desc": "Valves and fittings boxed with foam for export shipment."
+      },
+      {
+        "title": "Acetylene generator",
+        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+      },
+      {
+        "title": "Shells on the floor",
+        "desc": "Open-neck bodies after welding — the batch before valve fitment."
       }
-    ]
+    ],
+    "videosTitle": "Factory videos",
+    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
   },
   "quality": {
     "title": "Kawalan Kualiti",
@@ -422,7 +451,8 @@
       "Silinder Propana",
       "Penjana Asetilena",
       "Aksesori",
-      "Susunan Bundel"
+      "Susunan Bundel",
+      "Cold storage / refrigeration"
     ],
     "message": "Keperluan tambahan *",
     "messagePlaceholder": "Produk, saiz, kuantiti, negara destinasi...",
@@ -436,14 +466,17 @@
     "privacySuffix": "dan pemprosesan data peribadi saya untuk mengendalikan siasatan ini.",
     "privacyLink": "Dasar Privasi",
     "company": "Syarikat",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "Hantar melalui aplikasi e-mel"
+    "emailFallback": "Laman web tidak dapat menghantar secara automatik. Klik butang di bawah — aplikasi e-mel akan terbuka dengan mesej sedia untuk sales@wandagroups.com.",
+    "emailAppButton": "Hantar melalui aplikasi e-mel",
+    "termsAnd": " and the ",
+    "termsLink": "Terms of Use"
   },
   "footer": {
     "company": "Pengeluar Silinder Gas Kumpulan Wanda",
     "tagline": "Pembuatan Silinder Gas Profesional",
     "rights": "© 2026 Kumpulan Wanda. Hak cipta terpelihara.",
-    "privacy": "Dasar Privasi"
+    "privacy": "Dasar Privasi",
+    "terms": "Terms of Use"
   },
   "ui": {
     "catalog": "Katalog",
@@ -474,21 +507,18 @@
     "gallery": "Galeri",
     "quality": "Kualiti",
     "faq": "Soalan Lazim",
-    "blog": "Blog",
+    "blog": "Artikel",
     "countriesServed": "Negara yang berkhidmat",
     "searchLanguage": "Cari bahasa...",
     "noLanguagesFound": "Tiada bahasa ditemui"
   },
   "trustMarquee": [
-    "ISO 9809-1",
-    "DOT 3AA",
-    "TPED",
-    "GB 5099",
-    "CE",
-    "OEM/ODM",
-    "Eksport ke 50+ Negara",
-    "MOQ dari 100 pcs",
-    "Masa Utama 15–25 Hari"
+    "Factory Direct",
+    "OEM / Private Label",
+    "International Export",
+    "Quality Control",
+    "Market Standards on Request",
+    "Bulk Orders"
   ],
   "productDetails": {
     "tabs": {
@@ -712,7 +742,7 @@
       "headers": [
         "kategori",
         "model",
-        "Standard",
+        "Piawaian",
         "Permohonan"
       ],
       "rows": [
@@ -905,7 +935,7 @@
   },
   "certifications": {
     "title": "Pensijilan & Piawaian",
-    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -960,25 +990,25 @@
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Apa kata pembeli",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "quote": "Kami memesan semula silinder asetilena 40 L tiga kali tahun ini. Injap GOST, warna OEM dan pembungkusan eksport sentiasa sepadan dengan sampel pertama.",
         "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "role": "Pemilik, pengedar gas kimpalan",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Sebut harga tiba pada hari yang sama dengan MOQ dan masa hantar yang jelas. Botol propana tiba dengan injap POL dan senarai pembungkusan penuh — tiada kelewatan kastam di pihak kami.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
+        "role": "Pengurus perolehan, bekalan industri",
         "country": "Kazakhstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Kami membeli silinder bersama pengawal selia dan hos dalam satu pesanan kontena. Dokumen dan penandaan sedia untuk pasaran kami, jadi jualan semula berjalan lancar.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Pembeli import, perdagangan peralatan gas",
+        "country": "Arab Saudi"
       }
     ]
   },
@@ -1042,7 +1072,7 @@
       {
         "id": "eksport",
         "eyebrow": "Eksport global",
-        "title": "Dikemas untuk pelabuhan, sedia untuk 50+ negara",
+        "title": "Packed for ports, ready for 50+ countries",
         "text": "Eksport palet, perlindungan injap, label berbilang bahasa dan dokumen penghantaran yang diselaraskan untuk Incoterms destinasi anda.",
         "points": [
           "Sokongan FOB / CIF",
@@ -1053,28 +1083,37 @@
     ]
   },
   "imageAlts": {
-    "hero": "Silinder gas industri sedia di kilang",
-    "about": "Stok silinder sedia eksport dengan pembungkusan pelindung",
+    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
+    "about": "Workers on the Wanda Group factory floor",
     "accessories": "Welding and cutting with gas cylinder accessories",
     "products": [
       "Acetylene gas cylinders in factory stock",
-      "Industrial gas production equipment",
+      "Acetylene generator photographed at the plant",
       "Propane cylinders ready for dispatch",
       "Oxy-fuel cutting and cylinder accessories in use"
     ],
     "gallery": [
-      "Stok silinder siap di kilang",
-      "Kimpalan pengeluaran di lantai kilang",
-      "Eksport pembungkusan dengan jaringan pelindung",
-      "Propane cylinders ready for dispatch",
-      "Penghantaran silinder pukal pada trak",
-      "Cylinder delivery transport",
-      "Global export shipping containers",
-      "Order packing and dispatch",
-      "Oxy-fuel cutting with gas cylinders",
-      "Precision craft welding",
-      "Manufacturing facility hall",
-      "Cylinder size range lineup"
+      "Night dispatch: wrapped equipment loaded on a trailer",
+      "Pallets and metal parts staged for shipment",
+      "Cartons of packed stock stacked in the warehouse",
+      "Cylinders wrapped in film, staged in the factory yard",
+      "Gas cylinder production conveyor under the plant roof",
+      "LPG cylinders hanging on the overhead finishing conveyor",
+      "Workers walking the Wanda Group factory floor",
+      "Unpainted welded propane cylinder bodies stacked two-high",
+      "Rows of unpainted cylinder shells on the concrete floor",
+      "Cylinder tube stock and capped shells in the workshop",
+      "Stacked raw cylinder bodies against the factory wall",
+      "Steel base rings piled before assembly",
+      "Brass fittings packed in a carton with foam",
+      "Acetylene generator with hose and boxed accessories",
+      "Unpainted cylinder shells with open necks after welding"
+    ],
+    "refrigeration": [
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
+      "Enclosed cabinet-style refrigeration condensing unit",
+      "High-capacity four-fan air-cooled condensing unit"
     ]
   },
   "accessoriesCatalog": {
@@ -1450,7 +1489,7 @@
       {
         "title": "Siapa yang bertanggungjawab",
         "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+          "Pengawal data peribadi yang dikumpul melalui laman web ini ialah Wanda Group. Untuk permintaan privasi, tulis kepada sales@wandagroups.com."
         ]
       },
       {
@@ -1483,7 +1522,7 @@
       {
         "title": "Hak awak",
         "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+          "Anda boleh meminta salinan data kami tentang anda, memohon pembetulan atau pemadaman. Anda boleh menarik balik persetujuan untuk susulan pemasaran dengan menulis kepada kami. Untuk hak ini, e-mel sales@wandagroups.com."
         ]
       },
       {
@@ -1494,5 +1533,108 @@
       }
     ],
     "contactLead": "Soalan tentang dasar ini:"
+  },
+  "terms": {
+    "label": "Legal",
+    "title": "Terms of Use",
+    "updated": "Last updated: 27 August 2026",
+    "intro": [
+      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
+      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+    ],
+    "sections": [
+      {
+        "title": "Who we are",
+        "body": [
+          "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
+        ]
+      },
+      {
+        "title": "What the website is for",
+        "body": [
+          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+        ]
+      },
+      {
+        "title": "Quotes, prices and orders",
+        "body": [
+          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
+          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+        ]
+      },
+      {
+        "title": "Photos, videos and certificates",
+        "body": [
+          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+        ]
+      },
+      {
+        "title": "Intellectual property",
+        "body": [
+          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+        ]
+      },
+      {
+        "title": "Acceptable use",
+        "body": [
+          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+        ]
+      },
+      {
+        "title": "Liability",
+        "body": [
+          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
+          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+        ]
+      }
+    ],
+    "contactLead": "Questions about these terms:"
+  },
+  "refrigeration": {
+    "label": "Our product line",
+    "title": "Refrigeration units",
+    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
+    "moreLink": "Cold storage equipment →",
+    "cta": "Request a quote",
+    "alsoTitle": "Also available on request",
+    "also": [
+      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
+      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Aluminum evaporator coils",
+      "Cold-room doors",
+      "Industrial water chillers",
+      "Vehicle refrigeration units and mobile cold rooms"
+    ],
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
+    "videoTitle": "Company video",
+    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "items": [
+      {
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+      },
+      {
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+      },
+      {
+        "title": "Enclosed box-type unit",
+        "spec": "Cabinet condensing unit",
+        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+      },
+      {
+        "title": "U-type / high-capacity condensing unit",
+        "spec": "Multi-fan air-cooled",
+        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+      }
+    ]
   }
 }

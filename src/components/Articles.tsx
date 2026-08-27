@@ -1,9 +1,11 @@
 import { useEffect, useState } from 'react'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
+import { routes } from '../config/routes'
 import { images } from '../config/images'
 import './Articles.css'
 
-export default function Articles() {
+export default function Articles({ hideHeader = false }: { hideHeader?: boolean }) {
   const { t } = useLanguage()
   const [openIndex, setOpenIndex] = useState<number | null>(null)
   const openArticle = openIndex !== null ? t.articles.items[openIndex] : null
@@ -24,11 +26,13 @@ export default function Articles() {
   return (
     <section id="articles" className="section articles">
       <div className="container">
-        <div className="section-header">
-          <span className="section-label">{t.ui.blog}</span>
-          <h2 className="section-title">{t.articles.title}</h2>
-          <p className="section-subtitle">{t.articles.subtitle}</p>
-        </div>
+        {!hideHeader && (
+          <div className="section-header">
+            <span className="section-label">{t.ui.blog}</span>
+            <h2 className="section-title">{t.articles.title}</h2>
+            <p className="section-subtitle">{t.articles.subtitle}</p>
+          </div>
+        )}
 
         <div className="articles__grid">
           {t.articles.items.map((item, i) => (
@@ -111,9 +115,9 @@ export default function Articles() {
                 </p>
               ))}
               <div className="article-modal__actions">
-                <a href="#contact" className="btn btn-primary" onClick={() => setOpenIndex(null)}>
+                <LangLink to={routes.contact} className="btn btn-primary" onClick={() => setOpenIndex(null)}>
                   {t.nav.getQuote}
-                </a>
+                </LangLink>
                 <button
                   type="button"
                   className="btn btn-outline"

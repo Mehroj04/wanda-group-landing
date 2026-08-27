@@ -4,7 +4,7 @@
     "specs": "Mga pagtutukoy",
     "applications": "Mga aplikasyon",
     "about": "Tungkol sa",
-    "gallery": "Gallery",
+    "gallery": "Galeriya",
     "quality": "Kalidad",
     "faq": "FAQ",
     "contact": "Makipag-ugnayan",
@@ -14,32 +14,43 @@
     "pricing": "Pagpepresyo",
     "accessories": "Mga accessories",
     "home": "Bahay",
-    "factory": "Pabrika"
+    "factory": "Pabrika",
+    "refrigeration": "Cold storage",
+    "cooling": "Cooling",
+    "certifications": "Certifications",
+    "oem": "OEM",
+    "markets": "Markets"
   },
   "hero": {
-    "badge": "Tagagawa ng Silindro ng Gas",
-    "title": "Mga Maaasahang Gas Cylinder para sa Industriya at Welding",
-    "subtitle": "Ang Wanda Group ay isang pinagkakatiwalaang manufacturer at supplier ng acetylene, propane cylinders at accessories. Mga solusyon para sa supply ng gas, welding, cutting at storage sa buong mundo.",
-    "cta": "Kumuha ng Quote",
-    "ctaSecondary": "Ang Aming Mga Produkto",
+    "badge": "Industrial Gas Cylinder Manufacturer",
+    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
+    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "cta": "Get a Quote",
+    "ctaSecondary": "View Products",
     "stats": [
       {
-        "value": "15+",
-        "label": "Mga Taon ng Karanasan"
+        "value": "Factory Direct",
+        "label": "Manufacturer-focused supply"
       },
       {
-        "value": "500K+",
-        "label": "Kapasidad ng Produksyon / Taon"
+        "value": "OEM",
+        "label": "Private label and customization"
       },
       {
-        "value": "50+",
-        "label": "I-export ang mga Merkado"
+        "value": "Export",
+        "label": "International shipping support"
       },
       {
-        "value": "ISO / DOT / TPED",
-        "label": "Kalidad at Sertipikasyon"
+        "value": "QC",
+        "label": "Inspection and testing process"
+      },
+      {
+        "value": "Standards",
+        "label": "Market-specific options on request"
       }
-    ]
+    ],
+    "lineGas": "Gas cylinders",
+    "lineCold": "Refrigeration units"
   },
   "accessories": {
     "title": "Maaasahang Gas Cylinder Accessories",
@@ -54,7 +65,7 @@
         "title": "Silindro ng Acetylene",
         "desc": "Mga dissolved acetylene cylinders para sa welding, cutting at industrial gases. Iba't ibang laki at opsyon sa balbula.",
         "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2–40 L · ISO / DOT / TPED"
       },
       {
         "title": "Tagabuo ng Acetylene",
@@ -66,7 +77,7 @@
         "title": "Silindro ng propane",
         "desc": "Mga matibay na silindro para sa propane at LPG — imbakan, pagpainit, paggupit at paggamit sa industriya.",
         "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3–50 L · POL / CGA / GOST"
       },
       {
         "title": "Mga Kagamitan sa Silindro",
@@ -112,32 +123,36 @@
     ]
   },
   "whyUs": {
-    "title": "Bakit Wanda Group?",
-    "subtitle": "Direktang pagmamanupaktura, pag-customize at buong suporta sa pag-export — lahat para sa iyong negosyo.",
+    "title": "Why Choose Wanda Groups",
+    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
     "items": [
       {
-        "title": "Mataas na Kalidad",
-        "desc": "Mga silindro ng bakal na binuo para sa pang-industriyang welding at supply ng gas."
+        "title": "Manufacturer-focused supply",
+        "desc": "Product supply oriented around production, not only trading catalogues."
       },
       {
-        "title": "Mahigpit na Kontrol sa Kalidad",
-        "desc": "Inspeksyon mula sa mga papasok na materyales hanggang sa huling pag-iimpake."
+        "title": "OEM support",
+        "desc": "Custom colour, marking, valve and packing discussed per order."
       },
       {
-        "title": "Advanced na Paggawa",
-        "desc": "Pagbubuo, hinang, pagsubok at pagtatapos sa isang planta."
+        "title": "Quality control",
+        "desc": "Inspection from materials through packing before shipment."
       },
       {
-        "title": "OEM / ODM",
-        "desc": "Kulay, balbula, pagmamarka, takip at pag-iimpake upang mag-order."
+        "title": "International export",
+        "desc": "Export packing and shipping coordination for overseas buyers."
       },
       {
-        "title": "International Export",
-        "desc": "Mga dokumento at pagpapakete para sa mga mamimiling pang-industriya sa ibang bansa."
+        "title": "Product customization",
+        "desc": "Specifications adapted to market and application requirements."
       },
       {
-        "title": "Maaasahang Paghahatid",
-        "desc": "Karaniwang lead time 15–25 araw pagkatapos makumpirma ang order."
+        "title": "Responsive sales support",
+        "desc": "Quotes and technical replies through form, email and messengers."
+      },
+      {
+        "title": "Bulk order capability",
+        "desc": "Wholesale quantities supported for distributors and project buyers."
       }
     ]
   },
@@ -147,76 +162,90 @@
     "text2": "Sinusuportahan namin ang mga mamimili sa ibang bansa sa pagpili ng produkto, pagpapasadya, inspeksyon ng kalidad, packaging at koordinasyon sa pagpapadala.",
     "facts": [
       {
-        "title": "karanasan",
-        "desc": "15+ taon na nagsusuplay ng mga pang-industriya na silindro ng gas."
+        "title": "Manufacturing",
+        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
       },
       {
-        "title": "Produksyon",
-        "desc": "In-house forming, welding, testing at finishing."
+        "title": "OEM Support",
+        "desc": "Colour, marking, valve, cap and packing options by order."
       },
       {
-        "title": "Kalidad",
-        "desc": "ISO 9809, DOT at TPED na mga opsyon ayon sa market."
+        "title": "Quality Process",
+        "desc": "Inspection and testing aligned with order and market requirements."
       },
       {
-        "title": "I-export",
-        "desc": "Nag-coordinate ang mga pagpapadala para sa 50+ patutunguhang merkado."
+        "title": "International Export",
+        "desc": "Documentation and packing support for overseas industrial buyers."
       }
     ]
   },
   "gallery": {
     "title": "Sa loob ng Aming Pabrika",
-    "subtitle": "Produksyon, welding, pagsubok, pagpipinta at mga natapos na cylinder — kung paano namin inihahanda ang mga order sa pag-export.",
+    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
     "items": [
       {
-        "title": "Tapos na stock ng silindro",
-        "desc": "Handa na imbentaryo sa aming planta — dami ng kapasidad para sa pakyawan at pag-export ng mga order."
+        "title": "Night dispatch",
+        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
       },
       {
-        "title": "Produksyon ng hinang",
-        "desc": "Paggawa ng metal sa sahig ng pabrika na may supply ng gas na pang-industriya."
+        "title": "Cargo staged for shipment",
+        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
       },
       {
-        "title": "I-export ang packaging",
-        "desc": "Proteksiyon na mesh at pallet packing bago ang internasyonal na pagpapadala."
+        "title": "Packed stock",
+        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
       },
       {
-        "title": "Propane ready for dispatch",
-        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+        "title": "Packed for dispatch",
+        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
       },
       {
-        "title": "Pagpapadala ng bulk cylinder",
-        "desc": "Secure load sa hawla para sa transportasyon sa kalsada sa mga distributor at halaman."
+        "title": "Production conveyor",
+        "desc": "Cylinder bodies moving through the forming and handling line."
       },
       {
-        "title": "Delivery on the road",
-        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+        "title": "LPG finishing line",
+        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
       },
       {
-        "title": "Global export containers",
-        "desc": "Container logistics for overseas partners and long-haul orders."
+        "title": "Inside the plant",
+        "desc": "The production hall — people, machines and in-process stock."
       },
       {
-        "title": "Order packing & dispatch",
-        "desc": "Careful packing and outbound handling for accessories and spare parts."
+        "title": "Welded cylinder bodies",
+        "desc": "Shells after circumferential welding, before painting and valves."
       },
       {
-        "title": "Oxy-fuel cutting in use",
-        "desc": "Real workshop application with oxygen and acetylene cylinders."
+        "title": "Shells before painting",
+        "desc": "Unpainted bodies batched on the floor for the next process step."
       },
       {
-        "title": "Precision craft welding",
-        "desc": "Skilled production work that reflects our quality standard."
+        "title": "In-process stock",
+        "desc": "Tube sections and capped shells waiting for assembly."
       },
       {
-        "title": "Manufacturing facility",
-        "desc": "Clean industrial halls with crane systems for heavy production."
+        "title": "Cylinder bodies in stock",
+        "desc": "Rolled shells stacked after welding, before heads and valves."
       },
       {
-        "title": "Saklaw ng laki ng silindro",
-        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+        "title": "Base rings",
+        "desc": "Foot rings prepared for welding onto cylinder shells."
+      },
+      {
+        "title": "Packed fittings",
+        "desc": "Valves and fittings boxed with foam for export shipment."
+      },
+      {
+        "title": "Acetylene generator",
+        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+      },
+      {
+        "title": "Shells on the floor",
+        "desc": "Open-neck bodies after welding — the batch before valve fitment."
       }
-    ]
+    ],
+    "videosTitle": "Factory videos",
+    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
   },
   "quality": {
     "title": "Kontrol sa Kalidad",
@@ -413,7 +442,7 @@
     "formSubtitle": "Iwanan ang iyong mga kinakailangan — tutugon ang aming koponan sa pagbebenta kasama ang impormasyon ng produkto, pagpepresyo, MOQ at oras ng lead.",
     "name": "Pangalan",
     "phone": "Telepono / WhatsApp",
-    "email": "Email",
+    "email": "E-mail",
     "product": "produkto",
     "quantity": "Dami",
     "country": "Destinasyon na Bansa",
@@ -422,7 +451,8 @@
       "Silindro ng propane",
       "Tagabuo ng Acetylene",
       "Mga accessories",
-      "Bundle Order"
+      "Cold storage / refrigeration",
+      "Bundle na order"
     ],
     "message": "Mga Karagdagang Kinakailangan",
     "messagePlaceholder": "Produkto, laki, dami, destinasyong bansa...",
@@ -436,17 +466,20 @@
     "privacySuffix": "at sa pagproseso ng aking personal na data upang mahawakan ang pagtatanong na ito.",
     "privacyLink": "Patakaran sa Privacy",
     "company": "kumpanya",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "Ipadala sa pamamagitan ng email app"
+    "emailFallback": "Hindi naipadala ng website ang mensahe. I-click ang button sa ibaba — magbubukas ang email app na may handang liham para sa sales@wandagroups.com.",
+    "emailAppButton": "Ipadala sa pamamagitan ng email app",
+    "termsAnd": " and the ",
+    "termsLink": "Terms of Use"
   },
   "footer": {
-    "company": "Wanda Group Gas Cylinder Manufacturer",
+    "company": "Wanda Group — tagagawa ng gas cylinder",
     "tagline": "Propesyonal na Gas Cylinder Manufacturing",
     "rights": "© 2026 Wanda Group. Lahat ng karapatan ay nakalaan.",
-    "privacy": "Patakaran sa Privacy"
+    "privacy": "Patakaran sa Privacy",
+    "terms": "Terms of Use"
   },
   "ui": {
-    "catalog": "Catalog",
+    "catalog": "Katalogo",
     "catalogTitle": "Detalyadong Detalye ng Produkto",
     "catalogSubtitle": "Kumpletuhin ang teknikal na data, modelo at parameter para sa bawat kategorya. Pumili ng produkto para tingnan ang spec table.",
     "requestPrice": "Humiling ng Presyo para sa Modelong Ito",
@@ -463,38 +496,35 @@
     "support": "Suporta",
     "exportReady": "Handa na ang pag-export",
     "years": "taon",
-    "acetylene": "Acetylene",
-    "isoCertified": "ISO Certified",
+    "acetylene": "Asetileno",
+    "isoCertified": "Sertipikado sa ISO",
     "globalExport": "Pandaigdigang Pag-export",
     "products": "Mga produkto",
     "specs": "Mga pagtutukoy",
     "applications": "Mga aplikasyon",
     "whyUs": "Bakit Tayo",
     "about": "Tungkol sa Amin",
-    "gallery": "Gallery",
+    "gallery": "Galeriya",
     "quality": "Kalidad",
     "faq": "FAQ",
-    "blog": "Blog",
+    "blog": "Mga artikulo",
     "countriesServed": "Mga bansang pinaglilingkuran",
     "searchLanguage": "Maghanap ng wika...",
     "noLanguagesFound": "Walang nahanap na mga wika"
   },
   "trustMarquee": [
-    "ISO 9809-1",
-    "DOT 3AA",
-    "TPED",
-    "GB 5099",
-    "CE",
-    "OEM/ODM",
-    "I-export sa 50+ Bansa",
-    "MOQ mula sa 100 pcs",
-    "Lead Time 15–25 Araw"
+    "Factory Direct",
+    "OEM / Private Label",
+    "International Export",
+    "Quality Control",
+    "Market Standards on Request",
+    "Bulk Orders"
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetylene",
-      "propane": "Propane",
-      "generator": "Generator",
+      "acetylene": "Asetileno",
+      "propane": "Propano",
+      "generator": "Generator ng gas",
       "accessories": "Mga accessories"
     },
     "acetylene": {
@@ -503,7 +533,7 @@
       "features": [
         "Porous mass + acetone para sa matatag na imbakan",
         "Mga balbula ng CGA 510 / GOST / DIN kapag hiniling",
-        "Hydraulic test pressure 5.2 MPa",
+        "Presyon ng hydraulic test 5.2 MPa",
         "RAL painting, stamping at OEM label",
         "I-export ang pallet packaging"
       ],
@@ -573,14 +603,14 @@
         "37Mn/34CrMo4 steel bawat ISO 9809",
         "Presyon sa pagtatrabaho 1.8–2.1 MPa",
         "Mga balbula ng POL, CGA 510, GOST",
-        "Powder coating, anti-corrosion",
+        "Powder coating, anti-kalawang",
         "Mga sertipiko para sa mga merkado ng EU, US, CIS"
       ],
       "tableTitle": "Mga Karaniwang Modelo ng Propane Cylinder",
       "headers": [
         "Modelo",
         "Dami (L)",
-        "Gas (kg)",
+        "Timbang ng gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Timbang (kg)",
@@ -648,10 +678,10 @@
       "tableTitle": "Mga Modelo ng Acetylene Generator",
       "headers": [
         "Modelo",
-        "Output (m³/h)",
-        "Carbide (kg/h)",
+        "Output (m³/oras)",
+        "Carbide (kg/oras)",
         "Presyon (kPa)",
-        "Power (kW)",
+        "Kapangyarihan (kW)",
         "Timbang (kg)"
       ],
       "rows": [
@@ -706,7 +736,7 @@
         "Mga hose na may mataas na presyon",
         "Pagputol ng mga sulo at welding burner",
         "Mga pressure relief valve",
-        "Trolleys, stands, caps"
+        "Mga trolley, stand at takip"
       ],
       "tableTitle": "Katalogo ng Mga Kagamitan",
       "headers": [
@@ -720,10 +750,10 @@
           "Mga regulator",
           "WG-R510, WG-R580",
           "CGA 510/580",
-          "Acetylene, propane"
+          "Asetileno, propano"
         ],
         [
-          "Gauges",
+          "Mga gauge",
           "WG-G63, WG-G100",
           "ISO 5171",
           "Pagsubaybay sa presyon"
@@ -744,7 +774,7 @@
           "Mga burner",
           "WG-T200, WG-T500",
           "—",
-          "Welding, brazing"
+          "Welding at brazing"
         ],
         [
           "Mga balbula",
@@ -812,7 +842,7 @@
       },
       {
         "icon": "📦",
-        "title": "Bundle Supply",
+        "title": "Supply ng bundle",
         "desc": "Mga silindro + accessories sa isang pagkakasunud-sunod.",
         "points": [
           "Isang kontrata",
@@ -833,7 +863,7 @@
         "desc": "Minimum na order bawat modelo"
       },
       {
-        "label": "Lead Time",
+        "label": "Lead time",
         "value": "15–25 araw",
         "desc": "Pagkatapos ng kumpirmasyon ng order"
       },
@@ -843,7 +873,7 @@
         "desc": "30% na deposito, 70% bago ipadala"
       },
       {
-        "label": "Warranty",
+        "label": "Garantiya",
         "value": "12 buwan",
         "desc": "Laban sa mga depekto sa pagmamanupaktura"
       }
@@ -860,25 +890,25 @@
     },
     "samples": [
       {
-        "product": "Acetylene WG-10",
+        "product": "Asetileno WG-10",
         "moq": "200 pcs",
         "price": "$28–35 / pc",
         "lead": "18 araw"
       },
       {
-        "product": "Acetylene WG-25",
+        "product": "Asetileno WG-25",
         "moq": "100 pcs",
         "price": "$45–58 / pc",
         "lead": "20 araw"
       },
       {
-        "product": "Propane WG-P11",
+        "product": "Propano WG-P11",
         "moq": "500 pcs",
         "price": "$12–16 / pc",
         "lead": "15 araw"
       },
       {
-        "product": "Propane WG-P50",
+        "product": "Propano WG-P50",
         "moq": "100 pcs",
         "price": "$55–72 / pc",
         "lead": "22 araw"
@@ -900,12 +930,12 @@
       "produkto",
       "MOQ",
       "Presyo (EXW)",
-      "Lead Time"
+      "Lead time"
     ]
   },
   "certifications": {
     "title": "Mga Sertipikasyon at Pamantayan",
-    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -928,7 +958,7 @@
         "desc": "Pamantayan ng Chinese gas cylinder"
       },
       {
-        "name": "CE Mark",
+        "name": "Marka ng CE",
         "desc": "Mga kinakailangan sa pagsang-ayon sa Europa"
       }
     ]
@@ -960,25 +990,25 @@
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Sinasabi ng mga buyer",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "quote": "Tatlong beses na kaming nag-reorder ng 40 L acetylene cylinder ngayong taon. Ang GOST valves, OEM na kulay at export packing ay palaging tumutugma sa unang sample.",
         "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "role": "May-ari, distributor ng welding gas",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Dumating ang quotation sa parehong araw — malinaw ang MOQ at lead time. Ang propane bottles ay may POL valves at kumpletong packing list; walang delay sa customs sa amin.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
+        "role": "Tagapamahala ng pagbili, supply pang-industriya",
         "country": "Kazakhstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Bumibili kami ng cylinders kasama ang regulators at hoses sa isang container order. Handa na ang documents at marking para sa aming market, kaya diretso ang resale.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Importador, kalakalan ng kagamitang pang-gas",
+        "country": "Arabia Saudita"
       }
     ]
   },
@@ -1003,18 +1033,18 @@
         "points": [
           "Mabilis na butas at hiwa",
           "Mga kit na handa ng tanglaw",
-          "Bulk MOQ friendly"
+          "Friendly sa bulk MOQ"
         ]
       },
       {
-        "id": "propane",
+        "id": "propano",
         "eyebrow": "Propane at LPG",
         "title": "Matibay na LPG cylinders para sa bawat merkado",
         "text": "Mula sa pagpainit at pagluluto ng gas hanggang sa pang-industriyang pagputol — mga silindro ng bakal na ginawa para sa presyon, patong at mahabang buhay ng serbisyo.",
         "points": [
           "3L–50L na hanay",
           "Mga balbula ng POL / CGA",
-          "Powder coat finish"
+          "Tapos na powder coat"
         ]
       },
       {
@@ -1042,7 +1072,7 @@
       {
         "id": "i-export",
         "eyebrow": "Pandaigdigang pag-export",
-        "title": "Naka-pack para sa mga daungan, handa para sa 50+ bansa",
+        "title": "Packed for ports, ready for 50+ countries",
         "text": "I-export ang mga pallet, proteksyon ng balbula, mga multilinggwal na label at mga dokumento sa pagpapadala na pinag-ugnay para sa iyong patutunguhan na Incoterms.",
         "points": [
           "Suporta sa FOB / CIF",
@@ -1053,28 +1083,37 @@
     ]
   },
   "imageAlts": {
-    "hero": "Ang mga pang-industriya na silindro ng gas ay handa sa pabrika",
-    "about": "I-export-ready na cylinder stock na may protective packaging",
+    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
+    "about": "Workers on the Wanda Group factory floor",
     "accessories": "Welding and cutting with gas cylinder accessories",
     "products": [
       "Dissolved acetylene cylinder na may porous mass at brass valve",
-      "Industrial acetylene generator sa isang factory skid",
+      "Acetylene generator photographed at the plant",
       "Mga silindro ng propane at LPG sa maraming laki at kulay",
       "Welding at cutting accessory kit para sa mga silindro ng gas"
     ],
     "gallery": [
-      "Tapos na stock ng silindro sa pabrika",
-      "Production welding sa sahig ng pabrika",
-      "I-export ang packaging na may protective mesh",
-      "Mga silindro ng acetylene sa mga safety cage",
-      "Bulk cylinder shipping sa trak",
-      "I-export ang dokumentasyon at inspeksyon sa pag-iimpake",
-      "Pagpupulong ng balbula sa linya ng produksyon",
-      "Oxy-fuel cutting na may oxygen at acetylene cylinders",
-      "Pang-industriya na hinang sa sahig ng tindahan",
-      "Pipe welding sa fabrication bench",
-      "Mabigat na katha sa loob ng halaman",
-      "Saklaw ng laki ng silindro sa pabrika"
+      "Night dispatch: wrapped equipment loaded on a trailer",
+      "Pallets and metal parts staged for shipment",
+      "Cartons of packed stock stacked in the warehouse",
+      "Cylinders wrapped in film, staged in the factory yard",
+      "Gas cylinder production conveyor under the plant roof",
+      "LPG cylinders hanging on the overhead finishing conveyor",
+      "Workers walking the Wanda Group factory floor",
+      "Unpainted welded propane cylinder bodies stacked two-high",
+      "Rows of unpainted cylinder shells on the concrete floor",
+      "Cylinder tube stock and capped shells in the workshop",
+      "Stacked raw cylinder bodies against the factory wall",
+      "Steel base rings piled before assembly",
+      "Brass fittings packed in a carton with foam",
+      "Acetylene generator with hose and boxed accessories",
+      "Unpainted cylinder shells with open necks after welding"
+    ],
+    "refrigeration": [
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
+      "Enclosed cabinet-style refrigeration condensing unit",
+      "High-capacity four-fan air-cooled condensing unit"
     ]
   },
   "accessoriesCatalog": {
@@ -1097,7 +1136,7 @@
     ],
     "items": [
       {
-        "title": "Acetylene Flashback Valve",
+        "title": "Flashback valve para sa asetileno",
         "desc": "Pinipigilan ang reverse gas flow at flame flashback sa oxy-acetylene welding at cutting system.",
         "intro": "Isang mahalagang aparatong pangkaligtasan para sa mga sistema ng acetylene. Ang built-in na sintered stainless flame arrestor at one-way na disenyo ng daloy ay nagpoprotekta sa mga operator, hose, at linya ng gas. Tugma sa mga regulator, hose at torches. Available ang logo ng OEM, label at packing.",
         "features": [
@@ -1127,7 +1166,7 @@
         ]
       },
       {
-        "title": "Acetylene Generator Canister",
+        "title": "Canister ng acetylene generator",
         "desc": "Core canister para sa stable acetylene generation mula sa calcium carbide sa mga industrial gas system.",
         "intro": "Ang generator canister ay ang pangunahing sisidlan ng isang sistema ng pagbuo ng acetylene. Ito ay ibinibigay para sa matatag na produksyon ng gas sa hinang, pagputol at mga site na walang sentralisadong suplay ng silindro. Ang kapasidad, piping at safety trim ay maaaring itugma sa modelo ng generator.",
         "features": [
@@ -1168,7 +1207,7 @@
         ],
         "specs": [
           "Modelo: CT-01 cutting torch",
-          "Gas: acetylene + oxygen",
+          "Gas: asetileno + oxygen",
           "Kapal ng pagputol: 3–300 mm (depende sa nozzle at presyon)",
           "Presyon sa pagtatrabaho: C₂H₂ 0.02–0.15 MPa; O₂ 0.2–1.0 MPa",
           "Konektor: G5/8-14 o naka-customize",
@@ -1205,7 +1244,7 @@
           "Handwheel: aluminyo / zinc alloy",
           "Temperatura: −20 °C hanggang +60 °C",
           "Mga Pamantayan: ISO 10297, GB/T 8335, CGA o custom",
-          "Packing: 1 pc/bag, 50 pcs/box"
+          "Packing: 1 pc/bag, 50 pcs/kahon"
         ],
         "applications": [
           "Acetylene at pang-industriya na mga silindro ng gas",
@@ -1219,7 +1258,7 @@
         ]
       },
       {
-        "title": "Oxygen Hose Clamp",
+        "title": "Clamp ng oxygen hose",
         "desc": "Hindi kinakalawang na asero worm-drive clamp para sa secure, leak-resistant na oxygen at mga pang-industriyang hose na koneksyon.",
         "intro": "Hindi kinakalawang na asero oxygen hose clamp para sa hinang at pang-industriya na paggamit. Malakas na clamping force, paglaban sa kalawang at hose-friendly na mga gilid. Reusable at madaling i-install.",
         "features": [
@@ -1261,10 +1300,10 @@
           "Magaan at madaling hawakan"
         ],
         "specs": [
-          "Gas: oxygen",
+          "Gas: oksiheno",
           "Presyon ng pagtatrabaho: 20 bar / 290 psi",
           "Presyon ng pagsabog: 60 bar / 870 psi",
-          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (custom available)",
+          "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (available ang custom)",
           "Haba: 10 / 20 / 30 / 50 / 100 m o custom",
           "Kulay: asul na pamantayan; materyal na SBR / EPDM + polyester na sinulid",
           "Mga Pamantayan: ISO 3821 / EN 559 / GB/T 20098",
@@ -1282,7 +1321,7 @@
         ]
       },
       {
-        "title": "Pressure Gauge",
+        "title": "Pressure gauge",
         "desc": "Tumpak na pagpapakita ng presyon para sa oxygen, acetylene at iba pang mga gas na pang-industriya.",
         "intro": "Mga gauge para sa acetylene, oxygen at mga gas na pang-industriya: malinaw na dial, matibay na konstruksyon at matatag na pagbabasa sa mga cylinder, regulator at pipeline. Maramihang mga saklaw at koneksyon para sa OEM at pag-export.",
         "features": [
@@ -1314,7 +1353,7 @@
         ]
       },
       {
-        "title": "Safety Relief Valve",
+        "title": "Safety relief valve",
         "desc": "Awtomatikong naglalabas ng labis na presyon upang protektahan ang mga cylinder, pipeline at operator.",
         "intro": "Ang mga safety relief valve ay awtomatikong naglalabas ng overpressure upang protektahan ang mga kagamitan at tauhan. Angkop para sa oxygen, acetylene, hangin, nitrogen at mga katugmang gas. Compact brass body, maraming set pressure at laki ng thread.",
         "features": [
@@ -1346,7 +1385,7 @@
         ]
       },
       {
-        "title": "Welding Torch",
+        "title": "Welding torch",
         "desc": "Ergonomic oxy-fuel welding torch na may makinis na kontrol ng apoy para sa welding, brazing at pagpainit.",
         "intro": "High-performance welding torch para sa oxygen-fuel work: matatag na apoy, tumpak na kontrol at matibay na tansong katawan. Mga tip sa tanso, mga mapapalitang nozzle at mga koneksyon sa hose para sa pagawaan at pang-industriya na paggamit.",
         "features": [
@@ -1439,7 +1478,7 @@
     ]
   },
   "privacy": {
-    "label": "Legal",
+    "label": "Mga dokumentong legal",
     "title": "Patakaran sa Privacy",
     "updated": "Huling na-update: Agosto 25, 2026",
     "intro": [
@@ -1450,7 +1489,7 @@
       {
         "title": "Sino ang may pananagutan",
         "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+          "Ang controller ng personal na data na nakolekta sa website na ito ay ang Wanda Group. Para sa privacy, sumulat sa sales@wandagroups.com."
         ]
       },
       {
@@ -1483,7 +1522,7 @@
       {
         "title": "Ang iyong mga karapatan",
         "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+          "Maaari kang humingi ng kopya ng data namin tungkol sa iyo, magpaayos, o magpatanggal. Maaari mong bawiin ang consent sa follow-up na pang-marketing sa pamamagitan ng pagsulat sa amin. I-email ang sales@wandagroups.com upang gamitin ang mga karapatang ito."
         ]
       },
       {
@@ -1494,5 +1533,108 @@
       }
     ],
     "contactLead": "Mga tanong tungkol sa patakarang ito:"
+  },
+  "terms": {
+    "label": "Legal",
+    "title": "Terms of Use",
+    "updated": "Last updated: 27 August 2026",
+    "intro": [
+      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
+      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+    ],
+    "sections": [
+      {
+        "title": "Who we are",
+        "body": [
+          "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
+        ]
+      },
+      {
+        "title": "What the website is for",
+        "body": [
+          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+        ]
+      },
+      {
+        "title": "Quotes, prices and orders",
+        "body": [
+          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
+          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+        ]
+      },
+      {
+        "title": "Photos, videos and certificates",
+        "body": [
+          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+        ]
+      },
+      {
+        "title": "Intellectual property",
+        "body": [
+          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+        ]
+      },
+      {
+        "title": "Acceptable use",
+        "body": [
+          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+        ]
+      },
+      {
+        "title": "Liability",
+        "body": [
+          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
+          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+        ]
+      }
+    ],
+    "contactLead": "Questions about these terms:"
+  },
+  "refrigeration": {
+    "label": "Our product line",
+    "title": "Refrigeration units",
+    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
+    "moreLink": "Cold storage equipment →",
+    "cta": "Request a quote",
+    "alsoTitle": "Also available on request",
+    "also": [
+      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
+      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Aluminum evaporator coils",
+      "Cold-room doors",
+      "Industrial water chillers",
+      "Vehicle refrigeration units and mobile cold rooms"
+    ],
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
+    "videoTitle": "Company video",
+    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "items": [
+      {
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+      },
+      {
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+      },
+      {
+        "title": "Enclosed box-type unit",
+        "spec": "Cabinet condensing unit",
+        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+      },
+      {
+        "title": "U-type / high-capacity condensing unit",
+        "spec": "Multi-fan air-cooled",
+        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+      }
+    ]
   }
 }

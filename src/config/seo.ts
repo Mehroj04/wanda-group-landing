@@ -1,12 +1,20 @@
 import { getLanguage, langCodes, type Lang } from '../i18n/languages'
 import type { TranslationKeys } from '../i18n/locales'
+import { SITE_ORIGIN, SITE_BRAND, SITE_BRAND_QUERY } from './seoBrand'
 
-export const SITE_ORIGIN = 'https://www.wandagroups.com'
-export const SITE_BRAND = 'Wanda Group'
-export const SITE_BRAND_QUERY = 'WandaGroups'
+export { SITE_ORIGIN, SITE_BRAND, SITE_BRAND_QUERY }
 
-export function pageUrl(lang: Lang) {
-  return lang === 'en' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}/?lang=${lang}`
+export function pageUrl(path: string, lang: Lang) {
+  const clean = path.startsWith('/') ? path : `/${path}`
+  const base = clean === '/' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}${clean}`
+  if (lang === 'en') return base
+  const join = base.includes('?') ? '&' : '?'
+  return `${base}${join}lang=${lang}`
+}
+
+/** @deprecated Prefer pageUrl(path, lang). Kept for callers that only need the homepage. */
+export function homeUrl(lang: Lang) {
+  return pageUrl('/', lang)
 }
 
 /** HTML lang + hreflang (Simplified Chinese is zh-Hans). */
@@ -53,15 +61,10 @@ function keywordsFor(lang: Lang) {
   if (lang === 'zh') {
     return `${brand}, 气瓶厂家, 乙炔气瓶, 丙烷气瓶, 万达气瓶`
   }
-  return `${brand}, gas cylinder manufacturer, acetylene cylinder, propane cylinder, LPG cylinder, welding gas, China export`
+  return `${brand}, gas cylinder manufacturer, acetylene cylinder, propane cylinder, LPG cylinder, welding gas, China export, OEM gas cylinder`
 }
 
-function documentTitle(badge: string) {
-  return `${SITE_BRAND} | ${SITE_BRAND_QUERY} | ${badge}`
-}
-
-/** Keep a full hreflang set in the document for crawlers that execute JS. */
-export function syncAlternateLinks() {
+export function syncAlternateLinks(path = '/') {
   if (typeof document === 'undefined') return
   document.head.querySelectorAll('link[rel="alternate"][hreflang]').forEach((el) => el.remove())
   const add = (hreflang: string, href: string) => {
@@ -71,17 +74,31 @@ export function syncAlternateLinks() {
     el.href = href
     document.head.appendChild(el)
   }
-  add('x-default', pageUrl('en'))
+  add('x-default', pageUrl(path, 'en'))
   for (const lang of langCodes) {
-    add(htmlLang(lang), pageUrl(lang))
+    add(htmlLang(lang), pageUrl(path, lang))
   }
 }
 
-export function applyDocumentSeo(lang: Lang, t: TranslationKeys) {
+export interface PageSeoInput {
+  path: string
+  title: string
+  description: string
+  image?: string
+  noindex?: boolean
+}
+
+/** Apply document SEO for the current route + language. */
+export function applyPageSeo(lang: Lang, seo: PageSeoInput) {
   const meta = getLanguage(lang)
-  const title = documentTitle(t.hero.badge)
-  const description = t.hero.subtitle
-  const url = pageUrl(lang)
+  const title = seo.title.includes(SITE_BRAND) ? seo.title : `${seo.title} | ${SITE_BRAND}`
+  const description = seo.description
+  const url = pageUrl(seo.path, lang)
+  const image = seo.image
+    ? seo.image.startsWith('http')
+      ? seo.image
+      : `${SITE_ORIGIN}${seo.image}`
+    : `${SITE_ORIGIN}/images/wg/hero.jpg`
 
   document.title = title
   document.documentElement.lang = htmlLang(lang)
@@ -91,14 +108,26 @@ export function applyDocumentSeo(lang: Lang, t: TranslationKeys) {
   upsertMeta('name', 'keywords', keywordsFor(lang))
   upsertMeta('name', 'author', SITE_BRAND)
   upsertMeta('name', 'application-name', SITE_BRAND)
+  upsertMeta('name', 'robots', seo.noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large')
   upsertMeta('property', 'og:title', title)
   upsertMeta('property', 'og:description', description)
   upsertMeta('property', 'og:url', url)
+  upsertMeta('property', 'og:image', image)
   upsertMeta('property', 'og:locale', `${lang}_${meta.country.toUpperCase()}`)
   upsertMeta('property', 'og:site_name', SITE_BRAND)
-  upsertMeta('property', 'og:image:alt', `${SITE_BRAND} gas cylinders`)
+  upsertMeta('property', 'og:image:alt', `${SITE_BRAND} — ${seo.title}`)
   upsertMeta('name', 'twitter:title', title)
   upsertMeta('name', 'twitter:description', description)
+  upsertMeta('name', 'twitter:image', image)
   upsertLink('canonical', url)
-  syncAlternateLinks()
+  syncAlternateLinks(seo.path)
+}
+
+/** Homepage SEO from translations (legacy entry used on lang change before route hook runs). */
+export function applyDocumentSeo(lang: Lang, t: TranslationKeys) {
+  applyPageSeo(lang, {
+    path: '/',
+    title: `${SITE_BRAND} | ${SITE_BRAND_QUERY} | ${t.hero.badge}`,
+    description: t.hero.subtitle,
+  })
 }

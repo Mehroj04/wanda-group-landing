@@ -1,16 +1,20 @@
 import { useState, useEffect } from 'react'
+import { LangLink, LangNavLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
+import { routes } from '../config/routes'
 import Logo from './Logo'
 import LanguageSelect from './LanguageSelect'
 import './Header.css'
 
 const navItems = [
-  { id: 'home', key: 'home' as const, href: '#home' },
-  { id: 'products', key: 'products' as const, href: '#products' },
-  { id: 'about', key: 'about' as const, href: '#about' },
-  { id: 'factory', key: 'factory' as const, href: '#factory' },
-  { id: 'quality', key: 'quality' as const, href: '#quality' },
-  { id: 'contact', key: 'contact' as const, href: '#contact' },
+  { id: 'home', key: 'home' as const, to: routes.home },
+  { id: 'about', key: 'about' as const, to: routes.about },
+  { id: 'products', key: 'products' as const, to: routes.products },
+  { id: 'factory', key: 'factory' as const, to: routes.factory },
+  { id: 'certifications', key: 'certifications' as const, to: routes.certifications },
+  { id: 'oem', key: 'oem' as const, to: routes.oem },
+  { id: 'markets', key: 'markets' as const, to: routes.markets },
+  { id: 'contact', key: 'contact' as const, to: routes.contact },
 ]
 
 export default function Header() {
@@ -34,29 +38,31 @@ export default function Header() {
   return (
     <header className={`header ${scrolled ? 'header--scrolled' : ''} ${menuOpen ? 'header--menu-open' : ''}`}>
       <div className="container header__inner">
-        <a href="#home" className="header__logo" aria-label="Wanda Group" onClick={() => setMenuOpen(false)}>
+        <LangLink to={routes.home} className="header__logo" aria-label="Wanda Group" onClick={() => setMenuOpen(false)}>
           <Logo />
-        </a>
+        </LangLink>
 
-        <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`}>
-          {navItems.map(({ id, key, href }) => (
-            <a
+        <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`} aria-label="Primary">
+          {navItems.map(({ id, key, to }) => (
+            <LangNavLink
               key={id}
-              href={href}
-              className="header__link"
+              to={to}
+              end={to === routes.home}
+              className={({ isActive }) => `header__link${isActive ? ' header__link--active' : ''}`}
               onClick={() => setMenuOpen(false)}
             >
               {t.nav[key]}
-            </a>
+            </LangNavLink>
           ))}
         </nav>
 
         <div className="header__actions">
           <LanguageSelect />
-          <a href="#contact" className="btn btn-primary btn-sm header__cta" onClick={() => setMenuOpen(false)}>
+          <LangLink to={routes.contact} className="btn btn-primary btn-sm header__cta" onClick={() => setMenuOpen(false)}>
             {t.nav.getQuote}
-          </a>
+          </LangLink>
           <button
+            type="button"
             className={`header__burger ${menuOpen ? 'header__burger--open' : ''}`}
             onClick={() => setMenuOpen(!menuOpen)}
             aria-label="Menu"

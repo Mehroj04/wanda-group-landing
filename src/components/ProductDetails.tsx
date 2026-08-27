@@ -1,5 +1,7 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
+import { routes } from '../config/routes'
 import { productTabs, type ProductTab } from '../config/content'
 import ScrollReveal from './ScrollReveal'
 import './ProductDetails.css'
@@ -77,9 +79,9 @@ export default function ProductDetails() {
                 </table>
               </div>
               <p className="product-details__note">{content.note}</p>
-              <a href="#contact" className="btn btn-primary product-details__cta">
+              <Link to={routes.contact} className="btn btn-primary product-details__cta">
                 {t.ui.requestPrice}
-              </a>
+              </Link>
             </div>
           </div>
         </ScrollReveal>

@@ -2,6 +2,14 @@
   command = "npm run build"
   publish = "dist"
 
+# Keep /api out of the SPA fallback (site is primarily Vercel-hosted;
+# returning index.html for /api/* would break form posts on Netlify mirrors).
+[[redirects]]
+  from = "/api/*"
+  to = "/api/:splat"
+  status = 200
+  force = true
+
 [[redirects]]
   from = "/robots.txt"
   to = "/robots.txt"

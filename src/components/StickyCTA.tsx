@@ -1,5 +1,7 @@
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { siteConfig } from '../config/site'
+import { routes } from '../config/routes'
 import { trackLead } from '../config/analytics'
 import WhatsAppIcon from './WhatsAppIcon'
 import TelegramIcon from './TelegramIcon'
@@ -30,13 +32,13 @@ export default function StickyCTA() {
       >
         <TelegramIcon size={26} />
       </a>
-      <a
-        href="#contact"
+      <LangLink
+        to={routes.contact}
         className="sticky-cta__btn sticky-cta__btn--quote"
         onClick={() => trackLead('quote_cta_click', { source: 'sticky' })}
       >
         {t.nav.getQuote}
-      </a>
+      </LangLink>
     </div>
   )
 }

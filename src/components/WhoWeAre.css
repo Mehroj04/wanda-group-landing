@@ -1,0 +1,35 @@
+.who-we-are {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.who-we-are__panel {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 48px 40px;
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+}
+
+.who-we-are__header {
+  margin-bottom: 28px;
+}
+
+.who-we-are__text {
+  color: var(--color-text-muted);
+  line-height: 1.75;
+  margin-bottom: 16px;
+  font-size: 1.0625rem;
+}
+
+.who-we-are__text:last-of-type {
+  margin-bottom: 28px;
+}
+
+@media (max-width: 640px) {
+  .who-we-are__panel {
+    padding: 36px 24px;
+  }
+}

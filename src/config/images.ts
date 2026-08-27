@@ -17,6 +17,9 @@ export const accessoryImages = [
 
 /** Trust gallery — order must match t.gallery.items */
 export const galleryImages = [
+  '/images/wg/g13-truck-dispatch.jpg',
+  '/images/wg/g14-night-cargo.jpg',
+  '/images/wg/g15-boxed-stock.jpg',
   '/images/wg/g01-finished-stock.jpg',
   '/images/wg/g02-production-weld.jpg',
   '/images/wg/g03-export-pack.jpg',
@@ -30,6 +33,16 @@ export const galleryImages = [
   '/images/wg/g11-heavy-fabrication.jpg',
   '/images/wg/g12-size-range.jpg',
 ] as const
+
+/** Cold-storage condensing units — order must match t.refrigeration.items */
+export const refrigerationImages = [
+  '/images/wg/ref-copeland.jpg',
+  '/images/wg/ref-bitzer.jpg',
+  '/images/wg/ref-enclosed.jpg',
+  '/images/wg/ref-four-fan.jpg',
+] as const
+
+export const refrigerationVideoId = 'uBzWuXlWdOE'
 
 export const images = {
   hero: {

@@ -31,6 +31,7 @@ export default async function handler(req, res) {
     product: String(body.product || '').trim(),
     quantity: String(body.quantity || '').trim(),
     country: String(body.country || '').trim(),
+    requirements: String(body.requirements || '').trim(),
     message: String(body.message || '').trim(),
     language: String(body.language || '').trim(),
   }
@@ -39,13 +40,24 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'Missing required fields' })
   }
 
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fields.email)) {
+    return res.status(400).json({ error: 'Invalid email' })
+  }
+
+  const max = 4000
+  for (const key of ['name', 'company', 'phone', 'product', 'quantity', 'country', 'requirements', 'message', 'language']) {
+    if (fields[key] && fields[key].length > max) {
+      fields[key] = fields[key].slice(0, max)
+    }
+  }
+
   const key = process.env.WEB3FORMS_ACCESS_KEY
   if (!key) {
     return res.status(503).json({ error: 'MAILTO_FALLBACK' })
   }
 
   const message = [
-    fields.message || '(no additional requirements)',
+    fields.message || '(no additional message)',
     '',
     `Name: ${fields.name}`,
     `Company: ${fields.company || '-'}`,
@@ -54,6 +66,7 @@ export default async function handler(req, res) {
     `Product: ${fields.product}`,
     `Quantity: ${fields.quantity || '-'}`,
     `Country: ${fields.country || '-'}`,
+    `Requirements: ${fields.requirements || '-'}`,
     `Language: ${fields.language || '-'}`,
     `Inbox: ${INBOX}`,
   ].join('\n')
@@ -71,6 +84,7 @@ export default async function handler(req, res) {
       product: fields.product,
       quantity: fields.quantity,
       country: fields.country,
+      requirements: fields.requirements,
       language: fields.language,
       message,
     })

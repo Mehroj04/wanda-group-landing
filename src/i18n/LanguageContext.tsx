@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
-import { applyDocumentSeo, syncLangInUrl } from '../config/seo'
-import { isSupportedLang, type Lang } from './languages'
+import { htmlLang, syncLangInUrl } from '../config/seo'
+import { getLanguage, isSupportedLang, type Lang } from './languages'
 import { getCachedLocale, loadLocale, type TranslationKeys } from './locales'
 
 interface LanguageContextType {
@@ -64,7 +64,9 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     loadLocale(lang).then((next) => {
       if (!live) return
       setT(next)
-      applyDocumentSeo(lang, next)
+      const meta = getLanguage(lang)
+      document.documentElement.lang = htmlLang(lang)
+      document.documentElement.dir = meta.rtl ? 'rtl' : 'ltr'
       syncLangInUrl(lang)
     })
     return () => {

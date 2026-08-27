@@ -1,9 +1,15 @@
 import { useState } from 'react'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
+import { routes } from '../config/routes'
 import ScrollReveal from './ScrollReveal'
 import './FAQ.css'
 
-export default function FAQ() {
+interface FAQProps {
+  hideHeader?: boolean
+}
+
+export default function FAQ({ hideHeader = false }: FAQProps) {
   const { t } = useLanguage()
   const groups = t.faq.groups
   const [activeGroup, setActiveGroup] = useState(0)
@@ -17,13 +23,15 @@ export default function FAQ() {
   return (
     <section id="faq" className="section faq">
       <div className="container">
-        <ScrollReveal from="up">
-          <div className="section-header">
-            <span className="section-label">{t.ui.faq}</span>
-            <h2 className="section-title">{t.faq.title}</h2>
-            <p className="section-subtitle">{t.faq.subtitle}</p>
-          </div>
-        </ScrollReveal>
+        {!hideHeader && (
+          <ScrollReveal from="up">
+            <div className="section-header">
+              <span className="section-label">{t.ui.faq}</span>
+              <h2 className="section-title">{t.faq.title}</h2>
+              <p className="section-subtitle">{t.faq.subtitle}</p>
+            </div>
+          </ScrollReveal>
+        )}
 
         <div className="faq__layout">
           <nav className="faq__tabs" aria-label={t.faq.title}>
@@ -81,7 +89,7 @@ export default function FAQ() {
 
         <div className="faq__cta">
           <p>{t.faq.cta}</p>
-          <a href="#contact" className="btn btn-primary">{t.faq.ctaBtn}</a>
+          <LangLink to={routes.contact} className="btn btn-primary">{t.faq.ctaBtn}</LangLink>
         </div>
       </div>
     </section>

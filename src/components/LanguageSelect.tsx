@@ -54,6 +54,7 @@ export default function LanguageSelect() {
         onClick={() => setOpen((v) => !v)}
         aria-expanded={open}
         aria-haspopup="listbox"
+        aria-label={t.ui.searchLanguage}
       >
         <Flag country={current.country} name={current.name} className="lang-select__flag" />
         <span className="lang-select__name">{current.native}</span>

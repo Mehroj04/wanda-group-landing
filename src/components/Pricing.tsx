@@ -1,4 +1,6 @@
+import { Link } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
+import { routes } from '../config/routes'
 import ScrollReveal from './ScrollReveal'
 import './Pricing.css'
 
@@ -39,9 +41,9 @@ export default function Pricing() {
                 ))}
               </ul>
               <p className="pricing__note">{c.note}</p>
-              <a href="#contact" className="btn btn-primary">
+              <Link to={routes.contact} className="btn btn-primary">
                 {t.ui.getExactQuote}
-              </a>
+              </Link>
             </div>
           </ScrollReveal>
 

@@ -1,4 +1,6 @@
 import { useEffect } from 'react'
+import { LangLink } from './LangLink'
+import { routes } from '../config/routes'
 import './AccessoryModal.css'
 
 export type AccessoryDetail = {
@@ -108,9 +110,9 @@ export default function AccessoryModal({
             </>
           )}
 
-          <a href="#contact" className="btn btn-primary accessory-modal__cta" onClick={onClose}>
+          <LangLink to={routes.contact} className="btn btn-primary accessory-modal__cta" onClick={onClose}>
             {quoteLabel}
-          </a>
+          </LangLink>
         </div>
       </div>
     </div>

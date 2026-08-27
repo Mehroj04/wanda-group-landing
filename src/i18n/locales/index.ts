@@ -1,5 +1,6 @@
 import type { Lang } from '../languages'
 import { isSupportedLang } from '../languages'
+import { deepMerge } from '../../utils/deepMerge'
 import en from './en.json'
 
 export type TranslationKeys = typeof en
@@ -21,8 +22,10 @@ export async function loadLocale(lang: Lang): Promise<TranslationKeys> {
   if (!loader) return en
 
   const mod = await loader()
-  cache.set(lang, mod.default)
-  return mod.default
+  // Merge onto English so new keys work before all 42 locales are updated.
+  const merged = deepMerge(en, mod.default)
+  cache.set(lang, merged)
+  return merged
 }
 
 export function prefetchLocale(lang: Lang) {

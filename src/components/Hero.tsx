@@ -1,5 +1,7 @@
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images } from '../config/images'
+import { routes } from '../config/routes'
 import './Hero.css'
 
 export default function Hero() {
@@ -19,9 +21,21 @@ export default function Hero() {
             {t.hero.title}
           </h1>
           <p className="hero__subtitle">{t.hero.subtitle}</p>
+          <div className="hero__lines">
+            <LangLink to={routes.products} className="hero__line">
+              {t.hero.lineGas}
+            </LangLink>
+            <LangLink to={routes.product('refrigeration')} className="hero__line">
+              {t.hero.lineCold}
+            </LangLink>
+          </div>
           <div className="hero__actions">
-            <a href="#products" className="btn btn-outline">{t.hero.ctaSecondary}</a>
-            <a href="#contact" className="btn btn-primary">{t.hero.cta}</a>
+            <LangLink to={routes.products} className="btn btn-outline">
+              {t.hero.ctaSecondary}
+            </LangLink>
+            <LangLink to={routes.contact} className="btn btn-primary">
+              {t.hero.cta}
+            </LangLink>
           </div>
         </div>
 
@@ -32,6 +46,7 @@ export default function Hero() {
               alt={`${t.imageAlts.hero} — Wanda Group`}
               className="hero__image"
               loading="eager"
+              fetchPriority="high"
               width={900}
               height={700}
             />

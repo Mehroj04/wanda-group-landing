@@ -2,7 +2,11 @@ import { useLanguage } from '../i18n/LanguageContext'
 import ScrollReveal from './ScrollReveal'
 import './Certifications.css'
 
-export default function Certifications() {
+interface CertificationsProps {
+  hideHeader?: boolean
+}
+
+export default function Certifications({ hideHeader = false }: CertificationsProps) {
   const { t } = useLanguage()
   const certs = t.certifications
   const process = t.process
@@ -11,13 +15,15 @@ export default function Certifications() {
     <>
       <section id="certifications" className="section certifications">
         <div className="container">
-          <ScrollReveal>
-            <div className="section-header">
-              <span className="section-label">{t.ui.certifications}</span>
-              <h2 className="section-title">{certs.title}</h2>
-              <p className="section-subtitle">{certs.subtitle}</p>
-            </div>
-          </ScrollReveal>
+          {!hideHeader && (
+            <ScrollReveal>
+              <div className="section-header">
+                <span className="section-label">{t.ui.certifications}</span>
+                <h2 className="section-title">{certs.title}</h2>
+                <p className="section-subtitle">{certs.subtitle}</p>
+              </div>
+            </ScrollReveal>
+          )}
 
           <div className="certifications__grid">
             {certs.items.map((item, i) => (

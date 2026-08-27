@@ -14,32 +14,43 @@
     "pricing": "Prezzi",
     "accessories": "Accessori",
     "home": "Casa",
-    "factory": "Fabbrica"
+    "factory": "Fabbrica",
+    "refrigeration": "Cold storage",
+    "cooling": "Cooling",
+    "certifications": "Certifications",
+    "oem": "OEM",
+    "markets": "Markets"
   },
   "hero": {
-    "badge": "Produttore di bombole di gas",
-    "title": "Bombole di gas affidabili per l'industria e la saldatura",
-    "subtitle": "Wanda Group è un produttore e fornitore affidabile di bombole di acetilene, propano e accessori. Soluzioni per la fornitura di gas, saldatura, taglio e stoccaggio in tutto il mondo.",
-    "cta": "Ottieni un preventivo",
-    "ctaSecondary": "I nostri prodotti",
+    "badge": "Industrial Gas Cylinder Manufacturer",
+    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
+    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "cta": "Get a Quote",
+    "ctaSecondary": "View Products",
     "stats": [
       {
-        "value": "15+",
-        "label": "Anni di esperienza"
+        "value": "Factory Direct",
+        "label": "Manufacturer-focused supply"
       },
       {
-        "value": "500K+",
-        "label": "Capacità produttiva/anno"
+        "value": "OEM",
+        "label": "Private label and customization"
       },
       {
-        "value": "50+",
-        "label": "Mercati di esportazione"
+        "value": "Export",
+        "label": "International shipping support"
       },
       {
-        "value": "ISO / DOT / TPED",
-        "label": "Qualità e certificazione"
+        "value": "QC",
+        "label": "Inspection and testing process"
+      },
+      {
+        "value": "Standards",
+        "label": "Market-specific options on request"
       }
-    ]
+    ],
+    "lineGas": "Gas cylinders",
+    "lineCold": "Refrigeration units"
   },
   "accessories": {
     "title": "Accessori affidabili per bombole di gas",
@@ -112,32 +123,36 @@
     ]
   },
   "whyUs": {
-    "title": "Perchè il Gruppo Wanda?",
-    "subtitle": "Produzione diretta, personalizzazione e supporto completo per l'esportazione: tutto per la tua azienda.",
+    "title": "Why Choose Wanda Groups",
+    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
     "items": [
       {
-        "title": "Alta qualità",
-        "desc": "Bombole in acciaio costruite per saldatura industriale e fornitura gas."
+        "title": "Manufacturer-focused supply",
+        "desc": "Product supply oriented around production, not only trading catalogues."
       },
       {
-        "title": "Controllo di qualità rigoroso",
-        "desc": "Ispezione dai materiali in entrata all'imballaggio finale."
+        "title": "OEM support",
+        "desc": "Custom colour, marking, valve and packing discussed per order."
       },
       {
-        "title": "Produzione avanzata",
-        "desc": "Formatura, saldatura, collaudo e finitura in un unico stabilimento."
+        "title": "Quality control",
+        "desc": "Inspection from materials through packing before shipment."
       },
       {
-        "title": "OEM/ODM",
-        "desc": "Colore, valvola, marcatura, tappo e confezione su ordinazione."
+        "title": "International export",
+        "desc": "Export packing and shipping coordination for overseas buyers."
       },
       {
-        "title": "Esportazione internazionale",
-        "desc": "Documenti e imballaggi per acquirenti industriali esteri."
+        "title": "Product customization",
+        "desc": "Specifications adapted to market and application requirements."
       },
       {
-        "title": "Consegna affidabile",
-        "desc": "Tempi di consegna tipici 15–25 giorni dalla conferma dell'ordine."
+        "title": "Responsive sales support",
+        "desc": "Quotes and technical replies through form, email and messengers."
+      },
+      {
+        "title": "Bulk order capability",
+        "desc": "Wholesale quantities supported for distributors and project buyers."
       }
     ]
   },
@@ -147,76 +162,90 @@
     "text2": "Supportiamo gli acquirenti esteri nella selezione dei prodotti, nella personalizzazione, nel controllo della qualità, nell'imballaggio e nel coordinamento della spedizione.",
     "facts": [
       {
-        "title": "Esperienza",
-        "desc": "Oltre 15 anni di fornitura di bombole di gas industriali."
+        "title": "Manufacturing",
+        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
       },
       {
-        "title": "Produzione",
-        "desc": "Formatura, saldatura, collaudo e finitura internamente."
+        "title": "OEM Support",
+        "desc": "Colour, marking, valve, cap and packing options by order."
       },
       {
-        "title": "Qualità",
-        "desc": "Opzioni ISO 9809, DOT e TPED per mercato."
+        "title": "Quality Process",
+        "desc": "Inspection and testing aligned with order and market requirements."
       },
       {
-        "title": "Esportare",
-        "desc": "Spedizioni coordinate per oltre 50 mercati di destinazione."
+        "title": "International Export",
+        "desc": "Documentation and packing support for overseas industrial buyers."
       }
     ]
   },
   "gallery": {
     "title": "All'interno della nostra fabbrica",
-    "subtitle": "Produzione, saldatura, collaudo, verniciatura e cilindri finiti: come prepariamo gli ordini di esportazione.",
+    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
     "items": [
       {
-        "title": "Stock di cilindro finito",
-        "desc": "Inventario pronto nel nostro stabilimento: capacità di volume per ordini all'ingrosso ed esportazione."
+        "title": "Night dispatch",
+        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
       },
       {
-        "title": "Saldatura di produzione",
-        "desc": "Fabbricazione di metalli nello stabilimento con fornitura di gas industriale."
+        "title": "Cargo staged for shipment",
+        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
       },
       {
-        "title": "Imballaggio per l'esportazione",
-        "desc": "Rete protettiva e imballaggio su pallet prima della spedizione internazionale."
+        "title": "Packed stock",
+        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
       },
       {
-        "title": "Propane ready for dispatch",
-        "desc": "Caged propane cylinders prepared for safe yard storage and loading."
+        "title": "Packed for dispatch",
+        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
       },
       {
-        "title": "Spedizione di bombole sfuse",
-        "desc": "Carichi sicuri in gabbia per il trasporto su strada verso distributori e stabilimenti."
+        "title": "Production conveyor",
+        "desc": "Cylinder bodies moving through the forming and handling line."
       },
       {
-        "title": "Delivery on the road",
-        "desc": "High-volume cylinder deliveries that keep your supply chain moving."
+        "title": "LPG finishing line",
+        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
       },
       {
-        "title": "Global export containers",
-        "desc": "Container logistics for overseas partners and long-haul orders."
+        "title": "Inside the plant",
+        "desc": "The production hall — people, machines and in-process stock."
       },
       {
-        "title": "Order packing & dispatch",
-        "desc": "Careful packing and outbound handling for accessories and spare parts."
+        "title": "Welded cylinder bodies",
+        "desc": "Shells after circumferential welding, before painting and valves."
       },
       {
-        "title": "Oxy-fuel cutting in use",
-        "desc": "Real workshop application with oxygen and acetylene cylinders."
+        "title": "Shells before painting",
+        "desc": "Unpainted bodies batched on the floor for the next process step."
       },
       {
-        "title": "Precision craft welding",
-        "desc": "Skilled production work that reflects our quality standard."
+        "title": "In-process stock",
+        "desc": "Tube sections and capped shells waiting for assembly."
       },
       {
-        "title": "Manufacturing facility",
-        "desc": "Clean industrial halls with crane systems for heavy production."
+        "title": "Cylinder bodies in stock",
+        "desc": "Rolled shells stacked after welding, before heads and valves."
       },
       {
-        "title": "Gamma di dimensioni del cilindro",
-        "desc": "From compact bottles to industrial tanks — one partner for the full lineup."
+        "title": "Base rings",
+        "desc": "Foot rings prepared for welding onto cylinder shells."
+      },
+      {
+        "title": "Packed fittings",
+        "desc": "Valves and fittings boxed with foam for export shipment."
+      },
+      {
+        "title": "Acetylene generator",
+        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+      },
+      {
+        "title": "Shells on the floor",
+        "desc": "Open-neck bodies after welding — the batch before valve fitment."
       }
-    ]
+    ],
+    "videosTitle": "Factory videos",
+    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
   },
   "quality": {
     "title": "Controllo di qualità",
@@ -422,7 +451,8 @@
       "Bombola di propano",
       "Generatore di acetilene",
       "Accessori",
-      "Ordine del pacchetto"
+      "Ordine del pacchetto",
+      "Cold storage / refrigeration"
     ],
     "message": "Requisiti aggiuntivi",
     "messagePlaceholder": "Prodotto, taglia, quantità, paese di destinazione...",
@@ -437,13 +467,16 @@
     "privacyLink": "politica sulla riservatezza",
     "company": "Azienda",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "Invia tramite app di posta elettronica"
+    "emailAppButton": "Invia tramite app di posta elettronica",
+    "termsAnd": " and the ",
+    "termsLink": "Terms of Use"
   },
   "footer": {
     "company": "Produttore di bombole di gas del Gruppo Wanda",
     "tagline": "Produzione professionale di bombole di gas",
     "rights": "© 2026 Gruppo Wanda. Tutti i diritti riservati.",
-    "privacy": "politica sulla riservatezza"
+    "privacy": "politica sulla riservatezza",
+    "terms": "Terms of Use"
   },
   "ui": {
     "catalog": "Catalogare",
@@ -480,15 +513,12 @@
     "noLanguagesFound": "Nessuna lingua trovata"
   },
   "trustMarquee": [
-    "ISO 9809-1",
-    "DOT 3AA",
-    "TPED",
-    "GB 5099",
-    "CE",
-    "OEM/ODM",
-    "Esporta in oltre 50 paesi",
-    "MOQ da 100 pz",
-    "Tempi di consegna 15–25 giorni"
+    "Factory Direct",
+    "OEM / Private Label",
+    "International Export",
+    "Quality Control",
+    "Market Standards on Request",
+    "Bulk Orders"
   ],
   "productDetails": {
     "tabs": {
@@ -905,7 +935,7 @@
   },
   "certifications": {
     "title": "Certificazioni e standard",
-    "subtitle": "Products comply with international safety standards. Documents provided with every shipment.",
+    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -1053,28 +1083,37 @@
     ]
   },
   "imageAlts": {
-    "hero": "Bombole di gas industriali pronte in fabbrica",
-    "about": "Stock di bombole pronte per l'esportazione con imballaggio protettivo",
+    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
+    "about": "Workers on the Wanda Group factory floor",
     "accessories": "Welding and cutting with gas cylinder accessories",
     "products": [
       "Acetylene gas cylinders in factory stock",
-      "Industrial gas production equipment",
+      "Acetylene generator photographed at the plant",
       "Propane cylinders ready for dispatch",
       "Oxy-fuel cutting and cylinder accessories in use"
     ],
     "gallery": [
-      "Stock di cilindri finiti in fabbrica",
-      "Saldatura di produzione in fabbrica",
-      "Imballaggio per esportazione con rete protettiva",
-      "Propane cylinders ready for dispatch",
-      "Spedizione di bombole sfuse su camion",
-      "Cylinder delivery transport",
-      "Global export shipping containers",
-      "Order packing and dispatch",
-      "Oxy-fuel cutting with gas cylinders",
-      "Precision craft welding",
-      "Manufacturing facility hall",
-      "Cylinder size range lineup"
+      "Night dispatch: wrapped equipment loaded on a trailer",
+      "Pallets and metal parts staged for shipment",
+      "Cartons of packed stock stacked in the warehouse",
+      "Cylinders wrapped in film, staged in the factory yard",
+      "Gas cylinder production conveyor under the plant roof",
+      "LPG cylinders hanging on the overhead finishing conveyor",
+      "Workers walking the Wanda Group factory floor",
+      "Unpainted welded propane cylinder bodies stacked two-high",
+      "Rows of unpainted cylinder shells on the concrete floor",
+      "Cylinder tube stock and capped shells in the workshop",
+      "Stacked raw cylinder bodies against the factory wall",
+      "Steel base rings piled before assembly",
+      "Brass fittings packed in a carton with foam",
+      "Acetylene generator with hose and boxed accessories",
+      "Unpainted cylinder shells with open necks after welding"
+    ],
+    "refrigeration": [
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
+      "Enclosed cabinet-style refrigeration condensing unit",
+      "High-capacity four-fan air-cooled condensing unit"
     ]
   },
   "accessoriesCatalog": {
@@ -1494,5 +1533,108 @@
       }
     ],
     "contactLead": "Domande su questa politica:"
+  },
+  "terms": {
+    "label": "Legal",
+    "title": "Terms of Use",
+    "updated": "Last updated: 27 August 2026",
+    "intro": [
+      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
+      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+    ],
+    "sections": [
+      {
+        "title": "Who we are",
+        "body": [
+          "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
+        ]
+      },
+      {
+        "title": "What the website is for",
+        "body": [
+          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+        ]
+      },
+      {
+        "title": "Quotes, prices and orders",
+        "body": [
+          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
+          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+        ]
+      },
+      {
+        "title": "Photos, videos and certificates",
+        "body": [
+          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+        ]
+      },
+      {
+        "title": "Intellectual property",
+        "body": [
+          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+        ]
+      },
+      {
+        "title": "Acceptable use",
+        "body": [
+          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+        ]
+      },
+      {
+        "title": "Liability",
+        "body": [
+          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
+          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+        ]
+      },
+      {
+        "title": "Changes",
+        "body": [
+          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+        ]
+      }
+    ],
+    "contactLead": "Questions about these terms:"
+  },
+  "refrigeration": {
+    "label": "Our product line",
+    "title": "Refrigeration units",
+    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
+    "moreLink": "Cold storage equipment →",
+    "cta": "Request a quote",
+    "alsoTitle": "Also available on request",
+    "also": [
+      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
+      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Aluminum evaporator coils",
+      "Cold-room doors",
+      "Industrial water chillers",
+      "Vehicle refrigeration units and mobile cold rooms"
+    ],
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
+    "videoTitle": "Company video",
+    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "items": [
+      {
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+      },
+      {
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+      },
+      {
+        "title": "Enclosed box-type unit",
+        "spec": "Cabinet condensing unit",
+        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+      },
+      {
+        "title": "U-type / high-capacity condensing unit",
+        "spec": "Multi-fan air-cooled",
+        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+      }
+    ]
   }
 }

@@ -1,3 +1,5 @@
+import { LangLink } from './LangLink'
+import { routes } from '../config/routes'
 import { useLanguage } from '../i18n/LanguageContext'
 import { storySlideImages } from '../config/story'
 import ScrollReveal from './ScrollReveal'
@@ -39,9 +41,9 @@ export default function VisualStory() {
                     <li key={point}>{point}</li>
                   ))}
                 </ul>
-                <a href="#contact" className="btn btn-primary visual-story__cta">
+                <LangLink to={routes.contact} className="btn btn-primary visual-story__cta">
                   {t.nav.getQuote}
-                </a>
+                </LangLink>
               </ScrollReveal>
             </div>
           </article>

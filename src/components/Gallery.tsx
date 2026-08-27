@@ -1,33 +1,53 @@
+import type { ReactNode } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import { galleryImages } from '../config/images'
+import { factoryVideos } from '../config/videos'
 import ScrollReveal from './ScrollReveal'
 import './Gallery.css'
 
-export default function Gallery() {
+interface GalleryProps {
+  id?: string
+  hideHeader?: boolean
+  /** Show fewer photos and skip YouTube embeds (home teaser). */
+  compact?: boolean
+  footer?: ReactNode
+}
+
+export default function Gallery({
+  id = 'factory-gallery',
+  hideHeader = false,
+  compact = false,
+  footer,
+}: GalleryProps) {
   const { t } = useLanguage()
-  const items = t.gallery.items
+  const items = compact ? t.gallery.items.slice(0, 6) : t.gallery.items
+  const images = compact ? galleryImages.slice(0, 6) : galleryImages
 
   return (
-    <section id="factory" className="section gallery">
+    <section id={id} className="section gallery">
       <div className="container">
-        <ScrollReveal from="up">
-          <div className="section-header">
-            <span className="section-label">{t.nav.factory}</span>
-            <h2 className="section-title">{t.gallery.title}</h2>
-            <p className="section-subtitle">{t.gallery.subtitle}</p>
-          </div>
-        </ScrollReveal>
+        {!hideHeader && (
+          <ScrollReveal from="up">
+            <div className="section-header">
+              <span className="section-label">{t.nav.factory}</span>
+              <h2 className="section-title">{t.gallery.title}</h2>
+              <p className="section-subtitle">{t.gallery.subtitle}</p>
+            </div>
+          </ScrollReveal>
+        )}
 
         <div className="gallery__grid">
           {items.map((item, i) => (
-            <ScrollReveal key={galleryImages[i]} delay={(i % 6) * 30} from="fade">
-              <figure className="gallery__item">
+            <ScrollReveal key={images[i]} delay={(i % 6) * 30} from="fade">
+              <figure
+                className={`gallery__item${images[i]?.includes('g10-pipe-welding') ? ' gallery__item--contain' : ''}`}
+              >
                 <img
-                  src={galleryImages[i]}
-                  alt={item.title}
+                  src={images[i]}
+                  alt={t.imageAlts.gallery[i] || item.title}
                   loading="lazy"
                   width={640}
-                  height={480}
+                  height={images[i]?.includes('g10-pipe-welding') ? 853 : 480}
                 />
                 <figcaption>
                   <strong>{item.title}</strong>
@@ -37,6 +57,36 @@ export default function Gallery() {
             </ScrollReveal>
           ))}
         </div>
+
+        {!compact && (
+          <>
+            <ScrollReveal from="up">
+              <div className="gallery__videos-head">
+                <h3 className="gallery__videos-title">{t.gallery.videosTitle}</h3>
+                <p className="gallery__videos-subtitle">{t.gallery.videosSubtitle}</p>
+              </div>
+            </ScrollReveal>
+
+            <div className="gallery__videos">
+              {factoryVideos.map((video, i) => (
+                <ScrollReveal key={video.id} delay={(i % 6) * 40} from="fade">
+                  <div className="gallery__video">
+                    <iframe
+                      src={`https://www.youtube-nocookie.com/embed/${video.id}`}
+                      title={video.title}
+                      loading="lazy"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                      allowFullScreen
+                      referrerPolicy="strict-origin-when-cross-origin"
+                    />
+                  </div>
+                </ScrollReveal>
+              ))}
+            </div>
+          </>
+        )}
+
+        {footer}
       </div>
     </section>
   )

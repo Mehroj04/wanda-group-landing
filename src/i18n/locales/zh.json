@@ -14,30 +14,41 @@
     "pricing": "价格",
     "accessories": "配件",
     "home": "首页",
-    "factory": "工厂"
+    "factory": "工厂",
+    "refrigeration": "制冷设备",
+    "cooling": "制冷",
+    "certifications": "Certifications",
+    "oem": "OEM",
+    "markets": "Markets"
   },
   "hero": {
-    "badge": "气瓶制造商",
-    "title": "工业与焊接用可靠气瓶",
-    "subtitle": "Wanda Group 是乙炔气瓶、丙烷气瓶及配件的可信制造商与供应商。为全球气体供应、焊接、切割及储存提供解决方案。",
-    "cta": "获取报价",
-    "ctaSecondary": "查看产品",
+    "badge": "Industrial Gas Cylinder Manufacturer",
+    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
+    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "lineGas": "气瓶",
+    "lineCold": "制冷机组",
+    "cta": "Get a Quote",
+    "ctaSecondary": "View Products",
     "stats": [
       {
-        "value": "15+",
-        "label": "年行业经验"
+        "value": "Factory Direct",
+        "label": "Manufacturer-focused supply"
       },
       {
-        "value": "50万+",
-        "label": "年产能"
+        "value": "OEM",
+        "label": "Private label and customization"
       },
       {
-        "value": "50+",
-        "label": "出口市场"
+        "value": "Export",
+        "label": "International shipping support"
       },
       {
-        "value": "ISO / DOT / TPED",
-        "label": "品质与认证"
+        "value": "QC",
+        "label": "Inspection and testing process"
+      },
+      {
+        "value": "Standards",
+        "label": "Market-specific options on request"
       }
     ]
   },
@@ -112,32 +123,36 @@
     ]
   },
   "whyUs": {
-    "title": "为何选择 Wanda Group？",
-    "subtitle": "直接制造、定制服务及全面出口支持——为您的业务提供一站式解决方案。",
+    "title": "Why Choose Wanda Groups",
+    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
     "items": [
       {
-        "title": "优质品质",
-        "desc": "专为工业焊接和气体供应打造的钢制气瓶。"
+        "title": "Manufacturer-focused supply",
+        "desc": "Product supply oriented around production, not only trading catalogues."
       },
       {
-        "title": "严格质检",
-        "desc": "从原材料入厂到成品包装全程检验。"
+        "title": "OEM support",
+        "desc": "Custom colour, marking, valve and packing discussed per order."
       },
       {
-        "title": "先进制造",
-        "desc": "成型、焊接、检测和表面处理集于一厂。"
+        "title": "Quality control",
+        "desc": "Inspection from materials through packing before shipment."
       },
       {
-        "title": "OEM / ODM 贴牌定制",
-        "desc": "颜色、阀门、钢印、瓶帽和包装均可按单定制。"
+        "title": "International export",
+        "desc": "Export packing and shipping coordination for overseas buyers."
       },
       {
-        "title": "国际出口",
-        "desc": "为海外工业客户提供配套单证与包装。"
+        "title": "Product customization",
+        "desc": "Specifications adapted to market and application requirements."
       },
       {
-        "title": "交付可靠",
-        "desc": "订单确认后通常 15–25 天交货。"
+        "title": "Responsive sales support",
+        "desc": "Quotes and technical replies through form, email and messengers."
+      },
+      {
+        "title": "Bulk order capability",
+        "desc": "Wholesale quantities supported for distributors and project buyers."
       }
     ]
   },
@@ -147,76 +162,90 @@
     "text2": "我们为海外买家提供产品选型、定制、质量检验、包装及运输协调支持。",
     "facts": [
       {
-        "title": "行业经验",
-        "desc": "15 年以上工业气瓶供应经验。"
+        "title": "Manufacturing",
+        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
       },
       {
-        "title": "生产制造",
-        "desc": "自有成型、焊接、检测和表面处理产线。"
+        "title": "OEM Support",
+        "desc": "Colour, marking, valve, cap and packing options by order."
       },
       {
-        "title": "质量标准",
-        "desc": "可按目标市场选择 ISO 9809、DOT 或 TPED 标准。"
+        "title": "Quality Process",
+        "desc": "Inspection and testing aligned with order and market requirements."
       },
       {
-        "title": "出口业务",
-        "desc": "已协调发运至 50 多个目的市场。"
+        "title": "International Export",
+        "desc": "Documentation and packing support for overseas industrial buyers."
       }
     ]
   },
   "gallery": {
     "title": "走进我们的工厂",
-    "subtitle": "生产、焊接、检测、喷涂到成品气瓶——看我们如何准备出口订单。",
+    "subtitle": "工厂实拍、最新发运照片，以及生产线短视频。",
     "items": [
       {
-        "title": "成品气瓶库存",
-        "desc": "厂内现货库存——满足批发和出口订单的供货能力。"
+        "title": "夜间发运",
+        "desc": "裹膜设备装上拖车——照片带有时间与地点。"
       },
       {
-        "title": "生产焊接",
-        "desc": "车间内的金属加工作业，配套工业气体供应。"
+        "title": "待发货物",
+        "desc": "托盘与零件已集结待运。仓库实拍，而非影棚。"
       },
       {
-        "title": "出口包装",
-        "desc": "国际发运前的防护网套与托盘包装。"
+        "title": "装箱库存",
+        "desc": "仓库内码放的纸箱，准备发出下一票订单。"
       },
       {
-        "title": "安全笼中的乙炔气瓶",
-        "desc": "加装防护笼的气瓶，便于厂区安全存放与装车。"
+        "title": "待发出货",
+        "desc": "气瓶覆膜后在厂区场地集结，准备发运。"
       },
       {
-        "title": "气瓶批量发运",
-        "desc": "采用固定笼架装车，发往经销商和工厂。"
+        "title": "生产线输送",
+        "desc": "瓶体在成型与转运线上移动。"
       },
       {
-        "title": "出口单证",
-        "desc": "每笔海外订单均随附核对清单、包装与发运文件。"
+        "title": "LPG 精整线",
+        "desc": "已喷涂的液化气瓶在悬挂输送线上，等待包装。"
       },
       {
-        "title": "阀门装配",
-        "desc": "出厂包装前在生产线上装配黄铜阀门。"
+        "title": "车间现场",
+        "desc": "生产车间——人员、设备与在制品。"
       },
       {
-        "title": "氧乙炔切割",
-        "desc": "车间内使用氧气与乙炔进行工业切割。"
+        "title": "已焊瓶体",
+        "desc": "环缝焊接后的瓶壳，尚未喷漆和装阀。"
       },
       {
-        "title": "工业焊接",
-        "desc": "车间焊接作业——正是我们气瓶所服务的应用场景。"
+        "title": "喷漆前瓶壳",
+        "desc": "未喷漆瓶体在地面分批等待下道工序。"
       },
       {
-        "title": "管道焊接",
-        "desc": "在装配台上用工业气体完成管路焊接。"
+        "title": "在制库存",
+        "desc": "筒节与已封头瓶壳等待组装。"
       },
       {
-        "title": "大型金属加工",
-        "desc": "厂内大型金属件起吊、装配与组对作业。"
+        "title": "瓶体堆存",
+        "desc": "焊接后的筒体码放，尚未装阀。"
       },
       {
-        "title": "气瓶规格系列",
-        "desc": "同一产线覆盖多种容积，支持 OEM 颜色与阀门定制。"
+        "title": "底座圈",
+        "desc": "准备焊到瓶体上的底圈。"
+      },
+      {
+        "title": "配件装箱",
+        "desc": "阀门与管件用泡沫装箱，供出口发运。"
+      },
+      {
+        "title": "乙炔发生器",
+        "desc": "发生器连同软管与配件，已可出厂。"
+      },
+      {
+        "title": "地面瓶壳",
+        "desc": "焊接后敞口瓶体——装阀前的批次。"
       }
-    ]
+    ],
+    "videosTitle": "工厂视频",
+    "videosSubtitle": "工厂最新短视频。更多资料可按要求单独发送。"
   },
   "quality": {
     "title": "质量控制",
@@ -276,7 +305,7 @@
         "items": [
           {
             "q": "下单前可以先看工厂视频吗？",
-            "a": "可以。您可以观看生产、仓储、产品与包装视频，以便更清楚地了解我们的供货能力。"
+            "a": "可以。本页「工厂」区块可观看生产线视频。更多影像、包装与证书资料可按要求单独发送。"
           },
           {
             "q": "你们提供产品视频吗，特别是乙炔气瓶的视频？",
@@ -422,7 +451,8 @@
       "丙烷气瓶",
       "乙炔发生器",
       "配件",
-      "组合订单"
+      "组合订单",
+      "冷库 / 制冷设备"
     ],
     "message": "其他要求",
     "messagePlaceholder": "产品、规格、数量、目的国...",
@@ -437,13 +467,16 @@
     "privacyLink": "隐私政策",
     "company": "公司",
     "emailFallback": "网站无法自动发送。请点击下方按钮，将打开邮件应用并填好发给 sales@wandagroups.com 的信件。",
-    "emailAppButton": "通过邮件应用发送"
+    "emailAppButton": "通过邮件应用发送",
+    "termsAnd": "和",
+    "termsLink": "使用条款"
   },
   "footer": {
     "company": "Wanda Group 气瓶制造",
     "tagline": "专业气瓶制造",
     "rights": "© 2026 Wanda Group. 保留所有权利。",
-    "privacy": "隐私政策"
+    "privacy": "隐私政策",
+    "terms": "使用条款"
   },
   "ui": {
     "catalog": "产品目录",
@@ -480,15 +513,12 @@
     "noLanguagesFound": "未找到语言"
   },
   "trustMarquee": [
-    "ISO 9809-1",
-    "DOT 3AA",
-    "TPED",
-    "GB 5099",
-    "CE",
-    "OEM/ODM",
-    "出口 50 多个国家",
-    "起订量 100 支起",
-    "交货期 15–25 天"
+    "Factory Direct",
+    "OEM / Private Label",
+    "International Export",
+    "Quality Control",
+    "Market Standards on Request",
+    "Bulk Orders"
   ],
   "productDetails": {
     "tabs": {
@@ -905,7 +935,7 @@
   },
   "certifications": {
     "title": "认证与标准",
-    "subtitle": "产品符合国际安全标准。每批发运均随附相关文件。",
+    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -1053,28 +1083,37 @@
     ]
   },
   "imageAlts": {
-    "hero": "工厂内准备就绪的工业气瓶",
-    "about": "带防护包装的出口备货气瓶",
+    "hero": "覆膜气瓶在厂区场地集结待发",
+    "about": "万达集团车间内的工作人员",
     "accessories": "气瓶配件套装——减压器、软管、焊割炬及接头",
     "products": [
       "带多孔填料和黄铜阀门的溶解乙炔气瓶",
-      "工厂撬装式工业乙炔发生器",
+      "工厂实拍乙炔发生器",
       "多种规格与颜色的丙烷及液化石油气瓶",
       "气瓶焊接切割配件套装"
     ],
     "gallery": [
-      "工厂内的成品气瓶库存",
-      "车间内的生产焊接作业",
-      "带防护网套的出口包装",
-      "安全笼中的乙炔气瓶",
-      "卡车批量装运气瓶",
-      "出口单证与包装检验",
-      "生产线上的阀门装配",
-      "使用氧气与乙炔气瓶进行氧乙炔切割",
-      "车间内的工业焊接",
-      "装配台上的管道焊接",
-      "厂内大型金属加工",
-      "工厂内的气瓶规格系列"
+      "夜间发运：裹膜设备装上拖车",
+      "待发托盘与零件",
+      "仓库内码放待发的纸箱",
+      "覆膜气瓶在厂区场地集结待发",
+      "厂房屋顶下的气瓶输送线",
+      "悬挂精整线上的 LPG 气瓶",
+      "万达集团车间内的工作人员",
+      "未喷漆、已焊接的瓶体码放两层",
+      "混凝土地面上成排的未喷漆瓶壳",
+      "车间内的筒节与封头瓶壳",
+      "靠墙码放的原瓶体",
+      "装配前的钢制底座圈",
+      "纸箱内泡沫保护的黄铜配件",
+      "工厂实拍乙炔发生器",
+      "焊接后敞口的未喷漆瓶壳"
+    ],
+    "refrigeration": [
+      "谷轮半封闭风冷冷凝机组",
+      "比泽尔半封闭风冷冷凝机组",
+      "箱式制冷机组",
+      "多风扇大容量风冷冷凝机组"
     ]
   },
   "accessoriesCatalog": {
@@ -1444,7 +1483,7 @@
     "updated": "最后更新：2026 年 8 月 25 日",
     "intro": [
       "万达集团（以下简称“我们”）通过本网站展示气瓶、配件及相关出口供货业务，并接收工业采购客户的商务询价。",
-      "本政策说明我们通过本网站收集哪些个人信息、为何使用这些信息，以及您如何就此与我们联系。我们不在网站上公开工厂视频或证书文件，这些资料应要求单独发送。"
+      "本政策说明我们通过本网站收集哪些个人信息、为何使用这些信息，以及您如何就此与我们联系。工厂生产视频在本网站展示。证书文件应要求单独发送。"
     ],
     "sections": [
       {
@@ -1494,5 +1533,108 @@
       }
     ],
     "contactLead": "关于本政策的疑问，请联系："
+  },
+  "terms": {
+    "label": "法律信息",
+    "title": "使用条款",
+    "updated": "更新日期：2026年8月27日",
+    "intro": [
+      "本条款适用于 wandagroups.com。本网站由 Wanda Group 运营，面向气瓶、发生器及配件的工业采购方。",
+      "浏览网站或提交询盘，即表示您同意本条款及隐私政策。如不同意，请勿使用本网站。"
+    ],
+    "sections": [
+      {
+        "title": "我们是谁",
+        "body": [
+          "Wanda Group 生产乙炔气瓶、丙烷气瓶、乙炔发生器及相关配件并出口。联系方式：sales@wandagroups.com，电话 / WhatsApp +998 50 713 66 46，微信 +86 130 8285 5282。"
+        ]
+      },
+      {
+        "title": "网站用途",
+        "body": [
+          "本网站用于展示产品并接收商务询盘，面向企业采购，而非个人消费者或未成年人。"
+        ]
+      },
+      {
+        "title": "报价、价格与订单",
+        "body": [
+          "网站上的价格、起订量、交期和参数均为参考。通过表单或即时通讯发送的信息属于询盘，不构成订单。",
+          "仅在双方书面确认报价（邮件或签署文件）并收到约定定金后成立合同，确认函另有约定的除外。"
+        ]
+      },
+      {
+        "title": "照片、视频与证书",
+        "body": [
+          "网站上的工厂照片和视频用于说明生产情况。更多影像和证书文件按要求单独发送，未经书面同意不得对外公开。"
+        ]
+      },
+      {
+        "title": "知识产权",
+        "body": [
+          "本网站的文字、照片、视频、标识和版式归 Wanda Group 或其许可方所有。未经书面同意，不得将产品目录用于自有商业网站。"
+        ]
+      },
+      {
+        "title": "正当使用",
+        "body": [
+          "请勿滥用询盘表单（垃圾信息、虚假身份或干扰网站运行）。我们可忽略或删除此类请求。"
+        ]
+      },
+      {
+        "title": "责任",
+        "body": [
+          "我们尽力保证信息准确，但网站仍可能存在差错或短暂无法访问。在法律允许范围内，Wanda Group 不对仅因使用网站而产生的间接损失承担责任。",
+          "实际供货合同的责任以该合同及适用法律为准，而非仅以本网站条款为准。"
+        ]
+      },
+      {
+        "title": "变更",
+        "body": [
+          "我们可能更新本条款。文首日期为现行版本。变更后继续使用网站，即视为接受更新后的条款。"
+        ]
+      }
+    ],
+    "contactLead": "关于本条款的疑问，请联系："
+  },
+  "refrigeration": {
+    "label": "万达产品",
+    "title": "制冷机组",
+    "subtitle": "万达集团独立产品线，而非第三方目录。冷库机组、库体与配套可与气瓶一并询价，也可单独下单。",
+    "moreLink": "制冷设备 →",
+    "cta": "获取报价",
+    "alsoTitle": "亦可按需供应",
+    "also": [
+      "聚氨酯冷库板（B1 / B2）及 304 不锈钢冷库板",
+      "冷风机：DL（约 0 °C）、DD（约 −18 °C）、DJ（约 −25 °C）",
+      "铝排管蒸发器",
+      "冷库门",
+      "工业冷水机组",
+      "车载制冷机组与移动冷库"
+    ],
+    "note": "万达国际贸易在气瓶产品之外供应制冷设备：机组、库板、冷风机及冷链配件。谷轮、比泽尔等名称指机组所配压缩机品牌，并非代售这些公司的整机品牌。",
+    "videoTitle": "公司视频",
+    "videoSubtitle": "制冷设备产品线概览。更多影像资料可按需单独发送。",
+    "items": [
+      {
+        "title": "谷轮半封闭风冷机组",
+        "spec": "冷凝机组 · 谷轮压缩机",
+        "desc": "配备谷轮半封闭压缩机的风冷冷凝机组，适用于冷库及中温工况。"
+      },
+      {
+        "title": "比泽尔半封闭风冷机组",
+        "spec": "冷凝机组 · 比泽尔压缩机",
+        "desc": "配备比泽尔半封闭压缩机的风冷冷凝机组，适用于更高负荷及中低温库。"
+      },
+      {
+        "title": "箱式机组",
+        "spec": "柜式冷凝机组",
+        "desc": "封闭柜式冷凝机组，适用于需要封闭机柜而非开放式机架的场地。"
+      },
+      {
+        "title": "U 型 / 多风扇冷凝机组",
+        "spec": "多风扇风冷",
+        "desc": "更大风冷冷凝机组，多风扇冷凝器，适用于大型冷库及工艺冷却。"
+      }
+    ]
   }
 }

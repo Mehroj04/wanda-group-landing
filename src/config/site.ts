@@ -1,15 +1,15 @@
 export const siteConfig = {
   company: 'Wanda Group Gas Cylinder Manufacturer',
   email: 'sales@wandagroups.com',
-  phone: '+86 130 8285 5282',
+  phone: '+998 50 713 66 46',
   whatsapp: '+998 50 713 66 46',
   telegram: '@sh987789',
   wechat: '+86 130 8285 5282',
   wechatQr: '/images/wechat-qr.png',
   location: {
-    ru: '58, Northwest Qinhai, провинция Хэбэй, Китай',
-    en: '58, Northwest Qinhai, Hebei Province, China',
-    zh: '中国河北省 Northwest Qinhai 58 号',
+    ru: 'ул. Хуанхэдун, 58, г. Цанчжоу, провинция Хэбэй, Китай',
+    en: '58, Huanghedong Street, Cangzhou, Hebei Province, China',
+    zh: '中国河北省沧州市黄河东街58号',
   },
 }
 

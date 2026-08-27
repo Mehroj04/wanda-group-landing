@@ -1,57 +1,43 @@
-import Header from './components/Header'
-import Hero from './components/Hero'
-import TrustBar from './components/TrustBar'
-import AccessoriesBanner from './components/AccessoriesBanner'
-import Products from './components/Products'
-import Accessories from './components/Accessories'
-import VisualStory from './components/VisualStory'
-import ProductDetails from './components/ProductDetails'
-import Services from './components/Services'
-import Pricing from './components/Pricing'
-import Specs from './components/Specs'
-import Applications from './components/Applications'
-import WhyUs from './components/WhyUs'
-import About from './components/About'
-import Certifications from './components/Certifications'
-import Gallery from './components/Gallery'
-import QualityControl from './components/QualityControl'
-import Testimonials from './components/Testimonials'
-import FAQ from './components/FAQ'
-import Articles from './components/Articles'
-import Contact from './components/Contact'
-import Privacy from './components/Privacy'
-import Footer from './components/Footer'
-import StickyCTA from './components/StickyCTA'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Layout from './components/Layout'
+import HomePage from './pages/HomePage'
+import AboutPage from './pages/AboutPage'
+import ProductsPage from './pages/ProductsPage'
+import ProductDetailPage from './pages/ProductDetailPage'
+import FactoryPage from './pages/FactoryPage'
+import CertificationsPage from './pages/CertificationsPage'
+import OemPage from './pages/OemPage'
+import MarketsPage from './pages/MarketsPage'
+import ApplicationsPage from './pages/ApplicationsPage'
+import FaqPage from './pages/FaqPage'
+import ContactPage from './pages/ContactPage'
+import BlogPage from './pages/BlogPage'
+import PrivacyPage from './pages/PrivacyPage'
+import TermsPage from './pages/TermsPage'
+import NotFoundPage from './pages/NotFoundPage'
 
 export default function App() {
   return (
-    <>
-      <Header />
-      <main>
-        <Hero />
-        <TrustBar />
-        <AccessoriesBanner />
-        <Products />
-        <Accessories />
-        <VisualStory />
-        <ProductDetails />
-        <Services />
-        <Pricing />
-        <Specs />
-        <Applications />
-        <WhyUs />
-        <About />
-        <Gallery />
-        <QualityControl />
-        <Certifications />
-        <Testimonials />
-        <FAQ />
-        <Articles />
-        <Contact />
-        <Privacy />
-      </main>
-      <Footer />
-      <StickyCTA />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route element={<Layout />}>
+          <Route index element={<HomePage />} />
+          <Route path="about" element={<AboutPage />} />
+          <Route path="products" element={<ProductsPage />} />
+          <Route path="products/:slug" element={<ProductDetailPage />} />
+          <Route path="factory" element={<FactoryPage />} />
+          <Route path="certifications" element={<CertificationsPage />} />
+          <Route path="oem" element={<OemPage />} />
+          <Route path="markets" element={<MarketsPage />} />
+          <Route path="applications" element={<ApplicationsPage />} />
+          <Route path="faq" element={<FaqPage />} />
+          <Route path="contact" element={<ContactPage />} />
+          <Route path="blog" element={<BlogPage />} />
+          <Route path="privacy" element={<PrivacyPage />} />
+          <Route path="terms" element={<TermsPage />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   )
 }

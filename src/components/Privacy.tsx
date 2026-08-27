@@ -13,7 +13,7 @@ export default function Privacy() {
         <ScrollReveal from="up">
           <div className="section-header">
             <span className="section-label">{p.label}</span>
-            <h2 className="section-title">{p.title}</h2>
+            <h1 className="section-title">{p.title}</h1>
             <p className="section-subtitle">{p.updated}</p>
           </div>
         </ScrollReveal>
