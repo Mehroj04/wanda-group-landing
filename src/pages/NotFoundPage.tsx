@@ -34,6 +34,9 @@ export default function NotFoundPage() {
           <LangLink to={routes.products} className="btn btn-outline">
             {p.products}
           </LangLink>
+          <LangLink to={routes.contact} className="btn btn-outline">
+            {p.contact}
+          </LangLink>
         </div>
       </div>
     </section>

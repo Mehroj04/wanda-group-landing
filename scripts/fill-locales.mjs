@@ -28,7 +28,7 @@ const targets = [
   ['lt', 'lt'], ['ms', 'ms'], ['no', 'no'], ['pl', 'pl'], ['pt', 'pt'],
   ['ro', 'ro'], ['ru', 'ru'], ['sr', 'sr'], ['sk', 'sk'], ['sl', 'sl'],
   ['es', 'es'], ['sw', 'sw'], ['sv', 'sv'], ['th', 'th'], ['tr', 'tr'],
-  ['uk', 'uk'], ['ur', 'ur'], ['uz', 'uz'], ['vi', 'vi'], ['zh', 'zh'],
+  ['uk', 'uk'], ['ur', 'ur'], ['uz', 'uz'], ['vi', 'vi'], ['zh', 'zh-CN'],
   ['tg', 'tg'],
 ]
 
@@ -99,7 +99,9 @@ function saveCache(code, cache) {
 
 async function translateBatch(texts, to) {
   if (texts.length === 0) return []
-  const res = await translate(texts, { from: 'en', to, forceBatch: true })
+  const opts = { from: 'en', to, forceBatch: true }
+  if (to === 'zh-CN') opts.forceTo = true
+  const res = await translate(texts, opts)
   if (Array.isArray(res)) return res.map((r) => (typeof r?.text === 'string' ? r.text : String(r)))
   if (typeof res?.text === 'string') return [res.text]
   throw new Error('Unexpected translate result')

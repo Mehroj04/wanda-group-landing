@@ -17,38 +17,38 @@
     "factory": "工厂",
     "refrigeration": "制冷设备",
     "cooling": "制冷",
-    "certifications": "Certifications",
-    "oem": "OEM",
-    "markets": "Markets"
+    "certifications": "认证证书",
+    "oem": "代加工",
+    "markets": "市场"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "badge": "工业气瓶制造商",
+    "title": "工业气瓶及设备制造商",
+    "subtitle": "为国际出口买家制造、OEM 和批发乙炔瓶、丙烷/液化石油气瓶、发电机和焊接配件。",
     "lineGas": "气瓶",
     "lineCold": "制冷机组",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "cta": "获取报价",
+    "ctaSecondary": "查看产品",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "以制造商为中心的供应"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "自有品牌和定制"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "国际运输支持"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "检验测试流程"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "根据要求提供特定于市场的选项"
       }
     ]
   },
@@ -123,36 +123,36 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "为什么选择万达集团",
+    "subtitle": "工业买家评估制造合作伙伴的具体能力。",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "以制造商为中心的供应",
+        "desc": "产品供应以生产为导向，而不仅仅是贸易目录。"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM支持",
+        "desc": "根据订单讨论定制颜色、标记、阀门和包装。"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "质量控制",
+        "desc": "发货前从材料到包装的检查。"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "国际出口",
+        "desc": "为海外买家协调出口包装和运输。"
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "产品定制",
+        "desc": "规格适应市场和应用要求。"
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "响应式销售支持",
+        "desc": "通过表格、电子邮件和通讯工具进行报价和技术回复。"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "批量订单能力",
+        "desc": "为经销商和项目买家提供批发数量支持。"
       }
     ]
   },
@@ -162,20 +162,20 @@
     "text2": "我们为海外买家提供产品选型、定制、质量检验、包装及运输协调支持。",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "制造业",
+        "desc": "工业气瓶的成型、焊接、测试和精加工。"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM支持",
+        "desc": "按订单提供颜色、标记、阀门、盖子和包装选项。"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "质量流程",
+        "desc": "检查和测试符合订单和市场要求。"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "国际出口",
+        "desc": "为海外工业买家提供文件和包装支持。"
       }
     ]
   },
@@ -266,6 +266,18 @@
       {
         "title": "最终质检",
         "desc": "出口发运前进行包装检验。"
+      },
+      {
+        "title": "最终质量控制",
+        "desc": "包装放行前的最终质量控制。"
+      },
+      {
+        "title": "包装",
+        "desc": "准备运输的出口包装。"
+      },
+      {
+        "title": "运输",
+        "desc": "出库订单的装载和发送文档。"
       }
     ]
   },
@@ -469,7 +481,11 @@
     "emailFallback": "网站无法自动发送。请点击下方按钮，将打开邮件应用并填好发给 sales@wandagroups.com 的信件。",
     "emailAppButton": "通过邮件应用发送",
     "termsAnd": "和",
-    "termsLink": "使用条款"
+    "termsLink": "使用条款",
+    "quantityPlaceholder": "例如 200 件，1 个容器，或待定",
+    "countryPlaceholder": "货物将运往何处",
+    "requirements": "要求/规格",
+    "requirementsPlaceholder": "阀门类型、颜色、标准、包装、OEM 标记、数量说明..."
   },
   "footer": {
     "company": "Wanda Group 气瓶制造",
@@ -510,15 +526,24 @@
     "blog": "博客",
     "countriesServed": "服务国家",
     "searchLanguage": "搜索语言...",
-    "noLanguagesFound": "未找到语言"
+    "noLanguagesFound": "未找到语言",
+    "breadcrumb": "面包屑",
+    "primaryNav": "基本的",
+    "menu": "菜单",
+    "playVideo": "播放视频",
+    "productGallery": "产品图库",
+    "wechatQr": "微信二维码",
+    "whatsapp": "WhatsApp",
+    "telegram": "电报",
+    "brandName": "万达集团"
   },
   "trustMarquee": [
-    "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "厂家直销",
+    "OEM/自有品牌",
+    "国际出口",
+    "质量控制",
+    "根据要求提供市场标准",
+    "批量订单"
   ],
   "productDetails": {
     "tabs": {
@@ -825,7 +850,7 @@
         "title": "认证服务",
         "desc": "为海关与监管机构准备的出口单证。",
         "points": [
-          "ISO 9809, DOT, TPED",
+          "ISO 9809、DOT、TPED",
           "MSDS 与质量证书",
           "原产地证书"
         ]
@@ -854,28 +879,28 @@
   },
   "pricing": {
     "title": "价格与供货条款",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "商业条款根据询价确认。 发送产品、数量和目的地详细信息以获得正式报价。",
+    "note": "我们不会在本网站上发布固定标价、最小起订量或交货时间。 我们审核您的要求后，将在报价中确认确切的商业条款。",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "定价",
+        "value": "根据要求",
+        "desc": "询价审核后正式报价"
       },
       {
-        "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "label": "起订量",
+        "value": "按订单确认",
+        "desc": "取决于型号和目的地"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "交货时间",
+        "value": "按订单确认",
+        "desc": "与报价共享"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "支付",
+        "value": "合同中约定",
+        "desc": "生产前确认条款"
       }
     ],
     "factors": {
@@ -891,27 +916,27 @@
     "samples": [
       {
         "product": "乙炔气瓶 WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "moq": "根据要求",
+        "price": "根据询价报价",
+        "lead": "按订单确认"
       },
       {
         "product": "乙炔气瓶 WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "moq": "根据要求",
+        "price": "根据询价报价",
+        "lead": "按订单确认"
       },
       {
         "product": "丙烷气瓶 WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "moq": "根据要求",
+        "price": "根据询价报价",
+        "lead": "按订单确认"
       },
       {
         "product": "丙烷气瓶 WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "moq": "根据要求",
+        "price": "根据询价报价",
+        "lead": "按订单确认"
       },
       {
         "product": "乙炔发生器 WG-G20",
@@ -928,14 +953,14 @@
     ],
     "tableHeaders": [
       "产品",
-      "MOQ",
+      "起订量",
       "价格（EXW）",
       "交货期"
     ]
   },
   "certifications": {
     "title": "认证与标准",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "根据产品和目标市场讨论标准和认证选项。 证书副本将根据要求私下发送——文件不会在本网站上发布。",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -958,7 +983,7 @@
         "desc": "中国气瓶标准"
       },
       {
-        "name": "CE Mark",
+        "name": "CE标志",
         "desc": "欧盟合规要求"
       }
     ]
@@ -977,7 +1002,7 @@
       },
       {
         "title": "确认订单",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "生产开始前商定的合同和付款条款"
       },
       {
         "title": "生产与质检",
@@ -994,19 +1019,19 @@
     "items": [
       {
         "quote": "今年我们已三次复购 40 升乙炔气瓶。GOST 阀门、OEM 颜色和出口包装每次都与首样一致。",
-        "author": "Rustam Yusupov",
+        "author": "鲁斯塔姆·尤苏波夫",
         "role": "焊接气体经销商负责人",
         "country": "乌兹别克斯坦"
       },
       {
         "quote": "当天就收到报价，起订量和交期写得很清楚。丙烷瓶配 POL 阀门，装箱单齐全，我方清关顺利。",
-        "author": "Aigerim Bekova",
+        "author": "艾杰里姆·贝科娃",
         "role": "工业物资采购经理",
         "country": "哈萨克斯坦"
       },
       {
         "quote": "气瓶与减压器、软管整柜一起订。标识和单证符合我们市场要求，转售很顺利。",
-        "author": "Faisal Al-Harbi",
+        "author": "费萨尔·哈尔比",
         "role": "气体设备进口采购",
         "country": "沙特阿拉伯"
       }
@@ -1015,7 +1040,7 @@
   "story": {
     "slides": [
       {
-        "id": "welding",
+        "id": "焊接",
         "eyebrow": "乙炔气瓶",
         "title": "精密焊接所需的稳定火焰",
         "text": "专为连续焊接和钎焊设计的溶解乙炔气瓶——压力稳定、多孔填料安全可靠、阀门符合出口要求。",
@@ -1026,7 +1051,7 @@
         ]
       },
       {
-        "id": "cutting",
+        "id": "切割",
         "eyebrow": "切割与金属加工",
         "title": "金属加工所需的强劲动力",
         "text": "面向船厂、加工车间和重型制造生产线的大流量乙炔及配氧气瓶组合。",
@@ -1037,7 +1062,7 @@
         ]
       },
       {
-        "id": "propane",
+        "id": "丙烷",
         "eyebrow": "丙烷与液化石油气",
         "title": "适配各类市场的耐用液化气瓶",
         "text": "从取暖、炊事用气到工业切割——钢制气瓶经得起压力考验，涂层耐久，使用寿命长。",
@@ -1048,7 +1073,7 @@
         ]
       },
       {
-        "id": "factory",
+        "id": "工厂",
         "eyebrow": "生产制造",
         "title": "从钢材到出运的全程工厂管控",
         "text": "自有成型、焊接、水压试验和表面处理产线——每一批次都符合您的图纸和目标市场标准。",
@@ -1059,7 +1084,7 @@
         ]
       },
       {
-        "id": "quality",
+        "id": "质量",
         "eyebrow": "质量与安全",
         "title": "可写进报价单的检验标准",
         "text": "原材料检验、气密试验、阀门扭矩及包装照片——为经销商和项目采购方准备完整资料包。",
@@ -1070,7 +1095,7 @@
         ]
       },
       {
-        "id": "export",
+        "id": "出口",
         "eyebrow": "全球出口",
         "title": "按港口要求包装，发往 50 多个国家",
         "text": "出口托盘、阀门保护、多语种标签和运输单证，均按您目的地的贸易术语统一协调。",
@@ -1078,7 +1103,8 @@
           "支持 FOB / CIF",
           "托盘化包装",
           "交货期 15–25 天"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
@@ -1636,5 +1662,277 @@
         "desc": "更大风冷冷凝机组，多风扇冷凝器，适用于大型冷库及工艺冷却。"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "我们是谁",
+    "title": "B2B 买家的工业制造商",
+    "text": "万达集团为海外经销商、OEM 合作伙伴和项目买家制造和供应工业气瓶、发电机和焊接配件。",
+    "text2": "我们的重点是与工厂相关的供应、产品选择支持、批量订单和出口协调，而不是零售消费者销售。",
+    "cta": "了解更多关于我们的信息"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "准备好索取报价了吗？",
+      "quoteCta": "索取报价",
+      "relatedProducts": "相关产品",
+      "applications": "应用领域",
+      "standardsTitle": "标准与认证",
+      "oemTitle": "OEM/定制",
+      "packagingTitle": "包装及交付",
+      "placeholders": {
+        "standards": "可用的标准和证书根据订单和目的地市场进行确认。 证书副本将根据要求私下发送——文件不会在网站上发布。",
+        "oem": "OEM 颜色、标记、阀门、盖子和包装选项可以根据订单和目标市场进行讨论。",
+        "packaging": "根据订单和运输条款准备出口包装和文件。"
+      }
+    },
+    "home": {
+      "seoTitle": "气瓶制造商| 工业OEM和出口| 万达集团",
+      "seoDescription": "万达集团为 OEM、批发和国际出口买家生产工业气瓶、发电机和焊接配件。"
+    },
+    "about": {
+      "label": "关于我们",
+      "title": "工业买家的气瓶制造商",
+      "subtitle": "我们为海外买家提供产品选择、OEM、检验、包装和运输方面的支持。",
+      "seoTitle": "关于万达集团",
+      "seoDescription": "万达集团生产用于焊接、切割和工业供气的乙炔瓶、丙烷瓶、发电机及配件。"
+    },
+    "products": {
+      "label": "产品",
+      "title": "我们的产品",
+      "subtitle": "用于工业和焊接应用的乙炔瓶、发电机、丙烷瓶和配件。",
+      "seoTitle": "气瓶产品",
+      "seoDescription": "用于工业和焊接应用的乙炔瓶、发电机、丙烷瓶和配件。",
+      "refrigerationNote": "万达国际贸易沿着气瓶生产线供应制冷设备：机组、面板、冷却器和相关冷链硬件。 Copeland、Bitzer 和类似名称指的是设备内部的压缩机品牌，而不是这些公司的品牌重塑。",
+      "catalog": {
+        "acetylene": {
+          "name": "溶解乙炔钢瓶",
+          "overview": "具有多孔物质和溶剂的钢瓶，用于安全储存和运输乙炔。 用于焊接、切割、钎焊和金属制造。",
+          "seoTitle": "乙炔气瓶",
+          "seoDescription": "具有多孔物质和溶剂的钢瓶，用于安全储存和运输乙炔。 用于焊接、切割、钎焊和金属制造。"
+        },
+        "propane": {
+          "name": "丙烷钢瓶",
+          "overview": "用于丙烷、丁烷和液化石油气混合物的气瓶。 用于加热、切割、钎焊、建筑和工业供气。",
+          "seoTitle": "丙烷气瓶",
+          "seoDescription": "用于丙烷、丁烷和液化石油气混合物的气瓶。 用于加热、切割、钎焊、建筑和工业供气。"
+        },
+        "lpg": {
+          "name": "液化石油气钢瓶",
+          "overview": "用于丙烷、丁烷和液化石油气混合物的气瓶。 用于加热、切割、钎焊、建筑和工业供气。",
+          "seoTitle": "液化石油气钢瓶",
+          "seoDescription": "用于丙烷、丁烷和液化石油气混合物的气瓶。 用于加热、切割、钎焊、建筑和工业供气。"
+        },
+        "industrial": {
+          "name": "工业气瓶",
+          "overview": "用于焊接、切割和工厂供应的工业气瓶 - 包括适合您市场的乙炔、丙烷和液化石油气选项。",
+          "seoTitle": "工业气瓶",
+          "seoDescription": "万达集团用于焊接、切割和工厂供应的工业气瓶。"
+        },
+        "generators": {
+          "name": "乙炔发生器",
+          "overview": "用电石生产乙炔的设备。 无需集中式燃气基础设施即可稳定供应焊接和工业需求。",
+          "seoTitle": "乙炔发生器",
+          "seoDescription": "用电石生产乙炔的设备。 无需集中式燃气基础设施即可稳定供应焊接和工业需求。"
+        },
+        "accessories": {
+          "name": "气缸配件及配件",
+          "overview": "气瓶安全操作的完整系列：从仪表到焊枪。 气瓶一站式采购。",
+          "seoTitle": "焊接配件",
+          "seoDescription": "气瓶安全操作的完整系列：从仪表到焊枪。 气瓶一站式采购。"
+        },
+        "refrigeration": {
+          "name": "制冷机组",
+          "overview": "一个单独的万达集团产品线——不是第三方目录。 冷凝装置、冷室和硬件，由我们随钢瓶提供或作为单独订单提供。",
+          "seoTitle": "制冷机组",
+          "seoDescription": "一个单独的万达集团产品线——不是第三方目录。 冷凝装置、冷室和硬件，由我们随钢瓶提供或作为单独订单提供。"
+        }
+      }
+    },
+    "factory": {
+      "label": "工厂",
+      "title": "工厂及制造",
+      "subtitle": "生产、检验、包装和发货——用真实的工厂照片和工厂视频记录。",
+      "seoTitle": "工厂和生产| 万达集团",
+      "seoDescription": "工厂真实照片、实时调度镜头以及生产车间的短视频。",
+      "sections": [
+        {
+          "title": "制造业",
+          "text": "气缸成型、焊接和精加工是工厂生产流程的一部分。"
+        },
+        {
+          "title": "生产流程",
+          "text": "从外壳准备到组装和精加工 — 查看加工中的库存和生产车间的镜头。"
+        },
+        {
+          "title": "质量检验",
+          "text": "目视、标记和尺寸检查准备气瓶装运。"
+        },
+        {
+          "title": "测试",
+          "text": "根据订单要求，在产品出厂前进行压力和泄漏测试。"
+        },
+        {
+          "title": "包装",
+          "text": "出口包装可保护气瓶和配件进行海外运输。"
+        },
+        {
+          "title": "装载和出口",
+          "text": "出库订单的仓库暂存、卡车装载和调度文件。"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "认证证书",
+      "title": "认证和标准",
+      "subtitle": "下面列出了买家普遍要求的标准。 适用性取决于产品和目标市场。 证书副本、编号和有效性将根据要求私下共享——不会作为未经验证的声明发布。",
+      "seoTitle": "认证和标准 | 万达集团",
+      "seoDescription": "按市场讨论万达集团气瓶的标准。 可根据要求私下提供证书副本。",
+      "note": "证书副本可根据要求私下发送。 我们不会在网站上发布证书文件。"
+    },
+    "oem": {
+      "label": "代加工",
+      "title": "OEM 和批发",
+      "subtitle": "为分销商和工业买家提供自有品牌和批量供应选项。",
+      "seoTitle": "OEM 气瓶供应",
+      "seoDescription": "为海外品牌和经销商进行 OEM 和自有品牌气瓶制造。",
+      "quoteTitle": "讨论 OEM 要求",
+      "quoteCta": "索取 OEM 报价",
+      "capabilities": [
+        {
+          "title": "定制标志",
+          "text": "讨论了合格 OEM 订单的徽标和标记选项。"
+        },
+        {
+          "title": "定制颜色",
+          "text": "气缸颜色根据市场或品牌要求。"
+        },
+        {
+          "title": "定制包装",
+          "text": "按订单出口纸箱、托盘和包装唛头。"
+        },
+        {
+          "title": "自有品牌",
+          "text": "分销商渠道的标签和品牌展示。"
+        },
+        {
+          "title": "批量订单",
+          "text": "项目和经销商采购的批发数量。"
+        },
+        {
+          "title": "代工制造",
+          "text": "产品配置符合您的规格和市场。"
+        },
+        {
+          "title": "出口支持",
+          "text": "海外交付的文件和运输协调。"
+        }
+      ]
+    },
+    "markets": {
+      "label": "市场",
+      "title": "全球市场",
+      "subtitle": "我们支持国际 B2B 买家。 下面的区域描述了常见的询问领域——具体的国家和项目根据具体情况进行确认。",
+      "seoTitle": "全球市场| 万达集团出口",
+      "seoDescription": "万达集团与非洲、中东、中亚、东南亚、拉丁美洲等市场的国际工业买家合作。",
+      "note": "我们不会在此页面上发布未经验证的国家/地区数量、客户名称或项目参考。",
+      "regions": [
+        {
+          "title": "非洲",
+          "text": "来自非洲市场的工业和经销商询问。"
+        },
+        {
+          "title": "中东",
+          "text": "买家为区域项目采购气瓶和相关设备。"
+        },
+        {
+          "title": "中亚",
+          "text": "中亚市场的批发和项目供应讨论。"
+        },
+        {
+          "title": "东南亚",
+          "text": "工业买家评估出口钢瓶供应。"
+        },
+        {
+          "title": "拉美",
+          "text": "工业气瓶及配件供应查询。"
+        },
+        {
+          "title": "其他国际市场",
+          "text": "其他目的地将根据产品标准和物流进行审查。"
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "应用领域",
+      "title": "气缸应用",
+      "subtitle": "产品专为常见工业气体任务和海外买家需求而设计。",
+      "seoTitle": "气缸应用",
+      "seoDescription": "产品专为常见工业气体任务和海外买家需求而设计。",
+      "items": [
+        {
+          "title": "焊接和钎焊",
+          "text": "用于车间和制造焊接的溶解乙炔及相关设备。"
+        },
+        {
+          "title": "金属切削",
+          "text": "用于现场和工厂内氧切割的气缸和配件。"
+        },
+        {
+          "title": "工业气体供应",
+          "text": "工业分配和工厂气体系统的钢瓶供应。"
+        },
+        {
+          "title": "建造",
+          "text": "用于建筑和维护工作的便携式燃气供应。"
+        },
+        {
+          "title": "金属加工",
+          "text": "用于制造车间和造船厂的气缸和配件。"
+        },
+        {
+          "title": "气体储存与配送",
+          "text": "为工业买家提供可储存和配送的气瓶。"
+        }
+      ]
+    },
+    "faq": {
+      "label": "常问问题",
+      "title": "常见问题解答",
+      "subtitle": "公司、产品、OEM 和出口 — 在您请求报价之前为海外买家提供答案。",
+      "seoTitle": "常问问题",
+      "seoDescription": "公司、产品、OEM 和出口 — 在您请求报价之前为海外买家提供答案。"
+    },
+    "contactPage": {
+      "label": "接触",
+      "title": "让我们讨论一下您的要求",
+      "subtitle": "通过表格、电子邮件或通讯工具联系我们的销售团队。 共享产品、数量和目的地，以便更快地报价。",
+      "seoTitle": "索取报价",
+      "seoDescription": "告诉我们尺寸、数量、目的地国家和应用——我们将准备详细的报价。"
+    },
+    "blog": {
+      "label": "博客",
+      "title": "最新文章",
+      "subtitle": "面向焊接和供气专业人员的专家内容。",
+      "seoTitle": "文章和指南",
+      "seoDescription": "面向焊接和供气专业人员的专家内容。",
+      "coming": "更多买家指南和产品说明将在此处添加。 使用上述文章或联系我们获取特定于产品的材料。"
+    },
+    "privacy": {
+      "seoTitle": "隐私政策",
+      "seoDescription": "万达集团网站查询和个人数据的隐私政策。"
+    },
+    "terms": {
+      "seoTitle": "使用条款",
+      "seoDescription": "万达集团网站的使用条款。"
+    },
+    "notFound": {
+      "seoTitle": "找不到页面",
+      "seoDescription": "您请求的页面不可用。",
+      "title": "找不到页面",
+      "text": "您要查找的页面不存在或已移动。",
+      "home": "首页",
+      "products": "产品",
+      "contact": "联系/获取报价"
+    }
   }
 }
