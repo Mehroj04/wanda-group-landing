@@ -20,7 +20,15 @@ export default function OemPage() {
 
   return (
     <>
-      <PageHero label={p.label} title={p.title} subtitle={p.subtitle} />
+      <PageHero
+        label={p.label}
+        title={p.title}
+        subtitle={p.subtitle}
+        breadcrumbs={[
+          { label: t.nav.home, to: routes.home },
+          { label: t.nav.oem },
+        ]}
+      />
 
       <section className="section page-cards">
         <div className="container">

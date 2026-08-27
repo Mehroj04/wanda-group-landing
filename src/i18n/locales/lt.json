@@ -427,8 +427,8 @@
         "title": "Acetileno balionų pirkimo biudžeto vadovas",
         "desc": "Veiksniai, įtakojantys išlaidas ir kaip pasirinkti optimalų pasiūlymą.",
         "body": [
-          "Acetileno baliono kaina priklauso nuo tūrio (2L–40L), vožtuvo tipo, sertifikavimo (ISO, DOT, TPED) ir užsakymo kiekio. Orientacinės EXW kainos: WG-10 28–35 USD, WG-25 45–58 USD už vienetą.",
-          "Didesnėms aikštelėms (200–500+ vnt.) taikomos prasmingos nuolaidos. OEM dažymas, logotipas ir speciali pakuotė padidina bazinę kainą 5–15%, bet padidina vertę platintojams.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Taip pat atsižvelgiama į pristatymą (FOB / CIF), dokumentus ir MOQ. Mes atsakome per 24 valandas, pateikdami visas specifikacijas, pristatymo laiką ir „Incoterms“.",
           "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Kainos ir tiekimo sąlygos",
-    "subtitle": "Skaidrios B2B pirkimų sąlygos. Tiksli kaina skaičiuojama individualiai – siųskite užklausą, atsakysime per 24 val.",
-    "note": "Rodomos kainos yra orientacinės (EXW). Galutinė kaina priklauso nuo tūrio, vožtuvo tipo, sertifikavimo ir pristatymo sąlygų.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "nuo 100 vnt",
-        "desc": "Minimalus užsakymas vienam modeliui"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Pristatymo laikas",
-        "value": "15-25 dienos",
-        "desc": "Po užsakymo patvirtinimo"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Mokėjimas",
-        "value": "T/T 30/70",
-        "desc": "30% užstatas, 70% prieš išsiuntimą"
-      },
-      {
-        "label": "Garantija",
-        "value": "12 mėnesių",
-        "desc": "Prieš gamybos defektus"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetilenas WG-10",
-        "moq": "200 vnt",
-        "price": "28–35 USD / vnt",
-        "lead": "18 dienų"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetilenas WG-25",
-        "moq": "100 vnt",
-        "price": "45–58 USD / vnt",
-        "lead": "20 dienų"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propanas WG-P11",
-        "moq": "500 vnt",
-        "price": "12–16 USD / vnt",
-        "lead": "15 dienų"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propanas WG-P50",
-        "moq": "100 vnt",
-        "price": "55–72 USD / vnt",
-        "lead": "22 dienos"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generatorius WG-G20",
-        "moq": "1 vienetas",
-        "price": "$3,500–4,200",
-        "lead": "25 dienos"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Reguliatoriaus rinkinys",
-        "moq": "50 vnt",
-        "price": "8–15 USD / vnt",
-        "lead": "10 dienų"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Patvirtinti užsakymą",
-        "desc": "Sutarties pasirašymas ir 30% depozito mokėjimas"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Gamyba ir QC",

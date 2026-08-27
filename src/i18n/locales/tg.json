@@ -427,8 +427,8 @@
         "title": "Роҳнамои буҷа барои хариди баллони ацетилен",
         "desc": "Омилҳои таъсиррасон ба арзиш ва чӣ гуна пешниҳоди беҳтаринро интихоб кардан.",
         "body": [
-          "Нархи баллони ацетилен аз ҳаҷм (2L–40L), намуди клапан, сертификатсия (ISO, DOT, TPED) ва миқдори фармоиш вобаста аст. Нархҳои тахминии EXW: WG-10 $28–35, WG-25 $45–58 барои як адад.",
-          "Партияҳои калонтар (200–500+ pcs) тахфифҳои назаррас мегиранд. Рангкунии OEM, логотип ва бастабандии махсус 5–15% ба нархи асосӣ илова мекунанд, аммо арзишро барои дистрибюторҳо зиёд мекунанд.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Инчунин интиқол (FOB/CIF), ҳуҷҷатҳо ва MOQ-ро ба назар гиред. Мо дар давоми 24 соат бо мушаххасоти пурра, муҳлати таҳвил ва Incoterms ҷавоб медиҳем.",
           "Барои нархномаи дақиқ модел, миқдор, кишвари таъинот ва талаботи клапанро дар шакли тамос ворид кунед — ё ба sales@wandagroups.com нависед."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Шартҳои нархгузорӣ ва таъминот",
-    "subtitle": "Шартҳои шаффоф барои хариди B2B. Нархгузории дақиқ ба таври инфиродӣ ҳисоб карда мешавад - дархост фиристед, мо дар давоми 24 соат ҷавоб медиҳем.",
-    "note": "Нархҳои нишон додашуда нишондиҳанда мебошанд (EXW). Арзиши ниҳоӣ аз ҳаҷм, навъи клапан, сертификатсия ва шартҳои интиқол вобаста аст.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "аз 100 дона",
-        "desc": "Тартиби ҳадди ақал барои як модел"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Вақти иҷрошуда",
-        "value": "15-25 рӯз",
-        "desc": "Пас аз тасдиқи фармоиш"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Пардохт",
-        "value": "Т/Т 30/70",
-        "desc": "30% амонат, 70% пеш аз интиқол"
-      },
-      {
-        "label": "Кафолат",
-        "value": "12 мох",
-        "desc": "Бар зидди нуксонхои истехсолй"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Ацетилен WG-10",
-        "moq": "200 дона",
-        "price": "$28-35 / дона",
-        "lead": "18 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Ацетилен WG-25",
-        "moq": "100 дона",
-        "price": "$45-58 / дона",
-        "lead": "20 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P11",
-        "moq": "500шт",
-        "price": "$12-16 / дона",
-        "lead": "15 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P50",
-        "moq": "100 дона",
-        "price": "$55-72 / дона",
-        "lead": "22 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Генератор WG-G20",
-        "moq": "1 адад",
-        "price": "$3,500–4,200",
-        "lead": "25 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Маҷмӯи танзимкунанда",
-        "moq": "50 дона",
-        "price": "$8-15 / дона",
-        "lead": "10 рӯз"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Фармоишро тасдиқ кунед",
-        "desc": "Имзои шартнома ва пардохти 30% пасандоз"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Истеҳсол ва QC",

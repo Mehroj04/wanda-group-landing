@@ -11,6 +11,10 @@ interface ScrollRevealProps {
   style?: CSSProperties
 }
 
+/**
+ * Reveal on scroll. Delay uses a CSS variable (style-src-attr must allow
+ * 'unsafe-inline' in production CSP — see vercel.json).
+ */
 export default function ScrollReveal({
   children,
   className = '',
@@ -19,12 +23,16 @@ export default function ScrollReveal({
   style,
 }: ScrollRevealProps) {
   const { ref, visible } = useScrollReveal<HTMLDivElement>()
+  const merged: CSSProperties = {
+    ...style,
+    ...(delay > 0 ? ({ ['--reveal-delay' as string]: `${delay}ms` } as CSSProperties) : null),
+  }
 
   return (
     <div
       ref={ref}
       className={`reveal reveal--${from} ${visible ? 'reveal--visible' : ''} ${className}`}
-      style={{ transitionDelay: `${delay}ms`, ...style }}
+      style={Object.keys(merged).length ? merged : undefined}
     >
       {children}
     </div>

@@ -427,8 +427,8 @@
         "title": "Бюджетний гід із купівлі ацетиленових балонів",
         "desc": "Фактори, що впливають на вартість, і як обрати оптимальну пропозицію.",
         "body": [
-          "Ціна ацетиленового балона залежить від об’єму (2 л–40 л), типу вентиля, сертифікації (ISO, DOT, TPED) та кількості замовлення. Орієнтовні ціни EXW: WG-10 $28–35, WG-25 $45–58 за одиницю.",
-          "Більші партії (200–500+ шт.) отримують суттєві знижки. OEM-фарбування, логотип і спеціальна упаковка додають 5–15% до базової ціни, але підвищують цінність для дистриб’юторів.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Також враховуйте доставку (FOB/CIF), документи та MOQ. Ми відповідаємо протягом 24 годин із повною специфікацією, терміном виготовлення та Incoterms.",
           "Для точної пропозиції вкажіть модель, кількість, країну призначення та вимоги до вентиля у формі контактів — або напишіть на sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Ціни та умови постачання",
-    "subtitle": "Прозорі умови B2B закупівель. Точна ціна розраховується індивідуально — надсилайте запит, ми відповідаємо протягом 24 годин.",
-    "note": "Ціни вказані орієнтовні (EXW). Кінцева вартість залежить від обсягу, типу клапана, сертифікації та умов доставки.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "від 100 шт",
-        "desc": "Мінімальне замовлення на модель"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Час виконання",
-        "value": "15-25 днів",
-        "desc": "Після підтвердження замовлення"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Оплата",
-        "value": "T/T 30/70",
-        "desc": "30% депозит, 70% перед відправкою"
-      },
-      {
-        "label": "Гарантія",
-        "value": "12 місяців",
-        "desc": "Від виробничого браку"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Ацетилен WG-10",
-        "moq": "200 шт",
-        "price": "28–35 $/шт",
-        "lead": "18 днів"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Ацетилен WG-25",
-        "moq": "100 шт",
-        "price": "45–58 $/шт",
-        "lead": "20 днів"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P11",
-        "moq": "500 шт",
-        "price": "12–16 $/шт",
-        "lead": "15 днів"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P50",
-        "moq": "100 шт",
-        "price": "55–72 $/шт",
-        "lead": "22 дні"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Генератор WG-G20",
-        "moq": "1 одиниця",
-        "price": "$3,500–4,200",
-        "lead": "25 днів"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Набір регуляторів",
-        "moq": "50 шт",
-        "price": "8–15 $/шт",
-        "lead": "10 днів"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Підтвердити замовлення",
-        "desc": "Підписання договору та передоплата 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Виробництво та контроль якості",

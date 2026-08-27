@@ -427,8 +427,8 @@
         "title": "Какой бюджет необходим для покупки баллона с ацетиленом?",
         "desc": "Факторы, влияющие на стоимость, и как выбрать оптимальное предложение.",
         "body": [
-          "Цена зависит от объёма (2L–40L), типа клапана, стандарта сертификации и объёма заказа. Ориентировочные цены EXW: WG-10 — $28–35, WG-25 — $45–58.",
-          "Крупные партии (от 200–500 шт.) дают заметную скидку. OEM-покраска и логотип добавляют 5–15% к базовой цене.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Учитывайте также стоимость доставки, документы и MOQ. Мы отвечаем в течение 24 часов.",
           "Для точного расчёта укажите модель, количество, страну назначения и требования к клапану в форме на сайте."
         ]
@@ -911,28 +911,28 @@
   },
   "pricing": {
     "title": "Цены и условия поставки",
-    "subtitle": "Прозрачные условия для B2B-закупок. Точная цена рассчитывается индивидуально — отправьте запрос, ответим в течение 24 часов.",
-    "note": "Указанные цены ориентировочные (EXW). Финальная стоимость зависит от объёма, клапана, сертификации и условий доставки.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "минимальный заказ",
-        "value": "от 100 шт.",
-        "desc": "Минимальный заказ на модель"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "Срок производства",
-        "value": "15–25 дней",
-        "desc": "После подтверждения заказа"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Оплата",
-        "value": "Т/Т 30/70",
-        "desc": "30% аванс, 70% перед отгрузкой"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Гарантия",
-        "value": "12 месяцев",
-        "desc": "На производственные дефекты"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -948,39 +948,39 @@
     "samples": [
       {
         "product": "Ацетилен WG-10",
-        "moq": "200 шт.",
-        "price": "$28–35 / шт.",
-        "lead": "18 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Ацетилен WG-25",
-        "moq": "100 шт.",
-        "price": "$45–58 / шт.",
-        "lead": "20 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P11",
-        "moq": "500 шт.",
-        "price": "$12–16 / шт.",
-        "lead": "15 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P50",
-        "moq": "100 шт.",
-        "price": "$55–72 / шт.",
-        "lead": "22 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Генератор WG-G20",
-        "moq": "1 шт.",
-        "price": "$3,500–4,200",
-        "lead": "25 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Комплект редукторов",
-        "moq": "50 шт.",
-        "price": "$8–15 / шт.",
-        "lead": "10 дней"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -1034,7 +1034,7 @@
       },
       {
         "title": "Подтвердите заказ",
-        "desc": "Подписание контракта и оплата аванса 30%"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Производство и QC",

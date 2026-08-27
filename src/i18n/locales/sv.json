@@ -427,7 +427,7 @@
         "title": "Budgetguide för köp av acetylenflaskor",
         "desc": "Faktorer som påverkar kostnaden och hur du väljer det optimala erbjudandet.",
         "body": [
-          "Priset på acetylenflaskor beror på volym (2L–40L), ventiltyp, certifiering (ISO, DOT, TPED) och orderkvantitet. Vägledande EXW-priser: WG-10 $28–35, WG-25 $45–58 per enhet.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "Större partier (200–500+ st) ger meningsfulla rabatter. OEM-målning, logotyp och specialförpackning lägger till 5–15 % på baspriset men ökar värdet för distributörer.",
           "Räkna även in frakt (FOB/CIF), dokument och MOQ. Vi svarar inom 24 timmar med full specifikationslista, ledtid och Incoterms.",
           "För en exakt offert, ange modell, kvantitet, destinationsland och ventilkrav i kontaktformuläret — eller mejla sales@wandagroups.com."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Prissättning och leveransvillkor",
-    "subtitle": "Transparenta villkor för B2B-upphandling. Exakt prissättning beräknas individuellt - skicka förfrågan, vi svarar inom 24 timmar.",
-    "note": "Priserna som visas är vägledande (EXW). Slutlig kostnad beror på volym, ventiltyp, certifiering och fraktvillkor.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "från 100 st",
-        "desc": "Minsta beställning per modell"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Ledtid",
-        "value": "15–25 dagar",
-        "desc": "Efter orderbekräftelse"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Betalning",
-        "value": "T/T 30/70",
-        "desc": "30% deposition, 70% före leverans"
-      },
-      {
-        "label": "Garanti",
-        "value": "12 månader",
-        "desc": "Mot tillverkningsfel"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylen WG-10",
-        "moq": "200 st",
-        "price": "28–35 USD/st",
-        "lead": "18 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylen WG-25",
-        "moq": "100 st",
-        "price": "45–58 USD/st",
-        "lead": "20 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 st",
-        "price": "12–16 USD/st",
-        "lead": "15 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 st",
-        "price": "55–72 USD/st",
-        "lead": "22 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 enhet",
-        "price": "$3,500–4,200",
-        "lead": "25 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regulator set",
-        "moq": "50 st",
-        "price": "8–15 USD/st",
-        "lead": "10 dagar"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Bekräfta beställning",
-        "desc": "Kontraktsundertecknande och 30% depositionsbetalning"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produktion & QC",

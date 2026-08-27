@@ -1,7 +1,8 @@
-import { Link, useLocation } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
 import { usePageSeo } from '../hooks/usePageSeo'
+import { LangLink } from '../components/LangLink'
 import './NotFoundPage.css'
 
 export default function NotFoundPage() {
@@ -27,12 +28,12 @@ export default function NotFoundPage() {
         <h1 className="not-found__title">{p.title}</h1>
         <p className="not-found__text">{p.text}</p>
         <div className="not-found__actions">
-          <Link to={routes.home} className="btn btn-primary">
+          <LangLink to={routes.home} className="btn btn-primary">
             {p.home}
-          </Link>
-          <Link to={routes.products} className="btn btn-outline">
+          </LangLink>
+          <LangLink to={routes.products} className="btn btn-outline">
             {p.products}
-          </Link>
+          </LangLink>
         </div>
       </div>
     </section>

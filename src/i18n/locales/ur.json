@@ -427,8 +427,8 @@
         "title": "ایسٹیلین سلنڈر خریداری کے لیے بجٹ گائیڈ",
         "desc": "لاگت کو متاثر کرنے والے عوامل اور بہترین پیشکش کیسے منتخب کریں۔",
         "body": [
-          "ایسٹیلین سلنڈر کی قیمت والیوم (2L–40L)، والو کی قسم، سرٹیفیکیشن (ISO، DOT، TPED) اور آرڈر کی مقدار پر منحصر ہے۔ اشارہ EXW قیمتیں: WG-10 $28–35، WG-25 $45–58 فی یونٹ۔",
-          "بڑے لاٹس (200–500+ پیسز) معنی خیز رعایتیں حاصل کرتے ہیں۔ OEM پینٹنگ، لوگو اور خصوصی پیکجنگ بنیادی قیمت میں 5–15% کا اضافہ کرتی ہے لیکن ڈسٹری بیوٹرز کے لیے قدر بڑھاتی ہے۔",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "شپنگ (FOB/CIF)، دستاویزات اور MOQ کو بھی مدنظر رکھیں۔ ہم مکمل تفصیلات، لیڈ ٹائم اور Incoterms کے ساتھ 24 گھنٹوں میں جواب دیتے ہیں۔",
           "درست کوٹ کے لیے رابطہ فارم میں ماڈل، مقدار، منزل کا ملک اور والو کی ضروریات شامل کریں — یا sales@wandagroups.com پر ای میل کریں۔"
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "قیمت اور فراہمی کی شرائط",
-    "subtitle": "B2B پروکیورمنٹ کے لیے شفاف شرائط۔ عین مطابق قیمت کا حساب انفرادی طور پر کیا جاتا ہے - انکوائری بھیجیں، ہم 24 گھنٹوں کے اندر جواب دیتے ہیں۔",
-    "note": "دکھائی گئی قیمتیں اشارے (EXW) ہیں۔ حتمی قیمت حجم، والو کی قسم، سرٹیفیکیشن اور شپنگ کی شرائط پر منحصر ہے.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "100 پی سیز سے",
-        "desc": "فی ماڈل کم از کم آرڈر"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "لیڈ ٹائم",
-        "value": "15-25 دن",
-        "desc": "آرڈر کی تصدیق کے بعد"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "ادائیگی",
-        "value": "T/T 30/70",
-        "desc": "30% ڈپازٹ، 70% شپمنٹ سے پہلے"
-      },
-      {
-        "label": "وارنٹی",
-        "value": "12 ماہ",
-        "desc": "مینوفیکچرنگ نقائص کے خلاف"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylene WG-10",
-        "moq": "200 پی سیز",
-        "price": "$28–35/pc",
-        "lead": "18 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylene WG-25",
-        "moq": "100 پی سیز",
-        "price": "$45–58/pc",
-        "lead": "20 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "پروپین WG-P11",
-        "moq": "500 پی سیز",
-        "price": "$12–16/pc",
-        "lead": "15 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "پروپین WG-P50",
-        "moq": "100 پی سیز",
-        "price": "$55–72/pc",
-        "lead": "22 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "جنریٹر WG-G20",
-        "moq": "1 یونٹ",
-        "price": "$3,500–4,200",
-        "lead": "25 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "ریگولیٹر سیٹ",
-        "moq": "50 پی سیز",
-        "price": "$8–15/pc",
-        "lead": "10 دن"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "آرڈر کی تصدیق کریں۔",
-        "desc": "معاہدہ پر دستخط اور 30% جمع ادائیگی"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "پیداوار اور QC",

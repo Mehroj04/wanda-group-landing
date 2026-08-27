@@ -427,8 +427,8 @@
         "title": "Budgetgids voor de aankoop van acetyleencilinders",
         "desc": "Factoren die van invloed zijn op de kosten en hoe u het optimale aanbod kiest.",
         "body": [
-          "De prijs van acetyleencilinders is afhankelijk van het volume (2L–40L), het kleptype, de certificering (ISO, DOT, TPED) en de bestelhoeveelheid. Indicatieve EXW-prijzen: WG-10 $28-35, WG-25 $45-58 per eenheid.",
-          "Grotere partijen (200–500+ stuks) krijgen aanzienlijke kortingen. OEM-schilderijen, logo en speciale verpakkingen voegen 5-15% toe aan de basisprijs, maar verhogen de waarde voor distributeurs.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Houd ook rekening met verzending (FOB/CIF), documenten en MOQ. Wij antwoorden binnen 24 uur met volledige specificatie, doorlooptijd en Incoterms.",
           "Voor een exacte prijsopgave vermeldt u het model, de hoeveelheid, het land van bestemming en de klepvereisten in het contactformulier — of stuurt u een e-mail naar sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Prijs- en leveringsvoorwaarden",
-    "subtitle": "Transparante voorwaarden voor B2B-inkoop. De exacte prijs wordt individueel berekend - stuur een aanvraag, wij antwoorden binnen 24 uur.",
-    "note": "Getoonde prijzen zijn indicatief (EXW). De uiteindelijke kosten zijn afhankelijk van het volume, het kleptype, de certificering en de verzendingsvoorwaarden.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "vanaf 100 stuks",
-        "desc": "Minimale bestelling per model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Doorlooptijd",
-        "value": "15–25 dagen",
-        "desc": "Na orderbevestiging"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Betaling",
-        "value": "T/T 30/70",
-        "desc": "30% aanbetaling, 70% vóór verzending"
-      },
-      {
-        "label": "Garantie",
-        "value": "12 maanden",
-        "desc": "Tegen fabricagefouten"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetyleen WG-10",
-        "moq": "200 stuks",
-        "price": "$ 28–35 / st",
-        "lead": "18 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetyleen WG-25",
-        "moq": "100 stuks",
-        "price": "$ 45–58 / st",
-        "lead": "20 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propaan WG-P11",
-        "moq": "500 stuks",
-        "price": "$ 12–16 / st",
-        "lead": "15 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propaan WG-P50",
-        "moq": "100 stuks",
-        "price": "$ 55–72 / st",
-        "lead": "22 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 eenheid",
-        "price": "$3,500–4,200",
-        "lead": "25 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regelaar ingesteld",
-        "moq": "50 stuks",
-        "price": "$ 8–15 / st",
-        "lead": "10 dagen"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Bevestig bestelling",
-        "desc": "Contractondertekening en aanbetaling van 30%"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Productie & QC",

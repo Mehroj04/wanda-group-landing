@@ -64,7 +64,7 @@
     "items": [
       {
         "title": "Acetylene Cylinder",
-        "spec": "2L–40L · ISO / DOT / TPED",
+        "spec": "2L–40L · standards confirmed per market",
         "desc": "Dissolved acetylene cylinders for welding, cutting and industrial gas supply.",
         "icon": "🔥"
       },
@@ -76,7 +76,7 @@
       },
       {
         "title": "Propane Cylinder",
-        "spec": "3L–50L · POL / CGA / GOST",
+        "spec": "3L–50L · valve options per market",
         "desc": "Durable LPG cylinders for heating, cutting and industrial use.",
         "icon": "🛢️"
       },
@@ -439,9 +439,9 @@
         "title": "Budget Guide for Acetylene Cylinder Purchase",
         "desc": "Factors affecting cost and how to choose the optimal offer.",
         "body": [
-          "Acetylene cylinder price depends on volume (2L–40L), valve type, certification (ISO, DOT, TPED) and order quantity. Indicative EXW prices: WG-10 $28–35, WG-25 $45–58 per unit.",
-          "Larger lots (200–500+ pcs) receive meaningful discounts. OEM painting, logo and special packaging add 5–15% to base price but increase value for distributors.",
-          "Also factor in shipping (FOB/CIF), documents and MOQ. We reply within 24 hours with full specification, lead time and Incoterms.",
+          "Acetylene cylinder pricing depends on volume, valve type, required standards for your destination market, and order quantity. We do not publish fixed list prices on the website.",
+          "Larger lots and OEM options (painting, logo, packing) are quoted individually after we review your inquiry.",
+          "Shipping terms (FOB/CIF and similar), documents and lead time are confirmed in the formal quotation.",
           "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
@@ -457,8 +457,8 @@
     "phone": "Phone / WhatsApp",
     "email": "Email",
     "product": "Product",
-    "quantity": "Quantity",
-    "country": "Destination Country",
+    "quantity": "Quantity (optional)",
+    "country": "Destination Country (optional)",
     "productOptions": [
       "Acetylene Cylinder",
       "Propane Cylinder",
@@ -467,6 +467,8 @@
       "Cold storage / refrigeration",
       "Bundle Order"
     ],
+    "quantityPlaceholder": "e.g. 200 pcs, 1 container, or TBD",
+    "countryPlaceholder": "Where the goods will be shipped",
     "message": "Additional Requirements",
     "messagePlaceholder": "Product, size, quantity, destination country...",
     "submit": "Submit Inquiry",
@@ -483,7 +485,7 @@
     "termsAnd": " and the ",
     "termsLink": "Terms of Use",
     "requirements": "Requirements / Specifications",
-    "requirementsPlaceholder": "Valve type, colour, standard, packing, OEM marking..."
+    "requirementsPlaceholder": "Valve type, colour, standard, packing, OEM marking, quantity notes..."
   },
   "footer": {
     "company": "Wanda Group Gas Cylinder Manufacturer",
@@ -581,7 +583,16 @@
     "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Search language...",
-    "noLanguagesFound": "No languages found"
+    "noLanguagesFound": "No languages found",
+    "breadcrumb": "Breadcrumb",
+    "primaryNav": "Primary",
+    "menu": "Menu",
+    "playVideo": "Play video",
+    "productGallery": "Product gallery",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
@@ -925,82 +936,70 @@
   },
   "pricing": {
     "title": "Pricing & Supply Terms",
-    "subtitle": "Transparent terms for B2B procurement. Exact pricing is calculated individually — send inquiry, send an inquiry for a detailed reply.",
-    "note": "Prices shown are indicative (EXW). Final cost depends on volume, valve type, certification and shipping terms.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "MOQ",
-        "value": "from 100 pcs",
-        "desc": "Minimum order per model"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "Lead Time",
-        "value": "15–25 days",
-        "desc": "After order confirmation"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
+      },
+      {
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
         "label": "Payment",
-        "value": "T/T 30/70",
-        "desc": "30% deposit, 70% before shipment"
-      },
-      {
-        "label": "Warranty",
-        "value": "12 months",
-        "desc": "Against manufacturing defects"
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
-      "title": "Price Factors",
+      "title": "What affects the quotation",
       "items": [
-        "Cylinder volume & model (2L – 50L)",
-        "Valve type (CGA, GOST, DIN, POL)",
-        "Certification standard (ISO, DOT, TPED)",
-        "OEM: color, marking, packaging",
-        "Order volume & Incoterms"
+        "Cylinder volume and model",
+        "Valve type and connection standard",
+        "Standards required for the destination market",
+        "OEM colour, marking and packaging",
+        "Order volume and Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetylene WG-10",
-        "moq": "200 pcs",
-        "price": "$28–35 / pc",
-        "lead": "18 days"
+        "product": "Acetylene cylinders",
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
-        "product": "Acetylene WG-25",
-        "moq": "100 pcs",
-        "price": "$45–58 / pc",
-        "lead": "20 days"
+        "product": "Propane / LPG cylinders",
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
-        "product": "Propane WG-P11",
-        "moq": "500 pcs",
-        "price": "$12–16 / pc",
-        "lead": "15 days"
+        "product": "Generators",
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
-        "product": "Propane WG-P50",
-        "moq": "100 pcs",
-        "price": "$55–72 / pc",
-        "lead": "22 days"
-      },
-      {
-        "product": "Generator WG-G20",
-        "moq": "1 unit",
-        "price": "$3,500–4,200",
-        "lead": "25 days"
-      },
-      {
-        "product": "Regulator set",
-        "moq": "50 pcs",
-        "price": "$8–15 / pc",
-        "lead": "10 days"
+        "product": "Accessories",
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
       "Product",
       "MOQ",
-      "Price (EXW)",
+      "Price",
       "Lead Time"
     ]
   },
@@ -1048,7 +1047,7 @@
       },
       {
         "title": "Confirm Order",
-        "desc": "Contract signing and 30% deposit payment"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Production & QC",
@@ -1056,7 +1055,7 @@
       },
       {
         "title": "Shipment",
-        "desc": "Packaging, documents, FOB/CIF/DDP delivery"
+        "desc": "Packaging, documents and delivery terms as agreed in the order"
       }
     ]
   },

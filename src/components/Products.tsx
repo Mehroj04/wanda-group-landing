@@ -1,8 +1,9 @@
-import { Link } from 'react-router-dom'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images, refrigerationImages, refrigerationVideoId } from '../config/images'
 import { routes } from '../config/routes'
 import ScrollReveal from './ScrollReveal'
+import YouTubeFacade from './YouTubeFacade'
 import './Products.css'
 import './Refrigeration.css'
 
@@ -43,9 +44,9 @@ export default function Products() {
                 <h3 className="product-card__title">{item.title}</h3>
                 <p className="product-card__spec">{item.spec}</p>
                 <p className="product-card__desc">{item.desc}</p>
-                <Link to={productLinks[i]} className="btn btn-outline btn-sm product-card__btn">
+                <LangLink to={productLinks[i]} className="btn btn-outline btn-sm product-card__btn">
                   {t.products.viewDetails}
-                </Link>
+                </LangLink>
               </div>
             </article>
           ))}
@@ -77,9 +78,9 @@ export default function Products() {
                   <h3 className="product-card__title">{item.title}</h3>
                   <p className="product-card__spec">{item.spec}</p>
                   <p className="product-card__desc">{item.desc}</p>
-                  <Link to={routes.contact} className="btn btn-outline btn-sm product-card__btn">
+                  <LangLink to={routes.contact} className="btn btn-outline btn-sm product-card__btn">
                     {r.cta}
-                  </Link>
+                  </LangLink>
                 </div>
               </article>
             </ScrollReveal>
@@ -101,14 +102,7 @@ export default function Products() {
           <p className="refrigeration__video-subtitle">{r.videoSubtitle}</p>
         </div>
         <div className="refrigeration__video">
-          <iframe
-            src={`https://www.youtube-nocookie.com/embed/${refrigerationVideoId}`}
-            title={r.videoTitle}
-            loading="lazy"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowFullScreen
-            referrerPolicy="strict-origin-when-cross-origin"
-          />
+          <YouTubeFacade videoId={refrigerationVideoId} title={r.videoTitle} />
         </div>
       </div>
     </section>

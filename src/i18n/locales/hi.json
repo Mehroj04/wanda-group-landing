@@ -427,8 +427,8 @@
         "title": "एसिटिलीन सिलेंडर खरीद के लिए बजट गाइड",
         "desc": "लागत को प्रभावित करने वाले कारक और इष्टतम प्रस्ताव का चयन कैसे करें।",
         "body": [
-          "एसिटिलीन सिलेंडर की कीमत मात्रा (2L-40L), वाल्व प्रकार, प्रमाणीकरण (आईएसओ, डीओटी, टीपीईडी) और ऑर्डर मात्रा पर निर्भर करती है। सांकेतिक EXW कीमतें: WG-10 $28-35, WG-25 $45-58 प्रति यूनिट।",
-          "बड़े लॉट (200-500+ पीसी) को सार्थक छूट मिलती है। ओईएम पेंटिंग, लोगो और विशेष पैकेजिंग आधार मूल्य में 5-15% जोड़ते हैं लेकिन वितरकों के लिए मूल्य बढ़ाते हैं।",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "शिपिंग (एफओबी/सीआईएफ), दस्तावेज़ और एमओक्यू को भी ध्यान में रखें। हम पूर्ण विनिर्देश, लीड टाइम और इनकोटर्म्स के साथ 24 घंटे के भीतर जवाब देते हैं।",
           "सटीक उद्धरण के लिए, संपर्क फ़ॉर्म में मॉडल, मात्रा, गंतव्य देश और वाल्व आवश्यकताएँ शामिल करें - या sales@wandagroups.com पर ईमेल करें।"
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "मूल्य निर्धारण एवं आपूर्ति शर्तें",
-    "subtitle": "B2B खरीद के लिए पारदर्शी शर्तें। सटीक कीमत की गणना व्यक्तिगत रूप से की जाती है - पूछताछ भेजें, हम 24 घंटों के भीतर जवाब देंगे।",
-    "note": "दिखाई गई कीमतें सांकेतिक (EXW) हैं। अंतिम लागत मात्रा, वाल्व प्रकार, प्रमाणन और शिपिंग शर्तों पर निर्भर करती है।",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "100 पीसी से",
-        "desc": "प्रति मॉडल न्यूनतम ऑर्डर"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "समय सीमा",
-        "value": "15-25 दिन",
-        "desc": "आदेश की पुष्टि के बाद"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "भुगतान",
-        "value": "टी/टी 30/70",
-        "desc": "30% जमा, 70% शिपमेंट से पहले"
-      },
-      {
-        "label": "गारंटी",
-        "value": "12 महीने",
-        "desc": "विनिर्माण दोषों के विरुद्ध"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "एसिटिलीन WG-10",
-        "moq": "200 पीसी",
-        "price": "$28-35/पीसी",
-        "lead": "18 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "एसिटिलीन WG-25",
-        "moq": "100 पीसी",
-        "price": "$45-58/पीसी",
-        "lead": "20 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "प्रोपेन WG-P11",
-        "moq": "500 पीसी",
-        "price": "$12-16 / पीसी",
-        "lead": "15 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "प्रोपेन WG-P50",
-        "moq": "100 पीसी",
-        "price": "$55-72/पीसी",
-        "lead": "22 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "जेनरेटर WG-G20",
-        "moq": "1 इकाई",
-        "price": "$3,500–4,200",
-        "lead": "25 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "नियामक सेट",
-        "moq": "50 पीसी",
-        "price": "$8-15/पीसी",
-        "lead": "10 दिन"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "आदेश की पुष्टि",
-        "desc": "अनुबंध पर हस्ताक्षर और 30% जमा भुगतान"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "उत्पादन एवं क्यूसी",

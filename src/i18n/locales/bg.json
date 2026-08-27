@@ -427,8 +427,8 @@
         "title": "Бюджетно ръководство за закупуване на ацетиленови бутилки",
         "desc": "Фактори, влияещи върху цената и как да изберем оптималната оферта.",
         "body": [
-          "Цената на ацетиленовия цилиндър зависи от обема (2L–40L), типа на клапана, сертификацията (ISO, DOT, TPED) и количеството на поръчката. Ориентировъчни цени EXW: WG-10 $28–35, WG-25 $45–58 за брой.",
-          "По-големите партиди (200–500+ бр.) получават значителни отстъпки. OEM боядисване, лого и специална опаковка добавят 5–15% към базовата цена, но увеличават стойността за дистрибуторите.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Също така вземете предвид доставката (FOB/CIF), документите и MOQ. Ние отговаряме в рамките на 24 часа с пълна спецификация, време за доставка и Incoterms.",
           "За точна оферта, включете модел, количество, страна на местоназначение и изисквания за клапана във формата за контакт — или изпратете имейл на sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Цени и условия за доставка",
-    "subtitle": "Прозрачни условия за B2B доставки. Точната цена се изчислява индивидуално — изпратете запитване, ние отговаряме в рамките на 24 часа.",
-    "note": "Показаните цени са ориентировъчни (EXW). Крайната цена зависи от обема, типа на клапана, сертифицирането и условията за доставка.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "от 100 бр",
-        "desc": "Минимална поръчка за модел"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Време за изпълнение",
-        "value": "15–25 дни",
-        "desc": "След потвърждение на поръчката"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Плащане",
-        "value": "T/T 30/70",
-        "desc": "30% депозит, 70% преди изпращане"
-      },
-      {
-        "label": "Гаранция",
-        "value": "12 месеца",
-        "desc": "Срещу производствени дефекти"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Ацетилен WG-10",
-        "moq": "200 бр",
-        "price": "$28–35 / бр",
-        "lead": "18 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Ацетилен WG-25",
-        "moq": "100 бр",
-        "price": "$45–58 / бр",
-        "lead": "20 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P11",
-        "moq": "500 бр",
-        "price": "$12–16 / бр",
-        "lead": "15 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Пропан WG-P50",
-        "moq": "100 бр",
-        "price": "$55–72 / бр",
-        "lead": "22 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Генератор WG-G20",
-        "moq": "1 единица",
-        "price": "$3,500–4,200",
-        "lead": "25 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Комплект регулатор",
-        "moq": "50 бр",
-        "price": "$8–15 / бр",
-        "lead": "10 дни"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Потвърдете поръчката",
-        "desc": "Подписване на договор и плащане на депозит 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Производство & QC",

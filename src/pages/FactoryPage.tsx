@@ -21,7 +21,15 @@ export default function FactoryPage() {
 
   return (
     <>
-      <PageHero label={p.label} title={p.title} subtitle={p.subtitle} />
+      <PageHero
+        label={p.label}
+        title={p.title}
+        subtitle={p.subtitle}
+        breadcrumbs={[
+          { label: t.nav.home, to: routes.home },
+          { label: t.nav.factory },
+        ]}
+      />
 
       <section className="section page-cards">
         <div className="container">

@@ -69,6 +69,10 @@
   margin-bottom: 12px;
 }
 
+.hero__headline {
+  display: block;
+}
+
 .hero__subtitle {
   font-size: 1.125rem;
   color: var(--color-text-muted);

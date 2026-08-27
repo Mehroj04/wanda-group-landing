@@ -427,7 +427,7 @@
         "title": "Budgetleitfaden für den Kauf von Acetylenflaschen",
         "desc": "Faktoren, die die Kosten beeinflussen und wie man das optimale Angebot auswählt.",
         "body": [
-          "Der Preis für Acetylenflaschen hängt vom Volumen (2 l–40 l), dem Ventiltyp, der Zertifizierung (ISO, DOT, TPED) und der Bestellmenge ab. Richtpreise ab Werk: WG-10 28–35 $, WG-25 45–58 $ pro Einheit.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "Größere Lose (200–500+ Stück) erhalten erhebliche Rabatte. OEM-Lackierung, Logo und Spezialverpackung erhöhen den Grundpreis um 5–15 %, steigern aber den Wert für Händler.",
           "Berücksichtigen Sie auch Versand (FOB/CIF), Dokumente und Mindestbestellmenge. Wir antworten innerhalb von 24 Stunden mit vollständigen Spezifikationen, Lieferzeiten und Incoterms.",
           "Für ein genaues Angebot geben Sie Modell, Menge, Zielland und Ventilanforderungen im Kontaktformular an – oder senden Sie eine E-Mail an sales@wandagroups.com."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Preis- und Lieferbedingungen",
-    "subtitle": "Transparente Konditionen für den B2B-Einkauf. Der genaue Preis wird individuell berechnet – Anfrage senden, wir antworten innerhalb von 24 Stunden.",
-    "note": "Die angezeigten Preise sind Richtpreise (EXW). Die endgültigen Kosten hängen von der Menge, dem Ventiltyp, der Zertifizierung und den Versandbedingungen ab.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "Mindestbestellmenge",
-        "value": "ab 100 Stk",
-        "desc": "Mindestbestellmenge pro Modell"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "Vorlaufzeit",
-        "value": "15–25 Tage",
-        "desc": "Nach Auftragsbestätigung"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Zahlung",
-        "value": "T/T 30/70",
-        "desc": "30 % Anzahlung, 70 % vor Versand"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Garantie",
-        "value": "12 Monate",
-        "desc": "Gegen Herstellungsfehler"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylen WG-10",
-        "moq": "200 Stk",
-        "price": "28–35 $ / Stk",
-        "lead": "18 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylen WG-25",
-        "moq": "100 Stk",
-        "price": "45–58 $/Stk",
-        "lead": "20 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 Stk",
-        "price": "12–16 $ / Stk",
-        "lead": "15 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 Stk",
-        "price": "55–72 $/Stk",
-        "lead": "22 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 Einheit",
-        "price": "$3,500–4,200",
-        "lead": "25 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Reglerset",
-        "moq": "50 Stk",
-        "price": "8–15 $ / Stk",
-        "lead": "10 Tage"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [

@@ -1,12 +1,14 @@
-import { Link, Navigate, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
-import { getProductBySlug } from '../config/products'
+import { getProductBySlug, type ProductPageDef } from '../config/products'
 import { galleryImages, refrigerationImages } from '../config/images'
 import { usePageSeo } from '../hooks/usePageSeo'
 import Breadcrumbs from '../components/Breadcrumbs'
 import QuoteBanner from '../components/QuoteBanner'
 import ScrollReveal from '../components/ScrollReveal'
+import { LangLink } from '../components/LangLink'
+import NotFoundPage from './NotFoundPage'
 import '../components/ProductDetails.css'
 import '../components/Products.css'
 import '../components/Refrigeration.css'
@@ -30,24 +32,22 @@ function galleryForSlug(slug: string, hero: string): string[] {
 
 export default function ProductDetailPage() {
   const { slug = '' } = useParams<{ slug: string }>()
-  const { lang, t } = useLanguage()
   const product = getProductBySlug(slug)
+  if (!product) return <NotFoundPage />
+  return <ProductDetailView product={product} />
+}
 
-  const catalog = product ? t.pages.products.catalog[product.catalogKey] : null
-  const seoTitle = catalog?.seoTitle ?? t.pages.products.seoTitle
-  const seoDescription = catalog?.seoDescription ?? t.pages.products.seoDescription
+function ProductDetailView({ product }: { product: ProductPageDef }) {
+  const { lang, t } = useLanguage()
+  const catalog = t.pages.products.catalog[product.catalogKey]
 
   usePageSeo({
     lang,
-    path: product ? routes.product(product.slug) : routes.products,
-    title: seoTitle,
-    description: seoDescription,
-    image: product?.image,
+    path: routes.product(product.slug),
+    title: catalog.seoTitle,
+    description: catalog.seoDescription,
+    image: product.image,
   })
-
-  if (!product || !catalog) {
-    return <Navigate to={routes.products} replace />
-  }
 
   const tabContent = product.tab ? t.productDetails[product.tab] : null
   const related = product.related
@@ -77,7 +77,7 @@ export default function ProductDetailPage() {
             <div className="product-detail__media">
               <img src={product.image} alt={catalog.name} width={800} height={560} loading="eager" />
               {extraGallery.length > 0 && (
-                <div className="product-detail__thumbs" aria-label="Product gallery">
+                <div className="product-detail__thumbs" aria-label={t.ui.productGallery}>
                   {extraGallery.map((src) => (
                     <img key={src} src={src} alt="" loading="lazy" width={160} height={120} />
                   ))}
@@ -87,9 +87,9 @@ export default function ProductDetailPage() {
             <div className="product-detail__intro">
               <h1 className="product-detail__title">{catalog.name}</h1>
               <p className="product-detail__overview">{catalog.overview}</p>
-              <Link to={routes.contact} className="btn btn-primary">
+              <LangLink to={routes.contact} className="btn btn-primary">
                 {t.pages.common.quoteCta}
-              </Link>
+              </LangLink>
             </div>
           </div>
 
@@ -118,9 +118,9 @@ export default function ProductDetailPage() {
                         <h3 className="product-card__title">{item.title}</h3>
                         <p className="product-card__spec">{item.spec}</p>
                         <p className="product-card__desc">{item.desc}</p>
-                        <Link to={routes.contact} className="btn btn-outline btn-sm product-card__btn">
+                        <LangLink to={routes.contact} className="btn btn-outline btn-sm product-card__btn">
                           {t.refrigeration.cta}
-                        </Link>
+                        </LangLink>
                       </div>
                     </article>
                   </ScrollReveal>
@@ -142,9 +142,9 @@ export default function ProductDetailPage() {
             <div className="product-detail__block">
               <div className="product-detail__links">
                 {industrialLinks.map(({ slug: s, key }) => (
-                  <Link key={s} to={routes.product(s)} className="btn btn-outline btn-sm">
+                  <LangLink key={s} to={routes.product(s)} className="btn btn-outline btn-sm">
                     {t.pages.products.catalog[key].name}
-                  </Link>
+                  </LangLink>
                 ))}
               </div>
             </div>
@@ -230,10 +230,10 @@ export default function ProductDetailPage() {
                 {related.map((item) => {
                   const name = t.pages.products.catalog[item.catalogKey].name
                   return (
-                    <Link key={item.slug} to={routes.product(item.slug)} className="product-detail__related-card">
+                    <LangLink key={item.slug} to={routes.product(item.slug)} className="product-detail__related-card">
                       <img src={item.image} alt={name} loading="lazy" width={320} height={200} />
                       <span>{name}</span>
-                    </Link>
+                    </LangLink>
                   )
                 })}
               </div>

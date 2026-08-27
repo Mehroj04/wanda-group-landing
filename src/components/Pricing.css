@@ -47,18 +47,8 @@
   color: var(--color-text-muted);
 }
 
-.pricing__body {
-  display: grid;
-  /* minmax(0, …) instead of a bare fr: otherwise the table sets a min-content
-     floor on the track and pushes past the viewport. */
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr);
-  gap: 48px;
-  align-items: start;
-}
-
-.pricing__body > .reveal,
-.pricing__table-wrap {
-  min-width: 0;
+.pricing__quote-only {
+  max-width: 640px;
 }
 
 .pricing__factors-title {
@@ -97,19 +87,9 @@
   line-height: 1.6;
 }
 
-.pricing__price {
-  color: var(--color-primary) !important;
-  font-weight: 700 !important;
-}
-
 @media (max-width: 1024px) {
   .pricing__cards {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .pricing__body {
-    grid-template-columns: minmax(0, 1fr);
-    gap: 28px;
   }
 }
 

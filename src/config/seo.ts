@@ -22,6 +22,13 @@ export function htmlLang(lang: Lang) {
   return lang === 'zh' ? 'zh-Hans' : lang
 }
 
+/** Open Graph locale (zh uses zh_CN; hreflang uses zh-Hans separately). */
+export function ogLocale(lang: Lang) {
+  if (lang === 'zh') return 'zh_CN'
+  const meta = getLanguage(lang)
+  return `${lang}_${meta.country.toUpperCase()}`
+}
+
 export function syncLangInUrl(lang: Lang) {
   const url = new URL(window.location.href)
   if (lang === 'en') url.searchParams.delete('lang')
@@ -113,7 +120,7 @@ export function applyPageSeo(lang: Lang, seo: PageSeoInput) {
   upsertMeta('property', 'og:description', description)
   upsertMeta('property', 'og:url', url)
   upsertMeta('property', 'og:image', image)
-  upsertMeta('property', 'og:locale', `${lang}_${meta.country.toUpperCase()}`)
+  upsertMeta('property', 'og:locale', ogLocale(lang))
   upsertMeta('property', 'og:site_name', SITE_BRAND)
   upsertMeta('property', 'og:image:alt', `${SITE_BRAND} — ${seo.title}`)
   upsertMeta('name', 'twitter:title', title)

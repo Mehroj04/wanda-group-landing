@@ -427,7 +427,7 @@
         "title": "아세틸렌 실린더 구매 예산 가이드",
         "desc": "비용에 영향을 미치는 요소와 최적의 제안을 선택하는 방법.",
         "body": [
-          "아세틸렌 실린더 가격은 용량(2L~40L), 밸브 유형, 인증(ISO, DOT, TPED) 및 주문 수량에 따라 다릅니다. 예시 EXW 가격: WG-10 $28–35, WG-25 $45–58(개당).",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "더 큰 로트(200~500개 이상)는 의미 있는 할인을 받습니다. OEM 페인팅, 로고 및 특수 포장으로 인해 기본 가격이 5~15% 추가되지만 유통업체의 가치는 높아집니다.",
           "또한 배송(FOB/CIF), 문서 및 MOQ도 고려하세요. 우리는 전체 사양, 리드 타임 및 인코텀즈를 포함하여 24시간 이내에 회신합니다.",
           "정확한 견적을 받으려면 문의 양식에 모델, 수량, 대상 국가 및 밸브 요구 사항을 포함하거나 sales@wandagroups.com으로 이메일을 보내주세요."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "가격 및 공급 조건",
-    "subtitle": "B2B 조달을 위한 투명한 조건. 정확한 가격은 개별적으로 계산됩니다. 문의사항을 보내주시면 24시간 이내에 답변해 드립니다.",
-    "note": "표시된 가격은 참고용입니다(EXW). 최종 비용은 볼륨, 밸브 유형, 인증 및 배송 조건에 따라 다릅니다.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "100개부터",
-        "desc": "모델별 최소 주문량"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "리드타임",
-        "value": "15~25일",
-        "desc": "주문 확인 후"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "지불",
-        "value": "T/T 30/70",
-        "desc": "보증금 30%, 배송 전 70%"
-      },
-      {
-        "label": "보증",
-        "value": "12개월",
-        "desc": "제조 결함에 대하여"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "아세틸렌 WG-10",
-        "moq": "200개",
-        "price": "$28~35/개",
-        "lead": "18일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "아세틸렌 WG-25",
-        "moq": "100개",
-        "price": "$45~58/개",
-        "lead": "20일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "프로판 WG-P11",
-        "moq": "500개",
-        "price": "$12–16/개",
-        "lead": "15일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "프로판 WG-P50",
-        "moq": "100개",
-        "price": "$55~72/개",
-        "lead": "22일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "발전기 WG-G20",
-        "moq": "1개 단위",
-        "price": "$3,500–4,200",
-        "lead": "25일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "레귤레이터 세트",
-        "moq": "50개",
-        "price": "$8–15/개",
-        "lead": "10일"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "주문 확인",
-        "desc": "계약서 체결 및 보증금 30% 지급"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "생산 및 QC",

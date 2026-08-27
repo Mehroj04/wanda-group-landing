@@ -97,7 +97,7 @@
       rel="stylesheet"
     />
     <title>Wanda Group | WandaGroups | Gas Cylinder Manufacturer</title>
-    <script type="application/ld+json">
+    <script type="application/ld+json" id="site-jsonld-static">
       {
         "@context": "https://schema.org",
         "@graph": [
@@ -132,6 +132,8 @@
               "itemListElement": [
                 { "@id": "https://www.wandagroups.com/products/acetylene-cylinders" },
                 { "@id": "https://www.wandagroups.com/products/propane-cylinders" },
+                { "@id": "https://www.wandagroups.com/products/lpg-cylinders" },
+                { "@id": "https://www.wandagroups.com/products/industrial-gas-cylinders" },
                 { "@id": "https://www.wandagroups.com/products/generators" },
                 { "@id": "https://www.wandagroups.com/products/welding-accessories" },
                 { "@id": "https://www.wandagroups.com/products/refrigeration" }
@@ -147,72 +149,54 @@
             "@id": "https://www.wandagroups.com/products/acetylene-cylinders",
             "name": "Acetylene cylinder",
             "image": "https://www.wandagroups.com/images/wg/product-acetylene.jpg",
-            "description": "Dissolved acetylene cylinders for welding and cutting. Indicative EXW range WG-10 to WG-25. ISO / DOT / TPED options.",
+            "description": "Dissolved acetylene cylinders for welding and cutting. Standards and configuration confirmed per order and destination market.",
             "brand": { "@type": "Brand", "name": "Wanda Group" },
-            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" },
-            "offers": {
-              "@type": "AggregateOffer",
-              "url": "https://www.wandagroups.com/contact",
-              "priceCurrency": "USD",
-              "lowPrice": "28",
-              "highPrice": "58",
-              "offerCount": "2",
-              "availability": "https://schema.org/InStock"
-            }
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
           },
           {
             "@type": "Product",
             "@id": "https://www.wandagroups.com/products/propane-cylinders",
             "name": "Propane cylinder",
             "image": "https://www.wandagroups.com/images/wg/product-propane.jpg",
-            "description": "Propane / LPG cylinders from compact to 50 L. Indicative EXW range WG-P11 to WG-P50.",
+            "description": "Propane / LPG cylinders for heating, cutting and industrial gas supply. Configuration confirmed per inquiry.",
             "brand": { "@type": "Brand", "name": "Wanda Group" },
-            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" },
-            "offers": {
-              "@type": "AggregateOffer",
-              "url": "https://www.wandagroups.com/contact",
-              "priceCurrency": "USD",
-              "lowPrice": "12",
-              "highPrice": "72",
-              "offerCount": "2",
-              "availability": "https://schema.org/InStock"
-            }
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
+          },
+          {
+            "@type": "Product",
+            "@id": "https://www.wandagroups.com/products/lpg-cylinders",
+            "name": "LPG cylinder",
+            "image": "https://www.wandagroups.com/images/wg/product-propane.jpg",
+            "description": "LPG cylinders for heating, cutting and industrial gas supply. Configuration confirmed per inquiry.",
+            "brand": { "@type": "Brand", "name": "Wanda Group" },
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
+          },
+          {
+            "@type": "Product",
+            "@id": "https://www.wandagroups.com/products/industrial-gas-cylinders",
+            "name": "Industrial gas cylinder",
+            "image": "https://www.wandagroups.com/images/wg/product-acetylene.jpg",
+            "description": "Industrial gas cylinders for welding, cutting and plant supply. Configuration confirmed per inquiry.",
+            "brand": { "@type": "Brand", "name": "Wanda Group" },
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
           },
           {
             "@type": "Product",
             "@id": "https://www.wandagroups.com/products/generators",
             "name": "Acetylene generator",
             "image": "https://www.wandagroups.com/images/wg/product-generator.jpg",
-            "description": "Industrial acetylene generator for on-site gas supply. Indicative EXW range for WG-G20.",
+            "description": "Industrial acetylene generator for on-site gas supply. Specifications confirmed per inquiry.",
             "brand": { "@type": "Brand", "name": "Wanda Group" },
-            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" },
-            "offers": {
-              "@type": "AggregateOffer",
-              "url": "https://www.wandagroups.com/contact",
-              "priceCurrency": "USD",
-              "lowPrice": "3500",
-              "highPrice": "4200",
-              "offerCount": "1",
-              "availability": "https://schema.org/InStock"
-            }
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
           },
           {
             "@type": "Product",
             "@id": "https://www.wandagroups.com/products/welding-accessories",
             "name": "Gas cylinder accessories",
             "image": "https://www.wandagroups.com/images/wg/acc-kit-product.jpg",
-            "description": "Welding and cutting accessories for gas cylinders, including regulator sets. Indicative EXW range.",
+            "description": "Welding and cutting accessories for gas cylinders, including regulator sets. Quoted per inquiry.",
             "brand": { "@type": "Brand", "name": "Wanda Group" },
-            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" },
-            "offers": {
-              "@type": "AggregateOffer",
-              "url": "https://www.wandagroups.com/contact",
-              "priceCurrency": "USD",
-              "lowPrice": "8",
-              "highPrice": "15",
-              "offerCount": "1",
-              "availability": "https://schema.org/InStock"
-            }
+            "manufacturer": { "@id": "https://www.wandagroups.com/#organization" }
           },
           {
             "@type": "Product",
@@ -252,17 +236,29 @@
   </head>
   <body>
     <div id="root"></div>
-    <noscript>
+        <noscript>
       <main>
         <h1>Wanda Group (WandaGroups) — Gas Cylinder Manufacturer</h1>
         <p>
           Official website of Wanda Group: acetylene cylinders, propane cylinders, generators and welding
-          accessories. ISO / DOT / TPED options, OEM marking, worldwide shipping.
+          accessories for industrial buyers. OEM marking and international export support.
         </p>
+        <nav aria-label="Site">
+          <ul>
+            <li><a href="https://www.wandagroups.com/">Home</a></li>
+            <li><a href="https://www.wandagroups.com/about">About</a></li>
+            <li><a href="https://www.wandagroups.com/products">Products</a></li>
+            <li><a href="https://www.wandagroups.com/products/acetylene-cylinders">Acetylene cylinders</a></li>
+            <li><a href="https://www.wandagroups.com/products/propane-cylinders">Propane cylinders</a></li>
+            <li><a href="https://www.wandagroups.com/factory">Factory</a></li>
+            <li><a href="https://www.wandagroups.com/certifications">Certifications</a></li>
+            <li><a href="https://www.wandagroups.com/oem">OEM</a></li>
+            <li><a href="https://www.wandagroups.com/contact">Contact / Get a Quote</a></li>
+          </ul>
+        </nav>
         <p>
           Email: sales@wandagroups.com · Phone / WhatsApp: +998 50 713 66 46 · Telegram: @sh987789 · WeChat: +86 130 8285 5282
         </p>
-        <p><a href="https://www.wandagroups.com/">https://www.wandagroups.com/</a></p>
       </main>
     </noscript>
     <script type="module" src="/src/main.tsx"></script>

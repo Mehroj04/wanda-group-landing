@@ -1,11 +1,12 @@
 import { useEffect } from 'react'
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
-import { SITE_ORIGIN } from '../config/seoBrand'
+import { pageUrl } from '../config/seo'
 import { usePageSeo } from '../hooks/usePageSeo'
 import PageHero from '../components/PageHero'
 import FAQ from '../components/FAQ'
 import QuoteBanner from '../components/QuoteBanner'
+import { setJsonLd } from '../utils/jsonLd'
 
 const FAQ_SCRIPT_ID = 'faq-jsonld'
 
@@ -32,30 +33,25 @@ export default function FaqPage() {
       })),
     )
 
-    const payload = {
+    return setJsonLd(FAQ_SCRIPT_ID, {
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
       mainEntity: mainEntities,
-      url: `${SITE_ORIGIN}${routes.faq}`,
-    }
-
-    let el = document.getElementById(FAQ_SCRIPT_ID) as HTMLScriptElement | null
-    if (!el) {
-      el = document.createElement('script')
-      el.id = FAQ_SCRIPT_ID
-      el.type = 'application/ld+json'
-      document.head.appendChild(el)
-    }
-    el.textContent = JSON.stringify(payload)
-
-    return () => {
-      document.getElementById(FAQ_SCRIPT_ID)?.remove()
-    }
-  }, [t.faq.groups])
+      url: pageUrl(routes.faq, lang),
+    })
+  }, [t.faq.groups, lang])
 
   return (
     <>
-      <PageHero label={p.label} title={p.title} subtitle={p.subtitle} />
+      <PageHero
+        label={p.label}
+        title={p.title}
+        subtitle={p.subtitle}
+        breadcrumbs={[
+          { label: t.nav.home, to: routes.home },
+          { label: t.nav.faq },
+        ]}
+      />
       <FAQ hideHeader />
       <QuoteBanner title={t.pages.common.quoteTitle} cta={t.pages.common.quoteCta} />
     </>

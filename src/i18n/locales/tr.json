@@ -427,7 +427,7 @@
         "title": "Asetilen Tüpü Satın Alma Bütçe Rehberi",
         "desc": "Maliyeti etkileyen faktörler ve en uygun teklifi nasıl seçersiniz.",
         "body": [
-          "Asetilen tüp fiyatı hacme (2L–40L), vana tipine, sertifikasyona (ISO, DOT, TPED) ve sipariş miktarına bağlıdır. Gösterge EXW fiyatları: WG-10 $28–35, WG-25 $45–58 birim başına.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "Daha büyük partiler (200–500+ adet) anlamlı indirimler alır. OEM boyama, logo ve özel paketleme taban fiyata %5–15 ekler ancak distribütörler için değeri artırır.",
           "Ayrıca sevkiyatı (FOB/CIF), belgeleri ve MOQ'yu hesaba katın. Tam spesifikasyon, teslim süresi ve Incoterms ile 24 saat içinde yanıt veririz.",
           "Kesin teklif için iletişim formuna model, miktar, hedef ülke ve vana gereksinimlerini ekleyin — veya sales@wandagroups.com adresine e-posta gönderin."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Fiyatlandırma ve Tedarik Koşulları",
-    "subtitle": "B2B satın alma için şeffaf koşullar. Kesin fiyatlandırma ayrı ayrı hesaplanır; talebinizi gönderin, 24 saat içinde yanıt veririz.",
-    "note": "Gösterilen fiyatlar gösterge niteliğindedir (EXW). Nihai maliyet hacim, valf tipi, sertifikasyon ve nakliye şartlarına bağlıdır.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "Adedi",
-        "value": "100 adetten itibaren",
-        "desc": "Model başına minimum sipariş"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "Kurşun zamanı",
-        "value": "15–25 gün",
-        "desc": "Sipariş onayından sonra"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Ödeme",
-        "value": "T/T 30/70",
-        "desc": "%30 depozito, %70 sevkıyattan önce"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Garanti",
-        "value": "12 ay",
-        "desc": "Üretim hatalarına karşı"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetilen WG-10",
-        "moq": "200 adet",
-        "price": "28–35 ABD Doları / adet",
-        "lead": "18 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetilen WG-25",
-        "moq": "100 adet",
-        "price": "45–58 ABD Doları / adet",
-        "lead": "20 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 adet",
-        "price": "12–16 ABD Doları / adet",
-        "lead": "15 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 adet",
-        "price": "55–72 ABD Doları / adet",
-        "lead": "22 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Jeneratör WG-G20",
-        "moq": "1 adet",
-        "price": "$3,500–4,200",
-        "lead": "25 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regülatör seti",
-        "moq": "50 adet",
-        "price": "8–15 ABD Doları / adet",
-        "lead": "10 gün"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [

@@ -3,6 +3,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import { galleryImages } from '../config/images'
 import { factoryVideos } from '../config/videos'
 import ScrollReveal from './ScrollReveal'
+import YouTubeFacade from './YouTubeFacade'
 import './Gallery.css'
 
 interface GalleryProps {
@@ -68,18 +69,9 @@ export default function Gallery({
             </ScrollReveal>
 
             <div className="gallery__videos">
-              {factoryVideos.map((video, i) => (
-                <ScrollReveal key={video.id} delay={(i % 6) * 40} from="fade">
-                  <div className="gallery__video">
-                    <iframe
-                      src={`https://www.youtube-nocookie.com/embed/${video.id}`}
-                      title={video.title}
-                      loading="lazy"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                      allowFullScreen
-                      referrerPolicy="strict-origin-when-cross-origin"
-                    />
-                  </div>
+              {factoryVideos.map((video) => (
+                <ScrollReveal key={video.id} delay={40} from="fade">
+                  <YouTubeFacade videoId={video.id} title={video.title} className="gallery__video" />
                 </ScrollReveal>
               ))}
             </div>

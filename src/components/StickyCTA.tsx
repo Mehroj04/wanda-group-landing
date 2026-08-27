@@ -17,7 +17,7 @@ export default function StickyCTA() {
         target="_blank"
         rel="noopener noreferrer"
         className="sticky-cta__btn sticky-cta__btn--whatsapp"
-        aria-label="WhatsApp"
+        aria-label={t.ui.whatsapp}
         onClick={() => trackLead('whatsapp_click', { source: 'sticky' })}
       >
         <WhatsAppIcon size={26} />
@@ -27,7 +27,7 @@ export default function StickyCTA() {
         target="_blank"
         rel="noopener noreferrer"
         className="sticky-cta__btn sticky-cta__btn--telegram"
-        aria-label="Telegram"
+        aria-label={t.ui.telegram}
         onClick={() => trackLead('telegram_click', { source: 'sticky' })}
       >
         <TelegramIcon size={26} />

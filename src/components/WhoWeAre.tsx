@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { LangLink } from '../components/LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
 import ScrollReveal from './ScrollReveal'
@@ -19,9 +19,9 @@ export default function WhoWeAre() {
             </div>
             <p className="who-we-are__text">{w.text}</p>
             <p className="who-we-are__text">{w.text2}</p>
-            <Link to={routes.about} className="btn btn-outline">
+            <LangLink to={routes.about} className="btn btn-outline">
               {w.cta}
-            </Link>
+            </LangLink>
           </div>
         </ScrollReveal>
       </div>

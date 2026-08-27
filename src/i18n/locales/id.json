@@ -427,8 +427,8 @@
         "title": "Panduan Anggaran Pembelian Silinder Asetilen",
         "desc": "Faktor-faktor yang mempengaruhi biaya dan cara memilih penawaran terbaik.",
         "body": [
-          "Harga silinder asetilena tergantung pada volume (2L–40L), jenis katup, sertifikasi (ISO, DOT, TPED) dan jumlah pesanan. Harga indikatif EXW: WG-10 $28–35, WG-25 $45–58 per unit.",
-          "Lot yang lebih besar (200–500+ buah) menerima diskon yang berarti. Lukisan OEM, logo dan kemasan khusus menambah 5–15% pada harga dasar tetapi meningkatkan nilai bagi distributor.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Juga memperhitungkan pengiriman (FOB/CIF), dokumen dan MOQ. Kami membalas dalam waktu 24 jam dengan spesifikasi lengkap, lead time, dan Incoterms.",
           "Untuk penawaran harga pasti, sertakan model, jumlah, negara tujuan, dan persyaratan katup dalam formulir kontak — atau email sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Ketentuan Harga & Pasokan",
-    "subtitle": "Persyaratan transparan untuk pengadaan B2B. Harga pasti dihitung satu per satu — kirimkan pertanyaan, kami membalas dalam waktu 24 jam.",
-    "note": "Harga yang ditampilkan bersifat indikatif (EXW). Biaya akhir tergantung pada volume, jenis katup, sertifikasi, dan persyaratan pengiriman.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "dari 100 buah",
-        "desc": "Minimal pemesanan per model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Waktu Pimpin",
-        "value": "15–25 hari",
-        "desc": "Setelah konfirmasi pesanan"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Pembayaran",
-        "value": "T/T 30/70",
-        "desc": "Deposit 30%, 70% sebelum pengiriman"
-      },
-      {
-        "label": "Jaminan",
-        "value": "12 bulan",
-        "desc": "Terhadap cacat produksi"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetilena WG-10",
-        "moq": "200 buah",
-        "price": "$28–35 / buah",
-        "lead": "18 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetilena WG-25",
-        "moq": "100 buah",
-        "price": "$45–58 / buah",
-        "lead": "20 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propana WG-P11",
-        "moq": "500 buah",
-        "price": "$12–16 / buah",
-        "lead": "15 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propana WG-P50",
-        "moq": "100 buah",
-        "price": "$55–72 / buah",
-        "lead": "22 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 buah",
-        "price": "$3,500–4,200",
-        "lead": "25 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Pengatur diatur",
-        "moq": "50 buah",
-        "price": "$8–15 / buah",
-        "lead": "10 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Konfirmasi Pesanan",
-        "desc": "Penandatanganan kontrak dan pembayaran deposit 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produksi & QC",

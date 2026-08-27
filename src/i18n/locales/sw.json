@@ -427,8 +427,8 @@
         "title": "Mwongozo wa Bajeti kwa Ununuzi wa Silinda za Asetilini",
         "desc": "Mambo yanayoathiri gharama na jinsi ya kuchagua ofa bora.",
         "body": [
-          "Bei ya silinda ya asetilini inategemea ujazo (2L–40L), aina ya valvu, vyeti (ISO, DOT, TPED) na kiasi cha oda. Bei za dalili za EXW: WG-10 $28–35, WG-25 $45–58 kwa kipande.",
-          "Oda kubwa (200–500+ pcs) hupata punguzo muhimu. Kupaka rangi kwa OEM, nembo na ufungashaji maalum huongeza 5–15% kwa bei ya msingi lakini huongeza thamani kwa wasambazaji.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Pia zingatia usafirishaji (FOB/CIF), nyaraka na MOQ. Tunajibu ndani ya saa 24 kwa vipimo kamili, muda wa utoaji na Incoterms.",
           "Kwa nukuu sahihi, jumuisha modeli, kiasi, nchi ya marudio na mahitaji ya valvu katika fomu ya mawasiliano — au tuma barua pepe sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Masharti ya Bei na Ugavi",
-    "subtitle": "Masharti ya uwazi ya ununuzi wa B2B. Bei huhesabiwa kila mmoja - tuma swali, tunajibu ndani ya saa 24.",
-    "note": "Bei zilizoonyeshwa ni elekezi (EXW). Gharama ya mwisho inategemea kiasi, aina ya valves, udhibitisho na masharti ya usafirishaji.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "kutoka pcs 100",
-        "desc": "Agizo la chini kwa kila modeli"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Muda wa Kuongoza",
-        "value": "Siku 15-25",
-        "desc": "Baada ya uthibitisho wa agizo"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Malipo",
-        "value": "T/T 30/70",
-        "desc": "30% amana, 70% kabla ya usafirishaji"
-      },
-      {
-        "label": "Udhamini",
-        "value": "Miezi 12",
-        "desc": "Dhidi ya kasoro za utengenezaji"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetilini WG-10",
-        "moq": "200 pcs",
-        "price": "$ 28-35 / pc",
-        "lead": "siku 18"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetilini WG-25",
-        "moq": "pcs 100",
-        "price": "$ 45-58 / pc",
-        "lead": "siku 20"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propani WG-P11",
-        "moq": "pcs 500",
-        "price": "$ 12-16 / pc",
-        "lead": "siku 15"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propani WG-P50",
-        "moq": "pcs 100",
-        "price": "$ 55-72 / pc",
-        "lead": "siku 22"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Jenereta WG-G20",
-        "moq": "1 kitengo",
-        "price": "$3,500–4,200",
-        "lead": "siku 25"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Seti ya mdhibiti",
-        "moq": "50 pcs",
-        "price": "$ 8-15 / pc",
-        "lead": "siku 10"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Thibitisha Agizo",
-        "desc": "Kusaini mkataba na malipo ya amana ya 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Uzalishaji na QC",

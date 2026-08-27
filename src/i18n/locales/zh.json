@@ -427,8 +427,8 @@
         "title": "乙炔气瓶采购预算指南",
         "desc": "影响成本的因素及如何选择最优方案。",
         "body": [
-          "乙炔气瓶价格取决于容积（2L–40L）、阀门类型、认证（ISO、DOT、TPED）及订单数量。参考 EXW 价格：WG-10 $28–35，WG-25 $45–58/台。",
-          "大批量（200–500+ 台）可享显著折扣。OEM 喷漆、标识及特殊包装在基准价基础上增加 5–15%，但可提升经销商附加值。",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "另需考虑运费（FOB/CIF）、单证及 MOQ。我们将在 24 小时内回复完整规格、交期及贸易术语。",
           "如需精确报价，请在联系表单中填写型号、数量、目的国及阀门要求——或发送邮件至 sales@wandagroups.com。"
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "价格与供货条款",
-    "subtitle": "面向 B2B 采购的透明条款。具体价格需单独核算，请发送询价，我们将在 24 小时内回复。",
-    "note": "所列价格为参考价（EXW）。最终价格取决于订购数量、阀门类型、认证要求及运输条款。",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "100 支起",
-        "desc": "单一型号最小起订量"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "交货期",
-        "value": "15–25 天",
-        "desc": "自订单确认之日起算"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "付款方式",
-        "value": "T/T 30/70",
-        "desc": "预付 30% 定金，发货前付清 70%"
-      },
-      {
-        "label": "质保",
-        "value": "12 个月",
-        "desc": "针对制造缺陷"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "乙炔气瓶 WG-10",
-        "moq": "200 支",
-        "price": "$28–35 /支",
-        "lead": "18 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "乙炔气瓶 WG-25",
-        "moq": "100 支",
-        "price": "$45–58 /支",
-        "lead": "20 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "丙烷气瓶 WG-P11",
-        "moq": "500 支",
-        "price": "$12–16 /支",
-        "lead": "15 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "丙烷气瓶 WG-P50",
-        "moq": "100 支",
-        "price": "$55–72 /支",
-        "lead": "22 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "乙炔发生器 WG-G20",
-        "moq": "1 台",
-        "price": "$3,500–4,200",
-        "lead": "25 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "减压器套装",
-        "moq": "50 套",
-        "price": "$8–15 /套",
-        "lead": "10 天"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "确认订单",
-        "desc": "签订合同并支付 30% 定金"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "生产与质检",

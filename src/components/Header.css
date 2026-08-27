@@ -190,7 +190,9 @@
   }
 
   .header__actions .btn.header__cta {
-    display: none;
+    display: inline-flex;
+    padding: 8px 12px;
+    font-size: 0.75rem;
   }
 
   .header__logo,

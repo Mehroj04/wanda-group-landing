@@ -10,6 +10,7 @@ import Gallery from '../components/Gallery'
 import Contact from '../components/Contact'
 import QuoteBanner from '../components/QuoteBanner'
 import { LangLink } from '../components/LangLink'
+import './HomePage.css'
 
 export default function HomePage() {
   const { lang, t } = useLanguage()
@@ -35,7 +36,7 @@ export default function HomePage() {
         hideHeader={false}
         compact
         footer={
-          <div className="home-factory-links" style={{ display: 'flex', gap: 12, flexWrap: 'wrap', marginTop: 24 }}>
+          <div className="home-factory-links">
             <LangLink to={routes.factory} className="btn btn-outline">
               {t.nav.factory}
             </LangLink>

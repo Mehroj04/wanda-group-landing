@@ -427,8 +427,8 @@
         "title": "Budžeta rokasgrāmata acetilēna balonu iegādei",
         "desc": "Faktori, kas ietekmē izmaksas un kā izvēlēties optimālo piedāvājumu.",
         "body": [
-          "Acetilēna balona cena ir atkarīga no tilpuma (2L-40L), vārsta tipa, sertifikācijas (ISO, DOT, TPED) un pasūtījuma daudzuma. Orientējošās EXW cenas: WG-10 28–35 USD, WG-25 45–58 USD par vienību.",
-          "Lielākas partijas (200–500+ gab.) saņem ievērojamas atlaides. OEM krāsošana, logotips un īpašs iepakojums palielina bāzes cenu par 5–15%, bet palielina vērtību izplatītājiem.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Jāņem vērā arī piegāde (FOB/CIF), dokumenti un MOQ. Mēs atbildam 24 stundu laikā ar pilnu specifikāciju, izpildes laiku un Incoterms.",
           "Lai iegūtu precīzu cenu, saziņas veidlapā iekļaujiet modeli, daudzumu, galamērķa valsti un vārsta prasības vai rakstiet uz sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Cenas un piegādes noteikumi",
-    "subtitle": "Pārskatāmi B2B iepirkuma noteikumi. Precīza cena tiek aprēķināta individuāli - nosūtiet pieprasījumu, mēs atbildēsim 24 stundu laikā.",
-    "note": "Norādītās cenas ir orientējošas (EXW). Galīgās izmaksas ir atkarīgas no apjoma, vārsta veida, sertifikācijas un piegādes noteikumiem.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "no 100 gab",
-        "desc": "Minimālais pasūtījums katram modelim"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Izpildes laiks",
-        "value": "15-25 dienas",
-        "desc": "Pēc pasūtījuma apstiprināšanas"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Maksājums",
-        "value": "T/T 30/70",
-        "desc": "30% depozīts, 70% pirms nosūtīšanas"
-      },
-      {
-        "label": "Garantija",
-        "value": "12 mēneši",
-        "desc": "Pret ražošanas defektiem"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetilēns WG-10",
-        "moq": "200 gab",
-        "price": "28–35 USD / gab",
-        "lead": "18 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetilēns WG-25",
-        "moq": "100 gab",
-        "price": "45–58 USD / gab",
-        "lead": "20 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propāns WG-P11",
-        "moq": "500 gab",
-        "price": "12–16 USD / gab",
-        "lead": "15 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propāns WG-P50",
-        "moq": "100 gab",
-        "price": "55–72 USD / gab",
-        "lead": "22 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Ģenerators WG-G20",
-        "moq": "1 vienība",
-        "price": "$3,500–4,200",
-        "lead": "25 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regulatora komplekts",
-        "moq": "50 gab",
-        "price": "8–15 USD / gab",
-        "lead": "10 dienas"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Apstipriniet pasūtījumu",
-        "desc": "Līguma parakstīšana un 30% depozīta iemaksa"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Ražošana un kvalitātes kontrole",

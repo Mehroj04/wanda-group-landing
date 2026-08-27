@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images } from '../config/images'
 import { routes } from '../config/routes'
@@ -14,12 +14,12 @@ export default function AccessoriesBanner() {
           <div className="accessories__content">
             <h2 className="accessories__title">{t.accessories.title}</h2>
             <p className="accessories__text">{t.accessories.text}</p>
-            <Link to={routes.product('welding-accessories')} className="accessories__link">
+            <LangLink to={routes.product('welding-accessories')} className="accessories__link">
               {t.accessories.cta}
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
                 <path d="M4 10h12M11 5l5 5-5 5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
-            </Link>
+            </LangLink>
           </div>
           <div className="accessories__image-wrap">
             <img

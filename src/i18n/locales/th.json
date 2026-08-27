@@ -427,8 +427,8 @@
         "title": "คู่มืองบประมาณสำหรับการซื้อถังอะเซทิลีน",
         "desc": "ปัจจัยที่มีผลต่อต้นทุนและวิธีเลือกข้อเสนอที่เหมาะสมที่สุด",
         "body": [
-          "ราคาถังอะเซทิลีนขึ้นอยู่กับปริมาตร (2L–40L) ประเภทวาล์ว การรับรอง (ISO, DOT, TPED) และปริมาณการสั่งซื้อ ราคา EXW โดยประมาณ: WG-10 $28–35, WG-25 $45–58 ต่อหน่วย",
-          "ล็อตใหญ่ (200–500+ pcs) ได้รับส่วนลดที่มีนัยสำคัญ การพ่นสี OEM โลโก้ และบรรจุภัณฑ์พิเศษเพิ่ม 5–15% จากราคาฐาน แต่เพิ่มมูลค่าสำหรับผู้จัดจำหน่าย",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "รวมค่าขนส่ง (FOB/CIF) เอกสาร และ MOQ ด้วย เราตอบกลับภายใน 24 ชั่วโมงพร้อมข้อมูลจำเพาะครบถ้วน ระยะเวลานำส่ง และ Incoterms",
           "สำหรับใบเสนอราคาที่แน่นอน ให้ระบุรุ่น ปริมาณ ประเทศปลายทาง และข้อกำหนดวาล์วในแบบฟอร์มติดต่อ — หรืออีเมล sales@wandagroups.com"
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "การกำหนดราคาและเงื่อนไขการจัดหา",
-    "subtitle": "ข้อกำหนดที่โปร่งใสสำหรับการจัดซื้อ B2B ราคาที่แน่นอนจะคำนวณเป็นรายบุคคล — ส่งคำถาม เราจะตอบกลับภายใน 24 ชั่วโมง",
-    "note": "ราคาที่แสดงเป็นเพียงราคาโดยประมาณ (EXW) ต้นทุนสุดท้ายขึ้นอยู่กับปริมาณ ประเภทของวาล์ว ใบรับรอง และเงื่อนไขการจัดส่ง",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "ขั้นต่ำ",
-        "value": "จาก 100 ชิ้น",
-        "desc": "การสั่งซื้อขั้นต่ำต่อรุ่น"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "เวลานำ",
-        "value": "15–25 วัน",
-        "desc": "หลังจากยืนยันการสั่งซื้อ"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "การชำระเงิน",
-        "value": "ที/ที 30/70",
-        "desc": "เงินมัดจำ 30%, 70% ก่อนจัดส่ง"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "การรับประกัน",
-        "value": "12 เดือน",
-        "desc": "ต่อต้านข้อบกพร่องในการผลิต"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "อะเซทิลีน WG-10",
-        "moq": "200 ชิ้น",
-        "price": "$28–35 / ชิ้น",
-        "lead": "18 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "อะเซทิลีน WG-25",
-        "moq": "100 ชิ้น",
-        "price": "$45–58 / ชิ้น",
-        "lead": "20 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "โพรเพน WG-P11",
-        "moq": "500 ชิ้น",
-        "price": "$12–16 / ชิ้น",
-        "lead": "15 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "โพรเพน WG-P50",
-        "moq": "100 ชิ้น",
-        "price": "$55–72 / ชิ้น",
-        "lead": "22 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "เครื่องปั่นไฟ WG-G20",
-        "moq": "1 ยูนิต",
-        "price": "$3,500–4,200",
-        "lead": "25 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "ชุดเรกูเลเตอร์",
-        "moq": "50 ชิ้น",
-        "price": "$8–15 / ชิ้น",
-        "lead": "10 วัน"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "ยืนยันการสั่งซื้อ",
-        "desc": "เซ็นสัญญาและชำระเงินมัดจำ 30%"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "การผลิตและการควบคุมคุณภาพ",

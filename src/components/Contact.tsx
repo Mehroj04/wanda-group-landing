@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { Link } from 'react-router-dom'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { siteConfig, getFormEndpoint, siteLocation } from '../config/site'
 import { routes } from '../config/routes'
@@ -204,7 +204,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                     <span className="contact__wechat-id">{siteConfig.wechat}</span>
                     <img
                       src={siteConfig.wechatQr}
-                      alt="WeChat QR code"
+                      alt={t.ui.wechatQr}
                       className="contact__wechat-qr"
                       loading="lazy"
                       width={200}
@@ -308,8 +308,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                         type="text"
                         id="quantity"
                         name="quantity"
-                        placeholder="500"
-                        required
+                        placeholder={t.cta.quantityPlaceholder}
                         disabled={status === 'loading'}
                       />
                     </div>
@@ -317,7 +316,13 @@ export default function Contact({ hideHeader = false }: ContactProps) {
 
                   <div className="form-group">
                     <label htmlFor="country">{t.cta.country}</label>
-                    <input type="text" id="country" name="country" required disabled={status === 'loading'} />
+                    <input
+                      type="text"
+                      id="country"
+                      name="country"
+                      placeholder={t.cta.countryPlaceholder}
+                      disabled={status === 'loading'}
+                    />
                   </div>
 
                   <div className="form-group">
@@ -325,20 +330,9 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                     <textarea
                       id="requirements"
                       name="requirements"
-                      rows={3}
-                      disabled={status === 'loading'}
-                      placeholder={t.cta.requirementsPlaceholder}
-                    />
-                  </div>
-
-                  <div className="form-group">
-                    <label htmlFor="message">{t.cta.message}</label>
-                    <textarea
-                      id="message"
-                      name="message"
                       rows={4}
                       disabled={status === 'loading'}
-                      placeholder={t.cta.messagePlaceholder}
+                      placeholder={t.cta.requirementsPlaceholder}
                     />
                   </div>
 
@@ -357,9 +351,9 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                     <input type="checkbox" name="privacy" required disabled={status === 'loading'} />
                     <span>
                       {t.cta.privacyPrefix}
-                      <Link to={routes.privacy}>{t.cta.privacyLink}</Link>
+                      <LangLink to={routes.privacy}>{t.cta.privacyLink}</LangLink>
                       {t.cta.termsAnd}
-                      <Link to={routes.terms}>{t.cta.termsLink}</Link>
+                      <LangLink to={routes.terms}>{t.cta.termsLink}</LangLink>
                       {t.cta.privacySuffix}
                     </span>
                   </label>

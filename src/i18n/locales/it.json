@@ -427,8 +427,8 @@
         "title": "Guida al budget per l'acquisto di bombole di acetilene",
         "desc": "Fattori che influenzano i costi e come scegliere l'offerta ottimale.",
         "body": [
-          "Il prezzo delle bombole di acetilene dipende dal volume (2-40 l), dal tipo di valvola, dalla certificazione (ISO, DOT, TPED) e dalla quantità ordinata. Prezzi EXW indicativi: WG-10 $ 28–35, WG-25 $ 45–58 per unità.",
-          "I lotti più grandi (200–500+ pezzi) ricevono sconti significativi. La verniciatura OEM, il logo e l'imballaggio speciale aggiungono il 5–15% al ​​prezzo base ma aumentano il valore per i distributori.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Tieni conto anche della spedizione (FOB/CIF), dei documenti e del MOQ. Rispondiamo entro 24 ore con specifiche complete, tempi di consegna e Incoterms.",
           "Per un preventivo esatto, includi modello, quantità, paese di destinazione e requisiti della valvola nel modulo di contatto o invia un'e-mail a sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Prezzi e termini di fornitura",
-    "subtitle": "Termini trasparenti per gli appalti B2B. Il prezzo esatto viene calcolato individualmente: invia una richiesta, ti risponderemo entro 24 ore.",
-    "note": "I prezzi indicati sono indicativi (EXW). Il costo finale dipende dal volume, dal tipo di valvola, dalla certificazione e dai termini di spedizione.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "da 100 pz",
-        "desc": "Ordine minimo per modello"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Tempi di consegna",
-        "value": "15–25 giorni",
-        "desc": "Dopo la conferma dell'ordine"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Pagamento",
-        "value": "T/T 30/70",
-        "desc": "Deposito del 30%, 70% prima della spedizione"
-      },
-      {
-        "label": "Garanzia",
-        "value": "12 mesi",
-        "desc": "Contro i difetti di fabbricazione"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetilene WG-10",
-        "moq": "200 pezzi",
-        "price": "$ 28-35 / pz",
-        "lead": "18 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetilene WG-25",
-        "moq": "100 pezzi",
-        "price": "$ 45–58 / pz",
-        "lead": "20 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propano WG-P11",
-        "moq": "500 pezzi",
-        "price": "$ 12-16 / pz",
-        "lead": "15 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propano WG-P50",
-        "moq": "100 pezzi",
-        "price": "$ 55-72 / pz",
-        "lead": "22 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generatore WG-G20",
-        "moq": "1 unità",
-        "price": "$3,500–4,200",
-        "lead": "25 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Insieme del regolatore",
-        "moq": "50 pz",
-        "price": "$ 8-15 / pz",
-        "lead": "10 giorni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Conferma ordine",
-        "desc": "Firma del contratto e pagamento dell'acconto del 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produzione e controllo qualità",

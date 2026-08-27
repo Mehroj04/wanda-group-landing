@@ -140,7 +140,12 @@
   background: #111827;
 }
 
-.gallery__video iframe {
+.gallery__video.yt-facade,
+.gallery__video.yt-facade--active {
+  aspect-ratio: 9 / 16;
+}
+
+.gallery__video.yt-facade--active iframe {
   position: absolute;
   inset: 0;
   width: 100%;

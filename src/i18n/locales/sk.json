@@ -427,8 +427,8 @@
         "title": "Sprievodca rozpočtom pre nákup acetylénových fliaš",
         "desc": "Faktory ovplyvňujúce náklady a spôsob výberu optimálnej ponuky.",
         "body": [
-          "Cena acetylénovej fľaše závisí od objemu (2L–40L), typu ventilu, certifikácie (ISO, DOT, TPED) a objednaného množstva. Orientačné ceny EXW: WG-10 28–35 $, WG-25 45–58 $ za jednotku.",
-          "Väčšie šarže (200–500+ kusov) dostávajú zmysluplné zľavy. OEM maľovanie, logo a špeciálne balenie pridávajú 5–15% k základnej cene, ale zvyšujú hodnotu pre distribútorov.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Tiež faktor v lodnej doprave (FOB/CIF), dokumentoch a MOQ. Odpovieme do 24 hodín s úplnou špecifikáciou, dodacou lehotou a Incoterms.",
           "Pre presnú cenovú ponuku uveďte požiadavky na model, množstvo, cieľovú krajinu a ventil v kontaktnom formulári — alebo pošlite e-mail na adresu sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Ceny a dodacie podmienky",
-    "subtitle": "Transparentné podmienky pre B2B obstarávanie. Presná cena je kalkulovaná individuálne - pošlite dopyt, odpovieme do 24 hodín.",
-    "note": "Uvedené ceny sú orientačné (EXW). Konečná cena závisí od objemu, typu ventilu, certifikácie a prepravných podmienok.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "od 100 ks",
-        "desc": "Minimálna objednávka na model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Dodacia lehota",
-        "value": "15-25 dní",
-        "desc": "Po potvrdení objednávky"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Platba",
-        "value": "T/T 30/70",
-        "desc": "30% záloha, 70% pred odoslaním"
-      },
-      {
-        "label": "Záruka",
-        "value": "12 mesiacov",
-        "desc": "Proti výrobným chybám"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylén WG-10",
-        "moq": "200 ks",
-        "price": "28 – 35 USD / ks",
-        "lead": "18 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylén WG-25",
-        "moq": "100 ks",
-        "price": "45 – 58 USD / ks",
-        "lead": "20 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propán WG-P11",
-        "moq": "500 ks",
-        "price": "12 – 16 USD / ks",
-        "lead": "15 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propán WG-P50",
-        "moq": "100 ks",
-        "price": "55 – 72 USD / ks",
-        "lead": "22 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generátor WG-G20",
-        "moq": "1 jednotka",
-        "price": "$3,500–4,200",
-        "lead": "25 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Sada regulátorov",
-        "moq": "50 ks",
-        "price": "8 – 15 USD / ks",
-        "lead": "10 dní"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Potvrdiť objednávku",
-        "desc": "Podpis zmluvy a zaplatenie 30% zálohy"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Výroba a kontrola kvality",

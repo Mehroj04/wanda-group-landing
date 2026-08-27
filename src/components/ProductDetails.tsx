@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
 import { productTabs, type ProductTab } from '../config/content'
@@ -79,9 +79,9 @@ export default function ProductDetails() {
                 </table>
               </div>
               <p className="product-details__note">{content.note}</p>
-              <Link to={routes.contact} className="btn btn-primary product-details__cta">
+              <LangLink to={routes.contact} className="btn btn-primary product-details__cta">
                 {t.ui.requestPrice}
-              </Link>
+              </LangLink>
             </div>
           </div>
         </ScrollReveal>

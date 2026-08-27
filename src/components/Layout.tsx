@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { hashToPath } from '../config/routes'
+import { useHomeJsonLdScope } from '../hooks/useHomeJsonLdScope'
 import Header from './Header'
 import Footer from './Footer'
 import StickyCTA from './StickyCTA'
@@ -41,6 +42,7 @@ function useScrollRestoration() {
 export default function Layout() {
   useLegacyHashRedirect()
   useScrollRestoration()
+  useHomeJsonLdScope()
 
   return (
     <>

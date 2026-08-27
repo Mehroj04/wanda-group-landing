@@ -427,8 +427,8 @@
         "title": "Przewodnik budżetowy dotyczący zakupu butli acetylenowej",
         "desc": "Czynniki wpływające na koszt i sposób wyboru optymalnej oferty.",
         "body": [
-          "Cena butli acetylenowej zależy od objętości (2L–40L), typu zaworu, certyfikacji (ISO, DOT, TPED) i ilości zamówienia. Orientacyjne ceny EXW: WG-10 $28–35, WG-25 $45–58 za sztukę.",
-          "Większe partie (200–500+ szt.) otrzymują znaczące rabaty. Malowanie OEM, logo i specjalne opakowanie dodają 5–15% do ceny podstawowej, ale zwiększają wartość dla dystrybutorów.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Należy również wziąć pod uwagę wysyłkę (FOB/CIF), dokumenty i MOQ. Odpowiadamy w ciągu 24 godzin z pełną specyfikacją, czasem realizacji i Incoterms.",
           "Aby uzyskać dokładną wycenę, w formularzu kontaktowym należy podać wymagania dotyczące modelu, ilości, kraju docelowego i zaworu — lub wysłać wiadomość e-mail na adres sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Warunki cen i dostaw",
-    "subtitle": "Przejrzyste warunki zamówień B2B. Dokładna wycena ustalana jest indywidualnie – wyślij zapytanie, odpowiemy w ciągu 24 godzin.",
-    "note": "Podane ceny są cenami orientacyjnymi (EXW). Ostateczny koszt zależy od objętości, rodzaju zaworu, certyfikacji i warunków wysyłki.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "od 100 szt",
-        "desc": "Minimalne zamówienie na model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Czas realizacji",
-        "value": "15–25 dni",
-        "desc": "Po potwierdzeniu zamówienia"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Zapłata",
-        "value": "T/T 30/70",
-        "desc": "30% depozytu, 70% przed wysyłką"
-      },
-      {
-        "label": "Gwarancja",
-        "value": "12 miesięcy",
-        "desc": "Przeciw wadom produkcyjnym"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylen WG-10",
-        "moq": "200 szt",
-        "price": "28–35 USD / szt",
-        "lead": "18 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylen WG-25",
-        "moq": "100 szt",
-        "price": "45–58 USD / szt",
-        "lead": "20 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 szt",
-        "price": "12–16 USD / szt",
-        "lead": "15 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 szt",
-        "price": "55–72 USD / szt",
-        "lead": "22 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 jednostka",
-        "price": "$3,500–4,200",
-        "lead": "25 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Zestaw regulatora",
-        "moq": "50 szt",
-        "price": "8–15 USD / szt",
-        "lead": "10 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Potwierdź zamówienie",
-        "desc": "Podpisanie umowy i wpłata zadatku 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produkcja i kontrola jakości",

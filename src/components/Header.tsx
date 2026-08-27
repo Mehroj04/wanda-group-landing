@@ -38,11 +38,11 @@ export default function Header() {
   return (
     <header className={`header ${scrolled ? 'header--scrolled' : ''} ${menuOpen ? 'header--menu-open' : ''}`}>
       <div className="container header__inner">
-        <LangLink to={routes.home} className="header__logo" aria-label="Wanda Group" onClick={() => setMenuOpen(false)}>
+        <LangLink to={routes.home} className="header__logo" aria-label={t.ui.brandName} onClick={() => setMenuOpen(false)}>
           <Logo />
         </LangLink>
 
-        <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`} aria-label="Primary">
+        <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`} aria-label={t.ui.primaryNav}>
           {navItems.map(({ id, key, to }) => (
             <LangNavLink
               key={id}
@@ -65,7 +65,7 @@ export default function Header() {
             type="button"
             className={`header__burger ${menuOpen ? 'header__burger--open' : ''}`}
             onClick={() => setMenuOpen(!menuOpen)}
-            aria-label="Menu"
+            aria-label={t.ui.menu}
             aria-expanded={menuOpen}
           >
             <span />

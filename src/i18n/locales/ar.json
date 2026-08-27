@@ -427,7 +427,7 @@
         "title": "دليل الميزانية لشراء اسطوانة الأسيتيلين",
         "desc": "العوامل المؤثرة على التكلفة وكيفية اختيار العرض الأمثل.",
         "body": [
-          "يعتمد سعر أسطوانة الأسيتيلين على الحجم (2 لتر - 40 لتر)، ونوع الصمام، والشهادة (ISO، DOT، TPED) وكمية الطلب. أسعار EXW الإرشادية: WG-10 28-35 دولارًا أمريكيًا، وWG-25 45-58 دولارًا أمريكيًا لكل وحدة.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "تحصل القطع الأكبر (200-500+ قطعة) على خصومات كبيرة. تضيف طلاء OEM والشعار والتغليف الخاص ما بين 5 إلى 15% إلى السعر الأساسي ولكنها تزيد من القيمة بالنسبة للموزعين.",
           "عامل أيضًا في الشحن (FOB / CIF) والمستندات وموك. نقوم بالرد خلال 24 ساعة بالمواصفات الكاملة والمهلة الزمنية وشروط التجارة الدولية.",
           "للحصول على عرض أسعار دقيق، قم بتضمين الطراز والكمية وبلد الوجهة ومتطلبات الصمام في نموذج الاتصال - أو أرسل بريدًا إلكترونيًا إلى sales@wandagroups.com."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "شروط التسعير والتوريد",
-    "subtitle": "شروط شفافة للمشتريات بين الشركات. يتم حساب السعر الدقيق بشكل فردي — أرسل استفسارًا، وسنرد عليك خلال 24 ساعة.",
-    "note": "الأسعار المعروضة إرشادية (EXW). تعتمد التكلفة النهائية على الحجم ونوع الصمام والشهادة وشروط الشحن.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
-        "label": "موك",
-        "value": "من 100 جهاز كمبيوتر شخصى",
-        "desc": "الحد الأدنى للطلب لكل نموذج"
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
       },
       {
-        "label": "مهلة",
-        "value": "15-25 يوما",
-        "desc": "بعد تأكيد الطلب"
+        "label": "MOQ",
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "قسط",
-        "value": "تي / تي 30/70",
-        "desc": "30% راسب, 70% قبل الشحن"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "ضمان",
-        "value": "12 شهرا",
-        "desc": "ضد عيوب التصنيع"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "الأسيتيلين WG-10",
-        "moq": "200 قطعة",
-        "price": "28-35 دولارًا للقطعة",
-        "lead": "18 يوما"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "الأسيتيلين WG-25",
-        "moq": "100 قطعة",
-        "price": "45-58 دولارًا / جهاز كمبيوتر",
-        "lead": "20 يوما"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "البروبان WG-P11",
-        "moq": "500 جهاز كمبيوتر شخصى",
-        "price": "12-16 دولارًا / جهاز كمبيوتر",
-        "lead": "15 يوما"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "البروبان WG-P50",
-        "moq": "100 قطعة",
-        "price": "55-72 دولارًا للقطعة",
-        "lead": "22 يوما"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "مولد WG-G20",
-        "moq": "1 وحدة",
-        "price": "$3,500–4,200",
-        "lead": "25 يوما"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "مجموعة منظم",
-        "moq": "50 قطعة",
-        "price": "8-15 دولارًا أمريكيًا / جهاز كمبيوتر",
-        "lead": "10 أيام"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "تأكيد الطلب",
-        "desc": "توقيع العقد ودفع 30% مقدم"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "الإنتاج ومراقبة الجودة",

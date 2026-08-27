@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images } from '../config/images'
 import { routes } from '../config/routes'
@@ -34,7 +34,7 @@ export default function About() {
               </li>
             ))}
           </ul>
-          <Link to={routes.contact} className="btn btn-primary">{t.nav.getQuote}</Link>
+          <LangLink to={routes.contact} className="btn btn-primary">{t.nav.getQuote}</LangLink>
         </div>
       </div>
     </section>

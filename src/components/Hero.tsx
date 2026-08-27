@@ -16,9 +16,13 @@ export default function Hero() {
       <div className="container hero__content">
         <div className="hero__text">
           <span className="hero__badge">{t.hero.badge}</span>
-          <h1 className="hero__title">
-            <span className="hero__brand">Wanda Group</span>
-            {t.hero.title}
+          <h1 className="hero__title" aria-label={`Wanda Group. ${t.hero.title}`}>
+            <span className="hero__brand" aria-hidden="true">
+              Wanda Group
+            </span>
+            <span className="hero__headline" aria-hidden="true">
+              {t.hero.title}
+            </span>
           </h1>
           <p className="hero__subtitle">{t.hero.subtitle}</p>
           <div className="hero__lines">

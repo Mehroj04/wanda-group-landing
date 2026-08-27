@@ -427,7 +427,7 @@
         "title": "Budsjettguide for kjøp av acetylensylinder",
         "desc": "Faktorer som påvirker kostnadene og hvordan man velger det optimale tilbudet.",
         "body": [
-          "Prisen på acetylensylindere avhenger av volum (2–40 l), ventiltype, sertifisering (ISO, DOT, TPED) og bestillingsmengde. Veiledende EXW-priser: WG-10 $28–35, WG-25 $45–58 per enhet.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "Større partier (200–500+ stk) får betydelige rabatter. OEM-lakkering, logo og spesialemballasje legger til 5–15 % til basisprisen, men øker verdien for distributører.",
           "Ta også hensyn til frakt (FOB/CIF), dokumenter og MOQ. Vi svarer innen 24 timer med fullstendige spesifikasjoner, leveringstid og Incoterms.",
           "For et nøyaktig tilbud, oppgi modell, antall, destinasjonsland og ventilkrav i kontaktskjemaet – eller send en e-post til sales@wandagroups.com."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Priser og leveringsvilkår",
-    "subtitle": "Transparente vilkår for B2B-anskaffelser. Nøyaktig pris beregnes individuelt - send forespørsel, vi svarer innen 24 timer.",
-    "note": "Prisene som vises er veiledende (EXW). Endelig kostnad avhenger av volum, ventiltype, sertifisering og fraktbetingelser.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "fra 100 stk",
-        "desc": "Minimumsbestilling per modell"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Ledetid",
-        "value": "15–25 dager",
-        "desc": "Etter ordrebekreftelse"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Betaling",
-        "value": "T/T 30/70",
-        "desc": "30% innskudd, 70% før forsendelse"
-      },
-      {
-        "label": "Garanti",
-        "value": "12 måneder",
-        "desc": "Mot produksjonsfeil"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetylen WG-10",
-        "moq": "200 stk",
-        "price": "$28–35 / stk",
-        "lead": "18 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetylen WG-25",
-        "moq": "100 stk",
-        "price": "$45–58 / stk",
-        "lead": "20 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 stk",
-        "price": "$12–16 / stk",
-        "lead": "15 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 stk",
-        "price": "$55–72 / stk",
-        "lead": "22 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 enhet",
-        "price": "$3,500–4,200",
-        "lead": "25 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regulator sett",
-        "moq": "50 stk",
-        "price": "$8–15 / stk",
-        "lead": "10 dager"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Bekreft bestilling",
-        "desc": "Kontraktsignering og 30% depositum"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produksjon & QC",

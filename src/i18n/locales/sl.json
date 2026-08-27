@@ -427,7 +427,7 @@
         "title": "Vodič po proračunu za nakup acetilenskih jeklenk",
         "desc": "Dejavniki, ki vplivajo na stroške, in kako izbrati optimalno ponudbo.",
         "body": [
-          "Cena acetilenske jeklenke je odvisna od prostornine (2L–40L), tipa ventila, certifikacije (ISO, DOT, TPED) in količine naročila. Orientacijske cene EXW: WG-10 $28–35, WG-25 $45–58 na enoto.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
           "Večje serije (200–500+ kosov) prejmejo pomembne popuste. OEM barvanje, logotip in posebno pakiranje zvišajo osnovno ceno za 5–15 %, a povečajo vrednost za distributerje.",
           "Upoštevajte tudi pošiljanje (FOB/CIF), dokumente in MOQ. Odgovorimo v 24 urah s popolno specifikacijo, dobavnim rokom in Incoterms.",
           "Za natančno ponudbo v kontaktni obrazec vključite model, količino, ciljno državo in zahteve za ventil — ali pišite na sales@wandagroups.com."
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Cene in dobavni pogoji",
-    "subtitle": "Transparentni pogoji za B2B nabavo. Točna cena se izračuna individualno - pošljite povpraševanje, odgovorimo v 24 urah.",
-    "note": "Prikazane cene so okvirne (EXW). Končni strošek je odvisen od obsega, vrste ventila, certifikata in pogojev pošiljanja.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "od 100 kom",
-        "desc": "Minimalno naročilo na model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Čas izvedbe",
-        "value": "15–25 dni",
-        "desc": "Po potrditvi naročila"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Plačilo",
-        "value": "T/T 30/70",
-        "desc": "30 % depozit, 70 % pred odpremo"
-      },
-      {
-        "label": "Garancija",
-        "value": "12 mesecev",
-        "desc": "Proti proizvodnim napakam"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Acetilen WG-10",
-        "moq": "200 kosov",
-        "price": "28–35 $ / kos",
-        "lead": "18 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Acetilen WG-25",
-        "moq": "100 kosov",
-        "price": "45–58 $ / kos",
-        "lead": "20 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 kosov",
-        "price": "12–16 $ / kos",
-        "lead": "15 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 kosov",
-        "price": "55–72 $ / kos",
-        "lead": "22 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 enota",
-        "price": "$3,500–4,200",
-        "lead": "25 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Set regulatorjev",
-        "moq": "50 kosov",
-        "price": "8–15 $ / kos",
-        "lead": "10 dni"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Potrdite naročilo",
-        "desc": "Podpis pogodbe in plačilo 30% akontacije"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Proizvodnja & QC",

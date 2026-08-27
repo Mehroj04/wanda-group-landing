@@ -427,8 +427,8 @@
         "title": "Atsetilen balloni xarid qilish uchun byudjet qoʻllanmasi",
         "desc": "Narxga taʼsir qiluvchi omillar va optimal taklifni qanday tanlash.",
         "body": [
-          "Atsetilen balloni narxi hajm (2L–40L), ventil turi, sertifikatlash (ISO, DOT, TPED) va buyurtma miqdoriga bogʻliq. Taxminiy EXW narxlar: WG-10 $28–35, WG-25 $45–58 dona uchun.",
-          "Katta partiyalar (200–500+ dona) sezilarli chegirmalar oladi. OEM boʻyash, logo va maxsus qadoqlash asosiy narxga 5–15% qoʻshadi, lekin distribyutorlar uchun qiymatni oshiradi.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Shuningdek, yetkazib berish (FOB/CIF), hujjatlar va MOQ ni hisobga oling. Biz 24 soat ichida toʻliq spesifikasiya, yetkazib berish muddati va Incoterms bilan javob beramiz.",
           "Aniq narx uchun aloqa formasiga model, miqdor, maqsad mamlakat va ventil talablarini kiriting — yoki sales@wandagroups.com ga yozing."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Narxlar va yetkazib berish shartlari",
-    "subtitle": "B2B xaridlari uchun shaffof shartlar. Aniq narxlar individual ravishda hisoblanadi - so'rov yuboring, biz 24 soat ichida javob beramiz.",
-    "note": "Ko'rsatilgan narxlar indikativdir (EXW). Yakuniy xarajat hajmi, vana turi, sertifikatlash va jo'natish shartlariga bog'liq.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "100 donadan",
-        "desc": "Har bir model uchun minimal buyurtma"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Bajarish vaqti",
-        "value": "15-25 kun",
-        "desc": "Buyurtma tasdiqlangandan keyin"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "To'lov",
-        "value": "T/T 30/70",
-        "desc": "30% depozit, jo'natishdan oldin 70%"
-      },
-      {
-        "label": "Kafolat",
-        "value": "12 oy",
-        "desc": "Ishlab chiqarish nuqsonlariga qarshi"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetilen WG-10",
-        "moq": "200 dona",
-        "price": "28–35 dollar / dona",
-        "lead": "18 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetilen WG-25",
-        "moq": "100 dona",
-        "price": "45–58 dollar / dona",
-        "lead": "20 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P11",
-        "moq": "500 dona",
-        "price": "12–16 dollar / dona",
-        "lead": "15 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propan WG-P50",
-        "moq": "100 dona",
-        "price": "55–72 dollar / dona",
-        "lead": "22 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 birlik",
-        "price": "$3,500–4,200",
-        "lead": "25 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Regulyatorlar to'plami",
-        "moq": "50 dona",
-        "price": "8-15 dollar / dona",
-        "lead": "10 kun"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Buyurtmani tasdiqlang",
-        "desc": "Shartnomani imzolash va 30% depozit to'lash"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Ishlab chiqarish va QC",

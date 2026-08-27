@@ -427,8 +427,8 @@
         "title": "Panduan Belanjawan untuk Pembelian Silinder Asetilena",
         "desc": "Faktor-faktor yang mempengaruhi kos dan cara memilih tawaran yang optimum.",
         "body": [
-          "Harga silinder asetilena bergantung pada isipadu (2L–40L), jenis injap, pensijilan (ISO, DOT, TPED) dan kuantiti pesanan. Harga EXW indikatif: WG-10 $28–35, WG-25 $ 45-58 seunit.",
-          "Lot yang lebih besar (200–500+ pcs) menerima diskaun yang bermakna. Lukisan OEM, logo dan pembungkusan khas menambah 5–15% kepada harga asas tetapi meningkatkan nilai untuk pengedar.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Juga faktor dalam penghantaran (FOB/CIF), dokumen dan MOQ. Kami membalas dalam masa 24 jam dengan spesifikasi penuh, masa pendahulu dan Incoterms.",
           "Untuk mendapatkan sebut harga yang tepat, sertakan model, kuantiti, negara destinasi dan keperluan injap dalam borang hubungan — atau e-mel kepada sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Syarat Harga & Bekalan",
-    "subtitle": "Syarat telus untuk perolehan B2B. Harga tepat dikira secara individu — hantar pertanyaan, kami membalas dalam masa 24 jam.",
-    "note": "Harga yang ditunjukkan adalah indikatif (EXW). Kos akhir bergantung pada volum, jenis injap, pensijilan dan syarat penghantaran.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "dari 100 pcs",
-        "desc": "Tempahan minimum setiap model"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Masa Utama",
-        "value": "15–25 hari",
-        "desc": "Selepas pengesahan pesanan"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Bayaran",
-        "value": "T/T 30/70",
-        "desc": "Deposit 30%, 70% sebelum penghantaran"
-      },
-      {
-        "label": "Waranti",
-        "value": "12 bulan",
-        "desc": "Terhadap kecacatan pembuatan"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetilena WG-10",
-        "moq": "200 pcs",
-        "price": "$28–35 / pc",
-        "lead": "18 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetilena WG-25",
-        "moq": "100 pcs",
-        "price": "$45–58 / pc",
-        "lead": "20 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propana WG-P11",
-        "moq": "500 pcs",
-        "price": "$12–16 / pc",
-        "lead": "15 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propana WG-P50",
-        "moq": "100 pcs",
-        "price": "$55–72 / pc",
-        "lead": "22 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Penjana WG-G20",
-        "moq": "1 unit",
-        "price": "$3,500–4,200",
-        "lead": "25 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Set pengawal selia",
-        "moq": "50 pcs",
-        "price": "$8–15 / pc",
-        "lead": "10 hari"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Sahkan Pesanan",
-        "desc": "Menandatangani kontrak dan bayaran deposit 30%."
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Pengeluaran & QC",

@@ -427,8 +427,8 @@
         "title": "Hướng dẫn ngân sách mua bình axetylen",
         "desc": "Các yếu tố ảnh hưởng đến chi phí và cách chọn báo giá tối ưu.",
         "body": [
-          "Giá bình axetylen phụ thuộc vào dung tích (2L–40L), loại van, chứng nhận (ISO, DOT, TPED) và số lượng đặt hàng. Giá EXW tham khảo: WG-10 $28–35, WG-25 $45–58 mỗi bình.",
-          "Lô lớn hơn (200–500+ chiếc) nhận chiết khấu đáng kể. Sơn OEM, logo và đóng gói đặc biệt tăng 5–15% so với giá cơ bản nhưng tăng giá trị cho nhà phân phối.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Cũng cần tính chi phí vận chuyển (FOB/CIF), chứng từ và MOQ. Chúng tôi phản hồi trong 24 giờ với đầy đủ thông số, thời gian giao hàng và Incoterms.",
           "Để nhận báo giá chính xác, hãy ghi model, số lượng, quốc gia đích và yêu cầu van vào form liên hệ — hoặc email sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Điều khoản về giá và cung cấp",
-    "subtitle": "Các điều khoản minh bạch cho hoạt động mua sắm B2B. Giá chính xác được tính riêng - gửi yêu cầu, chúng tôi trả lời trong vòng 24 giờ.",
-    "note": "Giá hiển thị là giá chỉ định (EXW). Chi phí cuối cùng phụ thuộc vào khối lượng, loại van, chứng nhận và điều kiện vận chuyển.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "từ 100 chiếc",
-        "desc": "Đơn hàng tối thiểu cho mỗi mẫu"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
-        "label": "Thời gian dẫn",
-        "value": "15–25 ngày",
-        "desc": "Sau khi xác nhận đơn hàng"
+        "label": "Lead time",
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Sự chi trả",
-        "value": "T/T 30/70",
-        "desc": "Đặt cọc 30%, 70% trước khi giao hàng"
-      },
-      {
-        "label": "Bảo hành",
-        "value": "12 tháng",
-        "desc": "Chống lại khuyết tật sản xuất"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Axetylen WG-10",
-        "moq": "200 chiếc",
-        "price": "$28–35 / chiếc",
-        "lead": "18 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Axetylen WG-25",
-        "moq": "100 chiếc",
-        "price": "$45–58 / chiếc",
-        "lead": "20 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propane WG-P11",
-        "moq": "500 chiếc",
-        "price": "$12–16 / chiếc",
-        "lead": "15 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propane WG-P50",
-        "moq": "100 chiếc",
-        "price": "$55–72 / chiếc",
-        "lead": "22 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Máy phát điện WG-G20",
-        "moq": "1 đơn vị",
-        "price": "$3,500–4,200",
-        "lead": "25 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Bộ điều chỉnh",
-        "moq": "50 chiếc",
-        "price": "$8–15 / chiếc",
-        "lead": "10 ngày"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Xác nhận đơn hàng",
-        "desc": "Ký kết hợp đồng và thanh toán cọc 30%"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Sản xuất & QC",

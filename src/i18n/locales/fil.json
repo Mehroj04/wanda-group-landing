@@ -427,8 +427,8 @@
         "title": "Gabay sa Badyet para sa Pagbili ng Acetylene Cylinder",
         "desc": "Mga salik na nakakaapekto sa gastos at kung paano pipiliin ang pinakamainam na alok.",
         "body": [
-          "Ang presyo ng acetylene cylinder ay depende sa volume (2L–40L), uri ng balbula, sertipikasyon (ISO, DOT, TPED) at dami ng order. Mga indikatibong presyo ng EXW: WG-10 $28–35, WG-25 $45–58 bawat unit.",
-          "Ang mga malalaking lote (200–500+ pcs) ay tumatanggap ng makabuluhang diskwento. Ang pagpipinta, logo at espesyal na packaging ng OEM ay nagdaragdag ng 5–15% sa baseng presyo ngunit nagpapataas ng halaga para sa mga distributor.",
+          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
+          "OEM options and order volume are quoted individually after we review your inquiry.",
           "Salik din sa pagpapadala (FOB/CIF), mga dokumento at MOQ. Tumugon kami sa loob ng 24 na oras na may buong detalye, oras ng pag-lead at Incoterms.",
           "Para sa eksaktong quote, isama ang modelo, dami, destinasyong bansa at mga kinakailangan sa balbula sa form sa pakikipag-ugnayan — o mag-email sa sales@wandagroups.com."
         ]
@@ -854,28 +854,28 @@
   },
   "pricing": {
     "title": "Mga Tuntunin sa Pagpepresyo at Supply",
-    "subtitle": "Mga malinaw na tuntunin para sa pagkuha ng B2B. Ang eksaktong pagpepresyo ay kinakalkula nang paisa-isa — magpadala ng pagtatanong, tumugon kami sa loob ng 24 na oras.",
-    "note": "Ang mga ipinapakitang presyo ay indicative (EXW). Ang huling gastos ay depende sa dami, uri ng balbula, sertipikasyon at mga tuntunin sa pagpapadala.",
+    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
+    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
     "cards": [
       {
+        "label": "Pricing",
+        "value": "On request",
+        "desc": "Formal quotation after inquiry review"
+      },
+      {
         "label": "MOQ",
-        "value": "mula sa 100 pcs",
-        "desc": "Minimum na order bawat modelo"
+        "value": "Confirmed per order",
+        "desc": "Depends on model and destination"
       },
       {
         "label": "Lead time",
-        "value": "15–25 araw",
-        "desc": "Pagkatapos ng kumpirmasyon ng order"
+        "value": "Confirmed per order",
+        "desc": "Shared with the quotation"
       },
       {
-        "label": "Pagbabayad",
-        "value": "T/T 30/70",
-        "desc": "30% na deposito, 70% bago ipadala"
-      },
-      {
-        "label": "Garantiya",
-        "value": "12 buwan",
-        "desc": "Laban sa mga depekto sa pagmamanupaktura"
+        "label": "Payment",
+        "value": "Agreed in contract",
+        "desc": "Terms confirmed before production"
       }
     ],
     "factors": {
@@ -891,39 +891,39 @@
     "samples": [
       {
         "product": "Asetileno WG-10",
-        "moq": "200 pcs",
-        "price": "$28–35 / pc",
-        "lead": "18 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Asetileno WG-25",
-        "moq": "100 pcs",
-        "price": "$45–58 / pc",
-        "lead": "20 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propano WG-P11",
-        "moq": "500 pcs",
-        "price": "$12–16 / pc",
-        "lead": "15 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Propano WG-P50",
-        "moq": "100 pcs",
-        "price": "$55–72 / pc",
-        "lead": "22 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Generator WG-G20",
-        "moq": "1 unit",
-        "price": "$3,500–4,200",
-        "lead": "25 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       },
       {
         "product": "Set ng regulator",
-        "moq": "50 pcs",
-        "price": "$8–15 / pc",
-        "lead": "10 araw"
+        "moq": "On request",
+        "price": "Quoted per inquiry",
+        "lead": "Confirmed per order"
       }
     ],
     "tableHeaders": [
@@ -977,7 +977,7 @@
       },
       {
         "title": "Kumpirmahin ang Order",
-        "desc": "Pagpirma ng kontrata at 30% pagbabayad ng deposito"
+        "desc": "Contract and payment terms agreed before production starts"
       },
       {
         "title": "Produksyon at QC",

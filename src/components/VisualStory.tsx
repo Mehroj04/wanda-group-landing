@@ -9,7 +9,7 @@ export default function VisualStory() {
   const { t } = useLanguage()
 
   return (
-    <section id="story" className="visual-story" aria-label="Product story">
+    <section id="story" className="visual-story" aria-label={t.ui.products}>
       {t.story.slides.map((slide, index) => {
         const reverse = index % 2 === 1
         return (
