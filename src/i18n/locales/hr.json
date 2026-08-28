@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Proizvođač industrijskih plinskih boca",
     "title": "Proizvođač industrijskih plinskih boca i opreme",
-    "subtitle": "Proizvodnja, OEM i veleprodajna opskrba acetilenskih boca, propan/LPG boca, generatora i pribora za zavarivanje za međunarodne izvozne kupce.",
+    "subtitle": "Proizvodnja, OEM i veleprodajna opskrba boca za acetilen, propan i LPG, generatora, pribora za zavarivanje i rashladne opreme za međunarodne izvozne kupce.",
     "lineGas": "Plinske boce",
     "lineCold": "Rashladne jedinice",
     "cta": "Zatražite ponudu",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Naši proizvodi",
-    "subtitle": "Acetilenske boce, generatori, propanske boce i pribor za industrijsku i zavarivačku primjenu.",
+    "subtitle": "Boce za acetilen, propan i LPG, generatori, pribor za zavarivanje i rashladna oprema za industrijske kupce.",
     "viewDetails": "Prikaži pojedinosti",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Boca za propan",
         "spec": "3L–50L · opcije ventila po tržištu",
-        "desc": "Izdržljive LPG boce za grijanje, rezanje i industrijsku uporabu.",
+        "desc": "Čelični cilindri za punjenje propanom — grijanje, rezanje i industrijska opskrba.",
         "icon": "🛢️"
       },
       {
-        "title": "Pribor za cilindre",
+        "title": "Pribor za zavarivanje",
         "spec": "Ventili · regulatori · crijeva · plamenici",
-        "desc": "Odgovarajući priključci isporučuju se s cilindrima ili kao posebna narudžba.",
+        "desc": "Pribor za zavarivanje i pribor za cilindre, isporučuje se s cilindrima ili zasebno.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaceutske i medicinske hladnjače",
       "Logistika i transport hladnjačama",
       "Industrijski rashladni i procesni rashladni uređaji"
+    ],
+    "acetylene": [
+      "Zavarivanje oksi-acetilenom",
+      "Rezanje kisikom",
+      "Lemljenje i zagrijavanje",
+      "Prodavaonice metalnih proizvoda",
+      "Brodogradilište i radovi na održavanju"
+    ],
+    "propane": [
+      "Industrijsko grijanje na propan",
+      "Rezanje kisikom s acetilenom",
+      "Grijanje radionica i građevina",
+      "Opskrba postrojenja propanom",
+      "Kuhanje i procesna toplina gdje je naveden propan"
+    ],
+    "lpg": [
+      "Stambena i poslovna distribucija UNP-a",
+      "Prijenosni LPG izvor goriva",
+      "Plin za kampiranje i ugostiteljstvo",
+      "Grijanje na LPG mješavine",
+      "Veleprodaja punjenja LPG boca za lokalna tržišta"
+    ],
+    "industrial": [
+      "Opskrba plinom za zavarivanje i rezanje",
+      "Zaliha cilindara u tvornici i radionici",
+      "Distribucijski industrijski plinovodi",
+      "Projektiranje i gradilišta"
+    ],
+    "generators": [
+      "Proizvodnja acetilena iz kalcijevog karbida na licu mjesta",
+      "Radionice bez zaliha acetilena u bocama",
+      "Zavarivanje i rezanje gdje je logistika cilindra ograničena",
+      "Industrijska mjesta kojima je potreban lokalni izvor acetilena"
+    ],
+    "accessories": [
+      "Sklopovi cilindra i regulatora",
+      "Postrojenja za zavarivanje i rezanje kisikom",
+      "Zamjena crijeva, mjerača i ventila",
+      "Radionička sigurnosna armatura za rukovanje plinom"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Proizvođač plinskih boca za industrijske kupce",
-    "text": "Wanda Group proizvodi acetilenske boce, boce za propan, generatore i pribor za zavarivanje, rezanje i opskrbu industrijskim plinom.",
+    "text": "Wanda Group proizvodi acetilenske boce, boce za propan i LPG, generatore i pribor za zavarivanje, a također isporučuje rashladnu opremu za industrijske kupce.",
     "text2": "Podržavamo inozemne kupce odabirom proizvoda, OEM-om, pregledom, pakiranjem i otpremom.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Koje proizvode uglavnom isporučujete?",
-            "a": "Isporučujemo boce za acetilen, boce za propan, generatore acetilena i dodatke za plinske boce kao što su ventili, regulatori, crijeva, mjerači tlaka i plamenici."
+            "a": "Isporučujemo acetilenske boce, boce za propan i LPG, generatore za acetilen, pribor za plinske boce i rashladnu opremu kao zasebnu liniju proizvoda."
           },
           {
             "q": "Možete li podržati prilagodbu OEM-a?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Mogu li pogledati tvorničke videozapise prije naručivanja?",
-            "a": "Da. Pogledajte proizvodne videozapise u odjeljku Tvornica na ovoj stranici. Dodatni snimci, spojnice za pakiranje i certifikati šalju se privatno na zahtjev."
+            "a": "Da. Pogledajte proizvodne videozapise na stranici Tvornica. Dodatni snimci, spojnice za pakiranje i kopije certifikata šalju se privatno na zahtjev."
           },
           {
             "q": "Pružate li video zapise o proizvodima, posebno za acetilenske cilindre?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Može li se pribor naručiti zajedno s plinskim bocama?",
-            "a": "Da. Pribor se može isporučiti zajedno s bocama za acetilen, bocama za propan i generatorima acetilena."
+            "a": "Da. Pribor se može isporučiti zajedno s bocama za acetilen, propan i LPG te generatorima za acetilen."
           },
           {
             "q": "Podržavate li OEM pakiranje?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Dobijte točnu ponudu",
     "certifications": "Certifikati",
     "order": "Redoslijed",
-    "reviews": "Recenzije",
+    "reviews": "Bilješke kupca",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Mjesto",
@@ -587,7 +626,7 @@
     "exportReady": "Izvoz spreman",
     "years": "Godine",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO certificiran",
+    "isoCertified": "Standardi na zahtjev",
     "globalExport": "Globalni izvoz",
     "products": "Proizvodi",
     "specs": "Tehnički podaci",
@@ -695,16 +734,16 @@
       "note": "* Točni parametri ovise o standardu (ISO/DOT/GB) i konfiguraciji ventila. Zatražite specifikaciju za svoje tržište."
     },
     "propane": {
-      "title": "Cilindri za propan i LPG",
-      "intro": "Boce za mješavine propana, butana i LPG-a. Koristi se za grijanje, rezanje, tvrdo lemljenje, građevinarstvo i industrijsku opskrbu plinom.",
+      "title": "Raspon cilindara WG-P",
+      "intro": "Modeli WG-P jedna su obitelj čeličnih cilindara. Plin za punjenje — propan ili LPG (propan, butan ili mješavine) — specificiran je prema narudžbi i odredišnom tržištu.",
       "features": [
-        "Čelik 37Mn/34CrMo4 prema ISO 9809",
+        "Vrsta čelika i primjenjivi standard cilindra potvrđeni po narudžbi",
         "Radni tlak 1,8–2,1 MPa",
-        "POL, CGA 510, GOST ventili",
-        "Bojanje u prahu, antikorozivno",
-        "Certifikati za tržišta EU, SAD, ZND"
+        "POL, CGA 510, GOST ventili razmatrani po tržištu",
+        "Lakiranje u prahu i antikorozivna obrada",
+        "Mogućnosti certificiranja razmatrane po odredišnom tržištu"
       ],
-      "tableTitle": "Standardni modeli boca za propan",
+      "tableTitle": "Standardni modeli cilindra WG-P",
       "headers": [
         "Model",
         "Volumen (L)",
@@ -768,10 +807,10 @@
       "intro": "Oprema za proizvodnju acetilena iz kalcijevog karbida. Stabilna opskrba plinom za zavarivanje i industrijske potrebe bez centralizirane plinske infrastrukture.",
       "features": [
         "Izlaz 3–100 m³/h kapacitet",
-        "Automatski dovod vode i karbida",
-        "Sigurnosni sustav i filtracija",
+        "Mogućnosti dovoda vode i karbida razmatrane po modelu",
+        "Sigurnosni sustav i filtracija kako je specificirano za model",
         "Kompaktni i industrijski modeli",
-        "Kompletna dokumentacija i obuka"
+        "Dokumentacija za narudžbu isporučena. O obuci rukovatelja može se razgovarati na zahtjev"
       ],
       "tableTitle": "Modeli generatora acetilena",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatori se isporučuju sa sustavom hlađenja, filterima i kompletom rezervnih dijelova na zahtjev."
     },
     "accessories": {
-      "title": "Pribor i oprema za cilindre",
+      "title": "Pribor za zavarivanje i spojnice za cilindre",
       "intro": "Kompletan asortiman za siguran rad plinskih boca: od mjerača do plamenika za zavarivanje. Nabava na jednom mjestu s cilindrima.",
       "features": [
         "Regulatori i mjerači (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Baklje",
           "WG-C100, WG-C300",
           "—",
-          "Plazma/oksi rezanje"
+          "Rezanje kisikom"
         ],
         [
           "Plamenici",
@@ -881,7 +920,7 @@
           "Sve vrste cilindara"
         ]
       ],
-      "note": "* Pribor dostupan zasebno ili u paketu s cilindrima. Popust na kombinirane narudžbe."
+      "note": "* Pribor se može kotirati zasebno ili zajedno s cilindrima. Cijena kombinirane narudžbe potvrđena je u ponudi."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Izvoz i logistika",
-        "desc": "Potpuna međunarodna podrška za pošiljke.",
+        "desc": "Izvozno pakiranje i koordinacija otpreme za inozemne kupce.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Izvozna dokumentacija",
-          "Pomorski i željeznički teret"
+          "Mogućnosti pomorskog i željezničkog prijevoza"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrola kvalitete",
-        "desc": "Testiranje i inspekcija u svakoj fazi.",
+        "desc": "Pregled i ispitivanje tijekom proizvodnje prema narudžbi.",
         "points": [
           "Hidrostatička ispitivanja",
-          "UT pregled zavara",
-          "SGS/BV pregled na zahtjev"
+          "Provjera zavara kako je navedeno",
+          "Inspekcija treće strane na zahtjev"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certifikacija",
         "desc": "Dokumenti za carinu i regulatore. Kopije se šalju privatno na zahtjev.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & certifikat kvalitete",
-          "Potvrda o podrijetlu"
+          "Standardi se raspravljaju po proizvodu i tržištu",
+          "MSDS i dokumenti o kvaliteti na zahtjev",
+          "Potvrda o podrijetlu na zahtjev"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pomoć pri odabiru proizvoda i konfiguracije.",
         "points": [
           "Tržišni odabir",
-          "MOQ i izračun vremena isporuke",
-          "Obuka osoblja"
+          "MOQ i vrijeme isporuke razmatraju se po narudžbi",
+          "O uputama operatera raspravlja se na zahtjev"
         ]
       },
       {
         "icon": "📦",
         "title": "Opskrba u paketu",
-        "desc": "Cilindri + pribor u jednoj narudžbi.",
+        "desc": "Cilindri i pribor u jednoj narudžbi.",
         "points": [
-          "Pojedinačni ugovor",
+          "Jedan upit",
           "Koordinirana isporuka",
-          "Popust na pakete"
+          "Cijene kombinirane narudžbe u ponudi"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bešavne čelične plinske boce — tehnički zahtjevi"
+        "desc": "Bešavne čelične plinske boce koje se mogu ponovno puniti — kaljeni i poboljšani čelik. Raspravlja se po proizvodu i odredišnom tržištu."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Boce s otopljenim acetilenom"
+        "desc": "Plinske boce — Bešavne čelične plinske boce koje se mogu ponovno puniti — Projektiranje, konstrukcija i ispitivanje — 3. dio: Normalizirane čelične boce. Nije standard za acetilenske boce (vidi ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetilenske boce — osnovni zahtjevi i ispitivanje tipa. Raspravlja se za acetilenske proizvode kada se to zatraži. Primjenjivost se potvrđuje po narudžbi."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Američki tržišni standard cilindra — primjenjivost potvrđena po proizvodu i narudžbi"
+        "desc": "Američka specifikacija za bešavne čelične cilindre — primjenjivost potvrđena po proizvodu i narudžbi"
       },
       {
         "name": "TPED",
-        "desc": "Europski zahtjevi za prijevoz — raspravlja se po odredišnom tržištu"
+        "desc": "Direktiva EU o prenosivoj tlačnoj opremi — razmatra se po odredišnom tržištu"
       },
       {
         "name": "GB 5099",
-        "desc": "Kineski standard plinskih boca"
+        "desc": "Kineski nacionalni standard za bešavne čelične plinske boce — primjenjivost potvrđena po proizvodu i narudžbi"
       },
       {
         "name": "CE Mark",
-        "desc": "Europska oznaka sukladnosti — primjenjivost po proizvodu i tržištu"
+        "desc": "Europska oznaka sukladnosti — primjenjivost po proizvodu i tržištu. Nije zamjena za objavljenu datoteku certifikata."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Što kažu kupci",
+    "title": "Ono što industrijski kupci obično traže",
     "items": [
       {
-        "quote": "Ove smo godine tri puta ponovno naručili acetilenske boce od 40L. GOST ventili, OEM boja i izvozno pakiranje odgovarali su prvom uzorku svaki put.",
-        "author": "Rustam Yusupov",
-        "role": "Vlasnik, distributer plina za zavarivanje",
-        "country": "Uzbekistan"
+        "quote": "OEM boja, tip ventila i izvozno pakiranje usklađeni s potvrđenim uzorkom prije ponovne isporuke.",
+        "author": "Distributor inquiries",
+        "role": "Opskrba plinom za zavarivanje",
+        "country": "Central Asia"
       },
       {
-        "quote": "Ponuda je stigla istog dana s jasnim MOQ-om i rokom isporuke. Boce propana stigle su s POL ventilima i punim popisom pakiranja — s naše strane nema odgode na carini.",
-        "author": "Aigerim Bekova",
-        "role": "Voditelj nabave, industrijska opskrba",
-        "country": "Kazakhstan"
+        "quote": "Jasni MOQ, vrijeme isporuke i popis pakiranja potvrđeni u ponudi — ne kao fiksne cijene na web-mjestu.",
+        "author": "Procurement inquiries",
+        "role": "Industrijska opskrba",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Cilindre s regulatorima i crijevima kupujemo kao jedan spremnik. Dokumenti i oznake bili su spremni za naše tržište, tako da je preprodaja bila jednostavna.",
-        "author": "Faisal Al-Harbi",
-        "role": "Uvozni kupac, trgovina plinskom opremom",
-        "country": "Saudi Arabia"
+        "quote": "Cilindri s regulatorima i crijevima navedeni su kao jedna kombinirana narudžba, s dogovorom o označavanju za odredišno tržište.",
+        "author": "Import inquiries",
+        "role": "Trgovina plinskom opremom",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Tko smo mi",
     "title": "Industrijski proizvođač za B2B kupce",
-    "text": "Wanda Groups proizvodi i isporučuje industrijske plinske boce, generatore i dodatke za zavarivanje za inozemne distributere, OEM partnere i kupce projekata.",
+    "text": "Wanda Groups proizvodi i isporučuje industrijske plinske boce, generatore, dodatke za zavarivanje i rashladnu opremu za inozemne distributere, OEM partnere i kupce projekata.",
     "text2": "Naš fokus je opskrba vezana uz tvornicu, podrška pri odabiru proizvoda, skupne narudžbe i koordinacija izvoza — a ne maloprodajna prodaja potrošačima.",
     "cta": "Saznajte više o nama"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Jeste li spremni zatražiti ponudu?",
       "quoteCta": "Zatražite ponudu",
       "relatedProducts": "Srodni proizvodi",
+      "productFamilies": "Obitelji proizvoda",
       "applications": "Applications",
       "standardsTitle": "Standardi i certifikacija",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Proizvođač plinskih boca | Industrijski OEM i izvoz | Wanda grupe",
-      "seoDescription": "Wanda Groups proizvodi industrijske plinske boce, generatore i pribor za zavarivanje za OEM, veleprodaju i međunarodne izvozne kupce."
+      "seoDescription": "Wanda Groups proizvodi industrijske plinske boce, generatore, pribor za zavarivanje i rashladnu opremu za OEM, veleprodaju i međunarodne izvozne kupce."
     },
     "about": {
       "label": "O nama",
       "title": "Proizvođač plinskih boca za industrijske kupce",
       "subtitle": "Podržavamo inozemne kupce odabirom proizvoda, OEM-om, pregledom, pakiranjem i otpremom.",
       "seoTitle": "O Wanda Group",
-      "seoDescription": "Wanda Group proizvodi acetilenske boce, boce za propan, generatore i pribor za zavarivanje, rezanje i opskrbu industrijskim plinom."
+      "seoDescription": "Wanda Group proizvodi boce za acetilen, propan i LPG, generatore, pribor za zavarivanje i rashladnu opremu za industrijske izvozne kupce."
     },
     "products": {
       "label": "Proizvodi",
       "title": "Naši proizvodi",
-      "subtitle": "Acetilenske boce, generatori, propanske boce i pribor za industrijsku i zavarivačku primjenu.",
+      "subtitle": "Boce za acetilen, propan i LPG, generatori, pribor za zavarivanje i rashladna oprema za industrijske kupce.",
       "seoTitle": "Proizvodi plinskih boca",
-      "seoDescription": "Acetilenske boce, generatori, propanske boce i pribor za industrijsku i zavarivačku primjenu.",
+      "seoDescription": "Boce za acetilen, propan i LPG, generatori acetilena, pribor za zavarivanje i rashladna oprema Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindri s otopljenim acetilenom",
           "overview": "Čelični cilindri s poroznom masom i otapalom za sigurno skladištenje i transport acetilena. Koristi se u zavarivanju, rezanju, lemljenju i proizvodnji metala.",
+          "application": "Kisično-acetilensko zavarivanje, rezanje i lemljenje",
           "seoTitle": "Acetilenske plinske boce",
           "seoDescription": "Čelični cilindri s poroznom masom i otapalom za sigurno skladištenje i transport acetilena. Koristi se u zavarivanju, rezanju, lemljenju i proizvodnji metala."
         },
         "propane": {
           "name": "Cilindri za propan",
-          "overview": "Čelične boce za skladištenje i transport propana. Koristi se za grijanje, opskrbu industrijskim propanom, kuhanje i rezanje kisikom u kombinaciji s acetilenom.",
+          "overview": "Čelične boce predviđene za punjenje propanom. Koristi se za grijanje, opskrbu industrijskim propanom, kuhanje i rezanje kisikom u kombinaciji s acetilenom.",
+          "application": "Industrijsko grijanje propanom, rezanje i opskrba postrojenja",
+          "familyNote": "Boce za propan i boce za LPG koriste isti asortiman WG-P čeličnih boca. Ova stranica pokriva punjenje propanom i posebne uporabe propana. LPG mješavine i opskrba distribucijom opisani su na stranici LPG cilindri.",
           "seoTitle": "Plinske boce za propan",
-          "seoDescription": "Čelične plinske boce za propan za grijanje, industrijsku opskrbu i primjenu u rezanju. Mogućnosti izvoza i OEM-a razmatraju se po narudžbi."
+          "seoDescription": "Čelični cilindri za punjenje propanom — grijanje, industrijska opskrba i rezanje kisikom. Isti WG-P raspon kao LPG; napuniti plinom navedenim po narudžbi."
         },
         "lpg": {
           "name": "LPG cilindri",
-          "overview": "Boce za ukapljeni naftni plin (LPG) — propan, butan ili miješane mješavine. Uobičajeno za stambenu i komercijalnu distribuciju UNP-a, kampiranje, grijanje i opskrbu prijenosnim gorivom.",
+          "overview": "Boce za ukapljeni naftni plin (LPG) — propan, butan ili miješane mješavine. Koristi se za stambenu i komercijalnu distribuciju UNP-a, kampiranje, grijanje i opskrbu prijenosnim gorivom.",
+          "application": "Distribucija UNP-a, grijanje na prijenosno gorivo i mješavinu",
+          "familyNote": "Cilindri za LPG i boce za propan koriste isti raspon WG-P čeličnih boca. Ova stranica pokriva LPG mješavine i distribuciju. Punjenje samo propanom i uporaba industrijskog propana opisani su na stranici Boce za propan.",
           "seoTitle": "LPG plinske boce",
-          "seoDescription": "LPG boce za stambenu, komercijalnu i industrijsku distribuciju i prijenosnu opskrbu ukapljenim naftnim plinom."
+          "seoDescription": "LPG boce za stambenu, komercijalnu i industrijsku distribuciju ukapljenog naftnog plina. Isti WG-P raspon kao i boce za propan; ispuniti navedeno po narudžbi."
         },
         "industrial": {
           "name": "Industrijske plinske boce",
           "overview": "Industrijske plinske boce za zavarivanje, rezanje i opskrbu postrojenja — uključujući acetilen, propan i LPG opcije prilagođene vašem tržištu.",
+          "application": "Opskrba postrojenja, distributera i projektnih cilindara",
           "seoTitle": "Industrijske plinske boce",
           "seoDescription": "Industrijske plinske boce za zavarivanje, rezanje i opskrbu postrojenja iz Wanda Group."
         },
         "generators": {
           "name": "Acetilenski generatori",
           "overview": "Oprema za proizvodnju acetilena iz kalcijevog karbida. Stabilna opskrba plinom za zavarivanje i industrijske potrebe bez centralizirane plinske infrastrukture.",
+          "application": "Proizvodnja acetilena na licu mjesta iz kalcijevog karbida",
           "seoTitle": "Acetilenski generatori",
           "seoDescription": "Oprema za proizvodnju acetilena iz kalcijevog karbida. Stabilna opskrba plinom za zavarivanje i industrijske potrebe bez centralizirane plinske infrastrukture."
         },
         "accessories": {
-          "name": "Pribor i oprema za cilindre",
+          "name": "Pribor za zavarivanje i spojnice za cilindre",
           "overview": "Kompletan asortiman za siguran rad plinskih boca: od mjerača do plamenika za zavarivanje. Nabava na jednom mjestu s cilindrima.",
-          "seoTitle": "Pribor za zavarivanje",
-          "seoDescription": "Kompletan asortiman za siguran rad plinskih boca: od mjerača do plamenika za zavarivanje. Nabava na jednom mjestu s cilindrima."
+          "application": "Postavljanje kisika i goriva, regulatori, crijeva, ventili i mjerači",
+          "seoTitle": "Pribor za zavarivanje i spojnice za cilindre",
+          "seoDescription": "Pribor za zavarivanje i oprema za cilindre — regulatori, crijeva, mjerači, plamenici i ventili, isporučuju se s cilindrima ili zasebno."
         },
         "refrigeration": {
           "name": "Rashladne jedinice",
           "overview": "Zasebna linija Wanda Group — ne katalog treće strane. Kondenzacijske jedinice, rashladne komore i hardver isporučujemo s cilindrima ili kao samostalnu narudžbu.",
+          "application": "Rashladne komore, rashladni lanac hrane i industrijsko hlađenje",
           "seoTitle": "Rashladne jedinice",
-          "seoDescription": "Zasebna linija Wanda Group — ne katalog treće strane. Kondenzacijske jedinice, rashladne komore i hardver isporučujemo s cilindrima ili kao samostalnu narudžbu."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

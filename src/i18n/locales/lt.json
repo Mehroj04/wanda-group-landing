@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Pramoninių dujų balionų gamintojas",
     "title": "Pramoninių dujų balionų ir įrangos gamintojas",
-    "subtitle": "Acetileno balionų, propano/SND balionų, generatorių ir suvirinimo reikmenų gamyba, OEM ir didmeninis tiekimas tarptautiniams eksporto pirkėjams.",
+    "subtitle": "Gamyba, OEM ir didmeninis acetileno, propano ir SND balionų, generatorių, suvirinimo reikmenų ir šaldymo įrangos tiekimas tarptautiniams eksporto pirkėjams.",
     "lineGas": "Dujų balionai",
     "lineCold": "Šaldymo įrenginiai",
     "cta": "Gaukite citatą",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Mūsų gaminiai",
-    "subtitle": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+    "subtitle": "Pramoniniams pirkėjams acetileno, propano ir SND balionai, generatoriai, suvirinimo reikmenys ir šaldymo įranga.",
     "viewDetails": "Peržiūrėti išsamią informaciją",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propano cilindras",
         "spec": "3L–50L · vožtuvų parinktys kiekvienai rinkai",
-        "desc": "Patvarūs SND balionai, skirti šildymui, pjovimui ir pramoniniam naudojimui.",
+        "desc": "Plieniniai cilindrai propano užpildymui – šildymui, pjovimui ir pramoniniam tiekimui.",
         "icon": "🛢️"
       },
       {
-        "title": "Cilindrų priedai",
+        "title": "Suvirinimo priedai",
         "spec": "Vožtuvai · reguliatoriai · žarnos · degikliai",
-        "desc": "Atitinkamos jungiamosios detalės tiekiamos su cilindrais arba pagal atskirą užsakymą.",
+        "desc": "Suvirinimo priedai ir cilindrų jungiamosios detalės, tiekiamos su cilindrais arba atskirai.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmacijos ir medicinos šaldymo sandėlis",
       "Logistika ir refrižeratorius",
       "Pramoniniai aušinimo ir proceso aušintuvai"
+    ],
+    "acetylene": [
+      "Deguonies-acetileno suvirinimas",
+      "Deguonies ir kuro pjovimas",
+      "Litavimas ir šildymas",
+      "Metalo gamybos parduotuvės",
+      "Laivų statyklos ir priežiūros darbai"
+    ],
+    "propane": [
+      "Pramoninis propano šildymas",
+      "Deguonies ir kuro pjovimas acetilenu",
+      "Dirbtuvių ir statybos šildymas",
+      "Augalų propano tiekimas",
+      "Virimo ir proceso karštis, kai nurodytas propanas"
+    ],
+    "lpg": [
+      "Gyvenamųjų ir komercinių SND platinimas",
+      "Nešiojamas LPG kuro tiekimas",
+      "Kempingo ir maitinimo dujos",
+      "Šildymas SND mišiniais",
+      "Didmeninė prekyba SND balionų pildymu vietinėms rinkoms"
+    ],
+    "industrial": [
+      "Suvirinimo ir pjovimo dujų tiekimas",
+      "Gamyklos ir dirbtuvių cilindrų atsargos",
+      "Pramoninių dujų tiekimo linijos",
+      "Projektas ir statybvietės"
+    ],
+    "generators": [
+      "Acetileno gamyba vietoje iš kalcio karbido",
+      "Dirbtuvės be išpilstyto acetileno tiekimo",
+      "Suvirinimas ir pjovimas, kai cilindrų logistika yra ribota",
+      "Pramonės aikštelės, kurioms reikalingas vietinis acetileno šaltinis"
+    ],
+    "accessories": [
+      "Cilindro ir reguliatoriaus mazgai",
+      "Deguonies suvirinimo ir pjovimo parinktys",
+      "Žarnos, matuoklio ir vožtuvo keitimas",
+      "Dirbtuvės dujų tvarkymo saugos detalės"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Dujų balionų gamintojas pramoniniams pirkėjams",
-    "text": "Wanda Group gamina acetileno balionus, propano balionus, generatorius ir priedus, skirtus suvirinimui, pjovimui ir pramoninių dujų tiekimui.",
+    "text": "Wanda Group gamina acetileno balionus, propano ir SND balionus, generatorius ir suvirinimo priedus, taip pat tiekia šaldymo įrangą pramoniniams pirkėjams.",
     "text2": "Mes palaikome užsienio pirkėjus su produktų pasirinkimu, OEM, tikrinimu, pakavimu ir pristatymu.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Kokius produktus daugiausia tiekiate?",
-            "a": "Mes tiekiame acetileno balionus, propano balionus, acetileno generatorius ir dujų balionų priedus, tokius kaip vožtuvai, reguliatoriai, žarnos, manometrai ir degikliai."
+            "a": "Kaip atskirą produktų liniją tiekiame acetileno balionus, propano ir SND balionus, acetileno generatorius, dujų balionų priedus, šaldymo įrangą."
           },
           {
             "q": "Ar galite palaikyti OEM pritaikymą?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Ar galiu žiūrėti gamyklinius vaizdo įrašus prieš pateikdamas užsakymą?",
-            "a": "Taip. Žiūrėkite gamybos vaizdo įrašus šio puslapio gamyklos skiltyje. Papildoma filmuota medžiaga, pakavimo klipai ir sertifikatai siunčiami privačiai pagal pageidavimą."
+            "a": "Taip. Gamybos vaizdo įrašus žiūrėkite gamyklos puslapyje. Papildoma filmuota medžiaga, pakavimo klipai ir sertifikatų kopijos siunčiamos privačiai pagal pageidavimą."
           },
           {
             "q": "Ar pateikiate produktų vaizdo įrašus, ypač apie acetileno balionus?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Ar priedus galima užsisakyti kartu su dujų balionais?",
-            "a": "Taip. Priedai gali būti tiekiami kartu su acetileno balionais, propano balionais ir acetileno generatoriais."
+            "a": "Taip. Priedai gali būti tiekiami kartu su acetileno, propano ir SND balionais bei acetileno generatoriais."
           },
           {
             "q": "Ar palaikote OEM pakuotę?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Gaukite tikslią citatą",
     "certifications": "Sertifikatai",
     "order": "Užsakyti",
-    "reviews": "Atsiliepimai",
+    "reviews": "Pirkėjo pastabos",
     "contact": "Contact",
     "phone": "Telefonas",
     "location": "Vieta",
@@ -587,7 +626,7 @@
     "exportReady": "Paruošta eksportuoti",
     "years": "Metai",
     "acetylene": "Acetylene",
-    "isoCertified": "Sertifikuota ISO",
+    "isoCertified": "Standartai pagal pageidavimą",
     "globalExport": "Pasaulinis eksportas",
     "products": "Produktai",
     "specs": "Specifikacijos",
@@ -695,16 +734,16 @@
       "note": "* Tikslūs parametrai priklauso nuo standarto (ISO/DOT/GB) ir vožtuvo konfigūracijos. Paprašykite savo rinkos specifikacijų lapo."
     },
     "propane": {
-      "title": "Propano ir SND balionai",
-      "intro": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+      "title": "WG-P cilindrų asortimentas",
+      "intro": "WG-P modeliai yra viena plieninių cilindrų šeima. Užpildymo dujos – propanas arba LPG (propanas, butanas arba mišiniai) – nurodomos pagal užsakymo ir paskirties rinką.",
       "features": [
-        "37Mn/34CrMo4 plienas pagal ISO 9809",
+        "Plieno klasė ir taikomas cilindro standartas patvirtintas pagal užsakymą",
         "Darbinis slėgis 1,8–2,1 MPa",
-        "Vožtuvai POL, CGA 510, GOST",
-        "Miltelinis dažymas, antikorozinis",
-        "Sertifikatai ES, JAV, NVS rinkoms"
+        "POL, CGA 510, GOST vožtuvai aptariami kiekvienoje rinkoje",
+        "Miltelinis dažymas ir antikorozinė apdaila",
+        "Sertifikavimo galimybės aptartos pagal paskirties rinką"
       ],
-      "tableTitle": "Standartiniai propano cilindrų modeliai",
+      "tableTitle": "Standartiniai WG-P cilindrų modeliai",
       "headers": [
         "Model",
         "Tūris (L)",
@@ -768,10 +807,10 @@
       "intro": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros.",
       "features": [
         "Našumas 3–100 m³/h",
-        "Automatinis vandens ir karbido padavimas",
-        "Saugos sistema ir filtravimas",
+        "Vandens ir karbido padavimo galimybės aptariamos kiekvienam modeliui",
+        "Saugos sistema ir filtravimas, kaip nurodyta modeliui",
         "Kompaktiški ir pramoniniai modeliai",
-        "Pilna dokumentacija ir mokymai"
+        "Pateikiami užsakymo dokumentai. Pagal pageidavimą gali būti aptariamas operatoriaus mokymas"
       ],
       "tableTitle": "Acetileno generatorių modeliai",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Pagal pageidavimą generatoriai tiekiami su aušinimo sistema, filtrais ir atsarginių dalių komplektu."
     },
     "accessories": {
-      "title": "Cilindrų priedai ir jungiamosios detalės",
+      "title": "Suvirinimo priedai ir cilindrų jungiamosios detalės",
       "intro": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais.",
       "features": [
         "Reguliatoriai ir matuokliai (CGA / GOST / DIN)",
@@ -866,7 +905,7 @@
           "Fakelai",
           "WG-C100, WG-C300",
           "—",
-          "Pjovimas plazminiu/oksidu"
+          "Deguonies ir kuro pjovimas"
         ],
         [
           "Degikliai",
@@ -881,7 +920,7 @@
           "Visų tipų cilindrai"
         ]
       ],
-      "note": "* Priedus galima įsigyti atskirai arba kartu su cilindrais. Nuolaida kombinuotiems užsakymams."
+      "note": "* Priedai gali būti pateikiami atskirai arba kartu su cilindrais. Kombinuoto užsakymo kainodara patvirtinta citatoje."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksportas ir logistika",
-        "desc": "Visiškas tarptautinių siuntų palaikymas.",
+        "desc": "Eksporto pakavimo ir siuntimo koordinavimas pirkėjams užsienyje.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Eksporto dokumentacija",
-          "Krovinių gabenimas jūra ir geležinkeliu"
+          "Krovinių gabenimo jūra ir geležinkeliu galimybės"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kokybės kontrolė",
-        "desc": "Testavimas ir patikra kiekviename etape.",
+        "desc": "Patikra ir bandymai gamybos metu pagal užsakymą.",
         "points": [
           "Hidrostatiniai bandymai",
-          "UT suvirinimo patikrinimas",
-          "SGS/BV patikra pagal pageidavimą"
+          "Suvirinimo patikrinimas, kaip nurodyta",
+          "Trečiosios šalies patikrinimas pagal pageidavimą"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifikavimas",
         "desc": "Dokumentai muitinei ir reguliavimo institucijoms. Paprašius, kopijos siunčiamos privačiai.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS ir kokybės sertifikatas",
-          "Kilmės sertifikatas"
+          "Standartai aptariami pagal produktą ir rinką",
+          "MSDS ir kokybės dokumentus pagal pageidavimą",
+          "Kilmės sertifikatas pagal pageidavimą"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pagalba pasirenkant gaminius ir konfigūraciją.",
         "points": [
           "Rinka pagrįstas pasirinkimas",
-          "MOQ ir pristatymo laiko skaičiavimas",
-          "Personalo mokymas"
+          "MOQ ir pristatymo laikas aptariami pagal užsakymą",
+          "Operatoriaus nurodymai aptariami paprašius"
         ]
       },
       {
         "icon": "📦",
         "title": "Komplekto tiekimas",
-        "desc": "Cilindrai + priedai vienu užsakymu.",
+        "desc": "Cilindrai ir priedai vienu užsakymu.",
         "points": [
-          "Viena sutartis",
+          "Viena paklausa",
           "Suderintas pristatymas",
-          "Komplekto nuolaida"
+          "Kombinuoto užsakymo kainodara citatoje"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Besiūliai plieniniai dujų balionai – techniniai reikalavimai"
+        "desc": "Daugkartiniai besiūliai plieniniai dujų balionai – grūdintas ir grūdintas plienas. Aptariama pagal produkto ir paskirties rinką."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Ištirpusio acetileno cilindrai"
+        "desc": "Dujų balionai. Daugkartiniai besiūliai plieniniai dujų balionai. Projektavimas, konstrukcija ir bandymai. 3 dalis. Normalizuoti plieniniai balionai. Ne acetileno cilindro standartas (žr. ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetileno balionai – pagrindiniai reikalavimai ir tipo bandymai. Aptarta dėl acetileno produktų, kai to prašoma. Taikymas patvirtinamas pagal užsakymą."
       },
       {
         "name": "DOT 3AA",
-        "desc": "JAV rinkos cilindrų standartas – taikymas patvirtintas kiekvienam produktui ir užsakymui"
+        "desc": "JAV besiūlių plieninių cilindrų specifikacija – pritaikymas patvirtintas kiekvienam gaminiui ir užsakymui"
       },
       {
         "name": "TPED",
-        "desc": "Europos transporto reikalavimai – aptariami pagal paskirties rinką"
+        "desc": "ES gabenamųjų slėginių įrenginių direktyva – aptariama pagal paskirties rinką"
       },
       {
         "name": "GB 5099",
-        "desc": "Kinijos dujų balionų standartas"
+        "desc": "Kinijos nacionalinis besiūlių plieninių dujų balionų standartas – taikymas patvirtintas kiekvienam gaminiui ir užsakymui"
       },
       {
         "name": "CE Mark",
-        "desc": "Europos atitikties ženklinimas – taikymas pagal gaminį ir rinką"
+        "desc": "Europos atitikties ženklinimas – taikymas pagal gaminį ir rinką. Nepakeičia paskelbto sertifikato failo."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Ką sako pirkėjai",
+    "title": "Ko paprastai prašo pramoniniai pirkėjai",
     "items": [
       {
-        "quote": "Šiemet tris kartus persakinėjome 40L acetileno balionus. GOST vožtuvai, OEM spalva ir eksporto pakuotė kiekvieną kartą atitiko pirmąjį pavyzdį.",
-        "author": "Rustam Yusupov",
-        "role": "Savininkas, suvirinimo dujų skirstytuvas",
-        "country": "Uzbekistan"
+        "quote": "OEM spalva, vožtuvo tipas ir eksporto pakuotė suderinta su patvirtintu pavyzdžiu prieš pakartotinį tiekimą.",
+        "author": "Distributor inquiries",
+        "role": "Suvirinimo dujų tiekimas",
+        "country": "Central Asia"
       },
       {
-        "quote": "Citata buvo pateikta tą pačią dieną su aiškiu MOQ ir pristatymo laiku. Propano buteliai atkeliavo su POL vožtuvais ir pilnu pakavimo sąrašu – mūsų pusėje jokių muitinės vėlavimų.",
-        "author": "Aigerim Bekova",
-        "role": "Pirkimų vadovas, pramonės tiekimas",
-        "country": "Kazakhstan"
+        "quote": "Aiškus MOQ, pristatymo laikas ir pakavimo sąrašas patvirtintas citatoje - ne kaip fiksuotos svetainės kainos.",
+        "author": "Procurement inquiries",
+        "role": "Pramoninis tiekimas",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Cilindrus su reguliatoriais ir žarnomis perkame kaip vieną konteinerio užsakymą. Dokumentai ir žymėjimas buvo paruošti mūsų rinkai, todėl perparduoti buvo paprasta.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importo pirkėjas, prekyba dujų įranga",
-        "country": "Saudi Arabia"
+        "quote": "Cilindrai su reguliatoriais ir žarnomis pateikiami kaip vienas kombinuotas užsakymas, aptariamas paskirties rinkos žymėjimas.",
+        "author": "Import inquiries",
+        "role": "Dujų įrangos prekyba",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kas Mes Esame",
     "title": "Pramoninis gamintojas B2B pirkėjams",
-    "text": "Wanda Groups gamina ir tiekia pramoninius dujų balionus, generatorius ir suvirinimo priedus užsienio platintojams, OEM partneriams ir projektų pirkėjams.",
+    "text": "„Wanda Groups“ gamina ir tiekia pramoninius dujų balionus, generatorius, suvirinimo priedus ir šaldymo įrangą užsienio platintojams, OEM partneriams ir projektų pirkėjams.",
     "text2": "Mūsų tikslas – su gamykla susietas tiekimas, produktų atrankos palaikymas, masiniai užsakymai ir eksporto koordinavimas, o ne mažmeninė prekyba vartotojams.",
     "cta": "Sužinokite daugiau apie mus"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Pasiruošę prašyti kainos pasiūlymo?",
       "quoteCta": "Prašyti kainos pasiūlymo",
       "relatedProducts": "Susiję produktai",
+      "productFamilies": "Produktų šeimos",
       "applications": "Applications",
       "standardsTitle": "Standartai ir sertifikavimas",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Dujų baliono gamintojas | Pramonės OEM ir eksportas | „Wanda“ grupės",
-      "seoDescription": "„Wanda Groups“ gamina pramoninius dujų balionus, generatorius ir suvirinimo priedus pirminės įrangos gamintojų, didmeniniams ir tarptautiniams eksporto pirkėjams."
+      "seoDescription": "„Wanda Groups“ gamina pramoninius dujų balionus, generatorius, suvirinimo priedus ir šaldymo įrangą pirminės įrangos gamintojų, didmeniniams ir tarptautiniams eksporto pirkėjams."
     },
     "about": {
       "label": "Apie mus",
       "title": "Dujų balionų gamintojas pramoniniams pirkėjams",
       "subtitle": "Mes palaikome užsienio pirkėjus su produktų pasirinkimu, OEM, tikrinimu, pakavimu ir pristatymu.",
       "seoTitle": "Apie Wanda Group",
-      "seoDescription": "Wanda Group gamina acetileno balionus, propano balionus, generatorius ir priedus, skirtus suvirinimui, pjovimui ir pramoninių dujų tiekimui."
+      "seoDescription": "„Wanda Group“ gamina acetileno, propano ir SND balionus, generatorius, suvirinimo priedus ir šaldymo įrangą pramonės eksporto pirkėjams."
     },
     "products": {
       "label": "Produktai",
       "title": "Mūsų gaminiai",
-      "subtitle": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+      "subtitle": "Pramoniniams pirkėjams acetileno, propano ir SND balionai, generatoriai, suvirinimo reikmenys ir šaldymo įranga.",
       "seoTitle": "Dujų balionų gaminiai",
-      "seoDescription": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+      "seoDescription": "Acetileno, propano ir SND balionai, acetileno generatoriai, suvirinimo priedai ir šaldymo įranga iš Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Ištirpusio acetileno cilindrai",
           "overview": "Plieniniai cilindrai su porėta mase ir tirpikliu saugiam acetileno saugojimui ir transportavimui. Naudojamas suvirinimui, pjovimui, litavimui ir metalo gamyboje.",
+          "application": "Oxy-acetileno suvirinimas, pjovimas ir litavimas",
           "seoTitle": "Acetileno dujų balionai",
           "seoDescription": "Plieniniai cilindrai su porėta mase ir tirpikliu saugiam acetileno saugojimui ir transportavimui. Naudojamas suvirinimui, pjovimui, litavimui ir metalo gamyboje."
         },
         "propane": {
           "name": "Propano cilindrai",
-          "overview": "Plieniniai balionai propano dujų saugojimui ir transportavimui. Naudojamas šildymui, pramoniniam propano tiekimui, maisto ruošimui ir deguonies pjaustymui, kai suporuotas su acetilenu.",
+          "overview": "Plieniniai cilindrai, skirti užpildyti propanu. Naudojamas šildymui, pramoniniam propano tiekimui, maisto ruošimui ir deguonies pjaustymui, kai suporuotas su acetilenu.",
+          "application": "Pramoninis propano šildymas, pjovimas ir įrenginių tiekimas",
+          "familyNote": "Propano balionai ir SND balionai naudoja tą patį WG-P plieninių balionų asortimentą. Šis puslapis apima propano užpildymą ir specifinį propano naudojimą. SND mišiniai ir paskirstymo tiekimas aprašyti SND balionų puslapyje.",
           "seoTitle": "Propano dujų balionai",
-          "seoDescription": "Plieniniai propano dujų balionai, skirti šildymui, pramoniniam tiekimui ir pjovimui. Eksporto ir OEM parinktys aptariamos pagal užsakymą."
+          "seoDescription": "Plieniniai balionai propano užpildymui – šildymui, pramoniniam tiekimui ir deguonies pjovimui. Tas pats WG-P diapazonas kaip LPG; užpildyti dujas nurodytas pagal užsakymą."
         },
         "lpg": {
           "name": "LPG balionai",
-          "overview": "Suskystintųjų naftos dujų (SND) balionai – propanas, butanas arba mišiniai. Įprasta gyvenamųjų ir komercinių SND paskirstymui, stovyklavimui, šildymui ir nešiojamų degalų tiekimui.",
+          "overview": "Suskystintųjų naftos dujų (SND) balionai – propanas, butanas arba mišiniai. Naudojamas gyvenamųjų ir komercinių SND paskirstymui, stovyklavimui, šildymui ir nešiojamų degalų tiekimui.",
+          "application": "SND paskirstymas, nešiojamasis kuras ir šildymas mišiniais",
+          "familyNote": "SND balionai ir propano balionai naudoja tą patį WG-P plieninių balionų asortimentą. Šiame puslapyje aprašomi SND mišiniai ir platinimo naudojimas. Tik propano užpildymas ir pramoninio propano naudojimas aprašyti puslapyje Propano cilindrai.",
           "seoTitle": "LPG dujų balionai",
-          "seoDescription": "SND balionai, skirti suskystintųjų naftos dujų paskirstymui ir nešiojamam tiekimui gyvenamosioms, komercinėms ir pramoninėms patalpoms."
+          "seoDescription": "Suskystintų naftos dujų balionai gyvenamosioms, komercinėms ir pramoninėms suskystintųjų naftos dujų paskirstymui. Tas pats WG-P diapazonas kaip ir propano balionai; užpildykite pagal užsakymą."
         },
         "industrial": {
           "name": "Pramoniniai dujų balionai",
           "overview": "Pramoniniai dujų balionai suvirinimui, pjovimui ir įrenginių tiekimui – įskaitant acetileno, propano ir SND variantus, atitinkančius jūsų rinką.",
+          "application": "Gamyklų, platintojų ir projektinių cilindrų tiekimas",
           "seoTitle": "Pramoniniai dujų balionai",
           "seoDescription": "Pramoniniai dujų balionai suvirinimui, pjovimui ir įrenginių tiekimui iš Wanda Group."
         },
         "generators": {
           "name": "Acetileno generatoriai",
           "overview": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros.",
+          "application": "Acetileno gamyba vietoje iš kalcio karbido",
           "seoTitle": "Acetileno generatoriai",
           "seoDescription": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros."
         },
         "accessories": {
-          "name": "Cilindrų priedai ir jungiamosios detalės",
+          "name": "Suvirinimo priedai ir cilindrų jungiamosios detalės",
           "overview": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais.",
-          "seoTitle": "Suvirinimo priedai",
-          "seoDescription": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais."
+          "application": "Deguonies ir degalų sąrankos, reguliatoriai, žarnos, vožtuvai ir matuokliai",
+          "seoTitle": "Suvirinimo priedai ir cilindrų jungiamosios detalės",
+          "seoDescription": "Suvirinimo priedai ir cilindrų jungiamosios detalės – reguliatoriai, žarnos, matuokliai, degikliai ir vožtuvai, tiekiami su cilindrais arba atskirai."
         },
         "refrigeration": {
           "name": "Šaldymo įrenginiai",
           "overview": "Atskira Wanda Group linija – ne trečiosios šalies katalogas. Kondensaciniai įrenginiai, šaldymo patalpos ir techninė įranga, tiekiame su cilindrais arba atskirai.",
+          "application": "Šaldymo patalpos, maisto šaldymo grandinė ir pramoninis vėsinimas",
           "seoTitle": "Šaldymo įrenginiai",
-          "seoDescription": "Atskira Wanda Group linija – ne trečiosios šalies katalogas. Kondensaciniai įrenginiai, šaldymo patalpos ir techninė įranga, tiekiame su cilindrais arba atskirai."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

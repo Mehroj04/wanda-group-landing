@@ -43,6 +43,7 @@ export default function Footer() {
             >
               Telegram {siteConfig.telegram}
             </a>
+            <span className="footer__email">WeChat {siteConfig.wechat}</span>
           </div>
 
           <div className="footer__col">

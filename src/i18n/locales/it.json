@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Produttore di bombole di gas industriali",
     "title": "Produttore di bombole e attrezzature per gas industriali",
-    "subtitle": "Produzione, OEM e fornitura all'ingrosso di bombole di acetilene, bombole di propano/GPL, generatori e accessori per saldatura per acquirenti internazionali di esportazione.",
+    "subtitle": "Produzione, OEM e fornitura all'ingrosso di bombole di acetilene, propano e GPL, generatori, accessori per saldatura e apparecchiature di refrigerazione per acquirenti internazionali di esportazione.",
     "lineGas": "Bombole di gas",
     "lineCold": "Unità di refrigerazione",
     "cta": "Ottieni un preventivo",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "I nostri prodotti",
-    "subtitle": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
+    "subtitle": "Bombole di acetilene, propano e GPL, generatori, accessori per saldatura e apparecchiature di refrigerazione per acquirenti industriali.",
     "viewDetails": "Visualizza dettagli",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Bombola di propano",
         "spec": "3L–50L · opzioni di valvole per mercato",
-        "desc": "Bombole GPL durevoli per riscaldamento, taglio e uso industriale.",
+        "desc": "Bombole in acciaio per riempimento di propano: riscaldamento, taglio e fornitura industriale.",
         "icon": "🛢️"
       },
       {
-        "title": "Accessori per cilindri",
+        "title": "Accessori per saldatura",
         "spec": "Valvole · regolatori · tubi · torce",
-        "desc": "Raccordi coordinati forniti con i cilindri o come ordine separato.",
+        "desc": "Accessori per saldatura e raccordi per bombole, forniti con le bombole o separatamente.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Celle frigorifere farmaceutiche e mediche",
       "Logistica e trasporti refrigerati",
       "Raffreddamento industriale e refrigeratori di processo"
+    ],
+    "acetylene": [
+      "Saldatura ossiacetilenica",
+      "Taglio con ossitaglio",
+      "Brasatura e riscaldamento",
+      "Negozi di lavorazione dei metalli",
+      "Lavori di cantiere e manutenzione"
+    ],
+    "propane": [
+      "Riscaldamento industriale a propano",
+      "Taglio ossitaglio con acetilene",
+      "Riscaldamento per officine e costruzioni",
+      "Fornitura di propano vegetale",
+      "Cottura e calore di processo dove è specificato il propano"
+    ],
+    "lpg": [
+      "Distribuzione GPL residenziale e commerciale",
+      "Alimentazione GPL portatile",
+      "Gas da campeggio e ristorazione",
+      "Riscaldamento con miscele GPL",
+      "Riempimento bombole GPL all'ingrosso per i mercati locali"
+    ],
+    "industrial": [
+      "Fornitura gas per saldatura e taglio",
+      "Stock bombole di stabilimento e officina",
+      "Distributore linee gas industriali",
+      "Progetti e cantieri"
+    ],
+    "generators": [
+      "Produzione in loco di acetilene da carburo di calcio",
+      "Officine senza fornitura di acetilene in bottiglia",
+      "Saldatura e taglio dove la logistica dei cilindri è limitata",
+      "Siti industriali che necessitano di una fonte locale di acetilene"
+    ],
+    "accessories": [
+      "Gruppi cilindro e regolatore",
+      "Impianti di saldatura e taglio ossitaglio",
+      "Sostituzione tubi, manometri e valvole",
+      "Raccordi di sicurezza per la movimentazione del gas in officina"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Produttore di bombole di gas per acquirenti industriali",
-    "text": "Wanda Group produce bombole di acetilene, bombole di propano, generatori e accessori per saldatura, taglio e fornitura di gas industriali.",
+    "text": "Il Gruppo Wanda produce bombole di acetilene, bombole di propano e GPL, generatori e accessori per saldatura e fornisce anche apparecchiature di refrigerazione per acquirenti industriali.",
     "text2": "Supportiamo gli acquirenti esteri con la selezione del prodotto, l'OEM, l'ispezione, l'imballaggio e la spedizione.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Quali prodotti fornite principalmente?",
-            "a": "Forniamo bombole di acetilene, bombole di propano, generatori di acetilene e accessori per bombole di gas come valvole, regolatori, tubi flessibili, manometri e torce."
+            "a": "Forniamo bombole di acetilene, bombole di propano e GPL, generatori di acetilene, accessori per bombole di gas e apparecchiature di refrigerazione come linea di prodotti separata."
           },
           {
             "q": "Potete supportare la personalizzazione OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Posso guardare i video della fabbrica prima di effettuare un ordine?",
-            "a": "SÌ. Guarda i video di produzione nella sezione Fabbrica di questa pagina. Filmati extra, clip di imballaggio e certificati vengono inviati privatamente su richiesta."
+            "a": "SÌ. Guarda i video di produzione sulla pagina Factory. Filmati aggiuntivi, clip di imballaggio e copie di certificati vengono inviati privatamente su richiesta."
           },
           {
             "q": "Fornite video dei prodotti, in particolare per le bombole di acetilene?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "È possibile ordinare gli accessori insieme alle bombole del gas?",
-            "a": "SÌ. Gli accessori possono essere forniti insieme a bombole di acetilene, bombole di propano e generatori di acetilene."
+            "a": "SÌ. Gli accessori possono essere forniti insieme a bombole di acetilene, propano e GPL e generatori di acetilene."
           },
           {
             "q": "Supportate l'imballaggio OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Ottieni un preventivo esatto",
     "certifications": "Certificazioni",
     "order": "Ordine",
-    "reviews": "Recensioni",
+    "reviews": "Note dell'acquirente",
     "contact": "Contact",
     "phone": "Telefono",
     "location": "Posizione",
@@ -587,7 +626,7 @@
     "exportReady": "Esportazione pronta",
     "years": "Anni",
     "acetylene": "Acetylene",
-    "isoCertified": "Certificato ISO",
+    "isoCertified": "Standard su richiesta",
     "globalExport": "Esportazione globale",
     "products": "Prodotti",
     "specs": "Specifiche",
@@ -695,16 +734,16 @@
       "note": "* I parametri esatti dipendono dallo standard (ISO/DOT/GB) e dalla configurazione della valvola. Richiedi la scheda tecnica per il tuo mercato."
     },
     "propane": {
-      "title": "Bombole di propano e GPL",
-      "intro": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale.",
+      "title": "Gamma di cilindri WG-P",
+      "intro": "I modelli WG-P costituiscono una famiglia di cilindri in acciaio. Il gas di riempimento, propano o GPL (propano, butano o miscele), è specificato in base all'ordine e al mercato di destinazione.",
       "features": [
-        "Acciaio 37Mn/34CrMo4 conforme a ISO 9809",
+        "Grado di acciaio e standard del cilindro applicabile confermati per ordine",
         "Pressione di esercizio 1,8–2,1 MPa",
-        "Valvole POL, CGA 510, GOST",
-        "Verniciatura a polvere, anticorrosione",
-        "Certificati per i mercati UE, USA, CSI"
+        "Valvole POL, CGA 510, GOST discusse per mercato",
+        "Verniciatura a polvere e finitura anticorrosione",
+        "Opzioni di certificazione discusse per mercato di destinazione"
       ],
-      "tableTitle": "Modelli di bombole di propano standard",
+      "tableTitle": "Modelli di cilindri WG-P standard",
       "headers": [
         "Model",
         "Volume (l)",
@@ -768,10 +807,10 @@
       "intro": "Attrezzatura per la produzione di acetilene dal carburo di calcio. Fornitura di gas stabile per esigenze di saldatura e industriali senza infrastruttura del gas centralizzata.",
       "features": [
         "Portata 3–100 m³/h",
-        "Alimentazione automatica di acqua e carburo",
-        "Sistema di sicurezza e filtraggio",
+        "Opzioni di alimentazione con acqua e carburo discusse per modello",
+        "Sistema di sicurezza e filtraggio come specificato per il modello",
         "Modelli compatti e industriali",
-        "Documentazione e formazione complete"
+        "Documentazione dell'ordine fornita. La formazione degli operatori può essere discussa su richiesta"
       ],
       "tableTitle": "Modelli di generatori di acetilene",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "*Generatori forniti con sistema di raffreddamento, filtri e kit ricambi su richiesta."
     },
     "accessories": {
-      "title": "Accessori e raccordi per cilindri",
+      "title": "Accessori per saldatura e raccordi per cilindri",
       "intro": "Gamma completa per il funzionamento sicuro delle bombole di gas: dai manometri alle torce di saldatura. Approvvigionamento unico per le bombole.",
       "features": [
         "Regolatori e manometri (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Torce",
           "WG-C100, WG-C300",
           "—",
-          "Taglio plasma/ossitaglio"
+          "Taglio con ossitaglio"
         ],
         [
           "Bruciatori",
@@ -881,7 +920,7 @@
           "Tutti i tipi di cilindri"
         ]
       ],
-      "note": "*Accessori disponibili separatamente o in bundle con i cilindri. Sconto su ordini combinati."
+      "note": "*Gli accessori possono essere quotati separatamente o insieme ai cilindri. Il prezzo dell'ordine combinato è confermato nel preventivo."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Esportazione e logistica",
-        "desc": "Supporto completo per le spedizioni internazionali.",
+        "desc": "Coordinamento dell'imballaggio e della spedizione per gli acquirenti esteri.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Documentazione di esportazione",
-          "Trasporto marittimo e ferroviario"
+          "Opzioni di trasporto marittimo e ferroviario"
         ]
       },
       {
         "icon": "🔬",
         "title": "Controllo di qualità",
-        "desc": "Test e controlli in ogni fase.",
+        "desc": "Ispezione e collaudo durante la produzione secondo l'ordine.",
         "points": [
           "Prove idrostatiche",
-          "Ispezione delle saldature UT",
-          "Ispezione SGS/BV su richiesta"
+          "Ispezione della saldatura come specificato",
+          "Collaudo conto terzi su richiesta"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certificazione",
         "desc": "Documenti per dogane e autorità di regolamentazione. Le copie vengono inviate privatamente su richiesta.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "Scheda di sicurezza e certificato di qualità",
-          "Certificato di origine"
+          "Standard discussi per prodotto e mercato",
+          "Scheda di sicurezza e documenti di qualità su richiesta",
+          "Certificato di origine su richiesta"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Aiuta nella selezione dei prodotti e nella configurazione.",
         "points": [
           "Selezione basata sul mercato",
-          "MOQ e calcolo dei tempi di consegna",
-          "Formazione del personale"
+          "MOQ e tempi di consegna discussi per ordine",
+          "Guida dell'operatore discussa su richiesta"
         ]
       },
       {
         "icon": "📦",
         "title": "Fornitura in bundle",
-        "desc": "Bombole + accessori in un unico ordine.",
+        "desc": "Bombole e accessori in un unico ordine.",
         "points": [
-          "Contratto unico",
+          "Interrogazione unica",
           "Consegna coordinata",
-          "Sconto pacchetto"
+          "Prezzo per ordini combinati nel preventivo"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bombole per gas in acciaio senza saldatura: requisiti tecnici"
+        "desc": "Bombole di gas ricaricabili in acciaio senza saldatura: acciaio bonificato. Discusso per prodotto e mercato di destinazione."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Cilindri di acetilene disciolto"
+        "desc": "Bombole per gas - Bombole per gas ricaricabili in acciaio senza saldatura - Progettazione, costruzione e collaudo - Parte 3: bombole in acciaio normalizzate. Non è uno standard per bombole di acetilene (vedere ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Bombole di acetilene: requisiti di base e prove di tipo. Discusso per i prodotti acetilene quando richiesto. L'applicabilità è confermata per ogni ordine."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Standard per bombole del mercato statunitense: applicabilità confermata per prodotto e ordine"
+        "desc": "Specifiche statunitensi per cilindri in acciaio senza saldatura: applicabilità confermata per prodotto e ordine"
       },
       {
         "name": "TPED",
-        "desc": "Requisiti di trasporto europei: discussi per mercato di destinazione"
+        "desc": "Direttiva UE sulle attrezzature a pressione trasportabili: discussa per mercato di destinazione"
       },
       {
         "name": "GB 5099",
-        "desc": "Norma cinese sulle bombole di gas"
+        "desc": "Standard nazionale cinese per bombole di gas in acciaio senza saldatura: applicabilità confermata per prodotto e ordine"
       },
       {
         "name": "CE Mark",
-        "desc": "Marchio di conformità europeo: applicabilità per prodotto e mercato"
+        "desc": "Marchio di conformità europeo: applicabilità per prodotto e mercato. Non sostituisce un file di certificato pubblicato."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Cosa dicono gli acquirenti",
+    "title": "Ciò che tipicamente chiedono gli acquirenti industriali",
     "items": [
       {
-        "quote": "Quest'anno abbiamo riordinato tre volte bombole di acetilene da 40 litri. Le valvole GOST, il colore OEM e l'imballaggio per l'esportazione corrispondevano ogni volta al primo campione.",
-        "author": "Rustam Yusupov",
-        "role": "Proprietario, distributore gas per saldatura",
-        "country": "Uzbekistan"
+        "quote": "Il colore OEM, il tipo di valvola e l'imballaggio per l'esportazione corrispondono a un campione confermato prima della fornitura ripetuta.",
+        "author": "Distributor inquiries",
+        "role": "Fornitura di gas per saldatura",
+        "country": "Central Asia"
       },
       {
-        "quote": "Il preventivo è arrivato lo stesso giorno con un MOQ e tempi di consegna chiari. Le bombole di propano sono arrivate con valvole POL e lista di imballaggio completa: nessun ritardo doganale da parte nostra.",
-        "author": "Aigerim Bekova",
-        "role": "Responsabile acquisti, forniture industriali",
-        "country": "Kazakhstan"
+        "quote": "MOQ chiaro, tempi di consegna e lista dei prodotti confermati nel preventivo, non come prezzi fissi sul sito web.",
+        "author": "Procurement inquiries",
+        "role": "Fornitura industriale",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Acquistiamo bombole con regolatori e tubi flessibili come un unico ordine di container. I documenti e la marcatura erano pronti per il nostro mercato, quindi la rivendita è stata semplice.",
-        "author": "Faisal Al-Harbi",
-        "role": "Acquirente di importazione, commercio di apparecchiature a gas",
-        "country": "Saudi Arabia"
+        "quote": "Bombole con regolatori e tubi flessibili quotati come un unico ordine combinato, con marcatura discussa per il mercato di destinazione.",
+        "author": "Import inquiries",
+        "role": "Commercio di apparecchiature a gas",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Chi siamo",
     "title": "Produttore industriale per acquirenti B2B",
-    "text": "Wanda Groups produce e fornisce bombole di gas industriali, generatori e accessori per saldatura per distributori esteri, partner OEM e acquirenti di progetti.",
+    "text": "Wanda Groups produce e fornisce bombole di gas industriali, generatori, accessori per saldatura e apparecchiature di refrigerazione per distributori esteri, partner OEM e acquirenti di progetti.",
     "text2": "Il nostro obiettivo è la fornitura collegata alla fabbrica, il supporto nella selezione dei prodotti, gli ordini all'ingrosso e il coordinamento delle esportazioni, non le vendite al dettaglio al consumo.",
     "cta": "Scopri di più su di noi"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Pronti per richiedere un preventivo?",
       "quoteCta": "Richiedi un preventivo",
       "relatedProducts": "Prodotti correlati",
+      "productFamilies": "Famiglie di prodotti",
       "applications": "Applications",
       "standardsTitle": "Standard e certificazione",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Produttore di bombole di gas | OEM industriale ed esportazione | Gruppi Wanda",
-      "seoDescription": "Wanda Groups produce bombole di gas industriali, generatori e accessori per saldatura per OEM, grossisti ed acquirenti di esportazioni internazionali."
+      "seoDescription": "Wanda Groups produce bombole di gas industriali, generatori, accessori per saldatura e apparecchiature di refrigerazione per OEM, acquirenti all'ingrosso ed esportazioni internazionali."
     },
     "about": {
       "label": "Chi siamo",
       "title": "Produttore di bombole di gas per acquirenti industriali",
       "subtitle": "Supportiamo gli acquirenti esteri con la selezione del prodotto, l'OEM, l'ispezione, l'imballaggio e la spedizione.",
       "seoTitle": "Informazioni sul gruppo Wanda",
-      "seoDescription": "Wanda Group produce bombole di acetilene, bombole di propano, generatori e accessori per saldatura, taglio e fornitura di gas industriali."
+      "seoDescription": "Il Gruppo Wanda produce bombole di acetilene, propano e GPL, generatori, accessori per saldatura e apparecchiature di refrigerazione per acquirenti di esportazioni industriali."
     },
     "products": {
       "label": "Prodotti",
       "title": "I nostri prodotti",
-      "subtitle": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
+      "subtitle": "Bombole di acetilene, propano e GPL, generatori, accessori per saldatura e apparecchiature di refrigerazione per acquirenti industriali.",
       "seoTitle": "Prodotti per bombole di gas",
-      "seoDescription": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
+      "seoDescription": "Bombole di acetilene, propano e GPL, generatori di acetilene, accessori per saldatura e apparecchiature di refrigerazione del Gruppo Wanda.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindri di acetilene disciolto",
           "overview": "Cilindri in acciaio con massa porosa e solvente per lo stoccaggio e il trasporto sicuro dell'acetilene. Utilizzato nella saldatura, nel taglio, nella brasatura e nella fabbricazione dei metalli.",
+          "application": "Saldatura ossiacetilenica, taglio e brasatura",
           "seoTitle": "Bombole di gas acetilene",
           "seoDescription": "Cilindri in acciaio con massa porosa e solvente per lo stoccaggio e il trasporto sicuro dell'acetilene. Utilizzato nella saldatura, nel taglio, nella brasatura e nella fabbricazione dei metalli."
         },
         "propane": {
           "name": "Bombole di propano",
-          "overview": "Bombole in acciaio per stoccaggio e trasporto di gas propano. Utilizzato per il riscaldamento, la fornitura di propano industriale, la cucina e l'ossitaglio se abbinato all'acetilene.",
+          "overview": "Bombole in acciaio specificate per il riempimento di propano. Utilizzato per il riscaldamento, la fornitura di propano industriale, la cucina e l'ossitaglio se abbinato all'acetilene.",
+          "application": "Riscaldamento, taglio e fornitura di impianti a propano industriale",
+          "familyNote": "Le bombole di propano e le bombole di GPL utilizzano la stessa gamma di bombole in acciaio WG-P. Questa pagina copre il riempimento del propano e gli usi specifici del propano. Le miscele GPL e la fornitura di distribuzione sono descritte alla pagina Bombole GPL.",
           "seoTitle": "Bombole di gas propano",
-          "seoDescription": "Bombole di gas propano in acciaio per applicazioni di riscaldamento, fornitura industriale e taglio. Opzioni di esportazione e OEM discusse per ordine."
+          "seoDescription": "Bombole in acciaio per riempimento di propano: riscaldamento, fornitura industriale e ossitaglio. Stessa gamma WG-P del GPL; riempire il gas specificato per ordine."
         },
         "lpg": {
           "name": "Bombole GPL",
-          "overview": "Bombole per gas di petrolio liquefatto (GPL) — propano, butano o miscele miste. Comune per la distribuzione GPL residenziale e commerciale, campeggio, riscaldamento e fornitura di carburante portatile.",
+          "overview": "Bombole per gas di petrolio liquefatto (GPL) — propano, butano o miscele miste. Utilizzato per la distribuzione GPL residenziale e commerciale, campeggio, riscaldamento e fornitura di carburante portatile.",
+          "application": "Distribuzione GPL, combustibile portatile e riscaldamento a miscela",
+          "familyNote": "Le bombole di GPL e le bombole di propano utilizzano la stessa gamma di bombole in acciaio WG-P. Questa pagina riguarda le miscele GPL e l'utilizzo nella distribuzione. Il riempimento di solo propano e gli usi del propano industriale sono descritti nella pagina Bombole di propano.",
           "seoTitle": "Bombole di gas GPL",
-          "seoDescription": "Bombole GPL per la distribuzione e la fornitura portatile di gas di petrolio liquefatto residenziale, commerciale e industriale."
+          "seoDescription": "Bombole GPL per la distribuzione di gas di petrolio liquefatto residenziale, commerciale e industriale. Stessa gamma WG-P delle bombole di propano; riempire specificato per ordine."
         },
         "industrial": {
           "name": "Bombole di gas industriali",
           "overview": "Bombole di gas industriali per saldatura, taglio e fornitura di impianti, comprese le opzioni di acetilene, propano e GPL adatte al tuo mercato.",
+          "application": "Fornitura di impianti, distributori e bombole di progetto",
           "seoTitle": "Bombole di gas industriali",
           "seoDescription": "Bombole gas industriali per saldatura, taglio e fornitura impianti del Gruppo Wanda."
         },
         "generators": {
           "name": "Generatori di acetilene",
           "overview": "Attrezzatura per la produzione di acetilene dal carburo di calcio. Fornitura di gas stabile per esigenze di saldatura e industriali senza infrastruttura del gas centralizzata.",
+          "application": "Generazione di acetilene in loco da carburo di calcio",
           "seoTitle": "Generatori di acetilene",
           "seoDescription": "Attrezzatura per la produzione di acetilene dal carburo di calcio. Fornitura di gas stabile per esigenze di saldatura e industriali senza infrastruttura del gas centralizzata."
         },
         "accessories": {
-          "name": "Accessori e raccordi per cilindri",
+          "name": "Accessori per saldatura e raccordi per cilindri",
           "overview": "Gamma completa per il funzionamento sicuro delle bombole di gas: dai manometri alle torce di saldatura. Approvvigionamento unico per le bombole.",
-          "seoTitle": "Accessori per saldatura",
-          "seoDescription": "Gamma completa per il funzionamento sicuro delle bombole di gas: dai manometri alle torce di saldatura. Approvvigionamento unico per le bombole."
+          "application": "Configurazioni per ossitaglio, regolatori, tubi flessibili, valvole e manometri",
+          "seoTitle": "Accessori per saldatura e raccordi per cilindri",
+          "seoDescription": "Accessori per saldatura e raccordi per bombole: regolatori, tubi flessibili, manometri, torce e valvole, forniti con bombole o separatamente."
         },
         "refrigeration": {
           "name": "Unità di refrigerazione",
           "overview": "Una linea separata del Gruppo Wanda, non un catalogo di terze parti. Unità condensatrici, celle frigorifere e hardware, da noi forniti con cilindri o come ordine autonomo.",
+          "application": "Celle frigorifere, catena del freddo alimentare e raffreddamento industriale",
           "seoTitle": "Unità di refrigerazione",
-          "seoDescription": "Una linea separata del Gruppo Wanda, non un catalogo di terze parti. Unità condensatrici, celle frigorifere e hardware, da noi forniti con cilindri o come ordine autonomo."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

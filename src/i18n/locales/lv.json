@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Rūpnieciskās gāzes balonu ražotājs",
     "title": "Rūpniecisko gāzes balonu un iekārtu ražotājs",
-    "subtitle": "Acetilēna balonu, propāna/LPG balonu, ģeneratoru un metināšanas piederumu ražošana, OEM un vairumtirdzniecības piegāde starptautiskajiem eksporta pircējiem.",
+    "subtitle": "Acetilēna, propāna un sašķidrinātās naftas gāzes balonu, ģeneratoru, metināšanas piederumu un saldēšanas iekārtu ražošana, OEM un vairumtirdzniecība starptautiskajiem eksporta pircējiem.",
     "lineGas": "Gāzes baloni",
     "lineCold": "Saldēšanas iekārtas",
     "cta": "Saņemt citātu",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Mūsu produkti",
-    "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+    "subtitle": "Acetilēna, propāna un LPG baloni, ģeneratori, metināšanas piederumi un saldēšanas iekārtas rūpnieciskajiem pircējiem.",
     "viewDetails": "Skatīt detaļas",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propāna cilindrs",
         "spec": "3L–50L · vārstu iespējas katrā tirgū",
-        "desc": "Izturīgi LPG baloni apkurei, griešanai un rūpnieciskai lietošanai.",
+        "desc": "Tērauda cilindri propāna pildīšanai — apkurei, griešanai un rūpnieciskai piegādei.",
         "icon": "🛢️"
       },
       {
-        "title": "Cilindru piederumi",
+        "title": "Metināšanas piederumi",
         "spec": "Vārsti · regulatori · šļūtenes · lāpas",
-        "desc": "Atbilstoši piederumi tiek piegādāti kopā ar cilindriem vai kā atsevišķs pasūtījums.",
+        "desc": "Metināšanas piederumi un cilindru piederumi, kas tiek piegādāti kopā ar cilindriem vai atsevišķi.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmācijas un medicīnas saldētava",
       "Loģistika un refrižerators",
       "Rūpnieciskās dzesēšanas un procesu dzesētāji"
+    ],
+    "acetylene": [
+      "Skābekļa-acetilēna metināšana",
+      "Skābekļa-degvielas griešana",
+      "Lodēšana un apkure",
+      "Metāla izstrādājumu darbnīcas",
+      "Kuģu būvētavas un apkopes darbi"
+    ],
+    "propane": [
+      "Rūpnieciskā propāna apkure",
+      "Skābekļa-degvielas griešana ar acetilēnu",
+      "Darbnīcu un būvniecības apkure",
+      "Augu propāna piegāde",
+      "Gatavošanas un apstrādes siltums, kur norādīts propāns"
+    ],
+    "lpg": [
+      "Dzīvojamo un komerciālo LPG izplatīšana",
+      "Pārnēsājama LPG degvielas padeve",
+      "Kempinga un ēdināšanas gāze",
+      "Apkure ar LPG maisījumiem",
+      "Vairumtirdzniecība LPG balonu pildīšana vietējiem tirgiem"
+    ],
+    "industrial": [
+      "Metināšanas un griešanas gāzes padeve",
+      "Rūpnīcas un darbnīcas cilindru krājumi",
+      "Izplatītāju rūpnieciskās gāzes vadi",
+      "Projektu un būvlaukumi"
+    ],
+    "generators": [
+      "Acetilēna ražošana uz vietas no kalcija karbīda",
+      "Darbnīcas bez pudelēs pildīta acetilēna piegādes",
+      "Metināšana un griešana, kur cilindru loģistika ir ierobežota",
+      "Rūpniecības vietas, kurām nepieciešams vietējais acetilēna avots"
+    ],
+    "accessories": [
+      "Cilindru un regulatoru komplekti",
+      "Skābekļa-degvielas metināšanas un griešanas iestatījumi",
+      "Šļūtenes, mērinstrumentu un vārstu nomaiņa",
+      "Darbnīcas gāzes apstrādes drošības piederumi"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Gāzes balonu ražotājs rūpnieciskajiem pircējiem",
-    "text": "Wanda Group ražo acetilēna balonus, propāna balonus, ģeneratorus un piederumus metināšanai, griešanai un rūpnieciskās gāzes piegādei.",
+    "text": "Wanda Group ražo acetilēna balonus, propāna un LPG balonus, ģeneratorus un metināšanas piederumus, kā arī piegādā saldēšanas iekārtas rūpnieciskajiem pircējiem.",
     "text2": "Mēs atbalstām ārzemju pircējus ar produktu izvēli, OEM, pārbaudi, iepakošanu un nosūtīšanu.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Kādus produktus jūs galvenokārt piegādājat?",
-            "a": "Mēs piegādājam acetilēna balonus, propāna balonus, acetilēna ģeneratorus un gāzes balonu piederumus, piemēram, vārstus, regulatorus, šļūtenes, manometrus un lāpas."
+            "a": "Kā atsevišķu produktu līniju mēs piegādājam acetilēna balonus, propāna un sašķidrinātās naftas gāzes balonus, acetilēna ģeneratorus, gāzes balonu piederumus un saldēšanas iekārtas."
           },
           {
             "q": "Vai varat atbalstīt OEM pielāgošanu?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Vai pirms pasūtījuma veikšanas varu skatīties rūpnīcas video?",
-            "a": "Jā. Skatieties ražošanas video šīs lapas sadaļā Rūpnīca. Papildu kadri, iepakošanas klipi un sertifikāti tiek nosūtīti privāti pēc pieprasījuma."
+            "a": "Jā. Skatieties ražošanas video rūpnīcas lapā. Papildu kadri, iepakošanas klipi un sertifikātu kopijas tiek nosūtīti privāti pēc pieprasījuma."
           },
           {
             "q": "Vai jūs sniedzat produktu video, īpaši par acetilēna baloniem?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Vai var pasūtīt piederumus kopā ar gāzes baloniem?",
-            "a": "Jā. Piederumus var piegādāt kopā ar acetilēna baloniem, propāna baloniem un acetilēna ģeneratoriem."
+            "a": "Jā. Piederumus var piegādāt kopā ar acetilēna, propāna un LPG baloniem un acetilēna ģeneratoriem."
           },
           {
             "q": "Vai jūs atbalstāt OEM iepakojumu?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Saņemiet precīzu citātu",
     "certifications": "Sertifikāti",
     "order": "Pasūtiet",
-    "reviews": "Atsauksmes",
+    "reviews": "Pircēja piezīmes",
     "contact": "Contact",
     "phone": "Tālrunis",
     "location": "Atrašanās vieta",
@@ -587,7 +626,7 @@
     "exportReady": "Eksports gatavs",
     "years": "Gadiem",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO sertificēts",
+    "isoCertified": "Standarti pēc pieprasījuma",
     "globalExport": "Globālais eksports",
     "products": "Produkti",
     "specs": "Specifikācijas",
@@ -695,16 +734,16 @@
       "note": "* Precīzi parametri ir atkarīgi no standarta (ISO/DOT/GB) un vārsta konfigurācijas. Pieprasiet specifikācijas lapu savam tirgum."
     },
     "propane": {
-      "title": "Propāna un LPG baloni",
-      "intro": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+      "title": "WG-P cilindru klāsts",
+      "intro": "WG-P modeļi ir viena tērauda cilindru saime. Uzpildes gāze — propāns vai LPG (propāns, butāns vai maisījumi) — ir norādīta katram pasūtījumam un galamērķa tirgum.",
       "features": [
-        "37Mn/34CrMo4 tērauds atbilstoši ISO 9809",
+        "Tērauda marka un piemērojamais cilindru standarts apstiprināts katram pasūtījumam",
         "Darba spiediens 1,8–2,1 MPa",
-        "POL, CGA 510, GOST vārsti",
-        "Pulverkrāsošana, pretkorozijas",
-        "Sertifikāti ES, ASV, NVS tirgiem"
+        "POL, CGA 510, GOST vārsti apspriesti katrā tirgū",
+        "Pulverkrāsojums un pretkorozijas apdare",
+        "Katram galamērķa tirgum apspriestas sertifikācijas iespējas"
       ],
-      "tableTitle": "Standarta propāna cilindru modeļi",
+      "tableTitle": "Standarta WG-P cilindru modeļi",
       "headers": [
         "Model",
         "Tilpums (L)",
@@ -768,10 +807,10 @@
       "intro": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras.",
       "features": [
         "Jauda 3–100 m³/h",
-        "Automātiska ūdens un karbīda padeve",
-        "Drošības sistēma un filtrēšana",
+        "Katram modelim apspriestas ūdens un karbīda padeves iespējas",
+        "Drošības sistēma un filtrēšana, kā norādīts modelim",
         "Kompakti un industriāli modeļi",
-        "Pilna dokumentācija un apmācība"
+        "Piegādāta pasūtījuma dokumentācija. Operatoru apmācību var apspriest pēc pieprasījuma"
       ],
       "tableTitle": "Acetilēna ģeneratoru modeļi",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Ģeneratori tiek piegādāti ar dzesēšanas sistēmu, filtriem un rezerves daļu komplektu pēc pieprasījuma."
     },
     "accessories": {
-      "title": "Cilindru piederumi un piederumi",
+      "title": "Metināšanas piederumi un cilindru piederumi",
       "intro": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem.",
       "features": [
         "Regulatori un mērinstrumenti (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Lāpas",
           "WG-C100, WG-C300",
           "—",
-          "Plazmas/skābekļa griešana"
+          "Skābekļa-degvielas griešana"
         ],
         [
           "Degļi",
@@ -881,7 +920,7 @@
           "Visi cilindru veidi"
         ]
       ],
-      "note": "* Piederumi pieejami atsevišķi vai komplektā ar cilindriem. Atlaide kombinētajiem pasūtījumiem."
+      "note": "* Piederumus var piedāvāt atsevišķi vai kopā ar cilindriem. Kombinētā pasūtījuma cenas ir apstiprinātas piedāvājumā."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksports un loģistika",
-        "desc": "Pilnīgs starptautisko sūtījumu atbalsts.",
+        "desc": "Eksporta iepakošanas un nosūtīšanas koordinēšana ārvalstu pircējiem.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Eksporta dokumentācija",
-          "Jūras un dzelzceļa kravu pārvadājumi"
+          "Jūras un dzelzceļa kravu pārvadājumu iespējas"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kvalitātes kontrole",
-        "desc": "Testēšana un pārbaude katrā posmā.",
+        "desc": "Pārbaude un testēšana ražošanas laikā pēc pasūtījuma.",
         "points": [
           "Hidrostatiskie testi",
-          "UT metinājuma pārbaude",
-          "SGS/BV pārbaude pēc pieprasījuma"
+          "Metināšanas pārbaude, kā norādīts",
+          "Trešās puses pārbaude pēc pieprasījuma"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifikācija",
         "desc": "Dokumenti muitai un regulatoriem. Pēc pieprasījuma kopijas tiek nosūtītas privāti.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS un kvalitātes sertifikāts",
-          "Izcelsmes sertifikāts"
+          "Standarti apspriesti katram produktam un tirgum",
+          "MSDS un kvalitātes dokumenti pēc pieprasījuma",
+          "Izcelsmes sertifikāts pēc pieprasījuma"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Palīdziet izvēlēties produktus un konfigurāciju.",
         "points": [
           "Uz tirgu balstīta atlase",
-          "MOQ un izpildes laika aprēķins",
-          "Personāla apmācība"
+          "MOQ un izpildes laiks tiek apspriests pēc pasūtījuma",
+          "Operatora norādījumi apspriesti pēc pieprasījuma"
         ]
       },
       {
         "icon": "📦",
         "title": "Komplekta piegāde",
-        "desc": "Cilindri + piederumi vienā pasūtījumā.",
+        "desc": "Cilindri un piederumi vienā pasūtījumā.",
         "points": [
-          "Vienots līgums",
+          "Viena aptauja",
           "Saskaņota piegāde",
-          "Komplekta atlaide"
+          "Kombinētā pasūtījuma cenas piedāvājumā"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bezšuvju tērauda gāzes baloni — tehniskās prasības"
+        "desc": "Uzpildāmi bezšuvju tērauda gāzes baloni — rūdīts un rūdīts tērauds. Apspriests katram produktam un galamērķa tirgum."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Izšķīdināti acetilēna baloni"
+        "desc": "Gāzes baloni — atkārtoti uzpildāmi bezšuvju tērauda gāzes baloni — Projektēšana, konstrukcija un testēšana — 3. daļa: Normalizēti tērauda baloni. Nav acetilēna cilindru standarts (skat. ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetilēna baloni — pamatprasības un tipa pārbaude. Pārrunāts par acetilēna produktiem pēc pieprasījuma. Piemērojamība tiek apstiprināta pēc pasūtījuma."
       },
       {
         "name": "DOT 3AA",
-        "desc": "ASV tirgus cilindru standarts — pielietojamība apstiprināta katram produktam un pasūtījumam"
+        "desc": "ASV specifikācija bezšuvju tērauda cilindriem — pielietojamība apstiprināta katram produktam un pasūtījumam"
       },
       {
         "name": "TPED",
-        "desc": "Eiropas transporta prasības — apspriestas katram galamērķa tirgum"
+        "desc": "ES pārvietojamo spiediena iekārtu direktīva — apspriesta katram galamērķa tirgum"
       },
       {
         "name": "GB 5099",
-        "desc": "Ķīnas gāzes balonu standarts"
+        "desc": "Ķīnas nacionālais standarts bezšuvju tērauda gāzes baloniem — piemērojamība apstiprināta katram produktam un pasūtījumam"
       },
       {
         "name": "CE Mark",
-        "desc": "Eiropas atbilstības marķējums — piemērojamība katram produktam un tirgum"
+        "desc": "Eiropas atbilstības marķējums — piemērojamība katram produktam un tirgum. Neaizvieto publicēto sertifikāta failu."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Ko saka pircēji",
+    "title": "Ko parasti pieprasa rūpnieciskie pircēji",
     "items": [
       {
-        "quote": "Šogad trīs reizes pārsūtījām 40L acetilēna balonus. GOST vārsti, OEM krāsa un eksporta iepakojums katru reizi atbilda pirmajam paraugam.",
-        "author": "Rustam Yusupov",
-        "role": "Īpašnieks, metināšanas gāzes izplatītājs",
-        "country": "Uzbekistan"
+        "quote": "OEM krāsa, vārsta veids un eksporta iepakojums ir saskaņots ar apstiprinātu paraugu pirms atkārtotas piegādes.",
+        "author": "Distributor inquiries",
+        "role": "Metināšanas gāzes padeve",
+        "country": "Central Asia"
       },
       {
-        "quote": "Citāts nāca tajā pašā dienā ar skaidru MOQ un izpildes laiku. Propāna pudeles tika piegādātas ar POL vārstiem un pilnu iepakošanas sarakstu — no mūsu puses nav nekādu muitas kavējumu.",
-        "author": "Aigerim Bekova",
-        "role": "Iepirkumu vadītājs, rūpnieciskā apgāde",
-        "country": "Kazakhstan"
+        "quote": "Skaidrs MOQ, izpildes laiks un iepakošanas saraksts, kas apstiprināts piedāvājumā - nevis kā fiksētas vietnes cenas.",
+        "author": "Procurement inquiries",
+        "role": "Rūpnieciskā piegāde",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Balonus ar regulatoriem un šļūtenēm pērkam kā vienu konteinera pasūtījumu. Dokumenti un marķējums bija gatavi mūsu tirgum, tāpēc tālākpārdošana bija vienkārša.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importa pircējs, gāzes iekārtu tirdzniecība",
-        "country": "Saudi Arabia"
+        "quote": "Cilindri ar regulatoriem un šļūtenēm tiek kotēti kā viens apvienots pasūtījums ar marķējumu, kas apspriests galamērķa tirgum.",
+        "author": "Import inquiries",
+        "role": "Gāzes iekārtu tirdzniecība",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kas Mēs esam",
     "title": "Rūpnieciskais ražotājs B2B pircējiem",
-    "text": "Wanda Groups ražo un piegādā rūpnieciskos gāzes balonus, ģeneratorus un metināšanas piederumus ārvalstu izplatītājiem, OEM partneriem un projektu pircējiem.",
+    "text": "Wanda Groups ražo un piegādā rūpnieciskos gāzes balonus, ģeneratorus, metināšanas piederumus un saldēšanas iekārtas ārvalstu izplatītājiem, OEM partneriem un projektu pircējiem.",
     "text2": "Mūsu uzmanības centrā ir ar rūpnīcu saistīta piegāde, produktu izvēles atbalsts, lielapjoma pasūtījumi un eksporta koordinēšana, nevis mazumtirdzniecība patērētājiem.",
     "cta": "Uzziniet vairāk par mums"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Vai esat gatavs pieprasīt cenas piedāvājumu?",
       "quoteCta": "Pieprasīt cenas piedāvājumu",
       "relatedProducts": "Saistītie produkti",
+      "productFamilies": "Produktu saimes",
       "applications": "Applications",
       "standardsTitle": "Standarti un sertifikācija",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gāzes balona ražotājs | Rūpnieciskie oriģināliekārtu ražotāji un eksports | Wanda grupas",
-      "seoDescription": "Wanda Groups ražo rūpnieciskos gāzes balonus, ģeneratorus un metināšanas piederumus OEM, vairumtirdzniecības un starptautiska eksporta pircējiem."
+      "seoDescription": "Wanda Groups ražo rūpnieciskos gāzes balonus, ģeneratorus, metināšanas piederumus un saldēšanas iekārtas oriģinālo iekārtu ražotājiem, vairumtirdzniecības un starptautiska eksporta pircējiem."
     },
     "about": {
       "label": "Par mums",
       "title": "Gāzes balonu ražotājs rūpnieciskajiem pircējiem",
       "subtitle": "Mēs atbalstām ārzemju pircējus ar produktu izvēli, OEM, pārbaudi, iepakošanu un nosūtīšanu.",
       "seoTitle": "Par Wanda grupu",
-      "seoDescription": "Wanda Group ražo acetilēna balonus, propāna balonus, ģeneratorus un piederumus metināšanai, griešanai un rūpnieciskās gāzes piegādei."
+      "seoDescription": "Wanda Group ražo acetilēna, propāna un LPG balonus, ģeneratorus, metināšanas piederumus un saldēšanas iekārtas rūpnieciskā eksporta pircējiem."
     },
     "products": {
       "label": "Produkti",
       "title": "Mūsu produkti",
-      "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+      "subtitle": "Acetilēna, propāna un LPG baloni, ģeneratori, metināšanas piederumi un saldēšanas iekārtas rūpnieciskajiem pircējiem.",
       "seoTitle": "Gāzes balonu izstrādājumi",
-      "seoDescription": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+      "seoDescription": "Acetilēna, propāna un LPG baloni, acetilēna ģeneratori, metināšanas piederumi un saldēšanas iekārtas no Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Izšķīdināti acetilēna cilindri",
           "overview": "Tērauda cilindri ar porainu masu un šķīdinātāju drošai acetilēna uzglabāšanai un transportēšanai. Izmanto metināšanai, griešanai, lodēšanai un metāla ražošanā.",
+          "application": "Skābekļa-acetilēna metināšana, griešana un cietlodēšana",
           "seoTitle": "Acetilēna gāzes baloni",
           "seoDescription": "Tērauda cilindri ar porainu masu un šķīdinātāju drošai acetilēna uzglabāšanai un transportēšanai. Izmanto metināšanai, griešanai, lodēšanai un metāla ražošanā."
         },
         "propane": {
           "name": "Propāna cilindri",
-          "overview": "Tērauda baloni propāna gāzes uzglabāšanai un transportēšanai. Izmanto apkurei, rūpnieciskai propāna padevei, ēdiena gatavošanai un griešanai ar skābekli, savienojot to ar acetilēnu.",
+          "overview": "Tērauda cilindri, kas paredzēti propāna pildīšanai. Izmanto apkurei, rūpnieciskai propāna padevei, ēdiena gatavošanai un griešanai ar skābekli, savienojot to ar acetilēnu.",
+          "application": "Rūpnieciskā propāna apkure, griešana un iekārtu piegāde",
+          "familyNote": "Propāna balonos un sašķidrinātās naftas gāzes balonos tiek izmantots viens un tas pats WG-P tērauda cilindru diapazons. Šī lapa aptver propāna pildījumu un īpašus propāna lietojumus. Sašķidrinātās naftas gāzes maisījumi un sadales padeve ir aprakstīti LPG cilindru lapā.",
           "seoTitle": "Propāna gāzes baloni",
-          "seoDescription": "Tērauda propāna gāzes baloni apkurei, rūpnieciskai piegādei un griešanai. Eksporta un OEM iespējas apspriestas katram pasūtījumam."
+          "seoDescription": "Tērauda baloni propāna pildīšanai — apkurei, rūpnieciskajai piegādei un skābekļa-degvielas griešanai. Tas pats WG-P diapazons kā LPG; uzpildiet gāzi, kas norādīta pasūtījumā."
         },
         "lpg": {
           "name": "LPG baloni",
-          "overview": "Sašķidrinātās naftas gāzes (LPG) baloni — propāns, butāns vai jauktie maisījumi. Izplatīts dzīvojamo un komerciālo LPG sadalei, kempingiem, apkurei un pārnēsājamas degvielas padevei.",
+          "overview": "Sašķidrinātās naftas gāzes (LPG) baloni — propāns, butāns vai jauktie maisījumi. Izmanto dzīvojamo un komerciālo LPG sadalei, kempingiem, apkurei un pārnēsājamas degvielas padevei.",
+          "application": "LPG sadale, pārnēsājama degviela un uz maisījumu balstīta apkure",
+          "familyNote": "Sašķidrinātās naftas gāzes balonos un propāna balonos tiek izmantots viens un tas pats WG-P tērauda balonu diapazons. Šajā lapā ir aprakstīti sašķidrinātās naftas gāzes maisījumi un izplatīšanas izmantošana. Tikai propāna pildījums un rūpnieciskais propāna lietojums ir aprakstīts lapā Propāna cilindri.",
           "seoTitle": "LPG gāzes baloni",
-          "seoDescription": "Sašķidrinātās naftas gāzes baloni dzīvojamo, komerciālo un rūpniecisko sašķidrinātās naftas gāzes sadalei un pārnēsājamai piegādei."
+          "seoDescription": "Sašķidrinātās naftas gāzes baloni dzīvojamo, komerciālo un rūpniecisko sašķidrinātās naftas gāzes sadalei. Tas pats WG-P diapazons kā propāna baloniem; aizpildiet norādīto pasūtījumā."
         },
         "industrial": {
           "name": "Rūpnieciskie gāzes baloni",
           "overview": "Rūpnieciskie gāzes baloni metināšanai, griešanai un iekārtu piegādei — ieskaitot acetilēna, propāna un sašķidrinātas naftas gāzes iespējas, kas piemērotas jūsu tirgum.",
+          "application": "Rūpnīcu, izplatītāju un projektu cilindru piegāde",
           "seoTitle": "Rūpnieciskie gāzes baloni",
           "seoDescription": "Rūpnieciskie gāzes baloni metināšanai, griešanai un iekārtu piegādei no Wanda Group."
         },
         "generators": {
           "name": "Acetilēna ģeneratori",
           "overview": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras.",
+          "application": "Acetilēna ražošana uz vietas no kalcija karbīda",
           "seoTitle": "Acetilēna ģeneratori",
           "seoDescription": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras."
         },
         "accessories": {
-          "name": "Cilindru piederumi un piederumi",
+          "name": "Metināšanas piederumi un cilindru piederumi",
           "overview": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem.",
-          "seoTitle": "Metināšanas piederumi",
-          "seoDescription": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem."
+          "application": "Skābekļa-degvielas iestatījumi, regulatori, šļūtenes, vārsti un mērītāji",
+          "seoTitle": "Metināšanas piederumi un cilindru piederumi",
+          "seoDescription": "Metināšanas piederumi un cilindru piederumi — regulatori, šļūtenes, mērinstrumenti, degļi un vārsti, kas tiek piegādāti kopā ar cilindriem vai atsevišķi."
         },
         "refrigeration": {
           "name": "Saldēšanas iekārtas",
           "overview": "Atsevišķa Wanda Group līnija — nevis trešās puses katalogs. Kondensācijas iekārtas, aukstuma kameras un aparatūra, ko mēs piegādājam ar cilindriem vai kā atsevišķu pasūtījumu.",
+          "application": "Aukstās telpas, pārtikas aukstuma ķēde un rūpnieciskā dzesēšana",
           "seoTitle": "Saldēšanas iekārtas",
-          "seoDescription": "Atsevišķa Wanda Group līnija — nevis trešās puses katalogs. Kondensācijas iekārtas, aukstuma kameras un aparatūra, ko mēs piegādājam ar cilindriem vai kā atsevišķu pasūtījumu."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

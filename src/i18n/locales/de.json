@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Hersteller von Industriegasflaschen",
     "title": "Hersteller von Industriegasflaschen und -geräten",
-    "subtitle": "Herstellung, OEM- und Großhandelslieferung von Acetylenflaschen, Propan-/LPG-Flaschen, Generatoren und Schweißzubehör für internationale Exportkäufer.",
+    "subtitle": "Herstellung, OEM- und Großhandelslieferung von Acetylen-, Propan- und LPG-Flaschen, Generatoren, Schweißzubehör und Kühlgeräten für internationale Exportkäufer.",
     "lineGas": "Gasflaschen",
     "lineCold": "Kühlaggregate",
     "cta": "Holen Sie sich ein Angebot",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Unsere Produkte",
-    "subtitle": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
+    "subtitle": "Acetylen-, Propan- und LPG-Flaschen, Generatoren, Schweißzubehör und Kühlgeräte für industrielle Käufer.",
     "viewDetails": "Details anzeigen",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propangasflasche",
         "spec": "3L–50L · Ventiloptionen je Markt",
-        "desc": "Langlebige Flüssiggasflaschen zum Heizen, Schneiden und für den industriellen Einsatz.",
+        "desc": "Stahlflaschen zur Propanfüllung – Heizung, Schneiden und Industrieversorgung.",
         "icon": "🛢️"
       },
       {
-        "title": "Zylinderzubehör",
+        "title": "Schweißzubehör",
         "spec": "Ventile · Regler · Schläuche · Brenner",
-        "desc": "Passende Armaturen werden mit den Zylindern geliefert oder müssen separat bestellt werden.",
+        "desc": "Schweißzubehör und Flaschenzubehör, mit Flaschen oder separat geliefert.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Pharmazeutische und medizinische Kühllagerung",
       "Logistik und Kühltransport",
       "Industriekühlung und Prozesskühler"
+    ],
+    "acetylene": [
+      "Autogenschweißen",
+      "Autogenschneiden",
+      "Hartlöten und Erhitzen",
+      "Metallverarbeitungsbetriebe",
+      "Werft- und Wartungsarbeiten"
+    ],
+    "propane": [
+      "Industrielle Propanheizung",
+      "Autogenschneiden mit Acetylen",
+      "Werkstatt- und Bauheizung",
+      "Propangasversorgung der Anlage",
+      "Koch- und Prozesswärme, wenn Propan spezifiziert ist"
+    ],
+    "lpg": [
+      "LPG-Vertrieb für Privat- und Gewerbekunden",
+      "Tragbare Flüssiggas-Kraftstoffversorgung",
+      "Camping- und Gastronomiegas",
+      "Heizen mit LPG-Mischungen",
+      "Großhandel mit der Befüllung von LPG-Flaschen für lokale Märkte"
+    ],
+    "industrial": [
+      "Schweiß- und Schneidgasversorgung",
+      "Lagerbestand an Werks- und Werkstattzylindern",
+      "Verteiler für Industriegasleitungen",
+      "Projekt- und Baustellen"
+    ],
+    "generators": [
+      "Vor-Ort-Produktion von Acetylen aus Calciumcarbid",
+      "Werkstätten ohne Flaschen-Acetylen-Versorgung",
+      "Schweißen und Schneiden, wenn die Flaschenlogistik begrenzt ist",
+      "Industriestandorte, die eine lokale Acetylenquelle benötigen"
+    ],
+    "accessories": [
+      "Zylinder- und Reglerbaugruppen",
+      "Autogen-Schweiß- und Schneidanlagen",
+      "Schlauch-, Manometer- und Ventilaustausch",
+      "Sicherheitsarmaturen für den Umgang mit Gas in der Werkstatt"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Hersteller von Gasflaschen für industrielle Abnehmer",
-    "text": "Die Wanda Group stellt Acetylenflaschen, Propanflaschen, Generatoren und Zubehör für die Schweiß-, Schneid- und Industriegasversorgung her.",
+    "text": "Die Wanda Group stellt Acetylenflaschen, Propan- und LPG-Flaschen, Generatoren und Schweißzubehör her und liefert außerdem Kühlgeräte für industrielle Abnehmer.",
     "text2": "Wir unterstützen ausländische Käufer bei der Produktauswahl, OEM, Inspektion, Verpackung und Versand.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Welche Produkte liefern Sie hauptsächlich?",
-            "a": "Wir liefern Acetylenflaschen, Propanflaschen, Acetylengeneratoren und Gasflaschenzubehör wie Ventile, Regler, Schläuche, Manometer und Brenner."
+            "a": "Wir liefern Acetylenflaschen, Propan- und LPG-Flaschen, Acetylengeneratoren, Gasflaschenzubehör und Kühlgeräte als separate Produktlinie."
           },
           {
             "q": "Können Sie die OEM-Anpassung unterstützen?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Kann ich mir Werksvideos ansehen, bevor ich eine Bestellung aufgeben?",
-            "a": "Ja. Sehen Sie sich Produktionsvideos im Abschnitt „Fabrik“ auf dieser Seite an. Zusätzliches Filmmaterial, Verpackungsclips und Zertifikate werden auf Anfrage privat verschickt."
+            "a": "Ja. Sehen Sie sich Produktionsvideos auf der Factory-Seite an. Zusätzliches Filmmaterial, Packclips und Zertifikatskopien werden auf Anfrage privat verschickt."
           },
           {
             "q": "Bieten Sie Produktvideos speziell für Acetylenflaschen an?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Kann Zubehör zusammen mit Gasflaschen bestellt werden?",
-            "a": "Ja. Zubehör kann zusammen mit Acetylenflaschen, Propanflaschen und Acetylengeneratoren geliefert werden."
+            "a": "Ja. Zubehör kann zusammen mit Acetylen-, Propan- und LPG-Flaschen und Acetylengeneratoren geliefert werden."
           },
           {
             "q": "Unterstützen Sie OEM-Verpackungen?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Holen Sie sich ein genaues Angebot",
     "certifications": "Zertifizierungen",
     "order": "Befehl",
-    "reviews": "Rezensionen",
+    "reviews": "Hinweise des Käufers",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Standort",
@@ -587,7 +626,7 @@
     "exportReady": "Exportbereit",
     "years": "Jahre",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO-zertifiziert",
+    "isoCertified": "Standards auf Anfrage",
     "globalExport": "Globaler Export",
     "products": "Produkte",
     "specs": "Spezifikationen",
@@ -695,16 +734,16 @@
       "note": "* Genaue Parameter hängen von der Norm (ISO/DOT/GB) und der Ventilkonfiguration ab. Fordern Sie ein Datenblatt für Ihren Markt an."
     },
     "propane": {
-      "title": "Propan- und Flüssiggasflaschen",
-      "intro": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet.",
+      "title": "WG-P-Zylinderreihe",
+      "intro": "Die WG-P-Modelle sind eine Familie von Stahlzylindern. Füllgas – Propan oder LPG (Propan, Butan oder Mischungen) – wird je nach Bestellung und Zielmarkt angegeben.",
       "features": [
-        "37Mn/34CrMo4-Stahl gemäß ISO 9809",
+        "Stahlsorte und anwendbare Zylindernorm werden pro Bestellung bestätigt",
         "Arbeitsdruck 1,8–2,1 MPa",
-        "POL, CGA 510, GOST-Ventile",
-        "Pulverbeschichtung, Korrosionsschutz",
-        "Zertifikate für EU-, US- und GUS-Märkte"
+        "POL-, CGA 510- und GOST-Ventile je Markt besprochen",
+        "Pulverbeschichtung und Korrosionsschutzbeschichtung",
+        "Besprochene Zertifizierungsoptionen pro Zielmarkt"
       ],
-      "tableTitle": "Standard-Propanflaschenmodelle",
+      "tableTitle": "Standard-WG-P-Zylindermodelle",
       "headers": [
         "Model",
         "Volumen (L)",
@@ -768,10 +807,10 @@
       "intro": "Ausrüstung zur Herstellung von Acetylen aus Calciumcarbid. Stabile Gasversorgung für Schweiß- und Industriebedarf ohne zentrale Gasinfrastruktur.",
       "features": [
         "Leistung 3–100 m³/h Kapazität",
-        "Automatische Wasser- und Karbidzufuhr",
-        "Sicherheitssystem und Filterung",
+        "Optionen für Wasser- und Karbidzuführung je Modell besprochen",
+        "Sicherheitssystem und Filterung wie für das Modell angegeben",
         "Kompakt- und Industriemodelle",
-        "Vollständige Dokumentation und Schulung"
+        "Bestellunterlagen werden mitgeliefert. Eine Bedienerschulung kann auf Anfrage besprochen werden"
       ],
       "tableTitle": "Acetylen-Generatormodelle",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatoren werden auf Anfrage mit Kühlsystem, Filtern und Ersatzteilset geliefert."
     },
     "accessories": {
-      "title": "Zylinderzubehör und Armaturen",
+      "title": "Schweißzubehör und Zylinderbeschläge",
       "intro": "Komplettes Sortiment für den sicheren Betrieb von Gasflaschen: vom Messgerät bis zum Schweißbrenner. Beschaffung von Zylindern aus einer Hand.",
       "features": [
         "Regler und Messgeräte (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Fackeln",
           "WG-C100, WG-C300",
           "—",
-          "Plasma-/Autogenschneiden"
+          "Autogenschneiden"
         ],
         [
           "Brenner",
@@ -881,7 +920,7 @@
           "Alle Zylindertypen"
         ]
       ],
-      "note": "* Zubehör separat oder im Paket mit Zylindern erhältlich. Rabatt auf kombinierte Bestellungen."
+      "note": "* Zubehör kann separat oder zusammen mit Zylindern angeboten werden. Die Preise für kombinierte Bestellungen werden im Angebot bestätigt."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistik",
-        "desc": "Komplette internationale Versandunterstützung.",
+        "desc": "Exportverpackungs- und Versandkoordination für ausländische Käufer.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Dokumentation exportieren",
-          "See- und Bahnfracht"
+          "See- und Bahnfrachtoptionen"
         ]
       },
       {
         "icon": "🔬",
         "title": "Qualitätskontrolle",
-        "desc": "Tests und Inspektionen in jeder Phase.",
+        "desc": "Inspektion und Prüfung während der Produktion gemäß Auftrag.",
         "points": [
           "Hydrostatische Tests",
-          "UT-Schweißnahtprüfung",
-          "SGS/BV-Inspektion auf Anfrage"
+          "Schweißnahtprüfung wie angegeben",
+          "Fremdbesichtigung auf Anfrage"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Zertifizierung",
         "desc": "Dokumente für Zoll und Aufsichtsbehörden. Auf Anfrage werden Kopien privat verschickt.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "Sicherheitsdatenblatt und Qualitätszertifikat",
-          "Ursprungszeugnis"
+          "Besprochene Standards pro Produkt und Markt",
+          "Sicherheitsdatenblätter und Qualitätsdokumente auf Anfrage",
+          "Ursprungszeugnis auf Anfrage"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Hilfe bei der Produktauswahl und Konfiguration.",
         "points": [
           "Marktbasierte Auswahl",
-          "MOQ- und Durchlaufzeitberechnung",
-          "Mitarbeiterschulung"
+          "Mindestbestellmenge und Vorlaufzeit werden pro Bestellung besprochen",
+          "Bedienerführung auf Anfrage besprochen"
         ]
       },
       {
         "icon": "📦",
         "title": "Bündelversorgung",
-        "desc": "Zylinder + Zubehör in einer Bestellung.",
+        "desc": "Zylinder und Zubehör in einer Bestellung.",
         "points": [
-          "Einzelvertrag",
+          "Einzelanfrage",
           "Koordinierte Lieferung",
-          "Bundle-Rabatt"
+          "Sammelpreis im Angebot"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Nahtlose Stahlgasflaschen – technische Anforderungen"
+        "desc": "Nachfüllbare Gasflaschen aus nahtlosem Stahl – vergüteter Stahl. Wird pro Produkt und Zielmarkt besprochen."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Flaschen mit gelöstem Acetylen"
+        "desc": "Gasflaschen – wiederbefüllbare nahtlose Stahlgasflaschen – Entwurf, Konstruktion und Prüfung – Teil 3: normalisierte Stahlflaschen. Kein Acetylenflaschenstandard (siehe ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylenflaschen – Grundanforderungen und Typprüfung. Wird auf Anfrage für Acetylenprodukte besprochen. Die Anwendbarkeit wird pro Bestellung bestätigt."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Zylinderstandard für den US-Markt – Anwendbarkeit je Produkt und Bestellung bestätigt"
+        "desc": "US-Spezifikation für nahtlose Stahlflaschen – Anwendbarkeit je Produkt und Bestellung bestätigt"
       },
       {
         "name": "TPED",
-        "desc": "Europäische Transportanforderungen – je Zielmarkt besprochen"
+        "desc": "EU-Richtlinie über ortsbewegliche Druckgeräte – je Zielmarkt besprochen"
       },
       {
         "name": "GB 5099",
-        "desc": "Chinesischer Gasflaschenstandard"
+        "desc": "Chinesischer nationaler Standard für nahtlose Stahlgasflaschen – Anwendbarkeit je Produkt und Bestellung bestätigt"
       },
       {
         "name": "CE Mark",
-        "desc": "Europäische Konformitätskennzeichnung – Anwendbarkeit pro Produkt und Markt"
+        "desc": "Europäische Konformitätskennzeichnung – Anwendbarkeit pro Produkt und Markt. Kein Ersatz für eine veröffentlichte Zertifikatsdatei."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Was Käufer sagen",
+    "title": "Was industrielle Einkäufer normalerweise verlangen",
     "items": [
       {
-        "quote": "Wir haben dieses Jahr dreimal 40-Liter-Acetylenflaschen nachbestellt. GOST-Ventile, OEM-Farbe und Exportverpackung stimmten jedes Mal mit dem ersten Muster überein.",
-        "author": "Rustam Yusupov",
-        "role": "Inhaber, Schweißgashändler",
-        "country": "Uzbekistan"
+        "quote": "OEM-Farbe, Ventiltyp und Exportverpackung wurden vor der erneuten Lieferung an ein bestätigtes Muster angepasst.",
+        "author": "Distributor inquiries",
+        "role": "Schweißgasversorgung",
+        "country": "Central Asia"
       },
       {
-        "quote": "Das Angebot kam noch am selben Tag mit einer klaren Mindestbestellmenge und Vorlaufzeit. Propanflaschen kamen mit POL-Ventilen und vollständiger Packliste an – für uns gab es keine Verzögerungen beim Zoll.",
-        "author": "Aigerim Bekova",
-        "role": "Einkaufsleiter, Industrieversorgung",
-        "country": "Kazakhstan"
+        "quote": "Klare Mindestbestellmenge, Lieferzeit und Packliste im Angebot bestätigt – nicht als feste Preise auf der Website.",
+        "author": "Procurement inquiries",
+        "role": "Industrieversorgung",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Wir kaufen Flaschen mit Reglern und Schläuchen in einer Containerbestellung. Dokumente und Kennzeichnung waren für unseren Markt bereit, sodass der Weiterverkauf unkompliziert war.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importkäufer, Handel mit Gasgeräten",
-        "country": "Saudi Arabia"
+        "quote": "Flaschen mit Reglern und Schläuchen werden als eine gemeinsame Bestellung angeboten, wobei die Kennzeichnung für den Zielmarkt besprochen wird.",
+        "author": "Import inquiries",
+        "role": "Handel mit Gasgeräten",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Wer wir sind",
     "title": "Industrieller Hersteller für B2B-Käufer",
-    "text": "Wanda Groups produziert und liefert Industriegasflaschen, Generatoren und Schweißzubehör für ausländische Händler, OEM-Partner und Projektkäufer.",
+    "text": "Wanda Groups produziert und liefert Industriegasflaschen, Generatoren, Schweißzubehör und Kühlgeräte für Vertriebshändler in Übersee, OEM-Partner und Projektkäufer.",
     "text2": "Unser Schwerpunkt liegt auf fabrikgebundener Lieferung, Unterstützung bei der Produktauswahl, Großbestellungen und Exportkoordination – nicht auf Einzelhandelsverkäufen an Endverbraucher.",
     "cta": "Erfahren Sie mehr über uns"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Sind Sie bereit, ein Angebot anzufordern?",
       "quoteCta": "Fordern Sie ein Angebot an",
       "relatedProducts": "Verwandte Produkte",
+      "productFamilies": "Produktfamilien",
       "applications": "Applications",
       "standardsTitle": "Standards & Zertifizierung",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Hersteller von Gasflaschen | Industrieller OEM und Export | Wanda-Gruppen",
-      "seoDescription": "Wanda Groups stellt Industriegasflaschen, Generatoren und Schweißzubehör für OEM-, Großhandels- und internationale Exportkäufer her."
+      "seoDescription": "Wanda Groups stellt Industriegasflaschen, Generatoren, Schweißzubehör und Kühlgeräte für OEM-, Großhandels- und internationale Exportkäufer her."
     },
     "about": {
       "label": "Über uns",
       "title": "Hersteller von Gasflaschen für industrielle Abnehmer",
       "subtitle": "Wir unterstützen ausländische Käufer bei der Produktauswahl, OEM, Inspektion, Verpackung und Versand.",
       "seoTitle": "Über die Wanda Group",
-      "seoDescription": "Die Wanda Group stellt Acetylenflaschen, Propanflaschen, Generatoren und Zubehör für die Schweiß-, Schneid- und Industriegasversorgung her."
+      "seoDescription": "Die Wanda Group stellt Acetylen-, Propan- und LPG-Flaschen, Generatoren, Schweißzubehör und Kühlgeräte für industrielle Exportkäufer her."
     },
     "products": {
       "label": "Produkte",
       "title": "Unsere Produkte",
-      "subtitle": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
+      "subtitle": "Acetylen-, Propan- und LPG-Flaschen, Generatoren, Schweißzubehör und Kühlgeräte für industrielle Käufer.",
       "seoTitle": "Gasflaschenprodukte",
-      "seoDescription": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
+      "seoDescription": "Acetylen-, Propan- und LPG-Flaschen, Acetylengeneratoren, Schweißzubehör und Kühlgeräte von Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Zylinder mit gelöstem Acetylen",
           "overview": "Stahlflaschen mit poröser Masse und Lösungsmittel für sichere Lagerung und Transport von Acetylen. Wird beim Schweißen, Schneiden, Löten und in der Metallverarbeitung verwendet.",
+          "application": "Autogenes Schweißen, Schneiden und Hartlöten",
           "seoTitle": "Acetylen-Gasflaschen",
           "seoDescription": "Stahlflaschen mit poröser Masse und Lösungsmittel für sichere Lagerung und Transport von Acetylen. Wird beim Schweißen, Schneiden, Löten und in der Metallverarbeitung verwendet."
         },
         "propane": {
           "name": "Propanflaschen",
-          "overview": "Stahlflaschen für die Lagerung und den Transport von Propangas. Wird zum Heizen, zur industriellen Propanversorgung, zum Kochen und zum Autogenschneiden in Kombination mit Acetylen verwendet.",
+          "overview": "Stahlflaschen für Propangasfüllung. Wird zum Heizen, zur industriellen Propanversorgung, zum Kochen und zum Autogenschneiden in Kombination mit Acetylen verwendet.",
+          "application": "Industrielle Propanheizung, -schneide- und -anlagenversorgung",
+          "familyNote": "Propanflaschen und LPG-Flaschen verwenden die gleiche WG-P-Stahlflaschenreihe. Auf dieser Seite werden Propanfüllungen und propanspezifische Anwendungen behandelt. LPG-Mischungen und die Verteilung werden auf der Seite „LPG-Flaschen“ beschrieben.",
           "seoTitle": "Propangasflaschen",
-          "seoDescription": "Propangasflaschen aus Stahl für Heiz-, Industrieversorgungs- und Schneidanwendungen. Export- und OEM-Optionen werden je Bestellung besprochen."
+          "seoDescription": "Stahlflaschen für Propangasfüllungen – Heizung, Industrieversorgung und Autogenschneiden. Gleicher WG-P-Bereich wie LPG; Füllgas je Bestellung angegeben."
         },
         "lpg": {
           "name": "LPG-Flaschen",
-          "overview": "Flaschen für Flüssiggas (LPG) – Propan, Butan oder gemischte Mischungen. Üblich für die LPG-Verteilung im Privat- und Gewerbebereich, beim Camping, beim Heizen und für die mobile Kraftstoffversorgung.",
+          "overview": "Flaschen für Flüssiggas (LPG) – Propan, Butan oder gemischte Mischungen. Wird für den privaten und gewerblichen LPG-Vertrieb, Camping, Heizung und die mobile Kraftstoffversorgung verwendet.",
+          "application": "LPG-Verteilung, tragbarer Kraftstoff und mischungsbasierte Heizung",
+          "familyNote": "LPG-Flaschen und Propanflaschen verwenden die gleiche WG-P-Stahlflaschenreihe. Auf dieser Seite werden LPG-Mischungen und deren Verteilung behandelt. Auf der Seite „Propanflaschen“ werden reine Propanfüllungen und industrielle Propananwendungen beschrieben.",
           "seoTitle": "Flüssiggasflaschen",
-          "seoDescription": "LPG-Flaschen für die Verteilung von Flüssiggas in Privathaushalten, Gewerbe und Industrie sowie für die mobile Versorgung."
+          "seoDescription": "LPG-Flaschen für die Verteilung von Flüssiggas im privaten, gewerblichen und industriellen Bereich. Gleiche WG-P-Reihe wie Propanflaschen; pro Bestellung angegebene Füllung."
         },
         "industrial": {
           "name": "Industriegasflaschen",
           "overview": "Industriegasflaschen zum Schweißen, Schneiden und zur Anlagenversorgung – einschließlich Acetylen-, Propan- und LPG-Optionen, abgestimmt auf Ihren Markt.",
+          "application": "Anlagen-, Vertriebs- und Projektzylinderversorgung",
           "seoTitle": "Industriegasflaschen",
           "seoDescription": "Industriegasflaschen zum Schweißen, Schneiden und zur Anlagenversorgung von der Wanda Group."
         },
         "generators": {
           "name": "Acetylengeneratoren",
           "overview": "Ausrüstung zur Herstellung von Acetylen aus Calciumcarbid. Stabile Gasversorgung für Schweiß- und Industriebedarf ohne zentrale Gasinfrastruktur.",
+          "application": "Vor-Ort-Erzeugung von Acetylen aus Calciumcarbid",
           "seoTitle": "Acetylengeneratoren",
           "seoDescription": "Ausrüstung zur Herstellung von Acetylen aus Calciumcarbid. Stabile Gasversorgung für Schweiß- und Industriebedarf ohne zentrale Gasinfrastruktur."
         },
         "accessories": {
-          "name": "Zylinderzubehör und Armaturen",
+          "name": "Schweißzubehör und Zylinderbeschläge",
           "overview": "Komplettes Sortiment für den sicheren Betrieb von Gasflaschen: vom Messgerät bis zum Schweißbrenner. Beschaffung von Zylindern aus einer Hand.",
-          "seoTitle": "Schweißzubehör",
-          "seoDescription": "Komplettes Sortiment für den sicheren Betrieb von Gasflaschen: vom Messgerät bis zum Schweißbrenner. Beschaffung von Zylindern aus einer Hand."
+          "application": "Autogen-Anlagen, Regler, Schläuche, Ventile und Messgeräte",
+          "seoTitle": "Schweißzubehör und Zylinderbeschläge",
+          "seoDescription": "Schweißzubehör und Flaschenarmaturen – Regler, Schläuche, Messgeräte, Brenner und Ventile, die mit den Flaschen oder separat geliefert werden."
         },
         "refrigeration": {
           "name": "Kühlaggregate",
           "overview": "Eine separate Linie der Wanda Group – kein Katalog eines Drittanbieters. Verflüssigungssätze, Kühlräume und Hardware, von uns mit Zylindern oder als Einzelbestellung geliefert.",
+          "application": "Kühlräume, Lebensmittelkühlkette und industrielle Kühlung",
           "seoTitle": "Kühleinheiten",
-          "seoDescription": "Eine separate Linie der Wanda Group – kein Katalog eines Drittanbieters. Verflüssigungssätze, Kühlräume und Hardware, von uns mit Zylindern oder als Einzelbestellung geliefert."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

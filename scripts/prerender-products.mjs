@@ -186,12 +186,29 @@ function buildRelated(relatedSlugs) {
 }
 
 function productApplications(product) {
+  const cat = catalogEntry(product.catalogKey)
+  let items
   if (product.slug === 'refrigeration') {
-    const items = EN.applications.refrigerationItems.map((item) => `<li>${esc(item)}</li>`).join('')
-    return `<ul>${items}</ul>`
+    items = EN.applications.refrigerationItems
+  } else {
+    const keyed = EN.applications[product.catalogKey]
+    items = Array.isArray(keyed) ? keyed : EN.applications.items
   }
-  const items = EN.applications.items.map((item) => `<li>${esc(item)}</li>`).join('')
-  return `<ul>${items}</ul>`
+  const list = items.map((item) => `<li>${esc(item)}</li>`).join('')
+  return `<ul>${list}</ul>`
+}
+
+function familyNoteBlock(product) {
+  const cat = catalogEntry(product.catalogKey)
+  if (!cat.familyNote) return ''
+  let extra = ''
+  if (product.catalogKey === 'propane') {
+    extra = `<p><a href="${pageUrl('/products/lpg-cylinders', 'en')}">${esc(catalogEntry('lpg').name)}</a></p>`
+  }
+  if (product.catalogKey === 'lpg') {
+    extra = `<p><a href="${pageUrl('/products/propane-cylinders', 'en')}">${esc(catalogEntry('propane').name)}</a></p>`
+  }
+  return `<p>${esc(cat.familyNote)}</p>${extra}`
 }
 
 function buildBody(product) {
@@ -212,6 +229,7 @@ function buildBody(product) {
     <article>
       <h1>${esc(cat.name)}</h1>
       <p>${esc(cat.overview)}</p>
+      ${familyNoteBlock(product)}
       <p><a href="${pageUrl('/contact', 'en')}">${esc(EN.pages.common.quoteCta)}</a></p>
       <img src="${esc(product.image)}" alt="${esc(cat.name)}" width="800" height="560" />
       ${product.slug === 'refrigeration' ? buildRefrigerationBlock() : ''}

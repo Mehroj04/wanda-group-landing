@@ -96,6 +96,22 @@
   font-size: 0.95rem;
 }
 
+.products__families {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  margin: 28px 0 0;
+  justify-content: center;
+}
+
+.products__families a {
+  color: var(--color-primary);
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .products__group {
   margin: 88px 0 0;
 }

@@ -59,6 +59,13 @@
   margin: 0;
 }
 
+.products-page__app {
+  margin: 0;
+  font-size: 0.8125rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
 .products-page__body .btn {
   align-self: flex-start;
   margin-top: 4px;

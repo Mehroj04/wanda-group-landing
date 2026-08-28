@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Endüstriyel Gaz Tüpü Üreticisi",
     "title": "Endüstriyel Gaz Tüpleri ve Ekipmanları Üreticisi",
-    "subtitle": "Uluslararası ihracat alıcıları için asetilen tüpleri, propan/LPG tüpleri, jeneratörler ve kaynak aksesuarlarının üretimi, OEM ve toptan tedariki.",
+    "subtitle": "Uluslararası ihracat alıcıları için asetilen, propan ve LPG tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanlarının üretimi, OEM ve toptan tedariki.",
     "lineGas": "Gaz silindirleri",
     "lineCold": "Soğutma üniteleri",
     "cta": "Teklif Al",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Ürünlerimiz",
-    "subtitle": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+    "subtitle": "Endüstriyel alıcılar için asetilen, propan ve LPG tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanları.",
     "viewDetails": "Ayrıntıları Görüntüle",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propan Silindiri",
         "spec": "3L–50L · pazara göre valf seçenekleri",
-        "desc": "Isıtma, kesme ve endüstriyel kullanıma yönelik dayanıklı LPG tüpleri.",
+        "desc": "Propan dolumu için çelik silindirler - ısıtma, kesme ve endüstriyel tedarik.",
         "icon": "🛢️"
       },
       {
-        "title": "Silindir Aksesuarları",
+        "title": "Kaynak Aksesuarları",
         "spec": "Vanalar · regülatörler · hortumlar · fenerler",
-        "desc": "Eşleşen bağlantı parçaları silindirlerle birlikte veya ayrı sipariş olarak sağlanır.",
+        "desc": "Kaynak aksesuarları ve silindir bağlantı parçaları, silindirlerle birlikte veya ayrı olarak tedarik edilir.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "İlaç ve tıbbi soğuk hava deposu",
       "Lojistik ve soğutmalı taşımacılık",
       "Endüstriyel soğutma ve proses soğutucuları"
+    ],
+    "acetylene": [
+      "Oksi-asetilen kaynağı",
+      "Oksi-yakıtla kesme",
+      "Lehimleme ve ısıtma",
+      "Metal imalat mağazaları",
+      "Tersane ve bakım çalışmaları"
+    ],
+    "propane": [
+      "Endüstriyel propan ısıtma",
+      "Asetilen ile oksi yakıtla kesme",
+      "Atölye ve inşaat ısıtması",
+      "Tesis propan tedariki",
+      "Propanın belirtildiği yerde pişirme ve proses ısısı"
+    ],
+    "lpg": [
+      "Konut ve ticari LPG dağıtımı",
+      "Taşınabilir LPG yakıt beslemesi",
+      "Kamp ve catering gazı",
+      "LPG karışımlarıyla ısıtma",
+      "Yerel pazarlar için toptan LPG tüpü dolumu"
+    ],
+    "industrial": [
+      "Kaynak ve kesme gazı beslemesi",
+      "Tesis ve atölye silindir stoğu",
+      "Distribütör endüstriyel gaz hatları",
+      "Proje ve şantiyeler"
+    ],
+    "generators": [
+      "Kalsiyum karbürden yerinde asetilen üretimi",
+      "Şişelenmiş asetilen tedariki olmayan atölyeler",
+      "Silindir lojistiğinin sınırlı olduğu yerlerde kaynak ve kesme",
+      "Yerel asetilen kaynağına ihtiyaç duyan endüstriyel alanlar"
+    ],
+    "accessories": [
+      "Silindir ve regülatör tertibatları",
+      "Oksi-yakıt kaynak ve kesme kurulumları",
+      "Hortum, gösterge ve valf değişimi",
+      "Atölye gazı işleme güvenlik parçaları"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Endüstriyel alıcılar için gaz tüpü üreticisi",
-    "text": "Wanda Group kaynak, kesme ve endüstriyel gaz tedariğine yönelik asetilen tüpleri, propan tüpleri, jeneratörler ve aksesuarlar üretmektedir.",
+    "text": "Wanda Group asetilen tüpleri, propan ve LPG tüpleri, jeneratörler ve kaynak aksesuarları üretmekte ve aynı zamanda endüstriyel alıcılar için soğutma ekipmanları da tedarik etmektedir.",
     "text2": "Yurtdışındaki alıcıları ürün seçimi, OEM, muayene, paketleme ve nakliye konularında destekliyoruz.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Ağırlıklı olarak hangi ürünleri tedarik ediyorsunuz?",
-            "a": "Asetilen tüpleri, propan tüpleri, asetilen jeneratörleri ve vanalar, regülatörler, hortumlar, manometreler ve fenerler gibi gaz tüpü aksesuarlarını tedarik ediyoruz."
+            "a": "Asetilen tüpleri, propan ve LPG tüpleri, asetilen jeneratörleri, gaz tüpü aksesuarları ve soğutma ekipmanlarını ayrı bir ürün grubu olarak tedarik ediyoruz."
           },
           {
             "q": "OEM özelleştirmesini destekleyebilir misiniz?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Sipariş vermeden önce fabrika videolarını izleyebilir miyim?",
-            "a": "Evet. Bu sayfadaki Fabrika bölümündeki üretim videolarını izleyin. Ekstra görüntüler, paketleme klipleri ve sertifikalar istek üzerine özel olarak gönderilir."
+            "a": "Evet. Fabrika sayfasındaki üretim videolarını izleyin. Ekstra görüntüler, paketleme klipleri ve sertifika kopyaları talep üzerine özel olarak gönderilir."
           },
           {
             "q": "Özellikle asetilen tüpleri için ürün videoları sağlıyor musunuz?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Aksesuarlar gaz tüpleriyle birlikte sipariş edilebilir mi?",
-            "a": "Evet. Aksesuarlar asetilen tüpleri, propan tüpleri ve asetilen jeneratörleri ile birlikte temin edilebilmektedir."
+            "a": "Evet. Aksesuarlar asetilen, propan ve LPG tüpleri ve asetilen jeneratörleri ile birlikte temin edilebilmektedir."
           },
           {
             "q": "OEM ambalajını destekliyor musunuz?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Tam Fiyat Teklifi Alın",
     "certifications": "Sertifikalar",
     "order": "Emir",
-    "reviews": "Yorumlar",
+    "reviews": "Alıcı notları",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Konum",
@@ -587,7 +626,7 @@
     "exportReady": "Dışa aktarıma hazır",
     "years": "Yıllar",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO Sertifikalı",
+    "isoCertified": "Talep üzerine standartlar",
     "globalExport": "Küresel İhracat",
     "products": "Ürünler",
     "specs": "Özellikler",
@@ -695,16 +734,16 @@
       "note": "* Kesin parametreler standarda (ISO/DOT/GB) ve valf konfigürasyonuna bağlıdır. Pazarınız için teknik özellikler sayfası isteyin."
     },
     "propane": {
-      "title": "Propan ve LPG Tüpleri",
-      "intro": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+      "title": "WG-P silindir serisi",
+      "intro": "WG-P modelleri tek bir çelik silindir ailesidir. Doldurma gazı - propan veya LPG (propan, bütan veya karışımlar) - siparişe ve hedef pazara göre belirlenir.",
       "features": [
-        "ISO 9809'a göre 37Mn/34CrMo4 çeliği",
+        "Çelik kalitesi ve geçerli silindir standardı siparişe göre onaylanır",
         "Çalışma basıncı 1,8–2,1 MPa",
-        "POL, CGA 510, GOST vanaları",
-        "Toz boya, korozyon önleyici",
-        "AB, ABD ve BDT pazarlarına yönelik sertifikalar"
+        "POL, CGA 510, GOST valfleri pazara göre tartışıldı",
+        "Toz kaplama ve korozyon önleyici kaplama",
+        "Hedef pazara göre tartışılan sertifika seçenekleri"
       ],
-      "tableTitle": "Standart Propan Silindir Modelleri",
+      "tableTitle": "Standart WG-P Silindir Modelleri",
       "headers": [
         "Model",
         "Hacim (L)",
@@ -768,10 +807,10 @@
       "intro": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği.",
       "features": [
         "Çıkış 3–100 m³/saat kapasite",
-        "Otomatik su ve karbür beslemesi",
-        "Güvenlik sistemi ve filtreleme",
+        "Model başına tartışılan su ve karbür besleme seçenekleri",
+        "Modele göre belirlenen güvenlik sistemi ve filtreleme",
         "Kompakt ve endüstriyel modeller",
-        "Tam dokümantasyon ve eğitim"
+        "Sipariş belgeleri sağlandı. Talep üzerine operatör eğitimi tartışılabilir"
       ],
       "tableTitle": "Asetilen Jeneratör Modelleri",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Jeneratörler istek üzerine soğutma sistemi, filtreler ve yedek parça kiti ile birlikte verilmektedir."
     },
     "accessories": {
-      "title": "Silindir Aksesuarları ve Bağlantı Parçaları",
+      "title": "Kaynak Aksesuarları ve Silindir Bağlantı Parçaları",
       "intro": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik.",
       "features": [
         "Düzenleyiciler ve göstergeler (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Meşaleler",
           "WG-C100, WG-C300",
           "—",
-          "Plazma/oksi kesim"
+          "Oksi-yakıtla kesme"
         ],
         [
           "Brülörler",
@@ -881,7 +920,7 @@
           "Tüm silindir tipleri"
         ]
       ],
-      "note": "* Aksesuarlar ayrı olarak veya silindirlerle birlikte temin edilebilir. Kombine siparişlerde indirim."
+      "note": "* Aksesuarlar ayrı ayrı veya silindirlerle birlikte fiyatlandırılabilir. Kombine sipariş fiyatlandırması teklifte teyit edilir."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "İhracat ve Lojistik",
-        "desc": "Tam uluslararası gönderi desteği.",
+        "desc": "Yurtdışı alıcılar için ihracat paketleme ve nakliye koordinasyonu.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Belgeleri dışa aktar",
-          "Deniz ve demiryolu taşımacılığı"
+          "Deniz ve demiryolu taşımacılığı seçenekleri"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kalite Kontrol",
-        "desc": "Her aşamada test ve muayene.",
+        "desc": "Siparişe göre üretim sırasında muayene ve testler.",
         "points": [
           "Hidrostatik testler",
-          "UT kaynak muayenesi",
-          "Talep üzerine SGS/BV denetimi"
+          "Belirtilen şekilde kaynak muayenesi",
+          "Talep üzerine üçüncü taraf denetimi"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifikasyon",
         "desc": "Gümrük ve düzenleyiciler için belgeler. Kopyalar istek üzerine özel olarak gönderilir.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS ve kalite sertifikası",
-          "Menşe belgesi"
+          "Ürün ve pazara göre tartışılan standartlar",
+          "Talep üzerine MSDS ve kalite belgeleri",
+          "Talep üzerine menşe belgesi"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Ürünlerin ve konfigürasyonun seçilmesine yardımcı olun.",
         "points": [
           "Piyasaya dayalı seçim",
-          "MOQ ve teslim süresi hesaplaması",
-          "Personel eğitimi"
+          "Sipariş başına MOQ ve teslim süresi tartışıldı",
+          "Talep üzerine tartışılan operatör kılavuzu"
         ]
       },
       {
         "icon": "📦",
         "title": "Paket Temini",
-        "desc": "Silindirler + aksesuarlar tek siparişte.",
+        "desc": "Silindirler ve aksesuarlar tek siparişte.",
         "points": [
-          "Tek sözleşme",
+          "Tek sorgulama",
           "Koordineli teslimat",
-          "Paket indirimi"
+          "Teklifte kombine sipariş fiyatlandırması"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Dikişsiz çelik gaz silindirleri - teknik gereksinimler"
+        "desc": "Yeniden doldurulabilir dikişsiz çelik gaz silindirleri - su verilmiş ve temperlenmiş çelik. Ürün ve hedef pazara göre tartışılır."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Çözünmüş asetilen silindirleri"
+        "desc": "Gaz silindirleri - yeniden doldurulabilir dikişsiz çelik gaz silindirleri - tasarım, yapım ve test etme - Bölüm 3: normalleştirilmiş çelik silindirler. Asetilen tüpü standardı değildir (bkz. ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Asetilen silindirleri - temel gereksinimler ve tip testi. Asetilen ürünleri için istendiğinde görüşülür. Uygulanabilirlik sipariş başına onaylanır."
       },
       {
         "name": "DOT 3AA",
-        "desc": "ABD pazarı silindir standardı — uygulanabilirlik ürün ve siparişe göre onaylanmıştır"
+        "desc": "Dikişsiz çelik silindirler için ABD spesifikasyonu — uygulanabilirlik ürün ve siparişe göre onaylanmıştır"
       },
       {
         "name": "TPED",
-        "desc": "Avrupa taşımacılık gereklilikleri — varış pazarına göre tartışılır"
+        "desc": "AB taşınabilir basınçlı ekipman direktifi — hedef pazara göre tartışılır"
       },
       {
         "name": "GB 5099",
-        "desc": "Çin gaz silindiri standardı"
+        "desc": "Dikişsiz çelik gaz silindirleri için Çin ulusal standardı - uygulanabilirlik ürün ve siparişe göre onaylanmıştır"
       },
       {
         "name": "CE Mark",
-        "desc": "Avrupa uygunluk işareti — ürün ve pazara göre uygulanabilirlik"
+        "desc": "Avrupa uygunluk işareti — ürün ve pazara göre uygulanabilirlik. Yayınlanmış bir sertifika dosyasının yerine geçmez."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Alıcılar ne diyor",
+    "title": "Endüstriyel alıcıların genellikle istedikleri şey",
     "items": [
       {
-        "quote": "Bu yıl 40L'lik asetilen tüplerini üç kez yeniden sipariş ettik. GOST valfleri, OEM rengi ve ihracat ambalajı her seferinde ilk numuneyle eşleşiyordu.",
-        "author": "Rustam Yusupov",
-        "role": "Sahip, kaynak gazı distribütörü",
-        "country": "Uzbekistan"
+        "quote": "OEM rengi, valf tipi ve ihracat ambalajı, tekrar tedarik edilmeden önce onaylanmış bir numuneyle eşleştirilir.",
+        "author": "Distributor inquiries",
+        "role": "Kaynak gazı beslemesi",
+        "country": "Central Asia"
       },
       {
-        "quote": "Teklif aynı gün net bir MOQ ve teslim süresiyle geldi. Propan şişeleri POL valfleri ve tam paketleme listesiyle birlikte geldi; bizim açımızdan gümrükte gecikme yaşanmadı.",
-        "author": "Aigerim Bekova",
-        "role": "Tedarik müdürü, endüstriyel tedarik",
-        "country": "Kazakhstan"
+        "quote": "Teklifte onaylanan net MOQ, teslim süresi ve paketleme listesi - sabit web sitesi fiyatları olarak değil.",
+        "author": "Procurement inquiries",
+        "role": "Endüstriyel tedarik",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Regülatörlü ve hortumlu silindirleri tek konteyner siparişi olarak satın alıyoruz. Pazarımız için belgeler ve işaretlemeler hazır olduğundan yeniden satış kolaydı.",
-        "author": "Faisal Al-Harbi",
-        "role": "İthalat alıcısı, gaz ekipmanı ticareti",
-        "country": "Saudi Arabia"
+        "quote": "Regülatörlü ve hortumlu silindirler tek bir birleşik sipariş olarak fiyatlandırılır ve hedef pazar için işaretleme tartışılır.",
+        "author": "Import inquiries",
+        "role": "Gaz ekipmanı ticareti",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Biz Kimiz",
     "title": "B2B alıcılar için endüstriyel üretici",
-    "text": "Wanda Groups, denizaşırı distribütörler, OEM ortakları ve proje alıcıları için endüstriyel gaz tüpleri, jeneratörler ve kaynak aksesuarları üretmekte ve tedarik etmektedir.",
+    "text": "Wanda Groups, denizaşırı distribütörler, OEM ortakları ve proje alıcıları için endüstriyel gaz tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanları üretmekte ve tedarik etmektedir.",
     "text2": "Odak noktamız perakende tüketici satışları değil, fabrika bağlantılı tedarik, ürün seçimi desteği, toplu siparişler ve ihracat koordinasyonudur.",
     "cta": "Hakkımızda Daha Fazla Bilgi Edinin"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Fiyat teklifi istemeye hazır mısınız?",
       "quoteCta": "Fiyat Teklifi İste",
       "relatedProducts": "İlgili ürünler",
+      "productFamilies": "Ürün aileleri",
       "applications": "Applications",
       "standardsTitle": "Standartlar ve sertifikasyon",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gaz Tüpü Üreticisi | Endüstriyel OEM ve İhracat | Wanda Grupları",
-      "seoDescription": "Wanda Groups, OEM, toptan ve uluslararası ihracat alıcıları için endüstriyel gaz tüpleri, jeneratörler ve kaynak aksesuarları üretmektedir."
+      "seoDescription": "Wanda Groups, OEM, toptan ve uluslararası ihracat alıcıları için endüstriyel gaz tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanları üretmektedir."
     },
     "about": {
       "label": "Hakkımızda",
       "title": "Endüstriyel alıcılar için gaz tüpü üreticisi",
       "subtitle": "Yurtdışındaki alıcıları ürün seçimi, OEM, muayene, paketleme ve nakliye konularında destekliyoruz.",
       "seoTitle": "Wanda Grubu Hakkında",
-      "seoDescription": "Wanda Group kaynak, kesme ve endüstriyel gaz tedariğine yönelik asetilen tüpleri, propan tüpleri, jeneratörler ve aksesuarlar üretmektedir."
+      "seoDescription": "Wanda Group, endüstriyel ihracat alıcıları için asetilen, propan ve LPG tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanları üretmektedir."
     },
     "products": {
       "label": "Ürünler",
       "title": "Ürünlerimiz",
-      "subtitle": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+      "subtitle": "Endüstriyel alıcılar için asetilen, propan ve LPG tüpleri, jeneratörler, kaynak aksesuarları ve soğutma ekipmanları.",
       "seoTitle": "Gaz Tüpü Ürünleri",
-      "seoDescription": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+      "seoDescription": "Wanda Group'tan asetilen, propan ve LPG tüpleri, asetilen jeneratörleri, kaynak aksesuarları ve soğutma ekipmanları.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Çözünmüş Asetilen Tüpleri",
           "overview": "Asetilenin güvenli depolanması ve taşınması için gözenekli kütleye ve solvente sahip çelik silindirler. Kaynak, kesme, lehimleme ve metal imalatında kullanılır.",
+          "application": "Oksi-asetilen kaynak, kesme ve sert lehimleme",
           "seoTitle": "Asetilen Gaz Tüpleri",
           "seoDescription": "Asetilenin güvenli depolanması ve taşınması için gözenekli kütleye ve solvente sahip çelik silindirler. Kaynak, kesme, lehimleme ve metal imalatında kullanılır."
         },
         "propane": {
           "name": "Propan Silindirleri",
-          "overview": "Propan gazının depolanması ve taşınması için çelik silindirler. Asetilen ile eşleştirildiğinde ısıtma, endüstriyel propan tedariği, pişirme ve oksi-yakıt kesimi için kullanılır.",
+          "overview": "Propan dolumu için belirtilen çelik silindirler. Asetilen ile eşleştirildiğinde ısıtma, endüstriyel propan tedariği, pişirme ve oksi-yakıt kesimi için kullanılır.",
+          "application": "Endüstriyel propan ısıtma, kesme ve tesis tedariği",
+          "familyNote": "Propan silindirleri ve LPG tüpleri aynı WG-P çelik silindir serisini kullanır. Bu sayfa propan dolumunu ve propana özgü kullanımları kapsar. LPG karışımları ve dağıtım beslemesi LPG Tüpleri sayfasında açıklanmaktadır.",
           "seoTitle": "Propan Gaz Tüpleri",
-          "seoDescription": "Isıtma, endüstriyel tedarik ve kesme uygulamaları için çelik propan gaz silindirleri. İhracat ve OEM seçenekleri siparişe göre tartışılır."
+          "seoDescription": "Propan dolumu için çelik silindirler — ısıtma, endüstriyel tedarik ve oksijenle kesme. LPG ile aynı WG-P aralığı; Sipariş başına belirtilen gazı doldurun."
         },
         "lpg": {
           "name": "LPG Tüpleri",
-          "overview": "Sıvılaştırılmış petrol gazı (LPG) için silindirler - propan, bütan veya karışık karışımlar. Konut ve ticari LPG dağıtımı, kamp, ​​ısıtma ve taşınabilir yakıt tedariği için ortaktır.",
+          "overview": "Sıvılaştırılmış petrol gazı (LPG) için silindirler - propan, bütan veya karışık karışımlar. Konut ve ticari LPG dağıtımı, kamp, ​​ısıtma ve portatif yakıt temini için kullanılır.",
+          "application": "LPG dağıtımı, portatif yakıt ve karışım bazlı ısıtma",
+          "familyNote": "LPG tüpleri ve propan silindirleri aynı WG-P çelik silindir serisini kullanır. Bu sayfada LPG karışımları ve dağıtım kullanımı ele alınmaktadır. Yalnızca propan dolum ve endüstriyel propan kullanımları Propan Silindirleri sayfasında açıklanmaktadır.",
           "seoTitle": "LPG Gaz Tüpleri",
-          "seoDescription": "Konut, ticari ve endüstriyel sıvılaştırılmış petrol gazı dağıtımı ve taşınabilir tedarik için LPG tüpleri."
+          "seoDescription": "Konut, ticari ve endüstriyel sıvılaştırılmış petrol gazı dağıtımına yönelik LPG tüpleri. Propan silindirleriyle aynı WG-P aralığı; sipariş başına belirtilen doldurun."
         },
         "industrial": {
           "name": "Endüstriyel Gaz Tüpleri",
           "overview": "Pazarınıza uygun asetilen, propan ve LPG seçenekleri dahil, kaynak, kesme ve tesis tedariğine yönelik endüstriyel gaz tüpleri.",
+          "application": "Tesis, distribütör ve proje silindir temini",
           "seoTitle": "Endüstriyel Gaz Tüpleri",
           "seoDescription": "Wanda Group'tan kaynak, kesme ve tesis tedariğine yönelik endüstriyel gaz silindirleri."
         },
         "generators": {
           "name": "Asetilen Jeneratörleri",
           "overview": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği.",
+          "application": "Kalsiyum karbürden yerinde asetilen üretimi",
           "seoTitle": "Asetilen Jeneratörleri",
           "seoDescription": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği."
         },
         "accessories": {
-          "name": "Silindir Aksesuarları ve Bağlantı Parçaları",
+          "name": "Kaynak Aksesuarları ve Silindir Bağlantı Parçaları",
           "overview": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik.",
-          "seoTitle": "Kaynak Aksesuarları",
-          "seoDescription": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik."
+          "application": "Oksi-yakıt düzenekleri, regülatörler, hortumlar, valfler ve göstergeler",
+          "seoTitle": "Kaynak Aksesuarları ve Silindir Bağlantı Parçaları",
+          "seoDescription": "Kaynak aksesuarları ve silindir bağlantı parçaları - silindirlerle birlikte veya ayrı olarak sağlanan regülatörler, hortumlar, göstergeler, torçlar ve valfler."
         },
         "refrigeration": {
           "name": "Soğutma üniteleri",
           "overview": "Ayrı bir Wanda Group serisi; üçüncü taraf kataloğu değil. Yoğuşma üniteleri, soğuk odalar ve donanımlar tarafımızca silindirlerle birlikte veya tek başına sipariş olarak tedarik edilir.",
+          "application": "Soğuk odalar, gıda soğuk zinciri ve endüstriyel soğutma",
           "seoTitle": "Soğutma Üniteleri",
-          "seoDescription": "Ayrı bir Wanda Group serisi; üçüncü taraf kataloğu değil. Yoğuşma üniteleri, soğuk odalar ve donanımlar tarafımızca silindirlerle birlikte veya tek başına sipariş olarak tedarik edilir."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

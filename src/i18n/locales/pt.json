@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Fabricante de cilindros de gás industrial",
     "title": "Fabricante de cilindros e equipamentos de gás industrial",
-    "subtitle": "Fabricação, OEM e fornecimento no atacado de cilindros de acetileno, cilindros de propano/GLP, geradores e acessórios de soldagem para compradores internacionais de exportação.",
+    "subtitle": "Fabricação, OEM e fornecimento no atacado de cilindros de acetileno, propano e GLP, geradores, acessórios de soldagem e equipamentos de refrigeração para compradores internacionais de exportação.",
     "lineGas": "Cilindros de gás",
     "lineCold": "Unidades de refrigeração",
     "cta": "Obtenha uma cotação",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Nossos produtos",
-    "subtitle": "Cilindros de acetileno, geradores, cilindros de propano e acessórios para aplicações industriais e de soldagem.",
+    "subtitle": "Cilindros de acetileno, propano e GLP, geradores, acessórios de soldagem e equipamentos de refrigeração para compradores industriais.",
     "viewDetails": "Ver detalhes",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Cilindro de Propano",
         "spec": "3L–50L · opções de válvulas por mercado",
-        "desc": "Cilindros de GLP duráveis ​​para aquecimento, corte e uso industrial.",
+        "desc": "Cilindros de aço para enchimento de propano — aquecimento, corte e abastecimento industrial.",
         "icon": "🛢️"
       },
       {
-        "title": "Acessórios para cilindros",
+        "title": "Acessórios de soldagem",
         "spec": "Válvulas · reguladores · mangueiras · tochas",
-        "desc": "Acessórios correspondentes fornecidos com cilindros ou como pedido separado.",
+        "desc": "Acessórios de soldagem e conexões para cilindros, fornecidos com cilindros ou separadamente.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Armazenamento refrigerado farmacêutico e médico",
       "Logística e transporte refrigerado",
       "Resfriamento industrial e resfriadores de processo"
+    ],
+    "acetylene": [
+      "Soldagem oxi-acetileno",
+      "Corte oxicombustível",
+      "Brasagem e aquecimento",
+      "Oficinas de fabricação de metal",
+      "Estaleiro e trabalhos de manutenção"
+    ],
+    "propane": [
+      "Aquecimento industrial a propano",
+      "Corte oxicombustível com acetileno",
+      "Aquecimento de oficina e construção",
+      "Fornecimento de propano para plantas",
+      "Cozinhar e processar calor onde o propano é especificado"
+    ],
+    "lpg": [
+      "Distribuição residencial e comercial de GLP",
+      "Fornecimento portátil de combustível GLP",
+      "Gás para campismo e restauração",
+      "Aquecimento com misturas de GLP",
+      "Enchimento de cilindros de GLP no atacado para mercados locais"
+    ],
+    "industrial": [
+      "Fornecimento de gás para soldagem e corte",
+      "Estoque de cilindros de fábrica e oficina",
+      "Linhas de gás industrial distribuidoras",
+      "Canteiros de obras e projetos"
+    ],
+    "generators": [
+      "Produção de acetileno no local a partir de carboneto de cálcio",
+      "Oficinas sem fornecimento de acetileno engarrafado",
+      "Soldagem e corte onde a logística dos cilindros é limitada",
+      "Locais industriais que necessitam de uma fonte local de acetileno"
+    ],
+    "accessories": [
+      "Conjuntos de cilindro e regulador",
+      "Configurações de soldagem e corte oxi-combustível",
+      "Substituição de mangueira, medidor e válvula",
+      "Acessórios de segurança para manuseio de gás de oficina"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Fabricante de cilindros de gás para compradores industriais",
-    "text": "O Grupo Wanda fabrica cilindros de acetileno, cilindros de propano, geradores e acessórios para soldagem, corte e fornecimento de gases industriais.",
+    "text": "O Grupo Wanda fabrica cilindros de acetileno, cilindros de propano e GLP, geradores e acessórios de soldagem, e também fornece equipamentos de refrigeração para compradores industriais.",
     "text2": "Apoiamos compradores estrangeiros com seleção de produtos, OEM, inspeção, embalagem e envio.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Quais produtos você fornece principalmente?",
-            "a": "Fornecemos cilindros de acetileno, cilindros de propano, geradores de acetileno e acessórios para cilindros de gás, como válvulas, reguladores, mangueiras, manômetros e tochas."
+            "a": "Fornecemos cilindros de acetileno, cilindros de propano e GLP, geradores de acetileno, acessórios para cilindros de gás e equipamentos de refrigeração como uma linha de produtos separada."
           },
           {
             "q": "Você pode oferecer suporte à personalização OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Posso assistir a vídeos de fábrica antes de fazer um pedido?",
-            "a": "Sim. Assista aos vídeos de produção na seção Fábrica desta página. Filmagens extras, clipes de embalagem e certificados são enviados em particular mediante solicitação."
+            "a": "Sim. Assista aos vídeos de produção na página da Fábrica. Filmagens extras, clipes de embalagem e cópias de certificados são enviados em particular mediante solicitação."
           },
           {
             "q": "Vocês fornecem vídeos de produtos, especialmente para cilindros de acetileno?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Os acessórios podem ser encomendados junto com os cilindros de gás?",
-            "a": "Sim. Os acessórios podem ser fornecidos juntamente com cilindros de acetileno, cilindros de propano e geradores de acetileno."
+            "a": "Sim. Os acessórios podem ser fornecidos juntamente com cilindros de acetileno, propano e GLP e geradores de acetileno."
           },
           {
             "q": "Você oferece suporte à embalagem OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Obtenha uma cotação exata",
     "certifications": "Certificações",
     "order": "Ordem",
-    "reviews": "Avaliações",
+    "reviews": "Notas do comprador",
     "contact": "Contact",
     "phone": "Telefone",
     "location": "Localização",
@@ -587,7 +626,7 @@
     "exportReady": "Pronto para exportação",
     "years": "Anos",
     "acetylene": "Acetylene",
-    "isoCertified": "Certificado ISO",
+    "isoCertified": "Normas sob consulta",
     "globalExport": "Exportação Global",
     "products": "Produtos",
     "specs": "Especificações",
@@ -695,16 +734,16 @@
       "note": "* Os parâmetros exatos dependem do padrão (ISO/DOT/GB) e da configuração da válvula. Solicite ficha técnica para o seu mercado."
     },
     "propane": {
-      "title": "Cilindros de propano e GLP",
-      "intro": "Cilindros para misturas de propano, butano e GLP. Utilizado em aquecimento, corte, brasagem, construção e fornecimento de gás industrial.",
+      "title": "Gama de cilindros WG-P",
+      "intro": "Os modelos WG-P são uma família de cilindros de aço. O gás de enchimento — propano ou GLP (propano, butano ou misturas) — é especificado por pedido e mercado de destino.",
       "features": [
-        "Aço 37Mn/34CrMo4 conforme ISO 9809",
+        "Classe de aço e padrão de cilindro aplicável confirmados por pedido",
         "Pressão de trabalho 1,8–2,1 MPa",
-        "Válvulas POL, CGA 510, GOST",
-        "Revestimento em pó, anticorrosão",
-        "Certificados para os mercados da UE, EUA e CEI"
+        "Válvulas POL, CGA 510, GOST discutidas por mercado",
+        "Revestimento em pó e acabamento anticorrosivo",
+        "Opções de certificação discutidas por mercado de destino"
       ],
-      "tableTitle": "Modelos padrão de cilindros de propano",
+      "tableTitle": "Modelos de cilindro WG-P padrão",
       "headers": [
         "Model",
         "Volume (L)",
@@ -768,10 +807,10 @@
       "intro": "Equipamento para produção de acetileno a partir de carboneto de cálcio. Fornecimento estável de gás para soldagem e necessidades industriais sem infraestrutura de gás centralizada.",
       "features": [
         "Capacidade de produção de 3 a 100 m³/h",
-        "Alimentação automática de água e carboneto",
-        "Sistema de segurança e filtragem",
+        "Opções de alimentação de água e carboneto discutidas por modelo",
+        "Sistema de segurança e filtragem conforme especificado para o modelo",
         "Modelos compactos e industriais",
-        "Documentação completa e treinamento"
+        "Documentação do pedido fornecida. O treinamento do operador pode ser discutido mediante solicitação"
       ],
       "tableTitle": "Modelos de geradores de acetileno",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Geradores fornecidos com sistema de refrigeração, filtros e kit de peças de reposição sob consulta."
     },
     "accessories": {
-      "title": "Acessórios e conexões para cilindros",
+      "title": "Acessórios de soldagem e conexões de cilindro",
       "intro": "Gama completa para operação segura de cilindros de gás: desde medidores até tochas de soldagem. Aquisição completa com cilindros.",
       "features": [
         "Reguladores e medidores (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Tochas",
           "WG-C100, WG-C300",
           "—",
-          "Corte plasma/oxi"
+          "Corte oxicombustível"
         ],
         [
           "Queimadores",
@@ -881,7 +920,7 @@
           "Todos os tipos de cilindro"
         ]
       ],
-      "note": "*Acessórios disponíveis separadamente ou fornecidos com cilindros. Desconto em pedidos combinados."
+      "note": "*Acessórios podem ser cotados separadamente ou em conjunto com cilindros. O preço do pedido combinado é confirmado na cotação."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Exportação e Logística",
-        "desc": "Suporte completo para remessas internacionais.",
+        "desc": "Coordenação de embalagem e remessa de exportação para compradores estrangeiros.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Documentação de exportação",
-          "Frete marítimo e ferroviário"
+          "Opções de frete marítimo e ferroviário"
         ]
       },
       {
         "icon": "🔬",
         "title": "Controle de qualidade",
-        "desc": "Testes e inspeção em todas as etapas.",
+        "desc": "Inspeção e testes durante a produção de acordo com o pedido.",
         "points": [
           "Testes hidrostáticos",
-          "Inspeção de solda UT",
-          "Inspeção SGS/BV mediante solicitação"
+          "Inspeção de solda conforme especificado",
+          "Inspeção de terceiros mediante solicitação"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certificação",
         "desc": "Documentos para alfândegas e reguladores. As cópias são enviadas de forma privada mediante solicitação.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS e certificado de qualidade",
-          "Certificado de origem"
+          "Padrões discutidos por produto e mercado",
+          "MSDS e documentos de qualidade mediante solicitação",
+          "Certificado de origem a pedido"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Ajuda na seleção de produtos e configuração.",
         "points": [
           "Seleção baseada no mercado",
-          "MOQ e cálculo do prazo de entrega",
-          "Treinamento de pessoal"
+          "MOQ e prazo de entrega discutidos por pedido",
+          "Orientação do operador discutida mediante solicitação"
         ]
       },
       {
         "icon": "📦",
         "title": "Fornecimento de pacote",
-        "desc": "Cilindros + acessórios em um só pedido.",
+        "desc": "Cilindros e acessórios em um só pedido.",
         "points": [
-          "Contrato único",
+          "Consulta única",
           "Entrega coordenada",
-          "Desconto de pacote"
+          "Preços de pedido combinado na cotação"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Cilindros de gás de aço sem costura — requisitos técnicos"
+        "desc": "Cilindros de gás recarregáveis ​​de aço sem costura — aço temperado e revenido. Discutido por produto e mercado de destino."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Cilindros de acetileno dissolvido"
+        "desc": "Cilindros de gás — cilindros de gás recarregáveis ​​em aço sem costura — concepção, construção e ensaio — Parte 3: cilindros de aço normalizados. Não é um padrão para cilindros de acetileno (ver ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Cilindros de acetileno — requisitos básicos e testes de tipo. Discutido para produtos de acetileno quando solicitado. A aplicabilidade é confirmada por pedido."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Padrão de cilindro do mercado dos EUA — aplicabilidade confirmada por produto e pedido"
+        "desc": "Especificação dos EUA para cilindros de aço sem costura — aplicabilidade confirmada por produto e pedido"
       },
       {
         "name": "TPED",
-        "desc": "Requisitos de transporte europeus — discutidos por mercado de destino"
+        "desc": "Diretiva da UE sobre equipamentos sob pressão transportáveis ​​— discutida por mercado de destino"
       },
       {
         "name": "GB 5099",
-        "desc": "Padrão chinês de cilindro de gás"
+        "desc": "Norma nacional chinesa para cilindros de gás de aço sem costura — aplicabilidade confirmada por produto e pedido"
       },
       {
         "name": "CE Mark",
-        "desc": "Marcação europeia de conformidade — aplicabilidade por produto e mercado"
+        "desc": "Marcação europeia de conformidade — aplicabilidade por produto e mercado. Não é um substituto para um arquivo de certificado publicado."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "O que dizem os compradores",
+    "title": "O que os compradores industriais normalmente pedem",
     "items": [
       {
-        "quote": "Reordenamos cilindros de acetileno 40L três vezes este ano. As válvulas GOST, a cor OEM e a embalagem de exportação sempre corresponderam à primeira amostra.",
-        "author": "Rustam Yusupov",
-        "role": "Proprietário, distribuidor de gás de soldagem",
-        "country": "Uzbekistan"
+        "quote": "A cor do OEM, o tipo de válvula e a embalagem de exportação correspondem a uma amostra confirmada antes de repetir o fornecimento.",
+        "author": "Distributor inquiries",
+        "role": "Fornecimento de gás de soldagem",
+        "country": "Central Asia"
       },
       {
-        "quote": "A cotação veio no mesmo dia com um MOQ e prazo de entrega claros. As garrafas de propano chegaram com válvulas POL e lista de embalagem completa – sem atrasos alfandegários da nossa parte.",
-        "author": "Aigerim Bekova",
-        "role": "Gerente de compras, suprimentos industriais",
-        "country": "Kazakhstan"
+        "quote": "Quantidade mínima clara, prazo de entrega e lista de embalagem confirmados na cotação - não como preços fixos no site.",
+        "author": "Procurement inquiries",
+        "role": "Fornecimento industrial",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Compramos cilindros com reguladores e mangueiras como um pedido de contêiner. Os documentos e marcações estavam prontos para o nosso mercado, então a revenda foi simples.",
-        "author": "Faisal Al-Harbi",
-        "role": "Comprador de importação, comércio de equipamentos de gás",
-        "country": "Saudi Arabia"
+        "quote": "Cilindros com reguladores e mangueiras cotados como um pedido combinado, com marcação discutida para o mercado de destino.",
+        "author": "Import inquiries",
+        "role": "Comércio de equipamentos a gás",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Quem somos",
     "title": "Fabricante industrial para compradores B2B",
-    "text": "O Wanda Groups fabrica e fornece cilindros de gás industriais, geradores e acessórios de soldagem para distribuidores estrangeiros, parceiros OEM e compradores de projetos.",
+    "text": "O Wanda Groups fabrica e fornece cilindros de gás industriais, geradores, acessórios de soldagem e equipamentos de refrigeração para distribuidores estrangeiros, parceiros OEM e compradores de projetos.",
     "text2": "Nosso foco é o fornecimento vinculado à fábrica, suporte à seleção de produtos, pedidos em grandes quantidades e coordenação de exportação – e não vendas ao consumidor no varejo.",
     "cta": "Saiba mais sobre nós"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Pronto para solicitar um orçamento?",
       "quoteCta": "Solicite um orçamento",
       "relatedProducts": "Produtos relacionados",
+      "productFamilies": "Famílias de produtos",
       "applications": "Applications",
       "standardsTitle": "Padrões e certificação",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Fabricante de cilindros de gás | OEM Industrial e Exportação | Grupos Wanda",
-      "seoDescription": "O Wanda Groups fabrica cilindros de gás industrial, geradores e acessórios de soldagem para OEM, compradores atacadistas e de exportação internacional."
+      "seoDescription": "O Wanda Groups fabrica cilindros de gás industrial, geradores, acessórios de soldagem e equipamentos de refrigeração para OEM, compradores atacadistas e de exportação internacional."
     },
     "about": {
       "label": "Sobre nós",
       "title": "Fabricante de cilindros de gás para compradores industriais",
       "subtitle": "Apoiamos compradores estrangeiros com seleção de produtos, OEM, inspeção, embalagem e envio.",
       "seoTitle": "Sobre Grupo Wanda",
-      "seoDescription": "O Grupo Wanda fabrica cilindros de acetileno, cilindros de propano, geradores e acessórios para soldagem, corte e fornecimento de gases industriais."
+      "seoDescription": "O Grupo Wanda fabrica cilindros de acetileno, propano e GLP, geradores, acessórios de soldagem e equipamentos de refrigeração para compradores industriais de exportação."
     },
     "products": {
       "label": "Produtos",
       "title": "Nossos produtos",
-      "subtitle": "Cilindros de acetileno, geradores, cilindros de propano e acessórios para aplicações industriais e de soldagem.",
+      "subtitle": "Cilindros de acetileno, propano e GLP, geradores, acessórios de soldagem e equipamentos de refrigeração para compradores industriais.",
       "seoTitle": "Produtos para cilindros de gás",
-      "seoDescription": "Cilindros de acetileno, geradores, cilindros de propano e acessórios para aplicações industriais e de soldagem.",
+      "seoDescription": "Cilindros de acetileno, propano e GLP, geradores de acetileno, acessórios de soldagem e equipamentos de refrigeração do Grupo Wanda.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindros de acetileno dissolvido",
           "overview": "Cilindros de aço com massa porosa e solvente para armazenamento e transporte seguro de acetileno. Utilizado em soldagem, corte, brasagem e fabricação de metais.",
+          "application": "Soldagem, corte e brasagem oxi-acetileno",
           "seoTitle": "Cilindros de Gás Acetileno",
           "seoDescription": "Cilindros de aço com massa porosa e solvente para armazenamento e transporte seguro de acetileno. Utilizado em soldagem, corte, brasagem e fabricação de metais."
         },
         "propane": {
           "name": "Cilindros de Propano",
-          "overview": "Cilindros de aço para armazenamento e transporte de gás propano. Usado para aquecimento, fornecimento de propano industrial, cozimento e corte de oxicombustível quando combinado com acetileno.",
+          "overview": "Cilindros de aço especificados para enchimento de propano. Usado para aquecimento, fornecimento de propano industrial, cozimento e corte de oxicombustível quando combinado com acetileno.",
+          "application": "Aquecimento industrial de propano, corte e fornecimento de plantas",
+          "familyNote": "Cilindros de propano e cilindros de GLP usam a mesma linha de cilindros de aço WG-P. Esta página cobre o preenchimento de propano e usos específicos de propano. As misturas de GLP e o fornecimento de distribuição estão descritos na página Cilindros de GLP.",
           "seoTitle": "Cilindros de Gás Propano",
-          "seoDescription": "Cilindros de gás propano em aço para aquecimento, fornecimento industrial e aplicações de corte. Opções de exportação e OEM discutidas por pedido."
+          "seoDescription": "Cilindros de aço para enchimento de propano — aquecimento, abastecimento industrial e corte de oxicombustível. Mesma faixa WG-P do GLP; encha o gás especificado por pedido."
         },
         "lpg": {
           "name": "Cilindros de GLP",
-          "overview": "Cilindros para gás liquefeito de petróleo (GLP) — propano, butano ou misturas mistas. Comum para distribuição residencial e comercial de GLP, camping, aquecimento e abastecimento portátil de combustível.",
+          "overview": "Cilindros para gás liquefeito de petróleo (GLP) — propano, butano ou misturas mistas. Usado para distribuição residencial e comercial de GLP, camping, aquecimento e fornecimento portátil de combustível.",
+          "application": "Distribuição de GLP, combustível portátil e aquecimento baseado em mistura",
+          "familyNote": "Cilindros de GLP e cilindros de propano usam a mesma linha de cilindros de aço WG-P. Esta página aborda misturas de GLP e uso de distribuição. O preenchimento somente de propano e os usos industriais de propano estão descritos na página Cilindros de Propano.",
           "seoTitle": "Cilindros de gás GLP",
-          "seoDescription": "Cilindros de GLP para distribuição e abastecimento portátil de gás liquefeito de petróleo residencial, comercial e industrial."
+          "seoDescription": "Cilindros de GLP para distribuição de gás liquefeito de petróleo residencial, comercial e industrial. Mesma faixa WG-P dos cilindros de propano; preenchimento especificado por pedido."
         },
         "industrial": {
           "name": "Cilindros de Gás Industriais",
           "overview": "Cilindros de gás industrial para soldagem, corte e fornecimento de plantas — incluindo opções de acetileno, propano e GLP adequadas ao seu mercado.",
+          "application": "Fornecimento de cilindros para plantas, distribuidores e projetos",
           "seoTitle": "Cilindros de Gás Industriais",
           "seoDescription": "Cilindros de gás industrial para soldagem, corte e fornecimento de plantas do Grupo Wanda."
         },
         "generators": {
           "name": "Geradores de acetileno",
           "overview": "Equipamento para produção de acetileno a partir de carboneto de cálcio. Fornecimento estável de gás para soldagem e necessidades industriais sem infraestrutura de gás centralizada.",
+          "application": "Geração de acetileno no local a partir de carboneto de cálcio",
           "seoTitle": "Geradores de acetileno",
           "seoDescription": "Equipamento para produção de acetileno a partir de carboneto de cálcio. Fornecimento estável de gás para soldagem e necessidades industriais sem infraestrutura de gás centralizada."
         },
         "accessories": {
-          "name": "Acessórios e conexões para cilindros",
+          "name": "Acessórios de soldagem e conexões de cilindro",
           "overview": "Gama completa para operação segura de cilindros de gás: desde medidores até tochas de soldagem. Aquisição completa com cilindros.",
-          "seoTitle": "Acessórios de soldagem",
-          "seoDescription": "Gama completa para operação segura de cilindros de gás: desde medidores até tochas de soldagem. Aquisição completa com cilindros."
+          "application": "Configurações, reguladores, mangueiras, válvulas e medidores de oxicombustível",
+          "seoTitle": "Acessórios de soldagem e conexões de cilindro",
+          "seoDescription": "Acessórios de soldagem e conexões de cilindros — reguladores, mangueiras, manômetros, tochas e válvulas, fornecidos com cilindros ou separadamente."
         },
         "refrigeration": {
           "name": "Unidades de refrigeração",
           "overview": "Uma linha separada do Wanda Group – não um catálogo de terceiros. Unidades condensadoras, câmaras frigoríficas e ferragens, fornecidas por nós com cilindros ou como pedido independente.",
+          "application": "Câmaras frigoríficas, cadeia de frio alimentar e refrigeração industrial",
           "seoTitle": "Unidades de refrigeração",
-          "seoDescription": "Uma linha separada do Wanda Group – não um catálogo de terceiros. Unidades condensadoras, câmaras frigoríficas e ferragens, fornecidas por nós com cilindros ou como pedido independente."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

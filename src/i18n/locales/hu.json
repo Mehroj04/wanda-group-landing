@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Ipari gázpalack gyártó",
     "title": "Ipari gázpalackok és berendezések gyártója",
-    "subtitle": "Acetilénpalackok, propán/LPG-palackok, generátorok és hegesztési tartozékok gyártása, OEM- és nagykereskedelmi értékesítése nemzetközi exportfelvevők számára.",
+    "subtitle": "Acetilén-, propán- és LPG-palackok, generátorok, hegesztési kellékek és hűtőberendezések gyártása, OEM- és nagykereskedelmi szállítása nemzetközi export vásárlók számára.",
     "lineGas": "Gázpalackok",
     "lineCold": "Hűtőegységek",
     "cta": "Kérjen árajánlatot",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Termékeink",
-    "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+    "subtitle": "Acetilén, propán és PB gázpalackok, generátorok, hegesztési tartozékok és hűtőberendezések ipari vásárlóknak.",
     "viewDetails": "Részletek megtekintése",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propán henger",
         "spec": "3L–50L · szelep opciók piaconként",
-        "desc": "Tartós PB-gázpalackok fűtéshez, vágáshoz és ipari használatra.",
+        "desc": "Acélhengerek propán töltéshez - fűtéshez, vágáshoz és ipari ellátáshoz.",
         "icon": "🛢️"
       },
       {
-        "title": "Henger tartozékok",
+        "title": "Hegesztési tartozékok",
         "spec": "Szelepek · szabályozók · tömlők · pisztolyok",
-        "desc": "Hozzáillő szerelvények hengerrel együtt vagy külön megrendelésre.",
+        "desc": "Hegesztési tartozékok és hengerszerelvények, hengerekkel együtt vagy külön szállítva.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Gyógyszerészeti és orvosi hűtőház",
       "Logisztika és hűtött szállítás",
       "Ipari hűtő- és technológiai hűtők"
+    ],
+    "acetylene": [
+      "Oxi-acetilén hegesztés",
+      "Oxi-üzemanyag vágás",
+      "Forrasztás és fűtés",
+      "Fémgyártó üzletek",
+      "Hajógyári és karbantartási munkák"
+    ],
+    "propane": [
+      "Ipari propán fűtés",
+      "Oxi-üzemanyag vágás acetilénnel",
+      "Műhely- és épületfűtés",
+      "Növény propán ellátás",
+      "Főzési és feldolgozási hő, ahol a propánt előírják"
+    ],
+    "lpg": [
+      "Lakossági és kereskedelmi LPG forgalmazás",
+      "Hordozható LPG üzemanyag-ellátó",
+      "Kemping és vendéglátó gáz",
+      "Fűtés LPG keverékkel",
+      "LPG-palack töltés nagykereskedelme helyi piacokra"
+    ],
+    "industrial": [
+      "Hegesztési és vágási gázellátás",
+      "Üzem és műhely hengerkészlet",
+      "Elosztó ipari gázvezetékek",
+      "Projekt és építkezések"
+    ],
+    "generators": [
+      "Helyszíni acetilén gyártás kalcium-karbidból",
+      "Műhelyek palackozott acetilénellátás nélkül",
+      "Hegesztés és vágás, ahol a hengerlogisztika korlátozott",
+      "Helyi acetilénforrást igénylő ipari telephelyek"
+    ],
+    "accessories": [
+      "Henger és szabályozó szerelvények",
+      "Oxi-üzemanyagos hegesztési és vágási beállítások",
+      "Tömlő, idomszer és szelepcsere",
+      "Műhely gázkezelési biztonsági szerelvények"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Gázpalack gyártó ipari vásárlóknak",
-    "text": "A Wanda Group acetilénpalackokat, propánpalackokat, generátorokat és tartozékokat gyárt hegesztéshez, vágáshoz és ipari gázellátáshoz.",
+    "text": "A Wanda Group acetilénpalackokat, propán- és LPG-palackokat, generátorokat és hegesztési tartozékokat gyárt, valamint hűtőberendezéseket is szállít ipari vásárlóknak.",
     "text2": "Támogatjuk a tengerentúli vásárlókat termékválasztással, OEM-ekkel, ellenőrzéssel, csomagolással és szállítással.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Milyen termékeket szállít elsősorban?",
-            "a": "Acetilénpalackokat, propánpalackokat, acetiléngenerátorokat és gázpalack-tartozékokat, például szelepeket, szabályozókat, tömlőket, nyomásmérőket és égőket szállítunk."
+            "a": "Külön termékcsaládként szállítunk acetilénpalackokat, propán- és LPG-palackokat, acetiléngenerátorokat, gázpalack-tartozékokat, hűtőberendezéseket."
           },
           {
             "q": "Támogathatja az OEM testreszabását?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Megnézhetek gyári videókat rendelés előtt?",
-            "a": "Igen. Tekintse meg a gyártási videókat ezen az oldalon a Gyár részében. További felvételeket, csomagoló klipeket és tanúsítványokat kérésre privátban küldünk."
+            "a": "Igen. Tekintse meg a gyártási videókat a Gyári oldalon. További felvételeket, csomagoló klipeket és tanúsítványmásolatokat kérésre privátban küldünk."
           },
           {
             "q": "Biztosítasz termékvideókat, különösen az acetilénpalackokról?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Gázpalackokkal együtt rendelhetők tartozékok?",
-            "a": "Igen. A tartozékok acetilén palackokkal, propán palackokkal és acetilén generátorokkal együtt szállíthatók."
+            "a": "Igen. A tartozékok acetilén-, propán- és LPG-palackokkal és acetiléngenerátorokkal együtt szállíthatók."
           },
           {
             "q": "Támogatja az OEM csomagolást?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Kérjen pontos árajánlatot",
     "certifications": "Tanúsítványok",
     "order": "Rendelés",
-    "reviews": "Vélemények",
+    "reviews": "Vevő megjegyzései",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Elhelyezkedés",
@@ -587,7 +626,7 @@
     "exportReady": "Exportálás kész",
     "years": "Évek",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO minősítéssel",
+    "isoCertified": "Szabványok kérésre",
     "globalExport": "Globális export",
     "products": "Termékek",
     "specs": "Műszaki adatok",
@@ -695,16 +734,16 @@
       "note": "* A pontos paraméterek a szabványtól (ISO/DOT/GB) és a szelepkonfigurációtól függenek. Kérjen specifikációs lapot az Ön piacához."
     },
     "propane": {
-      "title": "Propán és LPG palackok",
-      "intro": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+      "title": "WG-P hengerválaszték",
+      "intro": "A WG-P modellek egy acélhengercsaládot alkotnak. Töltőgáz – propán vagy LPG (propán, bután vagy keverékek) – megrendelésenként és célpiaconként van meghatározva.",
       "features": [
-        "37Mn/34CrMo4 acél az ISO 9809 szerint",
+        "Az acélminőség és az alkalmazandó hengerszabvány megrendelésenként visszaigazolva",
         "Üzemi nyomás 1,8-2,1 MPa",
-        "POL, CGA 510, GOST szelepek",
-        "Porfestés, korróziógátló",
-        "Tanúsítványok EU, USA, FÁK piacokra"
+        "POL, CGA 510, GOST szelepek piaconként tárgyalva",
+        "Porbevonat és korróziógátló bevonat",
+        "A tanúsítási lehetőségeket célpiaconként tárgyaljuk"
       ],
-      "tableTitle": "Szabványos propán hengeres modellek",
+      "tableTitle": "Szabványos WG-P hengeres modellek",
       "headers": [
         "Model",
         "Hangerő (L)",
@@ -768,10 +807,10 @@
       "intro": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül.",
       "features": [
         "Teljesítmény 3-100 m³/h teljesítmény",
-        "Automatikus víz és keményfém adagolás",
-        "Biztonsági rendszer és szűrés",
+        "A víz és keményfém adagolási lehetőségek modellenként tárgyalva",
+        "Biztonsági rendszer és szűrés a modellnek megfelelően",
         "Kompakt és ipari modellek",
-        "Teljes dokumentáció és képzés"
+        "Rendelési dokumentáció mellékelve. Igény szerint kezelői képzés megbeszélhető"
       ],
       "tableTitle": "Acetilén generátor modellek",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Kérésre hűtőrendszerrel, szűrőkkel és pótalkatrészkészlettel szállított generátorok."
     },
     "accessories": {
-      "title": "Hengertartozékok és szerelvények",
+      "title": "Hegesztési tartozékok és hengerszerelvények",
       "intro": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel.",
       "features": [
         "Szabályozók és műszerek (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Fáklyák",
           "WG-C100, WG-C300",
           "—",
-          "Plazma/oxi vágás"
+          "Oxi-üzemanyag vágás"
         ],
         [
           "Égők",
@@ -881,7 +920,7 @@
           "Minden hengertípus"
         ]
       ],
-      "note": "* A tartozékok külön-külön vagy hengerekkel együtt kaphatók. Kombinált rendelés esetén kedvezmény."
+      "note": "* A tartozékok külön-külön vagy hengerekkel együtt is megvásárolhatók. A kombinált rendelési ár az árajánlatban megerősített."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export és Logisztika",
-        "desc": "Teljes körű nemzetközi szállítmányozási támogatás.",
+        "desc": "Export-csomagolás és szállítás koordinálása tengerentúli vásárlók számára.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Export dokumentáció",
-          "Tengeri és vasúti árufuvarozás"
+          "Tengeri és vasúti áruszállítási lehetőségek"
         ]
       },
       {
         "icon": "🔬",
         "title": "Minőségellenőrzés",
-        "desc": "Tesztelés és ellenőrzés minden szakaszban.",
+        "desc": "Gyártás közbeni ellenőrzés és tesztelés megrendelés szerint.",
         "points": [
           "Hidrosztatikai vizsgálatok",
-          "UT hegesztési ellenőrzés",
-          "SGS/BV ellenőrzés kérésre"
+          "Hegesztési ellenőrzés az előírások szerint",
+          "Kérésre harmadik fél általi ellenőrzés"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Tanúsítvány",
         "desc": "Dokumentumok a vám- és szabályozó hatóságok számára. A másolatokat kérésre privátban küldjük.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS és minőségi tanúsítvány",
-          "Származási bizonyítvány"
+          "Termékenként és piaconként tárgyalt szabványok",
+          "MSDS és minőségi dokumentumok kérésre",
+          "Származási bizonyítvány kérésre"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Segítség a termékek kiválasztásában és a konfigurációban.",
         "points": [
           "Piaci alapú kiválasztás",
-          "MOQ és átfutási idő számítás",
-          "A személyzet képzése"
+          "MOQ és átfutási idő rendelésenként megbeszélve",
+          "Üzemeltetői útmutatás kérésre megbeszélve"
         ]
       },
       {
         "icon": "📦",
         "title": "Csomag ellátás",
-        "desc": "Hengerek + tartozékok egy rendelésben.",
+        "desc": "Hengerek és tartozékok egy rendelésben.",
         "points": [
-          "Egyetlen szerződés",
+          "Egyetlen lekérdezés",
           "Összehangolt szállítás",
-          "Csomag kedvezmény"
+          "Kombinált rendeléses árképzés az árajánlatban"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Varrat nélküli acél gázpalackok – műszaki követelmények"
+        "desc": "Újratölthető varrat nélküli acél gázpalackok - edzett és edzett acél. Termék- és célpiaconként tárgyalva."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Oldott acetilén palackok"
+        "desc": "Gázpalackok – Újratölthető varrat nélküli acél gázpalackok – Tervezés, felépítés és tesztelés – 3. rész: Normalizált acélpalackok. Nem acetilén-henger szabvány (lásd ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetilén palackok – alapvető követelmények és típusvizsgálat. Kérésre acetilén termékeknél tárgyaljuk. Az alkalmazhatóságot megrendelésenként igazoljuk."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Amerikai piaci henger szabvány – az alkalmazhatóság termékenként és rendelésenként megerősítve"
+        "desc": "Varrat nélküli acélhengerekre vonatkozó amerikai specifikáció – az alkalmazhatóság termékenként és rendelésenként megerősítve"
       },
       {
         "name": "TPED",
-        "desc": "Európai szállítási követelmények – célpiaconként tárgyalva"
+        "desc": "Az EU szállítható nyomástartó berendezésekről szóló irányelve – célpiaconként tárgyalva"
       },
       {
         "name": "GB 5099",
-        "desc": "Kínai gázpalack szabvány"
+        "desc": "Kínai nemzeti szabvány a varrat nélküli acél gázpalackokhoz – az alkalmazhatóság termékenként és rendelésenként megerősítve"
       },
       {
         "name": "CE Mark",
-        "desc": "Európai megfelelőségi jelölés – alkalmazhatóság termékenként és piaconként"
+        "desc": "Európai megfelelőségi jelölés – alkalmazhatóság termékenként és piaconként. Nem helyettesíti a közzétett tanúsítványfájlt."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Amit a vásárlók mondanak",
+    "title": "Amit az ipari vásárlók általában kérnek",
     "items": [
       {
-        "quote": "Idén háromszor rendeltünk újra 40 literes acetilén palackot. A GOST szelepek, az OEM színek és az export csomagolás minden alkalommal megfelelt az első mintának.",
-        "author": "Rustam Yusupov",
-        "role": "Tulajdonos, hegesztőgáz elosztó",
-        "country": "Uzbekistan"
+        "quote": "Az OEM színe, szeleptípusa és exportcsomagolása egy megerősített mintához igazítva az ismételt szállítás előtt.",
+        "author": "Distributor inquiries",
+        "role": "Hegesztési gázellátás",
+        "country": "Central Asia"
       },
       {
-        "quote": "Az árajánlat ugyanazon a napon érkezett egyértelmű MOQ-val és átfutási idővel. A propánpalackok POL szelepekkel és teljes csomagolási listával érkeztek – a mi oldalunkon nincs vámkésés.",
-        "author": "Aigerim Bekova",
-        "role": "Beszerzési vezető, ipari ellátás",
-        "country": "Kazakhstan"
+        "quote": "Az árajánlatban megerősített tiszta MOQ, átfutási idő és csomagolási lista – nem fix weboldal árak.",
+        "author": "Procurement inquiries",
+        "role": "Ipari ellátás",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Szabályozóval és tömlővel ellátott palackokat egy konténeres megrendelésként vásárolunk. A dokumentumok és a jelölés készen állt a piacunkra, így a továbbértékesítés egyszerű volt.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import vevő, gázkészülék kereskedés",
-        "country": "Saudi Arabia"
+        "quote": "Szabályozókkal és tömlőkkel ellátott palackok egy kombinált rendelésként, a célpiacon tárgyalt jelöléssel.",
+        "author": "Import inquiries",
+        "role": "Gázberendezés kereskedés",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kik vagyunk",
     "title": "Ipari gyártó B2B vásárlók számára",
-    "text": "A Wanda Groups ipari gázpalackokat, generátorokat és hegesztési tartozékokat gyárt és szállít tengerentúli forgalmazók, OEM-partnerek és projektvásárlók számára.",
+    "text": "A Wanda Groups ipari gázpalackokat, generátorokat, hegesztési tartozékokat és hűtőberendezéseket gyárt és szállít tengerentúli forgalmazók, OEM-partnerek és projektvásárlók számára.",
     "text2": "Célunk a gyárilag kötött ellátás, a termékválasztás támogatása, a tömeges rendelések és az exportkoordináció – nem a kiskereskedelmi fogyasztói értékesítés.",
     "cta": "Tudjon meg többet rólunk"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Készen áll árajánlat kérésére?",
       "quoteCta": "Kérjen árajánlatot",
       "relatedProducts": "Kapcsolódó termékek",
+      "productFamilies": "Termékcsaládok",
       "applications": "Applications",
       "standardsTitle": "Szabványok és tanúsítás",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gázpalack gyártó | Ipari OEM és export | Wanda csoportok",
-      "seoDescription": "A Wanda Groups ipari gázpalackokat, generátorokat és hegesztési tartozékokat gyárt OEM-, nagykereskedelmi és nemzetközi exportvásárlók számára."
+      "seoDescription": "A Wanda Groups ipari gázpalackokat, generátorokat, hegesztési tartozékokat és hűtőberendezéseket gyárt OEM-, nagykereskedelmi és nemzetközi exportvevők számára."
     },
     "about": {
       "label": "Rólunk",
       "title": "Gázpalack gyártó ipari vásárlóknak",
       "subtitle": "Támogatjuk a tengerentúli vásárlókat termékválasztással, OEM-ekkel, ellenőrzéssel, csomagolással és szállítással.",
       "seoTitle": "A Wanda csoportról",
-      "seoDescription": "A Wanda Group acetilénpalackokat, propánpalackokat, generátorokat és tartozékokat gyárt hegesztéshez, vágáshoz és ipari gázellátáshoz."
+      "seoDescription": "A Wanda Group acetilén-, propán- és PB-gázpalackokat, generátorokat, hegesztési tartozékokat és hűtőberendezéseket gyárt ipari exportvásárlók számára."
     },
     "products": {
       "label": "Termékek",
       "title": "Termékeink",
-      "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+      "subtitle": "Acetilén, propán és PB gázpalackok, generátorok, hegesztési tartozékok és hűtőberendezések ipari vásárlóknak.",
       "seoTitle": "Gázpalack termékek",
-      "seoDescription": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+      "seoDescription": "Acetilén, propán és LPG palackok, acetilén generátorok, hegesztési tartozékok és hűtőberendezések a Wanda csoporttól.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Oldott acetilén palackok",
           "overview": "Porózus tömegű és oldószeres acélhengerek az acetilén biztonságos tárolására és szállítására. Hegesztéshez, vágáshoz, keményforrasztáshoz és fémgyártáshoz használják.",
+          "application": "Oxi-acetilén hegesztés, vágás és keményforrasztás",
           "seoTitle": "Acetilén gázpalackok",
           "seoDescription": "Porózus tömegű és oldószeres acélhengerek az acetilén biztonságos tárolására és szállítására. Hegesztéshez, vágáshoz, keményforrasztáshoz és fémgyártáshoz használják."
         },
         "propane": {
           "name": "Propán hengerek",
-          "overview": "Acél palackok propángáz tárolására és szállítására. Fűtéshez, ipari propánellátáshoz, főzéshez és oxi-üzemanyag-vágáshoz acetilénnel párosítva.",
+          "overview": "Acél hengerek propán töltéshez. Fűtéshez, ipari propánellátáshoz, főzéshez és oxi-üzemanyag-vágáshoz acetilénnel párosítva.",
+          "application": "Ipari propán fűtés, vágás és üzemellátás",
+          "familyNote": "A propán- és PB-palackok ugyanazt a WG-P acélpalack-sorozatot használják. Ez az oldal a propán töltetet és a propánspecifikus felhasználásokat ismerteti. Az LPG-keverékek és az elosztási ellátás leírása az LPG-palackok oldalon található.",
           "seoTitle": "Propán gázpalackok",
-          "seoDescription": "Acél propán gázpalackok fűtéshez, ipari ellátáshoz és vágási alkalmazásokhoz. Az export és az OEM opciók megbeszélése rendelésenként."
+          "seoDescription": "Acélhengerek propán töltéshez - fűtéshez, ipari ellátáshoz és oxigén-üzemanyag-vágáshoz. Ugyanaz a WG-P tartomány, mint az LPG; rendelésre meghatározott gázt tölteni."
         },
         "lpg": {
           "name": "LPG hengerek",
-          "overview": "Palackok cseppfolyósított kőolajgázhoz (LPG) – propán, bután vagy vegyes keverékek. Általános lakossági és kereskedelmi PB-gáz-elosztáshoz, kempingezéshez, fűtéshez és hordozható üzemanyag-ellátáshoz.",
+          "overview": "Palackok cseppfolyósított kőolajgázhoz (LPG) – propán, bután vagy vegyes keverékek. Lakossági és kereskedelmi LPG-elosztásra, kempingezésre, fűtésre és hordozható üzemanyag-ellátásra használják.",
+          "application": "LPG elosztás, hordozható üzemanyag és keverék alapú fűtés",
+          "familyNote": "Az LPG-palackok és a propánpalackok ugyanazt a WG-P acélpalack-sorozatot használják. Ez az oldal az LPG-keverékekkel és a forgalmazási felhasználással foglalkozik. A csak propán töltet és az ipari propán felhasználások leírása a Propánpalackok oldalon található.",
           "seoTitle": "LPG gázpalackok",
-          "seoDescription": "PB-gázpalackok lakossági, kereskedelmi és ipari cseppfolyósított kőolajgáz elosztására és hordozható ellátására."
+          "seoDescription": "LPG palackok lakossági, kereskedelmi és ipari cseppfolyósított kőolajgáz elosztásához. Ugyanaz a WG-P tartomány, mint a propán hengereknél; rendelésenként megadott kitöltéssel."
         },
         "industrial": {
           "name": "Ipari gázpalackok",
           "overview": "Ipari gázpalackok hegesztéshez, vágáshoz és berendezések ellátásához – beleértve az acetilén, propán és LPG opciókat az Ön piacához igazodva.",
+          "application": "Üzem, forgalmazó és projekthenger ellátás",
           "seoTitle": "Ipari gázpalackok",
           "seoDescription": "Ipari gázpalackok hegesztéshez, vágáshoz és berendezések ellátásához a Wanda csoporttól."
         },
         "generators": {
           "name": "Acetilén generátorok",
           "overview": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül.",
+          "application": "Helyszíni acetilén előállítás kalcium-karbidból",
           "seoTitle": "Acetilén generátorok",
           "seoDescription": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül."
         },
         "accessories": {
-          "name": "Hengertartozékok és szerelvények",
+          "name": "Hegesztési tartozékok és hengerszerelvények",
           "overview": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel.",
-          "seoTitle": "Hegesztési tartozékok",
-          "seoDescription": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel."
+          "application": "Oxi-üzemanyag beállítások, szabályozók, tömlők, szelepek és mérőeszközök",
+          "seoTitle": "Hegesztési tartozékok és hengerszerelvények",
+          "seoDescription": "Hegesztési tartozékok és hengerszerelvények – szabályozók, tömlők, mérők, égők és szelepek, hengerrel együtt vagy külön szállítva."
         },
         "refrigeration": {
           "name": "Hűtőegységek",
           "overview": "Különálló Wanda Group termékcsalád – nem harmadik fél katalógusa. Kondenzációs egységek, hűtőkamrák és vasalatok, amelyeket hengerrel vagy önálló rendelésként szállítunk.",
+          "application": "Hűtőkamrák, élelmiszer-hűtőlánc és ipari hűtés",
           "seoTitle": "Hűtőegységek",
-          "seoDescription": "Különálló Wanda Group termékcsalád – nem harmadik fél katalógusa. Kondenzációs egységek, hűtőkamrák és vasalatok, amelyeket hengerrel vagy önálló rendelésként szállítunk."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

@@ -17,6 +17,7 @@ import {
 
 const PAGES = [
   { path: '/about', key: 'about' },
+  { path: '/products', key: 'products' },
   { path: '/factory', key: 'factory' },
   { path: '/certifications', key: 'certificationsPage' },
   { path: '/oem', key: 'oem' },
@@ -57,6 +58,52 @@ function buildCardGrid(items, headingLevel = 'h2') {
       return `<article>${title}${text}${q}${a}</article>`
     })
     .join('')
+}
+
+function buildProductsHubBody(p) {
+  const catalog = [
+    { slug: 'acetylene-cylinders', key: 'acetylene' },
+    { slug: 'propane-cylinders', key: 'propane' },
+    { slug: 'lpg-cylinders', key: 'lpg' },
+    { slug: 'industrial-gas-cylinders', key: 'industrial' },
+    { slug: 'generators', key: 'generators' },
+    { slug: 'welding-accessories', key: 'accessories' },
+    { slug: 'refrigeration', key: 'refrigeration' },
+  ]
+
+  const cards = catalog
+    .map(({ slug, key }) => {
+      const cat = p.catalog[key]
+      const application = cat.application ? `<p>${esc(cat.application)}</p>` : ''
+      return `
+        <article>
+          <h2><a href="${pageUrl(`/products/${slug}`, 'en')}">${esc(cat.name)}</a></h2>
+          <p>${esc(cat.overview)}</p>
+          ${application}
+          <p><a href="${pageUrl(`/products/${slug}`, 'en')}">${esc(EN.products.viewDetails)}</a></p>
+        </article>
+      `
+    })
+    .join('')
+
+  return `
+    <main id="static-prerender" data-prerender="page" data-page-path="/products">
+      ${buildBreadcrumbs([
+        { label: EN.nav.home, href: '/' },
+        { label: EN.nav.products },
+      ])}
+      <article>
+        <h1>${esc(p.title)}</h1>
+        <p>${esc(p.subtitle)}</p>
+        <section>
+          ${cards}
+        </section>
+        <p>${esc(p.refrigerationNote)}</p>
+        ${buildQuoteCta()}
+      </article>
+      ${buildSiteNav()}
+    </main>
+  `
 }
 
 function buildAboutBody(p) {
@@ -283,6 +330,8 @@ function buildContactBody(p) {
           <p>${esc(cta.subtitle)}</p>
           <p>Email: sales@wandagroups.com</p>
           <p>Phone / WhatsApp: +998 50 713 66 46</p>
+          <p>Telegram: @sh987789</p>
+          <p>WeChat: +86 130 8285 5282</p>
         </section>
         ${buildQuoteCta()}
       </article>
@@ -296,6 +345,8 @@ function buildBody(path, key) {
   switch (path) {
     case '/about':
       return buildAboutBody(p)
+    case '/products':
+      return buildProductsHubBody(p)
     case '/factory':
       return buildFactoryBody(p)
     case '/certifications':
@@ -318,6 +369,7 @@ function buildBody(path, key) {
 function pageLabel(path) {
   const map = {
     '/about': EN.nav.about,
+    '/products': EN.nav.products,
     '/factory': EN.nav.factory,
     '/certifications': EN.nav.certifications,
     '/oem': EN.nav.oem,

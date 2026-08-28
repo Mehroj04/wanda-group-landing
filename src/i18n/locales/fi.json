@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Teollisuuden kaasupullojen valmistaja",
     "title": "Teollisuuden kaasupullojen ja -laitteiden valmistaja",
-    "subtitle": "Asetyleenisylintereiden, propaani/nestekaasusylintereiden, generaattoreiden ja hitsaustarvikkeiden valmistus, OEM- ja tukkumyynti kansainvälisille vientiostijoille.",
+    "subtitle": "Asetyleeni-, propaani- ja nestekaasusylintereiden, generaattoreiden, hitsaustarvikkeiden ja jäähdytyslaitteiden valmistus, OEM- ja tukkumyynti kansainvälisille vientiostijoille.",
     "lineGas": "Kaasupullot",
     "lineCold": "Jäähdytysyksiköt",
     "cta": "Pyydä tarjous",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Tuotteemme",
-    "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+    "subtitle": "Asetyleeni-, propaani- ja nestekaasusylinterit, generaattorit, hitsaustarvikkeet ja jäähdytyslaitteet teollisille ostajille.",
     "viewDetails": "Näytä tiedot",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propaani sylinteri",
         "spec": "3L–50L · venttiilivaihtoehdot markkinakohtaisesti",
-        "desc": "Kestävät nestekaasusylinterit lämmitykseen, leikkaamiseen ja teollisuuskäyttöön.",
+        "desc": "Terässylinterit propaanin täyttöön - lämmitys, leikkaus ja teollisuuden syöttö.",
         "icon": "🛢️"
       },
       {
-        "title": "Sylinterin tarvikkeet",
+        "title": "Hitsaustarvikkeet",
         "spec": "Venttiilit · säätimet · letkut · polttimet",
-        "desc": "Sopivat liittimet toimitetaan sylintereiden kanssa tai erillisenä tilauksena.",
+        "desc": "Hitsaustarvikkeet ja sylinteriliittimet, toimitetaan sylintereiden kanssa tai erikseen.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaseuttiset ja lääketieteelliset kylmävarastot",
       "Logistiikka ja kylmäkuljetus",
       "Teollisuuden jäähdytys- ja prosessijäähdyttimet"
+    ],
+    "acetylene": [
+      "Happi-asetyleenihitsaus",
+      "Happi-polttoaineleikkaus",
+      "Juottaminen ja lämmitys",
+      "Metallien valmistusliikkeet",
+      "Telakka- ja huoltotyöt"
+    ],
+    "propane": [
+      "Teollinen propaanilämmitys",
+      "Happi-polttoaineleikkaus asetyleenillä",
+      "Työpaja- ja rakennuslämmitys",
+      "Kasvien propaanin tarjonta",
+      "Keitto- ja prosessilämpö, ​​jossa propaani on määritelty"
+    ],
+    "lpg": [
+      "Asuin- ja kaupallinen nestekaasun jakelu",
+      "Kannettava nestekaasupolttoaineen syöttö",
+      "Leirintä- ja ruokailukaasu",
+      "Lämmitys nestekaasusekoituksella",
+      "Nestekaasusylinterien tukkumyynti paikallisille markkinoille"
+    ],
+    "industrial": [
+      "Hitsaus- ja leikkauskaasun syöttö",
+      "Tehdas- ja työpajan sylinterivarasto",
+      "Jakelija teollisuuskaasulinjat",
+      "Projekti- ja rakennustyömaat"
+    ],
+    "generators": [
+      "Asetyleenin tuotanto paikan päällä kalsiumkarbidista",
+      "Työpajat ilman pullotettua asetyleenia",
+      "Hitsaus ja leikkaus, jossa sylinterilogistiikka on rajoitettua",
+      "Teollisuuskohteet, jotka tarvitsevat paikallista asetyleenilähdettä"
+    ],
+    "accessories": [
+      "Sylinteri- ja säädinkokoonpanot",
+      "Happi-polttoaineen hitsaus- ja leikkausasetukset",
+      "Letkun, mittarin ja venttiilin vaihto",
+      "Työpajan kaasunkäsittelyn turvavarusteet"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Kaasupullojen valmistaja teollisille ostajille",
-    "text": "Wanda Group valmistaa asetyleenisylintereitä, propaanisylintereitä, generaattoreita ja tarvikkeita hitsaus-, leikkaus- ja teollisuuskaasun syöttöön.",
+    "text": "Wanda Group valmistaa asetyleenisylintereitä, propaani- ja nestekaasusylintereitä, generaattoreita ja hitsaustarvikkeita sekä toimittaa kylmälaitteita teollisille ostajille.",
     "text2": "Tuemme ulkomaisia ​​ostajia tuotevalinnassa, OEM:ssä, tarkastuksessa, pakkaamisessa ja toimituksessa.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Mitä tuotteita toimitat pääasiassa?",
-            "a": "Toimitamme asetyleenisylintereitä, propaanisylintereitä, asetyleenigeneraattoreita ja kaasupullojen lisävarusteita, kuten venttiilejä, säätimiä, letkuja, painemittareita ja polttimia."
+            "a": "Toimitamme asetyleenipulloja, propaani- ja nestekaasupulloja, asetyleenigeneraattoreita, kaasupullojen lisävarusteita ja jäähdytyslaitteita erillisenä tuotelinjana."
           },
           {
             "q": "Voitko tukea OEM-räätälöintiä?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Voinko katsoa tehdasvideoita ennen tilauksen tekemistä?",
-            "a": "Kyllä. Katso tuotantovideot tämän sivun Tehdas-osiossa. Lisämateriaalia, pakkausleikkeitä ja sertifikaatteja lähetetään pyynnöstä yksityisesti."
+            "a": "Kyllä. Katso tuotantovideot Factory-sivulta. Lisämateriaalia, pakkausleikkeitä ja todistuskopioita lähetetään pyynnöstä yksityisesti."
           },
           {
             "q": "Tarjoatko tuotevideoita, erityisesti asetyleenisylintereistä?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Voiko lisävarusteita tilata kaasupullojen kanssa?",
-            "a": "Kyllä. Tarvikkeet voidaan toimittaa yhdessä asetyleenisylintereiden, propaanisylintereiden ja asetyleenigeneraattoreiden kanssa."
+            "a": "Kyllä. Tarvikkeet voidaan toimittaa yhdessä asetyleeni-, propaani- ja nestekaasusylintereiden sekä asetyleenigeneraattoreiden kanssa."
           },
           {
             "q": "Tuetko OEM-pakkausta?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Hanki tarkka tarjous",
     "certifications": "Sertifikaatit",
     "order": "Tilata",
-    "reviews": "Arvostelut",
+    "reviews": "Ostajan huomautuksia",
     "contact": "Contact",
     "phone": "Puhelin",
     "location": "Sijainti",
@@ -587,7 +626,7 @@
     "exportReady": "Vienti valmis",
     "years": "Vuosia",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO sertifioitu",
+    "isoCertified": "Standardit pyynnöstä",
     "globalExport": "Maailmanlaajuinen vienti",
     "products": "Tuotteet",
     "specs": "Tekniset tiedot",
@@ -695,16 +734,16 @@
       "note": "* Tarkat parametrit riippuvat standardista (ISO/DOT/GB) ja venttiilikokoonpanosta. Pyydä tuotetiedot markkinallesi."
     },
     "propane": {
-      "title": "Propaani- ja nestekaasusylinterit",
-      "intro": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+      "title": "WG-P sylinterivalikoima",
+      "intro": "WG-P-mallit ovat yksi terässylinteriperhe. Täyttökaasu – propaani tai nestekaasu (propaani, butaani tai sekoitukset) – määrätään tilaus- ja kohdemarkkinakohtaisesti.",
       "features": [
-        "37Mn/34CrMo4 teräs ISO 9809 mukaan",
+        "Teräslaatu ja sovellettava sylinteristandardi vahvistettu tilauskohtaisesti",
         "Käyttöpaine 1,8-2,1 MPa",
-        "POL, CGA 510, GOST venttiilit",
-        "Jauhemaalaus, korroosionesto",
-        "Sertifikaatit EU:n, Yhdysvaltojen ja IVY-maiden markkinoille"
+        "POL-, CGA 510-, GOST-venttiileistä keskusteltu markkinakohtaisesti",
+        "Jauhemaalaus ja korroosionestopinnoite",
+        "Sertifiointivaihtoehdoista keskustellaan kohdemarkkinakohtaisesti"
       ],
-      "tableTitle": "Tavalliset propaanisylinterimallit",
+      "tableTitle": "Vakiomallit WG-P-sylintereistä",
       "headers": [
         "Model",
         "Tilavuus (L)",
@@ -768,10 +807,10 @@
       "intro": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria.",
       "features": [
         "Teho 3–100 m³/h",
-        "Automaattinen veden ja kovametallin syöttö",
-        "Turvajärjestelmä ja suodatus",
+        "Veden ja kovametallin syöttövaihtoehdoista on keskusteltu mallikohtaisesti",
+        "Turvajärjestelmä ja suodatus mallin mukaan",
         "Kompaktit ja teolliset mallit",
-        "Täydellinen dokumentaatio ja koulutus"
+        "Tilausasiakirjat mukana. Kuljettajan koulutuksesta voidaan keskustella pyynnöstä"
       ],
       "tableTitle": "Asetyleenigeneraattorimallit",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generaattorit toimitetaan jäähdytysjärjestelmällä, suodattimilla ja varaosasarjalla pyynnöstä."
     },
     "accessories": {
-      "title": "Sylinterin tarvikkeet ja varusteet",
+      "title": "Hitsaustarvikkeet ja sylinteriliittimet",
       "intro": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä.",
       "features": [
         "Säätimet ja mittarit (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "taskulamput",
           "WG-C100, WG-C300",
           "—",
-          "Plasma/oksileikkaus"
+          "Happi-polttoaineleikkaus"
         ],
         [
           "Polttimet",
@@ -881,7 +920,7 @@
           "Kaikki sylinterityypit"
         ]
       ],
-      "note": "* Lisävarusteet saatavana erikseen tai sylintereiden mukana. Alennus yhdistetyistä tilauksista."
+      "note": "* Tarvikkeet voidaan tarjota erikseen tai yhdessä sylinterien kanssa. Yhdistetty tilaushinta vahvistetaan tarjouksessa."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Vienti & Logistiikka",
-        "desc": "Täydellinen kansainvälisten lähetysten tuki.",
+        "desc": "Vientipakkauksen ja lähetyksen koordinointi ulkomaisille ostajille.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Vientiasiakirjat",
-          "Meri- ja rautatierahti"
+          "Meri- ja rautatiekuljetukset"
         ]
       },
       {
         "icon": "🔬",
         "title": "Laadunvalvonta",
-        "desc": "Testaus ja tarkastus jokaisessa vaiheessa.",
+        "desc": "Tarkastus ja testaus tuotannon aikana tilauksen mukaan.",
         "points": [
           "Hydrostaattiset testit",
-          "UT-hitsauksen tarkastus",
-          "SGS/BV-tarkastus pyynnöstä"
+          "Hitsauksen tarkastus ohjeiden mukaan",
+          "Kolmannen osapuolen tarkastus pyynnöstä"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifiointi",
         "desc": "Asiakirjat tullille ja sääntelyviranomaisille. Kopiot lähetetään pyynnöstä yksityisesti.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS ja laatusertifikaatti",
-          "Alkuperätodistus"
+          "Standardit käsitellään tuote- ja markkinakohtaisesti",
+          "Käyttöturvallisuustiedote ja laatuasiakirjat pyynnöstä",
+          "Alkuperätodistus pyynnöstä"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Apua tuotteiden valinnassa ja konfiguroinnissa.",
         "points": [
           "Markkinaperusteinen valinta",
-          "MOQ ja läpimenoajan laskenta",
-          "Henkilökunnan koulutus"
+          "MOQ ja toimitusaika keskustellaan tilauksen mukaan",
+          "Kuljettajan ohjeista keskustellaan pyynnöstä"
         ]
       },
       {
         "icon": "📦",
         "title": "Paketin tarjonta",
-        "desc": "Sylinterit + tarvikkeet yhdellä tilauksella.",
+        "desc": "Sylinterit ja tarvikkeet yhdellä tilauksella.",
         "points": [
-          "Yksittäinen sopimus",
+          "Yksittäinen tiedustelu",
           "Koordinoitu toimitus",
-          "Paketin alennus"
+          "Yhdistetty tilaushinnoittelu tarjouksessa"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Saumattomat teräskaasupullot – tekniset vaatimukset"
+        "desc": "Uudelleen täytettävät saumattomat teräskaasupullot – karkaistua ja karkaistua terästä. Käsitelty tuote- ja kohdemarkkinakohtaisesti."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Liuenneet asetyleenisylinterit"
+        "desc": "Kaasupullot — Uudelleen täytettävät saumattomat teräskaasupullot — Suunnittelu, rakenne ja testaus — Osa 3: Normalisoidut teräspullot. Ei asetyleenisylinteristandardi (katso ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Asetyleenipullot – perusvaatimukset ja tyyppitestaus. Asiasta keskustellaan asetyleenituotteiden osalta pyydettäessä. Soveltuvuus vahvistetaan tilauskohtaisesti."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Yhdysvaltain markkinoiden sylinteristandardi — soveltuvuus vahvistettu tuote- ja tilauskohtaisesti"
+        "desc": "USA:n spesifikaatio saumattomille terässylintereille – soveltuvuus vahvistettu tuote- ja tilauskohtaisesti"
       },
       {
         "name": "TPED",
-        "desc": "Eurooppalaiset kuljetusvaatimukset – keskusteltu kohdemarkkinakohtaisesti"
+        "desc": "EU:n kuljetettavien painelaitteiden direktiivi – käsitellään kohdemarkkinakohtaisesti"
       },
       {
         "name": "GB 5099",
-        "desc": "Kiinalainen kaasupullostandardi"
+        "desc": "Kiinan kansallinen standardi saumattomille teräskaasupulloille – soveltuvuus vahvistettu tuote- ja tilauskohtaisesti"
       },
       {
         "name": "CE Mark",
-        "desc": "Eurooppalainen vaatimustenmukaisuusmerkintä – sovellettavuus tuote- ja markkinakohtaisesti"
+        "desc": "Eurooppalainen vaatimustenmukaisuusmerkintä – sovellettavuus tuote- ja markkinakohtaisesti. Ei korvaa julkaistua varmennetiedostoa."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Mitä ostajat sanovat",
+    "title": "Mitä teollisuusostajat yleensä kysyvät",
     "items": [
       {
-        "quote": "Tilasimme 40 litran asetyleenipulloja kolme kertaa tänä vuonna. GOST-venttiilit, OEM-väri ja vientipakkaus vastasivat ensimmäistä näytettä joka kerta.",
-        "author": "Rustam Yusupov",
-        "role": "Omistaja, hitsauskaasun jakelija",
-        "country": "Uzbekistan"
+        "quote": "OEM-väri, venttiilityyppi ja vientipakkaus sovitettu vahvistettuun näytteeseen ennen toista toimitusta.",
+        "author": "Distributor inquiries",
+        "role": "Hitsauskaasun syöttö",
+        "country": "Central Asia"
       },
       {
-        "quote": "Lainaus tuli samana päivänä selkeällä MOQ:lla ja toimitusajalla. Propaanipullot saapuivat POL-venttiileillä ja täydellä pakkausluettelolla - ei tulliviivästyksiä puolellamme.",
-        "author": "Aigerim Bekova",
-        "role": "Hankintapäällikkö, teollisuustoimittaja",
-        "country": "Kazakhstan"
+        "quote": "Selkeä MOQ, läpimenoaika ja pakkausluettelo vahvistettiin tarjouksessa - ei kiinteinä verkkosivustohinnoin.",
+        "author": "Procurement inquiries",
+        "role": "Teollisuuden tarjonta",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Ostamme sylinterit säätimin ja letkuineen yhtenä konttitilauksena. Asiakirjat ja merkinnät olivat valmiita markkinoillemme, joten jälleenmyynti oli helppoa.",
-        "author": "Faisal Al-Harbi",
-        "role": "Maahantuontiostaja, kaasulaitteiden kauppa",
-        "country": "Saudi Arabia"
+        "quote": "Sylinterit säätimillä ja letkuilla noteerataan yhtenä yhdistelmätilauksena, ja merkinnöistä on keskusteltu kohdemarkkinoille.",
+        "author": "Import inquiries",
+        "role": "Kaasulaitteiden kauppa",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Keitä olemme",
     "title": "Teollinen valmistaja B2B-ostajalle",
-    "text": "Wanda Groups valmistaa ja toimittaa teollisuuskaasupulloja, generaattoreita ja hitsaustarvikkeita ulkomaisille jakelijoille, OEM-kumppaneille ja projektiostajille.",
+    "text": "Wanda Groups valmistaa ja toimittaa teollisuuskaasupulloja, generaattoreita, hitsaustarvikkeita ja jäähdytyslaitteita ulkomaisille jakelijoille, OEM-kumppaneille ja projektiostajille.",
     "text2": "Painopisteemme on tehdassidottu toimitus, tuotevalinnan tuki, massatilaukset ja viennin koordinointi – ei vähittäismyyntiä.",
     "cta": "Lisätietoja meistä"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Oletko valmis pyytämään tarjouksen?",
       "quoteCta": "Pyydä tarjous",
       "relatedProducts": "Liittyvät tuotteet",
+      "productFamilies": "Tuoteperheet",
       "applications": "Applications",
       "standardsTitle": "Standardit ja sertifiointi",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Kaasupullon valmistaja | Teollisuuden OEM ja vienti | Wanda ryhmät",
-      "seoDescription": "Wanda Groups valmistaa teollisuuskaasupulloja, generaattoreita ja hitsaustarvikkeita OEM-, tukku- ja kansainvälisille vientiostimille."
+      "seoDescription": "Wanda Groups valmistaa teollisuuskaasupulloja, generaattoreita, hitsaustarvikkeita ja jäähdytyslaitteita OEM-, tukku- ja kansainvälisille vientiostioille."
     },
     "about": {
       "label": "Tietoja meistä",
       "title": "Kaasupullojen valmistaja teollisille ostajille",
       "subtitle": "Tuemme ulkomaisia ​​ostajia tuotevalinnassa, OEM:ssä, tarkastuksessa, pakkaamisessa ja toimituksessa.",
       "seoTitle": "Tietoja Wanda Groupista",
-      "seoDescription": "Wanda Group valmistaa asetyleenisylintereitä, propaanisylintereitä, generaattoreita ja tarvikkeita hitsaus-, leikkaus- ja teollisuuskaasun syöttöön."
+      "seoDescription": "Wanda Group valmistaa asetyleeni-, propaani- ja nestekaasusylintereitä, generaattoreita, hitsaustarvikkeita ja jäähdytyslaitteita teollisuuden vientiostajille."
     },
     "products": {
       "label": "Tuotteet",
       "title": "Tuotteemme",
-      "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+      "subtitle": "Asetyleeni-, propaani- ja nestekaasusylinterit, generaattorit, hitsaustarvikkeet ja jäähdytyslaitteet teollisille ostajille.",
       "seoTitle": "Kaasupullotuotteet",
-      "seoDescription": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+      "seoDescription": "Wanda Groupin asetyleeni-, propaani- ja nestekaasusylinterit, asetyleenigeneraattorit, hitsaustarvikkeet ja jäähdytyslaitteet.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Liuenneet asetyleenisylinterit",
           "overview": "Terässylinterit huokoisella massalla ja liuottimella turvalliseen asetyleenin varastointiin ja kuljetukseen. Käytetään hitsauksessa, leikkauksessa, juottamisessa ja metallien valmistuksessa.",
+          "application": "Happi-asetyleenihitsaus, -leikkaus ja -juotto",
           "seoTitle": "Asetyleenikaasupullot",
           "seoDescription": "Terässylinterit huokoisella massalla ja liuottimella turvalliseen asetyleenin varastointiin ja kuljetukseen. Käytetään hitsauksessa, leikkauksessa, juottamisessa ja metallien valmistuksessa."
         },
         "propane": {
           "name": "Propaanisylinterit",
-          "overview": "Teräspullot propaanikaasun varastointiin ja kuljetukseen. Käytetään lämmitykseen, teollisuuden propaanin syöttämiseen, ruoanlaittoon ja happipolttoaineen leikkaamiseen yhdistettynä asetyleenin kanssa.",
+          "overview": "Terässylinterit, jotka on tarkoitettu propaanin täyttöön. Käytetään lämmitykseen, teollisuuden propaanin syöttämiseen, ruoanlaittoon ja happipolttoaineen leikkaamiseen yhdistettynä asetyleenin kanssa.",
+          "application": "Teollisuuden propaanilämmitys, leikkaus ja laitosten toimitus",
+          "familyNote": "Propaanisylintereissä ja nestekaasusylintereissä käytetään samaa WG-P-teräspullosarjaa. Tämä sivu kattaa propaanitäytteen ja propaanikohtaiset käyttötarkoitukset. Nestekaasuseokset ja jakelun tarjonta on kuvattu nestekaasusylinterit -sivulla.",
           "seoTitle": "Propaani kaasupullot",
-          "seoDescription": "Teräksiset propaanikaasusylinterit lämmitys-, teollisuus- ja leikkaussovelluksiin. Vienti- ja OEM-vaihtoehdoista keskustellaan tilauskohtaisesti."
+          "seoDescription": "Terässylinterit propaanin täyttöön — lämmitykseen, teollisuuden syöttöön ja happipolttoaineen leikkaamiseen. Sama WG-P-alue kuin nestekaasu; täytä tilauskohtaisesti määritetty kaasu."
         },
         "lpg": {
           "name": "Nestekaasusylinterit",
-          "overview": "Nestekaasun (LPG) sylinterit – propaani, butaani tai sekasekoitukset. Yhteinen asuin- ja kaupalliseen nestekaasun jakeluun, retkeilyyn, lämmitykseen ja kannettavaan polttoaineen jakeluun.",
+          "overview": "Nestekaasun (LPG) sylinterit – propaani, butaani tai sekasekoitukset. Käytetään asuin- ja kaupalliseen nestekaasun jakeluun, retkeilyyn, lämmitykseen ja kannettavaan polttoaineen jakeluun.",
+          "application": "Nestekaasun jakelu, kannettava polttoaine ja seoslämmitys",
+          "familyNote": "Nestekaasusylintereissä ja propaanisylintereissä käytetään samaa WG-P-teräspullosarjaa. Tämä sivu kattaa nestekaasusekoitukset ja jakelun käytön. Propaanisylinterit-sivulla on kuvattu vain propaanitäyttö ja teolliset propaanin käyttötarkoitukset.",
           "seoTitle": "Nestekaasun kaasupullot",
-          "seoDescription": "Nestekaasupullot asuin-, kaupallisiin ja teollisiin nestekaasun jakeluun ja kannettavaan jakeluun."
+          "seoDescription": "Nestekaasupullot asuin-, kaupallisiin ja teollisiin nestekaasun jakeluun. Sama WG-P-sarja kuin propaanisylintereillä; täytä tilauskohtaisesti määritetty."
         },
         "industrial": {
           "name": "Teollisuuden kaasupullot",
           "overview": "Teollisuuskaasupullot hitsaukseen, leikkaamiseen ja laitosten toimittamiseen – mukaan lukien asetyleeni-, propaani- ja nestekaasuvaihtoehdot, jotka sopivat markkinoillesi.",
+          "application": "Tehdas-, jakelija- ja projektisylinterien toimitus",
           "seoTitle": "Teollisuuden kaasupullot",
           "seoDescription": "Wanda Groupin teollisuuskaasupullot hitsaukseen, leikkaamiseen ja laitostoimitukseen."
         },
         "generators": {
           "name": "Asetyleenigeneraattorit",
           "overview": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria.",
+          "application": "Asetyleenin tuotanto paikan päällä kalsiumkarbidista",
           "seoTitle": "Asetyleenigeneraattorit",
           "seoDescription": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria."
         },
         "accessories": {
-          "name": "Sylinterin tarvikkeet ja varusteet",
+          "name": "Hitsaustarvikkeet ja sylinteriliittimet",
           "overview": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä.",
-          "seoTitle": "Hitsaustarvikkeet",
-          "seoDescription": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä."
+          "application": "Happi-polttoaineasetukset, säätimet, letkut, venttiilit ja mittarit",
+          "seoTitle": "Hitsaustarvikkeet ja sylinteriliittimet",
+          "seoDescription": "Hitsaustarvikkeet ja sylinteriliittimet — säätimet, letkut, mittarit, polttimet ja venttiilit, toimitetaan sylintereiden kanssa tai erikseen."
         },
         "refrigeration": {
           "name": "Jäähdytysyksiköt",
           "overview": "Erillinen Wanda Group -linja – ei kolmannen osapuolen luettelo. Lauhdutusyksiköt, kylmähuoneet ja laitteistot toimitamme sylintereillä tai erillisenä tilauksena.",
+          "application": "Kylmähuoneet, elintarvikkeiden kylmäketju ja teollisuusjäähdytys",
           "seoTitle": "Jäähdytysyksiköt",
-          "seoDescription": "Erillinen Wanda Group -linja – ei kolmannen osapuolen luettelo. Lauhdutusyksiköt, kylmähuoneet ja laitteistot toimitamme sylintereillä tai erillisenä tilauksena."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Mtengenezaji wa Silinda ya Gesi ya Viwandani",
     "title": "Mitungi ya Gesi ya Viwandani na Mtengenezaji wa Vifaa",
-    "subtitle": "Utengenezaji, OEM na usambazaji wa jumla wa mitungi ya asetilini, mitungi ya propane/LPG, jenereta na vifaa vya kulehemu kwa wanunuzi wa kimataifa wa kuuza nje.",
+    "subtitle": "Utengenezaji, OEM na usambazaji wa jumla wa silinda za asetilini, propani na LPG, jenereta, vifaa vya kulehemu na vifaa vya majokofu kwa wanunuzi wa kimataifa wa kuuza nje.",
     "lineGas": "Mitungi ya gesi",
     "lineCold": "Vitengo vya friji",
     "cta": "Pata Nukuu",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Bidhaa Zetu",
-    "subtitle": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+    "subtitle": "Acetylene, propane na silinda za LPG, jenereta, vifaa vya kulehemu na vifaa vya friji kwa wanunuzi wa viwanda.",
     "viewDetails": "Tazama Maelezo",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Silinda ya Propane",
         "spec": "3L–50L · chaguzi za vali kwa kila soko",
-        "desc": "Silinda za kudumu za LPG za kupokanzwa, kukata na matumizi ya viwandani.",
+        "desc": "Mitungi ya chuma kwa kujaza propane - inapokanzwa, kukata na usambazaji wa viwanda.",
         "icon": "🛢️"
       },
       {
-        "title": "Vifaa vya Silinda",
+        "title": "Vifaa vya kulehemu",
         "spec": "Vali · vidhibiti · hosi · tochi",
-        "desc": "Viunga vinavyolingana vilivyotolewa na mitungi au kama mpangilio tofauti.",
+        "desc": "Vifaa vya kulehemu na fittings za silinda, zinazotolewa na mitungi au tofauti.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Uhifadhi wa baridi wa dawa na matibabu",
       "Logistics na usafiri wa friji",
       "Upoezaji wa viwandani na ubaridishaji wa kusindika"
+    ],
+    "acetylene": [
+      "Ulehemu wa Oxy-asetilini",
+      "Kukata mafuta ya oksidi",
+      "Brazing na inapokanzwa",
+      "Maduka ya utengenezaji wa chuma",
+      "Sehemu ya meli na kazi ya matengenezo"
+    ],
+    "propane": [
+      "Inapokanzwa propane ya viwanda",
+      "Kukata mafuta ya Oxy na asetilini",
+      "Warsha na inapokanzwa ujenzi",
+      "Ugavi wa propane wa mimea",
+      "Kupika na kusindika joto ambapo propane imeainishwa"
+    ],
+    "lpg": [
+      "Usambazaji wa LPG ya makazi na biashara",
+      "Ugavi wa mafuta wa LPG unaobebeka",
+      "Kambi na gesi ya upishi",
+      "Inapokanzwa na mchanganyiko wa LPG",
+      "Kujaza silinda ya jumla ya LPG kwa masoko ya ndani"
+    ],
+    "industrial": [
+      "Kulehemu na kukata usambazaji wa gesi",
+      "Hifadhi ya mimea na semina ya silinda",
+      "Wasambazaji wa mistari ya gesi ya viwandani",
+      "Mradi na maeneo ya ujenzi"
+    ],
+    "generators": [
+      "Uzalishaji wa asetilini kwenye tovuti kutoka kwa carbudi ya kalsiamu",
+      "Warsha bila ugavi wa asetilini wa chupa",
+      "Kulehemu na kukata ambapo vifaa vya silinda ni mdogo",
+      "Maeneo ya viwanda yanayohitaji chanzo cha asili cha asetilini"
+    ],
+    "accessories": [
+      "Makusanyiko ya silinda na mdhibiti",
+      "Ulehemu wa mafuta ya Oxy na usanidi wa kukata",
+      "Hose, geji na uingizwaji wa valves",
+      "Vifaa vya usalama vya utunzaji wa gesi kwenye semina"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Mtengenezaji wa silinda ya gesi kwa wanunuzi wa viwanda",
-    "text": "Wanda Group hutengeneza mitungi ya asetilini, silinda za propane, jenereta na vifaa vya kulehemu, kukata na usambazaji wa gesi ya viwandani.",
+    "text": "Wanda Group hutengeneza mitungi ya asetilini, silinda za propani na LPG, jenereta na vifaa vya kulehemu, na pia hutoa vifaa vya friji kwa wanunuzi wa viwandani.",
     "text2": "Tunasaidia wanunuzi wa ng'ambo na uteuzi wa bidhaa, OEM, ukaguzi, upakiaji na usafirishaji.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Je, unasambaza bidhaa gani hasa?",
-            "a": "Tunasambaza mitungi ya asetilini, mitungi ya propani, jenereta za asetilini na vifaa vya silinda ya gesi kama vile vali, vidhibiti, hosi, vipimo vya shinikizo na tochi."
+            "a": "Tunasambaza mitungi ya asetilini, silinda za propane na LPG, jenereta za asetilini, vifaa vya silinda ya gesi, na vifaa vya friji kama mstari tofauti wa bidhaa."
           },
           {
             "q": "Je, unaweza kuunga mkono ubinafsishaji wa OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Je, ninaweza kutazama video za kiwandani kabla ya kuagiza?",
-            "a": "Ndiyo. Tazama video za uzalishaji katika sehemu ya Kiwanda kwenye ukurasa huu. Picha za ziada, klipu za kufunga na vyeti hutumwa kwa faragha kwa ombi."
+            "a": "Ndiyo. Tazama video za uzalishaji kwenye ukurasa wa Kiwanda. Picha za ziada, klipu za upakiaji na nakala za cheti hutumwa kwa faragha kwa ombi."
           },
           {
             "q": "Je, unatoa video za bidhaa, hasa kwa mitungi ya asetilini?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Je, vifaa vinaweza kuagizwa pamoja na mitungi ya gesi?",
-            "a": "Ndiyo. Vifaa vinaweza kutolewa pamoja na mitungi ya asetilini, silinda za propane na jenereta za acetylene."
+            "a": "Ndiyo. Vifaa vinaweza kutolewa pamoja na silinda za asetilini, propane na LPG na jenereta za asetilini."
           },
           {
             "q": "Je, unaunga mkono upakiaji wa OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Pata Nukuu Halisi",
     "certifications": "Vyeti",
     "order": "Agizo",
-    "reviews": "Ukaguzi",
+    "reviews": "Vidokezo vya mnunuzi",
     "contact": "Contact",
     "phone": "Simu",
     "location": "Mahali",
@@ -587,7 +626,7 @@
     "exportReady": "Hamisha tayari",
     "years": "Miaka",
     "acetylene": "Acetylene",
-    "isoCertified": "Imethibitishwa na ISO",
+    "isoCertified": "Viwango juu ya ombi",
     "globalExport": "Usafirishaji wa Kimataifa",
     "products": "Bidhaa",
     "specs": "Vipimo",
@@ -695,16 +734,16 @@
       "note": "* Vigezo halisi hutegemea kiwango (ISO/DOT/GB) na usanidi wa valve. Omba karatasi maalum kwa soko lako."
     },
     "propane": {
-      "title": "Propani & Silinda za LPG",
-      "intro": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+      "title": "Masafa ya silinda ya WG-P",
+      "intro": "Mifano ya WG-P ni familia moja ya silinda ya chuma. Jaza gesi - propane au LPG (propane, butane au mchanganyiko) - imeainishwa kwa agizo na soko la marudio.",
       "features": [
-        "37Mn/34CrMo4 chuma kwa ISO 9809",
+        "Kiwango cha chuma na kiwango cha silinda kinachotumika kimethibitishwa kwa kila agizo",
         "Shinikizo la kufanya kazi 1.8-2.1 MPa",
-        "POL, CGA 510, vali za GOST",
-        "Mipako ya poda, kupambana na kutu",
-        "Vyeti vya masoko ya EU, US, CIS"
+        "POL, CGA 510, vali za GOST zinazojadiliwa kwa kila soko",
+        "Mipako ya poda na kumaliza kupambana na kutu",
+        "Chaguo za uthibitishaji zinazojadiliwa kwa kila soko lengwa"
       ],
-      "tableTitle": "Mifano ya Kawaida ya Silinda ya Propane",
+      "tableTitle": "Aina za Silinda za WG-P za Kawaida",
       "headers": [
         "Model",
         "Kiasi (L)",
@@ -768,10 +807,10 @@
       "intro": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati.",
       "features": [
         "Uwezo wa kutoa 3–100 m³/h",
-        "Maji otomatiki na malisho ya kaboni",
-        "Mfumo wa usalama na uchujaji",
+        "Chaguzi za malisho ya maji na carbudi zilizojadiliwa kwa kila modeli",
+        "Mfumo wa usalama na uchujaji kama ilivyobainishwa kwa modeli",
         "Mifano ya kompakt na viwanda",
-        "Nyaraka kamili na mafunzo"
+        "Hati za agizo zimetolewa. Mafunzo ya waendeshaji yanaweza kujadiliwa kwa ombi"
       ],
       "tableTitle": "Mifano ya Jenereta ya Acetylene",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Jenereta zinazotolewa na mfumo wa kupoeza, vichungi na vifaa vya vipuri kwa ombi."
     },
     "accessories": {
-      "title": "Vifaa vya Silinda na Viambatisho",
+      "title": "Vifaa vya kulehemu na Viweka Silinda",
       "intro": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi.",
       "features": [
         "Vidhibiti na vipimo (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Mwenge",
           "WG-C100, WG-C300",
           "—",
-          "Kukata Plasma/oksidi"
+          "Kukata mafuta ya oksidi"
         ],
         [
           "Vichomaji moto",
@@ -881,7 +920,7 @@
           "Aina zote za silinda"
         ]
       ],
-      "note": "* Vifaa vinapatikana kando au vimefungwa na silinda. Punguzo kwa maagizo ya pamoja."
+      "note": "* Vifaa vinaweza kunukuliwa tofauti au pamoja na mitungi. Bei ya mpangilio wa pamoja imethibitishwa katika nukuu."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Hamisha na Usafirishaji",
-        "desc": "Msaada kamili wa usafirishaji wa kimataifa.",
+        "desc": "Ufungaji na uratibu wa usafirishaji nje ya nchi kwa wanunuzi wa ng'ambo.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Hamisha nyaraka",
-          "Usafirishaji wa baharini na reli"
+          "Chaguzi za mizigo ya baharini na reli"
         ]
       },
       {
         "icon": "🔬",
         "title": "Udhibiti wa Ubora",
-        "desc": "Upimaji na ukaguzi katika kila hatua.",
+        "desc": "Ukaguzi na upimaji wakati wa uzalishaji kulingana na utaratibu.",
         "points": [
           "Vipimo vya Hydrostatic",
-          "ukaguzi wa weld wa UT",
-          "Ukaguzi wa SGS/BV kwa ombi"
+          "Ukaguzi wa weld kama ilivyoainishwa",
+          "Ukaguzi wa mtu wa tatu kwa ombi"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Uthibitisho",
         "desc": "Nyaraka za forodha na wasimamizi. Nakala hutumwa kwa faragha kwa ombi.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & cheti cha ubora",
-          "Cheti cha asili"
+          "Viwango vinavyojadiliwa kwa kila bidhaa na soko",
+          "MSDS na hati za ubora kwa ombi",
+          "Cheti cha asili kwa ombi"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Saidia kuchagua bidhaa na usanidi.",
         "points": [
           "Uchaguzi kulingana na soko",
-          "MOQ & hesabu ya muda wa kuongoza",
-          "Mafunzo ya wafanyakazi"
+          "MOQ na muda wa kuongoza kujadiliwa kwa kila agizo",
+          "Mwongozo wa waendeshaji kujadiliwa kwa ombi"
         ]
       },
       {
         "icon": "📦",
         "title": "Ugavi wa Bundle",
-        "desc": "Silinda + vifaa kwa utaratibu mmoja.",
+        "desc": "Silinda na vifaa kwa utaratibu mmoja.",
         "points": [
-          "Mkataba mmoja",
+          "Uchunguzi mmoja",
           "Utoaji ulioratibiwa",
-          "Punguzo la kifungu"
+          "Bei ya mpangilio wa pamoja katika nukuu"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Mitungi ya gesi ya chuma isiyo na mshono - mahitaji ya kiufundi"
+        "desc": "Mitungi ya gesi ya chuma isiyo na mshono inayoweza kujazwa tena - chuma kilichozimwa na kilichokaushwa. Imejadiliwa kwa kila bidhaa na soko lengwa."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Mitungi ya asetilini iliyoyeyushwa"
+        "desc": "Mitungi ya gesi - mitungi ya gesi iliyofumwa inayoweza kujazwa tena - muundo, ujenzi na majaribio - Sehemu ya 3: mitungi ya chuma iliyorekebishwa. Sio kiwango cha silinda ya asetilini (angalia ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Mitungi ya asetilini - mahitaji ya kimsingi na upimaji wa aina. Inajadiliwa kwa bidhaa za asetilini inapoombwa. Kutumika kunathibitishwa kwa agizo."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Kiwango cha silinda cha soko la Marekani - utumiaji umethibitishwa kwa kila bidhaa na agizo"
+        "desc": "Vipimo vya Marekani vya mitungi ya chuma isiyo imefumwa - imethibitishwa kutumika kwa kila bidhaa na mpangilio"
       },
       {
         "name": "TPED",
-        "desc": "Mahitaji ya usafiri wa Ulaya - yanajadiliwa kwa kila soko lengwa"
+        "desc": "Maagizo ya vifaa vya shinikizo vinavyoweza kusafirishwa vya EU - yamejadiliwa kwa kila soko lengwa"
       },
       {
         "name": "GB 5099",
-        "desc": "Kiwango cha silinda ya gesi ya Kichina"
+        "desc": "Kiwango cha kitaifa cha Uchina cha mitungi ya gesi ya chuma isiyo imefumwa - utumiaji umethibitishwa kwa kila bidhaa na mpangilio"
       },
       {
         "name": "CE Mark",
-        "desc": "Uwekaji alama wa ulinganifu wa Ulaya - utumiaji kwa kila bidhaa na soko"
+        "desc": "Uwekaji alama wa ulinganifu wa Ulaya - utumiaji kwa kila bidhaa na soko. Sio mbadala wa faili ya cheti iliyochapishwa."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Wanunuzi wanasema nini",
+    "title": "Kile ambacho wanunuzi wa viwandani kawaida huuliza",
     "items": [
       {
-        "quote": "Tulipanga upya mitungi ya 40L ya asetilini mara tatu mwaka huu. Vali za GOST, rangi ya OEM na vifungashio vya usafirishaji vililingana na sampuli ya kwanza kila wakati.",
-        "author": "Rustam Yusupov",
-        "role": "Mmiliki, msambazaji wa gesi ya kulehemu",
-        "country": "Uzbekistan"
+        "quote": "Rangi ya OEM, aina ya valvu na upakiaji wa mauzo ya nje unaolingana na sampuli iliyothibitishwa kabla ya ugavi unaorudiwa.",
+        "author": "Distributor inquiries",
+        "role": "Ugavi wa gesi ya kulehemu",
+        "country": "Central Asia"
       },
       {
-        "quote": "Nukuu ilikuja siku hiyo hiyo ikiwa na MOQ wazi na wakati wa kuongoza. Chupa za propane zilifika zikiwa na vali za POL na orodha kamili ya upakiaji - hakuna ucheleweshaji wa forodha kwa upande wetu.",
-        "author": "Aigerim Bekova",
-        "role": "Meneja wa manunuzi, usambazaji wa viwanda",
-        "country": "Kazakhstan"
+        "quote": "Futa MOQ, muda wa mwanzo na orodha ya kufunga iliyothibitishwa katika nukuu - si kama bei zisizobadilika za tovuti.",
+        "author": "Procurement inquiries",
+        "role": "Ugavi wa viwanda",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Tunanunua mitungi yenye vidhibiti na hosi kama utaratibu wa chombo kimoja. Hati na kuashiria zilikuwa tayari kwa soko letu, kwa hivyo uuzaji ulikuwa wa moja kwa moja.",
-        "author": "Faisal Al-Harbi",
-        "role": "Mnunuzi wa kuagiza, biashara ya vifaa vya gesi",
-        "country": "Saudi Arabia"
+        "quote": "Mitungi iliyo na vidhibiti na hosi zilizonukuliwa kama mpangilio mmoja, na alama zinazojadiliwa kwa soko lengwa.",
+        "author": "Import inquiries",
+        "role": "Biashara ya vifaa vya gesi",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Sisi ni Nani",
     "title": "Mtengenezaji wa viwanda kwa wanunuzi wa B2B",
-    "text": "Wanda Groups hutengeneza na kusambaza mitungi ya gesi ya viwandani, jenereta na vifaa vya kulehemu kwa wasambazaji wa ng'ambo, washirika wa OEM na wanunuzi wa mradi.",
+    "text": "Wanda Groups hutengeneza na kusambaza mitungi ya gesi ya viwandani, jenereta, vifaa vya kulehemu na vifaa vya friji kwa wasambazaji wa ng'ambo, washirika wa OEM na wanunuzi wa mradi.",
     "text2": "Lengo letu ni ugavi unaohusishwa na kiwanda, usaidizi wa uteuzi wa bidhaa, maagizo ya wingi na uratibu wa usafirishaji - sio mauzo ya wateja wa reja reja.",
     "cta": "Pata Maelezo Zaidi Kutuhusu"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Je, uko tayari kuomba bei?",
       "quoteCta": "Omba Nukuu",
       "relatedProducts": "Bidhaa zinazohusiana",
+      "productFamilies": "Familia za bidhaa",
       "applications": "Applications",
       "standardsTitle": "Viwango na vyeti",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Mtengenezaji wa Silinda ya Gesi | Viwanda OEM na kuuza nje | Vikundi vya Wanda",
-      "seoDescription": "Vikundi vya Wanda hutengeneza mitungi ya gesi ya viwandani, jenereta na vifaa vya kulehemu kwa OEM, wanunuzi wa jumla na wa kimataifa wa kuuza nje."
+      "seoDescription": "Vikundi vya Wanda hutengeneza mitungi ya gesi ya viwandani, jenereta, vifaa vya kulehemu na vifaa vya friji kwa OEM, wanunuzi wa jumla na wa kimataifa wa kuuza nje."
     },
     "about": {
       "label": "Kuhusu Sisi",
       "title": "Mtengenezaji wa silinda ya gesi kwa wanunuzi wa viwanda",
       "subtitle": "Tunasaidia wanunuzi wa ng'ambo na uteuzi wa bidhaa, OEM, ukaguzi, upakiaji na usafirishaji.",
       "seoTitle": "Kuhusu Wanda Group",
-      "seoDescription": "Wanda Group hutengeneza mitungi ya asetilini, silinda za propane, jenereta na vifaa vya kulehemu, kukata na usambazaji wa gesi ya viwandani."
+      "seoDescription": "Kikundi cha Wanda kinatengeneza asetilini, silinda za propane na LPG, jenereta, vifaa vya kulehemu na vifaa vya friji kwa wanunuzi wa viwandani nje ya nchi."
     },
     "products": {
       "label": "Bidhaa",
       "title": "Bidhaa Zetu",
-      "subtitle": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+      "subtitle": "Acetylene, propane na silinda za LPG, jenereta, vifaa vya kulehemu na vifaa vya friji kwa wanunuzi wa viwanda.",
       "seoTitle": "Bidhaa za Silinda za gesi",
-      "seoDescription": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+      "seoDescription": "Asetilini, silinda za propane na LPG, jenereta za asetilini, vifaa vya kulehemu na vifaa vya friji kutoka kwa Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Mitungi ya Asetilini iliyoyeyushwa",
           "overview": "Mitungi ya chuma yenye wingi wa vinyweleo na kutengenezea kwa ajili ya uhifadhi na usafiri wa asetilini salama. Kutumika katika kulehemu, kukata, kutengeneza shaba na kutengeneza chuma.",
+          "application": "Ulehemu wa Oxy-asetilini, kukata na kuimarisha",
           "seoTitle": "Mitungi ya Gesi ya Asetilini",
           "seoDescription": "Mitungi ya chuma yenye wingi wa vinyweleo na kutengenezea kwa ajili ya uhifadhi na usafiri wa asetilini salama. Kutumika katika kulehemu, kukata, kutengeneza shaba na kutengeneza chuma."
         },
         "propane": {
           "name": "Mitungi ya Propane",
-          "overview": "Silinda za chuma kwa uhifadhi wa gesi ya propane na usafirishaji. Inatumika kwa kupokanzwa, usambazaji wa propane za viwandani, kupikia na kukata mafuta ya oksi wakati imeunganishwa na asetilini.",
+          "overview": "Mitungi ya chuma iliyoainishwa kwa kujaza propane. Inatumika kwa kupokanzwa, usambazaji wa propane za viwandani, kupikia na kukata mafuta ya oksi wakati imeunganishwa na asetilini.",
+          "application": "Viwanda vya kupokanzwa propane, kukata na usambazaji wa mimea",
+          "familyNote": "Silinda za propane na mitungi ya LPG hutumia safu sawa ya silinda ya chuma ya WG-P. Ukurasa huu unashughulikia kujaza kwa propane na matumizi mahususi ya propane. Mchanganyiko wa LPG na usambazaji wa usambazaji umeelezewa kwenye ukurasa wa Mitungi ya LPG.",
           "seoTitle": "Mitungi ya gesi ya Propane",
-          "seoDescription": "Mitungi ya gesi ya propane ya chuma kwa ajili ya kupokanzwa, usambazaji wa viwanda na matumizi ya kukata. Chaguo za kuuza nje na OEM zilizojadiliwa kwa agizo."
+          "seoDescription": "Silinda za chuma za kujaza propane - inapokanzwa, usambazaji wa viwandani na kukata mafuta ya oksidi. Sawa WG-P mbalimbali kama LPG; kujaza gesi iliyoainishwa kwa agizo."
         },
         "lpg": {
           "name": "Silinda za LPG",
-          "overview": "Mitungi ya gesi ya mafuta ya petroli (LPG) - propane, butane au mchanganyiko mchanganyiko. Kawaida kwa usambazaji wa LPG za makazi na biashara, kambi, inapokanzwa na usambazaji wa mafuta unaobebeka.",
+          "overview": "Mitungi ya gesi ya mafuta ya petroli (LPG) - propane, butane au mchanganyiko mchanganyiko. Inatumika kwa usambazaji wa LPG za makazi na biashara, kambi, inapokanzwa na usambazaji wa mafuta unaobebeka.",
+          "application": "Usambazaji wa LPG, mafuta ya kubebeka na inapokanzwa kwa msingi wa mchanganyiko",
+          "familyNote": "Silinda za LPG na mitungi ya propane hutumia safu sawa ya silinda ya chuma ya WG-P. Ukurasa huu unashughulikia michanganyiko ya LPG na matumizi ya usambazaji. Kujaza kwa propane pekee na matumizi ya propani ya viwandani yameelezwa kwenye ukurasa wa Mitungi ya Propane.",
           "seoTitle": "Mitungi ya gesi ya LPG",
-          "seoDescription": "Silinda za LPG za usambazaji wa gesi ya petroli iliyoyeyuka katika makazi, biashara na viwandani na usambazaji wa kubebeka."
+          "seoDescription": "Silinda za LPG za usambazaji wa gesi ya petroli iliyoyeyushwa katika makazi, biashara na viwanda. Sawa WG-P mbalimbali kama silinda propane; jaza maalum kwa agizo."
         },
         "industrial": {
           "name": "Mitungi ya Gesi ya Viwandani",
           "overview": "Mitungi ya gesi ya viwandani ya kulehemu, kukata na usambazaji wa mimea - ikijumuisha chaguzi za asetilini, propane na LPG zinazolingana na soko lako.",
+          "application": "Mtambo, msambazaji na usambazaji wa silinda za mradi",
           "seoTitle": "Mitungi ya Gesi ya Viwandani",
           "seoDescription": "Mitungi ya gesi ya viwandani ya kulehemu, kukata na usambazaji wa mitambo kutoka kwa Wanda Group."
         },
         "generators": {
           "name": "Jenereta za asetilini",
           "overview": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati.",
+          "application": "Uzalishaji wa asetilini kwenye tovuti kutoka kwa carbudi ya kalsiamu",
           "seoTitle": "Jenereta za asetilini",
           "seoDescription": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati."
         },
         "accessories": {
-          "name": "Vifaa vya Silinda na Viambatisho",
+          "name": "Vifaa vya kulehemu na Viweka Silinda",
           "overview": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi.",
-          "seoTitle": "Vifaa vya kulehemu",
-          "seoDescription": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi."
+          "application": "Mipangilio ya mafuta ya oksidi, vidhibiti, hoses, valves na geji",
+          "seoTitle": "Vifaa vya kulehemu na Viweka Silinda",
+          "seoDescription": "Vifaa vya kulehemu na fittings ya silinda - vidhibiti, hoses, gauges, tochi na valves, zinazotolewa na mitungi au tofauti."
         },
         "refrigeration": {
           "name": "Vitengo vya friji",
           "overview": "Mstari tofauti wa Wanda Group - sio orodha ya watu wengine. Vitengo vya kubana, vyumba vya baridi na maunzi, vinavyotolewa na sisi pamoja na mitungi au kama agizo la kusimama pekee.",
+          "application": "Vyumba vya baridi, mnyororo wa baridi wa chakula na baridi ya viwanda",
           "seoTitle": "Vitengo vya Majokofu",
-          "seoDescription": "Mstari tofauti wa Wanda Group - sio orodha ya watu wengine. Vitengo vya kubana, vyumba vya baridi na maunzi, vinavyotolewa na sisi pamoja na mitungi au kama agizo la kusimama pekee."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

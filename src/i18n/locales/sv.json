@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Tillverkare av industrigasflaskor",
     "title": "Tillverkare av industrigascylindrar och utrustning",
-    "subtitle": "Tillverkning, OEM och grossistförsörjning av acetylencylindrar, propan/LPG-cylindrar, generatorer och svetstillbehör för internationella exportköpare.",
+    "subtitle": "Tillverkning, OEM och grossistförsörjning av acetylen-, propan- och gasolflaskor, generatorer, svetstillbehör och kylutrustning för internationella exportköpare.",
     "lineGas": "Gasflaskor",
     "lineCold": "Kylaggregat",
     "cta": "Få en offert",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Våra produkter",
-    "subtitle": "Acetylencylindrar, generatorer, propancylindrar och tillbehör för industri- och svetsapplikationer.",
+    "subtitle": "Acetylen-, propan- och gasolflaskor, generatorer, svetstillbehör och kylutrustning för industriella köpare.",
     "viewDetails": "Visa detaljer",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propancylinder",
         "spec": "3L–50L · ventilalternativ per marknad",
-        "desc": "Hållbara gasolflaskor för uppvärmning, skärning och industriell användning.",
+        "desc": "Stålcylindrar för propanfyllning — uppvärmning, skärning och industriell leverans.",
         "icon": "🛢️"
       },
       {
-        "title": "Cylindertillbehör",
+        "title": "Svetstillbehör",
         "spec": "Ventiler · regulatorer · slangar · brännare",
-        "desc": "Matchande beslag levereras med cylindrar eller som separat beställning.",
+        "desc": "Svetstillbehör och cylinderbeslag, levereras med cylindrar eller separat.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaceutisk och medicinsk kylförvaring",
       "Logistik och kyltransport",
       "Industriell kylning och processkylare"
+    ],
+    "acetylene": [
+      "Oxy-acetylensvetsning",
+      "Oxy-bränsle skärning",
+      "Lödning och uppvärmning",
+      "Metalltillverkningsbutiker",
+      "Varv och underhållsarbete"
+    ],
+    "propane": [
+      "Industriell propanuppvärmning",
+      "Oxy-bränsleskärning med acetylen",
+      "Verkstad och byggvärme",
+      "Växtpropanförsörjning",
+      "Kok- och processvärme där propan anges"
+    ],
+    "lpg": [
+      "Gasdistribution för bostäder och kommersiellt bruk",
+      "Bärbar gasolförsörjning",
+      "Camping och catering gas",
+      "Uppvärmning med gasolblandningar",
+      "Grossistförsäljning av gasolflaskor för lokala marknader"
+    ],
+    "industrial": [
+      "Svets- och skärgasförsörjning",
+      "Anläggnings- och verkstadscylinderlager",
+      "Distributör industrigasledningar",
+      "Projekt och byggarbetsplatser"
+    ],
+    "generators": [
+      "Acetylenproduktion på plats från kalciumkarbid",
+      "Verkstäder utan acetylenförsörjning på flaska",
+      "Svetsning och skärning där cylinderlogistiken är begränsad",
+      "Industrianläggningar som behöver en lokal acetylenkälla"
+    ],
+    "accessories": [
+      "Cylinder- och regulatorenheter",
+      "Oxy-fuel svetsning och skärinställningar",
+      "Byte av slang, mätare och ventil",
+      "Säkerhetsbeslag för verkstadsgashantering"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Gascylindertillverkare för industriella köpare",
-    "text": "Wanda Group tillverkar acetylencylindrar, propancylindrar, generatorer och tillbehör för svetsning, skärning och industriell gasförsörjning.",
+    "text": "Wanda Group tillverkar acetylencylindrar, propan- och gasolflaskor, generatorer och svetstillbehör och levererar även kylutrustning till industriella köpare.",
     "text2": "Vi stödjer utländska köpare med produktval, OEM, inspektion, packning och frakt.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Vilka produkter levererar du huvudsakligen?",
-            "a": "Vi levererar acetylenflaskor, propanflaskor, acetylengeneratorer och gasflasktillbehör som ventiler, regulatorer, slangar, tryckmätare och ficklampor."
+            "a": "Vi levererar acetylenflaskor, propan- och gasolflaskor, acetylengeneratorer, gasflasktillbehör och kylutrustning som en separat produktlinje."
           },
           {
             "q": "Kan du stödja OEM-anpassning?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Kan jag titta på fabriksvideor innan jag gör en beställning?",
-            "a": "Ja. Se produktionsvideor i avsnittet Factory på den här sidan. Extra filmmaterial, packklämmor och certifikat skickas privat på begäran."
+            "a": "Ja. Se produktionsvideor på Factory-sidan. Extra filmmaterial, packklämmor och certifikatkopior skickas privat på begäran."
           },
           {
             "q": "Tillhandahåller du produktvideor, speciellt för acetylencylindrar?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Kan tillbehör beställas tillsammans med gasflaskor?",
-            "a": "Ja. Tillbehör kan levereras tillsammans med acetylencylindrar, propancylindrar och acetylengeneratorer."
+            "a": "Ja. Tillbehör kan levereras tillsammans med acetylen-, propan- och gasolflaskor och acetylengeneratorer."
           },
           {
             "q": "Stöder du OEM-packning?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Få exakt offert",
     "certifications": "Certifieringar",
     "order": "Beställa",
-    "reviews": "Recensioner",
+    "reviews": "Köparanteckningar",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Plats",
@@ -587,7 +626,7 @@
     "exportReady": "Export klar",
     "years": "år",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO-certifierad",
+    "isoCertified": "Standarder på begäran",
     "globalExport": "Global export",
     "products": "Produkter",
     "specs": "Specifikationer",
@@ -695,16 +734,16 @@
       "note": "* Exakta parametrar beror på standard (ISO/DOT/GB) och ventilkonfiguration. Begär specifikationsblad för din marknad."
     },
     "propane": {
-      "title": "Propan- och gasolcylindrar",
-      "intro": "Cylindrar för propan-, butan- och gasolblandningar. Används vid uppvärmning, skärning, hårdlödning, konstruktion och industriell gasförsörjning.",
+      "title": "WG-P cylindersortiment",
+      "intro": "WG-P-modellerna är en cylinderfamilj av stål. Fyllgas – propan eller gasol (propan, butan eller blandningar) – specificeras per order och destinationsmarknad.",
       "features": [
-        "37Mn/34CrMo4 stål enligt ISO 9809",
+        "Stålkvalitet och tillämplig cylinderstandard bekräftas per beställning",
         "Arbetstryck 1,8–2,1 MPa",
-        "POL, CGA 510, GOST ventiler",
-        "Pulverlackering, rostskydd",
-        "Certifikat för EU, USA, OSS-marknader"
+        "POL, CGA 510, GOST-ventiler diskuteras per marknad",
+        "Pulverlackering och rostskyddsfinish",
+        "Certifieringsalternativ diskuteras per destinationsmarknad"
       ],
-      "tableTitle": "Standard propancylindermodeller",
+      "tableTitle": "Standard WG-P cylindermodeller",
       "headers": [
         "Model",
         "Volym (L)",
@@ -768,10 +807,10 @@
       "intro": "Utrustning för framställning av acetylen från kalciumkarbid. Stabil gasförsörjning för svets- och industribehov utan centraliserad gasinfrastruktur.",
       "features": [
         "Effekt 3–100 m³/h kapacitet",
-        "Automatisk vatten- och karbidmatning",
-        "Säkerhetssystem & filtrering",
+        "Vatten- och karbidmatningsalternativ diskuteras per modell",
+        "Säkerhetssystem och filtrering enligt specifikation för modellen",
         "Kompakta och industriella modeller",
-        "Full dokumentation och utbildning"
+        "Beställningsdokumentation medföljer. Operatörsutbildning kan diskuteras på begäran"
       ],
       "tableTitle": "Acetylengeneratormodeller",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatorer levereras med kylsystem, filter och reservdelssats på begäran."
     },
     "accessories": {
-      "title": "Cylindertillbehör & beslag",
+      "title": "Svetstillbehör & Cylinderbeslag",
       "intro": "Komplett sortiment för säker drift av gasflaskor: från mätare till svetsbrännare. Engångsupphandling med cylindrar.",
       "features": [
         "Regulatorer och mätare (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Facklor",
           "WG-C100, WG-C300",
           "—",
-          "Plasma/oxyskärning"
+          "Oxy-bränsle skärning"
         ],
         [
           "Brännare",
@@ -881,7 +920,7 @@
           "Alla cylindertyper"
         ]
       ],
-      "note": "* Tillbehör finns separat eller med cylindrar. Rabatt på kombinerade beställningar."
+      "note": "* Tillbehör kan offereras separat eller tillsammans med cylindrar. Prissättning för kombinerad beställning bekräftas i offerten."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistik",
-        "desc": "Komplett internationell leveranssupport.",
+        "desc": "Exportpackning och fraktsamordning för utländska köpare.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Exportera dokumentation",
-          "Sjö- och järnvägsfrakt"
+          "Sjö- och järnvägsfraktalternativ"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kvalitetskontroll",
-        "desc": "Provning och inspektion i varje skede.",
+        "desc": "Besiktning och provning under produktion enligt beställning.",
         "points": [
           "Hydrostatiska tester",
-          "UT svetsinspektion",
-          "SGS/BV besiktning på begäran"
+          "Svetsinspektion enligt specifikation",
+          "Tredjepartsbesiktning på begäran"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certifiering",
         "desc": "Dokument för tull och tillsynsmyndigheter. Kopior skickas privat på begäran.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & kvalitetscertifikat",
-          "Ursprungsintyg"
+          "Standarder diskuteras per produkt och marknad",
+          "Säkerhetsdatablad och kvalitetsdokument på begäran",
+          "Ursprungsintyg på begäran"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Hjälp att välja produkter och konfiguration.",
         "points": [
           "Marknadsbaserat urval",
-          "MOQ & ledtidsberäkning",
-          "Personalutbildning"
+          "MOQ och ledtid diskuteras per beställning",
+          "Operatörsvägledning diskuteras på begäran"
         ]
       },
       {
         "icon": "📦",
         "title": "Paketförsörjning",
-        "desc": "Cylindrar + tillbehör i en beställning.",
+        "desc": "Cylindrar och tillbehör i en beställning.",
         "points": [
-          "Enstaka kontrakt",
+          "Enskild förfrågan",
           "Samordnad leverans",
-          "Paketrabatt"
+          "Kombinerad beställningsprissättning i offerten"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Sömlösa gasflaskor av stål — tekniska krav"
+        "desc": "Påfyllningsbara sömlösa gasflaskor i stål — kylda och härdade stål. Diskuteras per produkt och destinationsmarknad."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Upplösta acetylencylindrar"
+        "desc": "Gasflaskor — påfyllningsbara sömlösa gasflaskor av stål — konstruktion, konstruktion och provning — Del 3: normaliserade stålcylindrar. Inte en acetylen-cylinderstandard (se ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylencylindrar — grundläggande krav och typprovning. Diskuteras för acetylenprodukter på begäran. Tillämpligheten bekräftas per beställning."
       },
       {
         "name": "DOT 3AA",
-        "desc": "USA-marknadens cylinderstandard — tillämplighet bekräftad per produkt och beställning"
+        "desc": "USA-specifikation för sömlösa stålcylindrar — tillämplighet bekräftad per produkt och beställning"
       },
       {
         "name": "TPED",
-        "desc": "Europeiska transportkrav — diskuteras per destinationsmarknad"
+        "desc": "EU:s direktiv för transportabla tryckbärande anordningar – diskuteras per destinationsmarknad"
       },
       {
         "name": "GB 5099",
-        "desc": "Kinesisk gasflaska standard"
+        "desc": "Kinesisk nationell standard för sömlösa stålgasflaskor – tillämplighet bekräftad per produkt och beställning"
       },
       {
         "name": "CE Mark",
-        "desc": "Europeisk överensstämmelsemärkning — tillämplighet per produkt och marknad"
+        "desc": "Europeisk överensstämmelsemärkning — tillämplighet per produkt och marknad. Inte en ersättning för en publicerad certifikatfil."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Vad köparna säger",
+    "title": "Vad industriella köpare vanligtvis efterfrågar",
     "items": [
       {
-        "quote": "Vi beställde om 40L acetylenflaskor tre gånger i år. GOST-ventiler, OEM-färg och exportförpackning matchade det första provet varje gång.",
-        "author": "Rustam Yusupov",
-        "role": "Ägare, svetsgasfördelare",
-        "country": "Uzbekistan"
+        "quote": "OEM-färg, ventiltyp och exportförpackning matchade ett bekräftat prov innan upprepad leverans.",
+        "author": "Distributor inquiries",
+        "role": "Svetsgasförsörjning",
+        "country": "Central Asia"
       },
       {
-        "quote": "Citat kom samma dag med en tydlig MOQ och ledtid. Propanflaskor anlände med POL-ventiler och full packlista — inga tullförseningar från vår sida.",
-        "author": "Aigerim Bekova",
-        "role": "Inköpschef, industriförsörjning",
-        "country": "Kazakhstan"
+        "quote": "Rensa MOQ, ledtid och packlista bekräftas i offerten - inte som fasta webbplatspriser.",
+        "author": "Procurement inquiries",
+        "role": "Industriellt utbud",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Vi köper cylindrar med regulatorer och slangar som en containerbeställning. Dokument och märkning var redo för vår marknad, så vidareförsäljningen var enkel.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importköpare, handel med gasutrustning",
-        "country": "Saudi Arabia"
+        "quote": "Cylindrar med regulatorer och slangar citerade som en kombinerad beställning, med märkning diskuterad för destinationsmarknaden.",
+        "author": "Import inquiries",
+        "role": "Handel med gasutrustning",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Vilka vi är",
     "title": "Industriell tillverkare för B2B-köpare",
-    "text": "Wanda Groups tillverkar och levererar industriella gasflaskor, generatorer och svetstillbehör till utländska distributörer, OEM-partners och projektköpare.",
+    "text": "Wanda Groups tillverkar och levererar industriella gasflaskor, generatorer, svetstillbehör och kylutrustning till utländska distributörer, OEM-partners och projektköpare.",
     "text2": "Vårt fokus är fabriksanknuten leverans, produktvalsstöd, bulkorder och exportsamordning – inte konsumentförsäljning i detaljhandeln.",
     "cta": "Läs mer om oss"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Redo att begära en offert?",
       "quoteCta": "Begär en offert",
       "relatedProducts": "Relaterade produkter",
+      "productFamilies": "Produktfamiljer",
       "applications": "Applications",
       "standardsTitle": "Standarder & certifiering",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gascylindertillverkare | Industriell OEM och export | Wanda grupper",
-      "seoDescription": "Wanda Groups tillverkar industrigasflaskor, generatorer och svetstillbehör för OEM-, grossist- och internationella exportköpare."
+      "seoDescription": "Wanda Groups tillverkar industriella gasflaskor, generatorer, svetstillbehör och kylutrustning för OEM-, grossist- och internationella exportköpare."
     },
     "about": {
       "label": "Om oss",
       "title": "Gascylindertillverkare för industriella köpare",
       "subtitle": "Vi stödjer utländska köpare med produktval, OEM, inspektion, packning och frakt.",
       "seoTitle": "Om Wanda Group",
-      "seoDescription": "Wanda Group tillverkar acetylencylindrar, propancylindrar, generatorer och tillbehör för svetsning, skärning och industriell gasförsörjning."
+      "seoDescription": "Wanda Group tillverkar acetylen-, propan- och gasolcylindrar, generatorer, svetstillbehör och kylutrustning för industriella exportköpare."
     },
     "products": {
       "label": "Produkter",
       "title": "Våra produkter",
-      "subtitle": "Acetylencylindrar, generatorer, propancylindrar och tillbehör för industri- och svetsapplikationer.",
+      "subtitle": "Acetylen-, propan- och gasolflaskor, generatorer, svetstillbehör och kylutrustning för industriella köpare.",
       "seoTitle": "Gascylinderprodukter",
-      "seoDescription": "Acetylencylindrar, generatorer, propancylindrar och tillbehör för industri- och svetsapplikationer.",
+      "seoDescription": "Acetylen-, propan- och gasolflaskor, acetylengeneratorer, svetstillbehör och kylutrustning från Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Upplösta acetylencylindrar",
           "overview": "Stålcylindrar med porös massa och lösningsmedel för säker lagring och transport av acetylen. Används vid svetsning, skärning, hårdlödning och metalltillverkning.",
+          "application": "Oxy-acetylensvetsning, skärning och lödning",
           "seoTitle": "Acetylengascylindrar",
           "seoDescription": "Stålcylindrar med porös massa och lösningsmedel för säker lagring och transport av acetylen. Används vid svetsning, skärning, hårdlödning och metalltillverkning."
         },
         "propane": {
           "name": "Propancylindrar",
-          "overview": "Stålcylindrar för lagring och transport av propangas. Används för uppvärmning, industriell propanförsörjning, matlagning och skärning av syrebränsle i kombination med acetylen.",
+          "overview": "Stålcylindrar specificerade för propanfyllning. Används för uppvärmning, industriell propanförsörjning, matlagning och skärning av syrebränsle i kombination med acetylen.",
+          "application": "Industriell propanuppvärmning, skärning och anläggningstillförsel",
+          "familyNote": "Propancylindrar och gasolflaskor använder samma WG-P stålcylindrar. Den här sidan täcker propanfyllning och propanspecifika användningar. LPG-blandningar och distributionsförsörjning beskrivs på sidan LPG-cylindrar.",
           "seoTitle": "Propangascylindrar",
-          "seoDescription": "Propangascylindrar av stål för uppvärmning, industriell försörjning och skärande applikationer. Export- och OEM-alternativ diskuteras per beställning."
+          "seoDescription": "Stålcylindrar för propanfyllning — uppvärmning, industriförsörjning och skärning av syrebränsle. Samma WG-P-sortiment som gasol; fyllgas specificerad per beställning."
         },
         "lpg": {
           "name": "LPG-cylindrar",
-          "overview": "Cylindrar för flytande petroleumgas (LPG) — propan, butan eller blandade blandningar. Vanligt för hushåll och kommersiell gasoldistribution, camping, uppvärmning och portabel bränsleförsörjning.",
+          "overview": "Cylindrar för flytande petroleumgas (LPG) — propan, butan eller blandade blandningar. Används för bostäder och kommersiell gasoldistribution, camping, uppvärmning och bärbar bränsleförsörjning.",
+          "application": "Gasdistribution, bärbart bränsle och blandningsbaserad uppvärmning",
+          "familyNote": "Gasolflaskor och propanflaskor använder samma WG-P stålcylindrar. Den här sidan täcker gasolblandningar och distributionsanvändning. Användning av enbart propan och industriell propan beskrivs på sidan med propancylindrar.",
           "seoTitle": "LPG gasolflaskor",
-          "seoDescription": "LPG-flaskor för bostäder, kommersiella och industriella distribution av flytande petroleumgas och portabel leverans."
+          "seoDescription": "Gasolflaskor för bostäder, kommersiella och industriella distribution av flytande petroleumgas. Samma WG-P-sortiment som propancylindrar; fyllning specificerad per beställning."
         },
         "industrial": {
           "name": "Industriella gascylindrar",
           "overview": "Industriella gasflaskor för svetsning, skärning och anläggningstillförsel — inklusive acetylen, propan och gasol-alternativ anpassade till din marknad.",
+          "application": "Anläggning, distributör och projekt cylinderförsörjning",
           "seoTitle": "Industriella gascylindrar",
           "seoDescription": "Industrigasflaskor för svetsning, skärning och anläggningstillförsel från Wanda Group."
         },
         "generators": {
           "name": "Acetylengeneratorer",
           "overview": "Utrustning för framställning av acetylen från kalciumkarbid. Stabil gasförsörjning för svets- och industribehov utan centraliserad gasinfrastruktur.",
+          "application": "Acetylengenerering på plats från kalciumkarbid",
           "seoTitle": "Acetylengeneratorer",
           "seoDescription": "Utrustning för framställning av acetylen från kalciumkarbid. Stabil gasförsörjning för svets- och industribehov utan centraliserad gasinfrastruktur."
         },
         "accessories": {
-          "name": "Cylindertillbehör & beslag",
+          "name": "Svetstillbehör & Cylinderbeslag",
           "overview": "Komplett sortiment för säker drift av gasflaskor: från mätare till svetsbrännare. Engångsupphandling med cylindrar.",
-          "seoTitle": "Svetstillbehör",
-          "seoDescription": "Komplett sortiment för säker drift av gasflaskor: från mätare till svetsbrännare. Engångsupphandling med cylindrar."
+          "application": "Oxy-bränsle inställningar, regulatorer, slangar, ventiler och mätare",
+          "seoTitle": "Svetstillbehör & Cylinderbeslag",
+          "seoDescription": "Svetstillbehör och cylinderbeslag — regulatorer, slangar, mätare, brännare och ventiler, levereras med cylindrar eller separat."
         },
         "refrigeration": {
           "name": "Kylaggregat",
           "overview": "En separat Wanda Group-linje – inte en tredjepartskatalog. Kondenseringsaggregat, kylrum och hårdvara, levererade av oss med cylindrar eller som fristående beställning.",
+          "application": "Kylrum, matkylkedja och industriell kyla",
           "seoTitle": "Kylaggregat",
-          "seoDescription": "En separat Wanda Group-linje – inte en tredjepartskatalog. Kondenseringsaggregat, kylrum och hårdvara, levererade av oss med cylindrar eller som fristående beställning."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

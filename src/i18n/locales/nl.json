@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Fabrikant van industriële gasflessen",
     "title": "Fabrikant van industriële gasflessen en apparatuur",
-    "subtitle": "Productie, OEM en groothandel van acetyleencilinders, propaan/LPG-cilinders, generatoren en lasaccessoires voor internationale exportkopers.",
+    "subtitle": "Productie, OEM en groothandel van acetyleen-, propaan- en LPG-cilinders, generatoren, lasaccessoires en koelapparatuur voor internationale exportkopers.",
     "lineGas": "Gasflessen",
     "lineCold": "Koeleenheden",
     "cta": "Ontvang een offerte",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Onze producten",
-    "subtitle": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+    "subtitle": "Acetyleen-, propaan- en LPG-cilinders, generatoren, lasaccessoires en koelapparatuur voor industriële afnemers.",
     "viewDetails": "Details bekijken",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propaan cilinder",
         "spec": "3L–50L · ventielopties per markt",
-        "desc": "Duurzame LPG-cilinders voor verwarmen, snijden en industrieel gebruik.",
+        "desc": "Stalen cilinders voor propaanvulling - verwarming, snijden en industriële levering.",
         "icon": "🛢️"
       },
       {
-        "title": "Cilinderaccessoires",
+        "title": "Accessoires voor lassen",
         "spec": "Kleppen · regelaars · slangen · toortsen",
-        "desc": "Bijpassend beslag geleverd bij cilinders of apart te bestellen.",
+        "desc": "Lasaccessoires en cilinderfittingen, geleverd met cilinders of afzonderlijk.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaceutische en medische koelopslag",
       "Logistiek en koeltransport",
       "Industriële koeling en proceschillers"
+    ],
+    "acetylene": [
+      "Oxy-acetyleen lassen",
+      "Zuurstofsnijden",
+      "Solderen en verwarmen",
+      "Metaalbewerkingswinkels",
+      "Scheepswerf en onderhoudswerkzaamheden"
+    ],
+    "propane": [
+      "Industriële propaanverwarming",
+      "Zuurstofsnijden met acetyleen",
+      "Verwarming van werkplaats en constructie",
+      "Propaanvoorziening van planten",
+      "Kook- en proceswarmte waarbij propaan is gespecificeerd"
+    ],
+    "lpg": [
+      "Residentiële en commerciële LPG-distributie",
+      "Draagbare LPG-brandstoftoevoer",
+      "Camping- en horecagas",
+      "Verwarmen met LPG-mengsels",
+      "Groothandel in LPG-cilindervulling voor lokale markten"
+    ],
+    "industrial": [
+      "Levering van las- en snijgas",
+      "Cilindervoorraad fabriek en werkplaats",
+      "Distributeur industriële gasleidingen",
+      "Project- en bouwplaatsen"
+    ],
+    "generators": [
+      "On-site acetyleenproductie uit calciumcarbide",
+      "Workshops zonder voorraad acetyleen in flessen",
+      "Lassen en snijden waarbij de cilinderlogistiek beperkt is",
+      "Industriële locaties die een lokale acetyleenbron nodig hebben"
+    ],
+    "accessories": [
+      "Cilinder- en regelaarsamenstellen",
+      "Opstellingen voor lassen en snijden met zuurstofbrandstof",
+      "Slang, meter en klep vervangen",
+      "Veiligheidsfittingen voor gasverwerking in de werkplaats"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Fabrikant van gasflessen voor industriële afnemers",
-    "text": "Wanda Group produceert acetyleencilinders, propaancilinders, generatoren en accessoires voor lassen, snijden en industriële gasvoorziening.",
+    "text": "Wanda Group produceert acetyleencilinders, propaan- en LPG-cilinders, generatoren en lasaccessoires en levert tevens koelapparatuur voor industriële afnemers.",
     "text2": "Wij ondersteunen buitenlandse kopers met productselectie, OEM, inspectie, verpakking en verzending.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Welke producten levert u voornamelijk?",
-            "a": "Wij leveren acetyleencilinders, propaancilinders, acetyleengeneratoren en gasflesaccessoires zoals kleppen, regelaars, slangen, manometers en toortsen."
+            "a": "Wij leveren acetyleencilinders, propaan- en LPG-cilinders, acetyleengeneratoren, gasflessenaccessoires en koelapparatuur als een aparte productlijn."
           },
           {
             "q": "Kunt u OEM-aanpassing ondersteunen?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Kan ik fabrieksvideo's bekijken voordat ik een bestelling plaats?",
-            "a": "Ja. Bekijk productievideo's in het gedeelte Fabriek op deze pagina. Extra beeldmateriaal, verpakkingsclips en certificaten worden op verzoek privé toegestuurd."
+            "a": "Ja. Bekijk productievideo's op de Fabriekspagina. Extra beeldmateriaal, verpakkingsclips en certificaatkopieën worden op verzoek privé verzonden."
           },
           {
             "q": "Levert u productvideo's, vooral voor acetyleencilinders?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Kunnen accessoires samen met gasflessen worden besteld?",
-            "a": "Ja. Accessoires kunnen samen met acetyleencilinders, propaancilinders en acetyleengeneratoren worden geleverd."
+            "a": "Ja. Accessoires kunnen samen met acetyleen-, propaan- en LPG-cilinders en acetyleengeneratoren worden geleverd."
           },
           {
             "q": "Ondersteunt u OEM-verpakkingen?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Ontvang een exacte offerte",
     "certifications": "Certificeringen",
     "order": "Volgorde",
-    "reviews": "Recensies",
+    "reviews": "Opmerkingen van koper",
     "contact": "Contact",
     "phone": "Telefoon",
     "location": "Locatie",
@@ -587,7 +626,7 @@
     "exportReady": "Klaar voor exporteren",
     "years": "Jaren",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO-gecertificeerd",
+    "isoCertified": "Normen op aanvraag",
     "globalExport": "Mondiale export",
     "products": "Producten",
     "specs": "Specificaties",
@@ -695,16 +734,16 @@
       "note": "* Exacte parameters zijn afhankelijk van de standaard (ISO/DOT/GB) en klepconfiguratie. Vraag het specificatieblad voor uw markt aan."
     },
     "propane": {
-      "title": "Propaan- en LPG-cilinders",
-      "intro": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening.",
+      "title": "WG-P cilinderreeks",
+      "intro": "De WG-P-modellen vormen één stalen cilinderfamilie. Vulgas – propaan of LPG (propaan, butaan of mengsels) – wordt gespecificeerd per bestelling en bestemmingsmarkt.",
       "features": [
-        "37Mn/34CrMo4 staal volgens ISO 9809",
+        "Staalkwaliteit en toepasselijke cilinderstandaard bevestigd per bestelling",
         "Werkdruk 1,8–2,1 MPa",
-        "POL, CGA 510, GOST-kleppen",
-        "Poedercoating, anti-corrosie",
-        "Certificaten voor de EU-, VS- en GOS-markten"
+        "POL, CGA 510, GOST kleppen per markt besproken",
+        "Poedercoating en corrosiewerende afwerking",
+        "Certificeringsopties besproken per bestemmingsmarkt"
       ],
-      "tableTitle": "Standaard propaancilindermodellen",
+      "tableTitle": "Standaard WG-P-cilindermodellen",
       "headers": [
         "Model",
         "Inhoud (L)",
@@ -768,10 +807,10 @@
       "intro": "Apparatuur voor de productie van acetyleen uit calciumcarbide. Stabiele gastoevoer voor lassen en industriële behoeften zonder gecentraliseerde gasinfrastructuur.",
       "features": [
         "Capaciteit 3–100 m³/u",
-        "Automatische water- en carbidetoevoer",
-        "Veiligheidssysteem en filtratie",
+        "Water- en carbidetoevoeropties per model besproken",
+        "Veiligheidssysteem en filtratie zoals gespecificeerd voor het model",
         "Compacte en industriële modellen",
-        "Volledige documentatie en training"
+        "Besteldocumentatie meegeleverd. Op verzoek kan een operatortraining worden besproken"
       ],
       "tableTitle": "Acetyleengeneratormodellen",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatoren worden op aanvraag geleverd met koelsysteem, filters en reserveonderdelenset."
     },
     "accessories": {
-      "title": "Cilinderaccessoires en fittingen",
+      "title": "Lasaccessoires en cilinderfittingen",
       "intro": "Compleet assortiment voor veilig gebruik van gascilinders: van meters tot lastoortsen. One-stop-inkoop met cilinders.",
       "features": [
         "Regelaars en meters (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Fakkels",
           "WG-C100, WG-C300",
           "—",
-          "Plasma/oxysnijden"
+          "Zuurstofsnijden"
         ],
         [
           "Branders",
@@ -881,7 +920,7 @@
           "Alle cilindertypes"
         ]
       ],
-      "note": "* Accessoires afzonderlijk verkrijgbaar of gebundeld met cilinders. Korting op gecombineerde bestellingen."
+      "note": "* Accessoires kunnen afzonderlijk of samen met cilinders worden aangeboden. De prijzen voor gecombineerde bestellingen worden bevestigd in de offerte."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistiek",
-        "desc": "Volledige internationale verzendondersteuning.",
+        "desc": "Exportverpakking en verzendcoördinatie voor buitenlandse kopers.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Exportdocumentatie",
-          "Zee- en spoorvracht"
+          "Opties voor zee- en spoorvervoer"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kwaliteitscontrole",
-        "desc": "Testen en inspectie in elke fase.",
+        "desc": "Inspectie en testen tijdens de productie volgens de bestelling.",
         "points": [
           "Hydrostatische tests",
-          "UT lasinspectie",
-          "SGS/BV keuring op aanvraag"
+          "Lasinspectie zoals gespecificeerd",
+          "Inspectie door derden op aanvraag"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certificering",
         "desc": "Documenten voor douane en toezichthouders. Op verzoek worden kopieën privé verzonden.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & kwaliteitscertificaat",
-          "Certificaat van oorsprong"
+          "Normen besproken per product en markt",
+          "MSDS en kwaliteitsdocumenten op aanvraag",
+          "Certificaat van oorsprong op aanvraag"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Hulp bij het selecteren van producten en configuratie.",
         "points": [
           "Marktconforme selectie",
-          "MOQ & doorlooptijdberekening",
-          "Opleiding van het personeel"
+          "MOQ en doorlooptijd besproken per bestelling",
+          "Operatorbegeleiding besproken op aanvraag"
         ]
       },
       {
         "icon": "📦",
         "title": "Bundellevering",
-        "desc": "Cilinders + accessoires in één bestelling.",
+        "desc": "Cilinders en accessoires in één bestelling.",
         "points": [
-          "Enkel contract",
+          "Enkele aanvraag",
           "Gecoördineerde levering",
-          "Bundelkorting"
+          "Prijzen voor gecombineerde bestellingen in de offerte"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Naadloze stalen gasflessen — technische vereisten"
+        "desc": "Hervulbare naadloze stalen gasflessen — gehard en getemperd staal. Besproken per product en bestemmingsmarkt."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Opgeloste acetyleencilinders"
+        "desc": "Gascilinders — hervulbare naadloze stalen gascilinders — ontwerp, constructie en testen — Deel 3: genormaliseerde stalen cilinders. Geen acetyleencilindernorm (zie ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetyleencilinders — basisvereisten en typetests. Op verzoek besproken voor acetyleenproducten. Toepasselijkheid wordt per bestelling bevestigd."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Cilindernorm op de Amerikaanse markt – toepasbaarheid bevestigd per product en bestelling"
+        "desc": "Amerikaanse specificatie voor naadloze stalen cilinders – toepasbaarheid bevestigd per product en bestelling"
       },
       {
         "name": "TPED",
-        "desc": "Europese transportvereisten – besproken per bestemmingsmarkt"
+        "desc": "EU-richtlijn vervoerbare drukapparatuur – besproken per bestemmingsmarkt"
       },
       {
         "name": "GB 5099",
-        "desc": "Chinese gasflesstandaard"
+        "desc": "Chinese nationale norm voor naadloze stalen gasflessen – toepasbaarheid bevestigd per product en bestelling"
       },
       {
         "name": "CE Mark",
-        "desc": "Europese conformiteitsmarkering — toepasbaarheid per product en markt"
+        "desc": "Europese conformiteitsmarkering — toepasbaarheid per product en markt. Geen vervanging voor een gepubliceerd certificaatbestand."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Wat kopers zeggen",
+    "title": "Waar industriële kopers doorgaans om vragen",
     "items": [
       {
-        "quote": "We hebben dit jaar drie keer acetyleencilinders van 40 liter opnieuw besteld. GOST-kleppen, OEM-kleur en exportverpakking kwamen elke keer overeen met het eerste monster.",
-        "author": "Rustam Yusupov",
-        "role": "Eigenaar, lasgasdistributeur",
-        "country": "Uzbekistan"
+        "quote": "OEM-kleur, kleptype en exportverpakking afgestemd op een bevestigd monster vóór herhaalde levering.",
+        "author": "Distributor inquiries",
+        "role": "Levering van lasgas",
+        "country": "Central Asia"
       },
       {
-        "quote": "De offerte kwam dezelfde dag met een duidelijke MOQ en doorlooptijd. Propaanflessen arriveerden met POL-kleppen en een volledige paklijst – geen douanevertragingen aan onze kant.",
-        "author": "Aigerim Bekova",
-        "role": "Inkoopmanager, industriële toelevering",
-        "country": "Kazakhstan"
+        "quote": "Duidelijke MOQ, doorlooptijd en paklijst bevestigd in de offerte – niet als vaste websiteprijzen.",
+        "author": "Procurement inquiries",
+        "role": "Industriële levering",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "We kopen cilinders met regelaars en slangen in één containerbestelling. Documenten en markering waren klaar voor onze markt, dus wederverkoop was eenvoudig.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importkoper, handel in gasapparatuur",
-        "country": "Saudi Arabia"
+        "quote": "Cilinders met regelaars en slangen worden als één gecombineerde bestelling aangeboden, waarbij de markering wordt besproken voor de bestemmingsmarkt.",
+        "author": "Import inquiries",
+        "role": "Handel in gasapparatuur",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Wie wij zijn",
     "title": "Industriële fabrikant voor B2B-kopers",
-    "text": "Wanda Groups produceert en levert industriële gasflessen, generatoren en lasaccessoires voor buitenlandse distributeurs, OEM-partners en projectkopers.",
+    "text": "Wanda Groups produceert en levert industriële gasflessen, generatoren, lasaccessoires en koelapparatuur voor buitenlandse distributeurs, OEM-partners en projectkopers.",
     "text2": "Onze focus ligt op fabrieksgebonden leveringen, ondersteuning bij productselectie, bulkbestellingen en exportcoördinatie – niet op de detailhandel aan consumenten.",
     "cta": "Leer meer over ons"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Klaar om een ​​offerte aan te vragen?",
       "quoteCta": "Vraag een offerte aan",
       "relatedProducts": "Gerelateerde producten",
+      "productFamilies": "Productfamilies",
       "applications": "Applications",
       "standardsTitle": "Normen & certificering",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Fabrikant van gasflessen | Industriële OEM en export | Wanda-groepen",
-      "seoDescription": "Wanda Groups produceert industriële gasflessen, generatoren en lasaccessoires voor OEM, groothandel en internationale exportkopers."
+      "seoDescription": "Wanda Groups produceert industriële gasflessen, generatoren, lasaccessoires en koelapparatuur voor OEM, groothandel en internationale exportkopers."
     },
     "about": {
       "label": "Over ons",
       "title": "Fabrikant van gasflessen voor industriële afnemers",
       "subtitle": "Wij ondersteunen buitenlandse kopers met productselectie, OEM, inspectie, verpakking en verzending.",
       "seoTitle": "Over Wandagroep",
-      "seoDescription": "Wanda Group produceert acetyleencilinders, propaancilinders, generatoren en accessoires voor lassen, snijden en industriële gasvoorziening."
+      "seoDescription": "Wanda Group produceert acetyleen-, propaan- en LPG-cilinders, generatoren, lasaccessoires en koelapparatuur voor industriële exportkopers."
     },
     "products": {
       "label": "Producten",
       "title": "Onze producten",
-      "subtitle": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+      "subtitle": "Acetyleen-, propaan- en LPG-cilinders, generatoren, lasaccessoires en koelapparatuur voor industriële afnemers.",
       "seoTitle": "Gasflesproducten",
-      "seoDescription": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+      "seoDescription": "Acetyleen-, propaan- en LPG-cilinders, acetyleengeneratoren, lasaccessoires en koelapparatuur van Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Opgeloste acetyleencilinders",
           "overview": "Stalen cilinders met poreuze massa en oplosmiddel voor veilige opslag en transport van acetyleen. Gebruikt bij lassen, snijden, solderen en metaalproductie.",
+          "application": "Oxy-acetyleenlassen, snijden en solderen",
           "seoTitle": "Acetyleengasflessen",
           "seoDescription": "Stalen cilinders met poreuze massa en oplosmiddel voor veilige opslag en transport van acetyleen. Gebruikt bij lassen, snijden, solderen en metaalproductie."
         },
         "propane": {
           "name": "Propaancilinders",
-          "overview": "Stalen cilinders voor opslag en transport van propaangas. Wordt gebruikt voor verwarming, industriële propaantoevoer, koken en autogeen snijden in combinatie met acetyleen.",
+          "overview": "Stalen cilinders gespecificeerd voor propaanvulling. Wordt gebruikt voor verwarming, industriële propaantoevoer, koken en autogeen snijden in combinatie met acetyleen.",
+          "application": "Industriële propaanverwarming, snij- en installatievoorziening",
+          "familyNote": "Propaancilinders en LPG-cilinders maken gebruik van hetzelfde WG-P stalen cilinderassortiment. Deze pagina behandelt propaanvulling en propaanspecifiek gebruik. LPG-mengsels en distributieaanbod worden beschreven op de pagina LPG-cilinders.",
           "seoTitle": "Propaangasflessen",
-          "seoDescription": "Stalen propaangasflessen voor verwarming, industriële levering en snijtoepassingen. Export- en OEM-opties per bestelling besproken."
+          "seoDescription": "Stalen cilinders voor propaanvulling - verwarming, industriële levering en zuurstofsnijden. Zelfde WG-P-bereik als LPG; vulgas gespecificeerd per bestelling."
         },
         "lpg": {
           "name": "LPG-cilinders",
-          "overview": "Cilinders voor vloeibaar petroleumgas (LPG) – propaan, butaan of gemengde mengsels. Gebruikelijk voor residentiële en commerciële LPG-distributie, kamperen, verwarming en draagbare brandstoftoevoer.",
+          "overview": "Cilinders voor vloeibaar petroleumgas (LPG) – propaan, butaan of gemengde mengsels. Gebruikt voor residentiële en commerciële LPG-distributie, kamperen, verwarming en draagbare brandstoftoevoer.",
+          "application": "LPG-distributie, draagbare brandstof en verwarming op basis van mengsels",
+          "familyNote": "LPG-cilinders en propaancilinders maken gebruik van hetzelfde WG-P-stalen cilinderprogramma. Deze pagina behandelt LPG-mengsels en distributiegebruik. Het vullen van uitsluitend propaan en het gebruik van industrieel propaan worden beschreven op de pagina Propaancilinders.",
           "seoTitle": "LPG-gasflessen",
-          "seoDescription": "LPG-cilinders voor residentiële, commerciële en industriële distributie van vloeibaar petroleumgas en draagbare levering."
+          "seoDescription": "LPG-cilinders voor residentiële, commerciële en industriële distributie van vloeibaar petroleumgas. Hetzelfde WG-P-assortiment als propaancilinders; vulling gespecificeerd per bestelling."
         },
         "industrial": {
           "name": "Industriële gasflessen",
           "overview": "Industriële gasflessen voor lassen, snijden en levering van installaties – inclusief acetyleen-, propaan- en LPG-opties afgestemd op uw markt.",
+          "application": "Levering van fabrieks-, distributeur- en projectcilinders",
           "seoTitle": "Industriële gasflessen",
           "seoDescription": "Industriële gasflessen voor lassen, snijden en installatievoorziening van Wanda Group."
         },
         "generators": {
           "name": "Acetyleengeneratoren",
           "overview": "Apparatuur voor de productie van acetyleen uit calciumcarbide. Stabiele gastoevoer voor lassen en industriële behoeften zonder gecentraliseerde gasinfrastructuur.",
+          "application": "On-site acetyleenproductie uit calciumcarbide",
           "seoTitle": "Acetyleengeneratoren",
           "seoDescription": "Apparatuur voor de productie van acetyleen uit calciumcarbide. Stabiele gastoevoer voor lassen en industriële behoeften zonder gecentraliseerde gasinfrastructuur."
         },
         "accessories": {
-          "name": "Cilinderaccessoires en fittingen",
+          "name": "Lasaccessoires en cilinderfittingen",
           "overview": "Compleet assortiment voor veilig gebruik van gascilinders: van meters tot lastoortsen. One-stop-inkoop met cilinders.",
-          "seoTitle": "Accessoires voor lassen",
-          "seoDescription": "Compleet assortiment voor veilig gebruik van gascilinders: van meters tot lastoortsen. One-stop-inkoop met cilinders."
+          "application": "Oxy-fuel opstellingen, regelaars, slangen, kleppen en meters",
+          "seoTitle": "Lasaccessoires en cilinderfittingen",
+          "seoDescription": "Lasaccessoires en cilinderfittingen - regelaars, slangen, meters, toortsen en kleppen, geleverd met cilinders of afzonderlijk."
         },
         "refrigeration": {
           "name": "Koeleenheden",
           "overview": "Een aparte Wanda Group-lijn - geen catalogus van derden. Koelaggregaten, koelcellen en hardware, door ons geleverd met cilinders of als losse bestelling.",
+          "application": "Koelkamers, voedselkoelketen en industriële koeling",
           "seoTitle": "Koeleenheden",
-          "seoDescription": "Een aparte Wanda Group-lijn - geen catalogus van derden. Koelaggregaten, koelcellen en hardware, door ons geleverd met cilinders of als losse bestelling."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

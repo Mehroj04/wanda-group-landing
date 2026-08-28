@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Sanoat gaz ballonlari ishlab chiqaruvchisi",
     "title": "Sanoat gaz ballonlari va uskunalari ishlab chiqaruvchisi",
-    "subtitle": "Xalqaro eksport xaridorlari uchun asetilen tsilindrlari, propan/LPG tsilindrlari, generatorlar va payvandlash aksessuarlarini ishlab chiqarish, OEM va ulgurji yetkazib berish.",
+    "subtitle": "Xalqaro eksport xaridorlari uchun asetilen, propan va LPG tsilindrlari, generatorlar, payvandlash aksessuarlari va sovutish uskunalarini ishlab chiqarish, OEM va ulgurji yetkazib berish.",
     "lineGas": "Gaz ballonlari",
     "lineCold": "Sovutgich qurilmalari",
     "cta": "Iqtibos olish",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Mahsulotlarimiz",
-    "subtitle": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+    "subtitle": "Sanoat xaridorlari uchun asetilen, propan va LPG tsilindrlari, generatorlar, payvandlash aksessuarlari va sovutish uskunalari.",
     "viewDetails": "Tafsilotlarni ko'rish",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propan tsilindri",
         "spec": "Bozor uchun 3L–50L · valf variantlari",
-        "desc": "Isitish, kesish va sanoatda foydalanish uchun bardoshli LPG tsilindrlari.",
+        "desc": "Propanni to'ldirish uchun po'lat silindrlar - isitish, kesish va sanoat ta'minoti.",
         "icon": "🛢️"
       },
       {
-        "title": "Silindr aksessuarlari",
+        "title": "Payvandlash uchun aksessuarlar",
         "spec": "Vanalar · regulyatorlar · shlanglar · mash'allar",
-        "desc": "Silindrlar bilan yoki alohida buyurtma sifatida ta'minlangan mos keladigan armatura.",
+        "desc": "Tsilindrlar bilan yoki alohida-alohida ta'minlangan payvandlash aksessuarlari va silindrli armatura.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmatsevtika va tibbiy sovuqxona",
       "Logistika va muzlatgichli transport",
       "Sanoat sovutish va texnologik sovutgichlar"
+    ],
+    "acetylene": [
+      "Oksi-asetilen bilan payvandlash",
+      "Kislorodli yoqilg'ini kesish",
+      "Qovurish va isitish",
+      "Metall ishlab chiqarish sexlari",
+      "Kemasozlik va ta'mirlash ishlari"
+    ],
+    "propane": [
+      "Sanoat propan bilan isitish",
+      "Asetilen bilan kislorodli yoqilg'ini kesish",
+      "Ustaxona va qurilishni isitish",
+      "O'simliklarni propan bilan ta'minlash",
+      "Propan ko'rsatilgan joyda pishirish va issiqlikni qayta ishlash"
+    ],
+    "lpg": [
+      "Turar-joy va tijorat LPG taqsimoti",
+      "Portativ LPG yoqilg'i ta'minoti",
+      "Lager va ovqatlanish gazi",
+      "LPG aralashmalari bilan isitish",
+      "Mahalliy bozorlar uchun ulgurji LPG tsilindrni to'ldirish"
+    ],
+    "industrial": [
+      "Gaz ta'minotini payvandlash va kesish",
+      "Zavod va ustaxona silindrlari zaxirasi",
+      "Distribyutor sanoat gaz liniyalari",
+      "Loyiha va qurilish maydonchalari"
+    ],
+    "generators": [
+      "Kaltsiy karbididan joylarda asetilen ishlab chiqarish",
+      "Shishaga solingan asetilen ta'minotisiz ustaxonalar",
+      "Tsilindrli logistika cheklangan joylarda payvandlash va kesish",
+      "Mahalliy asetilen manbasiga muhtoj bo'lgan sanoat maydonchalari"
+    ],
+    "accessories": [
+      "Silindr va regulyator yig'ilishlari",
+      "Kislorodli yoqilg'i bilan payvandlash va kesish moslamalari",
+      "Shlangi, o'lchagichni va valfni almashtirish",
+      "Seminarning gaz bilan ishlov berish uchun xavfsizlik armaturalari"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Sanoat xaridorlari uchun gaz ballon ishlab chiqaruvchisi",
-    "text": "Wanda Group asetilen tsilindrlari, propan tsilindrlari, generatorlar va payvandlash, kesish va sanoat gaz ta'minoti uchun aksessuarlar ishlab chiqaradi.",
+    "text": "Wanda Group atsetilen tsilindrlari, propan va LPG ballonlari, generatorlar va payvandlash uchun aksessuarlar ishlab chiqaradi, shuningdek, sanoat xaridorlari uchun sovutgich uskunalarini yetkazib beradi.",
     "text2": "Biz chet ellik xaridorlarni mahsulot tanlash, OEM, tekshirish, qadoqlash va jo'natish bilan qo'llab-quvvatlaymiz.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Siz asosan qanday mahsulotlarni yetkazib berasiz?",
-            "a": "Biz asetilen tsilindrlari, propan tsilindrlari, asetilen generatorlari va gaz ballonlari uchun klapanlar, regulyatorlar, shlanglar, bosim o'lchagichlar va mash'allar kabi aksessuarlarni etkazib beramiz."
+            "a": "Asetilen ballonlari, propan va LPG ballonlari, asetilen generatorlari, gaz ballonlari uchun aksessuarlar va sovutish uskunalarini alohida mahsulot qatori sifatida yetkazib beramiz."
           },
           {
             "q": "OEMni sozlashni qo'llab-quvvatlay olasizmi?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Buyurtma berishdan oldin zavod videolarini ko'rishim mumkinmi?",
-            "a": "Ha. Ushbu sahifadagi Zavod bo'limida ishlab chiqarish videolarini tomosha qiling. Qo'shimcha tasvirlar, qadoqlash kliplari va sertifikatlar so'rov bo'yicha shaxsiy yuboriladi."
+            "a": "Ha. Zavod sahifasida ishlab chiqarish videolarini tomosha qiling. Qo'shimcha tasvirlar, qadoqlash kliplari va sertifikat nusxalari so'rov bo'yicha shaxsiy yuboriladi."
           },
           {
             "q": "Ayniqsa, asetilen tsilindrlari uchun mahsulot videolarini taqdim qilasizmi?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Aksessuarlarni gaz ballonlari bilan birga buyurtma qilish mumkinmi?",
-            "a": "Ha. Aksessuarlar asetilen tsilindrlari, propan tsilindrlari va asetilen generatorlari bilan birga ta'minlanishi mumkin."
+            "a": "Ha. Aksessuarlar asetilen, propan va LPG tsilindrlari va asetilen generatorlari bilan birga etkazib berilishi mumkin."
           },
           {
             "q": "OEM qadoqlashni qo'llab-quvvatlaysizmi?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Aniq taklifni oling",
     "certifications": "Sertifikatlar",
     "order": "Buyurtma",
-    "reviews": "Sharhlar",
+    "reviews": "Xaridor eslatmalari",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Joylashuv",
@@ -587,7 +626,7 @@
     "exportReady": "Eksport tayyor",
     "years": "Yillar",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO sertifikati",
+    "isoCertified": "Standartlar talab bo'yicha",
     "globalExport": "Global eksport",
     "products": "Mahsulotlar",
     "specs": "Texnik xususiyatlari",
@@ -695,16 +734,16 @@
       "note": "* Aniq parametrlar standart (ISO/DOT/GB) va vana konfiguratsiyasiga bog'liq. Bozoringiz uchun maxsus varaqni so'rang."
     },
     "propane": {
-      "title": "Propan va LPG ballonlari",
-      "intro": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi.",
+      "title": "WG-P silindrli diapazoni",
+      "intro": "WG-P modellari bitta po'lat silindrli oiladir. Gazni to'ldirish - propan yoki LPG (propan, butan yoki aralashmalar) - buyurtma va belgilangan bozor bo'yicha belgilanadi.",
       "features": [
-        "ISO 9809 bo'yicha 37Mn/34CrMo4 po'latdir",
+        "Buyurtma bo'yicha tasdiqlangan po'lat navi va amaldagi silindr standarti",
         "Ish bosimi 1,8-2,1 MPa",
-        "POL, CGA 510, GOST klapanlari",
-        "Chang qoplamasi, korroziyaga qarshi",
-        "Evropa Ittifoqi, AQSh, MDH bozorlari uchun sertifikatlar"
+        "POL, CGA 510, GOST klapanlari bozorda muhokama qilinadi",
+        "Chang qoplamasi va korroziyaga qarshi qoplama",
+        "Belgilangan bozor bo'yicha muhokama qilingan sertifikatlash variantlari"
       ],
-      "tableTitle": "Standart propan tsilindrli modellari",
+      "tableTitle": "Standart WG-P silindrli modellari",
       "headers": [
         "Model",
         "Ovoz (L)",
@@ -768,10 +807,10 @@
       "intro": "Kaltsiy karbididan asetilen ishlab chiqarish uchun uskunalar. Markazlashtirilgan gaz infratuzilmasisiz payvandlash va sanoat ehtiyojlari uchun barqaror gaz ta'minoti.",
       "features": [
         "Chiqish quvvati 3–100 m³/soat",
-        "Avtomatik suv va karbid oziqlantirish",
-        "Xavfsizlik tizimi va filtrlash",
+        "Har bir modelda muhokama qilingan suv va karbid ozuqa variantlari",
+        "Model uchun belgilangan xavfsizlik tizimi va filtrlash",
         "Yilni va sanoat modellari",
-        "To'liq hujjatlar va treninglar"
+        "Buyurtma hujjatlari taqdim etilgan. Operatorni o'qitish so'rov bo'yicha muhokama qilinishi mumkin"
       ],
       "tableTitle": "Asetilen generatorlari modellari",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Sovutish tizimi, filtrlar va so'rov bo'yicha ehtiyot qismlar to'plami bilan ta'minlangan generatorlar."
     },
     "accessories": {
-      "title": "Silindr aksessuarlari va armaturalari",
+      "title": "Payvandlash uchun aksessuarlar va silindrli armatura",
       "intro": "Gaz ballonlarining xavfsiz ishlashi uchun to'liq assortiment: o'lchagichlardan tortib payvandlash mash'allarigacha. Silindrlar bilan bir martalik xaridlar.",
       "features": [
         "Regulyatorlar va o'lchagichlar (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Chiroqlar",
           "WG-C100, WG-C300",
           "—",
-          "Plazma/oksid kesish"
+          "Kislorodli yoqilg'ini kesish"
         ],
         [
           "Yongichlar",
@@ -881,7 +920,7 @@
           "Barcha turdagi silindrlar"
         ]
       ],
-      "note": "* Aksessuarlar alohida yoki silindrlar bilan birga mavjud. Birlashtirilgan buyurtmalar uchun chegirma."
+      "note": "* Aksessuarlar alohida yoki silindrlar bilan birga keltirilishi mumkin. Kombinatsiyalangan buyurtma narxi kotirovkada tasdiqlangan."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksport va logistika",
-        "desc": "Xalqaro yuk tashishni to'liq qo'llab-quvvatlash.",
+        "desc": "Chet ellik xaridorlar uchun eksportni qadoqlash va jo'natishni muvofiqlashtirish.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Eksport hujjatlari",
-          "Dengiz va temir yo'l yuklari"
+          "Dengiz va temir yo'lda yuk tashish imkoniyatlari"
         ]
       },
       {
         "icon": "🔬",
         "title": "Sifat nazorati",
-        "desc": "Har bir bosqichda sinov va tekshirish.",
+        "desc": "Buyurtma bo'yicha ishlab chiqarish jarayonida tekshirish va sinovdan o'tkazish.",
         "points": [
           "Gidrostatik sinovlar",
-          "UT payvandlash tekshiruvi",
-          "So'rov bo'yicha SGS/BV tekshiruvi"
+          "Belgilanganidek payvandlash tekshiruvi",
+          "So'rov bo'yicha uchinchi tomon tekshiruvi"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifikatlash",
         "desc": "Bojxona va nazorat organlari uchun hujjatlar. Nusxalar so'rov bo'yicha shaxsiy yuboriladi.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS va sifat sertifikati",
-          "Kelib chiqish sertifikati"
+          "Mahsulot va bozorda muhokama qilinadigan standartlar",
+          "MSDS va sifatli hujjatlar so'rov bo'yicha",
+          "So'rov bo'yicha kelib chiqish sertifikati"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Mahsulotlar va konfiguratsiyani tanlashda yordam bering.",
         "points": [
           "Bozorga asoslangan tanlov",
-          "MOQ va etkazib berish vaqtini hisoblash",
-          "Xodimlarni tayyorlash"
+          "Buyurtma bo'yicha MOQ va yetkazib berish muddati muhokama qilinadi",
+          "Operator ko'rsatmalari so'rov bo'yicha muhokama qilinadi"
         ]
       },
       {
         "icon": "📦",
         "title": "To'plam ta'minoti",
-        "desc": "Silindrlar + aksessuarlar bitta tartibda.",
+        "desc": "Silindrlar va aksessuarlar bitta tartibda.",
         "points": [
-          "Yagona shartnoma",
+          "Yagona so'rov",
           "Muvofiqlashtirilgan yetkazib berish",
-          "To'plamga chegirma"
+          "Kotirovkada birlashtirilgan buyurtma narxi"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Choksiz po'latdan yasalgan gaz ballonlari - texnik talablar"
+        "desc": "Qayta to'ldiriladigan choksiz po'latdan yasalgan gaz ballonlari - söndürülmüş va temperli po'latdir. Mahsulot va maqsadli bozor bo'yicha muhokama qilingan."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Eritilgan asetilen tsilindrlari"
+        "desc": "Gaz ballonlari - qayta to'ldiriladigan choksiz po'latdan yasalgan gaz ballonlari - dizayn, qurilish va sinov - 3-qism: normallashtirilgan po'lat ballonlar. Asetilen silindrli standart emas (qarang: ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Asetilen tsilindrlari - asosiy talablar va turdagi sinovlar. So'ralganda asetilen mahsulotlari uchun muhokama qilinadi. Qo'llanilishi buyurtma bo'yicha tasdiqlanadi."
       },
       {
         "name": "DOT 3AA",
-        "desc": "AQSh bozorining silindrli standarti - qo'llanilishi mahsulot va buyurtma uchun tasdiqlangan"
+        "desc": "Choksiz po'lat tsilindrlar uchun AQSh spetsifikatsiyasi - qo'llanilishi mahsulot va buyurtma bo'yicha tasdiqlangan"
       },
       {
         "name": "TPED",
-        "desc": "Evropa transport talablari - belgilangan bozor bo'yicha muhokama qilinadi"
+        "desc": "Evropa Ittifoqining tashish mumkin bo'lgan bosimli uskunalar direktivasi - har bir maqsad bozorida muhokama qilinadi"
       },
       {
         "name": "GB 5099",
-        "desc": "Xitoy gaz ballonlari standarti"
+        "desc": "Choksiz po'latdan yasalgan gaz ballonlari uchun Xitoy milliy standarti - qo'llanilishi mahsulot va buyurtma bo'yicha tasdiqlangan"
       },
       {
         "name": "CE Mark",
-        "desc": "Evropa muvofiqlik belgisi - mahsulot va bozor uchun qo'llanilishi"
+        "desc": "Evropa muvofiqlik belgisi - mahsulot va bozor uchun qo'llanilishi. Nashr etilgan sertifikat fayli oʻrnini bosmaydi."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Xaridorlar nima deyishadi",
+    "title": "Sanoat xaridorlari odatda nimani so'rashadi",
     "items": [
       {
-        "quote": "Bu yil biz 40 litrlik asetilen tsilindrlarini uch marta qayta buyurtma qildik. GOST klapanlari, OEM rangi va eksport qadoqlash har safar birinchi namunaga mos keldi.",
-        "author": "Rustam Yusupov",
-        "role": "Egasi, payvandlash gaz taqsimlovchisi",
-        "country": "Uzbekistan"
+        "quote": "OEM rangi, vana turi va eksport qadoqlash takroriy etkazib berishdan oldin tasdiqlangan namunaga mos keladi.",
+        "author": "Distributor inquiries",
+        "role": "Payvandlash gaz ta'minoti",
+        "country": "Central Asia"
       },
       {
-        "quote": "Iqtibos o'sha kuni aniq MOQ va yetkazib berish vaqti bilan keldi. Propan idishlari POL klapanlari va to'liq qadoqlash ro'yxati bilan keldi - biz tomonda bojxona kechikishlari yo'q.",
-        "author": "Aigerim Bekova",
-        "role": "Xarid bo'yicha menejer, sanoat ta'minoti",
-        "country": "Kazakhstan"
+        "quote": "Aniq MOQ, etkazib berish muddati va qadoqlash ro'yxati kotirovkada tasdiqlangan - veb-saytning qat'iy narxlari sifatida emas.",
+        "author": "Procurement inquiries",
+        "role": "Sanoat ta'minoti",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Biz bitta konteyner buyurtmasi sifatida regulyatorlar va shlanglar bilan silindrlarni sotib olamiz. Hujjatlar va markalash bozorimiz uchun tayyor edi, shuning uchun qayta sotish oson edi.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import xaridor, gaz uskunalari savdosi",
-        "country": "Saudi Arabia"
+        "quote": "Regulyatorlari va shlanglari bo'lgan tsilindrlar birlashtirilgan buyurtma sifatida keltirilgan, belgilangan bozor uchun belgilanishi muhokama qilinadi.",
+        "author": "Import inquiries",
+        "role": "Gaz uskunalari savdosi",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Biz kimmiz",
     "title": "B2B xaridorlari uchun sanoat ishlab chiqaruvchisi",
-    "text": "Wanda Groups xorijdagi distribyutorlar, OEM hamkorlari va loyiha xaridorlari uchun sanoat gaz ballonlari, generatorlar va payvandlash aksessuarlarini ishlab chiqaradi va yetkazib beradi.",
+    "text": "Wanda Groups xorijdagi distribyutorlar, OEM hamkorlari va loyiha xaridorlari uchun sanoat gaz ballonlari, generatorlar, payvandlash aksessuarlari va sovutish uskunalarini ishlab chiqaradi va yetkazib beradi.",
     "text2": "Bizning e'tiborimiz chakana iste'molchi sotish emas, balki zavod bilan bog'liq ta'minot, mahsulot tanlashni qo'llab-quvvatlash, ommaviy buyurtmalar va eksportni muvofiqlashtirishdir.",
     "cta": "Biz haqimizda ko'proq ma'lumot oling"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Narx so'rashga tayyormisiz?",
       "quoteCta": "Narx so'rash",
       "relatedProducts": "Tegishli mahsulotlar",
+      "productFamilies": "Mahsulotlar oilalari",
       "applications": "Applications",
       "standardsTitle": "Standartlar va sertifikatlash",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gaz ballon ishlab chiqaruvchisi | Sanoat OEM va eksport | Wanda guruhlari",
-      "seoDescription": "Wanda Groups OEM, ulgurji va xalqaro eksport xaridorlari uchun sanoat gaz ballonlari, generatorlar va payvandlash aksessuarlar ishlab chiqaradi."
+      "seoDescription": "Wanda Groups OEM, ulgurji va xalqaro eksport xaridorlari uchun sanoat gaz ballonlari, generatorlar, payvandlash aksessuarlari va sovutish uskunalarini ishlab chiqaradi."
     },
     "about": {
       "label": "Biz haqimizda",
       "title": "Sanoat xaridorlari uchun gaz ballon ishlab chiqaruvchisi",
       "subtitle": "Biz chet ellik xaridorlarni mahsulot tanlash, OEM, tekshirish, qadoqlash va jo'natish bilan qo'llab-quvvatlaymiz.",
       "seoTitle": "Wanda Group haqida",
-      "seoDescription": "Wanda Group asetilen tsilindrlari, propan tsilindrlari, generatorlar va payvandlash, kesish va sanoat gaz ta'minoti uchun aksessuarlar ishlab chiqaradi."
+      "seoDescription": "Wanda Group sanoat eksporti xaridorlari uchun atsetilen, propan va LPG ballonlari, generatorlar, payvandlash aksessuarlari va sovutgich uskunalarini ishlab chiqaradi."
     },
     "products": {
       "label": "Mahsulotlar",
       "title": "Mahsulotlarimiz",
-      "subtitle": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+      "subtitle": "Sanoat xaridorlari uchun asetilen, propan va LPG tsilindrlari, generatorlar, payvandlash aksessuarlari va sovutish uskunalari.",
       "seoTitle": "Gaz ballonli mahsulotlar",
-      "seoDescription": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+      "seoDescription": "Wanda Group kompaniyasining asetilen, propan va LPG tsilindrlari, asetilen generatorlari, payvandlash aksessuarlari va sovutish uskunalari.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Eritilgan asetilen tsilindrlari",
           "overview": "Asetilenni xavfsiz saqlash va tashish uchun gözenekli massa va erituvchiga ega po'lat tsilindrlar. Payvandlash, kesish, payvandlash va metall ishlab chiqarishda qo'llaniladi.",
+          "application": "Oksi-asetilen bilan payvandlash, kesish va payvandlash",
           "seoTitle": "Asetilen gaz ballonlari",
           "seoDescription": "Asetilenni xavfsiz saqlash va tashish uchun gözenekli massa va erituvchiga ega po'lat tsilindrlar. Payvandlash, kesish, payvandlash va metall ishlab chiqarishda qo'llaniladi."
         },
         "propane": {
           "name": "Propan tsilindrlari",
-          "overview": "Propan gazini saqlash va tashish uchun po'lat ballonlar. Asetilen bilan bog'langanda isitish, sanoat propan bilan ta'minlash, pishirish va kislorodli yoqilg'ini kesish uchun ishlatiladi.",
+          "overview": "Propanni to'ldirish uchun belgilangan po'lat silindrlar. Asetilen bilan bog'langanda isitish, sanoat propan bilan ta'minlash, pishirish va kislorodli yoqilg'ini kesish uchun ishlatiladi.",
+          "application": "Sanoat propanini isitish, kesish va o'simliklar bilan ta'minlash",
+          "familyNote": "Propan tsilindrlari va LPG tsilindrlari bir xil WG-P po'lat silindrli diapazonidan foydalanadi. Ushbu sahifa propanni to'ldirish va propanga xos foydalanishni o'z ichiga oladi. LPG aralashmalari va tarqatish ta'minoti LPG tsilindrlari sahifasida tasvirlangan.",
           "seoTitle": "Propan gaz ballonlari",
-          "seoDescription": "Isitish, sanoat ta'minoti va kesish uchun mo'ljallangan po'lat propan gaz ballonlari. Buyurtma bo'yicha muhokama qilinadigan eksport va OEM variantlari."
+          "seoDescription": "Propanni to'ldirish uchun po'lat silindrlar - isitish, sanoat ta'minoti va kislorod-yoqilg'ini kesish. LPG bilan bir xil WG-P diapazoni; buyurtma bo'yicha ko'rsatilgan gazni to'ldiring."
         },
         "lpg": {
           "name": "LPG tsilindrlari",
-          "overview": "Suyultirilgan neft gazi (LPG) uchun ballonlar - propan, butan yoki aralash aralashmalar. Turar-joy va tijorat LPG tarqatish, lager, isitish va portativ yoqilg'i ta'minoti uchun keng tarqalgan.",
+          "overview": "Suyultirilgan neft gazi (LPG) uchun ballonlar - propan, butan yoki aralash aralashmalar. Turar-joy va tijorat LPG tarqatish, lager, isitish va portativ yoqilg'i ta'minoti uchun ishlatiladi.",
+          "application": "LPG taqsimoti, portativ yoqilg'i va aralashga asoslangan isitish",
+          "familyNote": "LPG tsilindrlari va propan tsilindrlari bir xil WG-P po'lat silindrli diapazonidan foydalanadi. Ushbu sahifa LPG aralashmalari va tarqatishdan foydalanishni o'z ichiga oladi. Faqat propan bilan to'ldirish va sanoat propanidan foydalanish Propan tsilindrlari sahifasida tasvirlangan.",
           "seoTitle": "LPG gaz ballonlari",
-          "seoDescription": "Turar-joy, tijorat va sanoat suyultirilgan neft gazini taqsimlash va portativ ta'minot uchun LPG ballonlari."
+          "seoDescription": "Turar-joy, tijorat va sanoat suyultirilgan neft gazini taqsimlash uchun LPG ballonlari. Propan tsilindrlari bilan bir xil WG-P diapazoni; buyurtma bo'yicha ko'rsatilgan to'ldirish."
         },
         "industrial": {
           "name": "Sanoat gaz ballonlari",
           "overview": "Payvandlash, kesish va o'simliklarni etkazib berish uchun sanoat gaz ballonlari - bozoringizga mos keladigan asetilen, propan va LPG variantlari.",
+          "application": "Zavod, distribyutor va loyiha silindrlarini etkazib berish",
           "seoTitle": "Sanoat gaz ballonlari",
           "seoDescription": "Wanda Group kompaniyasidan payvandlash, kesish va o'simliklarni etkazib berish uchun sanoat gaz ballonlari."
         },
         "generators": {
           "name": "Asetilen generatorlari",
           "overview": "Kaltsiy karbididan asetilen ishlab chiqarish uchun uskunalar. Markazlashtirilgan gaz infratuzilmasisiz payvandlash va sanoat ehtiyojlari uchun barqaror gaz ta'minoti.",
+          "application": "Kaltsiy karbididan joylarda asetilen hosil qilish",
           "seoTitle": "Asetilen generatorlari",
           "seoDescription": "Kaltsiy karbididan asetilen ishlab chiqarish uchun uskunalar. Markazlashtirilgan gaz infratuzilmasisiz payvandlash va sanoat ehtiyojlari uchun barqaror gaz ta'minoti."
         },
         "accessories": {
-          "name": "Silindr aksessuarlari va armaturalari",
+          "name": "Payvandlash uchun aksessuarlar va silindrli armatura",
           "overview": "Gaz ballonlarining xavfsiz ishlashi uchun to'liq assortiment: o'lchagichlardan tortib payvandlash mash'allarigacha. Silindrlar bilan bir martalik xaridlar.",
-          "seoTitle": "Payvandlash uchun aksessuarlar",
-          "seoDescription": "Gaz ballonlarining xavfsiz ishlashi uchun to'liq assortiment: o'lchagichlardan tortib payvandlash mash'allarigacha. Silindrlar bilan bir martalik xaridlar."
+          "application": "Kislorodli yoqilg'i moslamalari, regulyatorlar, shlanglar, klapanlar va o'lchagichlar",
+          "seoTitle": "Payvandlash uchun aksessuarlar va silindrli armatura",
+          "seoDescription": "Payvandlash uchun aksessuarlar va silindrli armatura - regulyatorlar, shlanglar, o'lchagichlar, mash'alalar va klapanlar, silindrlar bilan yoki alohida-alohida etkazib beriladi."
         },
         "refrigeration": {
           "name": "Sovutgich qurilmalari",
           "overview": "Alohida Wanda Group liniyasi - uchinchi tomon katalogi emas. Kondensatsiya moslamalari, sovuq xonalar va jihozlar, biz tomondan silindrlar bilan yoki mustaqil buyurtma sifatida etkazib beriladi.",
+          "application": "Sovuq xonalar, oziq-ovqat sovuq zanjiri va sanoat sovutish",
           "seoTitle": "Sovutgich qurilmalari",
-          "seoDescription": "Alohida Wanda Group liniyasi - uchinchi tomon katalogi emas. Kondensatsiya moslamalari, sovuq xonalar va jihozlar, biz tomondan silindrlar bilan yoki mustaqil buyurtma sifatida etkazib beriladi."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

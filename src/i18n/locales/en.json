@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Industrial Gas Cylinder Manufacturer",
     "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
+    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene, propane and LPG cylinders, generators, welding accessories and refrigeration equipment for international export buyers.",
     "lineGas": "Gas cylinders",
     "lineCold": "Refrigeration units",
     "cta": "Get a Quote",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Our Products",
-    "subtitle": "Acetylene cylinders, generators, propane cylinders and accessories for industrial and welding applications.",
+    "subtitle": "Acetylene, propane and LPG cylinders, generators, welding accessories and refrigeration equipment for industrial buyers.",
     "viewDetails": "View Details",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propane Cylinder",
         "spec": "3L–50L · valve options per market",
-        "desc": "Durable LPG cylinders for heating, cutting and industrial use.",
+        "desc": "Steel cylinders for propane fill — heating, cutting and industrial supply.",
         "icon": "🛢️"
       },
       {
-        "title": "Cylinder Accessories",
+        "title": "Welding Accessories",
         "spec": "Valves · regulators · hoses · torches",
-        "desc": "Matching fittings supplied with cylinders or as a separate order.",
+        "desc": "Welding accessories and cylinder fittings, supplied with cylinders or separately.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Pharmaceutical and medical cold storage",
       "Logistics and refrigerated transport",
       "Industrial cooling and process chillers"
+    ],
+    "acetylene": [
+      "Oxy-acetylene welding",
+      "Oxy-fuel cutting",
+      "Brazing and heating",
+      "Metal fabrication shops",
+      "Shipyard and maintenance work"
+    ],
+    "propane": [
+      "Industrial propane heating",
+      "Oxy-fuel cutting with acetylene",
+      "Workshop and construction heating",
+      "Plant propane supply",
+      "Cooking and process heat where propane is specified"
+    ],
+    "lpg": [
+      "Residential and commercial LPG distribution",
+      "Portable LPG fuel supply",
+      "Camping and catering gas",
+      "Heating with LPG blends",
+      "Wholesale LPG cylinder filling for local markets"
+    ],
+    "industrial": [
+      "Welding and cutting gas supply",
+      "Plant and workshop cylinder stock",
+      "Distributor industrial gas lines",
+      "Project and construction sites"
+    ],
+    "generators": [
+      "On-site acetylene production from calcium carbide",
+      "Workshops without bottled acetylene supply",
+      "Welding and cutting where cylinder logistics are limited",
+      "Industrial sites needing a local acetylene source"
+    ],
+    "accessories": [
+      "Cylinder and regulator assemblies",
+      "Oxy-fuel welding and cutting setups",
+      "Hose, gauge and valve replacement",
+      "Workshop gas-handling safety fittings"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Gas cylinder manufacturer for industrial buyers",
-    "text": "Wanda Group manufactures acetylene cylinders, propane cylinders, generators and accessories for welding, cutting and industrial gas supply.",
+    "text": "Wanda Group manufactures acetylene cylinders, propane and LPG cylinders, generators and welding accessories, and also supplies refrigeration equipment for industrial buyers.",
     "text2": "We support overseas buyers with product selection, OEM, inspection, packing and shipping.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "What products do you mainly supply?",
-            "a": "We supply acetylene cylinders, propane cylinders, acetylene generators and gas cylinder accessories such as valves, regulators, hoses, pressure gauges and torches."
+            "a": "We supply acetylene cylinders, propane and LPG cylinders, acetylene generators, gas cylinder accessories, and refrigeration equipment as a separate product line."
           },
           {
             "q": "Can you support OEM customization?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Can I watch factory videos before placing an order?",
-            "a": "Yes. Watch production videos in the Factory section on this page. Extra footage, packing clips and certificates are sent privately on request."
+            "a": "Yes. Watch production videos on the Factory page. Extra footage, packing clips and certificate copies are sent privately on request."
           },
           {
             "q": "Do you provide product videos, especially for acetylene cylinders?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Can accessories be ordered together with gas cylinders?",
-            "a": "Yes. Accessories can be supplied together with acetylene cylinders, propane cylinders and acetylene generators."
+            "a": "Yes. Accessories can be supplied together with acetylene, propane and LPG cylinders and acetylene generators."
           },
           {
             "q": "Do you support OEM packing?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Get Exact Quote",
     "certifications": "Certifications",
     "order": "Order",
-    "reviews": "Reviews",
+    "reviews": "Buyer notes",
     "contact": "Contact",
     "phone": "Phone",
     "location": "Location",
@@ -587,7 +626,7 @@
     "exportReady": "Export ready",
     "years": "Years",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO Certified",
+    "isoCertified": "Standards on request",
     "globalExport": "Global Export",
     "products": "Products",
     "specs": "Specifications",
@@ -695,16 +734,16 @@
       "note": "* Exact parameters depend on standard (ISO/DOT/GB) and valve configuration. Request spec sheet for your market."
     },
     "propane": {
-      "title": "Propane & LPG Cylinders",
-      "intro": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply.",
+      "title": "WG-P cylinder range",
+      "intro": "The WG-P models are one steel cylinder family. Fill gas — propane or LPG (propane, butane or blends) — is specified per order and destination market.",
       "features": [
-        "37Mn/34CrMo4 steel per ISO 9809",
+        "Steel grade and applicable cylinder standard confirmed per order",
         "Working pressure 1.8–2.1 MPa",
-        "POL, CGA 510, GOST valves",
-        "Powder coating, anti-corrosion",
-        "Certificates for EU, US, CIS markets"
+        "POL, CGA 510, GOST valves discussed per market",
+        "Powder coating and anti-corrosion finish",
+        "Certification options discussed per destination market"
       ],
-      "tableTitle": "Standard Propane Cylinder Models",
+      "tableTitle": "Standard WG-P Cylinder Models",
       "headers": [
         "Model",
         "Volume (L)",
@@ -768,10 +807,10 @@
       "intro": "Equipment for producing acetylene from calcium carbide. Stable gas supply for welding and industrial needs without centralized gas infrastructure.",
       "features": [
         "Output 3–100 m³/h capacity",
-        "Automatic water & carbide feed",
-        "Safety system & filtration",
+        "Water and carbide feed options discussed per model",
+        "Safety system and filtration as specified for the model",
         "Compact and industrial models",
-        "Full documentation & training"
+        "Order documentation supplied. Operator training can be discussed on request"
       ],
       "tableTitle": "Acetylene Generator Models",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generators supplied with cooling system, filters and spare parts kit on request."
     },
     "accessories": {
-      "title": "Cylinder Accessories & Fittings",
+      "title": "Welding Accessories & Cylinder Fittings",
       "intro": "Complete range for safe gas cylinder operation: from gauges to welding torches. One-stop procurement with cylinders.",
       "features": [
         "Regulators & gauges (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Torches",
           "WG-C100, WG-C300",
           "—",
-          "Plasma/oxy cutting"
+          "Oxy-fuel cutting"
         ],
         [
           "Burners",
@@ -881,7 +920,7 @@
           "All cylinder types"
         ]
       ],
-      "note": "* Accessories available separately or bundled with cylinders. Discount on combined orders."
+      "note": "* Accessories can be quoted separately or together with cylinders. Combined-order pricing is confirmed in the quotation."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistics",
-        "desc": "Complete international shipment support.",
+        "desc": "Export packing and shipping coordination for overseas buyers.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Export documentation",
-          "Sea & rail freight"
+          "Sea and rail freight options"
         ]
       },
       {
         "icon": "🔬",
         "title": "Quality Control",
-        "desc": "Testing and inspection at every stage.",
+        "desc": "Inspection and testing during production according to the order.",
         "points": [
           "Hydrostatic tests",
-          "UT weld inspection",
-          "SGS/BV inspection on request"
+          "Weld inspection as specified",
+          "Third-party inspection on request"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certification",
         "desc": "Documents for customs and regulators. Copies are sent privately on request.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & quality certificate",
-          "Certificate of origin"
+          "Standards discussed per product and market",
+          "MSDS and quality documents on request",
+          "Certificate of origin on request"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Help selecting products and configuration.",
         "points": [
           "Market-based selection",
-          "MOQ & lead time calculation",
-          "Staff training"
+          "MOQ and lead time discussed per order",
+          "Operator guidance discussed on request"
         ]
       },
       {
         "icon": "📦",
         "title": "Bundle Supply",
-        "desc": "Cylinders + accessories in one order.",
+        "desc": "Cylinders and accessories in one order.",
         "points": [
-          "Single contract",
+          "Single inquiry",
           "Coordinated delivery",
-          "Bundle discount"
+          "Combined-order pricing in the quotation"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Seamless steel gas cylinders — technical requirements"
+        "desc": "Refillable seamless steel gas cylinders — quenched and tempered steel. Discussed per product and destination market."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Dissolved acetylene cylinders"
+        "desc": "Gas cylinders — refillable seamless steel gas cylinders — design, construction and testing — Part 3: normalized steel cylinders. Not an acetylene-cylinder standard (see ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylene cylinders — basic requirements and type testing. Discussed for acetylene products when requested. Applicability is confirmed per order."
       },
       {
         "name": "DOT 3AA",
-        "desc": "US market cylinder standard — applicability confirmed per product and order"
+        "desc": "US specification for seamless steel cylinders — applicability confirmed per product and order"
       },
       {
         "name": "TPED",
-        "desc": "European transport requirements — discussed per destination market"
+        "desc": "EU transportable pressure equipment directive — discussed per destination market"
       },
       {
         "name": "GB 5099",
-        "desc": "Chinese gas cylinder standard"
+        "desc": "Chinese national standard for seamless steel gas cylinders — applicability confirmed per product and order"
       },
       {
         "name": "CE Mark",
-        "desc": "European conformity marking — applicability per product and market"
+        "desc": "European conformity marking — applicability per product and market. Not a substitute for a published certificate file."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "What industrial buyers typically ask for",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "OEM colour, valve type and export packing matched to a confirmed sample before repeat supply.",
+        "author": "Distributor inquiries",
+        "role": "Welding gas supply",
+        "country": "Central Asia"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "Clear MOQ, lead time and packing list confirmed in the quotation — not as fixed website prices.",
+        "author": "Procurement inquiries",
+        "role": "Industrial supply",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "Cylinders with regulators and hoses quoted as one combined order, with marking discussed for the destination market.",
+        "author": "Import inquiries",
+        "role": "Gas equipment trading",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Who We Are",
     "title": "Industrial manufacturer for B2B buyers",
-    "text": "Wanda Groups manufactures and supplies industrial gas cylinders, generators and welding accessories for overseas distributors, OEM partners and project buyers.",
+    "text": "Wanda Groups manufactures and supplies industrial gas cylinders, generators, welding accessories and refrigeration equipment for overseas distributors, OEM partners and project buyers.",
     "text2": "Our focus is factory-linked supply, product selection support, bulk orders and export coordination — not retail consumer sales.",
     "cta": "Learn More About Us"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Ready to request a quote?",
       "quoteCta": "Request a Quote",
       "relatedProducts": "Related products",
+      "productFamilies": "Product families",
       "applications": "Applications",
       "standardsTitle": "Standards & certification",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gas Cylinder Manufacturer | Industrial OEM and Export | Wanda Groups",
-      "seoDescription": "Wanda Groups manufactures industrial gas cylinders, generators and welding accessories for OEM, wholesale and international export buyers."
+      "seoDescription": "Wanda Groups manufactures industrial gas cylinders, generators, welding accessories and refrigeration equipment for OEM, wholesale and international export buyers."
     },
     "about": {
       "label": "About Us",
       "title": "Gas cylinder manufacturer for industrial buyers",
       "subtitle": "We support overseas buyers with product selection, OEM, inspection, packing and shipping.",
       "seoTitle": "About Wanda Group",
-      "seoDescription": "Wanda Group manufactures acetylene cylinders, propane cylinders, generators and accessories for welding, cutting and industrial gas supply."
+      "seoDescription": "Wanda Group manufactures acetylene, propane and LPG cylinders, generators, welding accessories and refrigeration equipment for industrial export buyers."
     },
     "products": {
       "label": "Products",
       "title": "Our Products",
-      "subtitle": "Acetylene cylinders, generators, propane cylinders and accessories for industrial and welding applications.",
+      "subtitle": "Acetylene, propane and LPG cylinders, generators, welding accessories and refrigeration equipment for industrial buyers.",
       "seoTitle": "Gas Cylinder Products",
-      "seoDescription": "Acetylene cylinders, generators, propane cylinders and accessories for industrial and welding applications.",
+      "seoDescription": "Acetylene, propane and LPG cylinders, acetylene generators, welding accessories and refrigeration equipment from Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Dissolved Acetylene Cylinders",
           "overview": "Steel cylinders with porous mass and solvent for safe acetylene storage and transport. Used in welding, cutting, brazing and metal fabrication.",
+          "application": "Oxy-acetylene welding, cutting and brazing",
           "seoTitle": "Acetylene Gas Cylinders",
           "seoDescription": "Steel cylinders with porous mass and solvent for safe acetylene storage and transport. Used in welding, cutting, brazing and metal fabrication."
         },
         "propane": {
           "name": "Propane Cylinders",
-          "overview": "Steel cylinders for propane gas storage and transport. Used for heating, industrial propane supply, cooking and oxy-fuel cutting when paired with acetylene.",
+          "overview": "Steel cylinders specified for propane fill. Used for heating, industrial propane supply, cooking and oxy-fuel cutting when paired with acetylene.",
+          "application": "Industrial propane heating, cutting and plant supply",
+          "familyNote": "Propane cylinders and LPG cylinders use the same WG-P steel cylinder range. This page covers propane fill and propane-specific uses. LPG blends and distribution supply are described on the LPG Cylinders page.",
           "seoTitle": "Propane Gas Cylinders",
-          "seoDescription": "Steel propane gas cylinders for heating, industrial supply and cutting applications. Export and OEM options discussed per order."
+          "seoDescription": "Steel cylinders for propane fill — heating, industrial supply and oxy-fuel cutting. Same WG-P range as LPG; fill gas specified per order."
         },
         "lpg": {
           "name": "LPG Cylinders",
-          "overview": "Cylinders for liquefied petroleum gas (LPG) — propane, butane or mixed blends. Common for residential and commercial LPG distribution, camping, heating and portable fuel supply.",
+          "overview": "Cylinders for liquefied petroleum gas (LPG) — propane, butane or mixed blends. Used for residential and commercial LPG distribution, camping, heating and portable fuel supply.",
+          "application": "LPG distribution, portable fuel and blend-based heating",
+          "familyNote": "LPG cylinders and propane cylinders use the same WG-P steel cylinder range. This page covers LPG blends and distribution use. Propane-only fill and industrial propane uses are described on the Propane Cylinders page.",
           "seoTitle": "LPG Gas Cylinders",
-          "seoDescription": "LPG cylinders for residential, commercial and industrial liquefied petroleum gas distribution and portable supply."
+          "seoDescription": "LPG cylinders for residential, commercial and industrial liquefied petroleum gas distribution. Same WG-P range as propane cylinders; fill specified per order."
         },
         "industrial": {
           "name": "Industrial Gas Cylinders",
           "overview": "Industrial gas cylinders for welding, cutting and plant supply — including acetylene, propane and LPG options matched to your market.",
+          "application": "Plant, distributor and project cylinder supply",
           "seoTitle": "Industrial Gas Cylinders",
           "seoDescription": "Industrial gas cylinders for welding, cutting and plant supply from Wanda Group."
         },
         "generators": {
           "name": "Acetylene Generators",
           "overview": "Equipment for producing acetylene from calcium carbide. Stable gas supply for welding and industrial needs without centralized gas infrastructure.",
+          "application": "On-site acetylene generation from calcium carbide",
           "seoTitle": "Acetylene Generators",
           "seoDescription": "Equipment for producing acetylene from calcium carbide. Stable gas supply for welding and industrial needs without centralized gas infrastructure."
         },
         "accessories": {
-          "name": "Cylinder Accessories & Fittings",
+          "name": "Welding Accessories & Cylinder Fittings",
           "overview": "Complete range for safe gas cylinder operation: from gauges to welding torches. One-stop procurement with cylinders.",
-          "seoTitle": "Welding Accessories",
-          "seoDescription": "Complete range for safe gas cylinder operation: from gauges to welding torches. One-stop procurement with cylinders."
+          "application": "Oxy-fuel setups, regulators, hoses, valves and gauges",
+          "seoTitle": "Welding Accessories & Cylinder Fittings",
+          "seoDescription": "Welding accessories and cylinder fittings — regulators, hoses, gauges, torches and valves, supplied with cylinders or separately."
         },
         "refrigeration": {
           "name": "Refrigeration units",
           "overview": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
+          "application": "Cold rooms, food cold chain and industrial cooling",
           "seoTitle": "Refrigeration Units",
-          "seoDescription": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

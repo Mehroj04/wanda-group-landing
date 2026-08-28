@@ -30,6 +30,7 @@ const CATALOG_KEYS = {
 
 const MARKETING_PAGES = [
   { path: '/about', key: 'about' },
+  { path: '/products', key: 'products' },
   { path: '/factory', key: 'factory' },
   { path: '/certifications', key: 'certificationsPage' },
   { path: '/oem', key: 'oem' },
@@ -69,9 +70,13 @@ for (const slug of PRODUCT_SLUGS) {
   const cat = EN.pages.products.catalog[key]
   const canonical = `https://www.wandagroups.com/products/${slug}`
 
-  const appSnippet = (slug === 'refrigeration'
-    ? EN.applications.refrigerationItems[0]
-    : EN.applications.items[0]).replace(/&/g, '&amp;')
+  const keyedApps = EN.applications[key]
+  const appSource = slug === 'refrigeration'
+    ? EN.applications.refrigerationItems
+    : Array.isArray(keyedApps)
+      ? keyedApps
+      : EN.applications.items
+  const appSnippet = appSource[0].replace(/&/g, '&amp;')
 
   verify(slug, file, [
     ['product slug marker', (html) => html.includes(`data-product-slug="${slug}"`)],
@@ -84,8 +89,20 @@ for (const slug of PRODUCT_SLUGS) {
     ['root prerender', (html) => html.includes('data-prerender="product"')],
     ['applications', (html) => html.includes(appSnippet.slice(0, 20))],
     ['contact link', (html) => html.includes('/contact')],
+    ['no dissolved acetylene for 9809-3', (html) =>
+      slug !== 'acetylene-cylinders' || !html.includes('ISO 9809-3 is for dissolved')],
   ])
 }
+
+verify('homepage-shell', path.join(DIST, 'index.html'), [
+  ['noscript acetylene', (html) => html.includes('/products/acetylene-cylinders')],
+  ['noscript propane', (html) => html.includes('/products/propane-cylinders')],
+  ['noscript lpg', (html) => html.includes('/products/lpg-cylinders')],
+  ['noscript industrial', (html) => html.includes('/products/industrial-gas-cylinders')],
+  ['noscript generators', (html) => html.includes('/products/generators')],
+  ['noscript accessories', (html) => html.includes('/products/welding-accessories')],
+  ['noscript refrigeration', (html) => html.includes('/products/refrigeration')],
+])
 
 for (const { path: pathname, key } of MARKETING_PAGES) {
   const file = fileForPath(pathname)
@@ -104,8 +121,25 @@ for (const { path: pathname, key } of MARKETING_PAGES) {
       pathname === '/about' || pathname === '/contact'
         ? html.includes(EN.operations.manufacturingBase)
         : true],
+    ['products hub categories', (html) =>
+      pathname === '/products'
+        ? html.includes('/products/acetylene-cylinders') &&
+          html.includes('/products/propane-cylinders') &&
+          html.includes('/products/lpg-cylinders') &&
+          html.includes('/products/industrial-gas-cylinders') &&
+          html.includes('/products/generators') &&
+          html.includes('/products/welding-accessories') &&
+          html.includes('/products/refrigeration') &&
+          html.includes(EN.pages.products.catalog.acetylene.overview.slice(0, 40))
+        : true],
     ['faq jsonld', (html) =>
       pathname === '/faq' ? html.includes('"@type": "FAQPage"') : true],
+    ['certifications iso 9809-3', (html) =>
+      pathname !== '/certifications' ||
+      (html.includes('ISO 9809-3') && html.includes('normalized steel') && !html.includes('Dissolved acetylene cylinders'))],
+    ['contact messengers', (html) =>
+      pathname !== '/contact' ||
+      (html.includes('@sh987789') && html.includes('+86 130 8285 5282'))],
   ])
 }
 

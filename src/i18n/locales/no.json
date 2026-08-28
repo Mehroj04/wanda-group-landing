@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Produsent av industrielle gassflasker",
     "title": "Produsent av industrielle gassflasker og utstyr",
-    "subtitle": "Produksjon, OEM og engros forsyning av acetylensylindere, propan/LPG-flasker, generatorer og sveisetilbehør for internasjonale eksportkjøpere.",
+    "subtitle": "Produksjon, OEM og engros forsyning av acetylen, propan og LPG sylindere, generatorer, sveisetilbehør og kjøleutstyr for internasjonale eksportkjøpere.",
     "lineGas": "Gassflasker",
     "lineCold": "Kjøleenheter",
     "cta": "Få et tilbud",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Våre produkter",
-    "subtitle": "Acetylensylindere, generatorer, propansylindere og tilbehør for industrielle og sveiseapplikasjoner.",
+    "subtitle": "Acetylen-, propan- og LPG-flasker, generatorer, sveisetilbehør og kjøleutstyr for industrielle kjøpere.",
     "viewDetails": "Se detaljer",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propansylinder",
         "spec": "3L–50L · ventilalternativer per marked",
-        "desc": "Slitesterke LPG-flasker for oppvarming, skjæring og industriell bruk.",
+        "desc": "Stålsylindere for propanfylling — oppvarming, skjæring og industriell forsyning.",
         "icon": "🛢️"
       },
       {
-        "title": "Sylindertilbehør",
+        "title": "Sveisetilbehør",
         "spec": "Ventiler · regulatorer · slanger · fakler",
-        "desc": "Matchende beslag leveres med sylindere eller som separat bestilling.",
+        "desc": "Sveisetilbehør og sylinderbeslag, leveres med sylindere eller separat.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmasøytisk og medisinsk kjølelager",
       "Logistikk og kjøletransport",
       "Industrielle kjøle- og prosesskjølere"
+    ],
+    "acetylene": [
+      "Oksy-acetylensveising",
+      "Oksy-fuel kutting",
+      "Lodding og oppvarming",
+      "Metallfabrikasjonsbutikker",
+      "Verft og vedlikeholdsarbeid"
+    ],
+    "propane": [
+      "Industriell propanoppvarming",
+      "Oksy-drivstoffskjæring med acetylen",
+      "Verksted og anleggsvarme",
+      "Plant propanforsyning",
+      "Koke- og prosessvarme der propan er spesifisert"
+    ],
+    "lpg": [
+      "Distribusjon av LPG til boliger og kommersiell virksomhet",
+      "Bærbar LPG drivstoffforsyning",
+      "Camping og catering gass",
+      "Oppvarming med LPG-blandinger",
+      "Engros LPG-flaskefylling for lokale markeder"
+    ],
+    "industrial": [
+      "Sveise- og skjæregassforsyning",
+      "Anlegg og verksted sylinderlager",
+      "Distributør industrielle gass linjer",
+      "Prosjekt- og byggeplasser"
+    ],
+    "generators": [
+      "Acetylenproduksjon på stedet fra kalsiumkarbid",
+      "Verksteder uten flaskeacetylenforsyning",
+      "Sveising og skjæring der sylinderlogistikk er begrenset",
+      "Industrianlegg som trenger en lokal acetylenkilde"
+    ],
+    "accessories": [
+      "Sylinder- og regulatorsammenstillinger",
+      "Oxy-fuel sveising og skjæreoppsett",
+      "Bytte av slange, måler og ventil",
+      "Verksted gasshåndtering sikkerhetsutstyr"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Gassflaskeprodusent for industrielle kjøpere",
-    "text": "Wanda Group produserer acetylensylindere, propanflasker, generatorer og tilbehør for sveising, skjæring og industriell gassforsyning.",
+    "text": "Wanda Group produserer acetylensylindere, propan- og LPG-flasker, generatorer og sveisetilbehør, og leverer også kjøleutstyr til industrielle kjøpere.",
     "text2": "Vi støtter utenlandske kjøpere med produktutvalg, OEM, inspeksjon, pakking og frakt.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Hvilke produkter leverer du hovedsakelig?",
-            "a": "Vi leverer acetylenflasker, propanflasker, acetylengeneratorer og gassflasketilbehør som ventiler, regulatorer, slanger, trykkmålere og brennere."
+            "a": "Vi leverer acetylenflasker, propan- og LPG-flasker, acetylengeneratorer, gassflasketilbehør og kjøleutstyr som en egen produktlinje."
           },
           {
             "q": "Kan du støtte OEM-tilpasning?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Kan jeg se fabrikkvideoer før jeg legger inn en bestilling?",
-            "a": "Ja. Se produksjonsvideoer i fabrikkdelen på denne siden. Ekstra opptak, pakkeklips og sertifikater sendes privat på forespørsel."
+            "a": "Ja. Se produksjonsvideoer på fabrikksiden. Ekstra opptak, pakkeklips og sertifikatkopier sendes privat på forespørsel."
           },
           {
             "q": "Tilbyr du produktvideoer, spesielt for acetylensylindere?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Kan tilbehør bestilles sammen med gassflasker?",
-            "a": "Ja. Tilbehør kan leveres sammen med acetylenflasker, propanflasker og acetylengeneratorer."
+            "a": "Ja. Tilbehør kan leveres sammen med acetylen-, propan- og LPG-flasker og acetylengeneratorer."
           },
           {
             "q": "Støtter du OEM-pakking?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Få eksakt tilbud",
     "certifications": "Sertifiseringer",
     "order": "Bestille",
-    "reviews": "Anmeldelser",
+    "reviews": "Kjøpers notater",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Sted",
@@ -587,7 +626,7 @@
     "exportReady": "Eksport klar",
     "years": "år",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO-sertifisert",
+    "isoCertified": "Standarder på forespørsel",
     "globalExport": "Global eksport",
     "products": "Produkter",
     "specs": "Spesifikasjoner",
@@ -695,16 +734,16 @@
       "note": "* Nøyaktige parametere avhenger av standard (ISO/DOT/GB) og ventilkonfigurasjon. Be om spesifikasjonsark for markedet ditt."
     },
     "propane": {
-      "title": "Propan- og LPG-sylindere",
-      "intro": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning.",
+      "title": "WG-P sylinderserie",
+      "intro": "WG-P-modellene er én stålsylinderfamilie. Fyllgass - propan eller LPG (propan, butan eller blandinger) - spesifiseres per ordre og destinasjonsmarked.",
       "features": [
-        "37Mn/34CrMo4 stål i henhold til ISO 9809",
+        "Stålkvalitet og gjeldende sylinderstandard bekreftet per bestilling",
         "Arbeidstrykk 1,8–2,1 MPa",
-        "POL, CGA 510, GOST ventiler",
-        "Pulverlakk, anti-korrosjon",
-        "Sertifikater for EU, USA, CIS markeder"
+        "POL, CGA 510, GOST-ventiler diskutert per marked",
+        "Pulverlakkering og anti-korrosjon finish",
+        "Sertifiseringsalternativer diskutert per destinasjonsmarked"
       ],
-      "tableTitle": "Standard propansylindermodeller",
+      "tableTitle": "Standard WG-P sylindermodeller",
       "headers": [
         "Model",
         "Volum (L)",
@@ -768,10 +807,10 @@
       "intro": "Utstyr for å produsere acetylen fra kalsiumkarbid. Stabil gassforsyning for sveising og industrielle behov uten sentralisert gassinfrastruktur.",
       "features": [
         "Ytelse 3–100 m³/t kapasitet",
-        "Automatisk vann- og karbidmating",
-        "Sikkerhetssystem og filtrering",
+        "Vann- og karbidmatingsalternativer diskutert per modell",
+        "Sikkerhetssystem og filtrering som spesifisert for modellen",
         "Kompakte og industrielle modeller",
-        "Full dokumentasjon og opplæring"
+        "Bestillingsdokumentasjon følger med. Operatøropplæring kan diskuteres på forespørsel"
       ],
       "tableTitle": "Acetylen Generator modeller",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatorer leveres med kjølesystem, filtre og reservedelssett på forespørsel."
     },
     "accessories": {
-      "title": "Sylindertilbehør og beslag",
+      "title": "Sveisetilbehør og sylinderbeslag",
       "intro": "Komplett utvalg for sikker drift av gassflasker: fra målere til sveisebrennere. One-stop anskaffelse med sylindere.",
       "features": [
         "Regulatorer og målere (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Fakler",
           "WG-C100, WG-C300",
           "—",
-          "Plasma/oksy-skjæring"
+          "Oksy-fuel kutting"
         ],
         [
           "Brennere",
@@ -881,7 +920,7 @@
           "Alle sylindertyper"
         ]
       ],
-      "note": "* Tilbehør tilgjengelig separat eller buntet med sylindere. Rabatt på kombinerte bestillinger."
+      "note": "* Tilbehør kan tilbys separat eller sammen med sylindere. Kombinert bestillingspris er bekreftet i tilbudet."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksport og logistikk",
-        "desc": "Komplett internasjonal forsendelsesstøtte.",
+        "desc": "Eksportpakking og fraktkoordinering for utenlandske kjøpere.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Eksporter dokumentasjon",
-          "Sjø- og jernbanefrakt"
+          "Sjø- og jernbanefraktalternativer"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kvalitetskontroll",
-        "desc": "Testing og inspeksjon på alle trinn.",
+        "desc": "Inspeksjon og testing under produksjon i henhold til bestillingen.",
         "points": [
           "Hydrostatiske tester",
-          "UT sveisekontroll",
-          "SGS/BV inspeksjon på forespørsel"
+          "Sveisekontroll som spesifisert",
+          "Tredjeparts inspeksjon på forespørsel"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifisering",
         "desc": "Dokumenter for toll og regulatorer. Kopier sendes privat på forespørsel.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "HMS-datablad og kvalitetssertifikat",
-          "Opprinnelsessertifikat"
+          "Standarder diskutert per produkt og marked",
+          "HMS-datablad og kvalitetsdokumenter på forespørsel",
+          "Opprinnelsessertifikat på forespørsel"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Hjelp til å velge produkter og konfigurasjon.",
         "points": [
           "Markedsbasert utvalg",
-          "MOQ og ledetidsberegning",
-          "Personalopplæring"
+          "MOQ og ledetid diskutert per bestilling",
+          "Operatørveiledning diskutert på forespørsel"
         ]
       },
       {
         "icon": "📦",
         "title": "Pakketilførsel",
-        "desc": "Sylindre + tilbehør i én bestilling.",
+        "desc": "Sylindre og tilbehør i én bestilling.",
         "points": [
-          "Enkel kontrakt",
+          "Enkel henvendelse",
           "Koordinert levering",
-          "Bundlerabatt"
+          "Kombinert bestillingsprising i tilbudet"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Sømløse gassflasker i stål — tekniske krav"
+        "desc": "Gjenfyllbare sømløse gassflasker i stål — bråkjølt og herdet stål. Diskutert per produkt- og destinasjonsmarked."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Oppløste acetylensylindere"
+        "desc": "Gassflasker — gjenfyllbare sømløse gassflasker i stål — design, konstruksjon og testing — Del 3: normaliserte stålflasker. Ikke en acetylen-sylinderstandard (se ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylensylindere — grunnleggende krav og typeprøving. Diskutert for acetylenprodukter ved forespørsel. Anvendelighet bekreftes per bestilling."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Sylinderstandard for USA-markedet – anvendbarhet bekreftet per produkt og bestilling"
+        "desc": "Amerikansk spesifikasjon for sømløse stålsylindere – anvendbarhet bekreftet per produkt og bestilling"
       },
       {
         "name": "TPED",
-        "desc": "Europeiske transportkrav – diskutert per destinasjonsmarked"
+        "desc": "EUs direktiv for transportabelt trykkutstyr — diskutert per destinasjonsmarked"
       },
       {
         "name": "GB 5099",
-        "desc": "Kinesisk gassflaske standard"
+        "desc": "Kinesisk nasjonal standard for sømløse stålgassflasker – anvendbarhet bekreftet per produkt og bestilling"
       },
       {
         "name": "CE Mark",
-        "desc": "Europeisk samsvarsmerking — anvendelighet per produkt og marked"
+        "desc": "Europeisk samsvarsmerking — anvendelighet per produkt og marked. Ikke en erstatning for en publisert sertifikatfil."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Hva kjøperne sier",
+    "title": "Hva industrielle kjøpere vanligvis spør etter",
     "items": [
       {
-        "quote": "Vi ombestilte 40L acetylensylindere tre ganger i år. GOST-ventiler, OEM-farge og eksportpakning matchet den første prøven hver gang.",
-        "author": "Rustam Yusupov",
-        "role": "Eier, sveisegassfordeler",
-        "country": "Uzbekistan"
+        "quote": "OEM-farge, ventiltype og eksportpakning samsvarer med en bekreftet prøve før gjentatt levering.",
+        "author": "Distributor inquiries",
+        "role": "Sveisegassforsyning",
+        "country": "Central Asia"
       },
       {
-        "quote": "Sitat kom samme dag med en klar MOQ og ledetid. Propanflasker ankom med POL-ventiler og full pakkeliste - ingen tollforsinkelser fra vår side.",
-        "author": "Aigerim Bekova",
-        "role": "Innkjøpssjef, industriforsyning",
-        "country": "Kazakhstan"
+        "quote": "Tøm MOQ, ledetid og pakkeliste bekreftet i tilbudet - ikke som faste nettsidepriser.",
+        "author": "Procurement inquiries",
+        "role": "Industriell forsyning",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Vi kjøper sylindere med regulatorer og slanger som én containerbestilling. Dokumenter og merking var klare for vårt marked, så videresalg var greit.",
-        "author": "Faisal Al-Harbi",
-        "role": "Importkjøper, handel med gassutstyr",
-        "country": "Saudi Arabia"
+        "quote": "Sylindre med regulatorer og slanger oppgitt som én kombinert ordre, med merking diskutert for destinasjonsmarkedet.",
+        "author": "Import inquiries",
+        "role": "Handel med gassutstyr",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Hvem vi er",
     "title": "Industriell produsent for B2B-kjøpere",
-    "text": "Wanda Groups produserer og leverer industrielle gassflasker, generatorer og sveisetilbehør til utenlandske distributører, OEM-partnere og prosjektkjøpere.",
+    "text": "Wanda Groups produserer og leverer industrielle gassflasker, generatorer, sveisetilbehør og kjøleutstyr til utenlandske distributører, OEM-partnere og prosjektkjøpere.",
     "text2": "Vårt fokus er fabrikktilknyttet forsyning, støtte for produktvalg, bulkbestillinger og eksportkoordinering – ikke detaljhandel til forbrukere.",
     "cta": "Lær mer om oss"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Klar til å be om et tilbud?",
       "quoteCta": "Be om et tilbud",
       "relatedProducts": "Relaterte produkter",
+      "productFamilies": "Produktfamilier",
       "applications": "Applications",
       "standardsTitle": "Standarder og sertifisering",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Gassflaskeprodusent | Industriell OEM og eksport | Wanda grupper",
-      "seoDescription": "Wanda Groups produserer industrielle gassflasker, generatorer og sveisetilbehør for OEM-, engros- og internasjonale eksportkjøpere."
+      "seoDescription": "Wanda Groups produserer industrielle gassflasker, generatorer, sveisetilbehør og kjøleutstyr for OEM-, engros- og internasjonale eksportkjøpere."
     },
     "about": {
       "label": "Om oss",
       "title": "Gassflaskeprodusent for industrielle kjøpere",
       "subtitle": "Vi støtter utenlandske kjøpere med produktutvalg, OEM, inspeksjon, pakking og frakt.",
       "seoTitle": "Om Wanda Group",
-      "seoDescription": "Wanda Group produserer acetylensylindere, propanflasker, generatorer og tilbehør for sveising, skjæring og industriell gassforsyning."
+      "seoDescription": "Wanda Group produserer acetylen-, propan- og LPG-flasker, generatorer, sveisetilbehør og kjøleutstyr for industrielle eksportkjøpere."
     },
     "products": {
       "label": "Produkter",
       "title": "Våre produkter",
-      "subtitle": "Acetylensylindere, generatorer, propansylindere og tilbehør for industrielle og sveiseapplikasjoner.",
+      "subtitle": "Acetylen-, propan- og LPG-flasker, generatorer, sveisetilbehør og kjøleutstyr for industrielle kjøpere.",
       "seoTitle": "Gassflaskeprodukter",
-      "seoDescription": "Acetylensylindere, generatorer, propansylindere og tilbehør for industrielle og sveiseapplikasjoner.",
+      "seoDescription": "Acetylen-, propan- og LPG-flasker, acetylengeneratorer, sveisetilbehør og kjøleutstyr fra Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Oppløste acetylensylindere",
           "overview": "Stålsylindere med porøs masse og løsemiddel for sikker lagring og transport av acetylen. Brukes til sveising, skjæring, lodding og metallproduksjon.",
+          "application": "Oksy-acetylen sveising, skjæring og lodding",
           "seoTitle": "Acetylen gassflasker",
           "seoDescription": "Stålsylindere med porøs masse og løsemiddel for sikker lagring og transport av acetylen. Brukes til sveising, skjæring, lodding og metallproduksjon."
         },
         "propane": {
           "name": "Propansylindere",
-          "overview": "Stålsylindere for propangass lagring og transport. Brukes til oppvarming, industriell propantilførsel, matlaging og skjæring av oksygen i kombinasjon med acetylen.",
+          "overview": "Stålsylindere spesifisert for propanfylling. Brukes til oppvarming, industriell propantilførsel, matlaging og skjæring av oksygen i kombinasjon med acetylen.",
+          "application": "Industriell propanoppvarming, skjæring og anleggsforsyning",
+          "familyNote": "Propan- og LPG-sylindere bruker samme WG-P stålsylinderserie. Denne siden dekker propanfylling og propanspesifikk bruk. LPG-blandinger og distribusjonsforsyning er beskrevet på LPG-sylindersiden.",
           "seoTitle": "Propangass sylindere",
-          "seoDescription": "Propangassflasker i stål for oppvarming, industriell forsyning og skjæreapplikasjoner. Eksport- og OEM-alternativer diskutert per bestilling."
+          "seoDescription": "Stålsylindere for propanfylling - oppvarming, industriell forsyning og skjæring av oksygen. Samme WG-P-serie som LPG; fyllgass spesifisert per bestilling."
         },
         "lpg": {
           "name": "LPG-sylindere",
-          "overview": "Sylindre for flytende petroleumsgass (LPG) - propan, butan eller blandede blandinger. Felles for LPG-distribusjon for boliger og kommersielle formål, camping, oppvarming og bærbar drivstoffforsyning.",
+          "overview": "Sylindre for flytende petroleumsgass (LPG) - propan, butan eller blandede blandinger. Brukes til bolig- og kommersiell LPG-distribusjon, camping, oppvarming og bærbar drivstoffforsyning.",
+          "application": "LPG-distribusjon, bærbart drivstoff og blandingsbasert oppvarming",
+          "familyNote": "LPG-sylindere og propansylindere bruker samme WG-P stålsylinderserie. Denne siden dekker LPG-blandinger og distribusjonsbruk. Bruk av kun propanfylling og industriell propan er beskrevet på propansylindere-siden.",
           "seoTitle": "LPG gassflasker",
-          "seoDescription": "LPG-flasker for boliger, kommersielle og industrielle flytende petroleumsgassdistribusjon og bærbar forsyning."
+          "seoDescription": "LPG-flasker for bolig-, kommersielle og industrielle flytende petroleumsgassdistribusjon. Samme WG-P-serie som propansylindere; fyll spesifisert per bestilling."
         },
         "industrial": {
           "name": "Industrielle gassflasker",
           "overview": "Industrielle gassflasker for sveising, skjæring og anleggsforsyning – inkludert acetylen, propan og LPG-alternativer tilpasset ditt marked.",
+          "application": "Anlegg, distributør og prosjekt sylinderforsyning",
           "seoTitle": "Industrielle gassflasker",
           "seoDescription": "Industrielle gassflasker for sveising, skjæring og anleggsforsyning fra Wanda Group."
         },
         "generators": {
           "name": "Acetylen generatorer",
           "overview": "Utstyr for å produsere acetylen fra kalsiumkarbid. Stabil gassforsyning for sveising og industrielle behov uten sentralisert gassinfrastruktur.",
+          "application": "Acetylengenerering på stedet fra kalsiumkarbid",
           "seoTitle": "Acetylen generatorer",
           "seoDescription": "Utstyr for å produsere acetylen fra kalsiumkarbid. Stabil gassforsyning for sveising og industrielle behov uten sentralisert gassinfrastruktur."
         },
         "accessories": {
-          "name": "Sylindertilbehør og beslag",
+          "name": "Sveisetilbehør og sylinderbeslag",
           "overview": "Komplett utvalg for sikker drift av gassflasker: fra målere til sveisebrennere. One-stop anskaffelse med sylindere.",
-          "seoTitle": "Sveisetilbehør",
-          "seoDescription": "Komplett utvalg for sikker drift av gassflasker: fra målere til sveisebrennere. One-stop anskaffelse med sylindere."
+          "application": "Oxy-fuel oppsett, regulatorer, slanger, ventiler og målere",
+          "seoTitle": "Sveisetilbehør og sylinderbeslag",
+          "seoDescription": "Sveisetilbehør og sylindertilbehør - regulatorer, slanger, målere, brennere og ventiler, levert med sylindere eller separat."
         },
         "refrigeration": {
           "name": "Kjøleenheter",
           "overview": "En egen Wanda Group-linje – ikke en tredjepartskatalog. Kondenseringsaggregater, kjølerom og hardware, levert av oss med sylindere eller som frittstående bestilling.",
+          "application": "Kjølerom, matkjølekjede og industriell kjøling",
           "seoTitle": "Kjøleenheter",
-          "seoDescription": "En egen Wanda Group-linje – ikke en tredjepartskatalog. Kondenseringsaggregater, kjølerom og hardware, levert av oss med sylindere eller som frittstående bestilling."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

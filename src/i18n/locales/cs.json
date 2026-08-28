@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Výrobce průmyslových plynových lahví",
     "title": "Výrobce průmyslových plynových lahví a zařízení",
-    "subtitle": "Výroba, OEM a velkoobchodní dodávky acetylenových lahví, propanových/LPG lahví, generátorů a svařovacího příslušenství pro mezinárodní exportní odběratele.",
+    "subtitle": "Výroba, OEM a velkoobchodní dodávky acetylenových, propanových a LPG lahví, generátorů, svařovacího příslušenství a chladicího zařízení pro mezinárodní exportní odběratele.",
     "lineGas": "Plynové lahve",
     "lineCold": "Chladicí jednotky",
     "cta": "Získejte cenovou nabídku",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Naše produkty",
-    "subtitle": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+    "subtitle": "Acetylenové, propanové a LPG lahve, generátory, svařovací příslušenství a chladicí zařízení pro průmyslové zákazníky.",
     "viewDetails": "Zobrazit podrobnosti",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propanová láhev",
         "spec": "3L–50L · možnosti ventilů na trhu",
-        "desc": "Odolné láhve na LPG pro vytápění, řezání a průmyslové použití.",
+        "desc": "Ocelové lahve pro plnění propanem — topení, řezání a průmyslové dodávky.",
         "icon": "🛢️"
       },
       {
-        "title": "Příslušenství k válcům",
+        "title": "Svařovací příslušenství",
         "spec": "Ventily · regulátory · hadice · svítilny",
-        "desc": "Odpovídající armatury dodávané s cylindry nebo jako samostatná objednávka.",
+        "desc": "Svařovací příslušenství a tvarovky válců, dodávané s válci nebo samostatně.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaceutické a lékařské chladírny",
       "Logistika a chlazená doprava",
       "Průmyslové chlazení a procesní chladiče"
+    ],
+    "acetylene": [
+      "Kyslíko-acetylenové svařování",
+      "Kyslíko-palivové řezání",
+      "Pájení a ohřev",
+      "Kovovýroby",
+      "Loděnice a údržbářské práce"
+    ],
+    "propane": [
+      "Průmyslové vytápění propanem",
+      "Kyslíko-palivové řezání acetylenem",
+      "Vytápění dílen a staveb",
+      "Dodávka rostlinného propanu",
+      "Vaření a procesní teplo tam, kde je specifikován propan"
+    ],
+    "lpg": [
+      "Bytový a komerční rozvod LPG",
+      "Přenosný přívod paliva LPG",
+      "Kempingový a cateringový plyn",
+      "Vytápění směsí LPG",
+      "Velkoobchodní plnění lahví LPG pro místní trhy"
+    ],
+    "industrial": [
+      "Dodávka svařovacího a řezacího plynu",
+      "Závod a dílna sklad válců",
+      "Distributor průmyslových plynovodů",
+      "Projekt a staveniště"
+    ],
+    "generators": [
+      "Výroba acetylenu na místě z karbidu vápníku",
+      "Dílny bez dodávky acetylenu v lahvích",
+      "Svařování a řezání tam, kde je logistika válců omezená",
+      "Průmyslové areály vyžadující místní zdroj acetylenu"
+    ],
+    "accessories": [
+      "Sestavy válců a regulátorů",
+      "Nastavení kyslíkového svařování a řezání",
+      "Výměna hadice, měřidla a ventilu",
+      "Dílenské bezpečnostní armatury pro manipulaci s plynem"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Výrobce plynových lahví pro průmyslové zákazníky",
-    "text": "Wanda Group vyrábí acetylenové lahve, propanové lahve, generátory a příslušenství pro svařování, řezání a zásobování průmyslovým plynem.",
+    "text": "Wanda Group vyrábí acetylenové lahve, propanové a LPG lahve, generátory a svařovací příslušenství a také dodává chladicí zařízení pro průmyslové zákazníky.",
     "text2": "Podporujeme zahraniční kupující s výběrem produktů, OEM, kontrolou, balením a dopravou.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Jaké produkty převážně dodáváte?",
-            "a": "Dodáváme acetylenové lahve, propanové lahve, vyvíječe acetylenu a příslušenství k plynovým lahvím, jako jsou ventily, regulátory, hadice, tlakoměry a hořáky."
+            "a": "Jako samostatnou produktovou řadu dodáváme acetylenové lahve, propanové a LPG lahve, vyvíječe acetylenu, příslušenství plynových lahví a chladicí zařízení."
           },
           {
             "q": "Můžete podpořit přizpůsobení OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Mohu před zadáním objednávky sledovat tovární videa?",
-            "a": "Ano. Podívejte se na produkční videa v sekci Factory na této stránce. Dodatečné záběry, balicí klipy a certifikáty zasíláme soukromě na vyžádání."
+            "a": "Ano. Podívejte se na videa z výroby na stránce Factory. Dodatečné záběry, obalové klipy a kopie certifikátů jsou zasílány soukromě na vyžádání."
           },
           {
             "q": "Poskytujete produktová videa, zejména pro acetylenové lahve?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Lze příslušenství objednat společně s plynovými lahvemi?",
-            "a": "Ano. Příslušenství lze dodat společně s acetylenovými lahvemi, propanovými lahvemi a generátory acetylenu."
+            "a": "Ano. Příslušenství lze dodat společně s acetylenovými, propanovými a LPG lahvemi a generátory acetylenu."
           },
           {
             "q": "Podporujete OEM balení?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Získejte přesnou cenovou nabídku",
     "certifications": "Certifikace",
     "order": "Objednávka",
-    "reviews": "Recenze",
+    "reviews": "Poznámky kupujícího",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Umístění",
@@ -587,7 +626,7 @@
     "exportReady": "Export připraven",
     "years": "let",
     "acetylene": "Acetylene",
-    "isoCertified": "Certifikováno ISO",
+    "isoCertified": "Normy na vyžádání",
     "globalExport": "Globální export",
     "products": "Produkty",
     "specs": "Specifikace",
@@ -695,16 +734,16 @@
       "note": "* Přesné parametry závisí na standardu (ISO/DOT/GB) a konfiguraci ventilu. Vyžádejte si technický list pro váš trh."
     },
     "propane": {
-      "title": "Lahve na propan a LPG",
-      "intro": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem.",
+      "title": "Řada válců WG-P",
+      "intro": "Modely WG-P jsou z rodiny ocelových válců. Plnicí plyn – propan nebo LPG (propan, butan nebo směsi) – je specifikován podle objednávky a cílového trhu.",
       "features": [
-        "Ocel 37Mn/34CrMo4 podle ISO 9809",
+        "Třída oceli a příslušná norma válců potvrzena na objednávku",
         "Pracovní tlak 1,8–2,1 MPa",
-        "Ventily POL, CGA 510, GOST",
-        "Práškové lakování, antikorozní",
-        "Certifikáty pro trhy EU, USA, SNS"
+        "Ventily POL, CGA 510, GOST diskutované podle trhu",
+        "Práškové lakování a antikorozní úprava",
+        "Možnosti certifikace diskutované podle cílového trhu"
       ],
-      "tableTitle": "Standardní modely propanových válců",
+      "tableTitle": "Standardní modely válců WG-P",
       "headers": [
         "Model",
         "Objem (L)",
@@ -768,10 +807,10 @@
       "intro": "Zařízení na výrobu acetylenu z karbidu vápníku. Stabilní dodávka plynu pro svařování a průmyslové potřeby bez centralizované plynárenské infrastruktury.",
       "features": [
         "Výkon 3–100 m³/h kapacita",
-        "Automatický přívod vody a karbidu",
-        "Bezpečnostní systém a filtrace",
+        "Možnosti podávání vody a karbidu diskutovány u jednotlivých modelů",
+        "Bezpečnostní systém a filtrace dle specifikace modelu",
         "Kompaktní a průmyslové modely",
-        "Kompletní dokumentace a školení"
+        "Dodaná dokumentace k objednávce. Na požádání je možné projednat školení obsluhy"
       ],
       "tableTitle": "Modely generátorů acetylenu",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generátory dodávané s chladicím systémem, filtry a sadou náhradních dílů na vyžádání."
     },
     "accessories": {
-      "title": "Příslušenství a armatury válců",
+      "title": "Svařovací příslušenství a armatury válců",
       "intro": "Kompletní řada pro bezpečný provoz plynových lahví: od měřidel po svařovací hořáky. Jednorázové zásobování s lahvemi.",
       "features": [
         "Regulátory a měřidla (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Pochodně",
           "WG-C100, WG-C300",
           "—",
-          "Řezání plazmou/oxidem"
+          "Kyslíko-palivové řezání"
         ],
         [
           "Hořáky",
@@ -881,7 +920,7 @@
           "Všechny typy válců"
         ]
       ],
-      "note": "* Příslušenství je k dispozici samostatně nebo v balení s válci. Sleva na kombinované objednávky."
+      "note": "* Příslušenství lze uvést samostatně nebo společně s válci. Kombinovaná cena je potvrzena v nabídce."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistika",
-        "desc": "Kompletní podpora mezinárodní přepravy.",
+        "desc": "Exportní balení a koordinace přepravy pro zahraniční kupující.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Exportní dokumentace",
-          "Námořní a železniční nákladní doprava"
+          "Možnosti námořní a železniční nákladní dopravy"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrola kvality",
-        "desc": "Testování a kontrola v každé fázi.",
+        "desc": "Kontrola a testování při výrobě dle objednávky.",
         "points": [
           "Hydrostatické zkoušky",
-          "UT kontrola svaru",
-          "Kontrola SGS/BV na vyžádání"
+          "Kontrola svaru podle specifikace",
+          "Kontrola třetí stranou na vyžádání"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Osvědčení",
         "desc": "Dokumenty pro celníky a regulátory. Kopie jsou zasílány soukromě na vyžádání.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS a certifikát kvality",
-          "Průkaz původu"
+          "Normy diskutované podle produktu a trhu",
+          "MSDS a dokumenty o kvalitě na vyžádání",
+          "Osvědčení o původu na vyžádání"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pomoc s výběrem produktů a konfigurace.",
         "points": [
           "Výběr na základě trhu",
-          "MOQ a výpočet dodací lhůty",
-          "Školení personálu"
+          "MOQ a dodací lhůta projednána na objednávku",
+          "Pokyny operátora projednány na vyžádání"
         ]
       },
       {
         "icon": "📦",
         "title": "Dodávka svazků",
-        "desc": "Válce + příslušenství v jedné objednávce.",
+        "desc": "Válce a příslušenství v jedné objednávce.",
         "points": [
-          "Jedna smlouva",
+          "Jediný dotaz",
           "Koordinované doručení",
-          "Sleva na balíček"
+          "Kombinovaná cena v nabídce"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bezešvé ocelové lahve na plyn — technické požadavky"
+        "desc": "Plnitelné bezešvé ocelové lahve na plyn – kalená a temperovaná ocel. Diskutováno podle produktu a cílového trhu."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Rozpuštěné acetylenové lahve"
+        "desc": "Lahve na plyny — Znovuplnitelné bezešvé ocelové lahve na plyny — Návrh, konstrukce a zkoušení — Část 3: Lahve z normalizované oceli. Nejedná se o normu pro acetylenové lahve (viz ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylenové lahve — základní požadavky a typové zkoušky. Diskutováno pro acetylenové produkty na vyžádání. Platnost je potvrzena na objednávku."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Americký standard pro cylindrické vložky – platnost potvrzena na produkt a objednávku"
+        "desc": "Americká specifikace pro bezešvé ocelové lahve – použitelnost potvrzena na produkt a objednávku"
       },
       {
         "name": "TPED",
-        "desc": "Evropské požadavky na přepravu – diskutováno podle cílového trhu"
+        "desc": "Směrnice EU o přepravitelných tlakových zařízeních – diskutována pro jednotlivé cílové trhy"
       },
       {
         "name": "GB 5099",
-        "desc": "Standardní čínská plynová láhev"
+        "desc": "Čínská národní norma pro bezešvé ocelové lahve na plyn – použitelnost potvrzena na produkt a objednávku"
       },
       {
         "name": "CE Mark",
-        "desc": "Evropské označení shody – použitelnost na výrobek a trh"
+        "desc": "Evropské označení shody – použitelnost na výrobek a trh. Nenahrazuje publikovaný soubor certifikátu."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Co říkají kupující",
+    "title": "Co obvykle požadují průmysloví nákupčí",
     "items": [
       {
-        "quote": "Letos jsme třikrát přeobjednali 40L acetylenové lahve. Ventily GOST, barva OEM a exportní balení pokaždé odpovídaly prvnímu vzorku.",
-        "author": "Rustam Yusupov",
-        "role": "Majitel, distributor svařovacího plynu",
-        "country": "Uzbekistan"
+        "quote": "OEM barva, typ ventilu a exportní balení odpovídají potvrzenému vzorku před opakovaným dodáním.",
+        "author": "Distributor inquiries",
+        "role": "Přívod svařovacího plynu",
+        "country": "Central Asia"
       },
       {
-        "quote": "Nabídka přišla ve stejný den s jasným MOQ a dodací lhůtou. Propanové lahve dorazily s POL ventily a kompletním balicím seznamem – na naší straně žádné celní prodlevy.",
-        "author": "Aigerim Bekova",
-        "role": "Manažer nákupu, průmyslové dodávky",
-        "country": "Kazakhstan"
+        "quote": "Jasné MOQ, dodací lhůta a seznam balení potvrzené v nabídce – nikoli jako pevné ceny webových stránek.",
+        "author": "Procurement inquiries",
+        "role": "Průmyslové dodávky",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Lahve s regulátory a hadicemi nakupujeme jako jednu objednávku kontejneru. Dokumenty a značení byly připraveny pro náš trh, takže další prodej byl jednoduchý.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import kupující, obchod s plynovými zařízeními",
-        "country": "Saudi Arabia"
+        "quote": "Válce s regulátory a hadicemi uváděny jako jedna kombinovaná objednávka, s označením projednaným pro trh určení.",
+        "author": "Import inquiries",
+        "role": "Obchodování s plynovými zařízeními",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kdo jsme",
     "title": "Průmyslový výrobce pro B2B kupující",
-    "text": "Wanda Groups vyrábí a dodává průmyslové plynové lahve, generátory a svařovací příslušenství pro zámořské distributory, OEM partnery a projektové nákupčí.",
+    "text": "Wanda Groups vyrábí a dodává průmyslové plynové lahve, generátory, svařovací příslušenství a chladicí zařízení pro zámořské distributory, OEM partnery a projektové nákupčí.",
     "text2": "Zaměřujeme se na dodávky propojené s továrnou, podporu výběru produktů, hromadné objednávky a koordinaci exportu – nikoli maloobchodní spotřebitelský prodej.",
     "cta": "Zjistěte o nás více"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Jste připraveni požádat o cenovou nabídku?",
       "quoteCta": "Vyžádejte si cenovou nabídku",
       "relatedProducts": "Související produkty",
+      "productFamilies": "Produktové rodiny",
       "applications": "Applications",
       "standardsTitle": "Normy a certifikace",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Výrobce plynových lahví | Průmyslový OEM a export | Skupiny Wanda",
-      "seoDescription": "Wanda Groups vyrábí průmyslové plynové lahve, generátory a svařovací příslušenství pro OEM, velkoobchody a mezinárodní exportní odběratele."
+      "seoDescription": "Wanda Groups vyrábí průmyslové plynové lahve, generátory, svařovací příslušenství a chladicí zařízení pro OEM, velkoobchody a mezinárodní exportní odběratele."
     },
     "about": {
       "label": "O nás",
       "title": "Výrobce plynových lahví pro průmyslové zákazníky",
       "subtitle": "Podporujeme zahraniční kupující s výběrem produktů, OEM, kontrolou, balením a dopravou.",
       "seoTitle": "O skupině Wanda",
-      "seoDescription": "Wanda Group vyrábí acetylenové lahve, propanové lahve, generátory a příslušenství pro svařování, řezání a zásobování průmyslovým plynem."
+      "seoDescription": "Wanda Group vyrábí acetylenové, propanové a LPG lahve, generátory, svařovací příslušenství a chladicí zařízení pro průmyslové exportní odběratele."
     },
     "products": {
       "label": "Produkty",
       "title": "Naše produkty",
-      "subtitle": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+      "subtitle": "Acetylenové, propanové a LPG lahve, generátory, svařovací příslušenství a chladicí zařízení pro průmyslové zákazníky.",
       "seoTitle": "Produkty plynových lahví",
-      "seoDescription": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+      "seoDescription": "Acetylenové, propanové a LPG lahve, generátory acetylenu, svařovací příslušenství a chladicí zařízení od Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Rozpuštěné acetylenové válce",
           "overview": "Ocelové lahve s porézní hmotou a rozpouštědlem pro bezpečné skladování a přepravu acetylenu. Používá se při svařování, řezání, pájení a kovovýrobě.",
+          "application": "Kyslíko-acetylenové svařování, řezání a pájení",
           "seoTitle": "Acetylenové plynové lahve",
           "seoDescription": "Ocelové lahve s porézní hmotou a rozpouštědlem pro bezpečné skladování a přepravu acetylenu. Používá se při svařování, řezání, pájení a kovovýrobě."
         },
         "propane": {
           "name": "Propanové lahve",
-          "overview": "Ocelové lahve pro skladování a přepravu propanového plynu. Používá se pro vytápění, průmyslové dodávky propanu, vaření a řezání kyslíkem ve spojení s acetylenem.",
+          "overview": "Ocelové lahve určené pro plnění propanem. Používá se pro vytápění, průmyslové dodávky propanu, vaření a řezání kyslíkem ve spojení s acetylenem.",
+          "application": "Průmyslové vytápění propanem, řezání a dodávka zařízení",
+          "familyNote": "Propanové lahve a LPG lahve používají stejnou řadu ocelových lahví WG-P. Tato stránka pokrývá náplň propanu a specifická použití pro propan. Směsi LPG a distribuce jsou popsány na stránce Lahve na LPG.",
           "seoTitle": "Propanové plynové lahve",
-          "seoDescription": "Ocelové propanové plynové lahve pro vytápění, průmyslové dodávky a řezání. Možnosti exportu a OEM diskutovány na objednávku."
+          "seoDescription": "Ocelové lahve pro plnění propanem — topení, průmyslové dodávky a kyslíko-palivové řezání. Stejná řada WG-P jako LPG; plnicí plyn specifikovaný na objednávku."
         },
         "lpg": {
           "name": "LPG válce",
-          "overview": "Lahve na zkapalněný ropný plyn (LPG) – propan, butan nebo směsné směsi. Společné pro obytné a komerční rozvody LPG, kempování, vytápění a přenosné dodávky paliva.",
+          "overview": "Lahve na zkapalněný ropný plyn (LPG) – propan, butan nebo směsné směsi. Používá se pro rezidenční a komerční distribuci LPG, kempování, vytápění a přenosné dodávky paliva.",
+          "application": "Distribuce LPG, přenosné palivo a směsné topení",
+          "familyNote": "LPG lahve a propanové lahve používají stejnou řadu ocelových lahví WG-P. Tato stránka se zabývá směsmi LPG a distribucí. Plnění pouze propanem a použití průmyslového propanu je popsáno na stránce Propanové lahve.",
           "seoTitle": "Plynové lahve LPG",
-          "seoDescription": "LPG lahve pro rezidenční, komerční a průmyslové rozvody zkapalněného ropného plynu a přenosné zásobování."
+          "seoDescription": "LPG lahve pro rezidenční, komerční a průmyslové rozvody zkapalněných ropných plynů. Stejná řada WG-P jako propanové lahve; vyplňte uvedenou v objednávce."
         },
         "industrial": {
           "name": "Průmyslové plynové lahve",
           "overview": "Průmyslové plynové lahve pro svařování, řezání a zásobování provozem – včetně možností acetylenu, propanu a LPG přizpůsobených vašemu trhu.",
+          "application": "Rostlina, distributor a projekt dodávky válce",
           "seoTitle": "Průmyslové plynové lahve",
           "seoDescription": "Průmyslové plynové lahve pro svařování, řezání a zásobování zařízení od Wanda Group."
         },
         "generators": {
           "name": "Generátory acetylenu",
           "overview": "Zařízení na výrobu acetylenu z karbidu vápníku. Stabilní dodávka plynu pro svařování a průmyslové potřeby bez centralizované plynárenské infrastruktury.",
+          "application": "Výroba acetylenu na místě z karbidu vápníku",
           "seoTitle": "Generátory acetylenu",
           "seoDescription": "Zařízení na výrobu acetylenu z karbidu vápníku. Stabilní dodávka plynu pro svařování a průmyslové potřeby bez centralizované plynárenské infrastruktury."
         },
         "accessories": {
-          "name": "Příslušenství a armatury válců",
+          "name": "Svařovací příslušenství a armatury válců",
           "overview": "Kompletní řada pro bezpečný provoz plynových lahví: od měřidel po svařovací hořáky. Jednorázové zásobování s lahvemi.",
-          "seoTitle": "Svařovací příslušenství",
-          "seoDescription": "Kompletní řada pro bezpečný provoz plynových lahví: od měřidel po svařovací hořáky. Jednorázové zásobování s lahvemi."
+          "application": "Kyslíko-palivová nastavení, regulátory, hadice, ventily a měřidla",
+          "seoTitle": "Svařovací příslušenství a armatury válců",
+          "seoDescription": "Svařovací příslušenství a armatury lahví — regulátory, hadice, manometry, hořáky a ventily, dodávané s lahvemi nebo samostatně."
         },
         "refrigeration": {
           "name": "Chladicí jednotky",
           "overview": "Samostatná řada Wanda Group — ne katalog třetí strany. Kondenzační jednotky, chladírny a kování námi dodávané s válci nebo jako samostatná zakázka.",
+          "application": "Chladírny, chladicí řetězec potravin a průmyslové chlazení",
           "seoTitle": "Chladicí jednotky",
-          "seoDescription": "Samostatná řada Wanda Group — ne katalog třetí strany. Kondenzační jednotky, chladírny a kování námi dodávané s válci nebo jako samostatná zakázka."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

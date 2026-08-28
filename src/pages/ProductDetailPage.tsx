@@ -14,6 +14,17 @@ import '../components/Products.css'
 import '../components/Refrigeration.css'
 import './ProductDetailPage.css'
 
+function applicationsForProduct(
+  t: ReturnType<typeof useLanguage>['t'],
+  catalogKey: ProductPageDef['catalogKey'],
+  slug: string,
+): string[] {
+  if (slug === 'refrigeration') return t.applications.refrigerationItems
+  const keyed = t.applications[catalogKey as keyof typeof t.applications]
+  if (Array.isArray(keyed)) return keyed
+  return t.applications.items
+}
+
 function galleryForSlug(slug: string, hero: string): string[] {
   const pick = (...srcs: readonly string[]) => srcs.filter((src) => src && src !== hero).slice(0, 4)
 
@@ -87,6 +98,23 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
             <div className="product-detail__intro">
               <h1 className="product-detail__title">{catalog.name}</h1>
               <p className="product-detail__overview">{catalog.overview}</p>
+              {'familyNote' in catalog && catalog.familyNote ? (
+                <p className="product-detail__overview">{catalog.familyNote}</p>
+              ) : null}
+              {product.catalogKey === 'propane' ? (
+                <p className="product-detail__overview">
+                  <LangLink to={routes.product('lpg-cylinders')}>
+                    {t.pages.products.catalog.lpg.name}
+                  </LangLink>
+                </p>
+              ) : null}
+              {product.catalogKey === 'lpg' ? (
+                <p className="product-detail__overview">
+                  <LangLink to={routes.product('propane-cylinders')}>
+                    {t.pages.products.catalog.propane.name}
+                  </LangLink>
+                </p>
+              ) : null}
               <LangLink to={routes.contact} className="btn btn-primary">
                 {t.pages.common.quoteCta}
               </LangLink>
@@ -202,9 +230,7 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
           <div className="product-detail__block">
             <h2 className="product-detail__heading">{t.pages.common.applications}</h2>
             <ul className="product-detail__list">
-              {(product.slug === 'refrigeration'
-                ? t.applications.refrigerationItems
-                : t.applications.items).map((item) => (
+              {applicationsForProduct(t, product.catalogKey, product.slug).map((item) => (
                 <li key={item}>{item}</li>
               ))}
             </ul>

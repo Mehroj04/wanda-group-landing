@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Pengeluar Silinder Gas Industri",
     "title": "Pengeluar Silinder Gas dan Peralatan Industri",
-    "subtitle": "Pembuatan, OEM dan pembekalan borong silinder asetilena, silinder propana/LPG, penjana dan aksesori kimpalan untuk pembeli eksport antarabangsa.",
+    "subtitle": "Pembuatan, OEM dan pembekalan borong asetilena, propana dan silinder LPG, penjana, aksesori kimpalan dan peralatan penyejukan untuk pembeli eksport antarabangsa.",
     "lineGas": "Silinder gas",
     "lineCold": "Unit penyejukan",
     "cta": "Dapatkan Sebut Harga",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Produk Kami",
-    "subtitle": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+    "subtitle": "Silinder asetilena, propana dan LPG, penjana, aksesori kimpalan dan peralatan penyejukan untuk pembeli industri.",
     "viewDetails": "Lihat Butiran",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Silinder propana",
         "spec": "3L–50L · pilihan injap setiap pasaran",
-        "desc": "Silinder LPG tahan lama untuk pemanasan, pemotongan dan kegunaan industri.",
+        "desc": "Silinder keluli untuk isian propana — pemanasan, pemotongan dan bekalan industri.",
         "icon": "🛢️"
       },
       {
-        "title": "Aksesori Silinder",
+        "title": "Aksesori Kimpalan",
         "spec": "Injap · pengawal selia · hos · obor",
-        "desc": "Kelengkapan sepadan dibekalkan dengan silinder atau sebagai pesanan berasingan.",
+        "desc": "Aksesori kimpalan dan kelengkapan silinder, dibekalkan dengan silinder atau secara berasingan.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Simpanan sejuk farmaseutikal dan perubatan",
       "Logistik dan pengangkutan peti sejuk",
       "Penyejukan industri dan penyejuk proses"
+    ],
+    "acetylene": [
+      "Kimpalan oksi-asetilena",
+      "Pemotongan bahan api oksi",
+      "Memateri dan memanaskan",
+      "Kedai fabrikasi logam",
+      "Limbungan dan kerja penyelenggaraan"
+    ],
+    "propane": [
+      "Pemanasan propana industri",
+      "Pemotongan bahan api oksi dengan asetilena",
+      "Pemanasan bengkel dan pembinaan",
+      "Bekalan propana tumbuhan",
+      "Memasak dan memproses haba di mana propana ditentukan"
+    ],
+    "lpg": [
+      "Pengedaran LPG kediaman dan komersial",
+      "Bekalan bahan api LPG mudah alih",
+      "Perkhemahan dan gas katering",
+      "Pemanasan dengan campuran LPG",
+      "Borong isian silinder LPG untuk pasaran tempatan"
+    ],
+    "industrial": [
+      "Bekalan gas kimpalan dan pemotongan",
+      "Stok silinder loji dan bengkel",
+      "Talian gas industri pengedar",
+      "Tapak projek dan pembinaan"
+    ],
+    "generators": [
+      "Pengeluaran asetilena di tapak daripada kalsium karbida",
+      "Bengkel tanpa bekalan asetilena dalam botol",
+      "Kimpalan dan pemotongan di mana logistik silinder adalah terhad",
+      "Tapak perindustrian yang memerlukan sumber asetilena tempatan"
+    ],
+    "accessories": [
+      "Pemasangan silinder dan pengawal selia",
+      "Persediaan kimpalan bahan api oksi dan pemotongan",
+      "Penggantian hos, tolok dan injap",
+      "Kelengkapan keselamatan pengendalian gas bengkel"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Pengeluar silinder gas untuk pembeli industri",
-    "text": "Kumpulan Wanda mengeluarkan silinder asetilena, silinder propana, penjana dan aksesori untuk kimpalan, pemotongan dan bekalan gas industri.",
+    "text": "Kumpulan Wanda mengeluarkan silinder asetilena, silinder propana dan LPG, penjana dan aksesori kimpalan, dan juga membekalkan peralatan penyejukan untuk pembeli industri.",
     "text2": "Kami menyokong pembeli luar negara dengan pemilihan produk, OEM, pemeriksaan, pembungkusan dan penghantaran.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Apakah produk yang paling anda bekalkan?",
-            "a": "Kami membekalkan silinder asetilena, silinder propana, penjana asetilena dan aksesori silinder gas seperti injap, pengawal selia, hos, tolok tekanan dan obor."
+            "a": "Kami membekalkan silinder asetilena, silinder propana dan LPG, penjana asetilena, aksesori silinder gas dan peralatan penyejukan sebagai barisan produk yang berasingan."
           },
           {
             "q": "Bolehkah anda menyokong penyesuaian OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Bolehkah saya menonton video kilang sebelum membuat pesanan?",
-            "a": "ya. Tonton video pengeluaran di bahagian Kilang di halaman ini. Rakaman tambahan, klip pembungkusan dan sijil dihantar secara peribadi atas permintaan."
+            "a": "ya. Tonton video pengeluaran di halaman Kilang. Rakaman tambahan, klip pembungkusan dan salinan sijil dihantar secara peribadi atas permintaan."
           },
           {
             "q": "Adakah anda menyediakan video produk, terutamanya untuk silinder asetilena?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Bolehkah aksesori ditempah bersama-sama dengan silinder gas?",
-            "a": "ya. Aksesori boleh dibekalkan bersama-sama dengan silinder asetilena, silinder propana dan penjana asetilena."
+            "a": "ya. Aksesori boleh dibekalkan bersama dengan silinder asetilena, propana dan LPG serta penjana asetilena."
           },
           {
             "q": "Adakah anda menyokong pembungkusan OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Dapatkan Sebut Harga Tepat",
     "certifications": "Pensijilan",
     "order": "Pesanan",
-    "reviews": "Ulasan",
+    "reviews": "Nota pembeli",
     "contact": "Contact",
     "phone": "telefon",
     "location": "Lokasi",
@@ -587,7 +626,7 @@
     "exportReady": "Eksport sedia",
     "years": "tahun",
     "acetylene": "Acetylene",
-    "isoCertified": "Diperakui ISO",
+    "isoCertified": "Piawaian atas permintaan",
     "globalExport": "Eksport Global",
     "products": "Produk",
     "specs": "Spesifikasi",
@@ -695,16 +734,16 @@
       "note": "* Parameter tepat bergantung pada standard (ISO/DOT/GB) dan konfigurasi injap. Minta helaian spesifikasi untuk pasaran anda."
     },
     "propane": {
-      "title": "Silinder Propana & LPG",
-      "intro": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, pematerian, pembinaan dan bekalan gas perindustrian.",
+      "title": "Julat silinder WG-P",
+      "intro": "Model WG-P adalah satu keluarga silinder keluli. Gas isian — propana atau LPG (propana, butana atau campuran) — ditentukan mengikut pesanan dan pasaran destinasi.",
       "features": [
-        "Keluli 37Mn/34CrMo4 setiap ISO 9809",
+        "Gred keluli dan standard silinder yang berkenaan disahkan setiap pesanan",
         "Tekanan kerja 1.8–2.1 MPa",
-        "POL, CGA 510, injap GOST",
-        "Salutan serbuk, anti-karat",
-        "Sijil untuk pasaran EU, AS, CIS"
+        "Injap POL, CGA 510, GOST dibincangkan setiap pasaran",
+        "Salutan serbuk dan kemasan anti-karat",
+        "Pilihan pensijilan dibincangkan setiap pasaran destinasi"
       ],
-      "tableTitle": "Model Silinder Propana Standard",
+      "tableTitle": "Model Silinder WG-P Standard",
       "headers": [
         "Model",
         "Kelantangan (L)",
@@ -768,10 +807,10 @@
       "intro": "Peralatan untuk menghasilkan asetilena daripada kalsium karbida. Bekalan gas yang stabil untuk keperluan kimpalan dan perindustrian tanpa infrastruktur gas berpusat.",
       "features": [
         "Keluaran kapasiti 3–100 m³/j",
-        "Suapan air & karbida automatik",
-        "Sistem keselamatan & penapisan",
+        "Pilihan suapan air dan karbida dibincangkan setiap model",
+        "Sistem keselamatan dan penapisan seperti yang dinyatakan untuk model",
         "Model padat dan perindustrian",
-        "Dokumentasi & latihan penuh"
+        "Dokumentasi pesanan dibekalkan. Latihan operator boleh dibincangkan atas permintaan"
       ],
       "tableTitle": "Model Penjana Asetilena",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Penjana dibekalkan dengan sistem penyejukan, penapis dan kit alat ganti atas permintaan."
     },
     "accessories": {
-      "title": "Aksesori & Kelengkapan Silinder",
+      "title": "Aksesori Kimpalan & Kelengkapan Silinder",
       "intro": "Rangkaian lengkap untuk operasi silinder gas yang selamat: daripada tolok kepada obor kimpalan. Perolehan sehenti dengan silinder.",
       "features": [
         "Pengawal selia & tolok (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Obor",
           "WG-C100, WG-C300",
           "—",
-          "Pemotongan plasma/oksi"
+          "Pemotongan bahan api oksi"
         ],
         [
           "Pembakar",
@@ -881,7 +920,7 @@
           "Semua jenis silinder"
         ]
       ],
-      "note": "* Aksesori tersedia secara berasingan atau digabungkan dengan silinder. Diskaun untuk pesanan gabungan."
+      "note": "* Aksesori boleh dipetik secara berasingan atau bersama-sama dengan silinder. Harga pesanan gabungan disahkan dalam sebut harga."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksport & Logistik",
-        "desc": "Sokongan penghantaran antarabangsa yang lengkap.",
+        "desc": "Eksport pembungkusan dan penyelarasan penghantaran untuk pembeli luar negara.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Dokumentasi eksport",
-          "Pengangkutan laut & kereta api"
+          "Pilihan pengangkutan laut dan kereta api"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kawalan Kualiti",
-        "desc": "Pengujian dan pemeriksaan pada setiap peringkat.",
+        "desc": "Pemeriksaan dan ujian semasa pengeluaran mengikut pesanan.",
         "points": [
           "Ujian hidrostatik",
-          "Pemeriksaan kimpalan UT",
-          "Pemeriksaan SGS/BV atas permintaan"
+          "Pemeriksaan kimpalan seperti yang dinyatakan",
+          "Pemeriksaan pihak ketiga atas permintaan"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Pensijilan",
         "desc": "Dokumen untuk kastam dan pengawal selia. Salinan dihantar secara peribadi atas permintaan.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & sijil kualiti",
-          "Sijil asal"
+          "Piawaian yang dibincangkan bagi setiap produk dan pasaran",
+          "MSDS dan dokumen kualiti atas permintaan",
+          "Sijil asal atas permintaan"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Bantu memilih produk dan konfigurasi.",
         "points": [
           "Pemilihan berasaskan pasaran",
-          "MOQ & pengiraan masa utama",
-          "Latihan kakitangan"
+          "MOQ dan masa utama dibincangkan setiap pesanan",
+          "Panduan operator dibincangkan atas permintaan"
         ]
       },
       {
         "icon": "📦",
         "title": "Bekalan Bundle",
-        "desc": "Silinder + aksesori dalam satu susunan.",
+        "desc": "Silinder dan aksesori dalam satu susunan.",
         "points": [
-          "Kontrak tunggal",
+          "Siasatan tunggal",
           "Penghantaran yang diselaraskan",
-          "Diskaun bundle"
+          "Harga pesanan gabungan dalam sebut harga"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Silinder gas keluli lancar — keperluan teknikal"
+        "desc": "Silinder gas keluli lancar yang boleh diisi semula - keluli dipadamkan dan dibaja. Dibincangkan setiap produk dan pasaran destinasi."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Silinder asetilena terlarut"
+        "desc": "Silinder gas — silinder gas keluli lancar boleh isi semula — reka bentuk, pembinaan dan ujian — Bahagian 3: silinder keluli ternormal. Bukan piawaian silinder asetilena (lihat ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Silinder asetilena — keperluan asas dan ujian jenis. Dibincangkan untuk produk asetilena apabila diminta. Kebolehgunaan disahkan setiap pesanan."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Piawaian silinder pasaran AS — kebolehgunaan disahkan setiap produk dan pesanan"
+        "desc": "Spesifikasi AS untuk silinder keluli lancar — kebolehgunaan disahkan setiap produk dan pesanan"
       },
       {
         "name": "TPED",
-        "desc": "Keperluan pengangkutan Eropah — dibincangkan setiap pasaran destinasi"
+        "desc": "Arahan peralatan tekanan boleh diangkut EU — dibincangkan setiap pasaran destinasi"
       },
       {
         "name": "GB 5099",
-        "desc": "Standard silinder gas Cina"
+        "desc": "Piawaian kebangsaan China untuk silinder gas keluli lancar — kebolehgunaan disahkan setiap produk dan pesanan"
       },
       {
         "name": "CE Mark",
-        "desc": "Penandaan pematuhan Eropah — kebolehgunaan bagi setiap produk dan pasaran"
+        "desc": "Penandaan pematuhan Eropah — kebolehgunaan bagi setiap produk dan pasaran. Bukan pengganti untuk fail sijil yang diterbitkan."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Apa yang pembeli katakan",
+    "title": "Perkara yang biasanya diminta oleh pembeli industri",
     "items": [
       {
-        "quote": "Kami memesan semula silinder asetilena 40L tiga kali pada tahun ini. Injap GOST, warna OEM dan pembungkusan eksport sepadan dengan sampel pertama setiap kali.",
-        "author": "Rustam Yusupov",
-        "role": "Pemilik, pengedar gas kimpalan",
-        "country": "Uzbekistan"
+        "quote": "Warna OEM, jenis injap dan pembungkusan eksport dipadankan dengan sampel yang disahkan sebelum bekalan berulang.",
+        "author": "Distributor inquiries",
+        "role": "Bekalan gas kimpalan",
+        "country": "Central Asia"
       },
       {
-        "quote": "Sebut harga datang pada hari yang sama dengan MOQ dan masa utama yang jelas. Botol propana tiba dengan injap POL dan senarai pembungkusan penuh — tiada kelewatan kastam di pihak kami.",
-        "author": "Aigerim Bekova",
-        "role": "Pengurus perolehan, bekalan industri",
-        "country": "Kazakhstan"
+        "quote": "MOQ yang jelas, masa utama dan senarai pembungkusan disahkan dalam sebut harga — bukan sebagai harga tapak web tetap.",
+        "author": "Procurement inquiries",
+        "role": "Bekalan industri",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Kami membeli silinder dengan pengawal selia dan hos sebagai satu pesanan kontena. Dokumen dan penandaan telah sedia untuk pasaran kami, jadi jualan semula adalah mudah.",
-        "author": "Faisal Al-Harbi",
-        "role": "Pembeli import, perdagangan peralatan gas",
-        "country": "Saudi Arabia"
+        "quote": "Silinder dengan pengawal selia dan hos disebut sebagai satu pesanan gabungan, dengan penandaan dibincangkan untuk pasaran destinasi.",
+        "author": "Import inquiries",
+        "role": "Perdagangan peralatan gas",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Siapa Kita",
     "title": "Pengilang perindustrian untuk pembeli B2B",
-    "text": "Wanda Groups mengeluarkan dan membekalkan silinder gas industri, penjana dan aksesori kimpalan untuk pengedar luar negara, rakan kongsi OEM dan pembeli projek.",
+    "text": "Wanda Groups mengeluarkan dan membekalkan silinder gas industri, penjana, aksesori kimpalan dan peralatan penyejukan untuk pengedar luar negara, rakan kongsi OEM dan pembeli projek.",
     "text2": "Fokus kami ialah bekalan berkaitan kilang, sokongan pemilihan produk, pesanan pukal dan penyelarasan eksport — bukan jualan pengguna runcit.",
     "cta": "Ketahui Lebih Lanjut Tentang Kami"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Bersedia untuk meminta sebut harga?",
       "quoteCta": "Minta Sebut Harga",
       "relatedProducts": "Produk berkaitan",
+      "productFamilies": "Keluarga produk",
       "applications": "Applications",
       "standardsTitle": "Piawaian & pensijilan",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Pengeluar Silinder Gas | OEM Perindustrian dan Eksport | Kumpulan Wanda",
-      "seoDescription": "Wanda Groups mengeluarkan silinder gas industri, penjana dan aksesori kimpalan untuk pembeli eksport OEM, borong dan antarabangsa."
+      "seoDescription": "Wanda Groups mengeluarkan silinder gas industri, penjana, aksesori kimpalan dan peralatan penyejukan untuk pembeli eksport OEM, borong dan antarabangsa."
     },
     "about": {
       "label": "Tentang Kami",
       "title": "Pengeluar silinder gas untuk pembeli industri",
       "subtitle": "Kami menyokong pembeli luar negara dengan pemilihan produk, OEM, pemeriksaan, pembungkusan dan penghantaran.",
       "seoTitle": "Mengenai Kumpulan Wanda",
-      "seoDescription": "Kumpulan Wanda mengeluarkan silinder asetilena, silinder propana, penjana dan aksesori untuk kimpalan, pemotongan dan bekalan gas industri."
+      "seoDescription": "Kumpulan Wanda mengeluarkan silinder asetilena, propana dan LPG, penjana, aksesori kimpalan dan peralatan penyejukan untuk pembeli eksport industri."
     },
     "products": {
       "label": "Produk",
       "title": "Produk Kami",
-      "subtitle": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+      "subtitle": "Silinder asetilena, propana dan LPG, penjana, aksesori kimpalan dan peralatan penyejukan untuk pembeli industri.",
       "seoTitle": "Produk Silinder Gas",
-      "seoDescription": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+      "seoDescription": "Silinder asetilena, propana dan LPG, penjana asetilena, aksesori kimpalan dan peralatan penyejukan daripada Kumpulan Wanda.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Silinder asetilena terlarut",
           "overview": "Silinder keluli dengan jisim berliang dan pelarut untuk penyimpanan dan pengangkutan asetilena yang selamat. Digunakan dalam kimpalan, pemotongan, pematerian dan fabrikasi logam.",
+          "application": "Kimpalan oksi-asetilena, pemotongan dan pematerian",
           "seoTitle": "Silinder Gas Asetilena",
           "seoDescription": "Silinder keluli dengan jisim berliang dan pelarut untuk penyimpanan dan pengangkutan asetilena yang selamat. Digunakan dalam kimpalan, pemotongan, pematerian dan fabrikasi logam."
         },
         "propane": {
           "name": "Silinder propana",
-          "overview": "Silinder keluli untuk penyimpanan dan pengangkutan gas propana. Digunakan untuk pemanasan, bekalan propana industri, memasak dan pemotongan bahan api oksi apabila dipasangkan dengan asetilena.",
+          "overview": "Silinder keluli ditentukan untuk isian propana. Digunakan untuk pemanasan, bekalan propana industri, memasak dan pemotongan bahan api oksi apabila dipasangkan dengan asetilena.",
+          "application": "Pemanasan propana industri, pemotongan dan bekalan tumbuhan",
+          "familyNote": "Silinder propana dan silinder LPG menggunakan julat silinder keluli WG-P yang sama. Halaman ini merangkumi isian propana dan kegunaan khusus propana. Campuran LPG dan bekalan pengedaran diterangkan pada halaman Silinder LPG.",
           "seoTitle": "Silinder Gas Propana",
-          "seoDescription": "Silinder gas propana keluli untuk pemanasan, bekalan industri dan aplikasi pemotongan. Pilihan eksport dan OEM dibincangkan setiap pesanan."
+          "seoDescription": "Silinder keluli untuk isian propana — pemanasan, bekalan industri dan pemotongan bahan api oksi. Julat WG-P yang sama seperti LPG; mengisi gas yang ditentukan setiap pesanan."
         },
         "lpg": {
           "name": "Silinder LPG",
-          "overview": "Silinder untuk gas petroleum cecair (LPG) — propana, butana atau campuran campuran. Biasa untuk pengedaran LPG kediaman dan komersial, perkhemahan, pemanasan dan bekalan bahan api mudah alih.",
+          "overview": "Silinder untuk gas petroleum cecair (LPG) — propana, butana atau campuran campuran. Digunakan untuk pengedaran LPG kediaman dan komersial, perkhemahan, pemanasan dan bekalan bahan api mudah alih.",
+          "application": "Pengagihan LPG, bahan api mudah alih dan pemanasan berasaskan campuran",
+          "familyNote": "Silinder LPG dan silinder propana menggunakan julat silinder keluli WG-P yang sama. Halaman ini merangkumi campuran LPG dan penggunaan pengedaran. Isi propana sahaja dan penggunaan propana industri diterangkan pada halaman Silinder Propana.",
           "seoTitle": "Silinder Gas LPG",
-          "seoDescription": "Silinder LPG untuk pengedaran gas petroleum cecair kediaman, komersial dan industri serta bekalan mudah alih."
+          "seoDescription": "Silinder LPG untuk pengedaran gas petroleum cecair kediaman, komersial dan industri. Julat WG-P yang sama seperti silinder propana; isi yang ditentukan setiap pesanan."
         },
         "industrial": {
           "name": "Silinder Gas Industri",
           "overview": "Silinder gas industri untuk kimpalan, pemotongan dan bekalan loji — termasuk asetilena, propana dan pilihan LPG yang dipadankan dengan pasaran anda.",
+          "application": "Loji, pengedar dan pembekalan silinder projek",
           "seoTitle": "Silinder Gas Industri",
           "seoDescription": "Silinder gas industri untuk kimpalan, pemotongan dan bekalan loji daripada Kumpulan Wanda."
         },
         "generators": {
           "name": "Penjana Asetilena",
           "overview": "Peralatan untuk menghasilkan asetilena daripada kalsium karbida. Bekalan gas yang stabil untuk keperluan kimpalan dan perindustrian tanpa infrastruktur gas berpusat.",
+          "application": "Penjanaan asetilena di tapak daripada kalsium karbida",
           "seoTitle": "Penjana Asetilena",
           "seoDescription": "Peralatan untuk menghasilkan asetilena daripada kalsium karbida. Bekalan gas yang stabil untuk keperluan kimpalan dan perindustrian tanpa infrastruktur gas berpusat."
         },
         "accessories": {
-          "name": "Aksesori & Kelengkapan Silinder",
+          "name": "Aksesori Kimpalan & Kelengkapan Silinder",
           "overview": "Rangkaian lengkap untuk operasi silinder gas yang selamat: daripada tolok kepada obor kimpalan. Perolehan sehenti dengan silinder.",
-          "seoTitle": "Aksesori Kimpalan",
-          "seoDescription": "Rangkaian lengkap untuk operasi silinder gas yang selamat: daripada tolok kepada obor kimpalan. Perolehan sehenti dengan silinder."
+          "application": "Persediaan bahan api oksi, pengawal selia, hos, injap dan tolok",
+          "seoTitle": "Aksesori Kimpalan & Kelengkapan Silinder",
+          "seoDescription": "Aksesori kimpalan dan kelengkapan silinder — pengawal selia, hos, tolok, obor dan injap, dibekalkan dengan silinder atau secara berasingan."
         },
         "refrigeration": {
           "name": "Unit penyejukan",
           "overview": "Barisan Kumpulan Wanda yang berasingan — bukan katalog pihak ketiga. Unit pemeluwapan, bilik sejuk dan perkakasan, dibekalkan oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri.",
+          "application": "Bilik sejuk, rantai sejuk makanan dan penyejukan industri",
           "seoTitle": "Unit Penyejukan",
-          "seoDescription": "Barisan Kumpulan Wanda yang berasingan — bukan katalog pihak ketiga. Unit pemeluwapan, bilik sejuk dan perkakasan, dibekalkan oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

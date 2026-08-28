@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Výrobca priemyselných plynových fliaš",
     "title": "Výrobca tlakových fliaš a zariadení na priemyselný plyn",
-    "subtitle": "Výroba, OEM a veľkoobchodná dodávka acetylénových fliaš, propánových/LPG fliaš, generátorov a zváracieho príslušenstva pre medzinárodných exportných odberateľov.",
+    "subtitle": "Výroba, OEM a veľkoobchodné dodávky acetylénových, propánových a LPG fliaš, generátorov, zváracieho príslušenstva a chladiacich zariadení pre medzinárodných exportných odberateľov.",
     "lineGas": "Plynové fľaše",
     "lineCold": "Chladiace jednotky",
     "cta": "Získajte cenovú ponuku",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Naše produkty",
-    "subtitle": "Acetylénové fľaše, generátory, propánové fľaše a príslušenstvo pre priemyselné a zváracie aplikácie.",
+    "subtitle": "Acetylénové, propánové a LPG fľaše, generátory, zváracie príslušenstvo a chladiace zariadenia pre priemyselných zákazníkov.",
     "viewDetails": "Zobraziť podrobnosti",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propánový valec",
         "spec": "3L–50L · možnosti ventilov na trhu",
-        "desc": "Odolné tlakové fľaše na LPG na vykurovanie, rezanie a priemyselné použitie.",
+        "desc": "Oceľové fľaše na plnenie propánom — vykurovanie, rezanie a priemyselné zásobovanie.",
         "icon": "🛢️"
       },
       {
-        "title": "Príslušenstvo k valcom",
+        "title": "Zváračské príslušenstvo",
         "spec": "Ventily · regulátory · hadice · horáky",
-        "desc": "Zodpovedajúce armatúry dodávané s valcami alebo ako samostatná objednávka.",
+        "desc": "Zváracie príslušenstvo a tvarovky valcov dodávané s valcami alebo samostatne.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmaceutické a medicínske chladiarenské sklady",
       "Logistika a chladiarenská preprava",
       "Priemyselné chladenie a procesné chladiče"
+    ],
+    "acetylene": [
+      "Kyslíkovo-acetylénové zváranie",
+      "Kyslíkovo-palivové rezanie",
+      "Spájkovanie a zahrievanie",
+      "Predajne kovovej výroby",
+      "Lodenice a údržbárske práce"
+    ],
+    "propane": [
+      "Priemyselné vykurovanie propánom",
+      "Kyslíkovo-palivové rezanie acetylénom",
+      "Dielenské a stavebné vykurovanie",
+      "Dodávka rastlinného propánu",
+      "Varenie a procesné teplo tam, kde je špecifikovaný propán"
+    ],
+    "lpg": [
+      "Obytný a komerčný rozvod LPG",
+      "Prenosný prívod paliva LPG",
+      "Kempingový a cateringový plyn",
+      "Kúrenie zmesami LPG",
+      "Veľkoobchodné plnenie tlakových fliaš LPG pre miestne trhy"
+    ],
+    "industrial": [
+      "Prívod zváracieho a rezacieho plynu",
+      "Závod a dielenský sklad valcov",
+      "Distribútor priemyselných plynovodov",
+      "Projekt a staveniská"
+    ],
+    "generators": [
+      "Výroba acetylénu na mieste z karbidu vápnika",
+      "Dielne bez dodávky acetylénu vo fľašiach",
+      "Zváranie a rezanie tam, kde je logistika valcov obmedzená",
+      "Priemyselné lokality vyžadujúce lokálny zdroj acetylénu"
+    ],
+    "accessories": [
+      "Zostavy valcov a regulátorov",
+      "Nastavenia kyslíkovo-palivového zvárania a rezania",
+      "Výmena hadice, manometra a ventilu",
+      "Dielenské bezpečnostné armatúry na manipuláciu s plynom"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Výrobca plynových fliaš pre priemyselných zákazníkov",
-    "text": "Wanda Group vyrába acetylénové fľaše, propánové fľaše, generátory a príslušenstvo na zváranie, rezanie a dodávku priemyselných plynov.",
+    "text": "Wanda Group vyrába acetylénové fľaše, propánové a LPG fľaše, generátory a zváracie príslušenstvo a dodáva aj chladiace zariadenia pre priemyselných zákazníkov.",
     "text2": "Podporujeme zahraničných kupujúcich výberom produktov, OEM, kontrolou, balením a prepravou.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Aké produkty hlavne dodávate?",
-            "a": "Dodávame acetylénové fľaše, propánové fľaše, generátory acetylénu a príslušenstvo k plynovým fľašiam, ako sú ventily, regulátory, hadice, tlakomery a horáky."
+            "a": "Ako samostatný produktový rad dodávame acetylénové fľaše, propánové a LPG fľaše, acetylénové generátory, príslušenstvo k plynovým fľašiam a chladiace zariadenia."
           },
           {
             "q": "Môžete podporiť prispôsobenie OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Môžem si pred zadaním objednávky pozrieť továrenské videá?",
-            "a": "áno. Pozrite si produkčné videá v sekcii Factory na tejto stránke. Dodatočné zábery, svorky na balenie a certifikáty sa posielajú súkromne na požiadanie."
+            "a": "áno. Pozrite si videá z výroby na stránke Factory. Dodatočné zábery, svorky na balenie a kópie certifikátov sa posielajú súkromne na požiadanie."
           },
           {
             "q": "Poskytujete produktové videá, najmä pre acetylénové fľaše?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Je možné objednať príslušenstvo spolu s plynovými fľašami?",
-            "a": "áno. Príslušenstvo je možné dodať spolu s acetylénovými fľašami, propánovými fľašami a generátormi acetylénu."
+            "a": "áno. Príslušenstvo je možné dodať spolu s acetylénovými, propánovými a LPG fľašami a generátormi acetylénu."
           },
           {
             "q": "Podporujete OEM balenie?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Získajte presnú cenovú ponuku",
     "certifications": "Certifikácie",
     "order": "Objednať",
-    "reviews": "Recenzie",
+    "reviews": "Poznámky kupujúceho",
     "contact": "Contact",
     "phone": "Telefón",
     "location": "Poloha",
@@ -587,7 +626,7 @@
     "exportReady": "Export pripravený",
     "years": "rokov",
     "acetylene": "Acetylene",
-    "isoCertified": "Certifikované ISO",
+    "isoCertified": "Normy na vyžiadanie",
     "globalExport": "Globálny export",
     "products": "Produkty",
     "specs": "Špecifikácie",
@@ -695,16 +734,16 @@
       "note": "* Presné parametre závisia od štandardu (ISO/DOT/GB) a konfigurácie ventilu. Vyžiadajte si technický list pre váš trh."
     },
     "propane": {
-      "title": "Nádrže na propán a LPG",
-      "intro": "Nádrže na zmesi propánu, butánu a LPG. Používa sa pri vykurovaní, rezaní, spájkovaní, stavebníctve a pri dodávke priemyselného plynu.",
+      "title": "Rad valcov WG-P",
+      "intro": "Modely WG-P tvoria jeden rad oceľových valcov. Plniaci plyn – propán alebo LPG (propán, bután alebo zmesi) – je špecifikovaný podľa objednávky a cieľového trhu.",
       "features": [
-        "Oceľ 37Mn/34CrMo4 podľa ISO 9809",
+        "Kvalita ocele a príslušný štandard valca potvrdené na objednávku",
         "Pracovný tlak 1,8–2,1 MPa",
-        "Ventily POL, CGA 510, GOST",
-        "Práškové lakovanie, antikorózne",
-        "Certifikáty pre trhy EÚ, USA, SNŠ"
+        "Ventily POL, CGA 510, GOST diskutované podľa trhu",
+        "Práškové lakovanie a antikorózna úprava",
+        "Možnosti certifikácie prediskutované podľa cieľového trhu"
       ],
-      "tableTitle": "Štandardné modely propánových valcov",
+      "tableTitle": "Štandardné modely valcov WG-P",
       "headers": [
         "Model",
         "Objem (L)",
@@ -768,10 +807,10 @@
       "intro": "Zariadenia na výrobu acetylénu z karbidu vápnika. Stabilná dodávka plynu pre zváranie a priemyselné potreby bez centralizovanej plynárenskej infraštruktúry.",
       "features": [
         "Výkon 3–100 m³/h kapacita",
-        "Automatický prívod vody a karbidu",
-        "Bezpečnostný systém a filtrácia",
+        "Možnosti podávania vody a karbidu diskutované pre každý model",
+        "Bezpečnostný systém a filtrácia podľa špecifikácie modelu",
         "Kompaktné a priemyselné modely",
-        "Kompletná dokumentácia a školenie"
+        "Dodaná objednávková dokumentácia. Na požiadanie je možné prediskutovať školenie operátora"
       ],
       "tableTitle": "Modely generátora acetylénu",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generátory dodávané s chladiacim systémom, filtrami a súpravou náhradných dielov na požiadanie."
     },
     "accessories": {
-      "title": "Príslušenstvo a armatúry valcov",
+      "title": "Zváracie príslušenstvo a armatúry valcov",
       "intro": "Kompletný sortiment pre bezpečnú prevádzku plynových fliaš: od meradiel až po zváracie horáky. Jednorazové obstarávanie s valcami.",
       "features": [
         "Regulátory a meradlá (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Pochodne",
           "WG-C100, WG-C300",
           "—",
-          "Rezanie plazmou/oxidom"
+          "Kyslíkovo-palivové rezanie"
         ],
         [
           "Horáky",
@@ -881,7 +920,7 @@
           "Všetky typy valcov"
         ]
       ],
-      "note": "* Príslušenstvo dostupné samostatne alebo v balíku s valcami. Zľava na kombinované objednávky."
+      "note": "* Príslušenstvo je možné uviesť samostatne alebo spolu s valcami. Kombinovaná cena je potvrdená v cenovej ponuke."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistika",
-        "desc": "Kompletná podpora medzinárodnej prepravy.",
+        "desc": "Exportné balenie a koordinácia prepravy pre zahraničných kupujúcich.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Exportná dokumentácia",
-          "Námorná a železničná nákladná doprava"
+          "Možnosti námornej a železničnej nákladnej dopravy"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrola kvality",
-        "desc": "Testovanie a kontrola v každej fáze.",
+        "desc": "Kontrola a testovanie počas výroby podľa objednávky.",
         "points": [
           "Hydrostatické skúšky",
-          "UT kontrola zvaru",
-          "Kontrola SGS/BV na vyžiadanie"
+          "Kontrola zvaru podľa špecifikácie",
+          "Kontrola treťou stranou na požiadanie"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certifikácia",
         "desc": "Dokumenty pre colníkov a regulátorov. Kópie zasielame súkromne na požiadanie.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "Karta bezpečnostných údajov a certifikát kvality",
-          "Osvedčenie o pôvode"
+          "Normy diskutované pre jednotlivé produkty a trhy",
+          "Karta bezpečnostných údajov a dokumenty o kvalite na vyžiadanie",
+          "Osvedčenie o pôvode na vyžiadanie"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pomoc pri výbere produktov a konfigurácii.",
         "points": [
           "Výber na základe trhu",
-          "MOQ a výpočet dodacej doby",
-          "Školenie personálu"
+          "MOQ a dodacia lehota diskutované na objednávku",
+          "Usmernenie operátora diskutované na požiadanie"
         ]
       },
       {
         "icon": "📦",
         "title": "Dodávka balíkov",
-        "desc": "Valce + príslušenstvo v jednej objednávke.",
+        "desc": "Valce a príslušenstvo v jednej objednávke.",
         "points": [
-          "Jedna zmluva",
+          "Jediný dopyt",
           "Koordinované doručenie",
-          "Zľava na balík"
+          "Kombinovaná cena v cenovej ponuke"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bezšvíkové oceľové plynové fľaše – technické požiadavky"
+        "desc": "Opätovne naplniteľné bezšvíkové oceľové fľaše na plyn – kalená a temperovaná oceľ. Diskutované podľa produktov a cieľových trhov."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Rozpustené acetylénové fľaše"
+        "desc": "Fľaše na plyn – znovu naplniteľné bezšvíkové oceľové fľaše na plyn – návrh, konštrukcia a skúšanie – Časť 3: normalizované oceľové fľaše. Nie je štandardom pre acetylénové fľaše (pozri ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylénové fľaše – základné požiadavky a typové skúšky. Diskutované pre acetylénové produkty na požiadanie. Platnosť je potvrdená na základe objednávky."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Americký trhový štandard valcov – potvrdená použiteľnosť na produkt a objednávku"
+        "desc": "Špecifikácia USA pre bezšvíkové oceľové fľaše – použiteľnosť potvrdená na produkt a objednávku"
       },
       {
         "name": "TPED",
-        "desc": "Európske požiadavky na dopravu – diskutované podľa cieľového trhu"
+        "desc": "Smernica EÚ o prepravovateľných tlakových zariadeniach – diskutovaná podľa cieľového trhu"
       },
       {
         "name": "GB 5099",
-        "desc": "Čínsky štandard plynových fliaš"
+        "desc": "Čínska národná norma pre bezšvíkové oceľové plynové fľaše – použiteľnosť potvrdená na produkt a objednávku"
       },
       {
         "name": "CE Mark",
-        "desc": "Európske označenie zhody – uplatniteľnosť na výrobok a trh"
+        "desc": "Európske označenie zhody – uplatniteľnosť na výrobok a trh. Nie je náhradou za publikovaný súbor certifikátu."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Čo hovoria kupujúci",
+    "title": "Čo zvyčajne žiadajú priemyselní nákupcovia",
     "items": [
       {
-        "quote": "Tento rok sme trikrát preobjednali 40-litrové acetylénové fľaše. Ventily GOST, farba OEM a exportné balenie vždy zodpovedali prvej vzorke.",
-        "author": "Rustam Yusupov",
-        "role": "Majiteľ, distribútor zváracieho plynu",
-        "country": "Uzbekistan"
+        "quote": "OEM farba, typ ventilu a exportné balenie sa zhodujú s potvrdenou vzorkou pred opakovanou dodávkou.",
+        "author": "Distributor inquiries",
+        "role": "Prívod zváracieho plynu",
+        "country": "Central Asia"
       },
       {
-        "quote": "Cenová ponuka prišla v ten istý deň s jasným MOQ a dodacím časom. Propánové fľaše dorazili s ventilmi POL a úplným zoznamom balenia – žiadne colné zdržania na našej strane.",
-        "author": "Aigerim Bekova",
-        "role": "Manažér obstarávania, priemyselné zásobovanie",
-        "country": "Kazakhstan"
+        "quote": "Jasné MOQ, dodacia lehota a zoznam balenia potvrdené v cenovej ponuke – nie ako pevné ceny webových stránok.",
+        "author": "Procurement inquiries",
+        "role": "Priemyselné zásobovanie",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Vykupujeme fľaše s regulátormi a hadicami ako jednu objednávku kontajnera. Dokumenty a označenie boli pripravené pre náš trh, takže ďalší predaj bol jednoduchý.",
-        "author": "Faisal Al-Harbi",
-        "role": "Dovozný nákupca, obchod s plynovými zariadeniami",
-        "country": "Saudi Arabia"
+        "quote": "Valce s regulátormi a hadicami uvádzané ako jedna kombinovaná objednávka s označením pre cieľový trh.",
+        "author": "Import inquiries",
+        "role": "Obchodovanie s plynovými zariadeniami",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kto sme",
     "title": "Priemyselný výrobca pre B2B kupujúcich",
-    "text": "Wanda Groups vyrába a dodáva priemyselné plynové fľaše, generátory a zváracie príslušenstvo pre zámorských distribútorov, OEM partnerov a projektových nákupcov.",
+    "text": "Wanda Groups vyrába a dodáva priemyselné plynové fľaše, generátory, zváracie príslušenstvo a chladiace zariadenia pre zámorských distribútorov, OEM partnerov a nákupcov projektov.",
     "text2": "Naším zameraním je dodávka prepojená s výrobným závodom, podpora výberu produktov, hromadné objednávky a koordinácia exportu – nie maloobchodný predaj spotrebiteľom.",
     "cta": "Zistite o nás viac"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Ste pripravení požiadať o cenovú ponuku?",
       "quoteCta": "Vyžiadajte si cenovú ponuku",
       "relatedProducts": "Súvisiace produkty",
+      "productFamilies": "Produktové rodiny",
       "applications": "Applications",
       "standardsTitle": "Normy a certifikácia",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Výrobca plynových fliaš | Priemyselný OEM a export | Skupiny Wanda",
-      "seoDescription": "Wanda Groups vyrába priemyselné plynové fľaše, generátory a zváracie príslušenstvo pre OEM, veľkoobchodných a medzinárodných exportných odberateľov."
+      "seoDescription": "Wanda Groups vyrába priemyselné plynové fľaše, generátory, zváracie príslušenstvo a chladiace zariadenia pre OEM, veľkoobchodných a medzinárodných exportných odberateľov."
     },
     "about": {
       "label": "O nás",
       "title": "Výrobca plynových fliaš pre priemyselných zákazníkov",
       "subtitle": "Podporujeme zahraničných kupujúcich výberom produktov, OEM, kontrolou, balením a prepravou.",
       "seoTitle": "O skupine Wanda",
-      "seoDescription": "Wanda Group vyrába acetylénové fľaše, propánové fľaše, generátory a príslušenstvo na zváranie, rezanie a dodávku priemyselných plynov."
+      "seoDescription": "Wanda Group vyrába acetylénové, propánové a LPG fľaše, generátory, zváracie príslušenstvo a chladiace zariadenia pre priemyselných exportných odberateľov."
     },
     "products": {
       "label": "Produkty",
       "title": "Naše produkty",
-      "subtitle": "Acetylénové fľaše, generátory, propánové fľaše a príslušenstvo pre priemyselné a zváracie aplikácie.",
+      "subtitle": "Acetylénové, propánové a LPG fľaše, generátory, zváracie príslušenstvo a chladiace zariadenia pre priemyselných zákazníkov.",
       "seoTitle": "Produkty plynových fliaš",
-      "seoDescription": "Acetylénové fľaše, generátory, propánové fľaše a príslušenstvo pre priemyselné a zváracie aplikácie.",
+      "seoDescription": "Acetylénové, propánové a LPG fľaše, acetylénové generátory, zváracie príslušenstvo a chladiace zariadenia od Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Rozpustené acetylénové valce",
           "overview": "Oceľové fľaše s poréznou hmotou a rozpúšťadlom pre bezpečné skladovanie a prepravu acetylénu. Používa sa pri zváraní, rezaní, spájkovaní a pri výrobe kovov.",
+          "application": "Kyslíkovo-acetylénové zváranie, rezanie a tvrdé spájkovanie",
           "seoTitle": "Nádrže na acetylénový plyn",
           "seoDescription": "Oceľové fľaše s poréznou hmotou a rozpúšťadlom pre bezpečné skladovanie a prepravu acetylénu. Používa sa pri zváraní, rezaní, spájkovaní a pri výrobe kovov."
         },
         "propane": {
           "name": "Propánové valce",
-          "overview": "Oceľové fľaše na skladovanie a prepravu propánového plynu. Používa sa na vykurovanie, priemyselné zásobovanie propánom, varenie a rezanie kyslíkom v kombinácii s acetylénom.",
+          "overview": "Oceľové fľaše určené na plnenie propánom. Používa sa na vykurovanie, priemyselné zásobovanie propánom, varenie a rezanie kyslíkom v kombinácii s acetylénom.",
+          "application": "Priemyselné vykurovanie propánom, rezanie a dodávka zariadení",
+          "familyNote": "Fľaše na propán a fľaše na LPG používajú rovnaký rad oceľových fliaš WG-P. Táto stránka sa zaoberá náplňou propánu a špecifickým použitím propánu. Zmesi LPG a dodávka distribúcie sú popísané na stránke Nádrže na LPG.",
           "seoTitle": "Propánové plynové fľaše",
-          "seoDescription": "Oceľové plynové fľaše na propán na vykurovanie, priemyselné zásobovanie a rezanie. Možnosti exportu a OEM diskutované na objednávku."
+          "seoDescription": "Oceľové valce na plnenie propánom – vykurovanie, priemyselné zásobovanie a rezanie kyslíkom. Rovnaký rozsah WG-P ako LPG; plniaci plyn špecifikovaný na objednávku."
         },
         "lpg": {
           "name": "LPG valce",
-          "overview": "Nádrže na skvapalnený ropný plyn (LPG) – propán, bután alebo zmiešané zmesi. Spoločné pre obytnú a komerčnú distribúciu LPG, kemping, kúrenie a prenosné palivo.",
+          "overview": "Nádrže na skvapalnený ropný plyn (LPG) – propán, bután alebo zmiešané zmesi. Používa sa na rezidenčnú a komerčnú distribúciu LPG, kemping, kúrenie a prenosné palivo.",
+          "application": "Rozvod LPG, prenosné palivo a kúrenie na báze zmesi",
+          "familyNote": "Fľaše na LPG a propánové fľaše používajú rovnaký rad oceľových fliaš WG-P. Táto stránka sa týka zmesí LPG a použitia distribúcie. Plnenie len propánom a použitie priemyselného propánu je popísané na stránke Propánové fľaše.",
           "seoTitle": "Plynové fľaše na LPG",
-          "seoDescription": "Fľaše na LPG pre obytné, komerčné a priemyselné rozvody skvapalneného ropného plynu a prenosné zásobovanie."
+          "seoDescription": "LPG fľaše pre obytné, komerčné a priemyselné rozvody skvapalnených ropných plynov. Rovnaký rad WG-P ako propánové fľaše; vyplniť špecifikované pri objednávke."
         },
         "industrial": {
           "name": "Priemyselné plynové fľaše",
           "overview": "Priemyselné plynové fľaše na zváranie, rezanie a zásobovanie zariadení – vrátane možností acetylénu, propánu a LPG prispôsobených vášmu trhu.",
+          "application": "Závod, distribútor a projekt dodávky valcov",
           "seoTitle": "Priemyselné plynové fľaše",
           "seoDescription": "Priemyselné plynové fľaše na zváranie, rezanie a zásobovanie zariadení od Wanda Group."
         },
         "generators": {
           "name": "Generátory acetylénu",
           "overview": "Zariadenia na výrobu acetylénu z karbidu vápnika. Stabilná dodávka plynu pre zváranie a priemyselné potreby bez centralizovanej plynárenskej infraštruktúry.",
+          "application": "Výroba acetylénu na mieste z karbidu vápnika",
           "seoTitle": "Generátory acetylénu",
           "seoDescription": "Zariadenia na výrobu acetylénu z karbidu vápnika. Stabilná dodávka plynu pre zváranie a priemyselné potreby bez centralizovanej plynárenskej infraštruktúry."
         },
         "accessories": {
-          "name": "Príslušenstvo a armatúry valcov",
+          "name": "Zváracie príslušenstvo a armatúry valcov",
           "overview": "Kompletný sortiment pre bezpečnú prevádzku plynových fliaš: od meradiel až po zváracie horáky. Jednorazové obstarávanie s valcami.",
-          "seoTitle": "Zváračské príslušenstvo",
-          "seoDescription": "Kompletný sortiment pre bezpečnú prevádzku plynových fliaš: od meradiel až po zváracie horáky. Jednorazové obstarávanie s valcami."
+          "application": "Oxy-palivové nastavenia, regulátory, hadice, ventily a meradlá",
+          "seoTitle": "Zváracie príslušenstvo a armatúry valcov",
+          "seoDescription": "Zváracie príslušenstvo a armatúry fliaš — regulátory, hadice, meradlá, horáky a ventily, dodávané s fľašami alebo samostatne."
         },
         "refrigeration": {
           "name": "Chladiace jednotky",
           "overview": "Samostatný rad Wanda Group — nie katalóg tretej strany. Kondenzačné jednotky, chladiarne a kovania dodávané nami s valcami alebo ako samostatná objednávka.",
+          "application": "Chladiarne, chladiarenský reťazec potravín a priemyselné chladenie",
           "seoTitle": "Chladiace jednotky",
-          "seoDescription": "Samostatný rad Wanda Group — nie katalóg tretej strany. Kondenzačné jednotky, chladiarne a kovania dodávané nami s valcami alebo ako samostatná objednávka."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

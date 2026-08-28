@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Fabricant de bouteilles de gaz industrielles",
     "title": "Fabricant de bouteilles de gaz et d'équipements industriels",
-    "subtitle": "Fabrication, fourniture OEM et vente en gros de bouteilles d'acétylène, de bouteilles de propane/GPL, de générateurs et d'accessoires de soudage pour les acheteurs internationaux à l'exportation.",
+    "subtitle": "Fabrication, fourniture OEM et vente en gros de bouteilles d'acétylène, de propane et de GPL, de générateurs, d'accessoires de soudage et d'équipements de réfrigération pour les acheteurs internationaux à l'exportation.",
     "lineGas": "Bouteilles de gaz",
     "lineCold": "Unités de réfrigération",
     "cta": "Obtenez un devis",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Nos produits",
-    "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+    "subtitle": "Bouteilles d'acétylène, propane et GPL, génératrices, accessoires de soudage et équipements de réfrigération pour les acheteurs industriels.",
     "viewDetails": "Afficher les détails",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Bouteille de propane",
         "spec": "3L–50L · options de vannes par marché",
-        "desc": "Bouteilles de GPL durables pour le chauffage, la découpe et l'usage industriel.",
+        "desc": "Bouteilles en acier pour remplissage de propane — chauffage, découpe et fourniture industrielle.",
         "icon": "🛢️"
       },
       {
-        "title": "Accessoires pour cylindres",
+        "title": "Accessoires de soudage",
         "spec": "Vannes · régulateurs · flexibles · torches",
-        "desc": "Raccords assortis fournis avec les cylindres ou en commande séparée.",
+        "desc": "Accessoires de soudage et raccords pour cylindres, fournis avec les cylindres ou séparément.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Chambre froide pharmaceutique et médicale",
       "Logistique et transport frigorifique",
       "Refroidisseurs industriels et de procédés"
+    ],
+    "acetylene": [
+      "Soudage oxy-acétylène",
+      "Oxycoupage",
+      "Brasage et chauffage",
+      "Ateliers de fabrication de métaux",
+      "Travaux de chantier et de maintenance"
+    ],
+    "propane": [
+      "Chauffage industriel au propane",
+      "Oxycoupage à l'acétylène",
+      "Chauffage d'atelier et de chantier",
+      "Approvisionnement en propane pour l'usine",
+      "Chaleur de cuisson et de traitement lorsque le propane est spécifié"
+    ],
+    "lpg": [
+      "Distribution de GPL résidentielle et commerciale",
+      "Alimentation en carburant GPL portable",
+      "Gaz de camping et de restauration",
+      "Chauffage avec des mélanges GPL",
+      "Remplissage de bouteilles de GPL en gros pour les marchés locaux"
+    ],
+    "industrial": [
+      "Alimentation en gaz de soudage et de coupage",
+      "Stock de cylindres d'usine et d'atelier",
+      "Distributeur de conduites de gaz industriels",
+      "Chantiers de projets et de construction"
+    ],
+    "generators": [
+      "Production d'acétylène sur site à partir de carbure de calcium",
+      "Ateliers sans approvisionnement en acétylène en bouteille",
+      "Soudage et découpe là où la logistique des cylindres est limitée",
+      "Sites industriels nécessitant une source locale d’acétylène"
+    ],
+    "accessories": [
+      "Ensembles cylindre et régulateur",
+      "Installations de soudage et de coupage oxy-combustible",
+      "Remplacement de flexibles, jauges et valves",
+      "Raccords de sécurité pour la manipulation des gaz d'atelier"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Fabricant de bouteilles de gaz pour les acheteurs industriels",
-    "text": "Wanda Group fabrique des bouteilles d'acétylène, des bouteilles de propane, des générateurs et des accessoires pour le soudage, le coupage et l'approvisionnement en gaz industriels.",
+    "text": "Wanda Group fabrique des bouteilles d'acétylène, de propane et de GPL, des générateurs et des accessoires de soudage, et fournit également des équipements de réfrigération aux acheteurs industriels.",
     "text2": "Nous soutenons les acheteurs étrangers dans la sélection des produits, l’OEM, l’inspection, l’emballage et l’expédition.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Quels produits fournissez-vous principalement ?",
-            "a": "Nous fournissons des bouteilles d'acétylène, des bouteilles de propane, des générateurs d'acétylène et des accessoires pour bouteilles de gaz tels que des valves, des régulateurs, des tuyaux, des manomètres et des chalumeaux."
+            "a": "Nous fournissons des bouteilles d'acétylène, des bouteilles de propane et de GPL, des générateurs d'acétylène, des accessoires pour bouteilles de gaz et des équipements de réfrigération en tant que gamme de produits distincte."
           },
           {
             "q": "Pouvez-vous prendre en charge la personnalisation OEM ?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Puis-je regarder des vidéos d’usine avant de passer une commande ?",
-            "a": "Oui. Regardez des vidéos de production dans la section Usine de cette page. Des séquences supplémentaires, des clips d'emballage et des certificats sont envoyés en privé sur demande."
+            "a": "Oui. Regardez des vidéos de production sur la page Factory. Des séquences supplémentaires, des clips d'emballage et des copies de certificats sont envoyés en privé sur demande."
           },
           {
             "q": "Proposez-vous des vidéos de produits, notamment pour les bouteilles d'acétylène ?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Les accessoires peuvent-ils être commandés avec des bouteilles de gaz ?",
-            "a": "Oui. Les accessoires peuvent être fournis avec des bouteilles d'acétylène, des bouteilles de propane et des générateurs d'acétylène."
+            "a": "Oui. Les accessoires peuvent être fournis avec des bouteilles d'acétylène, de propane et de GPL et des générateurs d'acétylène."
           },
           {
             "q": "Soutenez-vous l'emballage OEM ?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Obtenez un devis exact",
     "certifications": "Certifications",
     "order": "Commande",
-    "reviews": "Avis",
+    "reviews": "Notes de l'acheteur",
     "contact": "Contact",
     "phone": "Téléphone",
     "location": "Emplacement",
@@ -587,7 +626,7 @@
     "exportReady": "Prêt à exporter",
     "years": "Années",
     "acetylene": "Acetylene",
-    "isoCertified": "Certifié ISO",
+    "isoCertified": "Normes sur demande",
     "globalExport": "Exportation mondiale",
     "products": "Produits",
     "specs": "Caractéristiques",
@@ -695,16 +734,16 @@
       "note": "* Les paramètres exacts dépendent de la norme (ISO/DOT/GB) et de la configuration de la vanne. Demandez la fiche technique de votre marché."
     },
     "propane": {
-      "title": "Bouteilles de propane et de GPL",
-      "intro": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+      "title": "Gamme de vérins WG-P",
+      "intro": "Les modèles WG-P constituent une seule famille de cylindres en acier. Le gaz de remplissage – propane ou GPL (propane, butane ou mélanges) – est spécifié par commande et par marché de destination.",
       "features": [
-        "Acier 37Mn/34CrMo4 selon ISO 9809",
+        "Nuance d'acier et norme de cylindre applicable confirmée par commande",
         "Pression de service 1,8 à 2,1 MPa",
-        "Vannes POL, CGA 510, GOST",
-        "Revêtement en poudre, anticorrosion",
-        "Certificats pour les marchés de l'UE, des États-Unis et de la CEI"
+        "Vannes POL, CGA 510, GOST discutées par marché",
+        "Revêtement en poudre et finition anticorrosion",
+        "Options de certification discutées par marché de destination"
       ],
-      "tableTitle": "Modèles de bouteilles de propane standard",
+      "tableTitle": "Modèles de cylindres WG-P standard",
       "headers": [
         "Model",
         "Volume (L)",
@@ -768,10 +807,10 @@
       "intro": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée.",
       "features": [
         "Capacité de 3 à 100 m³/h",
-        "Alimentation automatique en eau et carbure",
-        "Système de sécurité et filtration",
+        "Options d'alimentation en eau et en carbure discutées par modèle",
+        "Système de sécurité et filtration comme spécifié pour le modèle",
         "Modèles compacts et industriels",
-        "Documentation complète et formation"
+        "Documentation de commande fournie. La formation des opérateurs peut être discutée sur demande"
       ],
       "tableTitle": "Modèles de générateurs d'acétylène",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Groupes électrogènes fournis avec système de refroidissement, filtres et kit de pièces détachées sur demande."
     },
     "accessories": {
-      "title": "Accessoires et raccords pour cylindres",
+      "title": "Accessoires de soudage et raccords de cylindre",
       "intro": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres.",
       "features": [
         "Régulateurs et jauges (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Torches",
           "WG-C100, WG-C300",
           "—",
-          "Découpe plasma/oxy"
+          "Oxycoupage"
         ],
         [
           "Brûleuses",
@@ -881,7 +920,7 @@
           "Tous types de cylindres"
         ]
       ],
-      "note": "* Accessoires disponibles séparément ou groupés avec des cylindres. Remise sur les commandes groupées."
+      "note": "* Les accessoires peuvent être proposés séparément ou avec les cylindres. Le prix des commandes combinées est confirmé dans le devis."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Exportation & Logistique",
-        "desc": "Prise en charge complète des expéditions internationales.",
+        "desc": "Coordination de l’emballage et de l’expédition des exportations pour les acheteurs étrangers.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Documents d'exportation",
-          "Fret maritime et ferroviaire"
+          "Options de fret maritime et ferroviaire"
         ]
       },
       {
         "icon": "🔬",
         "title": "Contrôle de qualité",
-        "desc": "Tests et inspections à chaque étape.",
+        "desc": "Inspection et tests pendant la production selon la commande.",
         "points": [
           "Essais hydrostatiques",
-          "Inspection des soudures UT",
-          "Inspection SGS/BV sur demande"
+          "Inspection des soudures comme spécifié",
+          "Inspection par un tiers sur demande"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Attestation",
         "desc": "Documents pour les douanes et les régulateurs. Des copies sont envoyées en privé sur demande.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "Fiche signalétique et certificat de qualité",
-          "Certificat d'origine"
+          "Normes discutées par produit et marché",
+          "FDS et documents qualité sur demande",
+          "Certificat d'origine sur demande"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Aide à la sélection des produits et de la configuration.",
         "points": [
           "Sélection basée sur le marché",
-          "Calcul du MOQ et du délai de livraison",
-          "Formation du personnel"
+          "MOQ et délai de livraison discutés par commande",
+          "Conseils pour l'opérateur discutés sur demande"
         ]
       },
       {
         "icon": "📦",
         "title": "Offre groupée",
-        "desc": "Cylindres + accessoires en une seule commande.",
+        "desc": "Cylindres et accessoires en une seule commande.",
         "points": [
-          "Contrat unique",
+          "Demande unique",
           "Livraison coordonnée",
-          "Remise groupée"
+          "Tarifs de commande combinée dans le devis"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bouteilles à gaz en acier sans soudure — exigences techniques"
+        "desc": "Bouteilles de gaz rechargeables en acier sans soudure — acier trempé et revenu. Discuté par produit et marché de destination."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Bouteilles d'acétylène dissous"
+        "desc": "Bouteilles à gaz — Bouteilles à gaz rechargeables en acier sans soudure — Conception, construction et essais — Partie 3 : bouteilles en acier normalisées. Il ne s'agit pas d'une norme pour les bouteilles d'acétylène (voir ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Bouteilles d'acétylène — exigences de base et essais de type. Discuté pour les produits à base d'acétylène sur demande. L’applicabilité est confirmée par commande."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Norme relative aux cylindres du marché américain — applicabilité confirmée par produit et par commande"
+        "desc": "Spécification américaine pour les cylindres en acier sans soudure — applicabilité confirmée par produit et par commande"
       },
       {
         "name": "TPED",
-        "desc": "Exigences européennes en matière de transport – discutées par marché de destination"
+        "desc": "Directive européenne sur les équipements sous pression transportables – discutée par marché de destination"
       },
       {
         "name": "GB 5099",
-        "desc": "Norme chinoise sur les bouteilles de gaz"
+        "desc": "Norme nationale chinoise pour les bouteilles de gaz en acier sans soudure — applicabilité confirmée par produit et par commande"
       },
       {
         "name": "CE Mark",
-        "desc": "Marquage européen de conformité — applicabilité par produit et marché"
+        "desc": "Marquage européen de conformité — applicabilité par produit et marché. Ne remplace pas un fichier de certificat publié."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Ce que disent les acheteurs",
+    "title": "Ce que demandent généralement les acheteurs industriels",
     "items": [
       {
-        "quote": "Nous avons commandé à trois reprises des bouteilles d'acétylène de 40 litres cette année. Les vannes GOST, la couleur OEM et l'emballage d'exportation correspondaient à chaque fois au premier échantillon.",
-        "author": "Rustam Yusupov",
-        "role": "Propriétaire, distributeur de gaz de soudage",
-        "country": "Uzbekistan"
+        "quote": "La couleur OEM, le type de vanne et l'emballage d'exportation correspondent à un échantillon confirmé avant une nouvelle fourniture.",
+        "author": "Distributor inquiries",
+        "role": "Alimentation en gaz de soudage",
+        "country": "Central Asia"
       },
       {
-        "quote": "Le devis est arrivé le même jour avec un MOQ et un délai de livraison clairs. Les bouteilles de propane sont arrivées avec des valves POL et une liste de colisage complète – aucun retard douanier de notre côté.",
-        "author": "Aigerim Bekova",
-        "role": "Responsable achats, approvisionnement industriel",
-        "country": "Kazakhstan"
+        "quote": "MOQ clair, délai de livraison et liste de colisage confirmés dans le devis – et non comme prix fixes sur le site Web.",
+        "author": "Procurement inquiries",
+        "role": "Approvisionnement industriel",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Nous achetons des bouteilles avec régulateurs et tuyaux en une seule commande de conteneur. Les documents et le marquage étaient prêts pour notre marché, la revente était donc simple.",
-        "author": "Faisal Al-Harbi",
-        "role": "Acheteur import, négoce d'équipements à gaz",
-        "country": "Saudi Arabia"
+        "quote": "Bouteilles avec régulateurs et flexibles proposées dans le cadre d'une seule commande combinée, avec marquage discuté pour le marché de destination.",
+        "author": "Import inquiries",
+        "role": "Négoce d'équipements à gaz",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Qui nous sommes",
     "title": "Fabricant industriel pour acheteurs B2B",
-    "text": "Wanda Groups fabrique et fournit des bouteilles de gaz industriels, des générateurs et des accessoires de soudage pour les distributeurs étrangers, les partenaires OEM et les acheteurs de projets.",
+    "text": "Wanda Groups fabrique et fournit des bouteilles de gaz industriels, des générateurs, des accessoires de soudage et des équipements de réfrigération pour les distributeurs étrangers, les partenaires OEM et les acheteurs de projets.",
     "text2": "Notre objectif est l'approvisionnement en usine, l'assistance à la sélection des produits, les commandes groupées et la coordination des exportations, et non la vente au détail aux consommateurs.",
     "cta": "En savoir plus sur nous"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Prêt à demander un devis ?",
       "quoteCta": "Demander un devis",
       "relatedProducts": "Produits associés",
+      "productFamilies": "Familles de produits",
       "applications": "Applications",
       "standardsTitle": "Normes et certifications",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Fabricant de bouteilles de gaz | OEM industriel et exportation | Groupes Wanda",
-      "seoDescription": "Wanda Groups fabrique des bouteilles de gaz industriels, des générateurs et des accessoires de soudage pour les acheteurs OEM, grossistes et exportateurs internationaux."
+      "seoDescription": "Wanda Groups fabrique des bouteilles de gaz industrielles, des générateurs, des accessoires de soudage et des équipements de réfrigération pour les acheteurs OEM, grossistes et exportateurs internationaux."
     },
     "about": {
       "label": "À propos de nous",
       "title": "Fabricant de bouteilles de gaz pour les acheteurs industriels",
       "subtitle": "Nous soutenons les acheteurs étrangers dans la sélection des produits, l’OEM, l’inspection, l’emballage et l’expédition.",
       "seoTitle": "À propos du groupe Wanda",
-      "seoDescription": "Wanda Group fabrique des bouteilles d'acétylène, des bouteilles de propane, des générateurs et des accessoires pour le soudage, le coupage et l'approvisionnement en gaz industriels."
+      "seoDescription": "Wanda Group fabrique des bouteilles d'acétylène, de propane et de GPL, des générateurs, des accessoires de soudage et des équipements de réfrigération pour les acheteurs industriels à l'exportation."
     },
     "products": {
       "label": "Produits",
       "title": "Nos produits",
-      "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+      "subtitle": "Bouteilles d'acétylène, propane et GPL, génératrices, accessoires de soudage et équipements de réfrigération pour les acheteurs industriels.",
       "seoTitle": "Produits de bouteilles de gaz",
-      "seoDescription": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+      "seoDescription": "Bouteilles d'acétylène, de propane et de GPL, générateurs d'acétylène, accessoires de soudage et équipements de réfrigération du Groupe Wanda.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Bouteilles d'acétylène dissous",
           "overview": "Cylindres en acier avec masse poreuse et solvant pour le stockage et le transport sûrs de l'acétylène. Utilisé dans le soudage, le découpage, le brasage et la fabrication de métaux.",
+          "application": "Soudage, coupage et brasage oxyacétylène",
           "seoTitle": "Bouteilles de gaz acétylène",
           "seoDescription": "Cylindres en acier avec masse poreuse et solvant pour le stockage et le transport sûrs de l'acétylène. Utilisé dans le soudage, le découpage, le brasage et la fabrication de métaux."
         },
         "propane": {
           "name": "Bouteilles de propane",
-          "overview": "Bouteilles en acier pour le stockage et le transport du gaz propane. Utilisé pour le chauffage, l'approvisionnement en propane industriel, la cuisson et l'oxycoupage lorsqu'il est associé à l'acétylène.",
+          "overview": "Bouteilles en acier spécifiées pour le remplissage au propane. Utilisé pour le chauffage, l'approvisionnement en propane industriel, la cuisson et l'oxycoupage lorsqu'il est associé à l'acétylène.",
+          "application": "Chauffage, découpe et fourniture d'usines au propane industriel",
+          "familyNote": "Les bouteilles de propane et les bouteilles de GPL utilisent la même gamme de bouteilles en acier WG-P. Cette page couvre le remplissage de propane et les utilisations spécifiques au propane. Les mélanges de GPL et l'approvisionnement en distribution sont décrits sur la page Bouteilles de GPL.",
           "seoTitle": "Bouteilles de gaz propane",
-          "seoDescription": "Bouteilles de gaz propane en acier pour les applications de chauffage, d'approvisionnement industriel et de découpe. Options d’exportation et OEM discutées par commande."
+          "seoDescription": "Bouteilles en acier pour remplissage de propane — chauffage, approvisionnement industriel et oxycoupage. Même gamme WG-P que le GPL ; remplir le gaz spécifié par commande."
         },
         "lpg": {
           "name": "Bouteilles de GPL",
-          "overview": "Bouteilles de gaz de pétrole liquéfié (GPL) — propane, butane ou mélanges mixtes. Commun pour la distribution de GPL résidentielle et commerciale, le camping, le chauffage et l'approvisionnement en carburant portable.",
+          "overview": "Bouteilles de gaz de pétrole liquéfié (GPL) — propane, butane ou mélanges mixtes. Utilisé pour la distribution de GPL résidentielle et commerciale, le camping, le chauffage et l'approvisionnement en carburant portable.",
+          "application": "Distribution de GPL, chauffage portable au fioul et au mélange",
+          "familyNote": "Les bouteilles de GPL et de propane utilisent la même gamme de bouteilles en acier WG-P. Cette page couvre les mélanges de GPL et leur utilisation en matière de distribution. Le remplissage au propane uniquement et les utilisations industrielles du propane sont décrites sur la page Bouteilles de propane.",
           "seoTitle": "Bouteilles de gaz GPL",
-          "seoDescription": "Bouteilles de GPL pour la distribution de gaz de pétrole liquéfié résidentiel, commercial et industriel et l'approvisionnement portable."
+          "seoDescription": "Bouteilles de GPL pour la distribution de gaz de pétrole liquéfié résidentiel, commercial et industriel. Même gamme WG-P que les bouteilles de propane ; remplir spécifié par commande."
         },
         "industrial": {
           "name": "Bouteilles de gaz industrielles",
           "overview": "Bouteilles de gaz industrielles pour le soudage, le découpage et l'approvisionnement d'installations, y compris les options d'acétylène, de propane et de GPL adaptées à votre marché.",
+          "application": "Fourniture d'installations, de distributeurs et de bouteilles de projet",
           "seoTitle": "Bouteilles de gaz industrielles",
           "seoDescription": "Bouteilles de gaz industrielles pour le soudage, le découpage et l'approvisionnement d'installations du groupe Wanda."
         },
         "generators": {
           "name": "Générateurs d'acétylène",
           "overview": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée.",
+          "application": "Génération d'acétylène sur site à partir de carbure de calcium",
           "seoTitle": "Générateurs d'acétylène",
           "seoDescription": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée."
         },
         "accessories": {
-          "name": "Accessoires et raccords pour cylindres",
+          "name": "Accessoires de soudage et raccords de cylindre",
           "overview": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres.",
-          "seoTitle": "Accessoires de soudage",
-          "seoDescription": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres."
+          "application": "Installations d'oxy-carburant, régulateurs, tuyaux, vannes et jauges",
+          "seoTitle": "Accessoires de soudage et raccords de cylindre",
+          "seoDescription": "Accessoires de soudage et raccords de bouteilles — régulateurs, tuyaux, jauges, torches et vannes, fournis avec les bouteilles ou séparément."
         },
         "refrigeration": {
           "name": "Unités de réfrigération",
           "overview": "Une ligne distincte du groupe Wanda – et non un catalogue tiers. Unités de condensation, chambres froides et quincaillerie, fournies par nos soins avec des bouteilles ou en commande individuelle.",
+          "application": "Chambres froides, chaîne du froid alimentaire et froid industriel",
           "seoTitle": "Unités de réfrigération",
-          "seoDescription": "Une ligne distincte du groupe Wanda – et non un catalogue tiers. Unités de condensation, chambres froides et quincaillerie, fournies par nos soins avec des bouteilles ou en commande individuelle."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

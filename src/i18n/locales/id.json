@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Produsen Silinder Gas Industri",
     "title": "Produsen Silinder dan Peralatan Gas Industri",
-    "subtitle": "Manufaktur, OEM dan pasokan grosir silinder asetilena, silinder propana/LPG, generator dan aksesoris pengelasan untuk pembeli ekspor internasional.",
+    "subtitle": "Manufaktur, OEM dan pasokan grosir silinder asetilena, propana dan LPG, generator, aksesoris las dan peralatan pendingin untuk pembeli ekspor internasional.",
     "lineGas": "Tabung gas",
     "lineCold": "Unit pendingin",
     "cta": "Dapatkan Penawaran",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Produk Kami",
-    "subtitle": "Silinder asetilena, generator, silinder propana dan aksesoris untuk aplikasi industri dan pengelasan.",
+    "subtitle": "Tabung asetilena, propana dan LPG, genset, aksesoris las dan peralatan pendingin untuk pembeli industri.",
     "viewDetails": "Lihat Detail",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Silinder Propana",
         "spec": "3L–50L · opsi katup per pasar",
-        "desc": "Silinder LPG yang tahan lama untuk pemanasan, pemotongan, dan keperluan industri.",
+        "desc": "Silinder baja untuk pengisian propana — pemanasan, pemotongan, dan pasokan industri.",
         "icon": "🛢️"
       },
       {
-        "title": "Aksesoris Silinder",
+        "title": "Aksesoris Pengelasan",
         "spec": "Katup · regulator · selang · obor",
-        "desc": "Perlengkapan yang cocok disertakan dengan silinder atau sebagai pesanan terpisah.",
+        "desc": "Aksesori las dan perlengkapan silinder, disertakan dengan silinder atau terpisah.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Penyimpanan dingin farmasi dan medis",
       "Logistik dan transportasi berpendingin",
       "Pendinginan industri dan pendingin proses"
+    ],
+    "acetylene": [
+      "Pengelasan oksi-asetilen",
+      "Pemotongan bahan bakar oksi",
+      "Mematri dan memanaskan",
+      "Toko fabrikasi logam",
+      "Pekerjaan galangan kapal dan pemeliharaan"
+    ],
+    "propane": [
+      "Pemanasan propana industri",
+      "Pemotongan bahan bakar oksi dengan asetilena",
+      "Bengkel dan pemanasan konstruksi",
+      "Pasokan propana tanaman",
+      "Memasak dan memproses panas di mana propana ditentukan"
+    ],
+    "lpg": [
+      "Distribusi LPG perumahan dan komersial",
+      "Pasokan bahan bakar LPG portabel",
+      "Gas berkemah dan katering",
+      "Pemanasan dengan campuran LPG",
+      "Pengisian tabung LPG grosir untuk pasar lokal"
+    ],
+    "industrial": [
+      "Pengelasan dan pemotongan pasokan gas",
+      "Stok silinder pabrik dan bengkel",
+      "Distributor jalur gas industri",
+      "Lokasi proyek dan konstruksi"
+    ],
+    "generators": [
+      "Produksi asetilena di tempat dari kalsium karbida",
+      "Bengkel tanpa pasokan asetilena dalam kemasan",
+      "Pengelasan dan pemotongan dimana logistik silinder terbatas",
+      "Lokasi industri yang membutuhkan sumber asetilena lokal"
+    ],
+    "accessories": [
+      "Rakitan silinder dan regulator",
+      "Pengaturan pengelasan dan pemotongan bahan bakar oksi",
+      "Penggantian selang, pengukur dan katup",
+      "Perlengkapan keselamatan penanganan gas bengkel"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Produsen tabung gas untuk pembeli industri",
-    "text": "Wanda Group memproduksi silinder asetilena, silinder propana, generator dan aksesoris untuk pengelasan, pemotongan dan pasokan gas industri.",
+    "text": "Wanda Group memproduksi tabung asetilena, tabung propana dan LPG, generator dan aksesoris las, serta memasok peralatan pendingin untuk pembeli industri.",
     "text2": "Kami mendukung pembeli luar negeri dengan pemilihan produk, OEM, inspeksi, pengepakan, dan pengiriman.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Produk apa yang terutama Anda suplai?",
-            "a": "Kami menyediakan silinder asetilena, silinder propana, generator asetilena dan aksesoris tabung gas seperti katup, regulator, selang, pengukur tekanan dan obor."
+            "a": "Kami menyediakan tabung asetilena, tabung propana dan LPG, generator asetilena, aksesori tabung gas, dan peralatan pendingin sebagai lini produk terpisah."
           },
           {
             "q": "Bisakah Anda mendukung kustomisasi OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Bisakah saya menonton video pabrik sebelum melakukan pemesanan?",
-            "a": "Ya. Tonton video produksi di bagian Pabrik di halaman ini. Rekaman tambahan, klip pengepakan, dan sertifikat dikirim secara pribadi berdasarkan permintaan."
+            "a": "Ya. Tonton video produksi di halaman Pabrik. Rekaman tambahan, klip pengepakan, dan salinan sertifikat dikirim secara pribadi berdasarkan permintaan."
           },
           {
             "q": "Apakah Anda menyediakan video produk khususnya silinder asetilena?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Apakah aksesoris bisa dipesan bersamaan dengan tabung gas?",
-            "a": "Ya. Aksesori dapat disuplai bersama dengan silinder asetilena, silinder propana, dan generator asetilena."
+            "a": "Ya. Aksesori dapat disuplai bersama dengan silinder asetilena, propana, dan LPG serta generator asetilena."
           },
           {
             "q": "Apakah Anda mendukung pengepakan OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Dapatkan Penawaran Tepat",
     "certifications": "Sertifikasi",
     "order": "Memesan",
-    "reviews": "Ulasan",
+    "reviews": "Catatan pembeli",
     "contact": "Contact",
     "phone": "Telepon",
     "location": "Lokasi",
@@ -587,7 +626,7 @@
     "exportReady": "Ekspor siap",
     "years": "Bertahun-tahun",
     "acetylene": "Acetylene",
-    "isoCertified": "Bersertifikat ISO",
+    "isoCertified": "Standar berdasarkan permintaan",
     "globalExport": "Ekspor Global",
     "products": "Produk",
     "specs": "Spesifikasi",
@@ -695,16 +734,16 @@
       "note": "* Parameter pastinya bergantung pada standar (ISO/DOT/GB) dan konfigurasi katup. Minta lembar spesifikasi untuk pasar Anda."
     },
     "propane": {
-      "title": "Silinder Propana & LPG",
-      "intro": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, mematri, konstruksi dan pasokan gas industri.",
+      "title": "Kisaran silinder WG-P",
+      "intro": "Model WG-P adalah satu keluarga silinder baja. Isi gas — propana atau LPG (propana, butana atau campurannya) — ditentukan per pesanan dan pasar tujuan.",
       "features": [
-        "Baja 37Mn/34CrMo4 sesuai ISO 9809",
+        "Kelas baja dan standar silinder yang berlaku dikonfirmasi per pesanan",
         "Tekanan kerja 1,8–2,1 MPa",
-        "Katup POL, CGA 510, Gost",
-        "Lapisan bubuk, anti korosi",
-        "Sertifikat untuk pasar UE, AS, CIS"
+        "Katup POL, CGA 510, GOST dibahas per pasar",
+        "Lapisan bubuk dan lapisan anti korosi",
+        "Opsi sertifikasi dibahas per pasar tujuan"
       ],
-      "tableTitle": "Model Silinder Propana Standar",
+      "tableTitle": "Model Silinder WG-P Standar",
       "headers": [
         "Model",
         "Volume (L)",
@@ -768,10 +807,10 @@
       "intro": "Peralatan untuk memproduksi asetilena dari kalsium karbida. Pasokan gas yang stabil untuk kebutuhan pengelasan dan industri tanpa infrastruktur gas terpusat.",
       "features": [
         "Kapasitas keluaran 3–100 m³/jam",
-        "Umpan air & karbida otomatis",
-        "Sistem keamanan & filtrasi",
+        "Opsi umpan air dan karbida dibahas per model",
+        "Sistem keamanan dan filtrasi sesuai spesifikasi model",
         "Model kompak dan industri",
-        "Dokumentasi & pelatihan lengkap"
+        "Dokumentasi pesanan disediakan. Pelatihan operator dapat didiskusikan berdasarkan permintaan"
       ],
       "tableTitle": "Model Generator Asetilena",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generator dilengkapi dengan sistem pendingin, filter, dan kit suku cadang berdasarkan permintaan."
     },
     "accessories": {
-      "title": "Aksesori & Perlengkapan Silinder",
+      "title": "Aksesori Pengelasan & Perlengkapan Silinder",
       "intro": "Rangkaian lengkap untuk pengoperasian tabung gas yang aman: mulai dari pengukur hingga obor las. Pengadaan terpadu dengan silinder.",
       "features": [
         "Regulator & pengukur (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Obor",
           "WG-C100, WG-C300",
           "—",
-          "Pemotongan plasma/oksi"
+          "Pemotongan bahan bakar oksi"
         ],
         [
           "Pembakar",
@@ -881,7 +920,7 @@
           "Semua jenis silinder"
         ]
       ],
-      "note": "* Aksesori tersedia terpisah atau dibundel dengan silinder. Diskon untuk pesanan gabungan."
+      "note": "* Asesoris dapat dikutip secara terpisah atau bersama dengan silinder. Penetapan harga pesanan gabungan dikonfirmasi dalam kutipan."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Ekspor & Logistik",
-        "desc": "Dukungan pengiriman internasional lengkap.",
+        "desc": "Koordinasi pengepakan dan pengiriman ekspor untuk pembeli luar negeri.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Ekspor dokumentasi",
-          "Angkutan laut & kereta api"
+          "Pilihan angkutan laut dan kereta api"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrol Kualitas",
-        "desc": "Pengujian dan inspeksi di setiap tahap.",
+        "desc": "Inspeksi dan pengujian selama produksi sesuai pesanan.",
         "points": [
           "Tes hidrostatik",
-          "Inspeksi las UT",
-          "Inspeksi SGS/BV berdasarkan permintaan"
+          "Inspeksi las sesuai spesifikasi",
+          "Inspeksi pihak ketiga berdasarkan permintaan"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertifikasi",
         "desc": "Dokumen untuk bea cukai dan regulator. Salinannya dikirim secara pribadi berdasarkan permintaan.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & sertifikat mutu",
-          "Surat keterangan asal"
+          "Standar dibahas per produk dan pasar",
+          "MSDS dan dokumen kualitas berdasarkan permintaan",
+          "Surat keterangan asal berdasarkan permintaan"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Bantuan memilih produk dan konfigurasi.",
         "points": [
           "Seleksi berdasarkan pasar",
-          "MOQ & perhitungan waktu tunggu",
-          "Pelatihan staf"
+          "MOQ dan waktu tunggu dibahas per pesanan",
+          "Panduan operator dibahas berdasarkan permintaan"
         ]
       },
       {
         "icon": "📦",
         "title": "Pasokan Bundel",
-        "desc": "Silinder + aksesoris dalam satu urutan.",
+        "desc": "Silinder dan aksesoris dalam satu urutan.",
         "points": [
-          "Kontrak tunggal",
+          "Pertanyaan tunggal",
           "Pengiriman terkoordinasi",
-          "Diskon paket"
+          "Penetapan harga pesanan gabungan dalam kutipan"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Silinder gas baja mulus — persyaratan teknis"
+        "desc": "Tabung gas baja mulus yang dapat diisi ulang — baja yang dipadamkan dan ditempa. Dibahas per produk dan pasar tujuan."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Silinder asetilena terlarut"
+        "desc": "Tabung gas — tabung gas baja mulus yang dapat diisi ulang — desain, konstruksi, dan pengujian — Bagian 3: silinder baja yang dinormalisasi. Bukan standar silinder asetilena (lihat ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Silinder asetilena — persyaratan dasar dan pengujian tipe. Dibahas untuk produk asetilena bila diminta. Penerapan dikonfirmasi per pesanan."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Standar silinder pasar AS — penerapan dikonfirmasi per produk dan pesanan"
+        "desc": "Spesifikasi AS untuk silinder baja mulus — penerapannya dikonfirmasi per produk dan pesanan"
       },
       {
         "name": "TPED",
-        "desc": "Persyaratan transportasi Eropa — dibahas per pasar tujuan"
+        "desc": "Petunjuk peralatan tekanan angkut UE — dibahas per pasar tujuan"
       },
       {
         "name": "GB 5099",
-        "desc": "Standar tabung gas Cina"
+        "desc": "Standar nasional Tiongkok untuk tabung gas baja tanpa sambungan — penerapannya dikonfirmasi per produk dan pesanan"
       },
       {
         "name": "CE Mark",
-        "desc": "Penandaan kesesuaian Eropa — penerapan per produk dan pasar"
+        "desc": "Penandaan kesesuaian Eropa — penerapan per produk dan pasar. Bukan pengganti file sertifikat yang diterbitkan."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Apa kata pembeli",
+    "title": "Apa yang biasanya diminta oleh pembeli industri",
     "items": [
       {
-        "quote": "Kami memesan ulang silinder asetilena 40L tiga kali tahun ini. Katup gost, warna oem dan kemasan ekspor selalu cocok dengan sampel pertama.",
-        "author": "Rustam Yusupov",
-        "role": "Pemilik, distributor gas las",
-        "country": "Uzbekistan"
+        "quote": "Warna OEM, jenis katup, dan kemasan ekspor disesuaikan dengan sampel yang dikonfirmasi sebelum pasokan berulang.",
+        "author": "Distributor inquiries",
+        "role": "Pasokan gas pengelasan",
+        "country": "Central Asia"
       },
       {
-        "quote": "Penawaran datang pada hari yang sama dengan MOQ dan lead time yang jelas. Botol propana tiba dengan katup POL dan daftar pengepakan lengkap — tidak ada penundaan bea cukai di pihak kami.",
-        "author": "Aigerim Bekova",
-        "role": "Manajer pengadaan, pasokan industri",
-        "country": "Kazakhstan"
+        "quote": "Hapus MOQ, waktu tunggu dan daftar pengepakan dikonfirmasi dalam kutipan — bukan sebagai harga situs web tetap.",
+        "author": "Procurement inquiries",
+        "role": "Pasokan industri",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Kami membeli silinder dengan regulator dan selang sebagai satu wadah pesanan. Dokumen dan penandaan sudah siap untuk pasar kami, jadi penjualan kembali sangatlah mudah.",
-        "author": "Faisal Al-Harbi",
-        "role": "Pembeli impor, perdagangan peralatan gas",
-        "country": "Saudi Arabia"
+        "quote": "Silinder dengan regulator dan selang dikutip sebagai satu pesanan gabungan, dengan penandaan yang dibahas untuk pasar tujuan.",
+        "author": "Import inquiries",
+        "role": "Perdagangan peralatan gas",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Siapa Kami",
     "title": "Produsen industri untuk pembeli B2B",
-    "text": "Wanda Groups memproduksi dan memasok tabung gas industri, generator, dan aksesori las untuk distributor luar negeri, mitra OEM, dan pembeli proyek.",
+    "text": "Wanda Groups memproduksi dan memasok tabung gas industri, generator, aksesoris las, dan peralatan pendingin untuk distributor luar negeri, mitra OEM, dan pembeli proyek.",
     "text2": "Fokus kami adalah pasokan yang terhubung dengan pabrik, dukungan pemilihan produk, pesanan massal, dan koordinasi ekspor — bukan penjualan konsumen ritel.",
     "cta": "Pelajari Lebih Lanjut Tentang Kami"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Siap untuk meminta penawaran?",
       "quoteCta": "Permintaan Penawaran",
       "relatedProducts": "Produk terkait",
+      "productFamilies": "Keluarga produk",
       "applications": "Applications",
       "standardsTitle": "Standar & sertifikasi",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Produsen Silinder Gas | OEM dan Ekspor Industri | Grup Wanda",
-      "seoDescription": "Wanda Groups memproduksi tabung gas industri, generator dan aksesoris las untuk pembeli OEM, grosir dan ekspor internasional."
+      "seoDescription": "Wanda Groups memproduksi tabung gas industri, generator, aksesoris las dan peralatan pendingin untuk pembeli OEM, grosir dan ekspor internasional."
     },
     "about": {
       "label": "Tentang Kami",
       "title": "Produsen tabung gas untuk pembeli industri",
       "subtitle": "Kami mendukung pembeli luar negeri dengan pemilihan produk, OEM, inspeksi, pengepakan, dan pengiriman.",
       "seoTitle": "Tentang Grup Wanda",
-      "seoDescription": "Wanda Group memproduksi silinder asetilena, silinder propana, generator dan aksesoris untuk pengelasan, pemotongan dan pasokan gas industri."
+      "seoDescription": "Wanda Group memproduksi silinder asetilena, propana dan LPG, generator, aksesoris las dan peralatan pendingin untuk pembeli ekspor industri."
     },
     "products": {
       "label": "Produk",
       "title": "Produk Kami",
-      "subtitle": "Silinder asetilena, generator, silinder propana dan aksesoris untuk aplikasi industri dan pengelasan.",
+      "subtitle": "Tabung asetilena, propana dan LPG, genset, aksesoris las dan peralatan pendingin untuk pembeli industri.",
       "seoTitle": "Produk Tabung Gas",
-      "seoDescription": "Silinder asetilena, generator, silinder propana dan aksesoris untuk aplikasi industri dan pengelasan.",
+      "seoDescription": "Tabung asetilena, propana dan LPG, generator asetilena, aksesoris las dan peralatan pendingin dari Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Silinder Asetilena Terlarut",
           "overview": "Silinder baja dengan massa berpori dan pelarut untuk penyimpanan dan pengangkutan asetilena yang aman. Digunakan dalam pengelasan, pemotongan, mematri dan fabrikasi logam.",
+          "application": "Pengelasan, pemotongan dan pematerian oksi-asetilen",
           "seoTitle": "Silinder Gas Asetilena",
           "seoDescription": "Silinder baja dengan massa berpori dan pelarut untuk penyimpanan dan pengangkutan asetilena yang aman. Digunakan dalam pengelasan, pemotongan, mematri dan fabrikasi logam."
         },
         "propane": {
           "name": "Silinder Propana",
-          "overview": "Silinder baja untuk penyimpanan dan transportasi gas propana. Digunakan untuk pemanasan, pasokan propana industri, memasak, dan pemotongan bahan bakar oksi bila dipasangkan dengan asetilena.",
+          "overview": "Silinder baja ditentukan untuk pengisian propana. Digunakan untuk pemanasan, pasokan propana industri, memasak, dan pemotongan bahan bakar oksi bila dipasangkan dengan asetilena.",
+          "application": "Pemanasan propana industri, pemotongan dan pasokan tanaman",
+          "familyNote": "Silinder propana dan silinder LPG menggunakan rangkaian silinder baja WG-P yang sama. Halaman ini mencakup pengisian propana dan penggunaan khusus propana. Campuran LPG dan pasokan distribusi dijelaskan pada halaman Silinder LPG.",
           "seoTitle": "Silinder Gas Propana",
-          "seoDescription": "Silinder gas propana baja untuk pemanasan, pasokan industri, dan aplikasi pemotongan. Opsi ekspor dan OEM dibahas per pesanan."
+          "seoDescription": "Silinder baja untuk pengisian propana — pemanasan, pasokan industri, dan pemotongan bahan bakar oksi. Kisaran WG-P yang sama dengan LPG; isi gas yang ditentukan per pesanan."
         },
         "lpg": {
           "name": "Silinder LPG",
-          "overview": "Silinder untuk bahan bakar gas cair (LPG) — propana, butana atau campuran campuran. Umum untuk distribusi LPG perumahan dan komersial, berkemah, pemanas dan pasokan bahan bakar portabel.",
+          "overview": "Silinder untuk bahan bakar gas cair (LPG) — propana, butana atau campuran campuran. Digunakan untuk distribusi LPG perumahan dan komersial, berkemah, pemanas dan pasokan bahan bakar portabel.",
+          "application": "Distribusi LPG, bahan bakar portabel dan pemanas berbasis campuran",
+          "familyNote": "Silinder LPG dan silinder propana menggunakan jenis silinder baja WG-P yang sama. Halaman ini mencakup campuran LPG dan penggunaan distribusi. Pengisian hanya propana dan penggunaan propana industri dijelaskan di halaman Silinder Propana.",
           "seoTitle": "Tabung Gas LPG",
-          "seoDescription": "Silinder LPG untuk distribusi gas minyak cair perumahan, komersial dan industri serta pasokan portabel."
+          "seoDescription": "Silinder LPG untuk distribusi gas minyak cair perumahan, komersial dan industri. Kisaran WG-P yang sama dengan silinder propana; isi yang ditentukan per pesanan."
         },
         "industrial": {
           "name": "Silinder Gas Industri",
           "overview": "Tabung gas industri untuk pengelasan, pemotongan, dan pasokan pabrik — termasuk opsi asetilen, propana, dan LPG yang disesuaikan dengan pasar Anda.",
+          "application": "Pasokan silinder pabrik, distributor dan proyek",
           "seoTitle": "Silinder Gas Industri",
           "seoDescription": "Tabung gas industri untuk pengelasan, pemotongan dan pasokan pabrik dari Wanda Group."
         },
         "generators": {
           "name": "Generator Asetilena",
           "overview": "Peralatan untuk memproduksi asetilena dari kalsium karbida. Pasokan gas yang stabil untuk kebutuhan pengelasan dan industri tanpa infrastruktur gas terpusat.",
+          "application": "Pembuatan asetilena di tempat dari kalsium karbida",
           "seoTitle": "Generator Asetilena",
           "seoDescription": "Peralatan untuk memproduksi asetilena dari kalsium karbida. Pasokan gas yang stabil untuk kebutuhan pengelasan dan industri tanpa infrastruktur gas terpusat."
         },
         "accessories": {
-          "name": "Aksesori & Perlengkapan Silinder",
+          "name": "Aksesori Pengelasan & Perlengkapan Silinder",
           "overview": "Rangkaian lengkap untuk pengoperasian tabung gas yang aman: mulai dari pengukur hingga obor las. Pengadaan terpadu dengan silinder.",
-          "seoTitle": "Aksesoris Pengelasan",
-          "seoDescription": "Rangkaian lengkap untuk pengoperasian tabung gas yang aman: mulai dari pengukur hingga obor las. Pengadaan terpadu dengan silinder."
+          "application": "Pengaturan bahan bakar oksi, regulator, selang, katup dan pengukur",
+          "seoTitle": "Aksesori Pengelasan & Perlengkapan Silinder",
+          "seoDescription": "Aksesori las dan perlengkapan silinder — regulator, selang, pengukur, obor dan katup, disertakan dengan silinder atau secara terpisah."
         },
         "refrigeration": {
           "name": "Unit pendingin",
           "overview": "Jalur Grup Wanda yang terpisah — bukan katalog pihak ketiga. Unit kondensasi, ruang pendingin, dan perangkat keras, dipasok oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri.",
+          "application": "Ruangan dingin, rantai pendingin makanan, dan pendingin industri",
           "seoTitle": "Unit Pendingin",
-          "seoDescription": "Jalur Grup Wanda yang terpisah — bukan katalog pihak ketiga. Unit kondensasi, ruang pendingin, dan perangkat keras, dipasok oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

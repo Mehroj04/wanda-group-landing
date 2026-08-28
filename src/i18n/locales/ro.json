@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Producator de butelii industriale de gaz",
     "title": "Producator de butelii si echipamente industriale",
-    "subtitle": "Producerea, furnizarea OEM și en-gros de butelii de acetilenă, butelii de propan/GPL, generatoare și accesorii de sudură pentru cumpărătorii internaționali de export.",
+    "subtitle": "Producerea, furnizarea OEM și en-gros de butelii de acetilenă, propan și GPL, generatoare, accesorii de sudură și echipamente de refrigerare pentru cumpărătorii internaționali de export.",
     "lineGas": "Butelii de gaz",
     "lineCold": "Unități frigorifice",
     "cta": "Obțineți o cotație",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Produsele noastre",
-    "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+    "subtitle": "Butelii de acetilenă, propan și GPL, generatoare, accesorii de sudură și echipamente frigorifice pentru cumpărători industriali.",
     "viewDetails": "Vedeți detalii",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Cilindru de propan",
         "spec": "3L–50L · opțiuni de supapă pe piață",
-        "desc": "Butelii GPL durabile pentru încălzire, tăiere și uz industrial.",
+        "desc": "Cilindri de oțel pentru umplere cu propan — încălzire, tăiere și alimentare industrială.",
         "icon": "🛢️"
       },
       {
-        "title": "Accesorii pentru cilindri",
+        "title": "Accesorii pentru sudare",
         "spec": "Supape · regulatoare · furtunuri · pistolete",
-        "desc": "Fitinguri potrivite furnizate cu cilindri sau la comandă separată.",
+        "desc": "Accesorii de sudura si fitinguri pentru cilindri, furnizate cu cilindri sau separat.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Depozitare frigorifică farmaceutică și medicală",
       "Logistica si transport frigorific",
       "Răcire industrială și răcitoare de proces"
+    ],
+    "acetylene": [
+      "Sudarea oxiacetilenă",
+      "Tăiere cu oxicombustibil",
+      "Lipire și încălzire",
+      "Magazine de fabricare a metalelor",
+      "Şantier naval şi lucrări de întreţinere"
+    ],
+    "propane": [
+      "Încălzire industrială cu propan",
+      "Tăiere cu oxicombustibil cu acetilenă",
+      "Incalzire atelier si constructii",
+      "Aprovizionarea plantelor cu propan",
+      "Căldură de gătit și proces în care este specificat propanul"
+    ],
+    "lpg": [
+      "Distributie GPL rezidential si comercial",
+      "Alimentare portabilă cu combustibil GPL",
+      "Gaze pentru camping si catering",
+      "Incalzire cu amestecuri GPL",
+      "Umplere cu ridicata a buteliilor GPL pentru piețele locale"
+    ],
+    "industrial": [
+      "Alimentare cu gaz de sudare și tăiere",
+      "Stoc de cilindri de uzină și atelier",
+      "Distribuitor linii de gaze industriale",
+      "Proiect si santiere"
+    ],
+    "generators": [
+      "Producerea la fața locului de acetilenă din carbură de calciu",
+      "Ateliere fără alimentare cu acetilenă îmbuteliată",
+      "Sudarea și tăierea acolo unde logistica cilindrului este limitată",
+      "Locuri industriale care au nevoie de o sursă locală de acetilenă"
+    ],
+    "accessories": [
+      "Ansambluri cilindri și regulatoare",
+      "Configurații de sudare și tăiere cu oxicombustibil",
+      "Înlocuire furtun, manometru și supapă",
+      "Accesorii de siguranță pentru manipularea gazelor de atelier"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Producator de butelii de gaz pentru cumparatori industriali",
-    "text": "Wanda Group produce butelii de acetilenă, butelii de propan, generatoare și accesorii pentru sudare, tăiere și alimentare cu gaz industrial.",
+    "text": "Wanda Group produce butelii de acetilenă, butelii de propan și GPL, generatoare și accesorii de sudare și, de asemenea, furnizează echipamente frigorifice pentru cumpărătorii industriali.",
     "text2": "Sprijinim cumpărătorii de peste mări cu selecția de produse, OEM, inspecție, ambalare și expediere.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Ce produse furnizați în principal?",
-            "a": "Furnizăm butelii de acetilenă, butelii de propan, generatoare de acetilenă și accesorii pentru butelii de gaz, cum ar fi supape, regulatoare, furtunuri, manometre și torțe."
+            "a": "Furnizăm butelii de acetilenă, butelii de propan și GPL, generatoare de acetilenă, accesorii pentru butelii de gaz și echipamente de refrigerare ca o linie de produse separată."
           },
           {
             "q": "Puteți accepta personalizarea OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Pot viziona videoclipuri din fabrică înainte de a plasa o comandă?",
-            "a": "Da. Urmăriți videoclipuri de producție în secțiunea Fabrică de pe această pagină. Filmările suplimentare, clipurile de ambalare și certificatele sunt trimise privat la cerere."
+            "a": "Da. Urmăriți videoclipuri de producție pe pagina Fabrică. Filmările suplimentare, clipurile de ambalare și copiile certificatelor sunt trimise în mod privat la cerere."
           },
           {
             "q": "Oferiți videoclipuri despre produse, în special pentru butelii de acetilenă?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Accesoriile pot fi comandate împreună cu buteliile de gaz?",
-            "a": "Da. Accesoriile pot fi furnizate împreună cu cilindri de acetilenă, butelii de propan și generatoare de acetilenă."
+            "a": "Da. Accesoriile pot fi furnizate împreună cu butelii de acetilenă, propan și GPL și generatoare de acetilenă."
           },
           {
             "q": "Acceptați ambalarea OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Obțineți o cotație exactă",
     "certifications": "Certificari",
     "order": "Comanda",
-    "reviews": "Recenzii",
+    "reviews": "Notele cumpărătorului",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Locaţie",
@@ -587,7 +626,7 @@
     "exportReady": "Export gata",
     "years": "ani",
     "acetylene": "Acetylene",
-    "isoCertified": "Certificat ISO",
+    "isoCertified": "Standarde la cerere",
     "globalExport": "Export global",
     "products": "Produse",
     "specs": "Specificații",
@@ -695,16 +734,16 @@
       "note": "* Parametrii exacti depind de standard (ISO/DOT/GB) și de configurația supapei. Solicitați fișa de specificații pentru piața dvs."
     },
     "propane": {
-      "title": "Butelii de propan și GPL",
-      "intro": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+      "title": "Gama de cilindri WG-P",
+      "intro": "Modelele WG-P sunt o singură familie de cilindri de oțel. Gazul de umplere — propan sau GPL (propan, butan sau amestecuri) — este specificat pe comandă și pe piața de destinație.",
       "features": [
-        "Oțel 37Mn/34CrMo4 conform ISO 9809",
+        "Calitatea de oțel și standardul de cilindru aplicabil confirmat pe comandă",
         "Presiune de lucru 1,8–2,1 MPa",
-        "Supape POL, CGA 510, GOST",
-        "Acoperire cu pulbere, anticoroziune",
-        "Certificate pentru piețele UE, SUA, CSI"
+        "Vanele POL, CGA 510, GOST discutate pe piață",
+        "Acoperire cu pulbere și finisaj anticoroziv",
+        "Opțiuni de certificare discutate pe piață de destinație"
       ],
-      "tableTitle": "Modele standard de butelii de propan",
+      "tableTitle": "Modele standard de cilindri WG-P",
       "headers": [
         "Model",
         "Volumul (L)",
@@ -768,10 +807,10 @@
       "intro": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz.",
       "features": [
         "Capacitate de ieșire 3–100 m³/h",
-        "Alimentare automată cu apă și carbură",
-        "Sistem de siguranță și filtrare",
+        "Opțiunile de alimentare cu apă și carbură discutate pe model",
+        "Sistem de siguranță și filtrare conform specificațiilor pentru model",
         "Modele compacte și industriale",
-        "Documentație completă și instruire"
+        "Documentația de comandă furnizată. Formarea operatorilor poate fi discutată la cerere"
       ],
       "tableTitle": "Modele cu generatoare de acetilenă",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatoare livrate cu sistem de racire, filtre si kit de piese de schimb la cerere."
     },
     "accessories": {
-      "title": "Accesorii și fitinguri pentru cilindri",
+      "title": "Accesorii de sudura si fitinguri pentru cilindri",
       "intro": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri.",
       "features": [
         "Regulatoare și manometre (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "torțe",
           "WG-C100, WG-C300",
           "—",
-          "Tăiere cu plasmă/oxi"
+          "Tăiere cu oxicombustibil"
         ],
         [
           "Arzătoare",
@@ -881,7 +920,7 @@
           "Toate tipurile de cilindri"
         ]
       ],
-      "note": "* Accesorii disponibile separat sau la pachet cu cilindri. Reducere la comenzile combinate."
+      "note": "* Accesoriile pot fi cotate separat sau împreună cu cilindri. Prețul pentru comandă combinată este confirmat în cotație."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Export & Logistica",
-        "desc": "Asistență completă pentru expedieri internaționale.",
+        "desc": "Coordonarea ambalării și transporturilor la export pentru cumpărătorii de peste mări.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Documentatie de export",
-          "Transport maritim si feroviar"
+          "Opțiuni de transport maritim și feroviar"
         ]
       },
       {
         "icon": "🔬",
         "title": "Controlul calității",
-        "desc": "Testare și inspecție în fiecare etapă.",
+        "desc": "Inspecție și testare în timpul producției conform comenzii.",
         "points": [
           "Teste hidrostatice",
-          "Inspecția sudurii UT",
-          "Inspecție SGS/BV la cerere"
+          "Inspecția sudării conform specificațiilor",
+          "Inspecție terță parte la cerere"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certificare",
         "desc": "Documente pentru autoritățile vamale și de reglementare. Copiile se trimit privat la cerere.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS și certificat de calitate",
-          "Certificat de origine"
+          "Standarde discutate pe produs și pe piață",
+          "FDS și documente de calitate la cerere",
+          "Certificat de origine la cerere"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Ajutor la selectarea produselor și la configurare.",
         "points": [
           "Selecția bazată pe piață",
-          "MOQ și calculul timpului de livrare",
-          "Instruirea personalului"
+          "MOQ și timpul de livrare discutat pe comandă",
+          "Îndrumări pentru operator discutate la cerere"
         ]
       },
       {
         "icon": "📦",
         "title": "Aprovizionare pachet",
-        "desc": "Cilindri + accesorii într-o singură comandă.",
+        "desc": "Cilindri și accesorii într-o singură comandă.",
         "points": [
-          "Contract unic",
+          "Întrebare unică",
           "Livrare coordonata",
-          "Reducere la pachet"
+          "Prețuri pentru comandă combinată în cotație"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Butelii de gaz din oțel fără sudură — cerințe tehnice"
+        "desc": "Butelii de gaz din oțel fără sudură reîncărcabile — oțel călit și călit. Discutate pe piață de produs și destinație."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Cilindri de acetilenă dizolvați"
+        "desc": "Butelii de gaz — butelii de gaz din oțel fără sudură reîncărcabile — proiectare, construcție și testare — Partea 3: butelii de oțel normalizate. Nu este un standard pentru cilindru de acetilenă (a se vedea ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Cilindri de acetilenă — cerințe de bază și încercări de tip. Se discută pentru produsele cu acetilenă la cerere. Aplicabilitatea este confirmată pe comandă."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Standardul cilindrului de pe piața SUA – aplicabilitatea confirmată pe produs și comandă"
+        "desc": "Specificația SUA pentru cilindri din oțel fără sudură — aplicabilitatea confirmată pe produs și comandă"
       },
       {
         "name": "TPED",
-        "desc": "Cerințe europene de transport — discutate pe piața de destinație"
+        "desc": "Directiva UE privind echipamentele sub presiune transportabile — discutată pe piața de destinație"
       },
       {
         "name": "GB 5099",
-        "desc": "Cilindru de gaz chinezesc standard"
+        "desc": "Standard național chinez pentru buteliile de gaz din oțel fără sudură — aplicabilitatea confirmată pe produs și comandă"
       },
       {
         "name": "CE Mark",
-        "desc": "Marcajul european de conformitate — aplicabilitate pe produs și pe piață"
+        "desc": "Marcajul european de conformitate — aplicabilitate pe produs și pe piață. Nu este un substitut pentru un fișier de certificat publicat."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Ce spun cumpărătorii",
+    "title": "Ceea ce de obicei cer cumpărătorii industriali",
     "items": [
       {
-        "quote": "Am recomandat butelii de acetilenă de 40 L de trei ori anul acesta. Supapele GOST, culoarea OEM și ambalajul de export s-au potrivit de fiecare dată cu primul eșantion.",
-        "author": "Rustam Yusupov",
-        "role": "Proprietar, distribuitor gaz de sudura",
-        "country": "Uzbekistan"
+        "quote": "Culoarea OEM, tipul supapei și ambalajul de export s-au potrivit cu un eșantion confirmat înainte de aprovizionarea repetată.",
+        "author": "Distributor inquiries",
+        "role": "Alimentare cu gaz de sudare",
+        "country": "Central Asia"
       },
       {
-        "quote": "Cotația a venit în aceeași zi cu un MOQ clar și un termen de livrare. Sticlele de propan au sosit cu supape POL și o listă completă de ambalare - fără întârzieri vamale din partea noastră.",
-        "author": "Aigerim Bekova",
-        "role": "Manager achizitii, aprovizionare industriala",
-        "country": "Kazakhstan"
+        "quote": "MOQ clar, termenul de livrare și lista de ambalare confirmate în ofertă – nu ca prețuri fixe pe site-ul web.",
+        "author": "Procurement inquiries",
+        "role": "Aprovizionare industrială",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Cumpărăm butelii cu regulatoare și furtunuri ca o comandă de container. Documentele și marcarea erau gata pentru piața noastră, așa că revânzarea a fost simplă.",
-        "author": "Faisal Al-Harbi",
-        "role": "Cumpărător import, comercializare echipamente gaz",
-        "country": "Saudi Arabia"
+        "quote": "Cilindri cu regulatoare și furtunuri cotați ca o comandă combinată, cu marcare discutată pentru piața de destinație.",
+        "author": "Import inquiries",
+        "role": "Comercializare echipamente cu gaz",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Cine suntem",
     "title": "Producător industrial pentru cumpărători B2B",
-    "text": "Wanda Groups produce și furnizează butelii industriale de gaz, generatoare și accesorii de sudură pentru distribuitori de peste mări, parteneri OEM și cumpărători de proiecte.",
+    "text": "Wanda Groups produce și furnizează butelii industriale de gaz, generatoare, accesorii de sudură și echipamente de refrigerare pentru distribuitori de peste mări, parteneri OEM și cumpărători de proiecte.",
     "text2": "Accentul nostru este aprovizionarea legată de fabrică, asistența pentru selecția produselor, comenzile în vrac și coordonarea exporturilor - nu vânzările consumatorilor cu amănuntul.",
     "cta": "Aflați mai multe despre noi"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Sunteți gata să solicitați o cotație?",
       "quoteCta": "Solicitați o cotație",
       "relatedProducts": "Produse înrudite",
+      "productFamilies": "Familii de produse",
       "applications": "Applications",
       "standardsTitle": "Standarde și certificare",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Producator de butelii de gaz | OEM industrial și export | Grupuri Wanda",
-      "seoDescription": "Wanda Groups produce butelii industriale de gaz, generatoare și accesorii de sudură pentru cumpărători OEM, angro și internaționali de export."
+      "seoDescription": "Wanda Groups produce butelii industriale de gaz, generatoare, accesorii de sudură și echipamente de refrigerare pentru OEM, cumpărători angro și internaționali de export."
     },
     "about": {
       "label": "Despre noi",
       "title": "Producator de butelii de gaz pentru cumparatori industriali",
       "subtitle": "Sprijinim cumpărătorii de peste mări cu selecția de produse, OEM, inspecție, ambalare și expediere.",
       "seoTitle": "Despre Wanda Group",
-      "seoDescription": "Wanda Group produce butelii de acetilenă, butelii de propan, generatoare și accesorii pentru sudare, tăiere și alimentare cu gaz industrial."
+      "seoDescription": "Wanda Group produce butelii de acetilenă, propan și GPL, generatoare, accesorii de sudură și echipamente de refrigerare pentru cumpărătorii industriali de export."
     },
     "products": {
       "label": "Produse",
       "title": "Produsele noastre",
-      "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+      "subtitle": "Butelii de acetilenă, propan și GPL, generatoare, accesorii de sudură și echipamente frigorifice pentru cumpărători industriali.",
       "seoTitle": "Produse pentru butelii de gaz",
-      "seoDescription": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+      "seoDescription": "Butelii de acetilenă, propan și GPL, generatoare de acetilenă, accesorii de sudare și echipamente frigorifice de la Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindri de acetilenă dizolvați",
           "overview": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor.",
+          "application": "Sudare, tăiere și lipire cu oxiacetilenă",
           "seoTitle": "Butelii cu gaz acetilenă",
           "seoDescription": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor."
         },
         "propane": {
           "name": "Butelii de propan",
-          "overview": "Butelii de oțel pentru depozitarea și transportul gazului propan. Folosit pentru încălzire, alimentare cu propan industrial, gătit și tăiere cu oxicombustibil atunci când este asociat cu acetilenă.",
+          "overview": "Cilindri de oțel specificați pentru umplere cu propan. Folosit pentru încălzire, alimentare cu propan industrial, gătit și tăiere cu oxicombustibil atunci când este asociat cu acetilenă.",
+          "application": "Incalzire industriala cu propan, taiere si furnizare instalatii",
+          "familyNote": "Buteliile de propan și buteliile de GPL folosesc aceeași gamă de butelii din oțel WG-P. Această pagină acoperă umplerea cu propan și utilizările specifice propanului. Amestecurile GPL și furnizarea de distribuție sunt descrise pe pagina Butelii GPL.",
           "seoTitle": "Butelii de gaz propan",
-          "seoDescription": "Butelii de gaz propan din oțel pentru încălzire, alimentare industrială și aplicații de tăiere. Opțiunile de export și OEM discutate pe comandă."
+          "seoDescription": "Cilindri de oțel pentru umplere cu propan — încălzire, alimentare industrială și tăiere cu oxicombustibil. Aceeași gamă WG-P ca și GPL; umpleți gazul specificat la comandă."
         },
         "lpg": {
           "name": "Butelii GPL",
-          "overview": "Butelii pentru gaz petrolier lichefiat (GPL) — propan, butan sau amestecuri mixte. Obișnuit pentru distribuția GPL rezidențială și comercială, camping, încălzire și alimentare portabilă cu combustibil.",
+          "overview": "Butelii pentru gaz petrolier lichefiat (GPL) — propan, butan sau amestecuri mixte. Folosit pentru distribuția GPL rezidențială și comercială, camping, încălzire și alimentare portabilă cu combustibil.",
+          "application": "Distribuție GPL, combustibil portabil și încălzire pe bază de amestec",
+          "familyNote": "Buteliile de GPL și buteliile de propan folosesc aceeași gamă de butelii din oțel WG-P. Această pagină acoperă amestecurile GPL și utilizarea în distribuție. Umplerea numai cu propan și utilizările industriale ale propanului sunt descrise pe pagina Butelii de propan.",
           "seoTitle": "Butelii de gaz GPL",
-          "seoDescription": "Butelii GPL pentru distribuția și alimentarea portabilă de gaz petrolier lichefiat rezidențial, comercial și industrial."
+          "seoDescription": "Butelii GPL pentru distribuția de gaze petroliere lichefiate rezidențiale, comerciale și industriale. Aceeași gamă WG-P ca și buteliile de propan; completați specificat pentru comandă."
         },
         "industrial": {
           "name": "Butelii de gaz industriale",
           "overview": "Butelii industriale de gaz pentru sudare, tăiere și alimentarea instalațiilor — inclusiv opțiuni de acetilenă, propan și GPL potrivite pieței dumneavoastră.",
+          "application": "Aprovizionare instalație, distribuitor și proiect cilindru",
           "seoTitle": "Butelii de gaz industriale",
           "seoDescription": "Butelii industriale de gaz pentru sudare, tăiere și furnizare instalații de la Wanda Group."
         },
         "generators": {
           "name": "Generatoare de acetilenă",
           "overview": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz.",
+          "application": "Generare la fața locului de acetilenă din carbură de calciu",
           "seoTitle": "Generatoare de acetilenă",
           "seoDescription": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz."
         },
         "accessories": {
-          "name": "Accesorii și fitinguri pentru cilindri",
+          "name": "Accesorii de sudura si fitinguri pentru cilindri",
           "overview": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri.",
-          "seoTitle": "Accesorii pentru sudare",
-          "seoDescription": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri."
+          "application": "Configurații de oxicombustibil, regulatoare, furtunuri, supape și manometre",
+          "seoTitle": "Accesorii de sudura si fitinguri pentru cilindri",
+          "seoDescription": "Accesorii de sudură și fitinguri pentru cilindri — regulatoare, furtunuri, manometre, lantețe și supape, furnizate cu cilindri sau separat."
         },
         "refrigeration": {
           "name": "Unități frigorifice",
           "overview": "O linie separată Wanda Group - nu un catalog terță parte. Unități de condensare, camere frigorifice și feronerie, furnizate de noi cu cilindri sau ca comandă autonomă.",
+          "application": "Camere frigorifice, lanț frigorific alimentar și răcire industrială",
           "seoTitle": "Unități frigorifice",
-          "seoDescription": "O linie separată Wanda Group - nu un catalog terță parte. Unități de condensare, camere frigorifice și feronerie, furnizate de noi cu cilindri sau ca comandă autonomă."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Nhà sản xuất xi lanh khí công nghiệp",
     "title": "Nhà sản xuất thiết bị và bình gas công nghiệp",
-    "subtitle": "Sản xuất, OEM và cung cấp bán buôn xi lanh axetylen, xi lanh propan/LPG, máy phát điện và phụ kiện hàn cho khách hàng xuất khẩu quốc tế.",
+    "subtitle": "Sản xuất, OEM và cung cấp bán buôn bình chứa axetylen, propan và LPG, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho khách hàng xuất khẩu quốc tế.",
     "lineGas": "Bình gas",
     "lineCold": "Đơn vị làm lạnh",
     "cta": "Nhận báo giá",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Sản phẩm của chúng tôi",
-    "subtitle": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+    "subtitle": "Bình chứa axetylen, propan và LPG, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho người mua công nghiệp.",
     "viewDetails": "Xem chi tiết",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Xi lanh propan",
         "spec": "3L–50L · tùy chọn van cho mỗi thị trường",
-        "desc": "Xi lanh LPG bền dùng để sưởi ấm, cắt và sử dụng trong công nghiệp.",
+        "desc": "Xi lanh thép để nạp propan - sưởi ấm, cắt và cung cấp công nghiệp.",
         "icon": "🛢️"
       },
       {
-        "title": "Phụ kiện xi lanh",
+        "title": "Phụ kiện hàn",
         "spec": "Van · bộ điều chỉnh · ống · đèn pin",
-        "desc": "Các phụ kiện phù hợp được cung cấp cùng với xi lanh hoặc theo đơn đặt hàng riêng.",
+        "desc": "Phụ kiện hàn và phụ kiện xi lanh, được cung cấp cùng với xi lanh hoặc riêng biệt.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Kho lạnh dược phẩm, y tế",
       "Logistics và vận tải lạnh",
       "Máy làm lạnh và xử lý công nghiệp"
+    ],
+    "acetylene": [
+      "Hàn oxy-axetylen",
+      "Cắt nhiên liệu oxy",
+      "Hàn và sưởi ấm",
+      "Cửa hàng gia công kim loại",
+      "Công tác bảo trì và đóng tàu"
+    ],
+    "propane": [
+      "Sưởi ấm propan công nghiệp",
+      "Cắt nhiên liệu oxy bằng axetylen",
+      "Sưởi ấm nhà xưởng và công trình",
+      "Cung cấp propan cho nhà máy",
+      "Nấu và xử lý nhiệt trong đó có chỉ định propan"
+    ],
+    "lpg": [
+      "Phân phối LPG dân dụng và thương mại",
+      "Cung cấp nhiên liệu LPG di động",
+      "Gas cắm trại và phục vụ ăn uống",
+      "Sưởi ấm bằng hỗn hợp LPG",
+      "Bán buôn chiết rót chai LPG cho thị trường địa phương"
+    ],
+    "industrial": [
+      "Cung cấp khí hàn cắt",
+      "Kho xi lanh nhà máy và nhà xưởng",
+      "Nhà phân phối dòng khí công nghiệp",
+      "Dự án và địa điểm xây dựng"
+    ],
+    "generators": [
+      "Sản xuất axetylen tại chỗ từ cacbua canxi",
+      "Xưởng không có nguồn cung cấp axetylen đóng chai",
+      "Hàn và cắt ở những nơi hạn chế về hậu cần xi lanh",
+      "Các khu công nghiệp cần nguồn axetylen địa phương"
+    ],
+    "accessories": [
+      "Cụm xi lanh và bộ điều chỉnh",
+      "Thiết bị hàn và cắt oxy-nhiên liệu",
+      "Thay thế ống, đồng hồ đo và van",
+      "Phụ kiện an toàn xử lý khí tại xưởng"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Nhà sản xuất bình gas cho người mua công nghiệp",
-    "text": "Tập đoàn Wanda sản xuất xi lanh axetylen, xi lanh propan, máy phát điện và phụ kiện để hàn, cắt và cung cấp khí công nghiệp.",
+    "text": "Tập đoàn Wanda sản xuất xi lanh axetylen, xi lanh propan và LPG, máy phát điện và phụ kiện hàn, đồng thời cung cấp thiết bị làm lạnh cho khách hàng công nghiệp.",
     "text2": "Chúng tôi hỗ trợ người mua ở nước ngoài trong việc lựa chọn sản phẩm, OEM, kiểm tra, đóng gói và vận chuyển.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Những sản phẩm nào bạn chủ yếu cung cấp?",
-            "a": "Chúng tôi cung cấp xi lanh axetylen, xi lanh propan, máy tạo axetylen và các phụ kiện xi lanh khí như van, bộ điều chỉnh, ống mềm, đồng hồ đo áp suất và đèn khò."
+            "a": "Chúng tôi cung cấp bình chứa axetylen, bình chứa propan và LPG, máy tạo axetylen, phụ kiện bình chứa khí và thiết bị làm lạnh như một dòng sản phẩm riêng biệt."
           },
           {
             "q": "Bạn có thể hỗ trợ tùy chỉnh OEM không?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Tôi có thể xem video của nhà máy trước khi đặt hàng không?",
-            "a": "Đúng. Xem video sản xuất trong phần Nhà máy trên trang này. Các cảnh quay bổ sung, clip đóng gói và chứng chỉ được gửi riêng theo yêu cầu."
+            "a": "Đúng. Xem video sản xuất trên trang Nhà máy. Các cảnh quay bổ sung, clip đóng gói và bản sao chứng chỉ được gửi riêng theo yêu cầu."
           },
           {
             "q": "Bạn có cung cấp video sản phẩm, đặc biệt là xi lanh axetylen không?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Phụ kiện có thể đặt cùng với bình gas được không?",
-            "a": "Đúng. Các phụ kiện có thể được cung cấp cùng với bình chứa khí axetylen, bình chứa khí propan và máy tạo khí axetylen."
+            "a": "Đúng. Các phụ kiện có thể được cung cấp cùng với bình chứa axetylen, propan và LPG và máy tạo axetylen."
           },
           {
             "q": "Bạn có hỗ trợ đóng gói OEM không?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Nhận báo giá chính xác",
     "certifications": "Chứng chỉ",
     "order": "Đặt hàng",
-    "reviews": "Đánh giá",
+    "reviews": "Ghi chú của người mua",
     "contact": "Contact",
     "phone": "Điện thoại",
     "location": "Vị trí",
@@ -587,7 +626,7 @@
     "exportReady": "Xuất sẵn sàng",
     "years": "Năm",
     "acetylene": "Acetylene",
-    "isoCertified": "Chứng nhận ISO",
+    "isoCertified": "Tiêu chuẩn theo yêu cầu",
     "globalExport": "Xuất khẩu toàn cầu",
     "products": "Các sản phẩm",
     "specs": "Thông số kỹ thuật",
@@ -695,16 +734,16 @@
       "note": "* Thông số chính xác phụ thuộc vào tiêu chuẩn (ISO/DOT/GB) và cấu hình van. Yêu cầu bảng thông số kỹ thuật cho thị trường của bạn."
     },
     "propane": {
-      "title": "Xi lanh propan & LPG",
-      "intro": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+      "title": "Phạm vi xi lanh WG-P",
+      "intro": "Các mẫu WG-P là một họ xi lanh bằng thép. Khí nạp — propan hoặc LPG (propan, butan hoặc hỗn hợp) — được chỉ định theo đơn đặt hàng và thị trường đích.",
       "features": [
-        "Thép 37Mn/34CrMo4 theo tiêu chuẩn ISO 9809",
+        "Loại thép và tiêu chuẩn xi lanh áp dụng được xác nhận theo đơn đặt hàng",
         "Áp suất làm việc 1,8–2,1 MPa",
-        "Van POL, CGA 510, GOST",
-        "Sơn tĩnh điện, chống ăn mòn",
-        "Chứng chỉ dành cho thị trường EU, Mỹ, CIS"
+        "Van POL, CGA 510, GOST được thảo luận trên mỗi thị trường",
+        "Sơn tĩnh điện và hoàn thiện chống ăn mòn",
+        "Các lựa chọn chứng nhận được thảo luận trên mỗi thị trường đích"
       ],
-      "tableTitle": "Mô hình xi lanh propan tiêu chuẩn",
+      "tableTitle": "Mẫu xi lanh WG-P tiêu chuẩn",
       "headers": [
         "Model",
         "Khối lượng (L)",
@@ -768,10 +807,10 @@
       "intro": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung.",
       "features": [
         "Công suất đầu ra 3–100 m³/h",
-        "Cấp nước & cacbua tự động",
-        "Hệ thống an toàn & lọc",
+        "Các tùy chọn cấp nước và cacbua được thảo luận trên mỗi mô hình",
+        "Hệ thống an toàn và lọc theo quy định cho model",
         "Mô hình nhỏ gọn và công nghiệp",
-        "Tài liệu và đào tạo đầy đủ"
+        "Tài liệu đặt hàng được cung cấp. Đào tạo người vận hành có thể được thảo luận theo yêu cầu"
       ],
       "tableTitle": "Mô hình máy phát điện axetylen",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Máy phát điện được cung cấp hệ thống làm mát, bộ lọc và bộ phụ tùng thay thế theo yêu cầu."
     },
     "accessories": {
-      "title": "Phụ kiện & phụ kiện xi lanh",
+      "title": "Phụ kiện hàn & phụ kiện xi lanh",
       "intro": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh.",
       "features": [
         "Bộ điều chỉnh và đồng hồ đo (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Đuốc",
           "WG-C100, WG-C300",
           "—",
-          "Cắt plasma/oxy"
+          "Cắt nhiên liệu oxy"
         ],
         [
           "Đầu đốt",
@@ -881,7 +920,7 @@
           "Tất cả các loại xi lanh"
         ]
       ],
-      "note": "* Phụ kiện có sẵn riêng biệt hoặc đi kèm với xi lanh. Giảm giá trên đơn đặt hàng kết hợp."
+      "note": "* Phụ kiện có thể được trích dẫn riêng hoặc kèm theo xi lanh. Giá đặt hàng kết hợp được xác nhận trong báo giá."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Xuất khẩu & Hậu cần",
-        "desc": "Hỗ trợ vận chuyển quốc tế hoàn chỉnh.",
+        "desc": "Phối hợp đóng gói và vận chuyển xuất khẩu cho người mua ở nước ngoài.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Xuất tài liệu",
-          "Vận tải đường biển và đường sắt"
+          "Tùy chọn vận chuyển đường biển và đường sắt"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kiểm soát chất lượng",
-        "desc": "Kiểm tra và kiểm tra ở mọi giai đoạn.",
+        "desc": "Kiểm tra, thử nghiệm trong quá trình sản xuất theo đơn đặt hàng.",
         "points": [
           "Kiểm tra thủy tĩnh",
-          "Kiểm tra mối hàn UT",
-          "Kiểm tra SGS/BV theo yêu cầu"
+          "Kiểm tra mối hàn theo quy định",
+          "Kiểm tra của bên thứ ba theo yêu cầu"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Chứng nhận",
         "desc": "Tài liệu dành cho hải quan và cơ quan quản lý. Bản sao được gửi riêng theo yêu cầu.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & giấy chứng nhận chất lượng",
-          "Giấy chứng nhận xuất xứ"
+          "Các tiêu chuẩn được thảo luận trên mỗi sản phẩm và thị trường",
+          "MSDS và tài liệu chất lượng theo yêu cầu",
+          "Giấy chứng nhận xuất xứ theo yêu cầu"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Giúp lựa chọn sản phẩm và cấu hình.",
         "points": [
           "Lựa chọn dựa trên thị trường",
-          "Tính toán moq và thời gian giao hàng",
-          "Đào tạo nhân viên"
+          "MOQ và thời gian giao hàng được thảo luận trên mỗi đơn hàng",
+          "Hướng dẫn vận hành được thảo luận theo yêu cầu"
         ]
       },
       {
         "icon": "📦",
         "title": "Gói cung cấp",
-        "desc": "Xi lanh + phụ kiện theo một thứ tự.",
+        "desc": "Xi lanh và phụ kiện theo một thứ tự.",
         "points": [
-          "Hợp đồng duy nhất",
+          "Yêu cầu duy nhất",
           "Phối hợp giao hàng",
-          "Giảm giá theo gói"
+          "Định giá theo thứ tự kết hợp trong báo giá"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Chai chứa khí bằng thép liền mạch - yêu cầu kỹ thuật"
+        "desc": "Bình chứa khí bằng thép liền mạch có thể nạp lại - thép được tôi và tôi luyện. Thảo luận theo sản phẩm và thị trường đích."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Xi lanh axetylen hòa tan"
+        "desc": "Chai chứa khí - Chai chứa khí bằng thép liền mạch có thể nạp lại - Thiết kế, kết cấu và thử nghiệm - Phần 3: Chai thép tiêu chuẩn hóa Không phải là tiêu chuẩn xi lanh axetylen (xem ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Chai chứa axetylen - Yêu cầu cơ bản và thử nghiệm điển hình Thảo luận về các sản phẩm axetylen khi được yêu cầu. Khả năng áp dụng được xác nhận cho mỗi đơn hàng."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Tiêu chuẩn xi lanh thị trường Hoa Kỳ - khả năng áp dụng được xác nhận cho mỗi sản phẩm và đơn đặt hàng"
+        "desc": "Thông số kỹ thuật của Hoa Kỳ đối với xi lanh thép liền mạch - khả năng ứng dụng được xác nhận trên mỗi sản phẩm và đơn đặt hàng"
       },
       {
         "name": "TPED",
-        "desc": "Yêu cầu vận chuyển của Châu Âu - được thảo luận trên mỗi thị trường điểm đến"
+        "desc": "Chỉ thị về thiết bị áp lực có thể vận chuyển của EU - được thảo luận trên mỗi thị trường đích"
       },
       {
         "name": "GB 5099",
-        "desc": "Tiêu chuẩn xi lanh khí Trung Quốc"
+        "desc": "Tiêu chuẩn quốc gia Trung Quốc về bình chứa khí bằng thép liền mạch - khả năng áp dụng được xác nhận trên mỗi sản phẩm và đơn đặt hàng"
       },
       {
         "name": "CE Mark",
-        "desc": "Đánh dấu sự phù hợp của Châu Âu - khả năng áp dụng cho mỗi sản phẩm và thị trường"
+        "desc": "Đánh dấu sự phù hợp của Châu Âu - khả năng áp dụng cho mỗi sản phẩm và thị trường. Không thay thế cho tệp chứng chỉ được xuất bản."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Người mua nói gì",
+    "title": "Những gì người mua công nghiệp thường yêu cầu",
     "items": [
       {
-        "quote": "Chúng tôi đã đặt hàng lại bình axetylen 40L ba lần trong năm nay. Van GOST, màu OEM và bao bì xuất khẩu luôn khớp với mẫu đầu tiên.",
-        "author": "Rustam Yusupov",
-        "role": "Chủ sở hữu, nhà phân phối khí hàn",
-        "country": "Uzbekistan"
+        "quote": "Màu OEM, loại van và bao bì xuất khẩu phù hợp với mẫu đã được xác nhận trước khi cung cấp lại.",
+        "author": "Distributor inquiries",
+        "role": "Cung cấp khí hàn",
+        "country": "Central Asia"
       },
       {
-        "quote": "Báo giá đến cùng ngày với moq và thời gian giao hàng rõ ràng. Chai propan được giao đến với van POL và danh sách đóng gói đầy đủ - phía chúng tôi không có sự chậm trễ hải quan nào.",
-        "author": "Aigerim Bekova",
-        "role": "Giám đốc mua sắm, cung ứng công nghiệp",
-        "country": "Kazakhstan"
+        "quote": "Xóa MOQ, thời gian giao hàng và danh sách đóng gói được xác nhận trong báo giá - không phải là giá cố định trên trang web.",
+        "author": "Procurement inquiries",
+        "role": "Cung cấp công nghiệp",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Chúng tôi mua xi lanh có bộ điều chỉnh và ống mềm theo đơn đặt hàng container. Các tài liệu và nhãn hiệu đã sẵn sàng cho thị trường của chúng tôi nên việc bán lại rất đơn giản.",
-        "author": "Faisal Al-Harbi",
-        "role": "Mua bán nhập khẩu, kinh doanh thiết bị gas",
-        "country": "Saudi Arabia"
+        "quote": "Xi lanh có bộ điều chỉnh và ống mềm được báo giá theo một đơn đặt hàng kết hợp, với việc đánh dấu được thảo luận cho thị trường đích.",
+        "author": "Import inquiries",
+        "role": "Kinh doanh thiết bị gas",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Chúng tôi là ai",
     "title": "Nhà sản xuất công nghiệp dành cho người mua B2B",
-    "text": "Wanda Groups sản xuất và cung cấp bình gas công nghiệp, máy phát điện và phụ kiện hàn cho các nhà phân phối ở nước ngoài, đối tác OEM và người mua dự án.",
+    "text": "Wanda Groups sản xuất và cung cấp bình gas công nghiệp, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho các nhà phân phối ở nước ngoài, đối tác OEM và người mua dự án.",
     "text2": "Trọng tâm của chúng tôi là cung cấp liên kết với nhà máy, hỗ trợ lựa chọn sản phẩm, đặt hàng số lượng lớn và điều phối xuất khẩu - chứ không phải doanh số bán lẻ cho người tiêu dùng.",
     "cta": "Tìm hiểu thêm về chúng tôi"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Sẵn sàng để yêu cầu báo giá?",
       "quoteCta": "Yêu cầu báo giá",
       "relatedProducts": "Sản phẩm liên quan",
+      "productFamilies": "Họ sản phẩm",
       "applications": "Applications",
       "standardsTitle": "Tiêu chuẩn & chứng nhận",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Nhà sản xuất xi lanh khí | OEM công nghiệp và xuất khẩu | Nhóm Wanda",
-      "seoDescription": "Wanda Groups sản xuất bình gas công nghiệp, máy phát điện và phụ kiện hàn cho OEM, người mua bán buôn và xuất khẩu quốc tế."
+      "seoDescription": "Wanda Groups sản xuất bình gas công nghiệp, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho OEM, người mua bán buôn và xuất khẩu quốc tế."
     },
     "about": {
       "label": "Về chúng tôi",
       "title": "Nhà sản xuất bình gas cho người mua công nghiệp",
       "subtitle": "Chúng tôi hỗ trợ người mua ở nước ngoài trong việc lựa chọn sản phẩm, OEM, kiểm tra, đóng gói và vận chuyển.",
       "seoTitle": "Giới thiệu về tập đoàn Wanda",
-      "seoDescription": "Tập đoàn Wanda sản xuất xi lanh axetylen, xi lanh propan, máy phát điện và phụ kiện để hàn, cắt và cung cấp khí công nghiệp."
+      "seoDescription": "Tập đoàn Wanda sản xuất bình chứa axetylen, propan và LPG, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho các khách hàng xuất khẩu công nghiệp."
     },
     "products": {
       "label": "Các sản phẩm",
       "title": "Sản phẩm của chúng tôi",
-      "subtitle": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+      "subtitle": "Bình chứa axetylen, propan và LPG, máy phát điện, phụ kiện hàn và thiết bị làm lạnh cho người mua công nghiệp.",
       "seoTitle": "Sản phẩm xi lanh khí",
-      "seoDescription": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+      "seoDescription": "Bình chứa axetylen, propan và LPG, máy tạo khí axetylen, phụ kiện hàn và thiết bị làm lạnh của Tập đoàn Wanda.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Xi lanh axetylen hòa tan",
           "overview": "Bình thép có khối xốp và dung môi để bảo quản và vận chuyển axetylen an toàn. Được sử dụng trong hàn, cắt, hàn và chế tạo kim loại.",
+          "application": "Hàn, cắt và hàn bằng oxy-axetylen",
           "seoTitle": "Xi lanh khí axetylen",
           "seoDescription": "Bình thép có khối xốp và dung môi để bảo quản và vận chuyển axetylen an toàn. Được sử dụng trong hàn, cắt, hàn và chế tạo kim loại."
         },
         "propane": {
           "name": "Xi lanh propan",
-          "overview": "Xi lanh thép để lưu trữ và vận chuyển khí propan. Được sử dụng để sưởi ấm, cung cấp propan công nghiệp, nấu ăn và cắt nhiên liệu oxy khi kết hợp với axetylen.",
+          "overview": "Xi lanh thép được chỉ định để nạp khí propan. Được sử dụng để sưởi ấm, cung cấp propan công nghiệp, nấu ăn và cắt nhiên liệu oxy khi kết hợp với axetylen.",
+          "application": "Cung cấp máy sưởi, cắt và cung cấp khí propan công nghiệp",
+          "familyNote": "Xi lanh propan và xi lanh LPG sử dụng cùng một dòng xi lanh thép WG-P. Trang này đề cập đến việc nạp khí propan và cách sử dụng cụ thể cho khí propan. Hỗn hợp LPG và nguồn cung cấp phân phối được mô tả trên trang Bình chứa LPG.",
           "seoTitle": "Xi lanh khí propan",
-          "seoDescription": "Bình chứa khí propan bằng thép dùng cho các ứng dụng sưởi ấm, cung cấp công nghiệp và cắt. Các tùy chọn xuất khẩu và OEM được thảo luận trên mỗi đơn hàng."
+          "seoDescription": "Xi lanh thép để nạp propan - sưởi ấm, cung cấp công nghiệp và cắt nhiên liệu oxy. Cùng phạm vi WG-P như LPG; nạp gas theo quy định cho mỗi đơn hàng."
         },
         "lpg": {
           "name": "Xi lanh LPG",
-          "overview": "Xi lanh dùng cho khí dầu mỏ hóa lỏng (LPG) - propan, butan hoặc hỗn hợp hỗn hợp. Phổ biến để phân phối LPG dân dụng và thương mại, cắm trại, sưởi ấm và cung cấp nhiên liệu di động.",
+          "overview": "Xi lanh dùng cho khí dầu mỏ hóa lỏng (LPG) - propan, butan hoặc hỗn hợp hỗn hợp. Được sử dụng để phân phối LPG dân dụng và thương mại, cắm trại, sưởi ấm và cung cấp nhiên liệu di động.",
+          "application": "Phân phối LPG, nhiên liệu di động và sưởi ấm bằng hỗn hợp",
+          "familyNote": "Xi lanh LPG và xi lanh propan sử dụng cùng một dòng xi lanh thép WG-P. Trang này đề cập đến việc pha trộn và sử dụng phân phối LPG. Việc sử dụng propan chỉ chứa propan và sử dụng propan công nghiệp được mô tả trên trang Xi lanh propan.",
           "seoTitle": "Xi lanh khí LPG",
-          "seoDescription": "Xi lanh LPG dùng để phân phối và cung cấp khí đốt hóa lỏng dân dụng, thương mại và công nghiệp."
+          "seoDescription": "Chai LPG dùng để phân phối khí dầu mỏ hóa lỏng dân dụng, thương mại và công nghiệp. Cùng phạm vi WG-P như bình chứa khí propan; điền vào quy định cho mỗi đơn hàng."
         },
         "industrial": {
           "name": "Xi lanh khí công nghiệp",
           "overview": "Bình khí công nghiệp dùng cho hàn, cắt và cung cấp cho nhà máy — bao gồm các tùy chọn axetylen, propan và LPG phù hợp với thị trường của bạn.",
+          "application": "Cung cấp xi lanh cho nhà máy, nhà phân phối và dự án",
           "seoTitle": "Xi lanh khí công nghiệp",
           "seoDescription": "Bình gas công nghiệp phục vụ hàn, cắt và cung cấp cho nhà máy của Tập đoàn Wanda."
         },
         "generators": {
           "name": "Máy phát điện axetylen",
           "overview": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung.",
+          "application": "Sản xuất axetylen tại chỗ từ cacbua canxi",
           "seoTitle": "Máy phát điện axetylen",
           "seoDescription": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung."
         },
         "accessories": {
-          "name": "Phụ kiện & phụ kiện xi lanh",
+          "name": "Phụ kiện hàn & phụ kiện xi lanh",
           "overview": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh.",
-          "seoTitle": "Phụ kiện hàn",
-          "seoDescription": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh."
+          "application": "Thiết lập, bộ điều chỉnh, ống mềm, van và đồng hồ đo nhiên liệu oxy",
+          "seoTitle": "Phụ kiện hàn & phụ kiện xi lanh",
+          "seoDescription": "Phụ kiện hàn và phụ kiện xi lanh - bộ điều chỉnh, ống mềm, đồng hồ đo, đèn khò và van, được cung cấp cùng với xi lanh hoặc riêng biệt."
         },
         "refrigeration": {
           "name": "Đơn vị làm lạnh",
           "overview": "Một dòng sản phẩm riêng của Wanda Group — không phải danh mục của bên thứ ba. Thiết bị ngưng tụ, phòng lạnh và phần cứng, được chúng tôi cung cấp kèm theo xi lanh hoặc theo đơn đặt hàng độc lập.",
+          "application": "Phòng lạnh, dây chuyền lạnh thực phẩm và làm mát công nghiệp",
           "seoTitle": "Đơn vị làm lạnh",
-          "seoDescription": "Một dòng sản phẩm riêng của Wanda Group — không phải danh mục của bên thứ ba. Thiết bị ngưng tụ, phòng lạnh và phần cứng, được chúng tôi cung cấp kèm theo xi lanh hoặc theo đơn đặt hàng độc lập."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

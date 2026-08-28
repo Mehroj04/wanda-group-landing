@@ -121,6 +121,13 @@ export function buildSiteNav() {
   const links = [
     ['Home', '/'],
     ['Products', '/products'],
+    ['Acetylene cylinders', '/products/acetylene-cylinders'],
+    ['Propane cylinders', '/products/propane-cylinders'],
+    ['LPG cylinders', '/products/lpg-cylinders'],
+    ['Industrial gas cylinders', '/products/industrial-gas-cylinders'],
+    ['Acetylene generators', '/products/generators'],
+    ['Welding accessories', '/products/welding-accessories'],
+    ['Refrigeration', '/products/refrigeration'],
     ['About', '/about'],
     ['Factory', '/factory'],
     ['Certifications', '/certifications'],

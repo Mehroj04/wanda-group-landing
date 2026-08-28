@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Producent przemysłowych butli gazowych",
     "title": "Producent butli i sprzętu do gazów przemysłowych",
-    "subtitle": "Produkcja, dostawa OEM i hurtowa butli acetylenu, butli z propanem/LPG, generatorów i akcesoriów spawalniczych dla międzynarodowych odbiorców eksportowych.",
+    "subtitle": "Produkcja, dostawa OEM i hurtowa butli do acetylenu, propanu i LPG, generatorów, akcesoriów spawalniczych i sprzętu chłodniczego dla międzynarodowych odbiorców eksportowych.",
     "lineGas": "Butle gazowe",
     "lineCold": "Agregaty chłodnicze",
     "cta": "Uzyskaj wycenę",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Nasze produkty",
-    "subtitle": "Butle z acetylenem, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
+    "subtitle": "Butle z acetylenem, propanem i LPG, generatory, akcesoria spawalnicze i urządzenia chłodnicze dla odbiorców przemysłowych.",
     "viewDetails": "Zobacz szczegóły",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Butla z propanem",
         "spec": "3L–50L · opcje zaworów na rynek",
-        "desc": "Trwałe butle LPG do ogrzewania, cięcia i zastosowań przemysłowych.",
+        "desc": "Butle stalowe do napełniania propanem – ogrzewanie, cięcie i zaopatrzenie przemysłowe.",
         "icon": "🛢️"
       },
       {
-        "title": "Akcesoria do cylindrów",
+        "title": "Akcesoria spawalnicze",
         "spec": "Zawory · regulatory · węże · palniki",
-        "desc": "Pasujące okucia dostarczane z cylindrami lub jako osobne zamówienie.",
+        "desc": "Akcesoria spawalnicze i złączki do butli, dostarczane z butlami lub osobno.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Chłodnie farmaceutyczne i medyczne",
       "Logistyka i transport chłodniczy",
       "Chłodzenie przemysłowe i agregaty chłodnicze procesowe"
+    ],
+    "acetylene": [
+      "Spawanie tlenowo-acetylenowe",
+      "Cięcie tlenowo-paliwowe",
+      "Lutowanie i ogrzewanie",
+      "Zakłady obróbki metalu",
+      "Prace stoczniowe i konserwacyjne"
+    ],
+    "propane": [
+      "Przemysłowe ogrzewanie propanem",
+      "Cięcie tlenowo-paliwowe acetylenem",
+      "Ogrzewanie warsztatowe i budowlane",
+      "Zaopatrzenie w propan roślinny",
+      "Ciepło gotowania i przetwarzania, jeśli określono propan"
+    ],
+    "lpg": [
+      "Dystrybucja LPG w budynkach mieszkalnych i komercyjnych",
+      "Przenośne źródło paliwa LPG",
+      "Gaz kempingowy i gastronomiczny",
+      "Ogrzewanie mieszankami LPG",
+      "Hurtownia napełniania butli LPG na rynki lokalne"
+    ],
+    "industrial": [
+      "Dostawa gazu do spawania i cięcia",
+      "Zapas cylindrów w fabryce i warsztacie",
+      "Dystrybutor przemysłowych linii gazowych",
+      "Projekty i place budowy"
+    ],
+    "generators": [
+      "Produkcja acetylenu na miejscu z węglika wapnia",
+      "Warsztaty bez zaopatrzenia w acetylen w butlach",
+      "Spawanie i cięcie tam, gdzie logistyka butli jest ograniczona",
+      "Obiekty przemysłowe wymagające lokalnego źródła acetylenu"
+    ],
+    "accessories": [
+      "Zespoły cylindrów i regulatorów",
+      "Instalacje do spawania i cięcia tlenowego",
+      "Wymiana węża, manometru i zaworu",
+      "Armatura zabezpieczająca do obsługi gazu w warsztacie"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Producent butli gazowych dla odbiorców przemysłowych",
-    "text": "Grupa Wanda produkuje butle z acetylenem, butle z propanem, generatory oraz akcesoria do spawania, cięcia i zaopatrzenia w gaz przemysłowy.",
+    "text": "Grupa Wanda zajmuje się produkcją butli do acetylenu, propanu i LPG, generatorów i akcesoriów spawalniczych, a także dostarcza urządzenia chłodnicze dla odbiorców przemysłowych.",
     "text2": "Wspieramy zagranicznych nabywców w wyborze produktów, OEM, kontroli, pakowaniu i wysyłce.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Jakie produkty głównie dostarczacie?",
-            "a": "Dostarczamy butle z acetylenem, butle z propanem, generatory acetylenu oraz akcesoria do butli gazowych, takie jak zawory, reduktory, węże, manometry i palniki."
+            "a": "Dostarczamy butle z acetylenem, butle z propanem i LPG, generatory acetylenu, akcesoria do butli gazowych i sprzęt chłodniczy jako oddzielną linię produktów."
           },
           {
             "q": "Czy możesz wesprzeć dostosowywanie OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Czy mogę obejrzeć filmy fabryczne przed złożeniem zamówienia?",
-            "a": "Tak. Obejrzyj filmy produkcyjne w sekcji Factory na tej stronie. Dodatkowy materiał filmowy, klipsy do pakowania i certyfikaty wysyłam prywatnie na życzenie."
+            "a": "Tak. Obejrzyj filmy produkcyjne na stronie fabryki. Dodatkowe nagrania, klipsy do pakowania i kopie certyfikatów wysyłamy prywatnie na życzenie."
           },
           {
             "q": "Czy udostępniasz filmy dotyczące produktów, zwłaszcza butli z acetylenem?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Czy akcesoria można zamówić razem z butlami gazowymi?",
-            "a": "Tak. Akcesoria mogą być dostarczane razem z butlami acetylenu, butlami z propanem i generatorami acetylenu."
+            "a": "Tak. Akcesoria mogą być dostarczane razem z butlami acetylenu, propanu i LPG oraz generatorami acetylenu."
           },
           {
             "q": "Czy wspierasz pakowanie OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Uzyskaj dokładną wycenę",
     "certifications": "Certyfikaty",
     "order": "Zamówienie",
-    "reviews": "Recenzje",
+    "reviews": "Notatki kupującego",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Lokalizacja",
@@ -587,7 +626,7 @@
     "exportReady": "Eksport gotowy",
     "years": "Lata",
     "acetylene": "Acetylene",
-    "isoCertified": "Certyfikat ISO",
+    "isoCertified": "Normy na żądanie",
     "globalExport": "Globalny eksport",
     "products": "Produkty",
     "specs": "Dane techniczne",
@@ -695,16 +734,16 @@
       "note": "* Dokładne parametry zależą od standardu (ISO/DOT/GB) i konfiguracji zaworu. Poproś o arkusz specyfikacji dla swojego rynku."
     },
     "propane": {
-      "title": "Butle z propanem i LPG",
-      "intro": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy.",
+      "title": "Seria cylindrów WG-P",
+      "intro": "Modele WG-P stanowią jedną rodzinę cylindrów stalowych. Gaz wypełniający — propan lub LPG (propan, butan lub mieszanki) — jest określony w zależności od zamówienia i rynku docelowego.",
       "features": [
-        "Stal 37Mn/34CrMo4 zgodnie z ISO 9809",
+        "Gatunek stali i obowiązująca norma cylindra potwierdzane na zamówienie",
         "Ciśnienie robocze 1,8–2,1 MPa",
-        "Zawory POL, CGA 510, GOST",
-        "Malowanie proszkowe, antykorozyjne",
-        "Certyfikaty na rynki UE, USA, WNP"
+        "Zawory POL, CGA 510, GOST omówione według rynku",
+        "Malowanie proszkowe i wykończenie antykorozyjne",
+        "Opcje certyfikacji omówione dla poszczególnych rynków docelowych"
       ],
-      "tableTitle": "Standardowe modele butli z propanem",
+      "tableTitle": "Standardowe modele cylindrów WG-P",
       "headers": [
         "Model",
         "Objętość (L)",
@@ -768,10 +807,10 @@
       "intro": "Urządzenia do produkcji acetylenu z węglika wapnia. Stabilne dostawy gazu dla potrzeb spawalniczych i przemysłowych bez scentralizowanej infrastruktury gazowej.",
       "features": [
         "Wydajność 3–100 m³/h",
-        "Automatyczne podawanie wody i węglika",
-        "System bezpieczeństwa i filtracja",
+        "Opcje podawania wody i węglika omówione dla każdego modelu",
+        "System bezpieczeństwa i filtracja zgodnie z specyfikacją modelu",
         "Modele kompaktowe i przemysłowe",
-        "Pełna dokumentacja i szkolenie"
+        "Dostarczona dokumentacja zamówienia. Szkolenie operatora można omówić na życzenie"
       ],
       "tableTitle": "Modele generatorów acetylenu",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatory dostarczane z układem chłodzenia, filtrami i zestawem części zamiennych na życzenie."
     },
     "accessories": {
-      "title": "Akcesoria i złączki do cylindrów",
+      "title": "Akcesoria spawalnicze i złączki do cylindrów",
       "intro": "Kompletny asortyment do bezpiecznej obsługi butli z gazem: od manometrów po palniki spawalnicze. Kompleksowe zaopatrzenie w butle.",
       "features": [
         "Regulatory i mierniki (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Pochodnie",
           "WG-C100, WG-C300",
           "—",
-          "Cięcie plazmowe/tlenowe"
+          "Cięcie tlenowo-paliwowe"
         ],
         [
           "Palniki",
@@ -881,7 +920,7 @@
           "Wszystkie typy cylindrów"
         ]
       ],
-      "note": "* Akcesoria dostępne osobno lub w zestawie z cylindrami. Rabat na zamówienia łączone."
+      "note": "* Akcesoria mogą być wyceniane osobno lub razem z cylindrami. Cenę zamówienia łączonego potwierdza się w ofercie."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Eksport i logistyka",
-        "desc": "Pełna obsługa przesyłek międzynarodowych.",
+        "desc": "Koordynacja pakowania eksportowego i wysyłki dla odbiorców zagranicznych.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Dokumentacja eksportowa",
-          "Transport morski i kolejowy"
+          "Opcje frachtu morskiego i kolejowego"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrola jakości",
-        "desc": "Testowanie i kontrola na każdym etapie.",
+        "desc": "Kontrola i badania podczas produkcji zgodnie z zamówieniem.",
         "points": [
           "Badania hydrostatyczne",
-          "Kontrola spoin UT",
-          "Kontrola SGS/BV na żądanie"
+          "Kontrola spoiny zgodnie ze specyfikacją",
+          "Kontrola zewnętrzna na żądanie"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Orzecznictwo",
         "desc": "Dokumenty dla organów celnych i organów regulacyjnych. Kopie wysyłamy prywatnie na życzenie.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "Karta charakterystyki i certyfikat jakości",
-          "Świadectwo pochodzenia"
+          "Normy omówione według produktu i rynku",
+          "Karty charakterystyki i dokumenty jakościowe na żądanie",
+          "Świadectwo pochodzenia na życzenie"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pomoc w wyborze produktów i konfiguracji.",
         "points": [
           "Wybór oparty na rynku",
-          "Obliczanie MOQ i czasu realizacji",
-          "Szkolenie personelu"
+          "MOQ i czas realizacji omówione dla każdego zamówienia",
+          "Wytyczne dla operatora omawiane na żądanie"
         ]
       },
       {
         "icon": "📦",
         "title": "Dostawa pakietu",
-        "desc": "Cylindry + akcesoria w jednym zamówieniu.",
+        "desc": "Siłowniki i akcesoria w jednym zamówieniu.",
         "points": [
-          "Umowa pojedyncza",
+          "Pojedyncze zapytanie",
           "Skoordynowana dostawa",
-          "Rabat na pakiet"
+          "Ceny dla zamówień łączonych w ofercie"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Bezszwowe butle do gazów stalowe – wymagania techniczne"
+        "desc": "Butle gazowe ze stali bezszwowej wielokrotnego napełniania — ze stali hartowanej i odpuszczanej. Omówiono według produktu i rynku docelowego."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Butle z rozpuszczonym acetylenem"
+        "desc": "Butle do gazu — Butle stalowe bez szwu, wielokrotnego napełniania — projektowanie, konstrukcja i testowanie — Część 3: Znormalizowane butle stalowe. Nie jest to norma dotycząca butli acetylenowych (patrz ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Butle z acetylenem – wymagania podstawowe i badanie typu. Omawiane na żądanie w odniesieniu do produktów acetylenowych. Możliwość zastosowania potwierdzana jest na podstawie zamówienia."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Standard butli na rynku amerykańskim — zastosowanie potwierdzone dla każdego produktu i zamówienia"
+        "desc": "Specyfikacja amerykańska dotycząca butli stalowych bez szwu — zastosowanie potwierdzone dla każdego produktu i zamówienia"
       },
       {
         "name": "TPED",
-        "desc": "Europejskie wymagania transportowe – omówione dla poszczególnych rynków docelowych"
+        "desc": "Dyrektywa UE w sprawie ciśnieniowych urządzeń transportowych – omówiona dla poszczególnych rynków docelowych"
       },
       {
         "name": "GB 5099",
-        "desc": "Chińska norma dotycząca butli gazowych"
+        "desc": "Chińska norma krajowa dotycząca butli gazowych ze stali bez szwu — zastosowanie potwierdzone dla każdego produktu i zamówienia"
       },
       {
         "name": "CE Mark",
-        "desc": "Europejskie oznakowanie zgodności — zastosowanie dla każdego produktu i rynku"
+        "desc": "Europejskie oznakowanie zgodności — zastosowanie dla każdego produktu i rynku. Nie zastępuje opublikowanego pliku certyfikatu."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Co mówią kupujący",
+    "title": "O co zazwyczaj proszą nabywcy przemysłowi",
     "items": [
       {
-        "quote": "W tym roku trzy razy zamawialiśmy butle z acetylenem o pojemności 40 litrów. Zawory GOST, kolor OEM i opakowanie eksportowe za każdym razem odpowiadały pierwszej próbce.",
-        "author": "Rustam Yusupov",
-        "role": "Właściciel, dystrybutor gazów spawalniczych",
-        "country": "Uzbekistan"
+        "quote": "Kolor OEM, typ zaworu i opakowanie eksportowe dopasowane do potwierdzonej próbki przed powtórną dostawą.",
+        "author": "Distributor inquiries",
+        "role": "Zasilanie gazem spawalniczym",
+        "country": "Central Asia"
       },
       {
-        "quote": "Wycena przyszła tego samego dnia z wyraźnym MOQ i czasem realizacji. Butelki z propanem dotarły z zaworami POL i pełną listą przewozową — z naszej strony nie było żadnych opóźnień celnych.",
-        "author": "Aigerim Bekova",
-        "role": "Kierownik zakupów, zaopatrzenie przemysłu",
-        "country": "Kazakhstan"
+        "quote": "Wyczyść MOQ, czas realizacji i listę pakowania potwierdzoną w ofercie — a nie jako stałe ceny na stronie internetowej.",
+        "author": "Procurement inquiries",
+        "role": "Zaopatrzenie przemysłowe",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Butle z reduktorami i wężami kupujemy w ramach jednego zamówienia kontenerowego. Dokumenty i oznaczenia były gotowe na nasz rynek, więc odsprzedaż była prosta.",
-        "author": "Faisal Al-Harbi",
-        "role": "Kupiec importowy, handel sprzętem gazowym",
-        "country": "Saudi Arabia"
+        "quote": "Butle wraz z reduktorami i wężami wyceniane są jako jedno łączne zamówienie, z oznaczeniem omawianym dla rynku docelowego.",
+        "author": "Import inquiries",
+        "role": "Handel sprzętem gazowym",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kim jesteśmy",
     "title": "Producent przemysłowy dla odbiorców B2B",
-    "text": "Grupa Wanda produkuje i dostarcza przemysłowe butle do gazów, generatory i akcesoria spawalnicze dla dystrybutorów zagranicznych, partnerów OEM i odbiorców projektów.",
+    "text": "Grupa Wanda produkuje i dostarcza przemysłowe butle do gazów, generatory, akcesoria spawalnicze i urządzenia chłodnicze dla dystrybutorów zagranicznych, partnerów OEM i odbiorców projektów.",
     "text2": "Skupiamy się na dostawach powiązanych z fabryką, wsparciu w wyborze produktów, zamówieniach masowych i koordynacji eksportu, a nie na sprzedaży detalicznej konsumentów.",
     "cta": "Dowiedz się więcej o nas"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Chcesz poprosić o wycenę?",
       "quoteCta": "Poproś o wycenę",
       "relatedProducts": "Powiązane produkty",
+      "productFamilies": "Rodziny produktów",
       "applications": "Applications",
       "standardsTitle": "Normy i certyfikaty",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Producent butli gazowych | Przemysłowy OEM i eksport | Grupy Wandy",
-      "seoDescription": "Wanda Groups produkuje przemysłowe butle do gazów, generatory i akcesoria spawalnicze dla odbiorców OEM, hurtowych i międzynarodowych."
+      "seoDescription": "Grupa Wanda produkuje przemysłowe butle do gazów, generatory, akcesoria spawalnicze i urządzenia chłodnicze dla odbiorców OEM, hurtowych i międzynarodowych."
     },
     "about": {
       "label": "O nas",
       "title": "Producent butli gazowych dla odbiorców przemysłowych",
       "subtitle": "Wspieramy zagranicznych nabywców w wyborze produktów, OEM, kontroli, pakowaniu i wysyłce.",
       "seoTitle": "O Grupie Wanda",
-      "seoDescription": "Grupa Wanda produkuje butle z acetylenem, butle z propanem, generatory oraz akcesoria do spawania, cięcia i zaopatrzenia w gaz przemysłowy."
+      "seoDescription": "Grupa Wanda produkuje butle do acetylenu, propanu i LPG, generatory, osprzęt spawalniczy oraz urządzenia chłodnicze dla przemysłowych odbiorców eksportowych."
     },
     "products": {
       "label": "Produkty",
       "title": "Nasze produkty",
-      "subtitle": "Butle z acetylenem, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
+      "subtitle": "Butle z acetylenem, propanem i LPG, generatory, akcesoria spawalnicze i urządzenia chłodnicze dla odbiorców przemysłowych.",
       "seoTitle": "Produkty z butli gazowych",
-      "seoDescription": "Butle z acetylenem, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
+      "seoDescription": "Butle z acetylenem, propanem i LPG, generatory acetylenu, akcesoria spawalnicze i urządzenia chłodnicze firmy Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Butle z rozpuszczonym acetylenem",
           "overview": "Butle stalowe z porowatą masą i rozpuszczalnikiem do bezpiecznego przechowywania i transportu acetylenu. Stosowany przy spawaniu, cięciu, lutowaniu twardym i obróbce metali.",
+          "application": "Spawanie, cięcie i lutowanie tlenowo-acetylenowe",
           "seoTitle": "Butle z acetylenem",
           "seoDescription": "Butle stalowe z porowatą masą i rozpuszczalnikiem do bezpiecznego przechowywania i transportu acetylenu. Stosowany przy spawaniu, cięciu, lutowaniu twardym i obróbce metali."
         },
         "propane": {
           "name": "Butle z propanem",
-          "overview": "Butle stalowe do przechowywania i transportu gazu propanowego. Stosowany do ogrzewania, przemysłowego zaopatrzenia w propan, gotowania i cięcia tlenowo-paliwowego w połączeniu z acetylenem.",
+          "overview": "Butle stalowe przeznaczone do napełniania propanem. Stosowany do ogrzewania, przemysłowego zaopatrzenia w propan, gotowania i cięcia tlenowo-paliwowego w połączeniu z acetylenem.",
+          "application": "Przemysłowe ogrzewanie propanem, cięcie i zaopatrzenie instalacji",
+          "familyNote": "Butle z propanem i butle LPG korzystają z tego samego asortymentu butli stalowych WG-P. Na tej stronie opisano napełnianie propanem i zastosowania specyficzne dla propanu. Mieszanki LPG i sposób dystrybucji opisano na stronie Butle LPG.",
           "seoTitle": "Butle z propanem",
-          "seoDescription": "Stalowe butle z propanem do zastosowań grzewczych, dostaw przemysłowych i cięcia. Opcje eksportu i OEM omawiane dla każdego zamówienia."
+          "seoDescription": "Butle stalowe do napełniania propanem — ogrzewanie, zaopatrzenie przemysłowe i cięcie tlenowe. Taki sam zakres WG-P jak LPG; wypełnić gazem określonym w zamówieniu."
         },
         "lpg": {
           "name": "Butle LPG",
-          "overview": "Butle na gaz płynny (LPG) – propan, butan lub mieszanki mieszane. Powszechnie stosowane w dystrybucji LPG w budynkach mieszkalnych i komercyjnych, na kempingach, w ogrzewaniu i w przenośnych instalacjach paliwowych.",
+          "overview": "Butle na gaz płynny (LPG) – propan, butan lub mieszanki mieszane. Stosowany do dystrybucji LPG w budynkach mieszkalnych i komercyjnych, na kempingach, w ogrzewaniu i przenośnym zaopatrzeniu w paliwo.",
+          "application": "Dystrybucja LPG, przenośne ogrzewanie na paliwo i mieszanki",
+          "familyNote": "Butle LPG i butle z propanem korzystają z tego samego asortymentu butli stalowych WG-P. Na tej stronie opisano mieszanki LPG i ich zastosowanie w dystrybucji. Napełnianie wyłącznie propanem i zastosowania propanu przemysłowego opisano na stronie Butle z propanem.",
           "seoTitle": "Butle z gazem LPG",
-          "seoDescription": "Butle LPG do dystrybucji skroplonego gazu ropopochodnego w budynkach mieszkalnych, komercyjnych i przemysłowych oraz do dystrybucji przenośnej."
+          "seoDescription": "Butle LPG do dystrybucji skroplonego gazu ziemnego w budynkach mieszkalnych, komercyjnych i przemysłowych. Ten sam zakres WG-P co butle z propanem; wypełnienie określone w zamówieniu."
         },
         "industrial": {
           "name": "Przemysłowe butle gazowe",
           "overview": "Przemysłowe butle gazowe do spawania, cięcia i zasilania instalacji — w tym opcje na acetylen, propan i LPG dopasowane do Twojego rynku.",
+          "application": "Dostawa butli do zakładu, dystrybutora i projektu",
           "seoTitle": "Przemysłowe butle gazowe",
           "seoDescription": "Przemysłowe butle gazowe do spawania, cięcia i zasilania instalacji firmy Wanda Group."
         },
         "generators": {
           "name": "Generatory acetylenu",
           "overview": "Urządzenia do produkcji acetylenu z węglika wapnia. Stabilne dostawy gazu dla potrzeb spawalniczych i przemysłowych bez scentralizowanej infrastruktury gazowej.",
+          "application": "Wytwarzanie acetylenu na miejscu z węglika wapnia",
           "seoTitle": "Generatory acetylenu",
           "seoDescription": "Urządzenia do produkcji acetylenu z węglika wapnia. Stabilne dostawy gazu dla potrzeb spawalniczych i przemysłowych bez scentralizowanej infrastruktury gazowej."
         },
         "accessories": {
-          "name": "Akcesoria i złączki do cylindrów",
+          "name": "Akcesoria spawalnicze i złączki do cylindrów",
           "overview": "Kompletny asortyment do bezpiecznej obsługi butli z gazem: od manometrów po palniki spawalnicze. Kompleksowe zaopatrzenie w butle.",
-          "seoTitle": "Akcesoria spawalnicze",
-          "seoDescription": "Kompletny asortyment do bezpiecznej obsługi butli z gazem: od manometrów po palniki spawalnicze. Kompleksowe zaopatrzenie w butle."
+          "application": "Instalacje tlenowo-paliwowe, regulatory, węże, zawory i mierniki",
+          "seoTitle": "Akcesoria spawalnicze i złączki do cylindrów",
+          "seoDescription": "Akcesoria spawalnicze i armatura do butli — reduktory, węże, manometry, palniki i zawory, dostarczane z butlami lub osobno."
         },
         "refrigeration": {
           "name": "Agregaty chłodnicze",
           "overview": "Odrębna linia Wanda Group — a nie katalog obcy. Agregaty skraplające, komory chłodnicze i osprzęt, dostarczane przez nas wraz z butlami lub jako samodzielne zamówienie.",
+          "application": "Komory chłodnicze, łańcuch chłodniczy żywności i chłodzenie przemysłowe",
           "seoTitle": "Jednostki chłodnicze",
-          "seoDescription": "Odrębna linia Wanda Group — a nie katalog obcy. Agregaty skraplające, komory chłodnicze i osprzęt, dostarczane przez nas wraz z butlami lub jako samodzielne zamówienie."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

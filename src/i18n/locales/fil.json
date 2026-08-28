@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Tagagawa ng Industrial Gas Cylinder",
     "title": "Tagagawa ng Mga Industrial Gas Cylinder at Equipment",
-    "subtitle": "Paggawa, OEM at pakyawan na supply ng acetylene cylinders, propane/LPG cylinders, generators at welding accessories para sa mga international export na mamimili.",
+    "subtitle": "Manufacturing, OEM at wholesale na supply ng acetylene, propane at LPG cylinders, generators, welding accessories at refrigeration equipment para sa mga international export na mamimili.",
     "lineGas": "Mga silindro ng gas",
     "lineCold": "Mga yunit ng pagpapalamig",
     "cta": "Kumuha ng Quote",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Aming Mga Produkto",
-    "subtitle": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
+    "subtitle": "Acetylene, propane at LPG cylinders, generators, welding accessories at refrigeration equipment para sa mga industrial na mamimili.",
     "viewDetails": "Tingnan ang mga Detalye",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Silindro ng propane",
         "spec": "3L–50L · mga opsyon sa balbula bawat merkado",
-        "desc": "Matibay na mga silindro ng LPG para sa pagpainit, paggupit at paggamit sa industriya.",
+        "desc": "Mga silindro ng bakal para sa propane fill — heating, cutting at industrial supply.",
         "icon": "🛢️"
       },
       {
-        "title": "Mga Kagamitan sa Silindro",
+        "title": "Mga Kagamitan sa Hinang",
         "spec": "Mga balbula · regulators · hose · mga sulo",
-        "desc": "Mga katugmang kabit na ibinibigay sa mga cylinder o bilang isang hiwalay na order.",
+        "desc": "Welding accessories at cylinder fittings, na ibinibigay sa mga cylinder o hiwalay.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Pharmaceutical at medikal na cold storage",
       "Logistics at pinalamig na transportasyon",
       "Pang-industriya na paglamig at mga panglamig ng proseso"
+    ],
+    "acetylene": [
+      "Oxy-acetylene welding",
+      "Pagputol ng oxy-fuel",
+      "Pagpapatigas at pag-init",
+      "Mga tindahan ng gawa sa metal",
+      "Paggawa ng shipyard at pagpapanatili"
+    ],
+    "propane": [
+      "Pang-industriya na pag-init ng propane",
+      "Oxy-fuel cutting na may acetylene",
+      "Pag-init ng workshop at konstruksiyon",
+      "Supply ng propane ng halaman",
+      "Pagluluto at proseso ng init kung saan tinukoy ang propane"
+    ],
+    "lpg": [
+      "Residential at komersyal na pamamahagi ng LPG",
+      "Portable LPG fuel supply",
+      "Camping at catering gas",
+      "Pag-init gamit ang LPG blends",
+      "Pakyawan pagpuno ng silindro ng LPG para sa mga lokal na pamilihan"
+    ],
+    "industrial": [
+      "Welding at pagputol ng supply ng gas",
+      "Stock ng silindro ng halaman at pagawaan",
+      "Mga linya ng pang-industriya na gas ng distributor",
+      "Mga lugar ng proyekto at konstruksyon"
+    ],
+    "generators": [
+      "On-site na produksyon ng acetylene mula sa calcium carbide",
+      "Mga workshop na walang supply ng de-boteng acetylene",
+      "Welding at cutting kung saan limitado ang cylinder logistics",
+      "Mga pang-industriyang lugar na nangangailangan ng lokal na mapagkukunan ng acetylene"
+    ],
+    "accessories": [
+      "Cylinder at regulator assemblies",
+      "Oxy-fuel welding at cutting setup",
+      "Pagpapalit ng hose, gauge at balbula",
+      "Mga kagamitang pangkaligtasan sa paghawak ng gas sa workshop"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Tagagawa ng silindro ng gas para sa mga mamimiling pang-industriya",
-    "text": "Gumagawa ang Wanda Group ng acetylene cylinders, propane cylinders, generators at accessories para sa welding, cutting at industrial gas supply.",
+    "text": "Gumagawa ang Wanda Group ng mga acetylene cylinder, propane at LPG cylinder, generator at welding accessories, at nagsu-supply din ng mga kagamitan sa pagpapalamig para sa mga industrial na mamimili.",
     "text2": "Sinusuportahan namin ang mga mamimili sa ibang bansa sa pagpili ng produkto, OEM, inspeksyon, pag-iimpake at pagpapadala.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Anong mga produkto ang pangunahin mong ibinibigay?",
-            "a": "Nagbibigay kami ng acetylene cylinders, propane cylinders, acetylene generators at gas cylinder accessories gaya ng valves, regulators, hose, pressure gauge at torches."
+            "a": "Nagbibigay kami ng mga acetylene cylinder, propane at LPG cylinders, acetylene generators, gas cylinder accessories, at refrigeration equipment bilang hiwalay na linya ng produkto."
           },
           {
             "q": "Maaari mo bang suportahan ang pag-customize ng OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Maaari ba akong manood ng mga factory video bago mag-order?",
-            "a": "Oo. Manood ng mga production video sa seksyong Factory sa page na ito. Ang mga karagdagang footage, mga packing clip at mga sertipiko ay ipinapadala nang pribado kapag hiniling."
+            "a": "Oo. Manood ng mga video ng produksyon sa pahina ng Pabrika. Ang mga karagdagang footage, packing clip at mga kopya ng sertipiko ay ipinapadala nang pribado kapag hiniling."
           },
           {
             "q": "Nagbibigay ka ba ng mga video ng produkto, lalo na para sa mga acetylene cylinders?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Maaari bang mag-order ng mga accessories kasama ng mga silindro ng gas?",
-            "a": "Oo. Maaaring ibigay ang mga accessory kasama ng mga acetylene cylinders, propane cylinders at acetylene generators."
+            "a": "Oo. Ang mga accessory ay maaaring ibigay kasama ng acetylene, propane at LPG cylinders at acetylene generators."
           },
           {
             "q": "Sinusuportahan mo ba ang OEM packing?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Kumuha ng Eksaktong Sipi",
     "certifications": "Mga Sertipikasyon",
     "order": "Umorder",
-    "reviews": "Mga pagsusuri",
+    "reviews": "Mga tala ng mamimili",
     "contact": "Contact",
     "phone": "Telepono",
     "location": "Lokasyon",
@@ -587,7 +626,7 @@
     "exportReady": "Handa na ang pag-export",
     "years": "taon",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO Certified",
+    "isoCertified": "Mga pamantayan sa kahilingan",
     "globalExport": "Pandaigdigang Pag-export",
     "products": "Mga produkto",
     "specs": "Mga pagtutukoy",
@@ -695,16 +734,16 @@
       "note": "* Nakadepende ang mga eksaktong parameter sa standard (ISO/DOT/GB) at configuration ng valve. Humiling ng spec sheet para sa iyong market."
     },
     "propane": {
-      "title": "Mga Silindro ng Propane at LPG",
-      "intro": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas.",
+      "title": "Saklaw ng silindro ng WG-P",
+      "intro": "Ang mga modelo ng WG-P ay isang pamilya ng silindro ng bakal. Fill gas — propane o LPG (propane, butane o blends) — ay tinukoy sa bawat order at patutunguhang merkado.",
       "features": [
-        "37Mn/34CrMo4 steel bawat ISO 9809",
+        "Ang grado ng bakal at naaangkop na pamantayan ng silindro ay nakumpirma sa bawat order",
         "Presyon sa pagtatrabaho 1.8–2.1 MPa",
-        "Mga balbula ng POL, CGA 510, GOST",
-        "Powder coating, anti-corrosion",
-        "Mga sertipiko para sa mga merkado ng EU, US, CIS"
+        "Mga balbula ng POL, CGA 510, GOST na tinalakay sa bawat merkado",
+        "Powder coating at anti-corrosion finish",
+        "Mga opsyon sa sertipikasyon na tinalakay sa bawat patutunguhang merkado"
       ],
-      "tableTitle": "Mga Karaniwang Modelo ng Propane Cylinder",
+      "tableTitle": "Karaniwang WG-P Cylinder Models",
       "headers": [
         "Model",
         "Dami (L)",
@@ -768,10 +807,10 @@
       "intro": "Kagamitan para sa paggawa ng acetylene mula sa calcium carbide. Matatag na suplay ng gas para sa hinang at mga pang-industriyang pangangailangan nang walang sentralisadong imprastraktura ng gas.",
       "features": [
         "Output 3–100 m³/h kapasidad",
-        "Awtomatikong tubig at carbide feed",
-        "Sistema ng kaligtasan at pagsasala",
+        "Mga opsyon sa pagpapakain ng tubig at karbida na tinalakay bawat modelo",
+        "Sistema ng kaligtasan at pagsasala gaya ng tinukoy para sa modelo",
         "Compact at pang-industriya na mga modelo",
-        "Buong dokumentasyon at pagsasanay"
+        "Ang dokumentasyon ng order ay ibinigay. Maaaring talakayin ang pagsasanay sa operator kapag hiniling"
       ],
       "tableTitle": "Mga Modelo ng Acetylene Generator",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Ang mga generator ay binibigyan ng cooling system, mga filter at spare parts kit kapag hiniling."
     },
     "accessories": {
-      "title": "Cylinder Accessories at Fittings",
+      "title": "Welding Accessories at Cylinder Fitting",
       "intro": "Kumpletong hanay para sa ligtas na pagpapatakbo ng silindro ng gas: mula sa mga panukat hanggang sa mga welding torches. One-stop na pagkuha gamit ang mga cylinder.",
       "features": [
         "Mga regulator at gauge (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Mga tanglaw",
           "WG-C100, WG-C300",
           "—",
-          "Pagputol ng plasma/oxy"
+          "Pagputol ng oxy-fuel"
         ],
         [
           "Mga burner",
@@ -881,7 +920,7 @@
           "Lahat ng uri ng silindro"
         ]
       ],
-      "note": "* Available ang mga accessory nang hiwalay o kasama ng mga cylinder. Diskwento sa pinagsamang mga order."
+      "note": "* Ang mga accessory ay maaaring banggitin nang hiwalay o kasama ng mga cylinder. Ang pagpepresyo ng pinagsamang order ay nakumpirma sa quotation."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "I-export at Logistics",
-        "desc": "Kumpletuhin ang suporta sa internasyonal na pagpapadala.",
+        "desc": "I-export ang packing at koordinasyon sa pagpapadala para sa mga mamimili sa ibang bansa.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "I-export ang dokumentasyon",
-          "Mga kargamento sa dagat at riles"
+          "Mga pagpipilian sa kargamento sa dagat at tren"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrol sa Kalidad",
-        "desc": "Pagsubok at inspeksyon sa bawat yugto.",
+        "desc": "Inspeksyon at pagsubok sa panahon ng produksyon ayon sa pagkakasunud-sunod.",
         "points": [
           "Mga pagsubok sa hydrostatic",
-          "UT weld inspeksyon",
-          "SGS/BV inspeksyon kapag hiniling"
+          "Inspeksyon ng weld gaya ng tinukoy",
+          "Third-party na inspeksyon kapag hiniling"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Sertipikasyon",
         "desc": "Mga dokumento para sa customs at regulators. Ang mga kopya ay ipinapadala nang pribado kapag hiniling.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS at sertipiko ng kalidad",
-          "Sertipiko ng pinagmulan"
+          "Mga pamantayang tinalakay sa bawat produkto at pamilihan",
+          "MSDS at mga de-kalidad na dokumento kapag hiniling",
+          "Sertipiko ng pinagmulan kapag hiniling"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Tumulong sa pagpili ng mga produkto at configuration.",
         "points": [
           "Pagpili batay sa merkado",
-          "MOQ at pagkalkula ng lead time",
-          "Pagsasanay ng mga tauhan"
+          "MOQ at lead time na tinalakay bawat order",
+          "Ang patnubay ng operator ay tinalakay kapag hiniling"
         ]
       },
       {
         "icon": "📦",
         "title": "Bundle Supply",
-        "desc": "Mga silindro + accessories sa isang pagkakasunud-sunod.",
+        "desc": "Mga silindro at accessories sa isang pagkakasunud-sunod.",
         "points": [
-          "Isang kontrata",
+          "Isang pagtatanong",
           "Coordinated na paghahatid",
-          "Bundle na diskwento"
+          "Combined-order na pagpepresyo sa quotation"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Seamless steel gas cylinders — mga teknikal na kinakailangan"
+        "desc": "Refillable seamless steel gas cylinders — na-quenched at tempered steel. Tinalakay sa bawat produkto at patutunguhan na pamilihan."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Mga natunaw na silindro ng acetylene"
+        "desc": "Mga silindro ng gas — refillable na seamless na bakal na mga silindro ng gas — disenyo, konstruksyon at pagsubok — Bahagi 3: normalized na mga silindro ng bakal. Hindi isang acetylene-cylinder standard (tingnan ang ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetylene cylinders — mga pangunahing kinakailangan at uri ng pagsubok. Tinalakay para sa mga produktong acetylene kapag hiniling. Ang kakayahang magamit ay nakumpirma sa bawat order."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Pamantayan ng silindro ng merkado ng US — nakumpirma ang pagiging angkop sa bawat produkto at order"
+        "desc": "Detalye ng US para sa mga seamless steel cylinder — kinumpirma ang applicability sa bawat produkto at order"
       },
       {
         "name": "TPED",
-        "desc": "Mga kinakailangan sa transportasyon sa Europa — tinalakay sa bawat patutunguhan na merkado"
+        "desc": "Direktiba ng EU transportable pressure equipment — tinalakay sa bawat patutunguhang merkado"
       },
       {
         "name": "GB 5099",
-        "desc": "Pamantayan ng Chinese gas cylinder"
+        "desc": "Pambansang pamantayan ng Tsino para sa mga seamless steel gas cylinder — nakumpirma ang pagiging angkop sa bawat produkto at order"
       },
       {
         "name": "CE Mark",
-        "desc": "European conformity marking — applicability sa bawat produkto at market"
+        "desc": "European conformity marking — applicability sa bawat produkto at market. Hindi isang kapalit para sa isang nai-publish na file ng sertipiko."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Ano ang sinasabi ng mga mamimili",
+    "title": "Ano ang karaniwang hinihiling ng mga mamimili sa industriya",
     "items": [
       {
-        "quote": "Tatlong beses kaming nag-order ng 40L acetylene cylinders ngayong taon. Ang mga GOST valve, kulay ng OEM at export packing ay tumugma sa unang sample sa bawat pagkakataon.",
-        "author": "Rustam Yusupov",
-        "role": "May-ari, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Ang kulay ng OEM, uri ng balbula at pag-export ng packing ay tumugma sa isang kumpirmadong sample bago ang paulit-ulit na supply.",
+        "author": "Distributor inquiries",
+        "role": "Welding gas supply",
+        "country": "Central Asia"
       },
       {
-        "quote": "Dumating ang quote sa parehong araw na may malinaw na MOQ at lead time. Dumating ang mga bote ng propane na may mga POL valve at buong listahan ng pag-iimpake — walang mga pagkaantala sa customs sa aming panig.",
-        "author": "Aigerim Bekova",
-        "role": "Tagapamahala ng pagkuha, pang-industriya na suplay",
-        "country": "Kazakhstan"
+        "quote": "Ang malinaw na MOQ, lead time at listahan ng pag-iimpake ay nakumpirma sa quotation — hindi bilang mga nakapirming presyo sa website.",
+        "author": "Procurement inquiries",
+        "role": "Pang-industriya na supply",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Bumili kami ng mga cylinder na may mga regulator at hose bilang isang order ng container. Ang mga dokumento at pagmamarka ay handa na para sa aming merkado, kaya ang muling pagbebenta ay diretso.",
-        "author": "Faisal Al-Harbi",
-        "role": "Bumibili ng import, pangangalakal ng kagamitan sa gas",
-        "country": "Saudi Arabia"
+        "quote": "Mga silindro na may mga regulator at hose na sinipi bilang isang pinagsamang order, na may pagmamarka na tinalakay para sa patutunguhang merkado.",
+        "author": "Import inquiries",
+        "role": "Pangkalakal ng kagamitan sa gas",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Sino Tayo",
     "title": "Pang-industriya na tagagawa para sa mga mamimili ng B2B",
-    "text": "Gumagawa at nagsusuplay ang Wanda Groups ng mga pang-industriyang gas cylinder, generator at welding accessories para sa mga distributor sa ibang bansa, kasosyo sa OEM at mga mamimili ng proyekto.",
+    "text": "Gumagawa at nagsusuplay ang Wanda Groups ng mga pang-industriyang gas cylinder, generator, welding accessories at refrigeration equipment para sa mga distributor sa ibang bansa, mga kasosyo sa OEM at mga mamimili ng proyekto.",
     "text2": "Ang aming focus ay factory-linked supply, product selection support, bulk orders at export coordination — hindi retail consumer sales.",
     "cta": "Matuto Pa Tungkol sa Amin"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Handa nang humiling ng quote?",
       "quoteCta": "Humiling ng Quote",
       "relatedProducts": "Mga kaugnay na produkto",
+      "productFamilies": "Mga pamilya ng produkto",
       "applications": "Applications",
       "standardsTitle": "Mga pamantayan at sertipikasyon",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Tagagawa ng Silindro ng Gas | Pang-industriya na OEM at Pag-export | Mga Grupo ng Wanda",
-      "seoDescription": "Gumagawa ang Wanda Groups ng mga pang-industriyang gas cylinder, generator at welding accessories para sa OEM, wholesale at international export na mga mamimili."
+      "seoDescription": "Gumagawa ang Wanda Groups ng mga pang-industriyang gas cylinder, generator, welding accessories at refrigeration equipment para sa OEM, wholesale at international export buyer."
     },
     "about": {
       "label": "Tungkol sa Amin",
       "title": "Tagagawa ng silindro ng gas para sa mga mamimiling pang-industriya",
       "subtitle": "Sinusuportahan namin ang mga mamimili sa ibang bansa sa pagpili ng produkto, OEM, inspeksyon, pag-iimpake at pagpapadala.",
       "seoTitle": "Tungkol sa Wanda Group",
-      "seoDescription": "Gumagawa ang Wanda Group ng acetylene cylinders, propane cylinders, generators at accessories para sa welding, cutting at industrial gas supply."
+      "seoDescription": "Gumagawa ang Wanda Group ng acetylene, propane at LPG cylinders, generators, welding accessories at refrigeration equipment para sa mga industrial export na mamimili."
     },
     "products": {
       "label": "Mga produkto",
       "title": "Aming Mga Produkto",
-      "subtitle": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
+      "subtitle": "Acetylene, propane at LPG cylinders, generators, welding accessories at refrigeration equipment para sa mga industrial na mamimili.",
       "seoTitle": "Mga Produktong Silindro ng Gas",
-      "seoDescription": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
+      "seoDescription": "Acetylene, propane at LPG cylinders, acetylene generators, welding accessories at refrigeration equipment mula sa Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Mga Natunaw na Silindro ng Acetylene",
           "overview": "Mga silindro ng bakal na may buhaghag na masa at solvent para sa ligtas na imbakan at transportasyon ng acetylene. Ginagamit sa hinang, pagputol, pagpapatigas at paggawa ng metal.",
+          "application": "Oxy-acetylene welding, cutting at brazing",
           "seoTitle": "Acetylene Gas Cylinders",
           "seoDescription": "Mga silindro ng bakal na may buhaghag na masa at solvent para sa ligtas na imbakan at transportasyon ng acetylene. Ginagamit sa hinang, pagputol, pagpapatigas at paggawa ng metal."
         },
         "propane": {
           "name": "Mga silindro ng propane",
-          "overview": "Mga silindro ng bakal para sa imbakan at transportasyon ng propane gas. Ginagamit para sa pagpainit, pang-industriya na supply ng propane, pagluluto at pagputol ng oxy-fuel kapag ipinares sa acetylene.",
+          "overview": "Mga silindro ng bakal na tinukoy para sa propane fill. Ginagamit para sa pagpainit, pang-industriya na supply ng propane, pagluluto at pagputol ng oxy-fuel kapag ipinares sa acetylene.",
+          "application": "Industrial propane heating, cutting at supply ng halaman",
+          "familyNote": "Ang mga propane cylinder at LPG cylinder ay gumagamit ng parehong WG-P steel cylinder range. Sinasaklaw ng page na ito ang propane fill at mga gamit na partikular sa propane. Ang mga pinaghalong LPG at supply ng pamamahagi ay inilarawan sa pahina ng LPG Cylinders.",
           "seoTitle": "Mga Silindro ng Gas na Propane",
-          "seoDescription": "Steel propane gas cylinders para sa heating, industrial supply at cutting applications. Mga opsyon sa pag-export at OEM na tinalakay bawat order."
+          "seoDescription": "Mga silindro ng bakal para sa propane fill — heating, supply ng industriya at pagputol ng oxy-fuel. Parehong saklaw ng WG-P gaya ng LPG; fill gas na tinukoy sa bawat order."
         },
         "lpg": {
           "name": "Mga Silindro ng LPG",
-          "overview": "Mga silindro para sa liquefied petroleum gas (LPG) — propane, butane o mixed blends. Karaniwan para sa tirahan at komersyal na pamamahagi ng LPG, camping, heating at portable fuel supply.",
+          "overview": "Mga silindro para sa liquefied petroleum gas (LPG) — propane, butane o mixed blends. Ginagamit para sa tirahan at komersyal na pamamahagi ng LPG, kamping, pagpainit at portable na supply ng gasolina.",
+          "application": "Pamamahagi ng LPG, portable fuel at blend-based heating",
+          "familyNote": "Ang mga silindro ng LPG at mga silindro ng propane ay gumagamit ng parehong hanay ng silindro ng bakal na WG-P. Sinasaklaw ng page na ito ang mga paghahalo ng LPG at paggamit ng pamamahagi. Ang propane-only fill at mga pang-industriyang propane ay inilarawan sa pahina ng Propane Cylinders.",
           "seoTitle": "LPG Gas Cylinders",
-          "seoDescription": "LPG cylinders para sa residential, commercial at industrial liquefied petroleum gas distribution at portable supply."
+          "seoDescription": "LPG cylinders para sa residential, commercial at industrial liquefied petroleum gas distribution. Parehong hanay ng WG-P bilang propane cylinders; punan ang tinukoy sa bawat order."
         },
         "industrial": {
           "name": "Pang-industriya Gas Cylinders",
           "overview": "Mga pang-industriya na silindro ng gas para sa welding, pagputol at supply ng halaman — kabilang ang mga opsyon sa acetylene, propane at LPG na tumugma sa iyong market.",
+          "application": "Supply ng planta, distributor at silindro ng proyekto",
           "seoTitle": "Pang-industriya Gas Cylinders",
           "seoDescription": "Industrial gas cylinders para sa welding, cutting at supply ng halaman mula sa Wanda Group."
         },
         "generators": {
           "name": "Mga Generator ng Acetylene",
           "overview": "Kagamitan para sa paggawa ng acetylene mula sa calcium carbide. Matatag na suplay ng gas para sa hinang at mga pang-industriyang pangangailangan nang walang sentralisadong imprastraktura ng gas.",
+          "application": "On-site na pagbuo ng acetylene mula sa calcium carbide",
           "seoTitle": "Mga Generator ng Acetylene",
           "seoDescription": "Kagamitan para sa paggawa ng acetylene mula sa calcium carbide. Matatag na suplay ng gas para sa hinang at mga pang-industriyang pangangailangan nang walang sentralisadong imprastraktura ng gas."
         },
         "accessories": {
-          "name": "Cylinder Accessories at Fittings",
+          "name": "Welding Accessories at Cylinder Fitting",
           "overview": "Kumpletong hanay para sa ligtas na pagpapatakbo ng silindro ng gas: mula sa mga panukat hanggang sa mga welding torches. One-stop na pagkuha gamit ang mga cylinder.",
-          "seoTitle": "Mga Kagamitan sa Hinang",
-          "seoDescription": "Kumpletong hanay para sa ligtas na pagpapatakbo ng silindro ng gas: mula sa mga panukat hanggang sa mga welding torches. One-stop na pagkuha gamit ang mga cylinder."
+          "application": "Mga setup ng oxy-fuel, regulator, hose, valve at gauge",
+          "seoTitle": "Welding Accessories at Cylinder Fitting",
+          "seoDescription": "Mga accessory ng welding at cylinder fittings — mga regulator, hose, gauge, torches at valves, na binibigyan ng mga cylinder o hiwalay."
         },
         "refrigeration": {
           "name": "Mga yunit ng pagpapalamig",
           "overview": "Isang hiwalay na linya ng Wanda Group — hindi isang third-party na catalog. Mga condensing unit, malamig na kwarto at hardware, na ibinibigay namin ng mga cylinder o bilang isang stand-alone na order.",
+          "application": "Malamig na silid, malamig na kadena ng pagkain at pang-industriya na paglamig",
           "seoTitle": "Mga Yunit ng Pagpapalamig",
-          "seoDescription": "Isang hiwalay na linya ng Wanda Group — hindi isang third-party na catalog. Mga condensing unit, malamig na kwarto at hardware, na ibinibigay namin ng mga cylinder o bilang isang stand-alone na order."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },

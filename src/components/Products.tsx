@@ -1,6 +1,7 @@
 import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images, refrigerationImages, refrigerationVideoId } from '../config/images'
+import { productCatalog } from '../config/products'
 import { routes } from '../config/routes'
 import ScrollReveal from './ScrollReveal'
 import YouTubeFacade from './YouTubeFacade'
@@ -51,6 +52,17 @@ export default function Products() {
             </article>
           ))}
         </div>
+
+        <nav className="products__families" aria-label={t.pages.common.productFamilies}>
+          {productCatalog.map((item) => {
+            const cat = t.pages.products.catalog[item.catalogKey]
+            return (
+              <LangLink key={item.slug} to={routes.product(item.slug)}>
+                {cat.name}
+              </LangLink>
+            )
+          })}
+        </nav>
 
         <div id="refrigeration" className="products__group">
           <div className="section-header products__group-head">

@@ -50,6 +50,9 @@ export default function ProductsPage() {
                     <div className="products-page__body">
                       <h2 className="products-page__name">{cat.name}</h2>
                       <p className="products-page__overview">{cat.overview}</p>
+                      {'application' in cat && cat.application ? (
+                        <p className="products-page__app">{cat.application}</p>
+                      ) : null}
                       <span className="btn btn-outline btn-sm">{t.products.viewDetails}</span>
                     </div>
                   </LangLink>
@@ -79,6 +82,9 @@ export default function ProductsPage() {
                   {refrigerationCopy.name}
                 </h2>
                 <p className="products-cold__text">{refrigerationCopy.overview}</p>
+                {'application' in refrigerationCopy && refrigerationCopy.application ? (
+                  <p className="products-page__app">{refrigerationCopy.application}</p>
+                ) : null}
                 <span className="btn btn-primary">{t.products.viewDetails}</span>
               </div>
             </LangLink>

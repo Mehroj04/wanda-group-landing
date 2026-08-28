@@ -24,7 +24,7 @@
   "hero": {
     "badge": "Proizvajalec industrijskih plinskih jeklenk",
     "title": "Proizvajalec industrijskih plinskih jeklenk in opreme",
-    "subtitle": "Proizvodnja, OEM in veleprodajna dobava acetilenskih jeklenk, jeklenk za propan/LPG, generatorjev in dodatkov za varjenje za mednarodne izvozne kupce.",
+    "subtitle": "Proizvodnja, OEM in veleprodajna dobava acetilenskih, propanskih in LPG jeklenk, generatorjev, varilnih pripomočkov in hladilne opreme za mednarodne izvozne kupce.",
     "lineGas": "Plinske jeklenke",
     "lineCold": "Hladilne enote",
     "cta": "Pridobite ponudbo",
@@ -59,7 +59,7 @@
   },
   "products": {
     "title": "Naši izdelki",
-    "subtitle": "Acetilenske jeklenke, generatorji, propanske jeklenke in dodatki za industrijske in varilne aplikacije.",
+    "subtitle": "Acetilenske, propanske in LPG jeklenke, generatorji, varilni pribor in hladilna oprema za industrijske kupce.",
     "viewDetails": "Poglej podrobnosti",
     "items": [
       {
@@ -77,13 +77,13 @@
       {
         "title": "Propanska jeklenka",
         "spec": "3L–50L · možnosti ventilov na trg",
-        "desc": "Vzdržljive LPG jeklenke za ogrevanje, rezanje in industrijsko uporabo.",
+        "desc": "Jeklene jeklenke za polnjenje s propanom — ogrevanje, rezanje in industrijska dobava.",
         "icon": "🛢️"
       },
       {
-        "title": "Pribor za cilindre",
+        "title": "Varilni pribor",
         "spec": "Ventili · regulatorji · cevi · gorilniki",
-        "desc": "Ustrezni priključki dobavljeni s cilindri ali kot ločeno naročilo.",
+        "desc": "Pribor za varjenje in pribor za jeklenke, dobavljen z jeklenkami ali ločeno.",
         "icon": "🔧"
       }
     ]
@@ -128,6 +128,45 @@
       "Farmacevtske in medicinske hladilnice",
       "Logistika in hladilni transport",
       "Industrijski hladilni in procesni hladilniki"
+    ],
+    "acetylene": [
+      "Kisično-acetilensko varjenje",
+      "Rezanje s kisikom",
+      "Spajkanje in ogrevanje",
+      "Trgovine s kovinskimi izdelki",
+      "Ladjedelnica in vzdrževalna dela"
+    ],
+    "propane": [
+      "Industrijsko ogrevanje s propanom",
+      "Rezanje s kisikom in acetilenom",
+      "Ogrevanje delavnic in konstrukcij",
+      "Oskrba rastlin s propanom",
+      "Kuhalna in procesna toplota, kjer je določen propan"
+    ],
+    "lpg": [
+      "Stanovanjska in komercialna distribucija LPG",
+      "Prenosni LPG dovod goriva",
+      "Plin za kampiranje in gostinstvo",
+      "Ogrevanje z mešanicami LPG",
+      "Veleprodaja polnjenja jeklenk LPG za lokalne trge"
+    ],
+    "industrial": [
+      "Oskrba s plinom za varjenje in rezanje",
+      "Zaloga cilindrov v obratu in delavnici",
+      "Distributerski industrijski plinovod",
+      "Projekti in gradbišča"
+    ],
+    "generators": [
+      "Proizvodnja acetilena iz kalcijevega karbida na kraju samem",
+      "Delavnice brez oskrbe z acetilenom v steklenicah",
+      "Varjenje in rezanje, kjer je logistika cilindrov omejena",
+      "Industrijska mesta potrebujejo lokalni vir acetilena"
+    ],
+    "accessories": [
+      "Sklopi cilindrov in regulatorjev",
+      "Naprave za varjenje in rezanje s kisikom",
+      "Menjava cevi, merilnika in ventila",
+      "Varnostne armature za ravnanje s plinom v delavnicah"
     ]
   },
   "operations": {
@@ -174,7 +213,7 @@
   },
   "about": {
     "title": "Proizvajalec plinskih jeklenk za industrijske kupce",
-    "text": "Wanda Group proizvaja acetilenske jeklenke, propanske jeklenke, generatorje in dodatke za varjenje, rezanje in industrijsko oskrbo s plinom.",
+    "text": "Wanda Group proizvaja acetilenske jeklenke, jeklenke za propan in LPG, generatorje in varilne pripomočke ter dobavlja hladilno opremo za industrijske kupce.",
     "text2": "Čezmorske kupce podpiramo z izbiro izdelkov, OEM, pregledom, pakiranjem in pošiljanjem.",
     "facts": [
       {
@@ -312,7 +351,7 @@
           },
           {
             "q": "Katere izdelke v glavnem dobavljate?",
-            "a": "Dobavljamo acetilenske jeklenke, propanske jeklenke, acetilenske generatorje in dodatke za plinske jeklenke, kot so ventili, regulatorji, cevi, manometri in gorilniki."
+            "a": "Kot ločeno linijo izdelkov dobavljamo acetilenske jeklenke, jeklenke za propan in LPG, generatorje acetilena, pribor za plinske jeklenke in hladilno opremo."
           },
           {
             "q": "Ali lahko podpirate prilagajanje OEM?",
@@ -333,7 +372,7 @@
         "items": [
           {
             "q": "Ali si lahko ogledam tovarniške videoposnetke, preden oddam naročilo?",
-            "a": "ja Oglejte si videoposnetke proizvodnje v razdelku Tovarna na tej strani. Dodatne posnetke, sponke za pakiranje in certifikate pošljemo zasebno na zahtevo."
+            "a": "ja Oglejte si video posnetke proizvodnje na strani Factory. Dodatne posnetke, sponke za pakiranje in kopije certifikatov pošljemo zasebno na zahtevo."
           },
           {
             "q": "Ali nudite video posnetke izdelkov, zlasti za acetilenske jeklenke?",
@@ -404,7 +443,7 @@
           },
           {
             "q": "Ali je mogoče dodatno opremo naročiti skupaj s plinskimi jeklenkami?",
-            "a": "ja Pribor je mogoče dobaviti skupaj z jeklenkami za acetilen, jeklenkami za propan in generatorji acetilena."
+            "a": "ja Pribor je mogoče dobaviti skupaj z jeklenkami za acetilen, propan in LPG ter generatorji za acetilen."
           },
           {
             "q": "Ali podpirate pakiranje OEM?",
@@ -577,7 +616,7 @@
     "getExactQuote": "Pridobite natančno ponudbo",
     "certifications": "Certifikati",
     "order": "naročilo",
-    "reviews": "Ocene",
+    "reviews": "Opombe kupca",
     "contact": "Contact",
     "phone": "Telefon",
     "location": "Lokacija",
@@ -587,7 +626,7 @@
     "exportReady": "Izvoz pripravljen",
     "years": "leta",
     "acetylene": "Acetylene",
-    "isoCertified": "ISO certificiran",
+    "isoCertified": "Standardi na zahtevo",
     "globalExport": "Globalni izvoz",
     "products": "Izdelki",
     "specs": "Specifikacije",
@@ -695,16 +734,16 @@
       "note": "* Točni parametri so odvisni od standarda (ISO/DOT/GB) in konfiguracije ventila. Zahtevajte tehnični list za vaš trg."
     },
     "propane": {
-      "title": "Jeklenke za propan in LPG",
-      "intro": "Jeklenke za mešanice propana, butana in LPG. Uporablja se pri ogrevanju, rezanju, spajkanju, gradbeništvu in industrijski oskrbi s plinom.",
+      "title": "Razpon cilindrov WG-P",
+      "intro": "Modeli WG-P so ena družina jeklenih cilindrov. Polnilni plin – propan ali LPG (propan, butan ali mešanice) – je določen glede na naročilo in namembni trg.",
       "features": [
-        "Jeklo 37Mn/34CrMo4 po ISO 9809",
+        "Vrsta jekla in veljavni standard jeklenke sta potrjena na naročilo",
         "Delovni tlak 1,8–2,1 MPa",
-        "POL, CGA 510, GOST ventili",
-        "Prašno lakiranje, proti koroziji",
-        "Certifikati za trge EU, ZDA, CIS"
+        "Ventili POL, CGA 510, GOST obravnavani glede na trg",
+        "Praškasto lakiranje in protikorozijska obdelava",
+        "Razpravljamo o možnostih certificiranja glede na ciljni trg"
       ],
-      "tableTitle": "Standardni modeli jeklenk za propan",
+      "tableTitle": "Standardni modeli cilindrov WG-P",
       "headers": [
         "Model",
         "Prostornina (L)",
@@ -768,10 +807,10 @@
       "intro": "Oprema za proizvodnjo acetilena iz kalcijevega karbida. Stabilna oskrba s plinom za varjenje in industrijske potrebe brez centralizirane plinske infrastrukture.",
       "features": [
         "Zmogljivost 3–100 m³/h",
-        "Samodejno dovajanje vode in karbida",
-        "Varnostni sistem in filtracija",
+        "Možnosti dovajanja vode in karbida so obravnavane za vsak model",
+        "Varnostni sistem in filtracija, kot je določeno za model",
         "Kompaktni in industrijski modeli",
-        "Popolna dokumentacija in usposabljanje"
+        "Priložena dokumentacija za naročilo. Na zahtevo se lahko dogovorimo o usposabljanju operaterja"
       ],
       "tableTitle": "Modeli generatorjev acetilena",
       "headers": [
@@ -827,7 +866,7 @@
       "note": "* Generatorji dobavljeni s hladilnim sistemom, filtri in kompletom rezervnih delov na zahtevo."
     },
     "accessories": {
-      "title": "Dodatki in pribor za cilindre",
+      "title": "Pribor za varjenje in nastavki za cilindre",
       "intro": "Popolna ponudba za varno delovanje plinskih jeklenk: od merilnikov do varilnih gorilnikov. Nabava na enem mestu s cilindri.",
       "features": [
         "Regulatorji in merila (CGA/GOST/DIN)",
@@ -866,7 +905,7 @@
           "Bakle",
           "WG-C100, WG-C300",
           "—",
-          "Plazma/oksi rezanje"
+          "Rezanje s kisikom"
         ],
         [
           "Gorilniki",
@@ -881,7 +920,7 @@
           "Vse vrste cilindrov"
         ]
       ],
-      "note": "* Dodatki so na voljo ločeno ali v paketu z jeklenkami. Popust na kombinirana naročila."
+      "note": "* Pribor je mogoče naročiti ločeno ali skupaj z jeklenkami. Cena kombiniranega naročila je potrjena v ponudbi."
     }
   },
   "services": {
@@ -901,21 +940,21 @@
       {
         "icon": "🚢",
         "title": "Izvoz in logistika",
-        "desc": "Popolna mednarodna podpora pri pošiljanju.",
+        "desc": "Usklajevanje izvoznega pakiranja in pošiljanja za čezmorske kupce.",
         "points": [
-          "Incoterms FOB/CIF/DDP",
+          "Incoterms discussed (FOB/CIF and similar)",
           "Izvozna dokumentacija",
-          "Pomorski in železniški tovorni promet"
+          "Možnosti pomorskega in železniškega tovora"
         ]
       },
       {
         "icon": "🔬",
         "title": "Kontrola kakovosti",
-        "desc": "Testiranje in pregled na vsaki stopnji.",
+        "desc": "Pregled in testiranje med proizvodnjo po naročilu.",
         "points": [
           "Hidrostatični preskusi",
-          "UT pregled zvarov",
-          "Pregled SGS/BV na zahtevo"
+          "Pregled zvara, kot je določeno",
+          "Pregled tretje osebe na zahtevo"
         ]
       },
       {
@@ -923,9 +962,9 @@
         "title": "Certificiranje",
         "desc": "Dokumenti za carino in regulatorje. Kopije pošljemo zasebno na zahtevo.",
         "points": [
-          "ISO 9809, DOT, TPED",
-          "MSDS & certifikat kakovosti",
-          "Potrdilo o poreklu"
+          "Standardi obravnavani glede na izdelek in trg",
+          "MSDS in dokumenti o kakovosti na zahtevo",
+          "Potrdilo o poreklu na zahtevo"
         ]
       },
       {
@@ -934,18 +973,18 @@
         "desc": "Pomoč pri izbiri izdelkov in konfiguracije.",
         "points": [
           "Tržna izbira",
-          "MOQ in izračun dobave",
-          "Usposabljanje osebja"
+          "MOQ in dobavni rok se obravnavata na naročilo",
+          "O navodilih operaterja razpravljamo na zahtevo"
         ]
       },
       {
         "icon": "📦",
         "title": "Paketna dobava",
-        "desc": "Cilindri + pribor v enem naročilu.",
+        "desc": "Cilindri in dodatki v enem naročilu.",
         "points": [
-          "Enotna pogodba",
+          "Eno povpraševanje",
           "Usklajena dostava",
-          "Popust na paket"
+          "Cena kombiniranega naročila v ponudbi"
         ]
       }
     ]
@@ -1025,27 +1064,31 @@
     "items": [
       {
         "name": "ISO 9809-1",
-        "desc": "Brezšivne jeklene plinske jeklenke – tehnične zahteve"
+        "desc": "Brezšivne jeklene plinske jeklenke, ki jih je mogoče ponovno napolniti – kaljeno in popuščeno jeklo. Obravnavano glede na izdelek in ciljni trg."
       },
       {
         "name": "ISO 9809-3",
-        "desc": "Jeklenke z raztopljenim acetilenom"
+        "desc": "Plinske jeklenke – Brezšivne jeklene plinske jeklenke za ponovno polnjenje – Načrtovanje, konstrukcija in preskušanje – 3. del: Jeklenke iz normaliziranega jekla. Ni standard za acetilenske jeklenke (glejte ISO 3807)."
+      },
+      {
+        "name": "ISO 3807",
+        "desc": "Acetilenske jeklenke – osnovne zahteve in tipsko preskušanje. Na zahtevo obravnavano za acetilenske izdelke. Uporabnost se potrdi na naročilo."
       },
       {
         "name": "DOT 3AA",
-        "desc": "Standard valja za trg ZDA — uporabnost potrjena za izdelek in naročilo"
+        "desc": "Ameriška specifikacija za brezšivne jeklene jeklenke — uporabnost potrjena za izdelek in naročilo"
       },
       {
         "name": "TPED",
-        "desc": "Evropske transportne zahteve – obravnavane glede na ciljni trg"
+        "desc": "Direktiva EU o premični tlačni opremi – razpravlja se po ciljnem trgu"
       },
       {
         "name": "GB 5099",
-        "desc": "Kitajski standard za plinske jeklenke"
+        "desc": "Kitajski nacionalni standard za brezšivne jeklene plinske jeklenke — uporabnost potrjena za izdelek in naročilo"
       },
       {
         "name": "CE Mark",
-        "desc": "Evropski znak skladnosti – uporabnost glede na izdelek in trg"
+        "desc": "Evropski znak skladnosti – uporabnost glede na izdelek in trg. Ni nadomestilo za objavljeno potrdilo."
       }
     ]
   },
@@ -1076,25 +1119,25 @@
     ]
   },
   "testimonials": {
-    "title": "Kaj pravijo kupci",
+    "title": "Kaj industrijski kupci običajno zahtevajo",
     "items": [
       {
-        "quote": "Letos smo trikrat prenaročili 40L acetilenske jeklenke. GOST ventili, barva OEM in izvozno pakiranje so se vsakič ujemali s prvim vzorcem.",
-        "author": "Rustam Yusupov",
-        "role": "Lastnik, distributer varilnega plina",
-        "country": "Uzbekistan"
+        "quote": "Barva OEM, vrsta ventila in izvozna embalaža se ujemajo s potrjenim vzorcem pred ponovno dobavo.",
+        "author": "Distributor inquiries",
+        "role": "Oskrba z varilnim plinom",
+        "country": "Central Asia"
       },
       {
-        "quote": "Ponudba je prišla še isti dan z jasno MOQ in rokom dobave. Jeklenke s propanom so prispele z ventili POL in popolnim pakirnim listom – z naše strani ni zamud na carini.",
-        "author": "Aigerim Bekova",
-        "role": "Vodja nabave, industrijska dobava",
-        "country": "Kazakhstan"
+        "quote": "Počistite MOQ, dobavni rok in pakirnico, potrjene v ponudbi – ne kot fiksne cene spletnega mesta.",
+        "author": "Procurement inquiries",
+        "role": "Industrijska dobava",
+        "country": "CIS and nearby markets"
       },
       {
-        "quote": "Jeklenke z regulatorji in cevmi kupujemo kot eno naročilo kontejnerja. Dokumenti in oznake so bili pripravljeni za naš trg, zato je bila nadaljnja prodaja enostavna.",
-        "author": "Faisal Al-Harbi",
-        "role": "Uvozni kupec, trgovanje s plinsko opremo",
-        "country": "Saudi Arabia"
+        "quote": "Jeklenke z regulatorji in cevmi navedene kot eno kombinirano naročilo, z označevanjem za ciljni trg.",
+        "author": "Import inquiries",
+        "role": "Trgovanje s plinsko opremo",
+        "country": "Middle East and export markets"
       }
     ]
   },
@@ -1670,7 +1713,7 @@
   "whoWeAre": {
     "label": "Kdo smo",
     "title": "Industrijski proizvajalec za B2B kupce",
-    "text": "Wanda Groups proizvaja in dobavlja industrijske plinske jeklenke, generatorje in pribor za varjenje za čezmorske distributerje, OEM partnerje in projektne kupce.",
+    "text": "Wanda Groups proizvaja in dobavlja industrijske plinske jeklenke, generatorje, varilne pripomočke in hladilno opremo za čezmorske distributerje, OEM partnerje in projektne kupce.",
     "text2": "Naš poudarek je na dobavi, povezani s tovarno, podpori pri izbiri izdelkov, naročilih v velikem obsegu in usklajevanju izvoza – ne na maloprodajni prodaji potrošnikom.",
     "cta": "Izvedite več o nas"
   },
@@ -1679,6 +1722,7 @@
       "quoteTitle": "Ste pripravljeni zahtevati ponudbo?",
       "quoteCta": "Zahtevajte ponudbo",
       "relatedProducts": "Sorodni izdelki",
+      "productFamilies": "Družine izdelkov",
       "applications": "Applications",
       "standardsTitle": "Standardi in certificiranje",
       "oemTitle": "OEM / customization",
@@ -1691,64 +1735,73 @@
     },
     "home": {
       "seoTitle": "Proizvajalec plinskih jeklenk | Industrijski OEM in izvoz | Skupine Wanda",
-      "seoDescription": "Wanda Groups proizvaja industrijske plinske jeklenke, generatorje in varilne dodatke za OEM, veleprodajne in mednarodne izvozne kupce."
+      "seoDescription": "Wanda Groups proizvaja industrijske plinske jeklenke, generatorje, varilne pripomočke in hladilno opremo za OEM, veleprodajne in mednarodne izvozne kupce."
     },
     "about": {
       "label": "O nas",
       "title": "Proizvajalec plinskih jeklenk za industrijske kupce",
       "subtitle": "Čezmorske kupce podpiramo z izbiro izdelkov, OEM, pregledom, pakiranjem in pošiljanjem.",
       "seoTitle": "O Wanda Group",
-      "seoDescription": "Wanda Group proizvaja acetilenske jeklenke, propanske jeklenke, generatorje in dodatke za varjenje, rezanje in industrijsko oskrbo s plinom."
+      "seoDescription": "Wanda Group proizvaja jeklenke za acetilen, propan in LPG, generatorje, varilne dodatke in hladilno opremo za industrijske izvozne kupce."
     },
     "products": {
       "label": "Izdelki",
       "title": "Naši izdelki",
-      "subtitle": "Acetilenske jeklenke, generatorji, propanske jeklenke in dodatki za industrijske in varilne aplikacije.",
+      "subtitle": "Acetilenske, propanske in LPG jeklenke, generatorji, varilni pribor in hladilna oprema za industrijske kupce.",
       "seoTitle": "Izdelki za plinske jeklenke",
-      "seoDescription": "Acetilenske jeklenke, generatorji, propanske jeklenke in dodatki za industrijske in varilne aplikacije.",
+      "seoDescription": "Acetilenske, propanske in LPG jeklenke, acetilenski generatorji, varilni pribor in hladilna oprema iz Wanda Group.",
       "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Jeklenke z raztopljenim acetilenom",
           "overview": "Jeklene jeklenke s porozno maso in topilom za varno shranjevanje in transport acetilena. Uporablja se pri varjenju, rezanju, spajkanju in izdelavi kovin.",
+          "application": "Oksi-acetilensko varjenje, rezanje in spajkanje",
           "seoTitle": "Acetilenske plinske jeklenke",
           "seoDescription": "Jeklene jeklenke s porozno maso in topilom za varno shranjevanje in transport acetilena. Uporablja se pri varjenju, rezanju, spajkanju in izdelavi kovin."
         },
         "propane": {
           "name": "Propanske jeklenke",
-          "overview": "Jeklene jeklenke za shranjevanje in transport propana. Uporablja se za ogrevanje, industrijsko oskrbo s propanom, kuhanje in rezanje s kisikom v kombinaciji z acetilenom.",
+          "overview": "Jeklene jeklenke, namenjene polnjenju s propanom. Uporablja se za ogrevanje, industrijsko oskrbo s propanom, kuhanje in rezanje s kisikom v kombinaciji z acetilenom.",
+          "application": "Industrijsko ogrevanje s propanom, rezanje in dobava obratov",
+          "familyNote": "Jeklenke za propan in jeklenke za utekočinjeni naftni plin uporabljajo isti obseg jeklenk WG-P. Ta stran pokriva polnilo s propanom in posebne uporabe za propan. Mešanice LPG in dobava distribucije so opisani na strani LPG Jeklenke.",
           "seoTitle": "Plinske jeklenke za propan",
-          "seoDescription": "Jeklene plinske jeklenke za propan za ogrevanje, industrijsko oskrbo in uporabo pri rezanju. Možnosti izvoza in OEM razpravljamo na naročilo."
+          "seoDescription": "Jeklene jeklenke za polnjenje s propanom — ogrevanje, industrijska dobava in rezanje s kisikom. Enako območje WG-P kot LPG; polnjenje plina, določenega po naročilu."
         },
         "lpg": {
           "name": "LPG jeklenke",
-          "overview": "Jeklenke za utekočinjeni naftni plin (LPG) — propan, butan ali mešane mešanice. Skupno za stanovanjsko in komercialno distribucijo LPG, kampiranje, ogrevanje in prenosno oskrbo z gorivom.",
+          "overview": "Jeklenke za utekočinjeni naftni plin (LPG) — propan, butan ali mešane mešanice. Uporablja se za stanovanjsko in komercialno distribucijo LPG, kampiranje, ogrevanje in prenosno oskrbo z gorivom.",
+          "application": "Distribucija utekočinjenega naftnega plina, ogrevanje na prenosno gorivo in mešanice",
+          "familyNote": "Jeklenke za utekočinjen naftni plin in jeklenke za propan uporabljajo isti obseg jeklenk WG-P. Ta stran pokriva uporabo mešanic LPG in distribucijo. Uporaba samo za polnjenje s propanom in uporaba industrijskega propana je opisana na strani Jeklenke za propan.",
           "seoTitle": "LPG plinske jeklenke",
-          "seoDescription": "LPG jeklenke za stanovanjsko, komercialno in industrijsko distribucijo utekočinjenega naftnega plina in prenosno oskrbo."
+          "seoDescription": "LPG jeklenke za stanovanjsko, komercialno in industrijsko distribucijo utekočinjenega naftnega plina. Enako območje WG-P kot jeklenke za propan; izpolnite določeno na naročilo."
         },
         "industrial": {
           "name": "Industrijske plinske jeklenke",
           "overview": "Industrijske plinske jeklenke za varjenje, rezanje in oskrbo obratov — vključno z možnostmi acetilena, propana in LPG, ki ustrezajo vašemu trgu.",
+          "application": "Naprava, distributer in dobava projektnih jeklenk",
           "seoTitle": "Industrijske plinske jeklenke",
           "seoDescription": "Industrijske plinske jeklenke za varjenje, rezanje in oskrbo obratov iz Wanda Group."
         },
         "generators": {
           "name": "Acetilenski generatorji",
           "overview": "Oprema za proizvodnjo acetilena iz kalcijevega karbida. Stabilna oskrba s plinom za varjenje in industrijske potrebe brez centralizirane plinske infrastrukture.",
+          "application": "Proizvodnja acetilena na kraju samem iz kalcijevega karbida",
           "seoTitle": "Acetilenski generatorji",
           "seoDescription": "Oprema za proizvodnjo acetilena iz kalcijevega karbida. Stabilna oskrba s plinom za varjenje in industrijske potrebe brez centralizirane plinske infrastrukture."
         },
         "accessories": {
-          "name": "Dodatki in pribor za cilindre",
+          "name": "Pribor za varjenje in nastavki za cilindre",
           "overview": "Popolna ponudba za varno delovanje plinskih jeklenk: od merilnikov do varilnih gorilnikov. Nabava na enem mestu s cilindri.",
-          "seoTitle": "Varilni pribor",
-          "seoDescription": "Popolna ponudba za varno delovanje plinskih jeklenk: od merilnikov do varilnih gorilnikov. Nabava na enem mestu s cilindri."
+          "application": "Nastavitve kisika, regulatorji, cevi, ventili in merilniki",
+          "seoTitle": "Pribor za varjenje in nastavki za cilindre",
+          "seoDescription": "Pripomočki za varjenje in pribor za jeklenke — regulatorji, cevi, merilniki, gorilniki in ventili, dobavljeni z jeklenkami ali ločeno."
         },
         "refrigeration": {
           "name": "Hladilne enote",
           "overview": "Ločena linija Wanda Group — ne katalog tretje osebe. Kondenzacijske enote, hladilnice in strojna oprema, dobavljamo z jeklenkami ali kot samostojno naročilo.",
+          "application": "Hladilnice, hladilna veriga hrane in industrijsko hlajenje",
           "seoTitle": "Hladilne enote",
-          "seoDescription": "Ločena linija Wanda Group — ne katalog tretje osebe. Kondenzacijske enote, hladilnice in strojna oprema, dobavljamo z jeklenkami ali kot samostojno naročilo."
+          "seoDescription": "Condensing units, cold rooms and cold-chain hardware from Wanda Group. Copeland and Bitzer names refer to the compressor brand inside the unit, not affiliation with those companies."
         }
       }
     },
