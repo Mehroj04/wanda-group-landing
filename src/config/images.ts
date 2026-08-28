@@ -57,6 +57,8 @@ export const images = {
     { src: '/images/wg/product-propane.jpg' },
     { src: '/images/wg/acc-kit-product.jpg' },
   ],
+  productLpg: '/images/wg/product-lpg.jpg',
+  productIndustrial: '/images/wg/product-industrial.jpg',
   gallery: galleryImages.map((src) => ({ src })),
   articles: [
     '/images/wg/art1-propane-supply.jpg',

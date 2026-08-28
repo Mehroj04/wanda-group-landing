@@ -33,14 +33,14 @@ const PRODUCTS = [
     slug: 'lpg-cylinders',
     catalogKey: 'lpg',
     tab: 'propane',
-    image: '/images/wg/product-propane.jpg',
+    image: '/images/wg/product-lpg.jpg',
     related: ['propane-cylinders', 'welding-accessories', 'industrial-gas-cylinders'],
   },
   {
     slug: 'industrial-gas-cylinders',
     catalogKey: 'industrial',
     tab: null,
-    image: '/images/wg/product-acetylene.jpg',
+    image: '/images/wg/product-industrial.jpg',
     related: ['acetylene-cylinders', 'propane-cylinders', 'lpg-cylinders'],
     hubLinks: [
       { slug: 'acetylene-cylinders', key: 'acetylene' },

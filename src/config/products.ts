@@ -40,14 +40,14 @@ export const productCatalog: ProductPageDef[] = [
   {
     slug: 'lpg-cylinders',
     tab: 'propane',
-    image: images.products[2].src,
+    image: images.productLpg,
     catalogKey: 'lpg',
     related: ['propane-cylinders', 'welding-accessories', 'industrial-gas-cylinders'],
   },
   {
     slug: 'industrial-gas-cylinders',
     tab: null,
-    image: images.products[0].src,
+    image: images.productIndustrial,
     catalogKey: 'industrial',
     related: ['acetylene-cylinders', 'propane-cylinders', 'lpg-cylinders'],
   },
