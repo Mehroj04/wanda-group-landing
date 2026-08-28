@@ -1,6 +1,6 @@
 import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
-import { productCatalog } from '../config/products'
+import { getProductBySlug, productCatalog } from '../config/products'
 import { usePageSeo } from '../hooks/usePageSeo'
 import PageHero from '../components/PageHero'
 import QuoteBanner from '../components/QuoteBanner'
@@ -13,6 +13,9 @@ import './ProductsPage.css'
 export default function ProductsPage() {
   const { lang, t } = useLanguage()
   const p = t.pages.products
+  const cylinderCatalog = productCatalog.filter((item) => item.slug !== 'refrigeration')
+  const refrigeration = getProductBySlug('refrigeration')
+  const refrigerationCopy = refrigeration ? p.catalog[refrigeration.catalogKey] : null
 
   usePageSeo({
     lang,
@@ -36,7 +39,7 @@ export default function ProductsPage() {
       <section className="section products-page">
         <div className="container">
           <div className="products-page__grid">
-            {productCatalog.map((item, i) => {
+            {cylinderCatalog.map((item, i) => {
               const cat = p.catalog[item.catalogKey]
               return (
                 <ScrollReveal key={item.slug} delay={(i % 3) * 60} from="up">
@@ -54,12 +57,37 @@ export default function ProductsPage() {
               )
             })}
           </div>
-
-          <p className="products-page__note">{p.refrigerationNote}</p>
         </div>
       </section>
 
       <Accessories />
+
+      {refrigeration && refrigerationCopy ? (
+        <section className="section products-cold" aria-labelledby="products-cold-title">
+          <div className="container">
+            <LangLink to={routes.product(refrigeration.slug)} className="products-cold__panel">
+              <div className="products-cold__media">
+                <img
+                  src={refrigeration.image}
+                  alt={refrigerationCopy.name}
+                  loading="lazy"
+                  width={800}
+                  height={560}
+                />
+              </div>
+              <div className="products-cold__copy">
+                <span className="section-label">{t.refrigeration.label}</span>
+                <h2 id="products-cold-title" className="products-cold__title">
+                  {refrigerationCopy.name}
+                </h2>
+                <p className="products-cold__text">{refrigerationCopy.overview}</p>
+                <span className="btn btn-primary">{t.products.viewDetails}</span>
+              </div>
+            </LangLink>
+            <p className="products-page__note">{p.refrigerationNote}</p>
+          </div>
+        </section>
+      ) : null}
       <Pricing />
       <QuoteBanner title={t.pages.common.quoteTitle} cta={t.pages.common.quoteCta} />
     </>
