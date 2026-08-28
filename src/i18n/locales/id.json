@@ -3,16 +3,16 @@
     "home": "Rumah",
     "products": "Produk",
     "specs": "Spesifikasi",
-    "applications": "Aplikasi",
+    "applications": "Applications",
     "about": "Tentang",
-    "gallery": "Galeri",
+    "gallery": "Gallery",
     "factory": "Pabrik",
     "quality": "Kualitas",
-    "faq": "Pertanyaan Umum",
-    "contact": "Kontak",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Dapatkan Penawaran",
     "inquire": "Tanyakan →",
-    "services": "Layanan",
+    "services": "Services",
     "pricing": "Harga",
     "accessories": "Aksesoris",
     "refrigeration": "Penyimpanan dingin",
@@ -120,7 +120,23 @@
       "Konstruksi",
       "Fabrikasi Logam",
       "Penyimpanan & Distribusi Gas"
+    ],
+    "refrigerationItems": [
+      "Kamar dingin dan fasilitas penyimpanan dingin",
+      "Pengolahan dan distribusi makanan",
+      "Supermarket dan rantai pendingin ritel",
+      "Penyimpanan dingin farmasi dan medis",
+      "Logistik dan transportasi berpendingin",
+      "Pendinginan industri dan pendingin proses"
     ]
+  },
+  "operations": {
+    "title": "Operasi Global",
+    "manufacturingBase": "Basis Manufaktur",
+    "manufacturingCountry": "Cina",
+    "intlSalesOffice": "Kantor Penjualan Internasional",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Operasi manufaktur kami berbasis di Tiongkok, sementara tim penjualan internasional kami di Uzbekistan mendukung pelanggan di seluruh dunia."
   },
   "whyUs": {
     "title": "Mengapa Memilih Grup Wanda",
@@ -131,7 +147,7 @@
         "desc": "Pasokan produk berorientasi pada produksi, tidak hanya katalog perdagangan."
       },
       {
-        "title": "dukungan oem",
+        "title": "OEM support",
         "desc": "Warna, penandaan, katup, dan pengepakan khusus didiskusikan per pesanan."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Pembentukan, pengelasan, pengujian dan finishing tabung gas industri."
       },
       {
-        "title": "Dukungan OEM",
+        "title": "OEM Support",
         "desc": "Pilihan warna, penandaan, katup, tutup, dan pengepakan berdasarkan pesanan."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Beri tahu kami produk, ukuran, jumlah, negara tujuan, dan spesifikasinya — tim penjualan kami akan membalas dengan informasi produk dan penawaran harga.",
     "formTitle": "Permintaan Penawaran",
     "formSubtitle": "Lengkapi formulir untuk pertanyaan komersial. Bidang yang wajib diisi ditandai.",
-    "name": "Nama",
+    "name": "Name",
     "company": "Perusahaan",
     "phone": "Telepon / WhatsApp",
     "email": "E-mail",
@@ -488,7 +504,7 @@
     "requirementsPlaceholder": "Jenis katup, warna, standar, pengepakan, tanda OEM, catatan kuantitas..."
   },
   "footer": {
-    "company": "Produsen Silinder Gas Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Manufaktur Silinder Gas Profesional",
     "rights": "© 2026 Grup Wanda. Semua hak dilindungi undang-undang.",
     "privacy": "Kebijakan Privasi",
@@ -552,17 +568,17 @@
     "contactLead": "Pertanyaan tentang kebijakan ini:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Spesifikasi Produk Detail",
     "catalogSubtitle": "Lengkapi data teknis, model dan parameter untuk setiap kategori. Pilih produk untuk melihat tabel spesifikasi.",
     "requestPrice": "Minta Harga untuk Model Ini",
-    "services": "Layanan",
+    "services": "Services",
     "pricing": "Harga",
     "getExactQuote": "Dapatkan Penawaran Tepat",
     "certifications": "Sertifikasi",
     "order": "Memesan",
     "reviews": "Ulasan",
-    "contact": "Kontak",
+    "contact": "Contact",
     "phone": "Telepon",
     "location": "Lokasi",
     "quoteResponse": "Tanggapan kutipan",
@@ -570,18 +586,18 @@
     "countriesServed": "Dukungan ekspor",
     "exportReady": "Ekspor siap",
     "years": "Bertahun-tahun",
-    "acetylene": "Asetilen",
+    "acetylene": "Acetylene",
     "isoCertified": "Bersertifikat ISO",
     "globalExport": "Ekspor Global",
     "products": "Produk",
     "specs": "Spesifikasi",
-    "applications": "Aplikasi",
+    "applications": "Applications",
     "whyUs": "Mengapa Kami",
     "about": "Tentang Kami",
-    "gallery": "Galeri",
+    "gallery": "Gallery",
     "quality": "Kualitas",
-    "faq": "Pertanyaan Umum",
-    "blog": "blog",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "Bahasa pencarian...",
     "noLanguagesFound": "Tidak ada bahasa yang ditemukan",
     "breadcrumb": "Remah roti",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Label Pribadi",
+    "OEM / Private Label",
     "Ekspor Internasional",
     "Kontrol Kualitas",
     "Standar Pasar Berdasarkan Permintaan",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Asetilen",
-      "propane": "propana",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Aksesoris"
     },
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Volume (L)",
-        "Bahan bakar (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Berat (kg)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategori",
         "Model",
-        "Standar",
+        "Standard",
         "Aplikasi"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logo & warna RAL",
           "Katup standar pasar",
-          "Kemasan & label OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -907,7 +923,7 @@
         "title": "Sertifikasi",
         "desc": "Dokumen untuk bea cukai dan regulator. Salinannya dikirim secara pribadi berdasarkan permintaan.",
         "points": [
-          "ISO 9809, TITIK, TPED",
+          "ISO 9809, DOT, TPED",
           "MSDS & sertifikat mutu",
           "Surat keterangan asal"
         ]
@@ -950,7 +966,7 @@
         "desc": "Tergantung pada model dan tujuan"
       },
       {
-        "label": "Waktu memimpin",
+        "label": "Lead time",
         "value": "Dikonfirmasi per pesanan",
         "desc": "Dibagikan dengan kutipan"
       },
@@ -966,7 +982,7 @@
         "Volume dan model silinder",
         "Jenis katup dan standar sambungan",
         "Standar yang diperlukan untuk pasar tujuan",
-        "Warna, penandaan, dan pengemasan OEM",
+        "OEM colour, marking and packaging",
         "Volume pesanan dan Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produk",
       "MOQ",
       "Harga",
-      "Waktu Pimpin"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Sertifikasi pasar AS"
+        "desc": "Standar silinder pasar AS — penerapan dikonfirmasi per produk dan pesanan"
       },
       {
         "name": "TPED",
-        "desc": "arahan transportasi Eropa"
+        "desc": "Persyaratan transportasi Eropa — dibahas per pasar tujuan"
       },
       {
         "name": "GB 5099",
         "desc": "Standar tabung gas Cina"
       },
       {
-        "name": "Tanda CE",
-        "desc": "Persyaratan kesesuaian Eropa"
+        "name": "CE Mark",
+        "desc": "Penandaan kesesuaian Eropa — penerapan per produk dan pasar"
       }
     ]
   },
@@ -1072,31 +1088,31 @@
         "quote": "Penawaran datang pada hari yang sama dengan MOQ dan lead time yang jelas. Botol propana tiba dengan katup POL dan daftar pengepakan lengkap — tidak ada penundaan bea cukai di pihak kami.",
         "author": "Aigerim Bekova",
         "role": "Manajer pengadaan, pasokan industri",
-        "country": "Kazakstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Kami membeli silinder dengan regulator dan selang sebagai satu wadah pesanan. Dokumen dan penandaan sudah siap untuk pasar kami, jadi penjualan kembali sangatlah mudah.",
-        "author": "Faisal Al Harbi",
+        "author": "Faisal Al-Harbi",
         "role": "Pembeli impor, perdagangan peralatan gas",
-        "country": "Arab Saudi"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "pengelasan",
+        "id": "welding",
         "eyebrow": "Silinder asetilena",
         "title": "Nyala api yang stabil untuk pengelasan presisi",
         "text": "Silinder asetilena terlarut dirancang untuk pengelasan dan pematrian berkelanjutan — tekanan konsisten, massa berpori yang aman, katup siap ekspor.",
         "points": [
           "Opsi ISO / DOT / GB",
           "Katup CGA/GOST/DIN",
-          "Warna & tanda OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "pemotongan",
+        "id": "cutting",
         "eyebrow": "Pemotongan & fabrikasi",
         "title": "Kekuatan ketika logam harus bergerak",
         "text": "Set silinder asetilena dan oksigen aliran tinggi untuk galangan kapal, bengkel, dan jalur fabrikasi berat.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propana",
+        "id": "propane",
         "eyebrow": "Propana & LPG",
         "title": "Silinder LPG yang tahan lama untuk setiap pasar",
         "text": "Dari pemanas dan gas memasak hingga pemotongan industri — silinder baja dibuat untuk tekanan, pelapisan, dan masa pakai yang lama.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "pabrik",
+        "id": "factory",
         "eyebrow": "Manufaktur",
         "title": "Kontrol pabrik dari baja hingga pengiriman",
         "text": "Pembentukan, pengelasan, pengujian hidrostatis, dan penyelesaian internal — sehingga setiap batch sesuai dengan gambar dan standar pasar Anda.",
         "points": [
           "Diuji secara hidrostatik",
           "Batch yang dapat dilacak",
-          "OEM / ODM siap"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kualitas",
+        "id": "quality",
         "eyebrow": "Kualitas & keamanan",
         "title": "Inspeksi dapat Anda masukkan ke dalam kutipan",
         "text": "Pemeriksaan material, uji kebocoran, torsi katup dan foto pengepakan. Paket sertifikat dan laporan foto dikirim secara pribadi berdasarkan permintaan.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "ekspor",
+        "id": "export",
         "eyebrow": "Ekspor global",
         "title": "Dikemas untuk pelabuhan, siap untuk pasar ekspor",
         "text": "Ekspor palet, pelindung katup, label multibahasa, dan dokumen pengiriman yang dikoordinasikan untuk Incoterms tujuan Anda.",
@@ -1181,8 +1197,8 @@
       "Cangkang silinder yang tidak dicat dengan leher terbuka setelah pengelasan"
     ],
     "refrigeration": [
-      "Unit kondensasi berpendingin udara dengan kompresor semi-hermetik Copeland",
-      "Unit kondensasi berpendingin udara dengan kompresor semi-hermetik Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Unit kondensasi pendingin bergaya kabinet tertutup",
       "Unit kondensasi berpendingin udara empat kipas berkapasitas tinggi"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Aksesori Produk",
     "subtitle": "Suku cadang untuk silinder asetilena, generator, pengelasan dan pemotongan. Buka Detail untuk spesifikasi dan aplikasi.",
     "cta": "Detail permintaan",
-    "details": "Detail",
+    "details": "Details",
     "close": "Menutup",
     "featuresLabel": "Fitur utama",
     "specsLabel": "Spesifikasi",
-    "applicationsLabel": "Aplikasi",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kualitas & pasokan",
     "whyTitle": "Mengapa memilih aksesoris kami?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Koneksi standar untuk pemasangan dan penggantian cepat"
         ],
         "specs": [
-          "Gas: asetilena (C₂H₂); penahan oksigen disediakan secara terpisah",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Tubuh: kuningan; penahan: baja tahan karat",
           "Koneksi: G 3/8″ LH atau ulir khusus",
           "Tekanan kerja: hingga 1,5 MPa / disesuaikan",
@@ -1308,13 +1324,13 @@
           "Inspeksi keamanan dan fungsi 100%."
         ],
         "specs": [
-          "Gas: asetilena, oksigen, argon, nitrogen, dan gas kompatibel",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Tekanan kerja: kelas 25/35 bar",
           "Tekanan uji: kelas 37,5 / 52,5 bar",
           "Saluran masuk/keluar: internal atau eksternal, disesuaikan",
           "Roda tangan: paduan aluminium/seng",
           "Suhu: −20 °C hingga +60 °C",
-          "Standar: ISO 10297, GB/T 8335, CGA atau custom",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Pengepakan: 1 buah/tas, 50 buah/kotak"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13mm (tersedia khusus)",
           "Panjang: 10/20/30/50/100 m atau custom",
           "Warna: standar biru; bahan SBR/EPDM + benang polyester",
-          "Standar: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Suhu: −20 °C hingga +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Berbagai rentang dan dudukan bawah/belakang"
         ],
         "specs": [
-          "Gas: asetilena, oksigen, argon, CO₂, nitrogen, dan gas kompatibel",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Dial: 50/63/100 mm, tersedia khusus",
           "Rentang: 0–1 bar hingga 0–400 bar, khusus",
           "Akurasi: ±2,5% standar, ±1,6% opsional",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Pengujian 100% sebelum pengiriman",
-          "Opsi dial dan branding OEM",
+          "OEM dial and branding options",
           "Ekspor kemasan"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Berbagai tekanan dan ukuran ulir yang disetel"
         ],
         "specs": [
-          "Gas: oksigen, asetilena, udara, nitrogen, dan gas yang kompatibel",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Tekanan kerja: hingga 25 bar / 25 kg/cm²",
           "Kisaran bantuan: 0,1–2,5 MPa, dapat disesuaikan",
           "Suhu: −20 °C hingga +120 °C",
@@ -1495,7 +1511,7 @@
           "Mendukung filtrasi efektif di saluran gas",
           "Konstruksi kuningan/logam industri",
           "Port berulir standar untuk pencocokan sistem",
-          "Benang OEM, ukuran dan pengepakan berdasarkan permintaan"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Peran: konverter filter/kepala adaptor",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Menyaring",
+        "title": "Filter",
         "desc": "Filter efisiensi tinggi yang menghilangkan kelembapan, oli, dan partikel untuk melindungi peralatan hilir.",
         "intro": "Menghilangkan partikel padat, air, minyak, dan kotoran lainnya dari aliran gas untuk melindungi peralatan dan memperpanjang masa pakai. Kepala kuningan, elemen berkualitas dan operasi stabil di bawah tekanan. Untuk oksigen, asetilena, udara, nitrogen, dan gas yang kompatibel.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Pengoperasian yang stabil di bawah tekanan kerja"
         ],
         "specs": [
-          "Gas: oksigen, asetilena, udara, nitrogen, dan gas yang kompatibel",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Tekanan masuk: hingga 2,5 MPa",
           "Tekanan kerja: 0,01–1,6 MPa",
           "Akurasi: 5/20/50 μm opsional",
@@ -1625,19 +1641,19 @@
       "Pendingin air industri",
       "Unit pendingin kendaraan dan ruang pendingin bergerak"
     ],
-    "note": "Wanda International Trade memasok peralatan pendingin di samping jalur tabung gas: unit, panel, pendingin, dan perangkat keras rantai dingin terkait. Copeland, Bitzer dan nama serupa mengacu pada merek kompresor di dalam unit, bukan perubahan merek perusahaan tersebut.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video perusahaan",
     "videoSubtitle": "Ikhtisar lini peralatan pendingin. Lebih banyak rekaman dikirim secara pribadi berdasarkan permintaan.",
     "items": [
       {
-        "title": "Unit berpendingin udara semi-hermetis Copeland",
-        "spec": "Unit kondensasi · Kompresor Copeland",
-        "desc": "Unit kondensasi berpendingin udara dengan kompresor semi-hermetik Copeland untuk ruangan dingin dan tugas suhu sedang."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Unit berpendingin udara semi-hermetik Bitzer",
-        "spec": "Unit kondensasi · Kompresor Bitzer",
-        "desc": "Unit kondensasi berpendingin udara dengan kompresor semi-hermetik Bitzer untuk ruangan dengan tugas lebih tinggi dan suhu sedang hingga rendah."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Unit tipe kotak tertutup",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Siap untuk meminta penawaran?",
       "quoteCta": "Permintaan Penawaran",
       "relatedProducts": "Produk terkait",
-      "applications": "Aplikasi",
+      "applications": "Applications",
       "standardsTitle": "Standar & sertifikasi",
-      "oemTitle": "OEM/kustomisasi",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pengemasan & pengiriman",
       "placeholders": {
         "standards": "Standar dan sertifikat yang tersedia dikonfirmasi per pesanan dan pasar tujuan. Salinan sertifikat dikirim secara pribadi berdasarkan permintaan — file tidak dipublikasikan di situs web.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Silinder asetilena, generator, silinder propana dan aksesoris untuk aplikasi industri dan pengelasan.",
       "seoTitle": "Produk Tabung Gas",
       "seoDescription": "Silinder asetilena, generator, silinder propana dan aksesoris untuk aplikasi industri dan pengelasan.",
-      "refrigerationNote": "Wanda International Trade memasok peralatan pendingin di samping jalur tabung gas: unit, panel, pendingin, dan perangkat keras rantai dingin terkait. Copeland, Bitzer dan nama serupa mengacu pada merek kompresor di dalam unit, bukan perubahan merek perusahaan tersebut.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Silinder Asetilena Terlarut",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Silinder Propana",
-          "overview": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, mematri, konstruksi dan pasokan gas industri.",
+          "overview": "Silinder baja untuk penyimpanan dan transportasi gas propana. Digunakan untuk pemanasan, pasokan propana industri, memasak, dan pemotongan bahan bakar oksi bila dipasangkan dengan asetilena.",
           "seoTitle": "Silinder Gas Propana",
-          "seoDescription": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, mematri, konstruksi dan pasokan gas industri."
+          "seoDescription": "Silinder gas propana baja untuk pemanasan, pasokan industri, dan aplikasi pemotongan. Opsi ekspor dan OEM dibahas per pesanan."
         },
         "lpg": {
           "name": "Silinder LPG",
-          "overview": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, mematri, konstruksi dan pasokan gas industri.",
+          "overview": "Silinder untuk bahan bakar gas cair (LPG) — propana, butana atau campuran campuran. Umum untuk distribusi LPG perumahan dan komersial, berkemah, pemanas dan pasokan bahan bakar portabel.",
           "seoTitle": "Tabung Gas LPG",
-          "seoDescription": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, mematri, konstruksi dan pasokan gas industri."
+          "seoDescription": "Silinder LPG untuk distribusi gas minyak cair perumahan, komersial dan industri serta pasokan portabel."
         },
         "industrial": {
           "name": "Silinder Gas Industri",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM dan Grosir",
+      "title": "OEM and Wholesale",
       "subtitle": "Opsi label pribadi dan pasokan massal untuk distributor dan pembeli industri.",
-      "seoTitle": "Pasokan Silinder Gas OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Pembuatan tabung gas OEM dan private-label untuk merek dan distributor luar negeri.",
       "quoteTitle": "Diskusikan persyaratan OEM",
       "quoteCta": "Minta Penawaran OEM",
@@ -1799,7 +1815,7 @@
           "text": "Ekspor karton, palet, dan tanda pengepakan berdasarkan pesanan."
         },
         {
-          "title": "Label Pribadi",
+          "title": "Private Label",
           "text": "Pelabelan dan presentasi merek untuk saluran distributor."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Jumlah grosir untuk pengadaan proyek dan distributor."
         },
         {
-          "title": "Manufaktur OEM",
+          "title": "OEM Manufacturing",
           "text": "Konfigurasi produk selaras dengan spesifikasi dan pasar Anda."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Kami tidak mempublikasikan jumlah negara, nama pelanggan, atau referensi proyek yang belum diverifikasi di halaman ini.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Pertanyaan industri dan distributor dari pasar Afrika."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Pembeli industri mengevaluasi pasokan silinder ekspor."
         },
         {
-          "title": "Amerika Latin",
+          "title": "Latin America",
           "text": "Pertanyaan untuk tabung gas industri dan pasokan aksesori."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplikasi",
+      "label": "Applications",
       "title": "Aplikasi Silinder",
       "subtitle": "Produk yang dirancang untuk tugas gas industri umum dan kebutuhan pembeli di luar negeri.",
       "seoTitle": "Aplikasi Silinder",
@@ -1884,21 +1900,21 @@
       ]
     },
     "faq": {
-      "label": "Pertanyaan Umum",
+      "label": "FAQ",
       "title": "Pertanyaan yang Sering Diajukan",
       "subtitle": "Perusahaan, produk, OEM, dan ekspor — jawaban untuk pembeli luar negeri sebelum Anda meminta penawaran.",
-      "seoTitle": "Pertanyaan Umum",
+      "seoTitle": "FAQ",
       "seoDescription": "Perusahaan, produk, OEM, dan ekspor — jawaban untuk pembeli luar negeri sebelum Anda meminta penawaran."
     },
     "contactPage": {
-      "label": "Kontak",
+      "label": "Contact",
       "title": "Mari Diskusikan Kebutuhan Anda",
       "subtitle": "Jangkau tim penjualan kami melalui formulir, email, atau messenger. Bagikan produk, kuantitas, dan tujuan untuk penawaran harga yang lebih cepat.",
       "seoTitle": "Permintaan Penawaran",
       "seoDescription": "Beri tahu kami ukuran, jumlah, negara tujuan, dan aplikasinya — kami akan menyiapkan penawaran terperinci."
     },
     "blog": {
-      "label": "blog",
+      "label": "Blog",
       "title": "Artikel Terbaru",
       "subtitle": "Konten ahli untuk profesional pengelasan dan pasokan gas.",
       "seoTitle": "Artikel & Panduan",

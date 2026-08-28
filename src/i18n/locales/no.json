@@ -3,16 +3,16 @@
     "home": "Hjem",
     "products": "Produkter",
     "specs": "Spesifikasjoner",
-    "applications": "Søknader",
+    "applications": "Applications",
     "about": "Om",
-    "gallery": "Galleri",
+    "gallery": "Gallery",
     "factory": "Fabrikk",
     "quality": "Kvalitet",
     "faq": "FAQ",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "getQuote": "Få et tilbud",
     "inquire": "Spør →",
-    "services": "Tjenester",
+    "services": "Services",
     "pricing": "Prissetting",
     "accessories": "Tilbehør",
     "refrigeration": "Kjølelager",
@@ -120,7 +120,23 @@
       "Konstruksjon",
       "Metallproduksjon",
       "Gasslagring og distribusjon"
+    ],
+    "refrigerationItems": [
+      "Kjølerom og kjølelager",
+      "Matforedling og distribusjon",
+      "Supermarkeder og kjølekjeder i detaljhandelen",
+      "Farmasøytisk og medisinsk kjølelager",
+      "Logistikk og kjøletransport",
+      "Industrielle kjøle- og prosesskjølere"
     ]
+  },
+  "operations": {
+    "title": "Globale operasjoner",
+    "manufacturingBase": "Produksjonsbase",
+    "manufacturingCountry": "Kina",
+    "intlSalesOffice": "Internasjonalt salgskontor",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Vår produksjon er basert i Kina, mens vårt internasjonale salgsteam i Usbekistan støtter kunder over hele verden."
   },
   "whyUs": {
     "title": "Hvorfor velge Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Produkttilbud orientert rundt produksjon, ikke bare handelskataloger."
       },
       {
-        "title": "OEM-støtte",
+        "title": "OEM support",
         "desc": "Tilpasset farge, merking, ventil og pakking diskutert per bestilling."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Forming, sveising, testing og etterbehandling for industrielle gassflasker."
       },
       {
-        "title": "OEM-støtte",
+        "title": "OEM Support",
         "desc": "Farge, merking, ventil, hette og pakningsmuligheter etter bestilling."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Fortell oss produkt, størrelse, mengde, destinasjonsland og spesifikasjoner - vårt salgsteam vil svare med produktinformasjon og et tilbud.",
     "formTitle": "Be om et tilbud",
     "formSubtitle": "Fyll ut skjemaet for en kommersiell forespørsel. Obligatoriske felt er merket.",
-    "name": "Navn",
+    "name": "Name",
     "company": "Bedrift",
     "phone": "Telefon / WhatsApp",
     "email": "E-post",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Ventiltype, farge, standard, pakking, OEM-merking, mengdenotater..."
   },
   "footer": {
-    "company": "Wanda Group Gassylinder Produsent",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesjonell produksjon av gassflasker",
     "rights": "© 2026 Wanda Group. Alle rettigheter forbeholdt.",
     "privacy": "Personvernerklæring",
     "terms": "Vilkår for bruk"
   },
   "privacy": {
-    "label": "Lovlig",
+    "label": "Legal",
     "title": "Personvernerklæring",
     "updated": "Sist oppdatert: 25. august 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Spørsmål om denne policyen:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Detaljerte produktspesifikasjoner",
     "catalogSubtitle": "Komplette tekniske data, modeller og parametere for hver kategori. Velg et produkt for å se spesifikasjonstabellen.",
     "requestPrice": "Forespørsel om pris for denne modellen",
-    "services": "Tjenester",
+    "services": "Services",
     "pricing": "Prissetting",
     "getExactQuote": "Få eksakt tilbud",
     "certifications": "Sertifiseringer",
     "order": "Bestille",
     "reviews": "Anmeldelser",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Sted",
     "quoteResponse": "Sitat svar",
@@ -570,23 +586,23 @@
     "countriesServed": "Eksportstøtte",
     "exportReady": "Eksport klar",
     "years": "år",
-    "acetylene": "Acetylen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO-sertifisert",
     "globalExport": "Global eksport",
     "products": "Produkter",
     "specs": "Spesifikasjoner",
-    "applications": "Søknader",
+    "applications": "Applications",
     "whyUs": "Hvorfor oss",
     "about": "Om oss",
-    "gallery": "Galleri",
+    "gallery": "Gallery",
     "quality": "Kvalitet",
     "faq": "FAQ",
-    "blog": "Blogg",
+    "blog": "Blog",
     "searchLanguage": "Søk etter språk...",
     "noLanguagesFound": "Ingen språk funnet",
     "breadcrumb": "Brødsmule",
     "primaryNav": "Primær",
-    "menu": "Meny",
+    "menu": "Menu",
     "playVideo": "Spill av video",
     "productGallery": "Produktgalleri",
     "wechatQr": "WeChat QR code",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetylen",
-      "propane": "Propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Tilbehør"
     },
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Standard Acetylen-sylindermodeller",
       "headers": [
-        "Modell",
+        "Model",
         "Volum (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Standard propansylindermodeller",
       "headers": [
-        "Modell",
+        "Model",
         "Volum (L)",
-        "Gass (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Vekt (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Acetylen Generator modeller",
       "headers": [
-        "Modell",
+        "Model",
         "Utgang (m³/t)",
         "Karbid (kg/t)",
         "Trykk (kPa)",
@@ -879,7 +895,7 @@
         "points": [
           "Logo og RAL farge",
           "Markedsstandard ventil",
-          "OEM emballasje og etiketter"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Avhenger av modell og reisemål"
       },
       {
-        "label": "Ledetid",
+        "label": "Lead time",
         "value": "Bekreftet per bestilling",
         "desc": "Deles med sitatet"
       },
@@ -966,7 +982,7 @@
         "Sylindervolum og modell",
         "Ventiltype og koblingsstandard",
         "Standarder som kreves for destinasjonsmarkedet",
-        "OEM farge, merking og emballasje",
+        "OEM colour, marking and packaging",
         "Ordrevolum og Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produkt",
       "MOQ",
       "Pris",
-      "Ledetid"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "amerikansk markedssertifisering"
+        "desc": "Sylinderstandard for USA-markedet – anvendbarhet bekreftet per produkt og bestilling"
       },
       {
         "name": "TPED",
-        "desc": "Europeisk transportdirektiv"
+        "desc": "Europeiske transportkrav – diskutert per destinasjonsmarked"
       },
       {
         "name": "GB 5099",
         "desc": "Kinesisk gassflaske standard"
       },
       {
-        "name": "CE-merke",
-        "desc": "Europeiske samsvarskrav"
+        "name": "CE Mark",
+        "desc": "Europeisk samsvarsmerking — anvendelighet per produkt og marked"
       }
     ]
   },
@@ -1066,37 +1082,37 @@
         "quote": "Vi ombestilte 40L acetylensylindere tre ganger i år. GOST-ventiler, OEM-farge og eksportpakning matchet den første prøven hver gang.",
         "author": "Rustam Yusupov",
         "role": "Eier, sveisegassfordeler",
-        "country": "Usbekistan"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Sitat kom samme dag med en klar MOQ og ledetid. Propanflasker ankom med POL-ventiler og full pakkeliste - ingen tollforsinkelser fra vår side.",
         "author": "Aigerim Bekova",
         "role": "Innkjøpssjef, industriforsyning",
-        "country": "Kasakhstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Vi kjøper sylindere med regulatorer og slanger som én containerbestilling. Dokumenter og merking var klare for vårt marked, så videresalg var greit.",
         "author": "Faisal Al-Harbi",
         "role": "Importkjøper, handel med gassutstyr",
-        "country": "Saudi-Arabia"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "sveising",
+        "id": "welding",
         "eyebrow": "Acetylensylindere",
         "title": "Stabil flamme for presisjonssveising",
         "text": "Sylindre med oppløst acetylen konstruert for kontinuerlig sveising og lodding – konsekvent trykk, sikker porøs masse, eksportklare ventiler.",
         "points": [
           "ISO / DOT / GB alternativer",
           "CGA / GOST / DIN ventiler",
-          "OEM farge og merking"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "kutting",
+        "id": "cutting",
         "eyebrow": "Kutting og fabrikasjon",
         "title": "Strøm når metall må bevege seg",
         "text": "Høyflytende acetylen og oksygenklare sylindersett for verft, verksteder og tunge fabrikasjonslinjer.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan og LPG",
         "title": "Slitesterke LPG-sylindere for alle markeder",
         "text": "Fra varme- og kokegass til industriell skjæring — stålsylindere bygget for trykk, belegg og lang levetid.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabrikk",
+        "id": "factory",
         "eyebrow": "Produksjon",
         "title": "Fabrikkkontroll fra stål til forsendelse",
         "text": "Intern forming, sveising, hydrostatisk testing og etterbehandling – slik at hver batch matcher din tegning og markedsstandard.",
         "points": [
           "Hydrostatisk testet",
           "Sporbare partier",
-          "OEM / ODM klar"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kvalitet",
+        "id": "quality",
         "eyebrow": "Kvalitet og sikkerhet",
         "title": "Befaring kan du legge inn i tilbudet",
         "text": "Materialkontroller, lekkasjetester, ventilmoment og pakkebilder. Sertifikatpakker og bilderapporter sendes privat på forespørsel.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "eksport",
+        "id": "export",
         "eyebrow": "Global eksport",
         "title": "Pakket for havner, klar for eksportmarkeder",
         "text": "Eksporter paller, ventilbeskyttelse, flerspråklige etiketter og forsendelsesdokumenter koordinert for din destinasjon Incoterms.",
@@ -1181,8 +1197,8 @@
       "Umalte sylinderskall med åpne halser etter sveising"
     ],
     "refrigeration": [
-      "Luftkjølt kondenseringsaggregat med Copeland semi-hermetisk kompressor",
-      "Luftkjølt kondenseringsenhet med Bitzer semi-hermetisk kompressor",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Innkapslet kjølekondenseringsenhet i skapstil",
       "Luftkjølt kondenseringsenhet med fire vifter med høy kapasitet"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Produkttilbehør",
     "subtitle": "Deler til acetylensylindere, generatorer, sveising og skjæring. Åpne Detaljer for spesifikasjoner og applikasjoner.",
     "cta": "Be om detaljer",
-    "details": "Detaljer",
+    "details": "Details",
     "close": "Lukke",
     "featuresLabel": "Nøkkelfunksjoner",
     "specsLabel": "Spesifikasjoner",
-    "applicationsLabel": "Søknader",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kvalitet og forsyning",
     "whyTitle": "Hvorfor velge vårt tilbehør?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standardkoblinger for rask installasjon og utskifting"
         ],
         "specs": [
-          "Gass: acetylen (C2H2); oksygenavledere leveres separat",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Kropp: messing; avleder: rustfritt stål",
           "Tilkobling: G 3/8\" LH eller tilpasset gjenger",
           "Arbeidstrykk: opptil 1,5 MPa / tilpasset",
@@ -1308,13 +1324,13 @@
           "100 % sikkerhets- og funksjonsinspeksjon"
         ],
         "specs": [
-          "Gass: acetylen, oksygen, argon, nitrogen og kompatible gasser",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Arbeidstrykk: 25 / 35 bar klasse",
           "Prøvetrykk: 37,5 / 52,5 bar klasse",
           "Innløp/uttak: internt eller eksternt, tilpasset",
           "Håndhjul: aluminium / sinklegering",
           "Temperatur: −20 °C til +60 °C",
-          "Standarder: ISO 10297, GB/T 8335, CGA eller tilpasset",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Pakning: 1 stk/pose, 50 stk/eske"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (tilpasset tilgjengelig)",
           "Lengde: 10 / 20 / 30 / 50 / 100 m eller tilpasset",
           "Farge: blå standard; materiale SBR / EPDM + polyestergarn",
-          "Standarder: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatur: −20 °C til +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Flere rekkevidder og bunn-/bakfester"
         ],
         "specs": [
-          "Gass: acetylen, oksygen, argon, CO₂, nitrogen og kompatible gasser",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Urskive: 50 / 63 / 100 mm, tilpasset tilgjengelig",
           "Rekkevidde: 0–1 bar opp til 0–400 bar, tilpasset",
           "Nøyaktighet: ±2,5 % standard, ±1,6 % valgfritt",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100 % testing før levering",
-          "OEM-skive og merkevarealternativer",
+          "OEM dial and branding options",
           "Eksporter emballasje"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Flere innstilte trykk og gjengestørrelser"
         ],
         "specs": [
-          "Gass: oksygen, acetylen, luft, nitrogen og kompatible gasser",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Arbeidstrykk: opptil 25 bar / 25 kg/cm²",
           "Avlastningsområde: 0,1–2,5 MPa, kan tilpasses",
           "Temperatur: −20 °C til +120 °C",
@@ -1495,7 +1511,7 @@
           "Støtter effektiv filtrering i gassledningen",
           "Industriell messing/metallkonstruksjon",
           "Standard gjengede porter for systemtilpasning",
-          "OEM gjenger, størrelse og pakking på forespørsel"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rolle: filteromformer / adapterhode",
@@ -1526,7 +1542,7 @@
           "Stabil drift under arbeidspress"
         ],
         "specs": [
-          "Gass: oksygen, acetylen, luft, nitrogen og kompatible gasser",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Innløpstrykk: opptil 2,5 MPa",
           "Arbeidstrykk: 0,01–1,6 MPa",
           "Nøyaktighet: 5 / 20 / 50 μm valgfritt",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Lovlig",
+    "label": "Legal",
     "title": "Vilkår for bruk",
     "updated": "Sist oppdatert: 27. august 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Industrielle vannkjølere",
       "Kjøleenheter for kjøretøy og mobile kjølerom"
     ],
-    "note": "Wanda International Trade leverer kjøleutstyr ved siden av gass-sylinderlinjen: enheter, paneler, kjølere og relatert kjølekjedeutstyr. Copeland, Bitzer og lignende navn refererer til kompressormerket inne i enheten, ikke en rebrand av disse selskapene.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Bedriftsvideo",
     "videoSubtitle": "Oversikt over kjøleutstyrslinjen. Flere opptak sendes privat på forespørsel.",
     "items": [
       {
-        "title": "Copeland semi-hermetisk luftkjølt enhet",
-        "spec": "Kondenseringsenhet · Copeland kompressor",
-        "desc": "Luftkjølt kondenseringsaggregat med Copeland semi-hermetisk kompressor for kjølerom og middels temperaturdrift."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer semi-hermetisk luftkjølt enhet",
-        "spec": "Kondenseringsenhet · Bitzer kompressor",
-        "desc": "Luftkjølt kondenseringsenhet med Bitzer semi-hermetisk kompressor for rom med høyere belastning og middels til lav temperatur."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Vedlagt enhet av bokstype",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Klar til å be om et tilbud?",
       "quoteCta": "Be om et tilbud",
       "relatedProducts": "Relaterte produkter",
-      "applications": "Søknader",
+      "applications": "Applications",
       "standardsTitle": "Standarder og sertifisering",
-      "oemTitle": "OEM / tilpasning",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pakking og levering",
       "placeholders": {
         "standards": "Tilgjengelige standarder og sertifikater bekreftes per ordre og destinasjonsmarked. Sertifikatkopier sendes privat på forespørsel - filer publiseres ikke på nettstedet.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetylensylindere, generatorer, propansylindere og tilbehør for industrielle og sveiseapplikasjoner.",
       "seoTitle": "Gassflaskeprodukter",
       "seoDescription": "Acetylensylindere, generatorer, propansylindere og tilbehør for industrielle og sveiseapplikasjoner.",
-      "refrigerationNote": "Wanda International Trade leverer kjøleutstyr ved siden av gass-sylinderlinjen: enheter, paneler, kjølere og relatert kjølekjedeutstyr. Copeland, Bitzer og lignende navn refererer til kompressormerket inne i enheten, ikke en rebrand av disse selskapene.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Oppløste acetylensylindere",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propansylindere",
-          "overview": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning.",
+          "overview": "Stålsylindere for propangass lagring og transport. Brukes til oppvarming, industriell propantilførsel, matlaging og skjæring av oksygen i kombinasjon med acetylen.",
           "seoTitle": "Propangass sylindere",
-          "seoDescription": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning."
+          "seoDescription": "Propangassflasker i stål for oppvarming, industriell forsyning og skjæreapplikasjoner. Eksport- og OEM-alternativer diskutert per bestilling."
         },
         "lpg": {
           "name": "LPG-sylindere",
-          "overview": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning.",
+          "overview": "Sylindre for flytende petroleumsgass (LPG) - propan, butan eller blandede blandinger. Felles for LPG-distribusjon for boliger og kommersielle formål, camping, oppvarming og bærbar drivstoffforsyning.",
           "seoTitle": "LPG gassflasker",
-          "seoDescription": "Sylindre for propan, butan og LPG-blandinger. Brukes i oppvarming, skjæring, lodding, konstruksjon og industriell gassforsyning."
+          "seoDescription": "LPG-flasker for boliger, kommersielle og industrielle flytende petroleumsgassdistribusjon og bærbar forsyning."
         },
         "industrial": {
           "name": "Industrielle gassflasker",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM og engros",
+      "title": "OEM and Wholesale",
       "subtitle": "Private label og bulkforsyningsmuligheter for distributører og industrielle kjøpere.",
-      "seoTitle": "OEM gassylinderforsyning",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM og private-merkede gassflaskeproduksjon for utenlandske merker og distributører.",
       "quoteTitle": "Diskuter OEM-krav",
       "quoteCta": "Be om OEM-tilbud",
@@ -1807,7 +1823,7 @@
           "text": "Grossistkvanta for prosjekt- og distributøranskaffelser."
         },
         {
-          "title": "OEM-produksjon",
+          "title": "OEM Manufacturing",
           "text": "Produktkonfigurasjon tilpasset din spesifikasjon og marked."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Vi publiserer ikke ubekreftede landtellinger, kundenavn eller prosjektreferanser på denne siden.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Industri- og distributørforespørsler fra afrikanske markeder."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Industrielle kjøpere vurderer forsyning av eksportsylinder."
         },
         {
-          "title": "Latin-Amerika",
+          "title": "Latin America",
           "text": "Forespørsler om industrigassflaske og tilbehørsforsyning."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Søknader",
+      "label": "Applications",
       "title": "Sylinderapplikasjoner",
       "subtitle": "Produkter designet for vanlige industrielle gassoppgaver og utenlandske kjøpers krav.",
       "seoTitle": "Sylinderapplikasjoner",
@@ -1891,14 +1907,14 @@
       "seoDescription": "Bedrift, produkter, OEM og eksport – svar for utenlandske kjøpere før du ber om et tilbud."
     },
     "contactPage": {
-      "label": "Kontakt",
+      "label": "Contact",
       "title": "La oss diskutere dine krav",
       "subtitle": "Nå vårt salgsteam via skjema, e-post eller messenger. Del produkt, mengde og destinasjon for et raskere tilbud.",
       "seoTitle": "Be om et tilbud",
       "seoDescription": "Fortell oss størrelse, mengde, destinasjonsland og søknad – vi utarbeider et detaljert tilbud."
     },
     "blog": {
-      "label": "Blogg",
+      "label": "Blog",
       "title": "Siste artikler",
       "subtitle": "Ekspertinnhold for fagfolk innen sveising og gassforsyning.",
       "seoTitle": "Artikler og guider",

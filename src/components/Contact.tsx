@@ -4,6 +4,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import { siteConfig, getFormEndpoint, siteLocation } from '../config/site'
 import { routes } from '../config/routes'
 import { trackLead } from '../config/analytics'
+import OperationsInfo from './OperationsInfo'
 import ScrollReveal from './ScrollReveal'
 import WhatsAppIcon from './WhatsAppIcon'
 import TelegramIcon from './TelegramIcon'
@@ -193,6 +194,10 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                     <strong>{t.ui.location}</strong>
                     <span>{siteLocation(lang)}</span>
                   </div>
+                </div>
+
+                <div className="contact__detail contact__detail--operations">
+                  <OperationsInfo />
                 </div>
 
                 <div className="contact__detail contact__detail--wechat">

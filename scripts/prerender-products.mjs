@@ -1,22 +1,18 @@
 /**
  * Post-build selective prerender for product detail pages (English default).
- * Generates dist/products/<slug>/index.html with unique crawlable content.
  */
 import fs from 'fs'
 import path from 'path'
-
-const ROOT = path.resolve(import.meta.dirname, '..')
-const DIST = path.join(ROOT, 'dist')
-const EN = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/i18n/locales/en.json'), 'utf8'))
-
-const SITE_ORIGIN = 'https://www.wandagroups.com'
-const SITE_BRAND = 'Wanda Group'
-
-const LANG_CODES = [
-  'ar', 'bn', 'bg', 'hr', 'cs', 'da', 'nl', 'en', 'fil', 'fi', 'fr', 'de', 'el', 'hi', 'hu', 'id',
-  'it', 'ja', 'kk', 'ko', 'lv', 'lt', 'ms', 'no', 'pl', 'pt', 'ro', 'ru', 'sr', 'sk', 'sl', 'es',
-  'sw', 'sv', 'th', 'tr', 'uk', 'ur', 'uz', 'tg', 'vi', 'zh',
-]
+import {
+  EN,
+  esc,
+  pageUrl,
+  readTemplate,
+  applyHead,
+  applyBody,
+  buildSiteNav,
+  DIST,
+} from './prerender-shared.mjs'
 
 const PRODUCTS = [
   {
@@ -81,33 +77,6 @@ const REF_IMAGES = [
   '/images/wg/ref-enclosed.jpg',
   '/images/wg/ref-four-fan.jpg',
 ]
-
-function esc(s) {
-  return String(s)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-}
-
-function htmlLang(lang) {
-  return lang === 'zh' ? 'zh-Hans' : lang
-}
-
-function pageUrl(pathname, lang) {
-  const base = pathname === '/' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}${pathname}`
-  if (lang === 'en') return base
-  const join = base.includes('?') ? '&' : '?'
-  return `${base}${join}lang=${lang}`
-}
-
-function buildTitle(seoTitle) {
-  return seoTitle.includes(SITE_BRAND) ? seoTitle : `${seoTitle} | ${SITE_BRAND}`
-}
-
-function productPath(slug) {
-  return `/products/${slug}`
-}
 
 function catalogEntry(key) {
   return EN.pages.products.catalog[key]
@@ -186,7 +155,7 @@ function buildHubLinks(hubLinks) {
   const links = hubLinks
     .map(({ slug, key }) => {
       const name = catalogEntry(key).name
-      return `<li><a href="${pageUrl(productPath(slug), 'en')}">${esc(name)}</a></li>`
+      return `<li><a href="${pageUrl(`/products/${slug}`, 'en')}">${esc(name)}</a></li>`
     })
     .join('')
   return `
@@ -203,7 +172,7 @@ function buildRelated(relatedSlugs) {
       const def = PRODUCTS.find((p) => p.slug === slug)
       if (!def) return ''
       const cat = catalogEntry(def.catalogKey)
-      return `<li><a href="${pageUrl(productPath(slug), 'en')}">${esc(cat.name)}</a></li>`
+      return `<li><a href="${pageUrl(`/products/${slug}`, 'en')}">${esc(cat.name)}</a></li>`
     })
     .join('')
 
@@ -216,26 +185,18 @@ function buildRelated(relatedSlugs) {
   `
 }
 
-function buildSiteNav() {
-  const links = [
-    ['Home', '/'],
-    ['Products', '/products'],
-    ['About', '/about'],
-    ['Factory', '/factory'],
-    ['Certifications', '/certifications'],
-    ['OEM', '/oem'],
-    ['Contact', '/contact'],
-  ]
-  const items = links
-    .map(([label, href]) => `<li><a href="${pageUrl(href, 'en')}">${esc(label)}</a></li>`)
-    .join('')
-  return `<nav aria-label="Site"><ul>${items}</ul></nav>`
+function productApplications(product) {
+  if (product.slug === 'refrigeration') {
+    const items = EN.applications.refrigerationItems.map((item) => `<li>${esc(item)}</li>`).join('')
+    return `<ul>${items}</ul>`
+  }
+  const items = EN.applications.items.map((item) => `<li>${esc(item)}</li>`).join('')
+  return `<ul>${items}</ul>`
 }
 
 function buildBody(product) {
   const cat = catalogEntry(product.catalogKey)
-  const pathname = productPath(product.slug)
-  const applications = EN.applications.items.map((item) => `<li>${esc(item)}</li>`).join('')
+  const pathname = `/products/${product.slug}`
 
   const breadcrumbs = `
     <nav aria-label="Breadcrumb">
@@ -258,7 +219,7 @@ function buildBody(product) {
       ${product.tab ? buildTabBlock(product.tab) : ''}
       <section>
         <h2>${esc(EN.pages.common.applications)}</h2>
-        <ul>${applications}</ul>
+        ${productApplications(product)}
       </section>
       ${buildRelated(product.related)}
     </article>
@@ -301,86 +262,23 @@ function buildBreadcrumbJsonLd(catName, pathname) {
   }
 }
 
-function replaceMeta(html, attr, key, content) {
-  const re = new RegExp(
-    `<meta ${attr}="${key}" content="[^"]*"\\s*/?>|<meta ${attr}="${key}"\\s+content="[^"]*"\\s*/?>`
-  )
-  if (re.test(html)) {
-    return html.replace(re, `<meta ${attr}="${key}" content="${esc(content)}" />`)
-  }
-  return html
-}
-
-function applyHead(html, product, cat) {
-  const pathname = productPath(product.slug)
-  const title = buildTitle(cat.seoTitle)
-  const description = cat.seoDescription
-  const canonical = pageUrl(pathname, 'en')
-  const image = product.image.startsWith('http') ? product.image : `${SITE_ORIGIN}${product.image}`
-
-  let out = html
-  out = out.replace(/<link rel="canonical" href="[^"]*"\s*\/?>/, `<link rel="canonical" href="${canonical}" />`)
-  out = out.replace(/<title>[^<]*<\/title>/, `<title>${esc(title)}</title>`)
-  out = replaceMeta(out, 'name', 'description', description)
-  out = replaceMeta(out, 'property', 'og:title', title)
-  out = replaceMeta(out, 'property', 'og:description', description)
-  out = replaceMeta(out, 'property', 'og:url', canonical)
-  out = replaceMeta(out, 'property', 'og:image', image)
-  out = replaceMeta(out, 'property', 'og:image:alt', `${SITE_BRAND} — ${cat.seoTitle}`)
-  out = replaceMeta(out, 'name', 'twitter:title', title)
-  out = replaceMeta(out, 'name', 'twitter:description', description)
-  out = replaceMeta(out, 'name', 'twitter:image', image)
-
-  out = out.replace(/<link rel="alternate" hreflang="[^"]*" href="[^"]*"\s*\/?>\s*/g, '')
-
-  const hreflangBlock = LANG_CODES
-    .map((lang) => {
-      const hreflang = htmlLang(lang)
-      return `<link rel="alternate" hreflang="${hreflang}" href="${pageUrl(pathname, lang)}" />`
-    })
-    .join('\n    ')
-  const xDefault = `<link rel="alternate" hreflang="x-default" href="${pageUrl(pathname, 'en')}" />`
-
-  out = out.replace(
-    /<link rel="canonical" href="[^"]*"\s*\/?>/,
-    `<link rel="canonical" href="${canonical}" />\n    ${xDefault}\n    ${hreflangBlock}`
-  )
-
-  const breadcrumbLd = JSON.stringify(buildBreadcrumbJsonLd(cat.name, pathname), null, 2)
-  const jsonLdScript = `<script type="application/ld+json" id="breadcrumb-jsonld">\n${breadcrumbLd}\n    </script>`
-
-  out = out.replace(
-    /<script type="application\/ld\+json" id="site-jsonld-static">[\s\S]*?<\/script>/,
-    jsonLdScript
-  )
-
-  return out
-}
-
-function applyBody(html, bodyHtml) {
-  const noscriptMain = bodyHtml.replace(/^<main[^>]*>/, '<main>').replace(/<\/main>$/, '')
-
-  let out = html.replace(/<div id="root"><\/div>/, `<div id="root">${bodyHtml}</div>`)
-  out = out.replace(/<noscript>[\s\S]*?<\/noscript>/, `<noscript>${noscriptMain}</noscript>`)
-  return out
-}
-
 function prerenderProduct(template, product) {
   const cat = catalogEntry(product.catalogKey)
+  const pathname = `/products/${product.slug}`
   const body = buildBody(product)
-  let html = applyHead(template, product, cat)
+  let html = applyHead(template, {
+    pathname,
+    title: cat.seoTitle,
+    description: cat.seoDescription,
+    image: product.image,
+    jsonLd: buildBreadcrumbJsonLd(cat.name, pathname),
+  })
   html = applyBody(html, body)
   return html
 }
 
 function main() {
-  const templatePath = path.join(DIST, 'index.html')
-  if (!fs.existsSync(templatePath)) {
-    console.error('dist/index.html not found — run vite build first')
-    process.exit(1)
-  }
-
-  const template = fs.readFileSync(templatePath, 'utf8')
+  const template = readTemplate()
   const written = []
 
   for (const product of PRODUCTS) {

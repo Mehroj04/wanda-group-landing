@@ -3,16 +3,16 @@
     "home": "집",
     "products": "제품",
     "specs": "명세서",
-    "applications": "응용",
+    "applications": "Applications",
     "about": "에 대한",
-    "gallery": "갱도",
+    "gallery": "Gallery",
     "factory": "공장",
     "quality": "품질",
     "faq": "FAQ",
-    "contact": "연락하다",
+    "contact": "Contact",
     "getQuote": "견적 받기",
     "inquire": "문의하기 →",
-    "services": "서비스",
+    "services": "Services",
     "pricing": "가격",
     "accessories": "부속품",
     "refrigeration": "냉장",
@@ -120,7 +120,23 @@
       "건설",
       "금속 제조",
       "가스 저장 및 유통"
+    ],
+    "refrigerationItems": [
+      "냉장실 및 냉장 보관 시설",
+      "식품 가공 및 유통",
+      "슈퍼마켓 및 소매 콜드체인",
+      "제약 및 의료용 냉장 보관",
+      "물류 및 냉장 운송",
+      "산업용 냉각 및 공정 냉각기"
     ]
+  },
+  "operations": {
+    "title": "글로벌 운영",
+    "manufacturingBase": "제조기지",
+    "manufacturingCountry": "중국",
+    "intlSalesOffice": "국제 영업소",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "당사의 제조 사업장은 중국에 기반을 두고 있으며 우즈베키스탄의 국제 영업 팀은 전 세계 고객을 지원합니다."
   },
   "whyUs": {
     "title": "완다 그룹을 선택하는 이유",
@@ -131,7 +147,7 @@
         "desc": "무역 카탈로그뿐만 아니라 생산 중심의 제품 공급."
       },
       {
-        "title": "OEM 지원",
+        "title": "OEM support",
         "desc": "맞춤형 색상, 마킹, 밸브 및 포장은 주문별로 논의됩니다."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "산업용 가스 실린더의 성형, 용접, 테스트 및 마감."
       },
       {
-        "title": "OEM 지원",
+        "title": "OEM Support",
         "desc": "색상, 마킹, 밸브, 캡 및 포장 옵션을 주문별로 선택할 수 있습니다."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "제품, 크기, 수량, 도착 국가 및 사양을 알려주시면 영업팀에서 제품 정보와 견적을 보내드립니다.",
     "formTitle": "견적 요청",
     "formSubtitle": "상업 문의 양식을 작성하세요. 필수 입력란이 표시되어 있습니다.",
-    "name": "이름",
+    "name": "Name",
     "company": "회사",
     "phone": "전화/왓츠앱",
     "email": "이메일",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "밸브 유형, 색상, 표준, 포장, OEM 표시, 수량 메모..."
   },
   "footer": {
-    "company": "완다 그룹 가스 실린더 제조업체",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "전문 가스통 제조",
     "rights": "© 2026 완다 그룹. 모든 권리 보유.",
     "privacy": "개인 정보 보호 정책",
     "terms": "이용약관"
   },
   "privacy": {
-    "label": "합법적인",
+    "label": "Legal",
     "title": "개인 정보 보호 정책",
     "updated": "최종 업데이트 날짜: 2026년 8월 25일",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "이 정책에 대한 질문:"
   },
   "ui": {
-    "catalog": "목록",
+    "catalog": "Catalog",
     "catalogTitle": "자세한 제품 사양",
     "catalogSubtitle": "각 카테고리에 대한 완전한 기술 데이터, 모델 및 매개변수. 제품을 선택하시면 사양표를 보실 수 있습니다.",
     "requestPrice": "이 모델의 가격을 요청하세요",
-    "services": "서비스",
+    "services": "Services",
     "pricing": "가격",
     "getExactQuote": "정확한 견적 받기",
     "certifications": "인증",
     "order": "주문하다",
     "reviews": "리뷰",
-    "contact": "연락하다",
+    "contact": "Contact",
     "phone": "핸드폰",
     "location": "위치",
     "quoteResponse": "견적 응답",
@@ -570,23 +586,23 @@
     "countriesServed": "수출 지원",
     "exportReady": "수출 준비 완료",
     "years": "연령",
-    "acetylene": "아세틸렌",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO 인증",
     "globalExport": "글로벌 수출",
     "products": "제품",
     "specs": "명세서",
-    "applications": "응용",
+    "applications": "Applications",
     "whyUs": "왜 우리인가?",
     "about": "회사 소개",
-    "gallery": "갱도",
+    "gallery": "Gallery",
     "quality": "품질",
     "faq": "FAQ",
-    "blog": "블로그",
+    "blog": "Blog",
     "searchLanguage": "검색 언어...",
     "noLanguagesFound": "언어를 찾을 수 없습니다.",
     "breadcrumb": "탐색경로",
     "primaryNav": "주요한",
-    "menu": "메뉴",
+    "menu": "Menu",
     "playVideo": "비디오 재생",
     "productGallery": "제품 갤러리",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / 개인 상표",
+    "OEM / Private Label",
     "국제수출",
     "품질 관리",
     "요청 시 시장 표준",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "아세틸렌",
-      "propane": "프로판",
-      "generator": "발전기",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "부속품"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "표준 아세틸렌 실린더 모델",
       "headers": [
-        "모델",
+        "Model",
         "용량(L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "표준 프로판 실린더 모델",
       "headers": [
-        "모델",
+        "Model",
         "용량(L)",
-        "가스(kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "체중(kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "아세틸렌 발생기 모델",
       "headers": [
-        "모델",
+        "Model",
         "출력(m³/h)",
         "탄화물 (kg/h)",
         "압력(kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "범주",
         "모델",
-        "기준",
+        "Standard",
         "애플리케이션"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "로고 및 RAL 색상",
           "시장 표준 밸브",
-          "OEM 포장 및 라벨"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -887,7 +903,7 @@
         "title": "수출 및 물류",
         "desc": "완벽한 국제 배송 지원.",
         "points": [
-          "인코텀즈 FOB/CIF/DDP",
+          "Incoterms FOB/CIF/DDP",
           "문서 내보내기",
           "해상 및 철도 화물"
         ]
@@ -907,7 +923,7 @@
         "title": "인증",
         "desc": "세관 및 규제 기관을 위한 문서. 사본은 요청 시 개인적으로 전송됩니다.",
         "points": [
-          "ISO 9809, 도트, TPED",
+          "ISO 9809, DOT, TPED",
           "MSDS 및 품질인증서",
           "원산지 증명서"
         ]
@@ -950,7 +966,7 @@
         "desc": "모델과 목적지에 따라 다름"
       },
       {
-        "label": "리드타임",
+        "label": "Lead time",
         "value": "주문별로 확인됨",
         "desc": "견적과 공유"
       },
@@ -966,7 +982,7 @@
         "실린더 용량 및 모델",
         "밸브 종류 및 연결 규격",
         "대상 시장에 필요한 표준",
-        "OEM 색상, 마킹 및 포장",
+        "OEM colour, marking and packaging",
         "주문량 및 인코텀즈"
       ]
     },
@@ -1000,7 +1016,7 @@
       "제품",
       "MOQ",
       "가격",
-      "리드타임"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "미국 시장 인증"
+        "desc": "미국 시장 실린더 표준 — 제품 및 주문별로 적용 가능성 확인"
       },
       {
         "name": "TPED",
-        "desc": "유럽 ​​운송 지침"
+        "desc": "유럽 ​​운송 요구 사항 - 목적지 시장별로 논의됨"
       },
       {
         "name": "GB 5099",
         "desc": "중국 가스 실린더 표준"
       },
       {
-        "name": "CE 마크",
-        "desc": "유럽 ​​적합성 요구 사항"
+        "name": "CE Mark",
+        "desc": "유럽 ​​적합성 표시 - 제품 및 시장별 적용 가능성"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "우리는 올해 40L 아세틸렌 실린더를 세 번 재주문했습니다. GOST 밸브, OEM 색상 및 수출 포장은 매번 첫 번째 샘플과 일치했습니다.",
-        "author": "루스탐 유스포프",
+        "author": "Rustam Yusupov",
         "role": "소유주, 용접가스 유통업체",
-        "country": "우즈베키스탄"
+        "country": "Uzbekistan"
       },
       {
         "quote": "명확한 MOQ와 리드타임이 포함된 견적이 당일 발송되었습니다. 프로판 병은 POL 밸브 및 전체 포장 목록과 함께 도착했습니다. 우리 측에서는 통관 지연이 없습니다.",
-        "author": "아이게림 베코바",
+        "author": "Aigerim Bekova",
         "role": "조달 관리자, 산업 공급",
-        "country": "카자흐스탄"
+        "country": "Kazakhstan"
       },
       {
         "quote": "우리는 레귤레이터와 호스가 포함된 실린더를 하나의 컨테이너 주문으로 구매합니다. 문서와 마킹이 우리 시장에 준비되어 있었기 때문에 재판매가 간단했습니다.",
-        "author": "파이살 알 하르비",
+        "author": "Faisal Al-Harbi",
         "role": "수입바이어, 가스장비 무역",
-        "country": "사우디아라비아"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "용접",
+        "id": "welding",
         "eyebrow": "아세틸렌 실린더",
         "title": "정밀용접을 위한 안정된 화염",
         "text": "지속적인 용접 및 브레이징을 위해 설계된 용해 아세틸렌 실린더 - 일관된 압력, 안전한 다공성 물질, 수출용 밸브.",
         "points": [
           "ISO / DOT / GB 옵션",
           "CGA / GOST / DIN 밸브",
-          "OEM 색상 및 마킹"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "절단",
+        "id": "cutting",
         "eyebrow": "절단 및 제작",
         "title": "금속이 움직여야 할 때의 힘",
         "text": "조선소, 작업장 및 대형 제조 라인을 위한 고유량 아세틸렌 및 산소 공급 실린더 세트입니다.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "프로판",
+        "id": "propane",
         "eyebrow": "프로판 및 LPG",
         "title": "모든 시장에 적합한 내구성이 뛰어난 LPG 실린더",
         "text": "난방 및 조리용 가스부터 산업용 절단까지 - 압력, 코팅 및 긴 사용 수명을 위해 제작된 강철 실린더입니다.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "공장",
+        "id": "factory",
         "eyebrow": "조작",
         "title": "철강부터 출하까지 공장관리",
         "text": "사내 성형, 용접, 정수압 테스트 및 마감 처리를 통해 모든 배치가 도면 및 시장 표준과 일치합니다.",
         "points": [
           "수압 테스트됨",
           "추적 가능한 배치",
-          "OEM / ODM 준비"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "품질",
+        "id": "quality",
         "eyebrow": "품질 및 안전",
         "title": "견적에 넣을 수 있는 검사",
         "text": "재료 점검, 누출 테스트, 밸브 토크 및 포장 사진. 인증서 팩과 사진 보고서는 요청 시 비공개로 전송됩니다.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "내보내다",
+        "id": "export",
         "eyebrow": "글로벌 수출",
         "title": "항구용으로 포장되어 수출 시장에 대비",
         "text": "목적지 인코텀즈에 맞게 조정된 팔레트, 밸브 보호, 다국어 라벨 및 배송 문서를 수출하세요.",
@@ -1181,8 +1197,8 @@
       "용접 후 열린 목이 있는 도색되지 않은 실린더 쉘"
     ],
     "refrigeration": [
-      "Copeland 반밀폐형 압축기를 갖춘 공냉식 응축 장치",
-      "Bitzer 반밀폐형 압축기를 갖춘 공냉식 응축 장치",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "밀폐형 캐비닛형 냉동 응축 장치",
       "대용량 4팬 공냉식 응축 장치"
     ]
@@ -1192,11 +1208,11 @@
     "title": "제품 액세서리",
     "subtitle": "아세틸렌 실린더, 발전기, 용접 및 절단용 부품. 사양 및 응용 분야에 대한 세부 정보를 엽니다.",
     "cta": "요청 세부정보",
-    "details": "세부",
+    "details": "Details",
     "close": "닫다",
     "featuresLabel": "주요 기능",
     "specsLabel": "명세서",
-    "applicationsLabel": "응용",
+    "applicationsLabel": "Applications",
     "qualityLabel": "품질 및 공급",
     "whyTitle": "왜 우리 액세서리를 선택합니까?",
     "why": [
@@ -1218,7 +1234,7 @@
           "빠른 설치 및 교체를 위한 표준 연결"
         ],
         "specs": [
-          "가스: 아세틸렌(C2H2); 산소 차단기는 별도로 제공됩니다.",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "본체: 황동; 피뢰기: 스테인레스 스틸",
           "연결: G 3/8″ LH 또는 맞춤형 스레드",
           "작동 압력: 최대 1.5 MPa / 맞춤형",
@@ -1308,13 +1324,13 @@
           "100% 안전성 및 기능 검사"
         ],
         "specs": [
-          "가스: 아세틸렌, 산소, 아르곤, 질소 및 호환 가스",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "작동 압력: 25/35bar 등급",
           "테스트 압력: 37.5 / 52.5bar 등급",
           "입구/출구: 내부 또는 외부, 맞춤형",
           "핸드휠: 알루미늄/아연 합금",
           "온도: −20°C ~ +60°C",
-          "표준: ISO 10297, GB/T 8335, CGA 또는 맞춤형",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "포장: 1개/가방, 50개/상자"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (맞춤형 가능)",
           "길이: 10/20/30/50/100m 또는 관례",
           "색상: 파란색 표준; 소재 SBR / EPDM + 폴리에스터 원사",
-          "표준: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "온도: −20°C ~ +80°C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "다양한 범위 및 하단/후면 마운트"
         ],
         "specs": [
-          "가스: 아세틸렌, 산소, 아르곤, CO2, 질소 및 호환 가스",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "다이얼: 50 / 63 / 100 mm, 맞춤형 가능",
           "범위: 0~1bar~0~400bar, 맞춤형",
           "정확도: 표준 ±2.5%, 옵션 ±1.6%",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "배송 전 100% 테스트",
-          "OEM 다이얼 및 브랜드 옵션",
+          "OEM dial and branding options",
           "수출 포장"
         ]
       },
@@ -1435,7 +1451,7 @@
           "다양한 설정 압력 및 나사산 크기"
         ],
         "specs": [
-          "가스: 산소, 아세틸렌, 공기, 질소 및 호환 가스",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "작동 압력: 최대 25bar / 25kg/cm²",
           "릴리프 범위: 0.1–2.5 MPa, 사용자 정의 가능",
           "온도: −20°C ~ +120°C",
@@ -1495,7 +1511,7 @@
           "가스 라인의 효과적인 여과를 지원합니다.",
           "산업용 황동/금속 구조",
           "시스템 매칭을 위한 표준 스레드 포트",
-          "요청 시 OEM 스레드, 크기 및 포장"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "역할: 필터 변환기/어댑터 헤드",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "필터",
+        "title": "Filter",
         "desc": "수분, 오일, 입자를 제거하여 다운스트림 장비를 보호하는 고효율 필터입니다.",
         "intro": "가스 흐름에서 고체 입자, 물, 오일 및 기타 불순물을 제거하여 장비를 보호하고 서비스 수명을 연장합니다. 황동 헤드, 품질 요소 및 압력 하에서 안정적인 작동. 산소, 아세틸렌, 공기, 질소 및 호환 가스용.",
         "features": [
@@ -1526,7 +1542,7 @@
           "작업 압력 하에서 안정적인 작동"
         ],
         "specs": [
-          "가스: 산소, 아세틸렌, 공기, 질소 및 호환 가스",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "입구 압력: 최대 2.5 MPa",
           "작동 압력: 0.01–1.6 MPa",
           "정확도: 5 / 20 / 50 μm 옵션",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "합법적인",
+    "label": "Legal",
     "title": "이용약관",
     "updated": "최종 업데이트 날짜: 2026년 8월 27일",
     "intro": [
@@ -1625,19 +1641,19 @@
       "산업용 냉각기",
       "차량용 냉장 장치 및 이동식 냉장실"
     ],
-    "note": "Wanda International Trade는 가스 실린더 라인과 함께 장치, 패널, 냉각기 및 관련 저온 유통 하드웨어 등 냉동 장비를 공급합니다. Copeland, Bitzer 및 유사한 이름은 해당 회사의 브랜드 변경이 아니라 장치 내부의 압축기 브랜드를 나타냅니다.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "회사 영상",
     "videoSubtitle": "냉동 장비 라인 개요. 더 많은 영상은 요청 시 비공개로 전송됩니다.",
     "items": [
       {
-        "title": "Copeland 반밀폐형 공냉식 장치",
-        "spec": "응축 장치 · Copeland 압축기",
-        "desc": "냉장실 및 중온용 Copeland 반밀폐형 압축기를 갖춘 공냉식 응축 장치입니다."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer 반밀폐형 공냉식 장치",
-        "spec": "응축 장치 · Bitzer 압축기",
-        "desc": "고부하 및 중저온 실내용 Bitzer 반밀폐형 압축기를 갖춘 공냉식 응축 장치입니다."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "밀폐형 박스형 유닛",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "견적을 요청할 준비가 되셨나요?",
       "quoteCta": "견적 요청",
       "relatedProducts": "관련상품",
-      "applications": "응용",
+      "applications": "Applications",
       "standardsTitle": "표준 및 인증",
-      "oemTitle": "OEM/맞춤화",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "포장 및 배송",
       "placeholders": {
         "standards": "사용 가능한 표준 및 인증서는 주문 및 대상 시장별로 확인됩니다. 인증서 사본은 요청 시 비공개로 전송되며 파일은 웹사이트에 게시되지 않습니다.",
@@ -1690,7 +1706,7 @@
       "subtitle": "산업 및 용접 응용 분야를 위한 아세틸렌 실린더, 발전기, 프로판 실린더 및 액세서리.",
       "seoTitle": "가스 실린더 제품",
       "seoDescription": "산업 및 용접 응용 분야를 위한 아세틸렌 실린더, 발전기, 프로판 실린더 및 액세서리.",
-      "refrigerationNote": "Wanda International Trade는 가스 실린더 라인과 함께 장치, 패널, 냉각기 및 관련 저온 유통 하드웨어 등 냉동 장비를 공급합니다. Copeland, Bitzer 및 유사한 이름은 해당 회사의 브랜드 변경이 아니라 장치 내부의 압축기 브랜드를 나타냅니다.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "용해된 아세틸렌 실린더",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "프로판 실린더",
-          "overview": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다.",
+          "overview": "프로판 가스 저장 및 운반용 강철 실린더. 아세틸렌과 함께 사용하면 난방, 산업용 프로판 공급, 요리 및 순산소 절단에 사용됩니다.",
           "seoTitle": "프로판 가스 실린더",
-          "seoDescription": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다."
+          "seoDescription": "난방, 산업용 공급 및 절단 용도로 사용되는 강철 프로판 가스 실린더. 주문별로 수출 및 OEM 옵션이 논의됩니다."
         },
         "lpg": {
           "name": "LPG 실린더",
-          "overview": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다.",
+          "overview": "액화석유가스(LPG)용 실린더 - 프로판, 부탄 또는 혼합 가스. 주거용 및 상업용 LPG 유통, 캠핑, 난방 및 휴대용 연료 공급에 일반적입니다.",
           "seoTitle": "LPG 가스통",
-          "seoDescription": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다."
+          "seoDescription": "주거용, 상업용, 산업용 액화석유가스 유통 및 휴대용 공급용 LPG 실린더입니다."
         },
         "industrial": {
           "name": "산업용 가스 실린더",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM 및 도매",
+      "title": "OEM and Wholesale",
       "subtitle": "유통업체 및 산업 구매자를 위한 자체 상표 및 대량 공급 옵션입니다.",
-      "seoTitle": "OEM 가스 실린더 공급",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "해외 브랜드 및 유통업체를 위한 OEM 및 자체 라벨 가스 실린더 제조.",
       "quoteTitle": "OEM 요구 사항 논의",
       "quoteCta": "OEM 견적 요청",
@@ -1799,7 +1815,7 @@
           "text": "주문에 따라 상자, 팔레트 및 포장 표시를 수출합니다."
         },
         {
-          "title": "개인 상표",
+          "title": "Private Label",
           "text": "유통업체 채널을 위한 라벨링 및 브랜드 프리젠테이션."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "프로젝트 및 유통업체 조달을 위한 도매 수량입니다."
         },
         {
-          "title": "OEM 제조",
+          "title": "OEM Manufacturing",
           "text": "귀하의 사양과 시장에 맞는 제품 구성."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "이 페이지에는 확인되지 않은 국가 수, 고객 이름 또는 프로젝트 참조를 게시하지 않습니다.",
       "regions": [
         {
-          "title": "아프리카",
+          "title": "Africa",
           "text": "아프리카 시장의 산업 및 대리점 문의."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "수출용 실린더 공급을 평가하는 산업 구매자."
         },
         {
-          "title": "라틴 아메리카",
+          "title": "Latin America",
           "text": "산업용 가스통 및 부속품 공급에 대한 문의입니다."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "응용",
+      "label": "Applications",
       "title": "실린더 응용",
       "subtitle": "일반적인 산업용 가스 작업 및 해외 구매자 요구 사항에 맞게 설계된 제품입니다.",
       "seoTitle": "실린더 응용",
@@ -1891,14 +1907,14 @@
       "seoDescription": "회사, 제품, OEM 및 수출 — 견적 요청 전 해외 바이어에 대한 답변을 드립니다."
     },
     "contactPage": {
-      "label": "연락하다",
+      "label": "Contact",
       "title": "귀하의 요구 사항에 대해 논의해 봅시다",
       "subtitle": "양식, 이메일 또는 메신저를 통해 영업팀에 연락하세요. 더 빠른 견적을 받으려면 제품, 수량, 목적지를 공유하세요.",
       "seoTitle": "견적 요청",
       "seoDescription": "크기, 수량, 대상 국가 및 용도를 알려주시면 자세한 견적을 준비해 드리겠습니다."
     },
     "blog": {
-      "label": "블로그",
+      "label": "Blog",
       "title": "최신 기사",
       "subtitle": "용접 및 가스 공급 전문가를 위한 전문가 콘텐츠입니다.",
       "seoTitle": "기사 및 가이드",

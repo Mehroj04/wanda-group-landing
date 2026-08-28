@@ -3,16 +3,16 @@
     "home": "Trang chủ",
     "products": "Các sản phẩm",
     "specs": "Thông số kỹ thuật",
-    "applications": "Ứng dụng",
+    "applications": "Applications",
     "about": "Về",
-    "gallery": "Phòng trưng bày",
+    "gallery": "Gallery",
     "factory": "Nhà máy",
     "quality": "Chất lượng",
-    "faq": "Câu hỏi thường gặp",
-    "contact": "Liên hệ",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Nhận báo giá",
     "inquire": "Hỏi →",
-    "services": "Dịch vụ",
+    "services": "Services",
     "pricing": "Định giá",
     "accessories": "Phụ kiện",
     "refrigeration": "Kho lạnh",
@@ -120,7 +120,23 @@
       "Sự thi công",
       "Chế tạo kim loại",
       "Lưu trữ và phân phối khí đốt"
+    ],
+    "refrigerationItems": [
+      "Phòng lạnh và kho lạnh",
+      "Chế biến và phân phối thực phẩm",
+      "Siêu thị và chuỗi lạnh bán lẻ",
+      "Kho lạnh dược phẩm, y tế",
+      "Logistics và vận tải lạnh",
+      "Máy làm lạnh và xử lý công nghiệp"
     ]
+  },
+  "operations": {
+    "title": "Hoạt động toàn cầu",
+    "manufacturingBase": "Cơ sở sản xuất",
+    "manufacturingCountry": "Trung Quốc",
+    "intlSalesOffice": "Văn phòng kinh doanh quốc tế",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Hoạt động sản xuất của chúng tôi có trụ sở tại Trung Quốc, trong khi đội ngũ bán hàng quốc tế của chúng tôi ở Uzbekistan hỗ trợ khách hàng trên toàn thế giới."
   },
   "whyUs": {
     "title": "Tại sao chọn nhóm Wanda",
@@ -131,7 +147,7 @@
         "desc": "Cung cấp sản phẩm theo định hướng sản xuất, không chỉ kinh doanh danh mục sản phẩm."
       },
       {
-        "title": "Hỗ trợ OEM",
+        "title": "OEM support",
         "desc": "Tùy chỉnh màu sắc, đánh dấu, van và đóng gói được thảo luận theo đơn đặt hàng."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Tạo hình, hàn, kiểm tra và hoàn thiện bình gas công nghiệp."
       },
       {
-        "title": "Hỗ trợ OEM",
+        "title": "OEM Support",
         "desc": "Tùy chọn màu sắc, đánh dấu, van, nắp và đóng gói theo đơn đặt hàng."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Hãy cho chúng tôi biết sản phẩm, kích thước, số lượng, quốc gia nơi đến và thông số kỹ thuật — đội ngũ bán hàng của chúng tôi sẽ trả lời kèm theo thông tin sản phẩm và báo giá.",
     "formTitle": "Yêu cầu báo giá",
     "formSubtitle": "Hoàn thành biểu mẫu cho một cuộc điều tra thương mại. Các trường bắt buộc được đánh dấu.",
-    "name": "Tên",
+    "name": "Name",
     "company": "Công ty",
     "phone": "Điện thoại / WhatsApp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Loại van, màu sắc, tiêu chuẩn, bao bì, nhãn hiệu OEM, ghi chú số lượng..."
   },
   "footer": {
-    "company": "Nhà sản xuất xi lanh khí Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Sản xuất bình gas chuyên nghiệp",
     "rights": "© 2026 Tập đoàn Wanda. Mọi quyền được bảo lưu.",
     "privacy": "Chính sách bảo mật",
     "terms": "Điều khoản sử dụng"
   },
   "privacy": {
-    "label": "Hợp pháp",
+    "label": "Legal",
     "title": "Chính sách bảo mật",
     "updated": "Cập nhật lần cuối: ngày 25 tháng 8 năm 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Các câu hỏi về chính sách này:"
   },
   "ui": {
-    "catalog": "Danh mục",
+    "catalog": "Catalog",
     "catalogTitle": "Thông số kỹ thuật chi tiết sản phẩm",
     "catalogSubtitle": "Đầy đủ dữ liệu kỹ thuật, model và thông số cho từng chủng loại. Chọn một sản phẩm để xem bảng thông số kỹ thuật.",
     "requestPrice": "Yêu cầu giá cho mẫu này",
-    "services": "Dịch vụ",
+    "services": "Services",
     "pricing": "Định giá",
     "getExactQuote": "Nhận báo giá chính xác",
     "certifications": "Chứng chỉ",
     "order": "Đặt hàng",
     "reviews": "Đánh giá",
-    "contact": "Liên hệ",
+    "contact": "Contact",
     "phone": "Điện thoại",
     "location": "Vị trí",
     "quoteResponse": "Phản hồi trích dẫn",
@@ -570,23 +586,23 @@
     "countriesServed": "Hỗ trợ xuất khẩu",
     "exportReady": "Xuất sẵn sàng",
     "years": "Năm",
-    "acetylene": "Axetylen",
+    "acetylene": "Acetylene",
     "isoCertified": "Chứng nhận ISO",
     "globalExport": "Xuất khẩu toàn cầu",
     "products": "Các sản phẩm",
     "specs": "Thông số kỹ thuật",
-    "applications": "Ứng dụng",
+    "applications": "Applications",
     "whyUs": "Tại sao là chúng tôi",
     "about": "Về chúng tôi",
-    "gallery": "Phòng trưng bày",
+    "gallery": "Gallery",
     "quality": "Chất lượng",
-    "faq": "Câu hỏi thường gặp",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Tìm kiếm ngôn ngữ...",
     "noLanguagesFound": "Không tìm thấy ngôn ngữ nào",
     "breadcrumb": "vụn bánh mì",
     "primaryNav": "Sơ đẳng",
-    "menu": "Thực đơn",
+    "menu": "Menu",
     "playVideo": "Phát video",
     "productGallery": "Thư viện sản phẩm",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Nhãn hiệu riêng",
+    "OEM / Private Label",
     "Xuất khẩu quốc tế",
     "Kiểm soát chất lượng",
     "Tiêu chuẩn thị trường theo yêu cầu",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Axetylen",
+      "acetylene": "Acetylene",
       "propane": "Propane",
-      "generator": "Máy phát điện",
+      "generator": "Generator",
       "accessories": "Phụ kiện"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Mô hình xi lanh axetylen tiêu chuẩn",
       "headers": [
-        "Người mẫu",
+        "Model",
         "Khối lượng (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Mô hình xi lanh propan tiêu chuẩn",
       "headers": [
-        "Người mẫu",
+        "Model",
         "Khối lượng (L)",
-        "Khí (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Trọng lượng (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Mô hình máy phát điện axetylen",
       "headers": [
-        "Người mẫu",
+        "Model",
         "Đầu ra (m³/h)",
         "Cacbua (kg/h)",
         "Áp suất (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Loại",
         "Người mẫu",
-        "Tiêu chuẩn",
+        "Standard",
         "Ứng dụng"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logo & màu RAL",
           "Van tiêu chuẩn thị trường",
-          "Bao bì & nhãn OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Phụ thuộc vào mô hình và điểm đến"
       },
       {
-        "label": "thời gian dẫn",
+        "label": "Lead time",
         "value": "Xác nhận mỗi đơn hàng",
         "desc": "Được chia sẻ với báo giá"
       },
@@ -966,7 +982,7 @@
         "Khối lượng và mô hình xi lanh",
         "Loại van và tiêu chuẩn kết nối",
         "Tiêu chuẩn cần thiết cho thị trường đích",
-        "Màu sắc, đánh dấu và đóng gói OEM",
+        "OEM colour, marking and packaging",
         "Khối lượng đặt hàng và Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Sản phẩm",
       "MOQ",
       "Giá",
-      "Thời gian dẫn"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Chứng nhận thị trường Mỹ"
+        "desc": "Tiêu chuẩn xi lanh thị trường Hoa Kỳ - khả năng áp dụng được xác nhận cho mỗi sản phẩm và đơn đặt hàng"
       },
       {
         "name": "TPED",
-        "desc": "Chỉ thị vận tải châu Âu"
+        "desc": "Yêu cầu vận chuyển của Châu Âu - được thảo luận trên mỗi thị trường điểm đến"
       },
       {
         "name": "GB 5099",
         "desc": "Tiêu chuẩn xi lanh khí Trung Quốc"
       },
       {
-        "name": "Dấu CE",
-        "desc": "Yêu cầu phù hợp của Châu Âu"
+        "name": "CE Mark",
+        "desc": "Đánh dấu sự phù hợp của Châu Âu - khả năng áp dụng cho mỗi sản phẩm và thị trường"
       }
     ]
   },
@@ -1078,25 +1094,25 @@
         "quote": "Chúng tôi mua xi lanh có bộ điều chỉnh và ống mềm theo đơn đặt hàng container. Các tài liệu và nhãn hiệu đã sẵn sàng cho thị trường của chúng tôi nên việc bán lại rất đơn giản.",
         "author": "Faisal Al-Harbi",
         "role": "Mua bán nhập khẩu, kinh doanh thiết bị gas",
-        "country": "Ả Rập Saudi"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "hàn",
+        "id": "welding",
         "eyebrow": "Xi lanh axetylen",
         "title": "Ngọn lửa ổn định để hàn chính xác",
         "text": "Xi lanh axetylen hòa tan được thiết kế để hàn và hàn đồng liên tục - áp suất ổn định, khối xốp an toàn, van sẵn sàng xuất khẩu.",
         "points": [
           "Tùy chọn ISO/DOT/GB",
           "Van CGA / GOST / DIN",
-          "Màu sắc & đánh dấu OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "cắt",
+        "id": "cutting",
         "eyebrow": "Cắt & chế tạo",
         "title": "Sức mạnh khi kim loại phải di chuyển",
         "text": "Bộ xi lanh chứa axetylen và oxy lưu lượng cao dành cho nhà máy đóng tàu, nhà xưởng và dây chuyền chế tạo hạng nặng.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propane & LPG",
         "title": "Bình LPG bền bỉ cho mọi thị trường",
         "text": "Từ khí đốt sưởi ấm và nấu ăn đến cắt công nghiệp — các xi lanh bằng thép được chế tạo để chịu áp lực, lớp phủ và tuổi thọ lâu dài.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "nhà máy",
+        "id": "factory",
         "eyebrow": "Chế tạo",
         "title": "Kiểm soát nhà máy từ thép đến vận chuyển",
         "text": "Tạo hình, hàn, thử nghiệm thủy tĩnh và hoàn thiện nội bộ — vì vậy mỗi lô đều phù hợp với bản vẽ và tiêu chuẩn thị trường của bạn.",
         "points": [
           "Đã thử nghiệm thủy tĩnh",
           "Lô có thể theo dõi",
-          "OEM/ODM sẵn sàng"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "chất lượng",
+        "id": "quality",
         "eyebrow": "Chất lượng & an toàn",
         "title": "Kiểm tra bạn có thể đưa vào báo giá",
         "text": "Kiểm tra vật liệu, kiểm tra rò rỉ, mô-men xoắn van và hình ảnh đóng gói. Gói chứng chỉ và báo cáo ảnh được gửi riêng theo yêu cầu.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "xuất khẩu",
+        "id": "export",
         "eyebrow": "Xuất khẩu toàn cầu",
         "title": "Đóng gói cho các cảng, sẵn sàng cho thị trường xuất khẩu",
         "text": "Xuất khẩu pallet, van bảo vệ, nhãn đa ngôn ngữ và tài liệu vận chuyển được điều phối cho Incoterms điểm đến của bạn.",
@@ -1181,8 +1197,8 @@
       "Vỏ xi lanh không sơn có cổ hở sau khi hàn"
     ],
     "refrigeration": [
-      "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Copeland",
-      "Thiết bị ngưng tụ làm mát bằng không khí với máy nén nửa kín Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Thiết bị ngưng tụ làm lạnh kiểu tủ kín",
       "Thiết bị ngưng tụ làm mát bằng không khí bốn quạt công suất cao"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Phụ kiện sản phẩm",
     "subtitle": "Phụ tùng cho xi lanh axetylen, máy phát điện, hàn và cắt. Mở Chi tiết để biết thông số kỹ thuật và ứng dụng.",
     "cta": "Yêu cầu chi tiết",
-    "details": "Chi tiết",
+    "details": "Details",
     "close": "Đóng",
     "featuresLabel": "Các tính năng chính",
     "specsLabel": "Thông số kỹ thuật",
-    "applicationsLabel": "Ứng dụng",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Chất lượng & cung cấp",
     "whyTitle": "Tại sao chọn phụ kiện của chúng tôi?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Kết nối tiêu chuẩn để cài đặt và thay thế nhanh chóng"
         ],
         "specs": [
-          "Khí: axetylen (C₂H₂); thiết bị chống oxy được cung cấp riêng",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Thân: đồng thau; thiết bị ngăn chặn: thép không gỉ",
           "Kết nối: G 3/8” LH hoặc ren tùy chỉnh",
           "Áp suất làm việc: lên tới 1,5 MPa / tùy chỉnh",
@@ -1308,13 +1324,13 @@
           "Kiểm tra an toàn và chức năng 100%"
         ],
         "specs": [
-          "Khí: axetylen, oxy, argon, nitơ và các loại khí tương thích",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Áp suất làm việc: cấp 25/35 bar",
           "Áp suất thử: loại 37,5 / 52,5 bar",
           "Đầu vào/đầu ra: bên trong hoặc bên ngoài, tùy chỉnh",
           "Tay quay: hợp kim nhôm/kẽm",
           "Nhiệt độ: −20 °C đến +60 °C",
-          "Tiêu chuẩn: ISO 10297, GB/T 8335, CGA hoặc tùy chỉnh",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Đóng gói: 1 cái/túi, 50 cái/hộp"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (có sẵn tùy chỉnh)",
           "Chiều dài: 10/20/30/50/100 m hoặc tùy chỉnh",
           "Màu sắc: xanh tiêu chuẩn; chất liệu SBR/EPDM + sợi polyester",
-          "Tiêu chuẩn: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Nhiệt độ: −20 °C đến +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Nhiều phạm vi và giá đỡ phía dưới/phía sau"
         ],
         "specs": [
-          "Khí: axetylen, oxy, argon, CO₂, nitơ và các loại khí tương thích",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Quay số: 50/63/100 mm, có sẵn tùy chỉnh",
           "Phạm vi: 0–1 bar đến 0–400 bar, tùy chỉnh",
           "Độ chính xác: ±2,5% tiêu chuẩn, ±1,6% tùy chọn",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Kiểm tra 100% trước khi giao hàng",
-          "Tùy chọn quay số và nhãn hiệu OEM",
+          "OEM dial and branding options",
           "Đóng gói xuất khẩu"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Nhiều áp lực cài đặt và kích thước ren"
         ],
         "specs": [
-          "Khí: oxy, axetylen, không khí, nitơ và các loại khí tương thích",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Áp suất làm việc: lên tới 25 bar / 25 kg/cm2",
           "Phạm vi giảm áp: 0,1–2,5 MPa, có thể tùy chỉnh",
           "Nhiệt độ: −20 °C đến +120 °C",
@@ -1495,7 +1511,7 @@
           "Hỗ trợ lọc hiệu quả trong đường dẫn khí",
           "Xây dựng đồng thau / kim loại công nghiệp",
           "Cổng ren tiêu chuẩn để khớp hệ thống",
-          "Chủ đề OEM, kích thước và đóng gói theo yêu cầu"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Vai trò: Bộ chuyển đổi bộ lọc/Đầu chuyển đổi",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Lọc",
+        "title": "Filter",
         "desc": "Bộ lọc hiệu suất cao giúp loại bỏ độ ẩm, dầu và các hạt để bảo vệ thiết bị hạ lưu.",
         "intro": "Loại bỏ các hạt rắn, nước, dầu và các tạp chất khác khỏi dòng khí để bảo vệ thiết bị và kéo dài tuổi thọ. Đầu bằng đồng thau, bộ phận chất lượng và hoạt động ổn định dưới áp lực. Đối với oxy, axetylen, không khí, nitơ và các loại khí tương thích.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Hoạt động ổn định dưới áp suất làm việc"
         ],
         "specs": [
-          "Khí: oxy, axetylen, không khí, nitơ và các loại khí tương thích",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Áp suất đầu vào: lên tới 2,5 MPa",
           "Áp suất làm việc: 0,01–1,6 MPa",
           "Độ chính xác: 5/20/50 μm tùy chọn",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Hợp pháp",
+    "label": "Legal",
     "title": "Điều khoản sử dụng",
     "updated": "Cập nhật lần cuối: ngày 27 tháng 8 năm 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Máy làm lạnh nước công nghiệp",
       "Đơn vị làm lạnh xe và phòng lạnh di động"
     ],
-    "note": "Wanda International Trade cung cấp thiết bị làm lạnh cùng với dây chuyền bình gas: các bộ phận, bảng điều khiển, bộ làm mát và phần cứng dây chuyền lạnh liên quan. Copeland, Bitzer và những cái tên tương tự đề cập đến thương hiệu máy nén bên trong thiết bị, không phải là thương hiệu đổi tên của các công ty đó.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video công ty",
     "videoSubtitle": "Tổng quan về dây chuyền thiết bị lạnh. Nhiều cảnh quay hơn được gửi riêng theo yêu cầu.",
     "items": [
       {
-        "title": "Đơn vị làm mát bằng không khí bán kín Copeland",
-        "spec": "Bộ ngưng tụ · Máy nén Copeland",
-        "desc": "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Copeland dành cho phòng lạnh và hoạt động ở nhiệt độ trung bình."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bộ làm mát bằng không khí bán kín Bitzer",
-        "spec": "Bộ ngưng tụ · Máy nén Bitzer",
-        "desc": "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Bitzer dành cho các phòng có công suất cao hơn và nhiệt độ từ trung bình đến thấp."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Đơn vị dạng hộp kèm theo",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Sẵn sàng để yêu cầu báo giá?",
       "quoteCta": "Yêu cầu báo giá",
       "relatedProducts": "Sản phẩm liên quan",
-      "applications": "Ứng dụng",
+      "applications": "Applications",
       "standardsTitle": "Tiêu chuẩn & chứng nhận",
-      "oemTitle": "OEM/tùy biến",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Đóng gói & giao hàng",
       "placeholders": {
         "standards": "Các tiêu chuẩn và chứng chỉ có sẵn được xác nhận theo đơn đặt hàng và thị trường đích. Bản sao chứng chỉ được gửi riêng theo yêu cầu - các tập tin không được công bố trên trang web.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
       "seoTitle": "Sản phẩm xi lanh khí",
       "seoDescription": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
-      "refrigerationNote": "Wanda International Trade cung cấp thiết bị làm lạnh cùng với dây chuyền bình gas: các bộ phận, bảng điều khiển, bộ làm mát và phần cứng dây chuyền lạnh liên quan. Copeland, Bitzer và những cái tên tương tự đề cập đến thương hiệu máy nén bên trong thiết bị, không phải là thương hiệu đổi tên của các công ty đó.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Xi lanh axetylen hòa tan",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Xi lanh propan",
-          "overview": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+          "overview": "Xi lanh thép để lưu trữ và vận chuyển khí propan. Được sử dụng để sưởi ấm, cung cấp propan công nghiệp, nấu ăn và cắt nhiên liệu oxy khi kết hợp với axetylen.",
           "seoTitle": "Xi lanh khí propan",
-          "seoDescription": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp."
+          "seoDescription": "Bình chứa khí propan bằng thép dùng cho các ứng dụng sưởi ấm, cung cấp công nghiệp và cắt. Các tùy chọn xuất khẩu và OEM được thảo luận trên mỗi đơn hàng."
         },
         "lpg": {
           "name": "Xi lanh LPG",
-          "overview": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+          "overview": "Xi lanh dùng cho khí dầu mỏ hóa lỏng (LPG) - propan, butan hoặc hỗn hợp hỗn hợp. Phổ biến để phân phối LPG dân dụng và thương mại, cắm trại, sưởi ấm và cung cấp nhiên liệu di động.",
           "seoTitle": "Xi lanh khí LPG",
-          "seoDescription": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp."
+          "seoDescription": "Xi lanh LPG dùng để phân phối và cung cấp khí đốt hóa lỏng dân dụng, thương mại và công nghiệp."
         },
         "industrial": {
           "name": "Xi lanh khí công nghiệp",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM và bán buôn",
+      "title": "OEM and Wholesale",
       "subtitle": "Tùy chọn nhãn hiệu riêng và cung cấp số lượng lớn cho nhà phân phối và người mua công nghiệp.",
-      "seoTitle": "Cung cấp xi lanh khí OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Sản xuất bình gas OEM và nhãn hiệu riêng cho các thương hiệu và nhà phân phối ở nước ngoài.",
       "quoteTitle": "Thảo luận về các yêu cầu của OEM",
       "quoteCta": "Yêu cầu báo giá OEM",
@@ -1799,7 +1815,7 @@
           "text": "Xuất thùng carton, pallet, mác đóng gói theo đơn đặt hàng."
         },
         {
-          "title": "Nhãn riêng",
+          "title": "Private Label",
           "text": "Dán nhãn và giới thiệu thương hiệu cho các kênh phân phối."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Bán buôn số lượng lớn cho dự án và nhà phân phối."
         },
         {
-          "title": "Sản xuất OEM",
+          "title": "OEM Manufacturing",
           "text": "Cấu hình sản phẩm phù hợp với đặc điểm kỹ thuật và thị trường của bạn."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Chúng tôi không công bố số lượng quốc gia, tên khách hàng hoặc tài liệu tham khảo dự án chưa được xác minh trên trang này.",
       "regions": [
         {
-          "title": "Châu phi",
+          "title": "Africa",
           "text": "Yêu cầu công nghiệp và nhà phân phối từ thị trường châu Phi."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Người mua công nghiệp đánh giá nguồn cung xi lanh xuất khẩu."
         },
         {
-          "title": "Mỹ Latinh",
+          "title": "Latin America",
           "text": "Thắc mắc về bình gas công nghiệp và cung cấp phụ kiện."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Ứng dụng",
+      "label": "Applications",
       "title": "Ứng dụng xi lanh",
       "subtitle": "Sản phẩm được thiết kế cho các nhiệm vụ khí công nghiệp thông thường và yêu cầu của người mua ở nước ngoài.",
       "seoTitle": "Ứng dụng xi lanh",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "Câu hỏi thường gặp",
+      "label": "FAQ",
       "title": "Câu hỏi thường gặp",
       "subtitle": "Công ty, sản phẩm, OEM và xuất khẩu — câu trả lời cho người mua ở nước ngoài trước khi bạn yêu cầu báo giá.",
-      "seoTitle": "Câu hỏi thường gặp",
+      "seoTitle": "FAQ",
       "seoDescription": "Công ty, sản phẩm, OEM và xuất khẩu — câu trả lời cho người mua ở nước ngoài trước khi bạn yêu cầu báo giá."
     },
     "contactPage": {
-      "label": "Liên hệ",
+      "label": "Contact",
       "title": "Hãy thảo luận về yêu cầu của bạn",
       "subtitle": "Tiếp cận đội ngũ bán hàng của chúng tôi bằng biểu mẫu, email hoặc tin nhắn. Chia sẻ sản phẩm, số lượng và điểm đến để báo giá nhanh hơn.",
       "seoTitle": "Yêu cầu báo giá",

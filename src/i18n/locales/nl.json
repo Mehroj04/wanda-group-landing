@@ -3,16 +3,16 @@
     "home": "Thuis",
     "products": "Producten",
     "specs": "Specificaties",
-    "applications": "Toepassingen",
+    "applications": "Applications",
     "about": "Over",
-    "gallery": "Galerij",
+    "gallery": "Gallery",
     "factory": "Fabriek",
     "quality": "Kwaliteit",
-    "faq": "Veelgestelde vragen",
+    "faq": "FAQ",
     "contact": "Contact",
     "getQuote": "Ontvang een offerte",
     "inquire": "Informeer →",
-    "services": "Diensten",
+    "services": "Services",
     "pricing": "Prijzen",
     "accessories": "Accessoires",
     "refrigeration": "Koude opslag",
@@ -120,7 +120,23 @@
       "Bouw",
       "Metaalproductie",
       "Gasopslag en -distributie"
+    ],
+    "refrigerationItems": [
+      "Koelkamers en koelopslagfaciliteiten",
+      "Voedselverwerking en distributie",
+      "Supermarkten en koelketens in de detailhandel",
+      "Farmaceutische en medische koelopslag",
+      "Logistiek en koeltransport",
+      "Industriële koeling en proceschillers"
     ]
+  },
+  "operations": {
+    "title": "Mondiale operaties",
+    "manufacturingBase": "Productiebasis",
+    "manufacturingCountry": "China",
+    "intlSalesOffice": "Internationaal verkoopkantoor",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Onze productieactiviteiten zijn gevestigd in China, terwijl ons internationale verkoopteam in Oezbekistan klanten over de hele wereld ondersteunt."
   },
   "whyUs": {
     "title": "Waarom kiezen voor Wanda-groepen",
@@ -131,7 +147,7 @@
         "desc": "Productaanbod gericht op productie, niet alleen op handelscatalogi."
       },
       {
-        "title": "OEM-ondersteuning",
+        "title": "OEM support",
         "desc": "Aangepaste kleur, markering, ventiel en verpakking besproken per bestelling."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Vormen, lassen, testen en afwerken van industriële gasflessen."
       },
       {
-        "title": "OEM-ondersteuning",
+        "title": "OEM Support",
         "desc": "Kleur, markering, ventiel, dop en verpakkingsopties op bestelling."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Vertel ons het product, de maat, het aantal, het land van bestemming en de specificaties. Ons verkoopteam zal u antwoorden met productinformatie en een offerte.",
     "formTitle": "Vraag een offerte aan",
     "formSubtitle": "Vul het formulier voor een commerciële aanvraag in. Verplichte velden zijn gemarkeerd.",
-    "name": "Naam",
+    "name": "Name",
     "company": "Bedrijf",
     "phone": "Telefoon/Whatsapp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Ventieltype, kleur, standaard, verpakking, OEM-markering, hoeveelheidsinformatie..."
   },
   "footer": {
-    "company": "Fabrikant van gasflessen uit de Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Professionele productie van gasflessen",
     "rights": "© 2026 Wanda Groep. Alle rechten voorbehouden.",
     "privacy": "Privacybeleid",
     "terms": "Gebruiksvoorwaarden"
   },
   "privacy": {
-    "label": "Legaal",
+    "label": "Legal",
     "title": "Privacybeleid",
     "updated": "Laatst bijgewerkt: 25 augustus 2026",
     "intro": [
@@ -552,11 +568,11 @@
     "contactLead": "Vragen over dit beleid:"
   },
   "ui": {
-    "catalog": "Catalogus",
+    "catalog": "Catalog",
     "catalogTitle": "Gedetailleerde productspecificaties",
     "catalogSubtitle": "Volledige technische gegevens, modellen en parameters voor elke categorie. Selecteer een product om de specificatietabel te bekijken.",
     "requestPrice": "Vraag prijs aan voor dit model",
-    "services": "Diensten",
+    "services": "Services",
     "pricing": "Prijzen",
     "getExactQuote": "Ontvang een exacte offerte",
     "certifications": "Certificeringen",
@@ -570,18 +586,18 @@
     "countriesServed": "Ondersteuning voor exporteren",
     "exportReady": "Klaar voor exporteren",
     "years": "Jaren",
-    "acetylene": "Acetyleen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO-gecertificeerd",
     "globalExport": "Mondiale export",
     "products": "Producten",
     "specs": "Specificaties",
-    "applications": "Toepassingen",
+    "applications": "Applications",
     "whyUs": "Waarom wij",
     "about": "Over ons",
-    "gallery": "Galerij",
+    "gallery": "Gallery",
     "quality": "Kwaliteit",
-    "faq": "Veelgestelde vragen",
-    "blog": "Bloggen",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "Zoektaal...",
     "noLanguagesFound": "Geen talen gevonden",
     "breadcrumb": "Broodkruimel",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM/Private Label",
+    "OEM / Private Label",
     "Internationale export",
     "Kwaliteitscontrole",
     "Marktstandaarden op aanvraag",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetyleen",
-      "propane": "Propaan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Accessoires"
     },
@@ -824,7 +840,7 @@
       "headers": [
         "Categorie",
         "Modellen",
-        "Standaard",
+        "Standard",
         "Sollicitatie"
       ],
       "rows": [
@@ -837,7 +853,7 @@
         [
           "Meters",
           "WG-G63, WG-G100",
-          "ISO5171",
+          "ISO 5171",
           "Drukbewaking"
         ],
         [
@@ -879,7 +895,7 @@
         "points": [
           "Logo & RAL-kleur",
           "Marktconforme klep",
-          "OEM-verpakkingen en etiketten"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Afhankelijk van model en bestemming"
       },
       {
-        "label": "Doorlooptijd",
+        "label": "Lead time",
         "value": "Bevestigd per bestelling",
         "desc": "Gedeeld met de offerte"
       },
@@ -966,7 +982,7 @@
         "Cilinderinhoud en model",
         "Ventieltype en aansluitingsstandaard",
         "Normen vereist voor de bestemmingsmarkt",
-        "OEM-kleur, markering en verpakking",
+        "OEM colour, marking and packaging",
         "Bestelvolume en Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Product",
       "MOQ",
       "Prijs",
-      "Doorlooptijd"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1012,24 +1028,24 @@
         "desc": "Naadloze stalen gasflessen — technische vereisten"
       },
       {
-        "name": "ISO9809-3",
+        "name": "ISO 9809-3",
         "desc": "Opgeloste acetyleencilinders"
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certificering van de Amerikaanse markt"
+        "desc": "Cilindernorm op de Amerikaanse markt – toepasbaarheid bevestigd per product en bestelling"
       },
       {
         "name": "TPED",
-        "desc": "Europese transportrichtlijn"
+        "desc": "Europese transportvereisten – besproken per bestemmingsmarkt"
       },
       {
         "name": "GB 5099",
         "desc": "Chinese gasflesstandaard"
       },
       {
-        "name": "CE-markering",
-        "desc": "Europese conformiteitseisen"
+        "name": "CE Mark",
+        "desc": "Europese conformiteitsmarkering — toepasbaarheid per product en markt"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "We hebben dit jaar drie keer acetyleencilinders van 40 liter opnieuw besteld. GOST-kleppen, OEM-kleur en exportverpakking kwamen elke keer overeen met het eerste monster.",
-        "author": "Roestam Yusupov",
+        "author": "Rustam Yusupov",
         "role": "Eigenaar, lasgasdistributeur",
-        "country": "Oezbekistan"
+        "country": "Uzbekistan"
       },
       {
         "quote": "De offerte kwam dezelfde dag met een duidelijke MOQ en doorlooptijd. Propaanflessen arriveerden met POL-kleppen en een volledige paklijst – geen douanevertragingen aan onze kant.",
         "author": "Aigerim Bekova",
         "role": "Inkoopmanager, industriële toelevering",
-        "country": "Kazachstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "We kopen cilinders met regelaars en slangen in één containerbestelling. Documenten en markering waren klaar voor onze markt, dus wederverkoop was eenvoudig.",
-        "author": "Faisal Al Harbi",
+        "author": "Faisal Al-Harbi",
         "role": "Importkoper, handel in gasapparatuur",
-        "country": "Saoedi-Arabië"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "lassen",
+        "id": "welding",
         "eyebrow": "Acetyleen cilinders",
         "title": "Stabiele vlam voor precisielassen",
         "text": "Opgeloste acetyleencilinders ontworpen voor continu lassen en hardsolderen - consistente druk, veilige poreuze massa, exportklare kleppen.",
         "points": [
           "ISO / DOT / GB-opties",
           "CGA / GOST / DIN-kleppen",
-          "OEM-kleur en markering"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "snijden",
+        "id": "cutting",
         "eyebrow": "Snijden en vervaardigen",
         "title": "Kracht als metaal moet bewegen",
         "text": "High-flow acetyleen- en zuurstof-ready cilindersets voor scheepswerven, werkplaatsen en zware productielijnen.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propaan",
+        "id": "propane",
         "eyebrow": "Propaan & LPG",
         "title": "Duurzame LPG-cilinders voor iedere markt",
         "text": "Van verwarmings- en kookgas tot industrieel snijden: stalen cilinders gebouwd voor druk, coating en een lange levensduur.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabriek",
+        "id": "factory",
         "eyebrow": "Productie",
         "title": "Fabriekscontrole van staal tot verzending",
         "text": "Vormen, lassen, hydrostatisch testen en afwerken in eigen huis, zodat elke batch overeenkomt met uw tekening en marktstandaard.",
         "points": [
           "Hydrostatisch getest",
           "Traceerbare batches",
-          "OEM/ODM klaar"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kwaliteit",
+        "id": "quality",
         "eyebrow": "Kwaliteit & veiligheid",
         "title": "Inspectie kunt u bij de offerte vermelden",
         "text": "Materiaalcontroles, lektests, klepkoppel en pakkingfoto's. Certificaatpakketten en fotorapporten worden op verzoek privé verzonden.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "exporteren",
+        "id": "export",
         "eyebrow": "Mondiale export",
         "title": "Verpakt voor havens, klaar voor exportmarkten",
         "text": "Exportpallets, klepbescherming, meertalige labels en verzenddocumenten afgestemd op uw Incoterms-bestemming.",
@@ -1181,8 +1197,8 @@
       "Ongelakte cilinderschalen met open halzen na het lassen"
     ],
     "refrigeration": [
-      "Luchtgekoelde condensorunit met Copeland semi-hermetische compressor",
-      "Luchtgekoelde condensatieunit met Bitzer semi-hermetische compressor",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Gesloten koelcondensorunit in kaststijl",
       "Luchtgekoelde condensorunit met vier ventilatoren en hoge capaciteit"
     ]
@@ -1196,7 +1212,7 @@
     "close": "Dichtbij",
     "featuresLabel": "Belangrijkste kenmerken",
     "specsLabel": "Specificaties",
-    "applicationsLabel": "Toepassingen",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kwaliteit & aanbod",
     "whyTitle": "Waarom kiezen voor onze accessoires?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standaardaansluitingen voor snelle installatie en vervanging"
         ],
         "specs": [
-          "Gas: acetyleen (C₂H₂); Zuurstofafleiders worden afzonderlijk geleverd",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Lichaam: messing; afleider: roestvrij staal",
           "Aansluiting: G 3/8″ LH of aangepaste schroefdraad",
           "Werkdruk: tot 1,5 MPa/op maat",
@@ -1308,13 +1324,13 @@
           "100% veiligheids- en functie-inspectie"
         ],
         "specs": [
-          "Gas: acetyleen, zuurstof, argon, stikstof en compatibele gassen",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Werkdruk: 25 / 35 bar klasse",
           "Testdruk: 37,5 / 52,5 bar klasse",
           "Inlaat/uitlaat: intern of extern, op maat gemaakt",
           "Handwiel: aluminium/zinklegering",
           "Temperatuur: −20 °C tot +60 °C",
-          "Normen: ISO 10297, GB/T 8335, CGA of maatwerk",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Verpakking: 1 st./zak, 50 st./doos"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (op maat leverbaar)",
           "Lengte: 10 / 20 / 30 / 50 / 100 m of op maat",
           "Kleur: blauw standaard; materiaal SBR/EPDM + polyestergaren",
-          "Normen: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatuur: −20 °C tot +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Meerdere bereiken en bodem-/achtermontages"
         ],
         "specs": [
-          "Gas: acetyleen, zuurstof, argon, CO₂, stikstof en compatibele gassen",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Wijzerplaat: 50 / 63 / 100 mm, op maat leverbaar",
           "Bereik: 0–1 bar tot 0–400 bar, op maat",
           "Nauwkeurigheid: ±2,5% standaard, ±1,6% optioneel",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% testen vóór levering",
-          "OEM-wijzerplaat en merkopties",
+          "OEM dial and branding options",
           "Exportverpakking"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Meerdere insteldrukken en draadgroottes"
         ],
         "specs": [
-          "Gas: zuurstof, acetyleen, lucht, stikstof en compatibele gassen",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Werkdruk: tot 25 bar / 25 kg/cm²",
           "Ontlastbereik: 0,1–2,5 MPa, aanpasbaar",
           "Temperatuur: −20 °C tot +120 °C",
@@ -1495,7 +1511,7 @@
           "Ondersteunt effectieve filtratie in de gasleiding",
           "Industriële messing/metalen constructie",
           "Standaardpoorten met schroefdraad voor systeemmatching",
-          "OEM-schroefdraad, maat en verpakking op aanvraag"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rol: filterconverter/adapterkop",
@@ -1526,7 +1542,7 @@
           "Stabiele werking onder werkdruk"
         ],
         "specs": [
-          "Gas: zuurstof, acetyleen, lucht, stikstof en compatibele gassen",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Inlaatdruk: tot 2,5 MPa",
           "Werkdruk: 0,01–1,6 MPa",
           "Nauwkeurigheid: 5 / 20 / 50 μm optioneel",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Legaal",
+    "label": "Legal",
     "title": "Gebruiksvoorwaarden",
     "updated": "Laatst bijgewerkt: 27 augustus 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Industriële waterkoelers",
       "Voertuigkoelunits en mobiele koelcellen"
     ],
-    "note": "Wanda International Trade levert naast de gasflessenlijn ook koelapparatuur: units, panelen, koelers en bijbehorende koelketenhardware. Copeland, Bitzer en soortgelijke namen verwijzen naar het compressormerk in de unit, niet naar een rebranding van die bedrijven.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Bedrijfsvideo",
     "videoSubtitle": "Overzicht van de lijn koelapparatuur. Meer beeldmateriaal wordt op verzoek privé toegestuurd.",
     "items": [
       {
-        "title": "Copeland semi-hermetische luchtgekoelde unit",
-        "spec": "Condensatieunit · Copeland-compressor",
-        "desc": "Luchtgekoelde condensorunit met een semi-hermetische Copeland-compressor voor koelruimtes en middelhoge temperaturen."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer semi-hermetische luchtgekoelde unit",
-        "spec": "Condensatieunit · Bitzer-compressor",
-        "desc": "Luchtgekoelde condensorunit met een Bitzer semi-hermetische compressor voor ruimtes met hogere belasting en middelhoge tot lage temperaturen."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Gesloten kasttype-eenheid",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Klaar om een ​​offerte aan te vragen?",
       "quoteCta": "Vraag een offerte aan",
       "relatedProducts": "Gerelateerde producten",
-      "applications": "Toepassingen",
+      "applications": "Applications",
       "standardsTitle": "Normen & certificering",
-      "oemTitle": "OEM / maatwerk",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Verpakking en levering",
       "placeholders": {
         "standards": "Beschikbare normen en certificaten worden per order- en bestemmingsmarkt bevestigd. Certificaatkopieën worden op verzoek privé verzonden; bestanden worden niet op de website gepubliceerd.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
       "seoTitle": "Gasflesproducten",
       "seoDescription": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
-      "refrigerationNote": "Wanda International Trade levert naast de gasflessenlijn ook koelapparatuur: units, panelen, koelers en bijbehorende koelketenhardware. Copeland, Bitzer en soortgelijke namen verwijzen naar het compressormerk in de unit, niet naar een rebranding van die bedrijven.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Opgeloste acetyleencilinders",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propaancilinders",
-          "overview": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening.",
+          "overview": "Stalen cilinders voor opslag en transport van propaangas. Wordt gebruikt voor verwarming, industriële propaantoevoer, koken en autogeen snijden in combinatie met acetyleen.",
           "seoTitle": "Propaangasflessen",
-          "seoDescription": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening."
+          "seoDescription": "Stalen propaangasflessen voor verwarming, industriële levering en snijtoepassingen. Export- en OEM-opties per bestelling besproken."
         },
         "lpg": {
           "name": "LPG-cilinders",
-          "overview": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening.",
+          "overview": "Cilinders voor vloeibaar petroleumgas (LPG) – propaan, butaan of gemengde mengsels. Gebruikelijk voor residentiële en commerciële LPG-distributie, kamperen, verwarming en draagbare brandstoftoevoer.",
           "seoTitle": "LPG-gasflessen",
-          "seoDescription": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening."
+          "seoDescription": "LPG-cilinders voor residentiële, commerciële en industriële distributie van vloeibaar petroleumgas en draagbare levering."
         },
         "industrial": {
           "name": "Industriële gasflessen",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM en groothandel",
+      "title": "OEM and Wholesale",
       "subtitle": "Private label- en bulkleveringsopties voor distributeurs en industriële kopers.",
-      "seoTitle": "Levering van OEM-gasflessen",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM- en private-label productie van gasflessen voor buitenlandse merken en distributeurs.",
       "quoteTitle": "Bespreek OEM-vereisten",
       "quoteCta": "OEM-offerte aanvragen",
@@ -1799,7 +1815,7 @@
           "text": "Exportdozen, pallets en pakmerken op bestelling."
         },
         {
-          "title": "Privélabel",
+          "title": "Private Label",
           "text": "Etikettering en merkpresentatie voor distributiekanalen."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Groothandelshoeveelheden voor project- en distributeursinkoop."
         },
         {
-          "title": "OEM-productie",
+          "title": "OEM Manufacturing",
           "text": "Productconfiguratie afgestemd op uw specificatie en markt."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "We publiceren geen niet-geverifieerde landentellingen, klantnamen of projectreferenties op deze pagina.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Industriële vragen en vragen van distributeurs uit Afrikaanse markten."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Industriële kopers evalueren het aanbod van exportcilinders."
         },
         {
-          "title": "Latijns-Amerika",
+          "title": "Latin America",
           "text": "Aanvragen voor levering van industriële gasflessen en accessoires."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Toepassingen",
+      "label": "Applications",
       "title": "Cilindertoepassingen",
       "subtitle": "Producten ontworpen voor algemene industriële gastaken en eisen van buitenlandse kopers.",
       "seoTitle": "Cilindertoepassingen",
@@ -1884,10 +1900,10 @@
       ]
     },
     "faq": {
-      "label": "Veelgestelde vragen",
+      "label": "FAQ",
       "title": "Veelgestelde vragen",
       "subtitle": "Bedrijf, producten, OEM en export: antwoorden voor buitenlandse kopers voordat u een offerte aanvraagt.",
-      "seoTitle": "Veelgestelde vragen",
+      "seoTitle": "FAQ",
       "seoDescription": "Bedrijf, producten, OEM en export: antwoorden voor buitenlandse kopers voordat u een offerte aanvraagt."
     },
     "contactPage": {
@@ -1898,7 +1914,7 @@
       "seoDescription": "Vertel ons de maat, het aantal, het land van bestemming en de toepassing; wij maken een gedetailleerde offerte op."
     },
     "blog": {
-      "label": "Bloggen",
+      "label": "Blog",
       "title": "Laatste artikelen",
       "subtitle": "Deskundige inhoud voor las- en gastoevoerprofessionals.",
       "seoTitle": "Artikelen en gidsen",

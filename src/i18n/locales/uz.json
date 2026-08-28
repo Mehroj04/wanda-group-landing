@@ -3,16 +3,16 @@
     "home": "Uy",
     "products": "Mahsulotlar",
     "specs": "Texnik xususiyatlari",
-    "applications": "Ilovalar",
+    "applications": "Applications",
     "about": "Haqida",
-    "gallery": "Galereya",
+    "gallery": "Gallery",
     "factory": "Zavod",
     "quality": "Sifat",
-    "faq": "TSS",
-    "contact": "Aloqa",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Iqtibos olish",
     "inquire": "So'rov →",
-    "services": "Xizmatlar",
+    "services": "Services",
     "pricing": "Narxlash",
     "accessories": "Aksessuarlar",
     "refrigeration": "Sovuq saqlash",
@@ -120,7 +120,23 @@
       "Qurilish",
       "Metall ishlab chiqarish",
       "Gazni saqlash va taqsimlash"
+    ],
+    "refrigerationItems": [
+      "Sovuq xonalar va muzlatgichlar",
+      "Oziq-ovqat mahsulotlarini qayta ishlash va tarqatish",
+      "Supermarketlar va chakana sovuq zanjirlar",
+      "Farmatsevtika va tibbiy sovuqxona",
+      "Logistika va muzlatgichli transport",
+      "Sanoat sovutish va texnologik sovutgichlar"
     ]
+  },
+  "operations": {
+    "title": "Global operatsiyalar",
+    "manufacturingBase": "Ishlab chiqarish bazasi",
+    "manufacturingCountry": "Xitoy",
+    "intlSalesOffice": "Xalqaro savdo ofisi",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Bizning ishlab chiqarish operatsiyalarimiz Xitoyda joylashgan bo'lsa, O'zbekistondagi xalqaro savdo guruhimiz butun dunyo bo'ylab mijozlarni qo'llab-quvvatlaydi."
   },
   "whyUs": {
     "title": "Nima uchun Wanda guruhlarini tanlash kerak",
@@ -131,7 +147,7 @@
         "desc": "Mahsulot ta'minoti nafaqat savdo kataloglari, balki ishlab chiqarishga yo'naltirilgan."
       },
       {
-        "title": "OEM qo'llab-quvvatlash",
+        "title": "OEM support",
         "desc": "Maxsus rang, markalash, valf va qadoqlash buyurtma bo'yicha muhokama qilinadi."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Sanoat gaz ballonlarini shakllantirish, payvandlash, sinovdan o'tkazish va tugatish."
       },
       {
-        "title": "OEM qo'llab-quvvatlash",
+        "title": "OEM Support",
         "desc": "Buyurtma bo'yicha rang, markalash, valf, qopqoq va qadoqlash variantlari."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Bizga mahsulot, o'lcham, miqdor, belgilangan mamlakat va texnik xususiyatlarni ayting - bizning savdo guruhimiz mahsulot haqida ma'lumot va kotirovka bilan javob beradi.",
     "formTitle": "Narx so'rash",
     "formSubtitle": "Tijorat so'rovi uchun shaklni to'ldiring. Majburiy maydonlar belgilangan.",
-    "name": "Ism",
+    "name": "Name",
     "company": "Kompaniya",
     "phone": "Telefon / WhatsApp",
     "email": "Elektron pochta",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Valf turi, rangi, standarti, qadoqlash, OEM belgisi, miqdor ko'rsatkichlari ..."
   },
   "footer": {
-    "company": "Wanda Group gaz ballonlari ishlab chiqaruvchisi",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Professional gaz ballonlarini ishlab chiqarish",
     "rights": "© 2026 Wanda Group. Barcha huquqlar himoyalangan.",
     "privacy": "Maxfiylik siyosati",
     "terms": "Foydalanish shartlari"
   },
   "privacy": {
-    "label": "Huquqiy",
+    "label": "Legal",
     "title": "Maxfiylik siyosati",
     "updated": "Oxirgi yangilangan: 2026 yil 25-avgust",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Ushbu siyosat bo'yicha savollar:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Batafsil mahsulot spetsifikatsiyalari",
     "catalogSubtitle": "Har bir toifa uchun to'liq texnik ma'lumotlar, modellar va parametrlar. Xususiyatlar jadvalini ko'rish uchun mahsulotni tanlang.",
     "requestPrice": "Ushbu model uchun narxni so'rang",
-    "services": "Xizmatlar",
+    "services": "Services",
     "pricing": "Narxlash",
     "getExactQuote": "Aniq taklifni oling",
     "certifications": "Sertifikatlar",
     "order": "Buyurtma",
     "reviews": "Sharhlar",
-    "contact": "Aloqa",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Joylashuv",
     "quoteResponse": "Iqtibos javobi",
@@ -570,23 +586,23 @@
     "countriesServed": "Eksportni qo'llab-quvvatlash",
     "exportReady": "Eksport tayyor",
     "years": "Yillar",
-    "acetylene": "Asetilen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO sertifikati",
     "globalExport": "Global eksport",
     "products": "Mahsulotlar",
     "specs": "Texnik xususiyatlari",
-    "applications": "Ilovalar",
+    "applications": "Applications",
     "whyUs": "Nima uchun Biz",
     "about": "Biz haqimizda",
-    "gallery": "Galereya",
+    "gallery": "Gallery",
     "quality": "Sifat",
-    "faq": "TSS",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Til qidirish...",
     "noLanguagesFound": "Hech qanday til topilmadi",
     "breadcrumb": "Non bo'laklari",
     "primaryNav": "Asosiy",
-    "menu": "Menyu",
+    "menu": "Menu",
     "playVideo": "Videoni ijro etish",
     "productGallery": "Mahsulotlar galereyasi",
     "wechatQr": "WeChat QR code",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Asetilen",
-      "propane": "Propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Aksessuarlar"
     },
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Ovoz (L)",
-        "Gaz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Og'irligi (kg)",
@@ -824,7 +840,7 @@
       "headers": [
         "Turkum",
         "Modellar",
-        "Standart",
+        "Standard",
         "Ilova"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logotip va RAL rangi",
           "Bozor standartidagi valf",
-          "OEM qadoqlash va teglar"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Modelga va manzilga bog'liq"
       },
       {
-        "label": "Bajarish vaqti",
+        "label": "Lead time",
         "value": "Buyurtma bo'yicha tasdiqlangan",
         "desc": "Iqtibos bilan baham ko'rildi"
       },
@@ -966,7 +982,7 @@
         "Silindr hajmi va modeli",
         "Valf turi va ulanish standarti",
         "Belgilangan bozor uchun talab qilinadigan standartlar",
-        "OEM rangi, markalash va qadoqlash",
+        "OEM colour, marking and packaging",
         "Buyurtma hajmi va Inkoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Mahsulot",
       "MOQ",
       "Narxi",
-      "Bajarish vaqti"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "AQSh bozori sertifikati"
+        "desc": "AQSh bozorining silindrli standarti - qo'llanilishi mahsulot va buyurtma uchun tasdiqlangan"
       },
       {
         "name": "TPED",
-        "desc": "Evropa transport direktivasi"
+        "desc": "Evropa transport talablari - belgilangan bozor bo'yicha muhokama qilinadi"
       },
       {
         "name": "GB 5099",
         "desc": "Xitoy gaz ballonlari standarti"
       },
       {
-        "name": "Idoralar belgisi",
-        "desc": "Yevropa muvofiqlik talablari"
+        "name": "CE Mark",
+        "desc": "Evropa muvofiqlik belgisi - mahsulot va bozor uchun qo'llanilishi"
       }
     ]
   },
@@ -1066,37 +1082,37 @@
         "quote": "Bu yil biz 40 litrlik asetilen tsilindrlarini uch marta qayta buyurtma qildik. GOST klapanlari, OEM rangi va eksport qadoqlash har safar birinchi namunaga mos keldi.",
         "author": "Rustam Yusupov",
         "role": "Egasi, payvandlash gaz taqsimlovchisi",
-        "country": "O'zbekiston"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Iqtibos o'sha kuni aniq MOQ va yetkazib berish vaqti bilan keldi. Propan idishlari POL klapanlari va to'liq qadoqlash ro'yxati bilan keldi - biz tomonda bojxona kechikishlari yo'q.",
-        "author": "Aygerim Bekova",
+        "author": "Aigerim Bekova",
         "role": "Xarid bo'yicha menejer, sanoat ta'minoti",
-        "country": "Qozog'iston"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Biz bitta konteyner buyurtmasi sifatida regulyatorlar va shlanglar bilan silindrlarni sotib olamiz. Hujjatlar va markalash bozorimiz uchun tayyor edi, shuning uchun qayta sotish oson edi.",
-        "author": "Faysal Al-Harbi",
+        "author": "Faisal Al-Harbi",
         "role": "Import xaridor, gaz uskunalari savdosi",
-        "country": "Saudiya Arabistoni"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "payvandlash",
+        "id": "welding",
         "eyebrow": "Asetilen tsilindrlari",
         "title": "Nozik payvandlash uchun barqaror olov",
         "text": "Uzluksiz payvandlash va payvandlash uchun mo'ljallangan erigan asetilen tsilindrlari - barqaror bosim, xavfsiz gözenekli massa, eksportga tayyor klapanlar.",
         "points": [
           "ISO / DOT / GB imkoniyatlari",
           "CGA / GOST / DIN klapanlari",
-          "OEM rangi va belgisi"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "kesish",
+        "id": "cutting",
         "eyebrow": "Kesish va ishlab chiqarish",
         "title": "Metall harakatlanishi kerak bo'lganda quvvat",
         "text": "Tersaneler, ustaxonalar va og'ir ishlab chiqarish liniyalari uchun yuqori oqimli asetilen va kislorodga tayyor silindrli to'plamlar.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan va LPG",
         "title": "Har bir bozor uchun bardoshli LPG tsilindrlari",
         "text": "Gazni isitish va pishirishdan sanoat kesishgacha - bosim, qoplama va uzoq xizmat muddati uchun qurilgan po'lat silindrlar.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "zavod",
+        "id": "factory",
         "eyebrow": "Ishlab chiqarish",
         "title": "Po'latdan jo'natishgacha bo'lgan zavod nazorati",
         "text": "Uyda shakllantirish, payvandlash, gidrostatik sinov va pardozlash - shuning uchun har bir partiya chizilgan rasmingizga va bozor standartlariga mos keladi.",
         "points": [
           "Gidrostatik sinovdan o'tgan",
           "Kuzatiladigan partiyalar",
-          "OEM / ODM tayyor"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "sifat",
+        "id": "quality",
         "eyebrow": "Sifat va xavfsizlik",
         "title": "Tekshiruvni siz taklifga qo'yishingiz mumkin",
         "text": "Materiallarni tekshirish, oqish testlari, valf momenti va qadoqlash fotosuratlari. Sertifikat paketlari va fotosuratlar hisobotlari so'rov bo'yicha shaxsiy yuboriladi.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "eksport",
+        "id": "export",
         "eyebrow": "Global eksport",
         "title": "Portlar uchun qadoqlangan, eksport bozorlariga tayyor",
         "text": "Incoterms manzilingiz uchun muvofiqlashtirilgan palletlar, vana himoyasi, ko'p tilli teglar va yuk hujjatlarini eksport qiling.",
@@ -1181,8 +1197,8 @@
       "Payvandlashdan keyin ochiq bo'yinli bo'yalmagan silindrli qobiqlar"
     ],
     "refrigeration": [
-      "Copeland yarim germetik kompressorli havo sovutgichli kondensator",
-      "Bitzer yarim germetik kompressorli havo sovutgichli kondensator",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Yopiq shkaf uslubidagi sovutish kondensatori",
       "Yuqori quvvatli to'rt fanli havo sovutgichli kondensatsiya moslamasi"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Mahsulot aksessuarlari",
     "subtitle": "Asetilen tsilindrlari, generatorlar, payvandlash va kesish uchun qismlar. Spetsifikatsiyalar va ilovalar uchun Tafsilotlarni oching.",
     "cta": "Tafsilotlarni so'rash",
-    "details": "Tafsilotlar",
+    "details": "Details",
     "close": "Yopish",
     "featuresLabel": "Asosiy xususiyatlar",
     "specsLabel": "Texnik xususiyatlari",
-    "applicationsLabel": "Ilovalar",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Sifat va ta'minot",
     "whyTitle": "Nega bizning aksessuarlarimizni tanlaysiz?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Tez o'rnatish va almashtirish uchun standart ulanishlar"
         ],
         "specs": [
-          "Gaz: asetilen (C₂H₂); kislorod to'xtatuvchilari alohida yetkazib beriladi",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Korpus: guruch; to'xtatuvchi: zanglamaydigan po'lat",
           "Ulanish: G 3/8 ″ LH yoki moslashtirilgan ip",
           "Ish bosimi: 1,5 MPa gacha / moslashtirilgan",
@@ -1308,13 +1324,13 @@
           "100% xavfsizlik va funktsiyani tekshirish"
         ],
         "specs": [
-          "Gaz: asetilen, kislorod, argon, azot va mos gazlar",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Ish bosimi: 25/35 bar klassi",
           "Sinov bosimi: 37,5 / 52,5 bar klassi",
           "Kirish / chiqish: ichki yoki tashqi, moslashtirilgan",
           "Qo'l g'ildiragi: alyuminiy / sink qotishmasi",
           "Harorat: -20 °C dan +60 °C gacha",
-          "Standartlar: ISO 10297, GB/T 8335, CGA yoki moslashtirilgan",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Qadoqlash: 1 dona / sumka, 50 dona / quti"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (moslashtirilgan mavjud)",
           "Uzunlik: 10/20/30/50/100 m yoki moslashtirilgan",
           "Rang: ko'k standart; material SBR / EPDM + polyester ip",
-          "Standartlar: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Harorat: -20 °C dan +80 °C gacha"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Bir nechta diapazonlar va pastki / orqa o'rnatish"
         ],
         "specs": [
-          "Gaz: asetilen, kislorod, argon, CO₂, azot va mos gazlar",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Terish: 50/63/100 mm, moslashtirilgan",
           "Diapazon: 0–1 bardan 0–400 bargacha, odatiy",
           "Aniqlik: ±2,5% standart, ±1,6% ixtiyoriy",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Yetkazib berishdan oldin 100% sinov",
-          "OEM terish va brending imkoniyatlari",
+          "OEM dial and branding options",
           "Eksport qadoqlash"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Bir nechta o'rnatilgan bosim va ip o'lchamlari"
         ],
         "specs": [
-          "Gaz: kislorod, atsetilen, havo, azot va mos gazlar",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Ish bosimi: 25 bar / 25 kg / sm² gacha",
           "Rölyef diapazoni: 0,1–2,5 MPa, sozlanishi",
           "Harorat: -20 °C dan +120 °C gacha",
@@ -1495,7 +1511,7 @@
           "Gaz quvurida samarali filtrlashni qo'llab-quvvatlaydi",
           "Sanoat guruch / metall konstruktsiyasi",
           "Tizimni moslashtirish uchun standart tishli portlar",
-          "OEM ipi, o'lchami va so'rov bo'yicha qadoqlash"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rol: filtr konvertori / adapter boshi",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtr",
+        "title": "Filter",
         "desc": "Pastki oqim uskunasini himoya qilish uchun namlik, yog 'va zarrachalarni olib tashlaydigan yuqori samarali filtr.",
         "intro": "Uskunani himoya qilish va xizmat muddatini uzaytirish uchun gaz oqimidan qattiq zarralar, suv, moy va boshqa aralashmalarni olib tashlaydi. Guruch boshi, sifatli element va bosim ostida barqaror ishlash. Kislorod, asetilen, havo, azot va mos gazlar uchun.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Ish bosimi ostida barqaror ishlash"
         ],
         "specs": [
-          "Gaz: kislorod, atsetilen, havo, azot va mos gazlar",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Kirish bosimi: 2,5 MPa gacha",
           "Ish bosimi: 0,01–1,6 MPa",
           "Aniqlik: 5/20/50 mikron ixtiyoriy",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Huquqiy",
+    "label": "Legal",
     "title": "Foydalanish shartlari",
     "updated": "Oxirgi yangilangan: 2026 yil 27-avgust",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Sanoat suv sovutgichlari",
       "Avtomobil sovutish moslamalari va mobil sovuq xonalari"
     ],
-    "note": "Wanda International Trade gaz ballon liniyasi bilan bir qatorda sovutish uskunalarini yetkazib beradi: bloklar, panellar, sovutgichlar va tegishli sovuq zanjirli uskunalar. Copeland, Bitzer va shunga o'xshash nomlar ushbu kompaniyalarning rebrendini emas, balki jihoz ichidagi kompressor brendini anglatadi.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Kompaniya video",
     "videoSubtitle": "Sovutgich uskunalari liniyasining umumiy ko'rinishi. Qo'shimcha tasvirlar so'rov bo'yicha shaxsiy yuboriladi.",
     "items": [
       {
-        "title": "Copeland yarim germetik havo sovutgichli qurilma",
-        "spec": "Kondensatsiya qurilmasi · Kopeland kompressori",
-        "desc": "Sovuq xonalar va o'rtacha haroratli navbatchilik uchun Copeland yarim germetik kompressorli havo sovutgichli kondensatsiya moslamasi."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer yarim germetik havo sovutgichli qurilma",
-        "spec": "Kondensatsiya bloki · Bitzerli kompressor",
-        "desc": "Yuqori va o'rta va past haroratli xonalar uchun Bitzer yarim germetik kompressorli havo sovutgichli kondensatsiya moslamasi."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Yopiq quti tipidagi birlik",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Narx so'rashga tayyormisiz?",
       "quoteCta": "Narx so'rash",
       "relatedProducts": "Tegishli mahsulotlar",
-      "applications": "Ilovalar",
+      "applications": "Applications",
       "standardsTitle": "Standartlar va sertifikatlash",
-      "oemTitle": "OEM / moslashtirish",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Qadoqlash va yetkazib berish",
       "placeholders": {
         "standards": "Mavjud standartlar va sertifikatlar buyurtma va belgilangan bozor bo'yicha tasdiqlangan. Sertifikat nusxalari so'rov bo'yicha shaxsiy yuboriladi - fayllar veb-saytda nashr etilmaydi.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
       "seoTitle": "Gaz ballonli mahsulotlar",
       "seoDescription": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
-      "refrigerationNote": "Wanda International Trade gaz ballon liniyasi bilan bir qatorda sovutish uskunalarini yetkazib beradi: bloklar, panellar, sovutgichlar va tegishli sovuq zanjirli uskunalar. Copeland, Bitzer va shunga o'xshash nomlar ushbu kompaniyalarning rebrendini emas, balki jihoz ichidagi kompressor brendini anglatadi.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Eritilgan asetilen tsilindrlari",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propan tsilindrlari",
-          "overview": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi.",
+          "overview": "Propan gazini saqlash va tashish uchun po'lat ballonlar. Asetilen bilan bog'langanda isitish, sanoat propan bilan ta'minlash, pishirish va kislorodli yoqilg'ini kesish uchun ishlatiladi.",
           "seoTitle": "Propan gaz ballonlari",
-          "seoDescription": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi."
+          "seoDescription": "Isitish, sanoat ta'minoti va kesish uchun mo'ljallangan po'lat propan gaz ballonlari. Buyurtma bo'yicha muhokama qilinadigan eksport va OEM variantlari."
         },
         "lpg": {
           "name": "LPG tsilindrlari",
-          "overview": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi.",
+          "overview": "Suyultirilgan neft gazi (LPG) uchun ballonlar - propan, butan yoki aralash aralashmalar. Turar-joy va tijorat LPG tarqatish, lager, isitish va portativ yoqilg'i ta'minoti uchun keng tarqalgan.",
           "seoTitle": "LPG gaz ballonlari",
-          "seoDescription": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi."
+          "seoDescription": "Turar-joy, tijorat va sanoat suyultirilgan neft gazini taqsimlash va portativ ta'minot uchun LPG ballonlari."
         },
         "industrial": {
           "name": "Sanoat gaz ballonlari",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM va ulgurji",
+      "title": "OEM and Wholesale",
       "subtitle": "Distribyutorlar va sanoat xaridorlari uchun xususiy yorliq va ommaviy yetkazib berish imkoniyatlari.",
-      "seoTitle": "OEM gaz ballonlari ta'minoti",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Chet el brendlari va distribyutorlari uchun OEM va xususiy yorliqli gaz ballonlarini ishlab chiqarish.",
       "quoteTitle": "OEM talablarini muhokama qiling",
       "quoteCta": "OEM taklifini so'rang",
@@ -1799,7 +1815,7 @@
           "text": "Buyurtma bo'yicha karton, palletlar va qadoqlash belgilarini eksport qiling."
         },
         {
-          "title": "Shaxsiy yorliq",
+          "title": "Private Label",
           "text": "Distribyutor kanallari uchun yorliqlash va brend taqdimoti."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Loyiha va distribyutor xaridlari uchun ulgurji miqdorlar."
         },
         {
-          "title": "OEM ishlab chiqarish",
+          "title": "OEM Manufacturing",
           "text": "Mahsulot konfiguratsiyasi spetsifikatsiya va bozoringizga mos keladi."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Biz ushbu sahifada tasdiqlanmagan mamlakatlar raqamlari, mijozlar nomlari yoki loyiha havolalarini nashr etmaymiz.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Afrika bozorlaridan sanoat va distribyutor so'rovlari."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Eksport tsilindrni yetkazib berishni baholash sanoat xaridorlari."
         },
         {
-          "title": "lotin Amerikasi",
+          "title": "Latin America",
           "text": "Sanoat gaz ballonlari va aksessuarlari uchun so'rovlar."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Ilovalar",
+      "label": "Applications",
       "title": "Silindrlarni qo'llash",
       "subtitle": "Umumiy sanoat gaz vazifalari va xorijdagi xaridorlarning talablari uchun mo'ljallangan mahsulotlar.",
       "seoTitle": "Silindrlarni qo'llash",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "TSS",
+      "label": "FAQ",
       "title": "Tez-tez so'raladigan savollar",
       "subtitle": "Kompaniya, mahsulotlar, OEM va eksport - siz taklif so'rashdan oldin chet ellik xaridorlar uchun javoblar.",
-      "seoTitle": "TSS",
+      "seoTitle": "FAQ",
       "seoDescription": "Kompaniya, mahsulotlar, OEM va eksport - siz taklif so'rashdan oldin chet ellik xaridorlar uchun javoblar."
     },
     "contactPage": {
-      "label": "Aloqa",
+      "label": "Contact",
       "title": "Keling, sizning talablaringizni muhokama qilaylik",
       "subtitle": "Savdo guruhimizga shakl, elektron pochta yoki messenjer orqali murojaat qiling. Tezroq taklif qilish uchun mahsulot, miqdor va manzilni baham ko'ring.",
       "seoTitle": "Narx so'rash",

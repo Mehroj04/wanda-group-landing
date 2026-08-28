@@ -3,6 +3,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import { siteConfig, siteLocation } from '../config/site'
 import { routes } from '../config/routes'
 import { productCatalog } from '../config/products'
+import OperationsInfo from './OperationsInfo'
 import Logo from './Logo'
 import './Footer.css'
 
@@ -25,6 +26,7 @@ export default function Footer() {
               {siteConfig.phone}
             </a>
             <p className="footer__address">{siteLocation(lang)}</p>
+            <OperationsInfo />
             <a
               href={`https://wa.me/${siteConfig.whatsapp.replace(/\D/g, '')}`}
               target="_blank"

@@ -3,16 +3,16 @@
     "home": "Sākums",
     "products": "Produkti",
     "specs": "Specifikācijas",
-    "applications": "Lietojumprogrammas",
+    "applications": "Applications",
     "about": "Par",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "factory": "Rūpnīca",
     "quality": "Kvalitāte",
     "faq": "FAQ",
-    "contact": "Sazināties",
+    "contact": "Contact",
     "getQuote": "Saņemt citātu",
     "inquire": "Jautājiet →",
-    "services": "Pakalpojumi",
+    "services": "Services",
     "pricing": "Cenu noteikšana",
     "accessories": "Piederumi",
     "refrigeration": "Saldētava",
@@ -120,7 +120,23 @@
       "Būvniecība",
       "Metāla izgatavošana",
       "Gāzes uzglabāšana un sadale"
+    ],
+    "refrigerationItems": [
+      "Aukstās telpas un saldētavas",
+      "Pārtikas pārstrāde un izplatīšana",
+      "Lielveikali un mazumtirdzniecības saldēšanas ķēdes",
+      "Farmācijas un medicīnas saldētava",
+      "Loģistika un refrižerators",
+      "Rūpnieciskās dzesēšanas un procesu dzesētāji"
     ]
+  },
+  "operations": {
+    "title": "Globālās operācijas",
+    "manufacturingBase": "Ražošanas bāze",
+    "manufacturingCountry": "Ķīna",
+    "intlSalesOffice": "Starptautiskais tirdzniecības birojs",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Mūsu ražošanas darbības atrodas Ķīnā, savukārt mūsu starptautiskā pārdošanas komanda Uzbekistānā atbalsta klientus visā pasaulē."
   },
   "whyUs": {
     "title": "Kāpēc izvēlēties Wanda grupas",
@@ -131,7 +147,7 @@
         "desc": "Preču piedāvājums orientēts uz ražošanu, ne tikai uz katalogu tirdzniecību."
       },
       {
-        "title": "OEM atbalsts",
+        "title": "OEM support",
         "desc": "Pielāgota krāsa, marķējums, vārsts un iepakojums tiek apspriesti pēc pasūtījuma."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Rūpniecisko gāzes balonu formēšana, metināšana, testēšana un apdare."
       },
       {
-        "title": "OEM atbalsts",
+        "title": "OEM Support",
         "desc": "Krāsa, marķējums, vārsts, vāciņš un iepakojuma iespējas pēc pasūtījuma."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Pastāstiet mums produktu, izmēru, daudzumu, galamērķa valsti un specifikācijas — mūsu pārdošanas komanda atbildēs ar informāciju par produktu un piedāvājumu.",
     "formTitle": "Pieprasīt cenas piedāvājumu",
     "formSubtitle": "Aizpildiet veidlapu komerciālai izmeklēšanai. Obligātie lauki ir atzīmēti.",
-    "name": "Vārds",
+    "name": "Name",
     "company": "Uzņēmums",
     "phone": "Tālrunis / WhatsApp",
     "email": "E-pasts",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Vārsta tips, krāsa, standarts, iepakojums, OEM marķējums, daudzuma piezīmes..."
   },
   "footer": {
-    "company": "Wanda Group gāzes balonu ražotājs",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesionāla gāzes balonu ražošana",
     "rights": "© 2026 Wanda Group. Visas tiesības paturētas.",
     "privacy": "Privātuma politika",
     "terms": "Lietošanas noteikumi"
   },
   "privacy": {
-    "label": "Juridisks",
+    "label": "Legal",
     "title": "Privātuma politika",
     "updated": "Pēdējo reizi atjaunināts: 2026. gada 25. augustā",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Jautājumi par šo politiku:"
   },
   "ui": {
-    "catalog": "Katalogs",
+    "catalog": "Catalog",
     "catalogTitle": "Detalizētas produkta specifikācijas",
     "catalogSubtitle": "Pilnīgi tehniskie dati, modeļi un parametri katrai kategorijai. Izvēlieties produktu, lai skatītu specifikāciju tabulu.",
     "requestPrice": "Pieprasīt cenu šim modelim",
-    "services": "Pakalpojumi",
+    "services": "Services",
     "pricing": "Cenu noteikšana",
     "getExactQuote": "Saņemiet precīzu citātu",
     "certifications": "Sertifikāti",
     "order": "Pasūtiet",
     "reviews": "Atsauksmes",
-    "contact": "Sazināties",
+    "contact": "Contact",
     "phone": "Tālrunis",
     "location": "Atrašanās vieta",
     "quoteResponse": "Citāta atbilde",
@@ -570,23 +586,23 @@
     "countriesServed": "Eksporta atbalsts",
     "exportReady": "Eksports gatavs",
     "years": "Gadiem",
-    "acetylene": "Acetilēns",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO sertificēts",
     "globalExport": "Globālais eksports",
     "products": "Produkti",
     "specs": "Specifikācijas",
-    "applications": "Lietojumprogrammas",
+    "applications": "Applications",
     "whyUs": "Kāpēc Mēs",
     "about": "Par mums",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "quality": "Kvalitāte",
     "faq": "FAQ",
-    "blog": "Emuārs",
+    "blog": "Blog",
     "searchLanguage": "Meklēt valodu...",
     "noLanguagesFound": "Nav atrasta neviena valoda",
     "breadcrumb": "rīvmaize",
     "primaryNav": "Primārais",
-    "menu": "Izvēlne",
+    "menu": "Menu",
     "playVideo": "Atskaņot video",
     "productGallery": "Produktu galerija",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / privātā etiķete",
+    "OEM / Private Label",
     "Starptautiskais eksports",
     "Kvalitātes kontrole",
     "Tirgus standarti pēc pieprasījuma",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilēns",
-      "propane": "Propāns",
-      "generator": "Ģenerators",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Piederumi"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Standarta acetilēna cilindru modeļi",
       "headers": [
-        "Modelis",
+        "Model",
         "Tilpums (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Standarta propāna cilindru modeļi",
       "headers": [
-        "Modelis",
+        "Model",
         "Tilpums (L)",
-        "Gāze (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Svars (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Acetilēna ģeneratoru modeļi",
       "headers": [
-        "Modelis",
+        "Model",
         "Izlaide (m³/h)",
         "Karbīds (kg/h)",
         "Spiediens (kPa)",
@@ -824,20 +840,20 @@
       "headers": [
         "Kategorija",
         "Modeļi",
-        "Standarta",
+        "Standard",
         "Pieteikums"
       ],
       "rows": [
         [
           "Regulatori",
           "WG-R510, WG-R580",
-          "CGA 510/580",
+          "CGA 510/580",
           "Acetilēns, propāns"
         ],
         [
           "Mērinstrumenti",
           "WG-G63, WG-G100",
-          "ISO 5171",
+          "ISO 5171",
           "Spiediena monitorings"
         ],
         [
@@ -879,7 +895,7 @@
         "points": [
           "Logo un RAL krāsa",
           "Tirgus standarta vārsts",
-          "OEM iepakojums un etiķetes"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Atkarīgs no modeļa un galamērķa"
       },
       {
-        "label": "Izpildes laiks",
+        "label": "Lead time",
         "value": "Apstiprināts pēc pasūtījuma",
         "desc": "Kopīgots ar citātu"
       },
@@ -966,7 +982,7 @@
         "Cilindra tilpums un modelis",
         "Vārsta veids un savienojuma standarts",
         "Standarti, kas nepieciešami galamērķa tirgum",
-        "OEM krāsa, marķējums un iepakojums",
+        "OEM colour, marking and packaging",
         "Pasūtījumu apjoms un Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produkts",
       "MOQ",
       "Cena",
-      "Izpildes laiks"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "ASV tirgus sertifikācija"
+        "desc": "ASV tirgus cilindru standarts — pielietojamība apstiprināta katram produktam un pasūtījumam"
       },
       {
         "name": "TPED",
-        "desc": "Eiropas transporta direktīva"
+        "desc": "Eiropas transporta prasības — apspriestas katram galamērķa tirgum"
       },
       {
         "name": "GB 5099",
         "desc": "Ķīnas gāzes balonu standarts"
       },
       {
-        "name": "CE marķējums",
-        "desc": "Eiropas atbilstības prasības"
+        "name": "CE Mark",
+        "desc": "Eiropas atbilstības marķējums — piemērojamība katram produktam un tirgum"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Šogad trīs reizes pārsūtījām 40L acetilēna balonus. GOST vārsti, OEM krāsa un eksporta iepakojums katru reizi atbilda pirmajam paraugam.",
-        "author": "Rustams Jusupovs",
+        "author": "Rustam Yusupov",
         "role": "Īpašnieks, metināšanas gāzes izplatītājs",
-        "country": "Uzbekistāna"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Citāts nāca tajā pašā dienā ar skaidru MOQ un izpildes laiku. Propāna pudeles tika piegādātas ar POL vārstiem un pilnu iepakošanas sarakstu — no mūsu puses nav nekādu muitas kavējumu.",
-        "author": "Aigerims Bekova",
+        "author": "Aigerim Bekova",
         "role": "Iepirkumu vadītājs, rūpnieciskā apgāde",
-        "country": "Kazahstāna"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Balonus ar regulatoriem un šļūtenēm pērkam kā vienu konteinera pasūtījumu. Dokumenti un marķējums bija gatavi mūsu tirgum, tāpēc tālākpārdošana bija vienkārša.",
         "author": "Faisal Al-Harbi",
         "role": "Importa pircējs, gāzes iekārtu tirdzniecība",
-        "country": "Saūda Arābija"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "metināšana",
+        "id": "welding",
         "eyebrow": "Acetilēna cilindri",
         "title": "Stabila liesma precīzai metināšanai",
         "text": "Izšķīdināti acetilēna cilindri, kas izstrādāti nepārtrauktai metināšanai un cietlodēšanai — pastāvīgs spiediens, droša poraina masa, eksportam gatavi vārsti.",
         "points": [
           "ISO / DOT / GB opcijas",
           "CGA / GOST / DIN vārsti",
-          "OEM krāsa un marķējums"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "griešana",
+        "id": "cutting",
         "eyebrow": "Griešana un izgatavošana",
         "title": "Jauda, ​​kad metālam jākustas",
         "text": "Augstas plūsmas acetilēna un skābekļa balonu komplekti kuģu būvētavām, darbnīcām un smagajām ražošanas līnijām.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propāns",
+        "id": "propane",
         "eyebrow": "Propāns un LPG",
         "title": "Izturīgi LPG baloni katram tirgum",
         "text": "No apkures un vārīšanas gāzes līdz rūpnieciskai griešanai — tērauda baloni, kas radīti spiedienam, pārklājumam un ilgam kalpošanas laikam.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "rūpnīca",
+        "id": "factory",
         "eyebrow": "Ražošana",
         "title": "Rūpnīcas kontrole no tērauda līdz nosūtīšanai",
         "text": "Iekšējā formēšana, metināšana, hidrostatiskā pārbaude un apdare — lai katra partija atbilstu jūsu rasējumam un tirgus standartam.",
         "points": [
           "Hidrostatiskā pārbaude",
           "Izsekojamās partijas",
-          "OEM / ODM gatavs"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kvalitāti",
+        "id": "quality",
         "eyebrow": "Kvalitāte un drošība",
         "title": "Apskati varat ievietot citātā",
         "text": "Materiālu pārbaudes, noplūdes testi, vārstu griezes moments un iepakojuma fotoattēli. Sertifikātu pakas un fotoreportāžas pēc pieprasījuma tiek nosūtītas privāti.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "eksportēt",
+        "id": "export",
         "eyebrow": "Globālais eksports",
         "title": "Iepakots ostām, gatavs eksporta tirgiem",
         "text": "Eksportējiet paletes, vārstu aizsardzību, daudzvalodu etiķetes un piegādes dokumentus, kas saskaņoti jūsu galamērķim Incoterms.",
@@ -1181,8 +1197,8 @@
       "Nekrāsoti cilindru apvalki ar atvērtiem kakliņiem pēc metināšanas"
     ],
     "refrigeration": [
-      "Kondensācijas iekārta ar gaisa dzesēšanu ar Copeland daļēji hermētisku kompresoru",
-      "Kondensācijas iekārta ar gaisa dzesēšanu ar Bitzer daļēji hermētisku kompresoru",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Slēgta skapja tipa saldēšanas kondensācijas iekārta",
       "Lieljaudas četru ventilatoru gaisa dzesēšanas kondensācijas iekārta"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Produktu piederumi",
     "subtitle": "Detaļas acetilēna cilindriem, ģeneratoriem, metināšanai un griešanai. Atveriet informāciju par specifikācijām un lietojumprogrammām.",
     "cta": "Pieprasīt sīkāku informāciju",
-    "details": "Sīkāka informācija",
+    "details": "Details",
     "close": "Aizvērt",
     "featuresLabel": "Galvenās iezīmes",
     "specsLabel": "Specifikācijas",
-    "applicationsLabel": "Lietojumprogrammas",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kvalitāte un piegāde",
     "whyTitle": "Kāpēc izvēlēties mūsu aksesuārus?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standarta savienojumi ātrai uzstādīšanai un nomaiņai"
         ],
         "specs": [
-          "Gāze: acetilēns (C2H2); skābekļa novadītāji tiek piegādāti atsevišķi",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Korpuss: misiņš; novadītājs: nerūsējošais tērauds",
           "Savienojums: G 3/8″ LH vai pielāgota vītne",
           "Darba spiediens: līdz 1,5 MPa / pielāgots",
@@ -1308,13 +1324,13 @@
           "100% drošības un darbības pārbaude"
         ],
         "specs": [
-          "Gāze: acetilēns, skābeklis, argons, slāpeklis un saderīgas gāzes",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Darba spiediens: 25 / 35 bar klase",
           "Pārbaudes spiediens: 37,5 / 52,5 bāru klase",
           "Ieplūde/izplūde: iekšēja vai ārēja, pielāgota",
           "Rokas ritenis: alumīnija/cinka sakausējums",
           "Temperatūra: -20 °C līdz +60 °C",
-          "Standarti: ISO 10297, GB/T 8335, CGA vai pielāgots",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Iepakojums: 1 gab./maisā, 50 gab./kaste"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (pieejams pēc pasūtījuma)",
           "Garums: 10/20/30/50/100 m vai pēc pasūtījuma",
           "Krāsa: standarta zila; materiāls SBR / EPDM + poliestera dzija",
-          "Standarti: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatūra: -20 °C līdz +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Vairāki diapazoni un stiprinājumi apakšā/aizmugurē"
         ],
         "specs": [
-          "Gāze: acetilēns, skābeklis, argons, CO₂, slāpeklis un saderīgas gāzes",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Ciparnīca: 50 / 63 / 100 mm, pieejams pēc pasūtījuma",
           "Diapazons: 0–1 bārs līdz 0–400 bāriem, pēc pasūtījuma",
           "Precizitāte: ±2,5% standarta, ±1,6% pēc izvēles",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% pārbaude pirms piegādes",
-          "OEM ciparnīca un zīmola iespējas",
+          "OEM dial and branding options",
           "Eksporta iepakojums"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Vairāki iestatītie spiedieni un vītņu izmēri"
         ],
         "specs": [
-          "Gāze: skābeklis, acetilēns, gaiss, slāpeklis un saderīgas gāzes",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Darba spiediens: līdz 25 bar / 25 kg/cm²",
           "Atvieglojuma diapazons: 0,1–2,5 MPa, pielāgojams",
           "Temperatūra: -20 °C līdz +120 °C",
@@ -1495,7 +1511,7 @@
           "Atbalsta efektīvu filtrēšanu gāzes vadā",
           "Industriālā misiņa/metāla konstrukcija",
           "Standarta vītņotie porti sistēmas saskaņošanai",
-          "OEM vītne, izmērs un iepakojums pēc pieprasījuma"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Loma: filtra pārveidotājs / adaptera galva",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtrs",
+        "title": "Filter",
         "desc": "Augstas efektivitātes filtrs, kas noņem mitrumu, eļļu un daļiņas, lai aizsargātu pakārtoto aprīkojumu.",
         "intro": "Noņem no gāzes plūsmas cietās daļiņas, ūdeni, eļļu un citus piemaisījumus, lai aizsargātu aprīkojumu un pagarinātu kalpošanas laiku. Misiņa galva, kvalitātes elements un stabila darbība zem spiediena. Skābeklim, acetilēnam, gaisam, slāpeklim un saderīgām gāzēm.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Stabila darbība zem darba spiediena"
         ],
         "specs": [
-          "Gāze: skābeklis, acetilēns, gaiss, slāpeklis un saderīgas gāzes",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Ieplūdes spiediens: līdz 2,5 MPa",
           "Darba spiediens: 0,01–1,6 MPa",
           "Precizitāte: 5 / 20 / 50 μm pēc izvēles",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Juridisks",
+    "label": "Legal",
     "title": "Lietošanas noteikumi",
     "updated": "Pēdējo reizi atjaunināts: 2026. gada 27. augustā",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Rūpnieciskie ūdens dzesētāji",
       "Transportlīdzekļu saldēšanas iekārtas un pārvietojamās aukstumkameras"
     ],
-    "note": "Wanda International Trade piegādā saldēšanas iekārtas līdzās gāzes balonu līnijai: blokus, paneļus, dzesētājus un saistīto aukstās ķēdes aparatūru. Copeland, Bitzer un līdzīgi nosaukumi attiecas uz kompresora zīmolu iekārtas iekšpusē, nevis uz šo uzņēmumu zīmolu.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Uzņēmuma video",
     "videoSubtitle": "Pārskats par saldēšanas iekārtu līniju. Vairāk kadru pēc pieprasījuma sūta privāti.",
     "items": [
       {
-        "title": "Copeland daļēji hermētiska gaisa dzesēšanas iekārta",
-        "spec": "Kondensācijas iekārta · Copeland kompresors",
-        "desc": "Gaisa dzesēšanas kondensācijas iekārta ar Copeland daļēji hermētisku kompresoru aukstām telpām un vidējai temperatūrai."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer daļēji hermētiska gaisa dzesēšanas iekārta",
-        "spec": "Kondensācijas iekārta · Bitzer kompresors",
-        "desc": "Gaisa dzesēšanas kondensācijas iekārta ar Bitzer daļēji hermētisku kompresoru augstākas slodzes un vidējas līdz zemas temperatūras telpām."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Slēgta kastes tipa vienība",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Vai esat gatavs pieprasīt cenas piedāvājumu?",
       "quoteCta": "Pieprasīt cenas piedāvājumu",
       "relatedProducts": "Saistītie produkti",
-      "applications": "Lietojumprogrammas",
+      "applications": "Applications",
       "standardsTitle": "Standarti un sertifikācija",
-      "oemTitle": "OEM / pielāgošana",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Iepakojums un piegāde",
       "placeholders": {
         "standards": "Pieejamie standarti un sertifikāti tiek apstiprināti katram pasūtījuma un galamērķa tirgum. Sertifikātu kopijas tiek nosūtītas privāti pēc pieprasījuma — faili netiek publicēti vietnē.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
       "seoTitle": "Gāzes balonu izstrādājumi",
       "seoDescription": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
-      "refrigerationNote": "Wanda International Trade piegādā saldēšanas iekārtas līdzās gāzes balonu līnijai: blokus, paneļus, dzesētājus un saistīto aukstās ķēdes aparatūru. Copeland, Bitzer un līdzīgi nosaukumi attiecas uz kompresora zīmolu iekārtas iekšpusē, nevis uz šo uzņēmumu zīmolu.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Izšķīdināti acetilēna cilindri",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propāna cilindri",
-          "overview": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+          "overview": "Tērauda baloni propāna gāzes uzglabāšanai un transportēšanai. Izmanto apkurei, rūpnieciskai propāna padevei, ēdiena gatavošanai un griešanai ar skābekli, savienojot to ar acetilēnu.",
           "seoTitle": "Propāna gāzes baloni",
-          "seoDescription": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē."
+          "seoDescription": "Tērauda propāna gāzes baloni apkurei, rūpnieciskai piegādei un griešanai. Eksporta un OEM iespējas apspriestas katram pasūtījumam."
         },
         "lpg": {
           "name": "LPG baloni",
-          "overview": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+          "overview": "Sašķidrinātās naftas gāzes (LPG) baloni — propāns, butāns vai jauktie maisījumi. Izplatīts dzīvojamo un komerciālo LPG sadalei, kempingiem, apkurei un pārnēsājamas degvielas padevei.",
           "seoTitle": "LPG gāzes baloni",
-          "seoDescription": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē."
+          "seoDescription": "Sašķidrinātās naftas gāzes baloni dzīvojamo, komerciālo un rūpniecisko sašķidrinātās naftas gāzes sadalei un pārnēsājamai piegādei."
         },
         "industrial": {
           "name": "Rūpnieciskie gāzes baloni",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM un vairumtirdzniecība",
+      "title": "OEM and Wholesale",
       "subtitle": "Privātās preču zīmes un lielapjoma piegādes iespējas izplatītājiem un rūpnieciskajiem pircējiem.",
-      "seoTitle": "OEM gāzes balonu piegāde",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM un privāto zīmolu gāzes balonu ražošana ārvalstu zīmoliem un izplatītājiem.",
       "quoteTitle": "Apspriediet OEM prasības",
       "quoteCta": "Pieprasīt OEM cenas piedāvājumu",
@@ -1799,7 +1815,7 @@
           "text": "Eksportēt kartona kastes, paletes un iepakojuma zīmes pēc pasūtījuma."
         },
         {
-          "title": "Privātā etiķete",
+          "title": "Private Label",
           "text": "Marķēšana un zīmola prezentācija izplatītāju kanāliem."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Vairumtirdzniecības daudzumi projektu un izplatītāju iepirkumiem."
         },
         {
-          "title": "OEM ražošana",
+          "title": "OEM Manufacturing",
           "text": "Produkta konfigurācija ir saskaņota ar jūsu specifikāciju un tirgu."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Mēs šajā lapā nepublicējam nepārbaudītus valstu skaitu, klientu vārdus vai projektu atsauces.",
       "regions": [
         {
-          "title": "Āfrika",
+          "title": "Africa",
           "text": "Rūpniecības un izplatītāju pieprasījumi no Āfrikas tirgiem."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Rūpnieciskie pircēji, izvērtējot eksporta balonu piegādi."
         },
         {
-          "title": "Latīņamerika",
+          "title": "Latin America",
           "text": "Uzziņas par rūpniecisko gāzes balonu un piederumu piegādi."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Lietojumprogrammas",
+      "label": "Applications",
       "title": "Cilindru pielietojumi",
       "subtitle": "Produkti, kas paredzēti parastajiem rūpnieciskās gāzes uzdevumiem un ārvalstu pircēju prasībām.",
       "seoTitle": "Cilindru pielietojumi",
@@ -1891,14 +1907,14 @@
       "seoDescription": "Uzņēmums, produkti, OEM un eksports — atbildes pircējiem ārzemēs, pirms pieprasāt cenu piedāvājumu."
     },
     "contactPage": {
-      "label": "Sazināties",
+      "label": "Contact",
       "title": "Apspriedīsim jūsu prasības",
       "subtitle": "Sazinieties ar mūsu pārdošanas komandu, izmantojot veidlapu, e-pastu vai messenger. Kopīgojiet produktu, daudzumu un galamērķi, lai iegūtu ātrāku piedāvājumu.",
       "seoTitle": "Pieprasīt cenas piedāvājumu",
       "seoDescription": "Pastāstiet mums izmēru, daudzumu, galamērķa valsti un pieteikumu — mēs sagatavosim detalizētu piedāvājumu."
     },
     "blog": {
-      "label": "Emuārs",
+      "label": "Blog",
       "title": "Jaunākie raksti",
       "subtitle": "Ekspertu saturs metināšanas un gāzes apgādes profesionāļiem.",
       "seoTitle": "Raksti un ceļveži",

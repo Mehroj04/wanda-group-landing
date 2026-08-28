@@ -14,6 +14,7 @@ export default function BlogPage() {
     path: routes.blog,
     title: p.seoTitle,
     description: p.seoDescription,
+    noindex: true,
   })
 
   return (

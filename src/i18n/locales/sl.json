@@ -3,16 +3,16 @@
     "home": "domov",
     "products": "Izdelki",
     "specs": "Specifikacije",
-    "applications": "Aplikacije",
+    "applications": "Applications",
     "about": "O tem",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "factory": "Tovarna",
     "quality": "Kakovost",
-    "faq": "pogosta vprašanja",
-    "contact": "Kontakt",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Pridobite ponudbo",
     "inquire": "Povprašajte →",
-    "services": "Storitve",
+    "services": "Services",
     "pricing": "Cene",
     "accessories": "Dodatki",
     "refrigeration": "Hladilnica",
@@ -120,7 +120,23 @@
       "Gradnja",
       "Izdelava kovin",
       "Skladiščenje in distribucija plina"
+    ],
+    "refrigerationItems": [
+      "Hladilnice in hladilnice",
+      "Predelava in distribucija hrane",
+      "Supermarketi in maloprodajne hladilne verige",
+      "Farmacevtske in medicinske hladilnice",
+      "Logistika in hladilni transport",
+      "Industrijski hladilni in procesni hladilniki"
     ]
+  },
+  "operations": {
+    "title": "Globalne operacije",
+    "manufacturingBase": "Proizvodna baza",
+    "manufacturingCountry": "Kitajska",
+    "intlSalesOffice": "Mednarodna prodajna pisarna",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Naše proizvodne dejavnosti imajo sedež na Kitajskem, medtem ko naša mednarodna prodajna ekipa v Uzbekistanu podpira stranke po vsem svetu."
   },
   "whyUs": {
     "title": "Zakaj izbrati Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Ponudba izdelkov je usmerjena v proizvodnjo, ne le v trgovinske kataloge."
       },
       {
-        "title": "OEM podpora",
+        "title": "OEM support",
         "desc": "Barva po meri, oznaka, ventil in embalaža po naročilu."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Oblikovanje, varjenje, testiranje in končna obdelava industrijskih plinskih jeklenk."
       },
       {
-        "title": "Podpora OEM",
+        "title": "OEM Support",
         "desc": "Možnosti barv, oznak, ventilov, pokrovčkov in pakiranja po naročilu."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Sporočite nam izdelek, velikost, količino, ciljno državo in specifikacije – naša prodajna ekipa vam bo odgovorila z informacijami o izdelku in ponudbo.",
     "formTitle": "Zahtevajte ponudbo",
     "formSubtitle": "Izpolnite obrazec za komercialno povpraševanje. Obvezna polja so označena.",
-    "name": "Ime",
+    "name": "Name",
     "company": "Podjetje",
     "phone": "Telefon / WhatsApp",
     "email": "E-pošta",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Vrsta ventila, barva, standard, pakiranje, oznaka OEM, opombe o količini ..."
   },
   "footer": {
-    "company": "Wanda Group Proizvajalec plinskih jeklenk",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesionalna proizvodnja plinskih jeklenk",
     "rights": "© 2026 Wanda Group. Vse pravice pridržane.",
     "privacy": "Politika zasebnosti",
     "terms": "Pogoji uporabe"
   },
   "privacy": {
-    "label": "Pravno",
+    "label": "Legal",
     "title": "Politika zasebnosti",
     "updated": "Zadnja posodobitev: 25. avgust 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Vprašanja o tej politiki:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Podrobne specifikacije izdelka",
     "catalogSubtitle": "Popolni tehnični podatki, modeli in parametri za vsako kategorijo. Izberite izdelek za ogled tabele s specifikacijami.",
     "requestPrice": "Zahtevajte ceno za ta model",
-    "services": "Storitve",
+    "services": "Services",
     "pricing": "Cene",
     "getExactQuote": "Pridobite natančno ponudbo",
     "certifications": "Certifikati",
     "order": "naročilo",
     "reviews": "Ocene",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Lokacija",
     "quoteResponse": "Citiraj odgovor",
@@ -570,23 +586,23 @@
     "countriesServed": "Podpora za izvoz",
     "exportReady": "Izvoz pripravljen",
     "years": "leta",
-    "acetylene": "Acetilen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO certificiran",
     "globalExport": "Globalni izvoz",
     "products": "Izdelki",
     "specs": "Specifikacije",
-    "applications": "Aplikacije",
+    "applications": "Applications",
     "whyUs": "Zakaj mi",
     "about": "O nas",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "quality": "Kakovost",
-    "faq": "pogosta vprašanja",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Jezik iskanja ...",
     "noLanguagesFound": "Ni jezikov",
     "breadcrumb": "Drobtina",
     "primaryNav": "Primarni",
-    "menu": "meni",
+    "menu": "Menu",
     "playVideo": "Predvajaj video",
     "productGallery": "Galerija izdelkov",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Zasebna znamka",
+    "OEM / Private Label",
     "Mednarodni izvoz",
     "Kontrola kakovosti",
     "Tržni standardi na zahtevo",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilen",
-      "propane": "propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Dodatki"
     },
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Prostornina (L)",
-        "Plin (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Teža (kg)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategorija",
         "Modeli",
-        "Standardno",
+        "Standard",
         "Aplikacija"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Barva logotipa in RAL",
           "Tržno standardni ventil",
-          "OEM embalaža in nalepke"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Odvisno od modela in cilja"
       },
       {
-        "label": "Čas izvedbe",
+        "label": "Lead time",
         "value": "Potrjeno na naročilo",
         "desc": "V skupni rabi s citatom"
       },
@@ -966,7 +982,7 @@
         "Prostornina in model cilindra",
         "Vrsta ventila in standard priključka",
         "Standardi, potrebni za ciljni trg",
-        "OEM barva, oznaka in embalaža",
+        "OEM colour, marking and packaging",
         "Obseg naročila in Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Izdelek",
       "MOQ",
       "Cena",
-      "Čas izvedbe"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Tržni certifikat ZDA"
+        "desc": "Standard valja za trg ZDA — uporabnost potrjena za izdelek in naročilo"
       },
       {
         "name": "TPED",
-        "desc": "evropska prometna direktiva"
+        "desc": "Evropske transportne zahteve – obravnavane glede na ciljni trg"
       },
       {
         "name": "GB 5099",
         "desc": "Kitajski standard za plinske jeklenke"
       },
       {
-        "name": "Oznaka CE",
-        "desc": "Evropske zahteve glede skladnosti"
+        "name": "CE Mark",
+        "desc": "Evropski znak skladnosti – uporabnost glede na izdelek in trg"
       }
     ]
   },
@@ -1064,7 +1080,7 @@
     "items": [
       {
         "quote": "Letos smo trikrat prenaročili 40L acetilenske jeklenke. GOST ventili, barva OEM in izvozno pakiranje so se vsakič ujemali s prvim vzorcem.",
-        "author": "Rustam Jusupov",
+        "author": "Rustam Yusupov",
         "role": "Lastnik, distributer varilnega plina",
         "country": "Uzbekistan"
       },
@@ -1072,31 +1088,31 @@
         "quote": "Ponudba je prišla še isti dan z jasno MOQ in rokom dobave. Jeklenke s propanom so prispele z ventili POL in popolnim pakirnim listom – z naše strani ni zamud na carini.",
         "author": "Aigerim Bekova",
         "role": "Vodja nabave, industrijska dobava",
-        "country": "Kazahstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Jeklenke z regulatorji in cevmi kupujemo kot eno naročilo kontejnerja. Dokumenti in oznake so bili pripravljeni za naš trg, zato je bila nadaljnja prodaja enostavna.",
         "author": "Faisal Al-Harbi",
         "role": "Uvozni kupec, trgovanje s plinsko opremo",
-        "country": "Savdska Arabija"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "varjenje",
+        "id": "welding",
         "eyebrow": "Acetilenske jeklenke",
         "title": "Stabilen plamen za natančno varjenje",
         "text": "Jeklenke z raztopljenim acetilenom, izdelane za neprekinjeno varjenje in trdo spajkanje — stalen tlak, varna porozna masa, ventili, pripravljeni za izvoz.",
         "points": [
           "Možnosti ISO/DOT/GB",
           "CGA / GOST / DIN ventili",
-          "OEM barva in oznaka"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "rezanje",
+        "id": "cutting",
         "eyebrow": "Rezanje in izdelava",
         "title": "Moč, ko se mora kovina premikati",
         "text": "Kompleti jeklenk z visokim pretokom za acetilen in kisik za ladjedelnice, delavnice in težke proizvodne linije.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan & LPG",
         "title": "Vzdržljive jeklenke LPG za vsak trg",
         "text": "Od plina za ogrevanje in kuhanje do industrijskega rezanja — jeklene jeklenke, izdelane za pritisk, premaze in dolgo življenjsko dobo.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "tovarna",
+        "id": "factory",
         "eyebrow": "Proizvodnja",
         "title": "Tovarniški nadzor od jekla do odpreme",
         "text": "Interno oblikovanje, varjenje, hidrostatično testiranje in končna obdelava — tako da se vsaka serija ujema z vašo risbo in tržnim standardom.",
         "points": [
           "Hidrostatično testirano",
           "Sledljive serije",
-          "Pripravljen za OEM/ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kakovosti",
+        "id": "quality",
         "eyebrow": "Kakovost in varnost",
         "title": "Pregled lahko navedete v ponudbi",
         "text": "Pregledi materiala, preskusi tesnjenja, navor ventilov in fotografije pakiranja. Pakete certifikatov in fotoreportaže pošiljamo zasebno na zahtevo.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "izvoz",
+        "id": "export",
         "eyebrow": "Globalni izvoz",
         "title": "Pakirano za pristanišča, pripravljeno za izvozne trge",
         "text": "Izvozne palete, zaščita ventilov, večjezične nalepke in odpremni dokumenti, usklajeni za vaš cilj Incoterms.",
@@ -1181,8 +1197,8 @@
       "Nebarvane lupine cilindrov z odprtimi vratovi po varjenju"
     ],
     "refrigeration": [
-      "Zračno hlajena kondenzacijska enota s Copelandovim polhermetičnim kompresorjem",
-      "Zračno hlajena kondenzacijska enota s polhermetičnim kompresorjem Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Zaprta hladilna kondenzacijska enota v obliki omare",
       "Visokozmogljiva zračno hlajena kondenzacijska enota s štirimi ventilatorji"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Dodatki za izdelek",
     "subtitle": "Deli za acetilenske jeklenke, generatorje, varjenje in rezanje. Odprite podrobnosti za specifikacije in aplikacije.",
     "cta": "Zahtevajte podrobnosti",
-    "details": "Podrobnosti",
+    "details": "Details",
     "close": "Zapri",
     "featuresLabel": "Ključne značilnosti",
     "specsLabel": "Specifikacije",
-    "applicationsLabel": "Aplikacije",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kakovost in dobava",
     "whyTitle": "Zakaj izbrati našo dodatno opremo?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standardni priključki za hitro namestitev in zamenjavo"
         ],
         "specs": [
-          "Plin: acetilen (C₂H₂); odvodniki kisika dobavljeni posebej",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Telo: medenina; odvodnik: nerjaveče jeklo",
           "Priključek: G 3/8″ LH ali navoj po meri",
           "Delovni tlak: do 1,5 MPa / po meri",
@@ -1308,13 +1324,13 @@
           "100% pregled varnosti in delovanja"
         ],
         "specs": [
-          "Plin: acetilen, kisik, argon, dušik in združljivi plini",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Delovni tlak: razred 25 / 35 barov",
           "Testni tlak: 37,5 / 52,5 bar razred",
           "Vhod/izhod: notranji ali zunanji, po meri",
           "Ročno kolo: aluminij/cinkova zlitina",
           "Temperatura: −20 °C do +60 °C",
-          "Standardi: ISO 10297, GB/T 8335, CGA ali po meri",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Pakiranje: 1 kos/vrečka, 50 kos/škatla"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (na voljo po meri)",
           "Dolžina: 10 / 20 / 30 / 50 / 100 m ali po meri",
           "Barva: modra standardna; material SBR / EPDM + poliestrska preja",
-          "Standardi: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: −20 °C do +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Več obsegov in spodnjih/zadnjih nosilcev"
         ],
         "specs": [
-          "Plin: acetilen, kisik, argon, CO₂, dušik in združljivi plini",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Številčnica: 50 / 63 / 100 mm, na voljo po meri",
           "Razpon: 0–1 bar do 0–400 bar, po meri",
           "Natančnost: ±2,5 % standardno, ±1,6 % neobvezno",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% testiranje pred dostavo",
-          "OEM številčnica in možnosti blagovne znamke",
+          "OEM dial and branding options",
           "Izvozno pakiranje"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Več nastavljenih tlakov in velikosti navojev"
         ],
         "specs": [
-          "Plin: kisik, acetilen, zrak, dušik in združljivi plini",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Delovni tlak: do 25 bar / 25 kg/cm²",
           "Območje razbremenitve: 0,1–2,5 MPa, nastavljivo",
           "Temperatura: −20 °C do +120 °C",
@@ -1495,7 +1511,7 @@
           "Podpira učinkovito filtracijo v plinovodu",
           "Industrijska medenina/kovinska konstrukcija",
           "Standardna navojna vrata za ujemanje sistema",
-          "OEM navoj, velikost in pakiranje na zahtevo"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Vloga: pretvornik filtra / glava adapterja",
@@ -1526,7 +1542,7 @@
           "Stabilno delovanje pod delovnim pritiskom"
         ],
         "specs": [
-          "Plin: kisik, acetilen, zrak, dušik in združljivi plini",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Vhodni tlak: do 2,5 MPa",
           "Delovni tlak: 0,01–1,6 MPa",
           "Natančnost: 5 / 20 / 50 μm neobvezno",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Pravno",
+    "label": "Legal",
     "title": "Pogoji uporabe",
     "updated": "Zadnja posodobitev: 27. avgust 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Industrijski vodni hladilniki",
       "Hladilne enote za vozila in mobilne hladilnice"
     ],
-    "note": "Wanda International Trade poleg linije plinskih jeklenk dobavlja hladilno opremo: enote, plošče, hladilnike in pripadajočo strojno opremo za hladno verigo. Copeland, Bitzer in podobna imena se nanašajo na blagovno znamko kompresorja znotraj enote, ne na preimenovanje teh podjetij.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video podjetja",
     "videoSubtitle": "Pregled linije hladilne opreme. Več posnetkov pošljem zasebno na zahtevo.",
     "items": [
       {
-        "title": "Polhermetična zračno hlajena enota Copeland",
-        "spec": "Kondenzacijska enota · Kompresor Copeland",
-        "desc": "Zračno hlajena kondenzacijska enota s polhermetičnim kompresorjem Copeland za hladilnice in srednje temperaturno delovanje."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Polhermetična zračno hlajena enota Bitzer",
-        "spec": "Kondenzacijska enota · Kompresor Bitzer",
-        "desc": "Zračno hlajena kondenzacijska enota s polhermetičnim kompresorjem Bitzer za prostore z višjo in srednje do nizko temperaturo."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Zaprta škatlasta enota",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Ste pripravljeni zahtevati ponudbo?",
       "quoteCta": "Zahtevajte ponudbo",
       "relatedProducts": "Sorodni izdelki",
-      "applications": "Aplikacije",
+      "applications": "Applications",
       "standardsTitle": "Standardi in certificiranje",
-      "oemTitle": "OEM / prilagoditev",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pakiranje in dostava",
       "placeholders": {
         "standards": "Razpoložljivi standardi in certifikati so potrjeni glede na naročilo in ciljni trg. Kopije potrdil se na zahtevo pošljejo zasebno — datoteke niso objavljene na spletni strani.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetilenske jeklenke, generatorji, propanske jeklenke in dodatki za industrijske in varilne aplikacije.",
       "seoTitle": "Izdelki za plinske jeklenke",
       "seoDescription": "Acetilenske jeklenke, generatorji, propanske jeklenke in dodatki za industrijske in varilne aplikacije.",
-      "refrigerationNote": "Wanda International Trade poleg linije plinskih jeklenk dobavlja hladilno opremo: enote, plošče, hladilnike in pripadajočo strojno opremo za hladno verigo. Copeland, Bitzer in podobna imena se nanašajo na blagovno znamko kompresorja znotraj enote, ne na preimenovanje teh podjetij.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Jeklenke z raztopljenim acetilenom",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propanske jeklenke",
-          "overview": "Jeklenke za mešanice propana, butana in LPG. Uporablja se pri ogrevanju, rezanju, spajkanju, gradbeništvu in industrijski oskrbi s plinom.",
+          "overview": "Jeklene jeklenke za shranjevanje in transport propana. Uporablja se za ogrevanje, industrijsko oskrbo s propanom, kuhanje in rezanje s kisikom v kombinaciji z acetilenom.",
           "seoTitle": "Plinske jeklenke za propan",
-          "seoDescription": "Jeklenke za mešanice propana, butana in LPG. Uporablja se pri ogrevanju, rezanju, spajkanju, gradbeništvu in industrijski oskrbi s plinom."
+          "seoDescription": "Jeklene plinske jeklenke za propan za ogrevanje, industrijsko oskrbo in uporabo pri rezanju. Možnosti izvoza in OEM razpravljamo na naročilo."
         },
         "lpg": {
           "name": "LPG jeklenke",
-          "overview": "Jeklenke za mešanice propana, butana in LPG. Uporablja se pri ogrevanju, rezanju, spajkanju, gradbeništvu in industrijski oskrbi s plinom.",
+          "overview": "Jeklenke za utekočinjeni naftni plin (LPG) — propan, butan ali mešane mešanice. Skupno za stanovanjsko in komercialno distribucijo LPG, kampiranje, ogrevanje in prenosno oskrbo z gorivom.",
           "seoTitle": "LPG plinske jeklenke",
-          "seoDescription": "Jeklenke za mešanice propana, butana in LPG. Uporablja se pri ogrevanju, rezanju, spajkanju, gradbeništvu in industrijski oskrbi s plinom."
+          "seoDescription": "LPG jeklenke za stanovanjsko, komercialno in industrijsko distribucijo utekočinjenega naftnega plina in prenosno oskrbo."
         },
         "industrial": {
           "name": "Industrijske plinske jeklenke",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM in veleprodaja",
+      "title": "OEM and Wholesale",
       "subtitle": "Možnosti trgovske znamke in dobave v razsutem stanju za distributerje in industrijske kupce.",
-      "seoTitle": "Dobava plinske jeklenke OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Proizvodnja plinskih jeklenk OEM in zasebnih znamk za čezmorske znamke in distributerje.",
       "quoteTitle": "Pogovorite se o zahtevah OEM",
       "quoteCta": "Zahtevajte ponudbo OEM",
@@ -1807,7 +1823,7 @@
           "text": "Veleprodajne količine za projektno in distributersko nabavo."
         },
         {
-          "title": "Proizvodnja OEM",
+          "title": "OEM Manufacturing",
           "text": "Konfiguracija izdelka v skladu z vašimi specifikacijami in trgom."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Na tej strani ne objavljamo nepreverjenih številk držav, imen strank ali referenc projektov.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Industrijska in distributerska povpraševanja z afriških trgov."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Industrijski kupci ocenjujejo izvozno ponudbo jeklenk."
         },
         {
-          "title": "Latinska Amerika",
+          "title": "Latin America",
           "text": "Povpraševanje za industrijske plinske jeklenke in dobavo dodatne opreme."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplikacije",
+      "label": "Applications",
       "title": "Aplikacije cilindrov",
       "subtitle": "Izdelki, zasnovani za običajne industrijske plinske naloge in zahteve čezmorskih kupcev.",
       "seoTitle": "Aplikacije cilindrov",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "pogosta vprašanja",
+      "label": "FAQ",
       "title": "Pogosto zastavljena vprašanja",
       "subtitle": "Podjetje, izdelki, OEM in izvoz — odgovori za čezmorske kupce, preden zahtevate ponudbo.",
-      "seoTitle": "pogosta vprašanja",
+      "seoTitle": "FAQ",
       "seoDescription": "Podjetje, izdelki, OEM in izvoz — odgovori za čezmorske kupce, preden zahtevate ponudbo."
     },
     "contactPage": {
-      "label": "Kontakt",
+      "label": "Contact",
       "title": "Pogovorimo se o vaših zahtevah",
       "subtitle": "Dosežite našo prodajno ekipo prek obrazca, e-pošte ali messengerja. Delite izdelek, količino in destinacijo za hitrejšo ponudbo.",
       "seoTitle": "Zahtevajte ponudbo",

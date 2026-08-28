@@ -1,0 +1,22 @@
+.operations-info {
+  margin-top: 1rem;
+}
+
+.operations-info__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+}
+
+.operations-info__row strong {
+  font-weight: 600;
+}
+
+.operations-info__desc {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text-muted, #5a6472);
+}

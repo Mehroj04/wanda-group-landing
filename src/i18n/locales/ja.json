@@ -3,16 +3,16 @@
     "home": "家",
     "products": "製品",
     "specs": "仕様",
-    "applications": "アプリケーション",
+    "applications": "Applications",
     "about": "について",
-    "gallery": "ギャラリー",
+    "gallery": "Gallery",
     "factory": "工場",
     "quality": "品質",
-    "faq": "よくある質問",
-    "contact": "接触",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "見積もりを取得する",
     "inquire": "お問い合わせ→",
-    "services": "サービス",
+    "services": "Services",
     "pricing": "価格設定",
     "accessories": "付属品",
     "refrigeration": "冷蔵",
@@ -120,7 +120,23 @@
       "工事",
       "金属加工",
       "ガスの貯蔵と供給"
+    ],
+    "refrigerationItems": [
+      "冷蔵室および冷蔵施設",
+      "食品加工および流通",
+      "スーパーマーケットと小売コールドチェーン",
+      "医薬品および医療用冷蔵倉庫",
+      "物流・冷蔵輸送",
+      "産業用冷却およびプロセスチラー"
     ]
+  },
+  "operations": {
+    "title": "グローバルオペレーション",
+    "manufacturingBase": "製造拠点",
+    "manufacturingCountry": "中国",
+    "intlSalesOffice": "国際営業所",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "当社の製造業務は中国に拠点を置き、ウズベキスタンの国際営業チームが世界中の顧客をサポートしています。"
   },
   "whyUs": {
     "title": "ワンダグループを選ぶ理由",
@@ -131,7 +147,7 @@
         "desc": "カタログを取引するだけではなく、生産を中心とした製品供給を行っています。"
       },
       {
-        "title": "OEMサポート",
+        "title": "OEM support",
         "desc": "カスタムカラー、マーキング、バルブ、パッキンは注文ごとに相談します。"
       },
       {
@@ -166,7 +182,7 @@
         "desc": "工業用ガスシリンダーの成形、溶接、検査、仕上げ。"
       },
       {
-        "title": "OEMサポート",
+        "title": "OEM Support",
         "desc": "色、マーキング、バルブ、キャップ、パッキンのオプションはご注文に応じて承ります。"
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "製品、サイズ、数量、仕向国、仕様をお知らせください。当社の営業チームが製品情報と見積もりを返信いたします。",
     "formTitle": "見積もりを依頼する",
     "formSubtitle": "商用に関するお問い合わせのフォームに記入してください。 必須フィールドはマークされています。",
-    "name": "名前",
+    "name": "Name",
     "company": "会社",
     "phone": "電話 / WhatsApp",
     "email": "電子メール",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "バルブのタイプ、色、規格、パッキン、OEM マーキング、数量メモ..."
   },
   "footer": {
-    "company": "ワンダグループガスシリンダーメーカー",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "専門的なガスシリンダー製造",
     "rights": "© 2026 ワンダグループ。 無断転載を禁じます。",
     "privacy": "プライバシーポリシー",
     "terms": "利用規約"
   },
   "privacy": {
-    "label": "法律上の",
+    "label": "Legal",
     "title": "プライバシーポリシー",
     "updated": "最終更新日: 2026 年 8 月 25 日",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "このポリシーに関する質問:"
   },
   "ui": {
-    "catalog": "カタログ",
+    "catalog": "Catalog",
     "catalogTitle": "詳細な製品仕様",
     "catalogSubtitle": "各カテゴリの完全な技術データ、モデル、パラメータ。 製品を選択するとスペック表が表示されます。",
     "requestPrice": "このモデルの価格をリクエストする",
-    "services": "サービス",
+    "services": "Services",
     "pricing": "価格設定",
     "getExactQuote": "正確な見積もりを取得する",
     "certifications": "認証",
     "order": "注文",
     "reviews": "レビュー",
-    "contact": "接触",
+    "contact": "Contact",
     "phone": "電話",
     "location": "位置",
     "quoteResponse": "見積回答",
@@ -570,23 +586,23 @@
     "countriesServed": "輸出サポート",
     "exportReady": "輸出準備完了",
     "years": "年",
-    "acetylene": "アセチレン",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO認証取得",
     "globalExport": "世界への輸出",
     "products": "製品",
     "specs": "仕様",
-    "applications": "アプリケーション",
+    "applications": "Applications",
     "whyUs": "なぜ私たちなのか",
     "about": "私たちについて",
-    "gallery": "ギャラリー",
+    "gallery": "Gallery",
     "quality": "品質",
-    "faq": "よくある質問",
-    "blog": "ブログ",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "言語を検索...",
     "noLanguagesFound": "言語が見つかりません",
     "breadcrumb": "ブレッドクラム",
     "primaryNav": "主要な",
-    "menu": "メニュー",
+    "menu": "Menu",
     "playVideo": "ビデオを再生する",
     "productGallery": "製品ギャラリー",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / プライベートブランド",
+    "OEM / Private Label",
     "国際輸出",
     "品質管理",
     "ご要望に応じた市場標準",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "アセチレン",
-      "propane": "プロパン",
-      "generator": "ジェネレータ",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "付属品"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "アセチレンシリンダ標準品",
       "headers": [
-        "モデル",
+        "Model",
         "容積(L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "標準プロパンボンベモデル",
       "headers": [
-        "モデル",
+        "Model",
         "容積(L)",
-        "ガス(kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "重量(kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "アセチレン発生器のモデル",
       "headers": [
-        "モデル",
+        "Model",
         "出力 (m3/h)",
         "超硬(kg/h)",
         "圧力(kPa)",
@@ -824,43 +840,43 @@
       "headers": [
         "カテゴリ",
         "モデル",
-        "標準",
+        "Standard",
         "応用"
       ],
       "rows": [
         [
           "レギュレーター",
-          "WG-R510、WG-R580",
-          "CGA510/580",
+          "WG-R510, WG-R580",
+          "CGA 510/580",
           "アセチレン、プロパン"
         ],
         [
           "ゲージ",
-          "WG-G63、WG-G100",
+          "WG-G63, WG-G100",
           "ISO 5171",
           "圧力監視"
         ],
         [
           "ホース",
-          "WG-H6、WG-H9",
+          "WG-H6, WG-H9",
           "EN 559",
           "溶接、切断"
         ],
         [
           "たいまつ",
-          "WG-C100、WG-C300",
+          "WG-C100, WG-C300",
           "—",
           "プラズマ/酸素切断"
         ],
         [
           "バーナー",
-          "WG-T200、WG-T500",
+          "WG-T200, WG-T500",
           "—",
           "溶接、ろう付け"
         ],
         [
           "バルブ",
-          "WG-V510、WG-VPOL",
+          "WG-V510, WG-VPOL",
           "CGA/POL/GOST",
           "全シリンダータイプ"
         ]
@@ -879,7 +895,7 @@
         "points": [
           "ロゴ＆RALカラー",
           "市場標準のバルブ",
-          "OEM パッケージとラベル"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -887,7 +903,7 @@
         "title": "輸出と物流",
         "desc": "海外発送も完全サポート。",
         "points": [
-          "インコタームズ FOB/CIF/DDP",
+          "Incoterms FOB/CIF/DDP",
           "ドキュメントのエクスポート",
           "海上および鉄道貨物"
         ]
@@ -907,7 +923,7 @@
         "title": "認証",
         "desc": "税関および規制当局向けの文書。 コピーはご要望に応じて個人的に送信されます。",
         "points": [
-          "ISO 9809、DOT、TPED",
+          "ISO 9809, DOT, TPED",
           "MSDSと品質証明書",
           "原産地証明書"
         ]
@@ -950,7 +966,7 @@
         "desc": "モデルと目的地によって異なります"
       },
       {
-        "label": "リードタイム",
+        "label": "Lead time",
         "value": "注文ごとに確認済み",
         "desc": "見積書と共有"
       },
@@ -966,7 +982,7 @@
         "シリンダーの容量とモデル",
         "バルブの種類と接続規格",
         "目的地市場に必要な基準",
-        "OEMの色、マーキング、パッケージング",
+        "OEM colour, marking and packaging",
         "注文量とインコタームズ"
       ]
     },
@@ -1000,7 +1016,7 @@
       "製品",
       "MOQ",
       "価格",
-      "リードタイム"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "米国市場認証"
+        "desc": "米国市場シリンダー規格 - 製品および注文ごとに適用性を確認"
       },
       {
         "name": "TPED",
-        "desc": "欧州輸送指令"
+        "desc": "欧州の輸送要件 - 目的地市場ごとに議論"
       },
       {
         "name": "GB 5099",
         "desc": "中国ガスシリンダー規格"
       },
       {
-        "name": "CEマーク",
-        "desc": "欧州の適合要件"
+        "name": "CE Mark",
+        "desc": "欧州適合マーキング - 製品および市場ごとの適用性"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "今年は40Lアセチレンボンベを3回再注文しました。 GOST バルブ、OEM 色、輸出用梱包は毎回最初のサンプルと一致しました。",
-        "author": "ルスタム・ユスポフ",
+        "author": "Rustam Yusupov",
         "role": "溶接ガス販売会社のオーナー",
-        "country": "ウズベキスタン"
+        "country": "Uzbekistan"
       },
       {
         "quote": "見積もりは同日に届き、MOQとリードタイムが明確でした。 プロパン ボトルは POL バルブと完全な梱包リストとともに到着しました。当社側では税関での遅延はありませんでした。",
-        "author": "アイゲリム・ベコバ",
+        "author": "Aigerim Bekova",
         "role": "調達マネージャー、産業用供給",
-        "country": "カザフスタン"
+        "country": "Kazakhstan"
       },
       {
         "quote": "当社では、レギュレーターとホースを備えたシリンダーを 1 つのコンテナーの注文として購入します。 書類とマーキングは市場向けに準備されていたため、再販は簡単でした。",
-        "author": "ファイサル・アル・ハルビ",
+        "author": "Faisal Al-Harbi",
         "role": "輸入バイヤー、ガス機器売買",
-        "country": "サウジアラビア"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "溶接",
+        "id": "welding",
         "eyebrow": "アセチレンシリンダー",
         "title": "安定した炎で精密溶接が可能",
         "text": "連続溶接およびろう付け用に設計された溶解アセチレンシリンダー - 一定の圧力、安全な多孔質体、輸出対応バルブ。",
         "points": [
           "ISO / DOT / GB オプション",
           "CGA / GOST / DIN バルブ",
-          "OEM カラーとマーキング"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "切断",
+        "id": "cutting",
         "eyebrow": "切断・加工",
         "title": "金属が動かなければならないときの力",
         "text": "造船所、作業場、重製造ライン向けの大流量アセチレンおよび酸素対応シリンダー セット。",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "プロパン",
+        "id": "propane",
         "eyebrow": "プロパンとLPG",
         "title": "あらゆる市場向けの耐久性のある LPG シリンダー",
         "text": "ガスの加熱や調理から産業用切断まで、圧力、コーティング、長寿命を実現するために作られたスチールシリンダー。",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "工場",
+        "id": "factory",
         "eyebrow": "製造業",
         "title": "鋼材から出荷まで工場管理",
         "text": "社内で成形、溶接、静水圧試験、仕上げを行うため、すべてのバッチがお客様の図面と市場基準に適合します。",
         "points": [
           "静水圧試験済み",
           "追跡可能なバッチ",
-          "OEM/ODM対応"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "品質",
+        "id": "quality",
         "eyebrow": "品質と安全性",
         "title": "見積もりに入れることができる検査",
         "text": "材料のチェック、リークテスト、バルブのトルク、パッキンの写真。 証明書パックと写真レポートは、ご要望に応じて非公開でお送りいたします。",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "輸出",
+        "id": "export",
         "eyebrow": "世界への輸出",
         "title": "港向けに梱包され、輸出市場に向けて準備完了",
         "text": "目的地のインコタームズに合わせて調整されたパレット、バルブ保護、多言語ラベル、出荷書類を輸出します。",
@@ -1181,8 +1197,8 @@
       "溶接後のオープンネックの未塗装シリンダーシェル"
     ],
     "refrigeration": [
-      "コープランド半密閉型コンプレッサーを備えた空冷式凝縮ユニット",
-      "Bitzer 半密閉コンプレッサーを備えた空冷式凝縮ユニット",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "密閉キャビネット型冷凍凝縮ユニット",
       "大容量4ファン空冷凝縮ユニット"
     ]
@@ -1192,11 +1208,11 @@
     "title": "製品付属品",
     "subtitle": "アセチレンボンベ、発電機、溶接、切断用部品。 仕様や用途については「詳細」をご覧ください。",
     "cta": "リクエストの詳細",
-    "details": "詳細",
+    "details": "Details",
     "close": "近い",
     "featuresLabel": "主な特徴",
     "specsLabel": "仕様",
-    "applicationsLabel": "アプリケーション",
+    "applicationsLabel": "Applications",
     "qualityLabel": "品質と供給",
     "whyTitle": "当社のアクセサリーを選ぶ理由?",
     "why": [
@@ -1218,7 +1234,7 @@
           "迅速な取り付けと交換のための標準接続"
         ],
         "specs": [
-          "ガス: アセチレン (C₂H₂); 酸素アレスターは別売りです",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "本体：真鍮。 避雷器: ステンレス鋼",
           "接続: G 3/8 インチ LH またはカスタマイズされたネジ",
           "使用圧力: 最大 1.5 MPa / カスタマイズ",
@@ -1308,13 +1324,13 @@
           "全数安全性と機能検査"
         ],
         "specs": [
-          "ガス: アセチレン、酸素、アルゴン、窒素および互換性のあるガス",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "使用圧力: 25 / 35 barクラス",
           "テスト圧力: 37.5 / 52.5 bar クラス",
           "入口/出口: 内部または外部、カスタマイズされた",
           "ハンドル: アルミニウム/亜鉛合金",
           "温度: -20 °C ～ +60 °C",
-          "標準: ISO 10297、GB/T 8335、CGA またはカスタム",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "梱包: 1 個/袋、50 個/箱"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (カスタム利用可能)",
           "長さ: 10 / 20 / 30 / 50 / 100 メートルまたはカスタム",
           "色: ブルー標準; 材質 SBR/EPDM+ポリエステル糸",
-          "規格: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "温度: -20 °C ～ +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "複数のレンジと底部/背面マウント"
         ],
         "specs": [
-          "ガス: アセチレン、酸素、アルゴン、CO₂、窒素および互換性のあるガス",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "ダイヤル: 50 / 63 / 100 mm、カスタム利用可能",
           "範囲: 0 ～ 1 bar、最大 0 ～ 400 bar、カスタム",
           "精度: 標準±2.5%、オプション±1.6%",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "納品前に100%テスト",
-          "OEM ダイヤルとブランド オプション",
+          "OEM dial and branding options",
           "輸出梱包"
         ]
       },
@@ -1435,7 +1451,7 @@
           "複数の設定圧力とねじサイズ"
         ],
         "specs": [
-          "ガス: 酸素、アセチレン、空気、窒素および互換性のあるガス",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "使用圧力: 最大 25 bar / 25 kg/cm²",
           "リリーフ範囲：0.1～2.5MPa、カスタマイズ可能",
           "温度: -20 °C ～ +120 °C",
@@ -1495,7 +1511,7 @@
           "ガスラインでの効果的な濾過をサポート",
           "工業用真鍮/金属構造",
           "システムマッチングのための標準ネジ付きポート",
-          "OEM ねじ、サイズ、梱包はご要望に応じます"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "役割: フィルターコンバーター/アダプターヘッド",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "フィルター",
+        "title": "Filter",
         "desc": "水分、油分、粒子を除去する高性能フィルターで下流の機器を保護します。",
         "intro": "ガス流から固体粒子、水、油、その他の不純物を除去して機器を保護し、耐用年数を延ばします。 真鍮製のヘッド、高品質のエレメント、圧力下でも安定した動作。 酸素、アセチレン、空気、窒素、および互換性のあるガス用。",
         "features": [
@@ -1526,7 +1542,7 @@
           "使用圧力下での安​​定した動作"
         ],
         "specs": [
-          "ガス: 酸素、アセチレン、空気、窒素および互換性のあるガス",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "入口圧力：最大2.5MPa",
           "使用圧力：0.01～1.6MPa",
           "精度: 5 / 20 / 50 μm オプション",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "法律上の",
+    "label": "Legal",
     "title": "利用規約",
     "updated": "最終更新日: 2026 年 8 月 27 日",
     "intro": [
@@ -1625,19 +1641,19 @@
       "工業用冷水器",
       "車両用冷凍ユニットと移動式冷蔵室"
     ],
-    "note": "ワンダ インターナショナル トレードは、ガス シリンダー ラインに加えて、ユニット、パネル、クーラー、および関連するコールド チェーン ハードウェアなどの冷凍機器も供給しています。 Copeland、Bitzer、および同様の名前は、ユニット内のコンプレッサーのブランドを指しており、これらの会社のリブランドではありません。",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "会社ビデオ",
     "videoSubtitle": "冷凍機器ラインの概要です。 リクエストに応じて、さらに多くの映像を非公開で送信します。",
     "items": [
       {
-        "title": "コープランド半密閉空冷ユニット",
-        "spec": "コンデンシングユニット・コープランドコンプレッサー",
-        "desc": "冷蔵室および中温作業用のコープランド半密閉コンプレッサーを備えた空冷式凝縮ユニット。"
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer 半密閉空冷ユニット",
-        "spec": "コンデンシングユニット・ビッツァーコンプレッサー",
-        "desc": "Bitzer 半密閉コンプレッサーを備えた空冷式凝縮ユニットで、高負荷および中低温の部屋向けです。"
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "密閉ボックス型ユニット",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "見積もりを依頼する準備はできていますか?",
       "quoteCta": "見積もりを依頼する",
       "relatedProducts": "関連商品",
-      "applications": "アプリケーション",
+      "applications": "Applications",
       "standardsTitle": "規格と認証",
-      "oemTitle": "OEM/カスタマイズ",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "梱包と配送",
       "placeholders": {
         "standards": "利用可能な規格と証明書は、注文および仕向地市場ごとに確認されます。 証明書のコピーはリクエストに応じて非公開で送信されます。ファイルは Web サイトで公開されません。",
@@ -1690,7 +1706,7 @@
       "subtitle": "工業用および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
       "seoTitle": "ガスシリンダー製品",
       "seoDescription": "工業用および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
-      "refrigerationNote": "ワンダ インターナショナル トレードは、ガス シリンダー ラインに加えて、ユニット、パネル、クーラー、および関連するコールド チェーン ハードウェアなどの冷凍機器も供給しています。 Copeland、Bitzer、および同様の名前は、ユニット内のコンプレッサーのブランドを指しており、これらの会社のリブランドではありません。",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "溶解アセチレンシリンダー",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "プロパンボンベ",
-          "overview": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。",
+          "overview": "プロパンガスの貯蔵および輸送用のスチール製シリンダー。 アセチレンと組み合わせて、暖房、工業用プロパン供給、調理、酸素燃料切断に使用されます。",
           "seoTitle": "プロパンガスボンベ",
-          "seoDescription": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。"
+          "seoDescription": "加熱、工業用供給、切断用途向けのスチール製プロパン ガス シリンダー。 輸出および OEM オプションは注文ごとに検討されます。"
         },
         "lpg": {
           "name": "LPGシリンダー",
-          "overview": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。",
+          "overview": "液化石油ガス (LPG) - プロパン、ブタン、または混合ブレンド用のシリンダー。 住宅用および商業用LPGの供給、キャンプ、暖房、携帯用燃料供給に一般的です。",
           "seoTitle": "LPGガスボンベ",
-          "seoDescription": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。"
+          "seoDescription": "家庭用、商業用、産業用の液化石油ガスの流通およびポータブル供給用の LPG シリンダー。"
         },
         "industrial": {
           "name": "工業用ガスシリンダー",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEMと卸売",
+      "title": "OEM and Wholesale",
       "subtitle": "流通業者および産業バイヤー向けのプライベート ラベルおよびバルク供給オプション。",
-      "seoTitle": "OEMガスシリンダー供給",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "海外ブランドや代理店向けのOEMおよびプライベートブランドのガスシリンダーの製造。",
       "quoteTitle": "OEM 要件について話し合う",
       "quoteCta": "OEM 見積もりをリクエストする",
@@ -1799,7 +1815,7 @@
           "text": "カートン、パレット、梱包マークを注文に応じて輸出します。"
         },
         {
-          "title": "プライベートブランド",
+          "title": "Private Label",
           "text": "販売代理店チャネル向けのラベル付けとブランドのプレゼンテーション。"
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "プロジェクトおよび代理店の調達のための卸売数量。"
         },
         {
-          "title": "OEM製造",
+          "title": "OEM Manufacturing",
           "text": "お客様の仕様と市場に合わせた製品構成。"
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "このページでは、未確認の国数、顧客名、またはプロジェクト参照を公開しません。",
       "regions": [
         {
-          "title": "アフリカ",
+          "title": "Africa",
           "text": "アフリカ市場からの産業および流通業者からの問い合わせ。"
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "産業用バイヤーが輸出用シリンダーの供給を評価しています。"
         },
         {
-          "title": "ラテンアメリカ",
+          "title": "Latin America",
           "text": "工業用ガスシリンダーおよび付属品に関するお問い合わせ。"
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "アプリケーション",
+      "label": "Applications",
       "title": "シリンダーの用途",
       "subtitle": "一般的な産業用ガス業務および海外バイヤーの要件に合わせて設計された製品。",
       "seoTitle": "シリンダーの用途",
@@ -1884,21 +1900,21 @@
       ]
     },
     "faq": {
-      "label": "よくある質問",
+      "label": "FAQ",
       "title": "よくある質問",
       "subtitle": "会社、製品、OEM、輸出 - 見積もりをリクエストする前に、海外のバイヤー向けの回答を得ることができます。",
-      "seoTitle": "よくある質問",
+      "seoTitle": "FAQ",
       "seoDescription": "会社、製品、OEM、輸出 - 見積もりをリクエストする前に、海外のバイヤー向けの回答を得ることができます。"
     },
     "contactPage": {
-      "label": "接触",
+      "label": "Contact",
       "title": "要件について話し合いましょう",
       "subtitle": "フォーム、電子メール、またはメッセンジャーで当社の営業チームにご連絡ください。 製品、数量、目的地を共有すると、より迅速な見積もりが可能になります。",
       "seoTitle": "見積もりを依頼する",
       "seoDescription": "サイズ、数量、送り先の国、用途をお知らせください。詳細なお見積りを作成させていただきます。"
     },
     "blog": {
-      "label": "ブログ",
+      "label": "Blog",
       "title": "最新の記事",
       "subtitle": "溶接およびガス供給の専門家向けの専門的なコンテンツ。",
       "seoTitle": "記事とガイド",

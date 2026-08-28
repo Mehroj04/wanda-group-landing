@@ -3,16 +3,16 @@
     "home": "Otthon",
     "products": "Termékek",
     "specs": "Műszaki adatok",
-    "applications": "Alkalmazások",
+    "applications": "Applications",
     "about": "Körülbelül",
-    "gallery": "Galéria",
+    "gallery": "Gallery",
     "factory": "Gyár",
     "quality": "Minőség",
-    "faq": "GYIK",
-    "contact": "Érintkezés",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Kérjen árajánlatot",
     "inquire": "Érdeklődni →",
-    "services": "Szolgáltatások",
+    "services": "Services",
     "pricing": "Árképzés",
     "accessories": "Kiegészítők",
     "refrigeration": "Hűtőszekrény",
@@ -120,7 +120,23 @@
       "Építés",
       "Fém gyártás",
       "Gáztárolás és -elosztás"
+    ],
+    "refrigerationItems": [
+      "Hűtőkamrák és hűtőkamrák",
+      "Élelmiszer feldolgozás és forgalmazás",
+      "Szupermarketek és kiskereskedelmi hűtőláncok",
+      "Gyógyszerészeti és orvosi hűtőház",
+      "Logisztika és hűtött szállítás",
+      "Ipari hűtő- és technológiai hűtők"
     ]
+  },
+  "operations": {
+    "title": "Globális műveletek",
+    "manufacturingBase": "Gyártási bázis",
+    "manufacturingCountry": "Kína",
+    "intlSalesOffice": "Nemzetközi értékesítési iroda",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Gyártási tevékenységünk Kínában található, míg nemzetközi értékesítési csapatunk Üzbegisztánban világszerte támogatja az ügyfeleket."
   },
   "whyUs": {
     "title": "Miért válassza a Wanda csoportokat?",
@@ -131,7 +147,7 @@
         "desc": "A termelésre orientált termékkínálat, nem csak a katalógusok kereskedelme."
       },
       {
-        "title": "OEM támogatás",
+        "title": "OEM support",
         "desc": "Egyedi szín, jelölés, szelep és csomagolás megbeszélés szerint."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Ipari gázpalackok alakítása, hegesztése, tesztelése és kikészítése."
       },
       {
-        "title": "OEM támogatás",
+        "title": "OEM Support",
         "desc": "Szín, jelölés, szelep, kupak és csomagolási lehetőségek rendelésre."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Mondja el nekünk a terméket, a méretet, a mennyiséget, a célországot és a specifikációkat – értékesítési csapatunk termékinformációkkal és árajánlattal válaszol.",
     "formTitle": "Kérjen árajánlatot",
     "formSubtitle": "Kereskedelmi megkereséshez töltse ki az űrlapot. A kötelező mezők meg vannak jelölve.",
-    "name": "Név",
+    "name": "Name",
     "company": "Vállalat",
     "phone": "Telefon / WhatsApp",
     "email": "Email",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Szelep típusa, színe, szabvány, csomagolás, OEM jelölés, mennyiségi megjegyzés..."
   },
   "footer": {
-    "company": "Wanda Group gázpalack gyártó",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Professzionális gázpalack gyártás",
     "rights": "© 2026 Wanda Group. Minden jog fenntartva.",
     "privacy": "Adatvédelmi szabályzat",
     "terms": "Felhasználási feltételek"
   },
   "privacy": {
-    "label": "Jogi",
+    "label": "Legal",
     "title": "Adatvédelmi szabályzat",
     "updated": "Utolsó frissítés: 2026. augusztus 25",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Kérdések a szabályzattal kapcsolatban:"
   },
   "ui": {
-    "catalog": "Katalógus",
+    "catalog": "Catalog",
     "catalogTitle": "Részletes termékleírások",
     "catalogSubtitle": "Teljes műszaki adatok, modellek és paraméterek minden kategóriához. Válasszon ki egy terméket a specifikációs táblázat megtekintéséhez.",
     "requestPrice": "Kérjen árat ehhez a modellhez",
-    "services": "Szolgáltatások",
+    "services": "Services",
     "pricing": "Árképzés",
     "getExactQuote": "Kérjen pontos árajánlatot",
     "certifications": "Tanúsítványok",
     "order": "Rendelés",
     "reviews": "Vélemények",
-    "contact": "Érintkezés",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Elhelyezkedés",
     "quoteResponse": "Idézet válasz",
@@ -570,23 +586,23 @@
     "countriesServed": "Export támogatás",
     "exportReady": "Exportálás kész",
     "years": "Évek",
-    "acetylene": "Acetilén",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO minősítéssel",
     "globalExport": "Globális export",
     "products": "Termékek",
     "specs": "Műszaki adatok",
-    "applications": "Alkalmazások",
+    "applications": "Applications",
     "whyUs": "Miért Mi",
     "about": "Rólunk",
-    "gallery": "Galéria",
+    "gallery": "Gallery",
     "quality": "Minőség",
-    "faq": "GYIK",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Nyelv keresése...",
     "noLanguagesFound": "Nem található nyelv",
     "breadcrumb": "Zsemlemorzsa",
     "primaryNav": "Elsődleges",
-    "menu": "Menü",
+    "menu": "Menu",
     "playVideo": "Videó lejátszása",
     "productGallery": "Termékgaléria",
     "wechatQr": "WeChat QR code",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilén",
-      "propane": "Propán",
-      "generator": "Generátor",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Kiegészítők"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Szabványos acetilén hengeres modellek",
       "headers": [
-        "Modell",
+        "Model",
         "Hangerő (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Szabványos propán hengeres modellek",
       "headers": [
-        "Modell",
+        "Model",
         "Hangerő (L)",
-        "Gáz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Súly (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Acetilén generátor modellek",
       "headers": [
-        "Modell",
+        "Model",
         "Teljesítmény (m³/h)",
         "Keményfém (kg/h)",
         "Nyomás (kPa)",
@@ -879,7 +895,7 @@
         "points": [
           "Logó és RAL szín",
           "Piaci szabvány szelep",
-          "OEM csomagolás és címkék"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Modelltől és rendeltetési helytől függ"
       },
       {
-        "label": "Átfutási idő",
+        "label": "Lead time",
         "value": "Megrendelés alapján megerősítve",
         "desc": "Megosztva az idézettel"
       },
@@ -966,7 +982,7 @@
         "Henger térfogata és modellje",
         "Szelep típusa és csatlakozási szabványa",
         "A célpiachoz szükséges szabványok",
-        "OEM szín, jelölés és csomagolás",
+        "OEM colour, marking and packaging",
         "Rendelési mennyiség és Incoterm"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Termék",
       "MOQ",
       "Ár",
-      "Átfutási idő"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Amerikai piaci tanúsítás"
+        "desc": "Amerikai piaci henger szabvány – az alkalmazhatóság termékenként és rendelésenként megerősítve"
       },
       {
         "name": "TPED",
-        "desc": "Európai közlekedési irányelv"
+        "desc": "Európai szállítási követelmények – célpiaconként tárgyalva"
       },
       {
         "name": "GB 5099",
         "desc": "Kínai gázpalack szabvány"
       },
       {
-        "name": "CE jelölés",
-        "desc": "európai megfelelőségi követelmények"
+        "name": "CE Mark",
+        "desc": "Európai megfelelőségi jelölés – alkalmazhatóság termékenként és piaconként"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Idén háromszor rendeltünk újra 40 literes acetilén palackot. A GOST szelepek, az OEM színek és az export csomagolás minden alkalommal megfelelt az első mintának.",
-        "author": "Rusztam Jusupov",
+        "author": "Rustam Yusupov",
         "role": "Tulajdonos, hegesztőgáz elosztó",
-        "country": "Üzbegisztán"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Az árajánlat ugyanazon a napon érkezett egyértelmű MOQ-val és átfutási idővel. A propánpalackok POL szelepekkel és teljes csomagolási listával érkeztek – a mi oldalunkon nincs vámkésés.",
         "author": "Aigerim Bekova",
         "role": "Beszerzési vezető, ipari ellátás",
-        "country": "Kazahsztán"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Szabályozóval és tömlővel ellátott palackokat egy konténeres megrendelésként vásárolunk. A dokumentumok és a jelölés készen állt a piacunkra, így a továbbértékesítés egyszerű volt.",
         "author": "Faisal Al-Harbi",
         "role": "Import vevő, gázkészülék kereskedés",
-        "country": "Szaúd-Arábia"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "hegesztés",
+        "id": "welding",
         "eyebrow": "Acetilén hengerek",
         "title": "Stabil láng a precíziós hegesztéshez",
         "text": "Folyamatos hegesztésre és keményforrasztásra tervezett oldott acetilén hengerek – állandó nyomás, biztonságos porózus tömeg, exportra kész szelepek.",
         "points": [
           "ISO / DOT / GB opciók",
           "CGA / GOST / DIN szelepek",
-          "OEM szín és jelölés"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "vágás",
+        "id": "cutting",
         "eyebrow": "Vágás és gyártás",
         "title": "Erő, amikor a fémnek mozognia kell",
         "text": "Nagy átfolyású acetilén és oxigénkész hengerkészletek hajógyárak, műhelyek és nehéz gyártósorok számára.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propán",
+        "id": "propane",
         "eyebrow": "Propán és LPG",
         "title": "Tartós PB-gázpalackok minden piacra",
         "text": "A fűtéstől és a főzőgáztól az ipari vágásig – acél palackok nyomásra, bevonásra és hosszú élettartamra.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "gyár",
+        "id": "factory",
         "eyebrow": "Gyártás",
         "title": "Gyári vezérlés az acéltól a szállításig",
         "text": "Házon belüli alakítás, hegesztés, hidrosztatikus tesztelés és kikészítés – így minden tétel megfelel az Ön rajzának és piaci szabványának.",
         "points": [
           "Hidrosztatikusan tesztelt",
           "Nyomon követhető tételek",
-          "OEM / ODM készen áll"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "minőség",
+        "id": "quality",
         "eyebrow": "Minőség és biztonság",
         "title": "Az árajánlatba beírható ellenőrzés",
         "text": "Anyagellenőrzések, szivárgástesztek, szelepnyomaték- és csomagolásfotók. A tanúsítványcsomagokat és a fényképes jelentéseket kérésre privátban küldjük.",
@@ -1181,8 +1197,8 @@
       "Festetlen hengerhéj hegesztés után nyitott nyakkal"
     ],
     "refrigeration": [
-      "Léghűtéses kondenzációs egység Copeland félhermetikus kompresszorral",
-      "Léghűtéses kondenzációs egység Bitzer félhermetikus kompresszorral",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Zárt szekrényes hűtőkondenzációs egység",
       "Nagy teljesítményű, négy ventilátoros léghűtéses kondenzációs egység"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Terméktartozékok",
     "subtitle": "Alkatrészek acetilén hengerekhez, generátorokhoz, hegesztéshez és vágáshoz. Nyissa meg a Részletek részt a specifikációkért és az alkalmazásokért.",
     "cta": "Kérjen részleteket",
-    "details": "Részletek",
+    "details": "Details",
     "close": "Közeli",
     "featuresLabel": "Főbb jellemzők",
     "specsLabel": "Műszaki adatok",
-    "applicationsLabel": "Alkalmazások",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Minőség és kínálat",
     "whyTitle": "Miért válassza kiegészítőinket?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Szabványos csatlakozások a gyors telepítéshez és cseréhez"
         ],
         "specs": [
-          "Gáz: acetilén (C2H2); oxigénlevezetők külön szállítva",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Test: sárgaréz; levezető: rozsdamentes acél",
           "Csatlakozás: G 3/8″ LH vagy egyedi menet",
           "Üzemi nyomás: 1,5 MPa-ig / testreszabott",
@@ -1308,13 +1324,13 @@
           "100%-os biztonsági és működési ellenőrzés"
         ],
         "specs": [
-          "Gáz: acetilén, oxigén, argon, nitrogén és kompatibilis gázok",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Üzemi nyomás: 25 / 35 bar osztály",
           "Próbanyomás: 37,5 / 52,5 bar osztály",
           "Bemenet/kimenet: belső vagy külső, testreszabott",
           "Kézikerék: alumínium/cink ötvözet",
           "Hőmérséklet: -20 °C és +60 °C között",
-          "Szabványok: ISO 10297, GB/T 8335, CGA vagy egyedi",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Kiszerelés: 1 db/zsák, 50 db/doboz"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (egyedi kivitel)",
           "Hossz: 10 / 20 / 30 / 50 / 100 m vagy egyedi",
           "Szín: kék standard; anyaga SBR / EPDM + poliészter fonal",
-          "Szabványok: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Hőmérséklet: -20 °C és +80 °C között"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Több tartomány és alsó/hátsó rögzítés"
         ],
         "specs": [
-          "Gáz: acetilén, oxigén, argon, CO₂, nitrogén és kompatibilis gázok",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Számlap: 50 / 63 / 100 mm, egyedileg rendelhető",
           "Tartomány: 0-1 bar-tól 0-400 bar-ig, egyedi",
           "Pontosság: ±2,5% standard, ±1,6% opcionális",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100%-os tesztelés a szállítás előtt",
-          "OEM számlap és márkajelzési lehetőségek",
+          "OEM dial and branding options",
           "Export csomagolás"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Több beállított nyomás és menetméret"
         ],
         "specs": [
-          "Gáz: oxigén, acetilén, levegő, nitrogén és kompatibilis gázok",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Üzemi nyomás: 25 bar / 25 kg/cm²-ig",
           "Tehermentesítési tartomány: 0,1-2,5 MPa, személyre szabható",
           "Hőmérséklet: -20 °C és +120 °C között",
@@ -1495,7 +1511,7 @@
           "Támogatja a hatékony szűrést a gázvezetékben",
           "Ipari sárgaréz / fém konstrukció",
           "Szabványos menetes portok a rendszerillesztéshez",
-          "OEM menet, méret és csomagolás kérésre"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Szerep: szűrő átalakító / adapterfej",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Szűrő",
+        "title": "Filter",
         "desc": "Nagy hatékonyságú szűrő, amely eltávolítja a nedvességet, az olajat és a részecskéket, hogy megvédje a későbbi berendezéseket.",
         "intro": "Eltávolítja a szilárd részecskéket, vizet, olajat és egyéb szennyeződéseket a gázáramból a berendezés védelme és az élettartam meghosszabbítása érdekében. Sárgaréz fej, minőségi elem és stabil működés nyomás alatt. Oxigénhez, acetilénhez, levegőhöz, nitrogénhez és kompatibilis gázokhoz.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Stabil működés üzemi nyomás alatt"
         ],
         "specs": [
-          "Gáz: oxigén, acetilén, levegő, nitrogén és kompatibilis gázok",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Bemeneti nyomás: 2,5 MPa-ig",
           "Üzemi nyomás: 0,01-1,6 MPa",
           "Pontosság: 5 / 20 / 50 μm opcionális",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Jogi",
+    "label": "Legal",
     "title": "Felhasználási feltételek",
     "updated": "Utolsó frissítés: 2026. augusztus 27",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Ipari vízhűtők",
       "Jármű hűtőegységek és mobil hűtőkamrák"
     ],
-    "note": "A Wanda International Trade a gázpalacksor mellett hűtőberendezéseket is szállít: egységeket, paneleket, hűtőket és a kapcsolódó hideglánc-hardvereket. A Copeland, Bitzer és hasonló nevek az egységen belüli kompresszor márkára utalnak, nem pedig ezeknek a cégeknek a márkájára.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Céges videó",
     "videoSubtitle": "A hűtőberendezések sorának áttekintése. További felvételeket kérésre privátban küldünk.",
     "items": [
       {
-        "title": "Copeland félhermetikus léghűtéses egység",
-        "spec": "Kondenzációs egység · Copeland kompresszor",
-        "desc": "Léghűtéses kondenzációs egység Copeland félhermetikus kompresszorral hideg helyiségekhez és közepes hőmérsékletű használatra."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer félhermetikus léghűtéses egység",
-        "spec": "Kondenzációs egység · Bitzer kompresszor",
-        "desc": "Léghűtéses kondenzációs egység Bitzer félhermetikus kompresszorral nagyobb igénybevételű és közepes és alacsony hőmérsékletű helyiségekhez."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Zárt doboz típusú egység",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Készen áll árajánlat kérésére?",
       "quoteCta": "Kérjen árajánlatot",
       "relatedProducts": "Kapcsolódó termékek",
-      "applications": "Alkalmazások",
+      "applications": "Applications",
       "standardsTitle": "Szabványok és tanúsítás",
-      "oemTitle": "OEM / testreszabás",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Csomagolás és szállítás",
       "placeholders": {
         "standards": "A rendelkezésre álló szabványok és tanúsítványok megrendelésenként és rendeltetési piaconként kerülnek megerősítésre. A tanúsítványmásolatokat kérésre privát módon küldik el – a fájlokat nem teszik közzé a weboldalon.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
       "seoTitle": "Gázpalack termékek",
       "seoDescription": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
-      "refrigerationNote": "A Wanda International Trade a gázpalacksor mellett hűtőberendezéseket is szállít: egységeket, paneleket, hűtőket és a kapcsolódó hideglánc-hardvereket. A Copeland, Bitzer és hasonló nevek az egységen belüli kompresszor márkára utalnak, nem pedig ezeknek a cégeknek a márkájára.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Oldott acetilén palackok",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propán hengerek",
-          "overview": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+          "overview": "Acél palackok propángáz tárolására és szállítására. Fűtéshez, ipari propánellátáshoz, főzéshez és oxi-üzemanyag-vágáshoz acetilénnel párosítva.",
           "seoTitle": "Propán gázpalackok",
-          "seoDescription": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják."
+          "seoDescription": "Acél propán gázpalackok fűtéshez, ipari ellátáshoz és vágási alkalmazásokhoz. Az export és az OEM opciók megbeszélése rendelésenként."
         },
         "lpg": {
           "name": "LPG hengerek",
-          "overview": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+          "overview": "Palackok cseppfolyósított kőolajgázhoz (LPG) – propán, bután vagy vegyes keverékek. Általános lakossági és kereskedelmi PB-gáz-elosztáshoz, kempingezéshez, fűtéshez és hordozható üzemanyag-ellátáshoz.",
           "seoTitle": "LPG gázpalackok",
-          "seoDescription": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják."
+          "seoDescription": "PB-gázpalackok lakossági, kereskedelmi és ipari cseppfolyósított kőolajgáz elosztására és hordozható ellátására."
         },
         "industrial": {
           "name": "Ipari gázpalackok",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM és nagykereskedelem",
+      "title": "OEM and Wholesale",
       "subtitle": "Saját márkás és tömeges szállítási lehetőségek forgalmazók és ipari vásárlók számára.",
-      "seoTitle": "OEM gázpalack ellátás",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM és saját márkás gázpalackok gyártása tengerentúli márkák és forgalmazók számára.",
       "quoteTitle": "Beszélje meg az OEM követelményeket",
       "quoteCta": "Kérjen OEM árajánlatot",
@@ -1807,7 +1823,7 @@
           "text": "Nagykereskedelmi mennyiségek projekt- és forgalmazói beszerzésekhez."
         },
         {
-          "title": "OEM gyártás",
+          "title": "OEM Manufacturing",
           "text": "A termék konfigurációja összhangban van az Ön specifikációjával és piacával."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Ezen az oldalon nem teszünk közzé ellenőrizetlen országok számát, vásárlók nevét vagy projektreferenciákat.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Ipari és forgalmazói megkeresések afrikai piacokról."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Ipari vásárlók értékelik az exportpalack-ellátást."
         },
         {
-          "title": "Latin-Amerika",
+          "title": "Latin America",
           "text": "Érdeklődés ipari gázpalack és tartozék szállítással kapcsolatban."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Alkalmazások",
+      "label": "Applications",
       "title": "Hengeres alkalmazások",
       "subtitle": "Általános ipari gázfeladatokra és tengerentúli vásárlói igényekre tervezett termékek.",
       "seoTitle": "Hengeres alkalmazások",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "GYIK",
+      "label": "FAQ",
       "title": "Gyakran Ismételt Kérdések",
       "subtitle": "Vállalat, termékek, OEM és export – válaszok a tengerentúli vásárlóknak, mielőtt árajánlatot kérne.",
-      "seoTitle": "GYIK",
+      "seoTitle": "FAQ",
       "seoDescription": "Vállalat, termékek, OEM és export – válaszok a tengerentúli vásárlóknak, mielőtt árajánlatot kérne."
     },
     "contactPage": {
-      "label": "Érintkezés",
+      "label": "Contact",
       "title": "Beszéljük meg igényeit",
       "subtitle": "Forduljon értékesítési csapatunkhoz űrlapon, e-mailben vagy messengeren. Ossza meg termékét, mennyiségét és rendeltetési helyét a gyorsabb árajánlatért.",
       "seoTitle": "Kérjen árajánlatot",

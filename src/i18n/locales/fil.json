@@ -3,16 +3,16 @@
     "home": "Bahay",
     "products": "Mga produkto",
     "specs": "Mga pagtutukoy",
-    "applications": "Mga aplikasyon",
+    "applications": "Applications",
     "about": "Tungkol sa",
     "gallery": "Gallery",
     "factory": "Pabrika",
     "quality": "Kalidad",
     "faq": "FAQ",
-    "contact": "Makipag-ugnayan",
+    "contact": "Contact",
     "getQuote": "Kumuha ng Quote",
     "inquire": "Magtanong →",
-    "services": "Mga serbisyo",
+    "services": "Services",
     "pricing": "Pagpepresyo",
     "accessories": "Mga accessories",
     "refrigeration": "Malamig na imbakan",
@@ -120,7 +120,23 @@
       "Konstruksyon",
       "Paggawa ng Metal",
       "Imbakan at Pamamahagi ng Gas"
+    ],
+    "refrigerationItems": [
+      "Mga cold room at cold storage facility",
+      "Pagproseso at pamamahagi ng pagkain",
+      "Mga supermarket at retail cold chain",
+      "Pharmaceutical at medikal na cold storage",
+      "Logistics at pinalamig na transportasyon",
+      "Pang-industriya na paglamig at mga panglamig ng proseso"
     ]
+  },
+  "operations": {
+    "title": "Mga Pandaigdigang Operasyon",
+    "manufacturingBase": "Base sa Paggawa",
+    "manufacturingCountry": "Tsina",
+    "intlSalesOffice": "International Sales Office",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Ang aming mga operasyon sa pagmamanupaktura ay nakabase sa China, habang sinusuportahan ng aming international sales team sa Uzbekistan ang mga customer sa buong mundo."
   },
   "whyUs": {
     "title": "Bakit Pumili ng Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Ang supply ng produkto ay nakatuon sa produksyon, hindi lamang sa mga katalogo ng pangangalakal."
       },
       {
-        "title": "Suporta ng OEM",
+        "title": "OEM support",
         "desc": "Custom na kulay, pagmamarka, balbula at pag-iimpake na tinalakay bawat order."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Pagbubuo, pagwelding, pagsubok at pagtatapos para sa mga pang-industriyang gas cylinder."
       },
       {
-        "title": "Suporta ng OEM",
+        "title": "OEM Support",
         "desc": "Mga pagpipilian sa kulay, pagmamarka, balbula, takip at pag-iimpake ayon sa pagkakasunud-sunod."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Sabihin sa amin ang produkto, laki, dami, destinasyong bansa at mga detalye — tutugon ang aming koponan sa pagbebenta ng impormasyon ng produkto at isang quotation.",
     "formTitle": "Humiling ng Quote",
     "formSubtitle": "Kumpletuhin ang form para sa isang komersyal na pagtatanong. Ang mga kinakailangang field ay minarkahan.",
-    "name": "Pangalan",
+    "name": "Name",
     "company": "kumpanya",
     "phone": "Telepono / WhatsApp",
     "email": "Email",
@@ -556,13 +572,13 @@
     "catalogTitle": "Mga Detalyadong Detalye ng Produkto",
     "catalogSubtitle": "Kumpletuhin ang teknikal na data, modelo at parameter para sa bawat kategorya. Pumili ng produkto para tingnan ang spec table.",
     "requestPrice": "Humiling ng Presyo para sa Modelong Ito",
-    "services": "Mga serbisyo",
+    "services": "Services",
     "pricing": "Pagpepresyo",
     "getExactQuote": "Kumuha ng Eksaktong Sipi",
     "certifications": "Mga Sertipikasyon",
     "order": "Umorder",
     "reviews": "Mga pagsusuri",
-    "contact": "Makipag-ugnayan",
+    "contact": "Contact",
     "phone": "Telepono",
     "location": "Lokasyon",
     "quoteResponse": "Quote tugon",
@@ -575,7 +591,7 @@
     "globalExport": "Pandaigdigang Pag-export",
     "products": "Mga produkto",
     "specs": "Mga pagtutukoy",
-    "applications": "Mga aplikasyon",
+    "applications": "Applications",
     "whyUs": "Bakit Tayo",
     "about": "Tungkol sa Amin",
     "gallery": "Gallery",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Pribadong Label",
+    "OEM / Private Label",
     "International Export",
     "Kontrol sa Kalidad",
     "Mga Pamantayan sa Market sa Kahilingan",
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Mga Karaniwang Modelo ng Acetylene Cylinder",
       "headers": [
-        "Modelo",
+        "Model",
         "Dami (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,7 +706,7 @@
       ],
       "tableTitle": "Mga Karaniwang Modelo ng Propane Cylinder",
       "headers": [
-        "Modelo",
+        "Model",
         "Dami (L)",
         "Gas (kg)",
         "WP (MPa)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Mga Modelo ng Acetylene Generator",
       "headers": [
-        "Modelo",
+        "Model",
         "Output (m³/h)",
         "Carbide (kg/h)",
         "Presyon (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategorya",
         "Mga modelo",
-        "Pamantayan",
+        "Standard",
         "Aplikasyon"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Kulay ng logo at RAL",
           "Market-standard na balbula",
-          "OEM packaging at mga label"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -966,7 +982,7 @@
         "Dami ng silindro at modelo",
         "Uri ng balbula at pamantayan ng koneksyon",
         "Mga pamantayang kinakailangan para sa patutunguhang merkado",
-        "Kulay ng OEM, pagmamarka at packaging",
+        "OEM colour, marking and packaging",
         "Dami ng order at Incoterms"
       ]
     },
@@ -1017,11 +1033,11 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Sertipikasyon sa merkado ng US"
+        "desc": "Pamantayan ng silindro ng merkado ng US — nakumpirma ang pagiging angkop sa bawat produkto at order"
       },
       {
         "name": "TPED",
-        "desc": "Direktiba sa transportasyon ng Europa"
+        "desc": "Mga kinakailangan sa transportasyon sa Europa — tinalakay sa bawat patutunguhan na merkado"
       },
       {
         "name": "GB 5099",
@@ -1029,7 +1045,7 @@
       },
       {
         "name": "CE Mark",
-        "desc": "Mga kinakailangan sa pagsang-ayon sa Europa"
+        "desc": "European conformity marking — applicability sa bawat produkto at market"
       }
     ]
   },
@@ -1085,18 +1101,18 @@
   "story": {
     "slides": [
       {
-        "id": "hinang",
+        "id": "welding",
         "eyebrow": "Mga silindro ng acetylene",
         "title": "Matatag na apoy para sa precision welding",
         "text": "Mga dissolved acetylene cylinders na inengineered para sa tuluy-tuloy na welding at brazing — pare-pareho ang presyon, ligtas na buhaghag na masa, mga balbula na handa sa pag-export.",
         "points": [
           "Mga pagpipilian sa ISO / DOT / GB",
           "Mga balbula ng CGA / GOST / DIN",
-          "Kulay at pagmamarka ng OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "pagputol",
+        "id": "cutting",
         "eyebrow": "Pagputol at paggawa",
         "title": "Lakas kapag kailangang gumalaw ang metal",
         "text": "High-flow acetylene at oxygen-ready cylinder set para sa shipyards, workshops at heavy fabrication lines.",
@@ -1114,22 +1130,22 @@
         "points": [
           "3L–50L na hanay",
           "Mga balbula ng POL / CGA",
-          "Tapos na powder coat"
+          "Powder coat finish"
         ]
       },
       {
-        "id": "pabrika",
+        "id": "factory",
         "eyebrow": "Paggawa",
         "title": "Kontrol ng pabrika mula sa bakal hanggang sa kargamento",
         "text": "In-house forming, welding, hydrostatic testing at finishing — kaya bawat batch ay tumutugma sa iyong drawing at market standard.",
         "points": [
           "Nasubok ang hydrostatic",
           "Traceable batch",
-          "Handa na ang OEM / ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kalidad",
+        "id": "quality",
         "eyebrow": "Kalidad at kaligtasan",
         "title": "Inspeksyon na maaari mong ilagay sa quote",
         "text": "Mga pagsusuri sa materyal, pagsusuri sa pagtagas, valve torque at mga larawan sa pag-iimpake. Ang mga certificate pack at mga ulat ng larawan ay pribado na ipinapadala kapag hiniling.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "i-export",
+        "id": "export",
         "eyebrow": "Pandaigdigang pag-export",
         "title": "Naka-pack para sa mga daungan, handa na para sa mga merkado sa pag-export",
         "text": "I-export ang mga pallet, proteksyon ng balbula, mga multilinggwal na label at mga dokumento sa pagpapadala na pinag-ugnay para sa iyong patutunguhan na Incoterms.",
@@ -1181,8 +1197,8 @@
       "Hindi pininturahan ang mga shell ng cylinder na may bukas na leeg pagkatapos ng hinang"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit na may Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit na may Bitzer semi-hermetic compressor",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Nakalakip na cabinet-style refrigeration condensing unit",
       "High-capacity four-fan air-cooled condensing unit"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Mga Accessory ng Produkto",
     "subtitle": "Mga bahagi para sa acetylene cylinders, generators, welding at cutting. Buksan ang Mga Detalye para sa mga detalye at aplikasyon.",
     "cta": "Humiling ng mga detalye",
-    "details": "Mga Detalye",
+    "details": "Details",
     "close": "Isara",
     "featuresLabel": "Mga pangunahing tampok",
     "specsLabel": "Mga pagtutukoy",
-    "applicationsLabel": "Mga aplikasyon",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kalidad at supply",
     "whyTitle": "Bakit pipiliin ang aming mga accessories?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Mga karaniwang koneksyon para sa mabilis na pag-install at pagpapalit"
         ],
         "specs": [
-          "Gas: acetylene (C₂H₂); hiwalay na ibinibigay ang mga oxygen arrestor",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Katawan: tanso; arrestor: hindi kinakalawang na asero",
           "Koneksyon: G 3/8″ LH o naka-customize na thread",
           "Paggawa ng presyon: hanggang sa 1.5 MPa / customized",
@@ -1308,13 +1324,13 @@
           "100% kaligtasan at inspeksyon ng pag-andar"
         ],
         "specs": [
-          "Gas: acetylene, oxygen, argon, nitrogen at mga katugmang gas",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Presyon sa pagtatrabaho: 25/35 bar na klase",
           "Presyon ng pagsubok: 37.5 / 52.5 bar na klase",
           "Inlet/outlet: panloob o panlabas, na-customize",
           "Handwheel: aluminyo / zinc alloy",
           "Temperatura: −20 °C hanggang +60 °C",
-          "Mga Pamantayan: ISO 10297, GB/T 8335, CGA o custom",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Packing: 1 pc/bag, 50 pcs/box"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (custom available)",
           "Haba: 10 / 20 / 30 / 50 / 100 m o custom",
           "Kulay: asul na pamantayan; materyal na SBR / EPDM + polyester na sinulid",
-          "Mga Pamantayan: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: −20 °C hanggang +80 °C"
         ],
         "applications": [
@@ -1392,7 +1408,7 @@
         ]
       },
       {
-        "title": "Gauge ng Presyon",
+        "title": "Pressure Gauge",
         "desc": "Tumpak na pagpapakita ng presyon para sa oxygen, acetylene at iba pang mga gas na pang-industriya.",
         "intro": "Mga gauge para sa acetylene, oxygen at mga gas na pang-industriya: malinaw na dial, matibay na konstruksyon at matatag na pagbabasa sa mga cylinder, regulator at pipeline. Maramihang mga saklaw at koneksyon para sa OEM at pag-export.",
         "features": [
@@ -1403,7 +1419,7 @@
           "Maramihang mga saklaw at pang-ibaba/likod na mga mount"
         ],
         "specs": [
-          "Gas: acetylene, oxygen, argon, CO₂, nitrogen at mga katugmang gas",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Dial: 50 / 63 / 100 mm, custom na available",
           "Saklaw: 0–1 bar hanggang 0–400 bar, custom",
           "Katumpakan: ±2.5% pamantayan, ±1.6% opsyonal",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% pagsubok bago ang paghahatid",
-          "OEM dial at mga opsyon sa pagba-brand",
+          "OEM dial and branding options",
           "I-export ang packing"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Maramihang mga set ng presyon at laki ng thread"
         ],
         "specs": [
-          "Gas: oxygen, acetylene, hangin, nitrogen at mga katugmang gas",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Presyon sa pagtatrabaho: hanggang 25 bar / 25 kg/cm²",
           "Relief range: 0.1–2.5 MPa, nako-customize",
           "Temperatura: −20 °C hanggang +120 °C",
@@ -1495,7 +1511,7 @@
           "Sinusuportahan ang epektibong pagsasala sa linya ng gas",
           "Pang-industriya na tanso / konstruksiyon ng metal",
           "Mga karaniwang sinulid na port para sa pagtutugma ng system",
-          "OEM thread, laki at packing kapag hiniling"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Tungkulin: filter converter / ulo ng adaptor",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Salain",
+        "title": "Filter",
         "desc": "High-efficiency filter na nag-aalis ng moisture, langis at mga particle upang protektahan ang downstream na kagamitan.",
         "intro": "Tinatanggal ang mga solidong particle, tubig, langis at iba pang mga dumi mula sa gas stream upang protektahan ang kagamitan at pahabain ang buhay ng serbisyo. Brass head, kalidad na elemento at matatag na operasyon sa ilalim ng presyon. Para sa oxygen, acetylene, hangin, nitrogen at mga katugmang gas.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Matatag na operasyon sa ilalim ng presyon ng pagtatrabaho"
         ],
         "specs": [
-          "Gas: oxygen, acetylene, hangin, nitrogen at mga katugmang gas",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Inlet pressure: hanggang 2.5 MPa",
           "Presyon ng pagtatrabaho: 0.01–1.6 MPa",
           "Katumpakan: 5 / 20 / 50 μm opsyonal",
@@ -1625,19 +1641,19 @@
       "Pang-industriya na panglamig ng tubig",
       "Mga unit ng pagpapalamig ng sasakyan at mga mobile cold room"
     ],
-    "note": "Ang Wanda International Trade ay nagsusuplay ng kagamitan sa pagpapalamig sa tabi ng linya ng gas-cylinder: mga unit, panel, cooler at kaugnay na cold-chain hardware. Ang Copeland, Bitzer at mga katulad na pangalan ay tumutukoy sa tatak ng compressor sa loob ng unit, hindi isang rebrand ng mga kumpanyang iyon.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video ng kumpanya",
     "videoSubtitle": "Pangkalahatang-ideya ng linya ng kagamitan sa pagpapalamig. Higit pang footage ang ipinapadala nang pribado kapag hiniling.",
     "items": [
       {
         "title": "Copeland semi-hermetic air-cooled unit",
         "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit na may Copeland semi-hermetic compressor para sa malamig na mga silid at katamtamang temperatura na tungkulin."
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
         "title": "Bitzer semi-hermetic air-cooled unit",
         "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit na may Bitzer semi-hermetic compressor para sa mas mataas na tungkulin at mid-to-low temperature na mga kuwarto."
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Nakalakip na box-type unit",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Handa nang humiling ng quote?",
       "quoteCta": "Humiling ng Quote",
       "relatedProducts": "Mga kaugnay na produkto",
-      "applications": "Mga aplikasyon",
+      "applications": "Applications",
       "standardsTitle": "Mga pamantayan at sertipikasyon",
-      "oemTitle": "OEM / pagpapasadya",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Packaging at paghahatid",
       "placeholders": {
         "standards": "Ang mga available na pamantayan at sertipiko ay nakumpirma sa bawat order at patutunguhang merkado. Ang mga kopya ng sertipiko ay ipinapadala nang pribado kapag hiniling — ang mga file ay hindi nai-publish sa website.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
       "seoTitle": "Mga Produktong Silindro ng Gas",
       "seoDescription": "Acetylene cylinders, generators, propane cylinders at accessories para sa industriyal at welding applications.",
-      "refrigerationNote": "Ang Wanda International Trade ay nagsusuplay ng kagamitan sa pagpapalamig sa tabi ng linya ng gas-cylinder: mga unit, panel, cooler at kaugnay na cold-chain hardware. Ang Copeland, Bitzer at mga katulad na pangalan ay tumutukoy sa tatak ng compressor sa loob ng unit, hindi isang rebrand ng mga kumpanyang iyon.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Mga Natunaw na Silindro ng Acetylene",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Mga silindro ng propane",
-          "overview": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas.",
+          "overview": "Mga silindro ng bakal para sa imbakan at transportasyon ng propane gas. Ginagamit para sa pagpainit, pang-industriya na supply ng propane, pagluluto at pagputol ng oxy-fuel kapag ipinares sa acetylene.",
           "seoTitle": "Mga Silindro ng Gas na Propane",
-          "seoDescription": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas."
+          "seoDescription": "Steel propane gas cylinders para sa heating, industrial supply at cutting applications. Mga opsyon sa pag-export at OEM na tinalakay bawat order."
         },
         "lpg": {
           "name": "Mga Silindro ng LPG",
-          "overview": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas.",
+          "overview": "Mga silindro para sa liquefied petroleum gas (LPG) — propane, butane o mixed blends. Karaniwan para sa tirahan at komersyal na pamamahagi ng LPG, camping, heating at portable fuel supply.",
           "seoTitle": "LPG Gas Cylinders",
-          "seoDescription": "Mga silindro para sa mga pinaghalong propane, butane at LPG. Ginagamit sa pagpainit, pagputol, pagpapatigas, konstruksiyon at pang-industriya na suplay ng gas."
+          "seoDescription": "LPG cylinders para sa residential, commercial at industrial liquefied petroleum gas distribution at portable supply."
         },
         "industrial": {
           "name": "Pang-industriya Gas Cylinders",
@@ -1779,7 +1795,7 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM at Pakyawan",
+      "title": "OEM and Wholesale",
       "subtitle": "Mga opsyon sa pribadong label at maramihang supply para sa mga distributor at mamimiling pang-industriya.",
       "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM at pribadong-label na paggawa ng silindro ng gas para sa mga tatak at distributor sa ibang bansa.",
@@ -1799,7 +1815,7 @@
           "text": "I-export ang mga karton, pallet at packing mark ayon sa pagkakasunud-sunod."
         },
         {
-          "title": "Pribadong Label",
+          "title": "Private Label",
           "text": "Pag-label at pagtatanghal ng tatak para sa mga channel ng distributor."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Mga pakyawan na dami para sa pagkuha ng proyekto at distributor."
         },
         {
-          "title": "Paggawa ng OEM",
+          "title": "OEM Manufacturing",
           "text": "Ang configuration ng produkto ay nakahanay sa iyong detalye at market."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Mga aplikasyon",
+      "label": "Applications",
       "title": "Mga Aplikasyon ng Silindro",
       "subtitle": "Mga produktong idinisenyo para sa mga karaniwang gawaing pang-industriya na gas at mga kinakailangan ng mamimili sa ibang bansa.",
       "seoTitle": "Mga Aplikasyon ng Silindro",
@@ -1891,7 +1907,7 @@
       "seoDescription": "Kumpanya, mga produkto, OEM at export — mga sagot para sa mga mamimili sa ibang bansa bago ka humiling ng quote."
     },
     "contactPage": {
-      "label": "Makipag-ugnayan",
+      "label": "Contact",
       "title": "Talakayin Natin ang Iyong Mga Kinakailangan",
       "subtitle": "Abutin ang aming koponan sa pagbebenta sa pamamagitan ng form, email o messenger. Ibahagi ang produkto, dami at destinasyon para sa mas mabilis na quotation.",
       "seoTitle": "Humiling ng Quote",

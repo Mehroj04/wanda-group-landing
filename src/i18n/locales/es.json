@@ -3,16 +3,16 @@
     "home": "Hogar",
     "products": "Productos",
     "specs": "Presupuesto",
-    "applications": "Aplicaciones",
+    "applications": "Applications",
     "about": "Acerca de",
-    "gallery": "Galería",
+    "gallery": "Gallery",
     "factory": "Fábrica",
     "quality": "Calidad",
-    "faq": "Preguntas frecuentes",
-    "contact": "Contacto",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Obtenga una cotización",
     "inquire": "Consultar →",
-    "services": "Servicios",
+    "services": "Services",
     "pricing": "Precios",
     "accessories": "Accesorios",
     "refrigeration": "almacenamiento en frío",
@@ -120,7 +120,23 @@
       "Construcción",
       "Fabricación de metales",
       "Almacenamiento y distribución de gas"
+    ],
+    "refrigerationItems": [
+      "Cámaras frigoríficas e instalaciones de almacenamiento en frío",
+      "Procesamiento y distribución de alimentos.",
+      "Supermercados y cadenas de frío minoristas.",
+      "Almacenamiento en frío farmacéutico y médico",
+      "Logística y transporte frigorífico",
+      "Enfriadores de procesos y refrigeración industrial"
     ]
+  },
+  "operations": {
+    "title": "Operaciones globales",
+    "manufacturingBase": "Base de fabricación",
+    "manufacturingCountry": "Porcelana",
+    "intlSalesOffice": "Oficina de Ventas Internacionales",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Nuestras operaciones de fabricación tienen su sede en China, mientras que nuestro equipo de ventas internacionales en Uzbekistán brinda soporte a clientes de todo el mundo."
   },
   "whyUs": {
     "title": "Por qué elegir grupos Wanda",
@@ -131,7 +147,7 @@
         "desc": "Suministro de productos orientado a la producción, no sólo a catálogos comerciales."
       },
       {
-        "title": "Soporte OEM",
+        "title": "OEM support",
         "desc": "Color personalizado, marcado, válvula y embalaje discutidos por pedido."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Conformado, soldadura, prueba y acabado de cilindros de gas industriales."
       },
       {
-        "title": "Soporte OEM",
+        "title": "OEM Support",
         "desc": "Opciones de color, marcado, válvula, tapón y embalaje bajo pedido."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Díganos el producto, tamaño, cantidad, país de destino y especificaciones; nuestro equipo de ventas le responderá con información del producto y una cotización.",
     "formTitle": "Solicitar una cotización",
     "formSubtitle": "Complete el formulario para una consulta comercial. Los campos obligatorios están marcados.",
-    "name": "Nombre",
+    "name": "Name",
     "company": "Compañía",
     "phone": "Teléfono/WhatsApp",
     "email": "Correo electrónico",
@@ -488,7 +504,7 @@
     "requirementsPlaceholder": "Tipo de válvula, color, estándar, embalaje, marcado OEM, notas de cantidad..."
   },
   "footer": {
-    "company": "Fabricante de cilindros de gas del grupo Wanda",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Fabricación profesional de cilindros de gas",
     "rights": "© 2026 Grupo Wanda. Reservados todos los derechos.",
     "privacy": "política de privacidad",
@@ -552,17 +568,17 @@
     "contactLead": "Preguntas sobre esta póliza:"
   },
   "ui": {
-    "catalog": "Catalogar",
+    "catalog": "Catalog",
     "catalogTitle": "Especificaciones detalladas del producto",
     "catalogSubtitle": "Datos técnicos completos, modelos y parámetros para cada categoría. Seleccione un producto para ver la tabla de especificaciones.",
     "requestPrice": "Solicitar precio para este modelo",
-    "services": "Servicios",
+    "services": "Services",
     "pricing": "Precios",
     "getExactQuote": "Obtenga una cotización exacta",
     "certifications": "Certificaciones",
     "order": "Orden",
     "reviews": "Reseñas",
-    "contact": "Contacto",
+    "contact": "Contact",
     "phone": "Teléfono",
     "location": "Ubicación",
     "quoteResponse": "Respuesta de cotización",
@@ -570,23 +586,23 @@
     "countriesServed": "Soporte de exportación",
     "exportReady": "Listo para exportar",
     "years": "Años",
-    "acetylene": "Acetileno",
+    "acetylene": "Acetylene",
     "isoCertified": "Certificada ISO",
     "globalExport": "Exportación Global",
     "products": "Productos",
     "specs": "Presupuesto",
-    "applications": "Aplicaciones",
+    "applications": "Applications",
     "whyUs": "Por qué nosotras",
     "about": "Sobre nosotras",
-    "gallery": "Galería",
+    "gallery": "Gallery",
     "quality": "Calidad",
-    "faq": "Preguntas frecuentes",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Idioma de búsqueda...",
     "noLanguagesFound": "No se encontraron idiomas",
     "breadcrumb": "Migaja de pan",
     "primaryNav": "Primaria",
-    "menu": "Menú",
+    "menu": "Menu",
     "playVideo": "Reproducir vídeo",
     "productGallery": "Galería de productos",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM/etiqueta privada",
+    "OEM / Private Label",
     "Exportación Internacional",
     "Control de calidad",
     "Estándares de mercado a pedido",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetileno",
-      "propane": "Propano",
-      "generator": "Generador",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Accesorios"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Modelos de cilindros de acetileno estándar",
       "headers": [
-        "Modelo",
+        "Model",
         "Volumen (litros)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,7 +706,7 @@
       ],
       "tableTitle": "Modelos de cilindros de propano estándar",
       "headers": [
-        "Modelo",
+        "Model",
         "Volumen (litros)",
         "Gas (kg)",
         "WP (MPa)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Modelos de generadores de acetileno",
       "headers": [
-        "Modelo",
+        "Model",
         "Salida (m³/h)",
         "Carburo (kg/h)",
         "Presión (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Categoría",
         "Modelos",
-        "Estándar",
+        "Standard",
         "Solicitud"
       ],
       "rows": [
@@ -842,7 +858,7 @@
         ],
         [
           "Mangueras",
-          "GT-H6, GT-H9",
+          "WG-H6, WG-H9",
           "EN 559",
           "soldadura, corte"
         ],
@@ -879,7 +895,7 @@
         "points": [
           "Logotipo y color RAL",
           "Válvula estándar del mercado",
-          "Embalajes y etiquetas OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -907,7 +923,7 @@
         "title": "Proceso de dar un título",
         "desc": "Documentos para aduanas y reguladores. Las copias se envían de forma privada a pedido.",
         "points": [
-          "ISO 9809, PUNTO, TPED",
+          "ISO 9809, DOT, TPED",
           "MSDS y certificado de calidad",
           "certificado de origen"
         ]
@@ -945,12 +961,12 @@
         "desc": "Cotización formal después de la revisión de la consulta."
       },
       {
-        "label": "Cantidad mínima de pedido",
+        "label": "MOQ",
         "value": "Confirmado por pedido",
         "desc": "Depende del modelo y destino."
       },
       {
-        "label": "plazo de entrega",
+        "label": "Lead time",
         "value": "Confirmado por pedido",
         "desc": "Compartido con la cita."
       },
@@ -966,7 +982,7 @@
         "Volumen y modelo del cilindro.",
         "Tipo de válvula y estándar de conexión.",
         "Estándares requeridos para el mercado de destino",
-        "Color, marcado y embalaje OEM",
+        "OEM colour, marking and packaging",
         "Volumen de pedidos e Incoterms"
       ]
     },
@@ -998,9 +1014,9 @@
     ],
     "tableHeaders": [
       "Producto",
-      "Cantidad mínima de pedido",
+      "MOQ",
       "Precio",
-      "Plazo de entrega"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1012,24 +1028,24 @@
         "desc": "Cilindros de gas de acero sin costura: requisitos técnicos"
       },
       {
-        "name": "Norma ISO 9809-3",
+        "name": "ISO 9809-3",
         "desc": "Cilindros de acetileno disuelto"
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certificación del mercado estadounidense"
+        "desc": "Estándar de cilindros del mercado estadounidense: aplicabilidad confirmada por producto y pedido"
       },
       {
         "name": "TPED",
-        "desc": "directiva europea de transporte"
+        "desc": "Requisitos de transporte europeos: discutidos por mercado de destino"
       },
       {
         "name": "GB 5099",
         "desc": "Estándar chino para cilindros de gas."
       },
       {
-        "name": "Marca CE",
-        "desc": "Requisitos de conformidad europeos"
+        "name": "CE Mark",
+        "desc": "Marcado de conformidad europeo: aplicabilidad por producto y mercado"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Reordenamos cilindros de acetileno de 40 litros tres veces este año. Las válvulas GOST, el color OEM y el embalaje de exportación coincidieron siempre con la primera muestra.",
-        "author": "Rustam Yusúpov",
+        "author": "Rustam Yusupov",
         "role": "Propietario, distribuidor de gas de soldadura.",
-        "country": "Uzbekistán"
+        "country": "Uzbekistan"
       },
       {
         "quote": "La cotización llegó el mismo día con un MOQ y un plazo de entrega claros. Las botellas de propano llegaron con válvulas POL y una lista de empaque completa; sin demoras aduaneras de nuestra parte.",
-        "author": "Aigerim Beková",
+        "author": "Aigerim Bekova",
         "role": "Responsable de compras, suministro industrial.",
-        "country": "Kazajstán"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Compramos cilindros con reguladores y mangueras como pedido de un solo contenedor. Los documentos y las marcas estaban listos para nuestro mercado, por lo que la reventa fue sencilla.",
         "author": "Faisal Al-Harbi",
         "role": "Comprador de importaciones, comercialización de equipos de gas.",
-        "country": "Arabia Saudita"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "soldadura",
+        "id": "welding",
         "eyebrow": "Cilindros de acetileno",
         "title": "Llama estable para soldadura de precisión",
         "text": "Cilindros de acetileno disuelto diseñados para soldadura continua y fuerte: presión constante, masa porosa segura y válvulas listas para exportar.",
         "points": [
           "Opciones ISO/DOT/GB",
           "Válvulas CGA / GOST / DIN",
-          "Color y marcado OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "corte",
+        "id": "cutting",
         "eyebrow": "Corte y fabricación",
         "title": "Energía cuando el metal tiene que moverse",
         "text": "Juegos de cilindros listos para oxígeno y acetileno de alto flujo para astilleros, talleres y líneas de fabricación pesada.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propano",
+        "id": "propane",
         "eyebrow": "Propano y GLP",
         "title": "Cilindros de GLP duraderos para todos los mercados",
         "text": "Desde gas para calefacción y cocina hasta corte industrial: cilindros de acero fabricados para ofrecer presión, recubrimiento y una larga vida útil.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fábrica",
+        "id": "factory",
         "eyebrow": "Fabricación",
         "title": "Control de fábrica desde el acero hasta el envío.",
         "text": "Conformado, soldadura, pruebas hidrostáticas y acabado internos, para que cada lote coincida con su plano y estándar del mercado.",
         "points": [
           "Probado hidrostáticamente",
           "Lotes rastreables",
-          "Listo para OEM/ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "calidad",
+        "id": "quality",
         "eyebrow": "Calidad y seguridad",
         "title": "Inspección que puedes poner en la cotización.",
         "text": "Verificaciones de materiales, pruebas de fugas, torque de válvulas y fotografías de empaque. Los paquetes de certificados y reportajes fotográficos se envían de forma privada previa solicitud.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "exportar",
+        "id": "export",
         "eyebrow": "Exportación mundial",
         "title": "Embalado para puertos, listo para mercados de exportación",
         "text": "Exporte pallets, protección de válvulas, etiquetas multilingües y documentos de envío coordinados para los Incoterms de su destino.",
@@ -1181,8 +1197,8 @@
       "Casquillos de cilindro sin pintar con cuello abierto después de soldar"
     ],
     "refrigeration": [
-      "Unidad condensadora enfriada por aire con compresor semihermético Copeland",
-      "Unidad condensadora enfriada por aire con compresor semihermético Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Unidad de condensación de refrigeración tipo gabinete cerrado",
       "Unidad condensadora enfriada por aire de cuatro ventiladores de alta capacidad"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Accesorios del producto",
     "subtitle": "Piezas para cilindros de acetileno, generadores, soldadura y corte. Abra Detalles para especificaciones y aplicaciones.",
     "cta": "Solicitar detalles",
-    "details": "Detalles",
+    "details": "Details",
     "close": "Cerca",
     "featuresLabel": "Características clave",
     "specsLabel": "Presupuesto",
-    "applicationsLabel": "Aplicaciones",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Calidad y suministro",
     "whyTitle": "¿Por qué elegir nuestros accesorios?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Conexiones estándar para una instalación y reemplazo rápidos"
         ],
         "specs": [
-          "Gas: acetileno (C₂H₂); supresores de oxígeno suministrados por separado",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Cuerpo: latón; arrestor: acero inoxidable",
           "Conexión: G 3/8″ LH o rosca personalizada",
           "Presión de trabajo: hasta 1,5 MPa/personalizada",
@@ -1308,13 +1324,13 @@
           "Inspección 100% de seguridad y funcionamiento."
         ],
         "specs": [
-          "Gas: acetileno, oxígeno, argón, nitrógeno y gases compatibles",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Presión de trabajo: clase 25 / 35 bar",
           "Presión de prueba: clase 37,5 / 52,5 bar",
           "Entrada/salida: interna o externa, personalizada",
           "Volante: aleación de aluminio/cinc",
           "Temperatura: −20 °C a +60 °C",
-          "Estándares: ISO 10297, GB/T 8335, CGA o personalizado",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Embalaje: 1 unidad/bolsa, 50 unidades/caja"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (personalizado disponible)",
           "Longitud: 10 / 20 / 30 / 50 / 100 m o personalizado",
           "Color: azul estándar; material SBR / EPDM + hilo de poliéster",
-          "Normas: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: −20 °C a +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Múltiples rangos y montajes inferiores/traseros"
         ],
         "specs": [
-          "Gas: acetileno, oxígeno, argón, CO₂, nitrógeno y gases compatibles",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Esfera: 50/63/100 mm, disponible a medida",
           "Rango: 0–1 bar hasta 0–400 bar, personalizado",
           "Precisión: ±2,5% estándar, ±1,6% opcional",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% prueba antes de la entrega",
-          "Opciones de marca y marcación OEM",
+          "OEM dial and branding options",
           "Embalaje de exportación"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Múltiples presiones de ajuste y tamaños de rosca"
         ],
         "specs": [
-          "Gas: oxígeno, acetileno, aire, nitrógeno y gases compatibles",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Presión de trabajo: hasta 25 bar / 25 kg/cm²",
           "Rango de alivio: 0,1–2,5 MPa, personalizable",
           "Temperatura: −20 °C a +120 °C",
@@ -1495,7 +1511,7 @@
           "Soporta una filtración efectiva en la línea de gas.",
           "Construcción industrial de latón/metal.",
           "Puertos roscados estándar para emparejar el sistema",
-          "Rosca, tamaño y embalaje OEM bajo pedido."
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Función: convertidor de filtro/cabezal adaptador",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtrar",
+        "title": "Filter",
         "desc": "Filtro de alta eficiencia que elimina la humedad, el aceite y las partículas para proteger los equipos posteriores.",
         "intro": "Elimina partículas sólidas, agua, aceite y otras impurezas del flujo de gas para proteger el equipo y extender la vida útil. Cabezal de latón, elemento de calidad y funcionamiento estable bajo presión. Para oxígeno, acetileno, aire, nitrógeno y gases compatibles.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Operación estable bajo presión de trabajo"
         ],
         "specs": [
-          "Gas: oxígeno, acetileno, aire, nitrógeno y gases compatibles",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Presión de entrada: hasta 2,5 MPa",
           "Presión de trabajo: 0,01–1,6 MPa",
           "Precisión: 5 / 20 / 50 μm opcional",
@@ -1625,19 +1641,19 @@
       "Enfriadores de agua industriales",
       "Unidades frigoríficas para vehículos y cámaras frigoríficas móviles"
     ],
-    "note": "Wanda International Trade suministra equipos de refrigeración junto con la línea de cilindros de gas: unidades, paneles, refrigeradores y hardware relacionado con la cadena de frío. Copeland, Bitzer y nombres similares se refieren a la marca del compresor dentro de la unidad, no a un cambio de marca de esas empresas.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Vídeo de empresa",
     "videoSubtitle": "Descripción general de la línea de equipos de refrigeración. Se envían más imágenes de forma privada a pedido.",
     "items": [
       {
-        "title": "Unidad Copeland semihermética refrigerada por aire",
-        "spec": "Unidad condensadora · Compresor Copeland",
-        "desc": "Unidad condensadora enfriada por aire con compresor semihermético Copeland para cámaras frigoríficas y servicio de media temperatura."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Unidad semihermética refrigerada por aire Bitzer",
-        "spec": "Unidad condensadora · Compresor Bitzer",
-        "desc": "Unidad condensadora enfriada por aire con compresor semihermético Bitzer para salas de mayor servicio y temperatura media a baja."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Unidad tipo caja cerrada",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "¿Listo para solicitar una cotización?",
       "quoteCta": "Solicitar una cotización",
       "relatedProducts": "Productos relacionados",
-      "applications": "Aplicaciones",
+      "applications": "Applications",
       "standardsTitle": "Estándares y certificación",
-      "oemTitle": "OEM/personalización",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Embalaje y entrega",
       "placeholders": {
         "standards": "Los estándares y certificados disponibles se confirman por pedido y mercado de destino. Las copias de los certificados se envían de forma privada previa solicitud; los archivos no se publican en el sitio web.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Cilindros de acetileno, generadores, cilindros de propano y accesorios para aplicaciones industriales y de soldadura.",
       "seoTitle": "Productos de cilindros de gas",
       "seoDescription": "Cilindros de acetileno, generadores, cilindros de propano y accesorios para aplicaciones industriales y de soldadura.",
-      "refrigerationNote": "Wanda International Trade suministra equipos de refrigeración junto con la línea de cilindros de gas: unidades, paneles, refrigeradores y hardware relacionado con la cadena de frío. Copeland, Bitzer y nombres similares se refieren a la marca del compresor dentro de la unidad, no a un cambio de marca de esas empresas.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindros de acetileno disuelto",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Cilindros de propano",
-          "overview": "Cilindros para mezclas de propano, butano y GLP. Se utiliza en calefacción, corte, soldadura fuerte, construcción y suministro de gas industrial.",
+          "overview": "Cilindros de acero para almacenamiento y transporte de gas propano. Se utiliza para calefacción, suministro de propano industrial, cocina y oxicorte cuando se combina con acetileno.",
           "seoTitle": "Cilindros de gas propano",
-          "seoDescription": "Cilindros para mezclas de propano, butano y GLP. Se utiliza en calefacción, corte, soldadura fuerte, construcción y suministro de gas industrial."
+          "seoDescription": "Cilindros de acero para gas propano para aplicaciones de calefacción, suministro industrial y corte. Opciones de exportación y OEM discutidas por pedido."
         },
         "lpg": {
           "name": "Cilindros de GLP",
-          "overview": "Cilindros para mezclas de propano, butano y GLP. Se utiliza en calefacción, corte, soldadura fuerte, construcción y suministro de gas industrial.",
+          "overview": "Cilindros para gas licuado de petróleo (GLP): propano, butano o mezclas mixtas. Común para distribución residencial y comercial de GLP, camping, calefacción y suministro de combustible portátil.",
           "seoTitle": "Cilindros de gas GLP",
-          "seoDescription": "Cilindros para mezclas de propano, butano y GLP. Se utiliza en calefacción, corte, soldadura fuerte, construcción y suministro de gas industrial."
+          "seoDescription": "Cilindros de GLP para distribución y suministro portátil de gas licuado de petróleo residencial, comercial e industrial."
         },
         "industrial": {
           "name": "Cilindros de gas industriales",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM y venta al por mayor",
+      "title": "OEM and Wholesale",
       "subtitle": "Opciones de suministro a granel y de marca privada para distribuidores y compradores industriales.",
-      "seoTitle": "Suministro de cilindros de gas OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Fabricación de cilindros de gas OEM y de marca privada para marcas y distribuidores extranjeros.",
       "quoteTitle": "Discutir los requisitos OEM",
       "quoteCta": "Solicitar cotización OEM",
@@ -1799,7 +1815,7 @@
           "text": "Exportación de cajas, pallets y marcas de embalaje por pedido."
         },
         {
-          "title": "Etiqueta privada",
+          "title": "Private Label",
           "text": "Etiquetado y presentación de marca para canales de distribución."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Cantidades al por mayor para la adquisición de proyectos y distribuidores."
         },
         {
-          "title": "Fabricación OEM",
+          "title": "OEM Manufacturing",
           "text": "Configuración del producto alineada con sus especificaciones y mercado."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "No publicamos recuentos de países no verificados, nombres de clientes ni referencias de proyectos en esta página.",
       "regions": [
         {
-          "title": "África",
+          "title": "Africa",
           "text": "Consultas industriales y distribuidores de mercados africanos."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Compradores industriales evaluando el suministro de cilindros para exportación."
         },
         {
-          "title": "América Latina",
+          "title": "Latin America",
           "text": "Consultas para suministro de cilindros de gas industrial y accesorios."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplicaciones",
+      "label": "Applications",
       "title": "Aplicaciones de cilindros",
       "subtitle": "Productos diseñados para tareas comunes de gases industriales y requisitos de compradores extranjeros.",
       "seoTitle": "Aplicaciones de cilindros",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "Preguntas frecuentes",
+      "label": "FAQ",
       "title": "Preguntas frecuentes",
       "subtitle": "Empresa, productos, OEM y exportación: respuestas para compradores extranjeros antes de solicitar una cotización.",
-      "seoTitle": "Preguntas frecuentes",
+      "seoTitle": "FAQ",
       "seoDescription": "Empresa, productos, OEM y exportación: respuestas para compradores extranjeros antes de solicitar una cotización."
     },
     "contactPage": {
-      "label": "Contacto",
+      "label": "Contact",
       "title": "Analicemos sus requisitos",
       "subtitle": "Comuníquese con nuestro equipo de ventas mediante formulario, correo electrónico o mensajería. Comparta producto, cantidad y destino para una cotización más rápida.",
       "seoTitle": "Solicitar una cotización",

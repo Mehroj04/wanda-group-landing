@@ -3,16 +3,16 @@
     "home": "Ev",
     "products": "Ürünler",
     "specs": "Özellikler",
-    "applications": "Uygulamalar",
+    "applications": "Applications",
     "about": "Hakkında",
-    "gallery": "Galeri",
+    "gallery": "Gallery",
     "factory": "Fabrika",
     "quality": "Kalite",
-    "faq": "SSS",
-    "contact": "Temas etmek",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Teklif Al",
     "inquire": "Sor →",
-    "services": "Hizmetler",
+    "services": "Services",
     "pricing": "Fiyatlandırma",
     "accessories": "Aksesuarlar",
     "refrigeration": "Soğuk hava deposu",
@@ -120,7 +120,23 @@
       "Yapı",
       "Metal İmalatı",
       "Gaz Depolama ve Dağıtımı"
+    ],
+    "refrigerationItems": [
+      "Soğuk odalar ve soğuk hava depoları",
+      "Gıda işleme ve dağıtım",
+      "Süpermarketler ve perakende soğuk zincirler",
+      "İlaç ve tıbbi soğuk hava deposu",
+      "Lojistik ve soğutmalı taşımacılık",
+      "Endüstriyel soğutma ve proses soğutucuları"
     ]
+  },
+  "operations": {
+    "title": "Küresel Operasyonlar",
+    "manufacturingBase": "Üretim Üssü",
+    "manufacturingCountry": "Çin",
+    "intlSalesOffice": "Uluslararası Satış Ofisi",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Üretim operasyonlarımız Çin merkezli olup, Özbekistan'daki uluslararası satış ekibimiz dünya çapındaki müşterilerimize destek vermektedir."
   },
   "whyUs": {
     "title": "Neden Wanda Gruplarını Seçmelisiniz?",
@@ -131,7 +147,7 @@
         "desc": "Ürün tedariği yalnızca ticari kataloglara değil, üretime yöneliktir."
       },
       {
-        "title": "OEM desteği",
+        "title": "OEM support",
         "desc": "Siparişe göre özel renk, işaretleme, valf ve ambalaj tartışılır."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Endüstriyel gaz silindirleri için şekillendirme, kaynaklama, test etme ve bitirme."
       },
       {
-        "title": "OEM Desteği",
+        "title": "OEM Support",
         "desc": "Siparişe göre renk, markalama, valf, kapak ve ambalaj seçenekleri."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Bize ürünü, boyutunu, miktarını, varış ülkesini ve özelliklerini söyleyin; satış ekibimiz ürün bilgileri ve fiyat teklifiyle yanıt verecektir.",
     "formTitle": "Fiyat Teklifi İste",
     "formSubtitle": "Ticari bir soruşturma için formu doldurun. Gerekli alanlar işaretlenmiştir.",
-    "name": "İsim",
+    "name": "Name",
     "company": "Şirket",
     "phone": "Telefon / WhatsApp",
     "email": "E-posta",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Vana tipi, rengi, standardı, ambalajı, OEM işareti, miktar notları..."
   },
   "footer": {
-    "company": "Wanda Group Gaz Tüpü Üreticisi",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesyonel Gaz Tüpü İmalatı",
     "rights": "© 2026 Wanda Grup. Her hakkı saklıdır.",
     "privacy": "Gizlilik Politikası",
     "terms": "Kullanım Koşulları"
   },
   "privacy": {
-    "label": "Yasal",
+    "label": "Legal",
     "title": "Gizlilik Politikası",
     "updated": "Son güncelleme: 25 Ağustos 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Bu politikayla ilgili sorular:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Detaylı Ürün Özellikleri",
     "catalogSubtitle": "Her kategori için eksiksiz teknik veriler, modeller ve parametreler. Teknik özellikler tablosunu görüntülemek için bir ürün seçin.",
     "requestPrice": "Bu Model İçin Fiyat İste",
-    "services": "Hizmetler",
+    "services": "Services",
     "pricing": "Fiyatlandırma",
     "getExactQuote": "Tam Fiyat Teklifi Alın",
     "certifications": "Sertifikalar",
     "order": "Emir",
     "reviews": "Yorumlar",
-    "contact": "Temas etmek",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Konum",
     "quoteResponse": "Alıntı yanıtı",
@@ -570,23 +586,23 @@
     "countriesServed": "İhracat desteği",
     "exportReady": "Dışa aktarıma hazır",
     "years": "Yıllar",
-    "acetylene": "Asetilen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO Sertifikalı",
     "globalExport": "Küresel İhracat",
     "products": "Ürünler",
     "specs": "Özellikler",
-    "applications": "Uygulamalar",
+    "applications": "Applications",
     "whyUs": "Neden Biz",
     "about": "Hakkımızda",
-    "gallery": "Galeri",
+    "gallery": "Gallery",
     "quality": "Kalite",
-    "faq": "SSS",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Dil ara...",
     "noLanguagesFound": "Dil bulunamadı",
     "breadcrumb": "Ekmek kırıntısı",
     "primaryNav": "Öncelik",
-    "menu": "Menü",
+    "menu": "Menu",
     "playVideo": "Videoyu oynat",
     "productGallery": "Ürün galerisi",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Özel Etiket",
+    "OEM / Private Label",
     "Uluslararası İhracat",
     "Kalite Kontrol",
     "Talep Üzerine Piyasa Standartları",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Asetilen",
-      "propane": "Propan",
-      "generator": "Jeneratör",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Aksesuarlar"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Standart Asetilen Tüp Modelleri",
       "headers": [
-        "Modeli",
+        "Model",
         "Hacim (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Standart Propan Silindir Modelleri",
       "headers": [
-        "Modeli",
+        "Model",
         "Hacim (L)",
-        "Gaz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Ağırlık (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Asetilen Jeneratör Modelleri",
       "headers": [
-        "Modeli",
+        "Model",
         "Çıkış (m³/saat)",
         "Karbür (kg/saat)",
         "Basınç (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategori",
         "Modeller",
-        "Standart",
+        "Standard",
         "Başvuru"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logo ve RAL rengi",
           "Piyasa standardı valf",
-          "OEM ambalaj ve etiketler"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -907,7 +923,7 @@
         "title": "Sertifikasyon",
         "desc": "Gümrük ve düzenleyiciler için belgeler. Kopyalar istek üzerine özel olarak gönderilir.",
         "points": [
-          "ISO 9809, NOKTA, TPED",
+          "ISO 9809, DOT, TPED",
           "MSDS ve kalite sertifikası",
           "Menşe belgesi"
         ]
@@ -945,12 +961,12 @@
         "desc": "Soruşturma incelemesinden sonra resmi teklif"
       },
       {
-        "label": "Adedi",
+        "label": "MOQ",
         "value": "Sipariş başına onaylandı",
         "desc": "Modele ve hedefe bağlıdır"
       },
       {
-        "label": "Kurşun zamanı",
+        "label": "Lead time",
         "value": "Sipariş başına onaylandı",
         "desc": "Alıntı ile paylaşıldı"
       },
@@ -966,7 +982,7 @@
         "Silindir hacmi ve modeli",
         "Vana tipi ve bağlantı standardı",
         "Hedef pazar için gerekli standartlar",
-        "OEM renk, işaretleme ve paketleme",
+        "OEM colour, marking and packaging",
         "Sipariş hacmi ve Incoterms"
       ]
     },
@@ -998,9 +1014,9 @@
     ],
     "tableHeaders": [
       "Ürün",
-      "Adedi",
+      "MOQ",
       "Fiyat",
-      "Kurşun zamanı"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "ABD pazarı sertifikası"
+        "desc": "ABD pazarı silindir standardı — uygulanabilirlik ürün ve siparişe göre onaylanmıştır"
       },
       {
         "name": "TPED",
-        "desc": "Avrupa taşımacılık direktifi"
+        "desc": "Avrupa taşımacılık gereklilikleri — varış pazarına göre tartışılır"
       },
       {
         "name": "GB 5099",
         "desc": "Çin gaz silindiri standardı"
       },
       {
-        "name": "CE İşareti",
-        "desc": "Avrupa uygunluk gereksinimleri"
+        "name": "CE Mark",
+        "desc": "Avrupa uygunluk işareti — ürün ve pazara göre uygulanabilirlik"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Bu yıl 40L'lik asetilen tüplerini üç kez yeniden sipariş ettik. GOST valfleri, OEM rengi ve ihracat ambalajı her seferinde ilk numuneyle eşleşiyordu.",
-        "author": "Rüstem Yusupov",
+        "author": "Rustam Yusupov",
         "role": "Sahip, kaynak gazı distribütörü",
-        "country": "Özbekistan"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Teklif aynı gün net bir MOQ ve teslim süresiyle geldi. Propan şişeleri POL valfleri ve tam paketleme listesiyle birlikte geldi; bizim açımızdan gümrükte gecikme yaşanmadı.",
-        "author": "Aygerim Bekova",
+        "author": "Aigerim Bekova",
         "role": "Tedarik müdürü, endüstriyel tedarik",
-        "country": "Kazakistan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Regülatörlü ve hortumlu silindirleri tek konteyner siparişi olarak satın alıyoruz. Pazarımız için belgeler ve işaretlemeler hazır olduğundan yeniden satış kolaydı.",
-        "author": "Faysal El-Harbi",
+        "author": "Faisal Al-Harbi",
         "role": "İthalat alıcısı, gaz ekipmanı ticareti",
-        "country": "Suudi Arabistan"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "kaynak",
+        "id": "welding",
         "eyebrow": "Asetilen silindirleri",
         "title": "Hassas kaynak için kararlı alev",
         "text": "Sürekli kaynak ve sert lehimleme için tasarlanmış çözünmüş asetilen silindirleri; tutarlı basınç, güvenli gözenekli kütle, ihracata hazır valfler.",
         "points": [
           "ISO / DOT / GB seçenekleri",
           "CGA / GOST / DIN vanaları",
-          "OEM renk ve işaretleme"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "kesme",
+        "id": "cutting",
         "eyebrow": "Kesim ve imalat",
         "title": "Metalin hareket etmesi gerektiğinde güç",
         "text": "Tersaneler, atölyeler ve ağır imalat hatları için yüksek akışlı asetilen ve oksijene hazır silindir setleri.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan ve LPG",
         "title": "Her pazara uygun dayanıklı LPG tüpleri",
         "text": "Isıtma ve pişirme gazından endüstriyel kesmeye kadar; basınç, kaplama ve uzun hizmet ömrü için tasarlanmış çelik silindirler.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabrika",
+        "id": "factory",
         "eyebrow": "Üretme",
         "title": "Çelikten sevkiyata kadar fabrika kontrolü",
         "text": "Şirket içi şekillendirme, kaynaklama, hidrostatik test ve son işlem; böylece her parti çiziminize ve pazar standardınıza uygundur.",
         "points": [
           "Hidrostatik test edildi",
           "İzlenebilir partiler",
-          "OEM/ODM hazır"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kalite",
+        "id": "quality",
         "eyebrow": "Kalite ve güvenlik",
         "title": "Fiyat teklifine ekleyebileceğiniz muayene",
         "text": "Malzeme kontrolleri, sızıntı testleri, valf torku ve paketleme fotoğrafları. Talep üzerine sertifika paketleri ve fotoğraflı raporlar özel olarak gönderilir.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "ihracat",
+        "id": "export",
         "eyebrow": "Küresel ihracat",
         "title": "Limanlar için paketlendi, ihracat pazarlarına hazır",
         "text": "Hedef Incoterms'e göre koordine edilen ihracat paletleri, valf koruması, çok dilli etiketler ve nakliye belgeleri.",
@@ -1181,8 +1197,8 @@
       "Kaynak sonrası açık boyunlu boyasız silindir kabukları"
     ],
     "refrigeration": [
-      "Copeland yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi",
-      "Bitzer yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Kapalı dolap tarzı soğutma yoğunlaştırma ünitesi",
       "Yüksek kapasiteli dört fanlı hava soğutmalı yoğuşma ünitesi"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Ürün Aksesuarları",
     "subtitle": "Asetilen silindirleri, jeneratörler, kaynak ve kesme parçaları. Spesifikasyonlar ve uygulamalar için Ayrıntıları açın.",
     "cta": "Ayrıntıları talep et",
-    "details": "Detaylar",
+    "details": "Details",
     "close": "Kapalı",
     "featuresLabel": "Temel özellikler",
     "specsLabel": "Özellikler",
-    "applicationsLabel": "Uygulamalar",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kalite ve tedarik",
     "whyTitle": "Neden aksesuarlarımızı seçmelisiniz?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Hızlı kurulum ve değiştirme için standart bağlantılar"
         ],
         "specs": [
-          "Gaz: asetilen (C₂H₂); oksijen tutucular ayrı olarak tedarik edilir",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Gövde: pirinç; tutucu: paslanmaz çelik",
           "Bağlantı: G 3/8″ LH veya özelleştirilmiş dişli",
           "Çalışma basıncı: 1,5 MPa'ya kadar / özelleştirilmiş",
@@ -1308,13 +1324,13 @@
           "%100 güvenlik ve fonksiyon denetimi"
         ],
         "specs": [
-          "Gaz: asetilen, oksijen, argon, nitrojen ve uyumlu gazlar",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Çalışma basıncı: 25 / 35 bar sınıfı",
           "Test basıncı: 37,5 / 52,5 bar sınıfı",
           "Giriş/çıkış: dahili veya harici, özelleştirilmiş",
           "El çarkı: alüminyum / çinko alaşımı",
           "Sıcaklık: −20 °C ila +60 °C",
-          "Standartlar: ISO 10297, GB/T 8335, CGA veya özel",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Ambalaj: 1 adet/torba, 50 adet/kutu"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (özel olarak mevcuttur)",
           "Uzunluk: 10 / 20 / 30 / 50 / 100 m veya özel",
           "Renk: mavi standart; malzeme SBR / EPDM + polyester iplik",
-          "Standartlar: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Sıcaklık: −20 °C ila +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Çoklu aralıklar ve alt/arka montajlar"
         ],
         "specs": [
-          "Gaz: asetilen, oksijen, argon, CO₂, nitrojen ve uyumlu gazlar",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Kadran: 50/63/100 mm, özel olarak mevcuttur",
           "Aralık: 0–1 bar'dan 0–400 bar'a kadar, özel",
           "Doğruluk: ±%2,5 standart, ±%1,6 isteğe bağlı",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Teslimattan önce %100 test",
-          "OEM arama ve markalama seçenekleri",
+          "OEM dial and branding options",
           "İhracat ambalajı"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Çoklu ayar basınçları ve diş boyutları"
         ],
         "specs": [
-          "Gaz: oksijen, asetilen, hava, nitrojen ve uyumlu gazlar",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Çalışma basıncı: 25 bar / 25 kg/cm²'ye kadar",
           "Rölyef aralığı: 0,1–2,5 MPa, özelleştirilebilir",
           "Sıcaklık: −20 °C ila +120 °C",
@@ -1495,7 +1511,7 @@
           "Gaz hattında etkili filtrelemeyi destekler",
           "Endüstriyel pirinç / metal yapı",
           "Sistem eşleştirmesi için standart dişli bağlantı noktaları",
-          "Talep üzerine OEM iplik, boyut ve ambalaj"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rol: filtre dönüştürücü / adaptör kafası",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtre",
+        "title": "Filter",
         "desc": "Çıkış yönündeki ekipmanı korumak için nemi, yağı ve parçacıkları gideren yüksek verimli filtre.",
         "intro": "Ekipmanı korumak ve servis ömrünü uzatmak için katı parçacıkları, suyu, yağı ve diğer yabancı maddeleri gaz akışından temizler. Pirinç kafa, kaliteli eleman ve basınç altında stabil çalışma. Oksijen, asetilen, hava, nitrojen ve uyumlu gazlar için.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Çalışma basıncı altında kararlı çalışma"
         ],
         "specs": [
-          "Gaz: oksijen, asetilen, hava, nitrojen ve uyumlu gazlar",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Giriş basıncı: 2,5 MPa'ya kadar",
           "Çalışma basıncı: 0,01–1,6 MPa",
           "Doğruluk: 5/20/50 μm isteğe bağlı",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Yasal",
+    "label": "Legal",
     "title": "Kullanım Koşulları",
     "updated": "Son güncelleme: 27 Ağustos 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Endüstriyel su soğutucuları",
       "Araç soğutma üniteleri ve mobil soğuk odalar"
     ],
-    "note": "Wanda International Trade, gaz tüpü hattının yanı sıra soğutma ekipmanları da tedarik ediyor: üniteler, paneller, soğutucular ve ilgili soğuk zincir donanımı. Copeland, Bitzer ve benzeri isimler, bu şirketlerin yeniden markasını değil, ünite içindeki kompresör markasını ifade etmektedir.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Şirket videosu",
     "videoSubtitle": "Soğutma ekipmanı hattına genel bakış. Daha fazla görüntü istek üzerine özel olarak gönderilir.",
     "items": [
       {
-        "title": "Copeland yarı hermetik hava soğutmalı ünite",
-        "spec": "Yoğunlaştırma ünitesi · Copeland kompresörü",
-        "desc": "Soğuk odalar ve orta sıcaklıktaki işler için Copeland yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer yarı hermetik hava soğutmalı ünite",
-        "spec": "Yoğunlaştırma ünitesi · Bitzer kompresörü",
-        "desc": "Yüksek hizmet ve orta-düşük sıcaklıktaki odalar için Bitzer yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Kapalı kutu tipi ünite",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Fiyat teklifi istemeye hazır mısınız?",
       "quoteCta": "Fiyat Teklifi İste",
       "relatedProducts": "İlgili ürünler",
-      "applications": "Uygulamalar",
+      "applications": "Applications",
       "standardsTitle": "Standartlar ve sertifikasyon",
-      "oemTitle": "OEM / özelleştirme",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Paketleme ve teslimat",
       "placeholders": {
         "standards": "Mevcut standartlar ve sertifikalar, siparişe ve hedef pazara göre onaylanır. Sertifika kopyaları talep üzerine özel olarak gönderilir; dosyalar web sitesinde yayınlanmaz.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
       "seoTitle": "Gaz Tüpü Ürünleri",
       "seoDescription": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
-      "refrigerationNote": "Wanda International Trade, gaz tüpü hattının yanı sıra soğutma ekipmanları da tedarik ediyor: üniteler, paneller, soğutucular ve ilgili soğuk zincir donanımı. Copeland, Bitzer ve benzeri isimler, bu şirketlerin yeniden markasını değil, ünite içindeki kompresör markasını ifade etmektedir.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Çözünmüş Asetilen Tüpleri",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propan Silindirleri",
-          "overview": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+          "overview": "Propan gazının depolanması ve taşınması için çelik silindirler. Asetilen ile eşleştirildiğinde ısıtma, endüstriyel propan tedariği, pişirme ve oksi-yakıt kesimi için kullanılır.",
           "seoTitle": "Propan Gaz Tüpleri",
-          "seoDescription": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır."
+          "seoDescription": "Isıtma, endüstriyel tedarik ve kesme uygulamaları için çelik propan gaz silindirleri. İhracat ve OEM seçenekleri siparişe göre tartışılır."
         },
         "lpg": {
           "name": "LPG Tüpleri",
-          "overview": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+          "overview": "Sıvılaştırılmış petrol gazı (LPG) için silindirler - propan, bütan veya karışık karışımlar. Konut ve ticari LPG dağıtımı, kamp, ​​ısıtma ve taşınabilir yakıt tedariği için ortaktır.",
           "seoTitle": "LPG Gaz Tüpleri",
-          "seoDescription": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır."
+          "seoDescription": "Konut, ticari ve endüstriyel sıvılaştırılmış petrol gazı dağıtımı ve taşınabilir tedarik için LPG tüpleri."
         },
         "industrial": {
           "name": "Endüstriyel Gaz Tüpleri",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM ve Toptan Satış",
+      "title": "OEM and Wholesale",
       "subtitle": "Distribütörler ve endüstriyel alıcılar için özel etiket ve toplu tedarik seçenekleri.",
-      "seoTitle": "OEM Gaz Tüpü Temini",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Yurtdışı marka ve distribütörlere OEM ve özel markalı gaz tüpü üretimi.",
       "quoteTitle": "OEM gereksinimlerini tartışın",
       "quoteCta": "OEM Teklifi İste",
@@ -1799,7 +1815,7 @@
           "text": "Siparişe göre kartonları, paletleri ve ambalaj işaretlerini dışa aktarın."
         },
         {
-          "title": "Özel Etiket",
+          "title": "Private Label",
           "text": "Distribütör kanallarına yönelik etiketleme ve marka sunumu."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Proje ve distribütör alımı için toptan miktarlar."
         },
         {
-          "title": "OEM İmalatı",
+          "title": "OEM Manufacturing",
           "text": "Spesifikasyonlarınıza ve pazarınıza uygun ürün konfigürasyonu."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Doğrulanmamış ülke sayılarını, müşteri adlarını veya proje referanslarını bu sayfada yayınlamıyoruz.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Afrika pazarlarından sanayi ve distribütör talepleri."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "İhracat silindir tedarikini değerlendiren endüstriyel alıcılar."
         },
         {
-          "title": "Latin Amerika",
+          "title": "Latin America",
           "text": "Endüstriyel gaz tüpü ve aksesuar temini için sorularınız."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Uygulamalar",
+      "label": "Applications",
       "title": "Silindir Uygulamaları",
       "subtitle": "Yaygın endüstriyel gaz görevleri ve yurtdışı alıcı gereksinimleri için tasarlanmış ürünler.",
       "seoTitle": "Silindir Uygulamaları",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "SSS",
+      "label": "FAQ",
       "title": "Sıkça Sorulan Sorular",
       "subtitle": "Şirket, ürünler, OEM ve ihracat - siz fiyat teklifi istemeden önce yurt dışındaki alıcılar için yanıtlar.",
-      "seoTitle": "SSS",
+      "seoTitle": "FAQ",
       "seoDescription": "Şirket, ürünler, OEM ve ihracat - siz fiyat teklifi istemeden önce yurt dışındaki alıcılar için yanıtlar."
     },
     "contactPage": {
-      "label": "Temas etmek",
+      "label": "Contact",
       "title": "İhtiyaçlarınızı Tartışalım",
       "subtitle": "Satış ekibimize form, e-posta veya messenger yoluyla ulaşın. Daha hızlı teklif almak için ürünü, miktarı ve varış yerini paylaşın.",
       "seoTitle": "Fiyat Teklifi İste",

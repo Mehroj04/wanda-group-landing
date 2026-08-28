@@ -5,7 +5,7 @@
     "specs": "Caractéristiques",
     "applications": "Applications",
     "about": "À propos",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "factory": "Usine",
     "quality": "Qualité",
     "faq": "FAQ",
@@ -120,7 +120,23 @@
       "Construction",
       "Fabrication de métaux",
       "Stockage et distribution de gaz"
+    ],
+    "refrigerationItems": [
+      "Chambres froides et installations de stockage frigorifique",
+      "Transformation et distribution alimentaire",
+      "Chaînes du froid des supermarchés et des détaillants",
+      "Chambre froide pharmaceutique et médicale",
+      "Logistique et transport frigorifique",
+      "Refroidisseurs industriels et de procédés"
     ]
+  },
+  "operations": {
+    "title": "Opérations mondiales",
+    "manufacturingBase": "Base de fabrication",
+    "manufacturingCountry": "Chine",
+    "intlSalesOffice": "Bureau des ventes internationales",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Nos opérations de fabrication sont basées en Chine, tandis que notre équipe commerciale internationale en Ouzbékistan accompagne nos clients dans le monde entier."
   },
   "whyUs": {
     "title": "Pourquoi choisir les groupes Wanda",
@@ -131,7 +147,7 @@
         "desc": "Une offre de produits orientée vers la production et non seulement vers des catalogues commerciaux."
       },
       {
-        "title": "Assistance OEM",
+        "title": "OEM support",
         "desc": "Couleur, marquage, valve et emballage personnalisés discutés par commande."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Formage, soudage, essais et finition de bouteilles de gaz industrielles."
       },
       {
-        "title": "Assistance OEM",
+        "title": "OEM Support",
         "desc": "Options de couleur, marquage, valve, bouchon et emballage sur commande."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Indiquez-nous le produit, la taille, la quantité, le pays de destination et les spécifications. Notre équipe commerciale vous répondra avec des informations sur le produit et un devis.",
     "formTitle": "Demander un devis",
     "formSubtitle": "Remplissez le formulaire pour une demande commerciale. Les champs obligatoires sont marqués.",
-    "name": "Nom",
+    "name": "Name",
     "company": "Entreprise",
     "phone": "Téléphone/WhatsApp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Type de vanne, couleur, norme, emballage, marquage OEM, notes de quantité..."
   },
   "footer": {
-    "company": "Fabricant de bouteilles de gaz du groupe Wanda",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Fabrication professionnelle de bouteilles de gaz",
     "rights": "© 2026 Groupe Wanda. Tous droits réservés.",
     "privacy": "politique de confidentialité",
     "terms": "Conditions d'utilisation"
   },
   "privacy": {
-    "label": "Légale",
+    "label": "Legal",
     "title": "politique de confidentialité",
     "updated": "Dernière mise à jour : 25 août 2026",
     "intro": [
@@ -552,7 +568,7 @@
     "contactLead": "Questions sur cette politique :"
   },
   "ui": {
-    "catalog": "Catalogue",
+    "catalog": "Catalog",
     "catalogTitle": "Spécifications détaillées du produit",
     "catalogSubtitle": "Données techniques complètes, modèles et paramètres pour chaque catégorie. Sélectionnez un produit pour afficher le tableau des spécifications.",
     "requestPrice": "Demander un prix pour ce modèle",
@@ -570,7 +586,7 @@
     "countriesServed": "Prise en charge de l'exportation",
     "exportReady": "Prêt à exporter",
     "years": "Années",
-    "acetylene": "Acétylène",
+    "acetylene": "Acetylene",
     "isoCertified": "Certifié ISO",
     "globalExport": "Exportation mondiale",
     "products": "Produits",
@@ -578,10 +594,10 @@
     "applications": "Applications",
     "whyUs": "Pourquoi nous",
     "about": "À propos de nous",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "quality": "Qualité",
     "faq": "FAQ",
-    "blog": "Blogue",
+    "blog": "Blog",
     "searchLanguage": "Langue de recherche...",
     "noLanguagesFound": "Aucune langue trouvée",
     "breadcrumb": "Fil d'Ariane",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM/marque privée",
+    "OEM / Private Label",
     "Exportation internationale",
     "Contrôle de qualité",
     "Normes du marché sur demande",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acétylène",
+      "acetylene": "Acetylene",
       "propane": "Propane",
-      "generator": "Génératrice",
+      "generator": "Generator",
       "accessories": "Accessoires"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Modèles de bouteilles d'acétylène standard",
       "headers": [
-        "Modèle",
+        "Model",
         "Volume (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Modèles de bouteilles de propane standard",
       "headers": [
-        "Modèle",
+        "Model",
         "Volume (L)",
-        "Gaz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Poids (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Modèles de générateurs d'acétylène",
       "headers": [
-        "Modèle",
+        "Model",
         "Débit (m³/h)",
         "Carbure (kg/h)",
         "Pression (kPa)",
@@ -831,19 +847,19 @@
         [
           "Régulatrices",
           "WG-R510, WG-R580",
-          "CGA510/580",
+          "CGA 510/580",
           "Acétylène, propane"
         ],
         [
           "Jauges",
           "WG-G63, WG-G100",
-          "OIN 5171",
+          "ISO 5171",
           "Surveillance de la pression"
         ],
         [
           "Tuyaux",
-          "GT-H6, GT-H9",
-          "FR 559",
+          "WG-H6, WG-H9",
+          "EN 559",
           "Soudage, découpe"
         ],
         [
@@ -879,7 +895,7 @@
         "points": [
           "Logo et couleur RAL",
           "Vanne standard du marché",
-          "Emballages et étiquettes OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -907,7 +923,7 @@
         "title": "Attestation",
         "desc": "Documents pour les douanes et les régulateurs. Des copies sont envoyées en privé sur demande.",
         "points": [
-          "ISO 9809, POINT, TPED",
+          "ISO 9809, DOT, TPED",
           "Fiche signalétique et certificat de qualité",
           "Certificat d'origine"
         ]
@@ -950,7 +966,7 @@
         "desc": "Dépend du modèle et de la destination"
       },
       {
-        "label": "Délai de mise en œuvre",
+        "label": "Lead time",
         "value": "Confirmé par commande",
         "desc": "Partagé avec la citation"
       },
@@ -966,7 +982,7 @@
         "Volume et modèle du cylindre",
         "Type de vanne et norme de connexion",
         "Normes requises pour le marché de destination",
-        "Couleur, marquage et emballage OEM",
+        "OEM colour, marking and packaging",
         "Volume de commande et Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produit",
       "MOQ",
       "Prix",
-      "Délai de mise en œuvre"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1012,24 +1028,24 @@
         "desc": "Bouteilles à gaz en acier sans soudure — exigences techniques"
       },
       {
-        "name": "OIN 9809-3",
+        "name": "ISO 9809-3",
         "desc": "Bouteilles d'acétylène dissous"
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certification du marché américain"
+        "desc": "Norme relative aux cylindres du marché américain — applicabilité confirmée par produit et par commande"
       },
       {
         "name": "TPED",
-        "desc": "Directive européenne sur les transports"
+        "desc": "Exigences européennes en matière de transport – discutées par marché de destination"
       },
       {
         "name": "GB 5099",
         "desc": "Norme chinoise sur les bouteilles de gaz"
       },
       {
-        "name": "Marquage CE",
-        "desc": "Exigences de conformité européennes"
+        "name": "CE Mark",
+        "desc": "Marquage européen de conformité — applicabilité par produit et marché"
       }
     ]
   },
@@ -1064,9 +1080,9 @@
     "items": [
       {
         "quote": "Nous avons commandé à trois reprises des bouteilles d'acétylène de 40 litres cette année. Les vannes GOST, la couleur OEM et l'emballage d'exportation correspondaient à chaque fois au premier échantillon.",
-        "author": "Roustam Ioussoupov",
+        "author": "Rustam Yusupov",
         "role": "Propriétaire, distributeur de gaz de soudage",
-        "country": "Ouzbékistan"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Le devis est arrivé le même jour avec un MOQ et un délai de livraison clairs. Les bouteilles de propane sont arrivées avec des valves POL et une liste de colisage complète – aucun retard douanier de notre côté.",
@@ -1078,25 +1094,25 @@
         "quote": "Nous achetons des bouteilles avec régulateurs et tuyaux en une seule commande de conteneur. Les documents et le marquage étaient prêts pour notre marché, la revente était donc simple.",
         "author": "Faisal Al-Harbi",
         "role": "Acheteur import, négoce d'équipements à gaz",
-        "country": "Arabie Saoudite"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "soudage",
+        "id": "welding",
         "eyebrow": "Bouteilles d'acétylène",
         "title": "Flamme stable pour un soudage de précision",
         "text": "Bouteilles d'acétylène dissous conçues pour le soudage et le brasage continus : pression constante, masse poreuse sûre, vannes prêtes à l'exportation.",
         "points": [
           "Options ISO / DOT / Go",
           "Vannes CGA / GOST / DIN",
-          "Couleur et marquage OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "coupe",
+        "id": "cutting",
         "eyebrow": "Découpe et fabrication",
         "title": "La puissance quand le métal doit bouger",
         "text": "Ensembles de bouteilles d'acétylène et d'oxygène à haut débit pour les chantiers navals, les ateliers et les lignes de fabrication lourde.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "usine",
+        "id": "factory",
         "eyebrow": "Fabrication",
         "title": "Contrôle d'usine de l'acier à l'expédition",
         "text": "Formage, soudage, tests hydrostatiques et finition en interne — afin que chaque lot corresponde à votre dessin et aux normes du marché.",
         "points": [
           "Testé hydrostatique",
           "Lots traçables",
-          "Prêt pour les OEM/ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "qualité",
+        "id": "quality",
         "eyebrow": "Qualité et sécurité",
         "title": "Inspection que vous pouvez mettre dans le devis",
         "text": "Vérifications des matériaux, tests d'étanchéité, couple des vannes et photos d'emballage. Les packs de certificats et les reportages photo sont envoyés en privé sur demande.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "exporter",
+        "id": "export",
         "eyebrow": "Exportation mondiale",
         "title": "Emballé pour les ports, prêt pour les marchés d'exportation",
         "text": "Exportez des palettes, des protections de valves, des étiquettes multilingues et des documents d'expédition coordonnés pour vos Incoterms de destination.",
@@ -1181,8 +1197,8 @@
       "Coquilles de cylindres non peintes à col ouvert après soudage"
     ],
     "refrigeration": [
-      "Unité de condensation refroidie par air avec compresseur semi-hermétique Copeland",
-      "Groupe de condensation à air avec compresseur semi-hermétique Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Unité de condensation de réfrigération de type armoire fermée",
       "Unité de condensation refroidie par air à quatre ventilateurs de grande capacité"
     ]
@@ -1192,7 +1208,7 @@
     "title": "Accessoires du produit",
     "subtitle": "Pièces pour bouteilles d'acétylène, générateurs, soudage et découpage. Ouvrez les détails pour les spécifications et les applications.",
     "cta": "Demander des détails",
-    "details": "Détails",
+    "details": "Details",
     "close": "Fermer",
     "featuresLabel": "Principales caractéristiques",
     "specsLabel": "Caractéristiques",
@@ -1218,7 +1234,7 @@
           "Connexions standard pour une installation et un remplacement rapides"
         ],
         "specs": [
-          "Gaz : acétylène (C₂H₂) ; parafoudres à oxygène fournis séparément",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Corps : laiton ; parafoudre : acier inoxydable",
           "Raccordement : G 3/8″ LH ou filetage personnalisé",
           "Pression de service : jusqu'à 1,5 MPa / sur mesure",
@@ -1308,13 +1324,13 @@
           "Inspection à 100 % de la sécurité et du fonctionnement"
         ],
         "specs": [
-          "Gaz : acétylène, oxygène, argon, azote et gaz compatibles",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Pression de service : classe 25 / 35 bars",
           "Pression d'essai : classe 37,5 / 52,5 bars",
           "Entrée/sortie : interne ou externe, sur mesure",
           "Volant : aluminium/alliage de zinc",
           "Température : −20 °C à +60 °C",
-          "Normes : ISO 10297, GB/T 8335, CGA ou personnalisé",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Emballage : 1 pièce/sac, 50 pièces/boîte"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID : 6/8/9/10/12/13 mm (personnalisé disponible)",
           "Longueur : 10 / 20 / 30 / 50 / 100 m ou sur mesure",
           "Couleur : bleu standard ; matière SBR / EPDM + fil polyester",
-          "Normes : ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Température : −20 °C à +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Plusieurs gammes et supports inférieurs/arrière"
         ],
         "specs": [
-          "Gaz : acétylène, oxygène, argon, CO₂, azote et gaz compatibles",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Cadran : 50 / 63 / 100 mm, personnalisé disponible",
           "Plage : 0 à 1 bar jusqu'à 0 à 400 bar, personnalisé",
           "Précision : ±2,5 % en standard, ±1,6 % en option",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100 % de tests avant la livraison",
-          "Options de cadran et de marque OEM",
+          "OEM dial and branding options",
           "Emballage d'exportation"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Plusieurs pressions de réglage et tailles de filetage"
         ],
         "specs": [
-          "Gaz : oxygène, acétylène, air, azote et gaz compatibles",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Pression de service : jusqu'à 25 bar / 25 kg/cm²",
           "Plage de décharge : 0,1 à 2,5 MPa, personnalisable",
           "Température : −20 °C à +120 °C",
@@ -1495,7 +1511,7 @@
           "Prend en charge une filtration efficace dans la conduite de gaz",
           "Construction industrielle en laiton/métal",
           "Ports filetés standard pour la correspondance du système",
-          "Filetage OEM, taille et emballage sur demande"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rôle : convertisseur de filtre/tête d'adaptateur",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtre",
+        "title": "Filter",
         "desc": "Filtre à haute efficacité qui élimine l'humidité, l'huile et les particules pour protéger les équipements en aval.",
         "intro": "Élimine les particules solides, l'eau, l'huile et autres impuretés du flux de gaz pour protéger l'équipement et prolonger la durée de vie. Tête en laiton, élément de qualité et fonctionnement stable sous pression. Pour l'oxygène, l'acétylène, l'air, l'azote et les gaz compatibles.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Fonctionnement stable sous pression de service"
         ],
         "specs": [
-          "Gaz : oxygène, acétylène, air, azote et gaz compatibles",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Pression d'entrée : jusqu'à 2,5 MPa",
           "Pression de service : 0,01 à 1,6 MPa",
           "Précision : 5 / 20 / 50 μm en option",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Légale",
+    "label": "Legal",
     "title": "Conditions d'utilisation",
     "updated": "Dernière mise à jour : 27 août 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Refroidisseurs d'eau industriels",
       "Groupes frigorifiques pour véhicules et chambres froides mobiles"
     ],
-    "note": "Wanda International Trade fournit des équipements de réfrigération en plus de la gamme de bouteilles de gaz : unités, panneaux, refroidisseurs et matériel de chaîne du froid associé. Copeland, Bitzer et les noms similaires font référence à la marque du compresseur à l'intérieur de l'unité, et non à une nouvelle marque de ces sociétés.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Vidéo d'entreprise",
     "videoSubtitle": "Aperçu de la gamme d'équipements de réfrigération. Plus de séquences sont envoyées en privé sur demande.",
     "items": [
       {
-        "title": "Unité semi-hermétique refroidie par air Copeland",
-        "spec": "Unité de condensation · Compresseur Copeland",
-        "desc": "Unité de condensation à air avec compresseur semi-hermétique Copeland pour chambres froides et service à moyenne température."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Unité refroidie par air semi-hermétique Bitzer",
-        "spec": "Groupe de condensation · Compresseur Bitzer",
-        "desc": "Unité de condensation refroidie par air avec un compresseur semi-hermétique Bitzer pour les pièces à usage intensif et à température moyenne à basse."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Unité de type boîte fermée",
@@ -1665,7 +1681,7 @@
       "relatedProducts": "Produits associés",
       "applications": "Applications",
       "standardsTitle": "Normes et certifications",
-      "oemTitle": "OEM / personnalisation",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Emballage et livraison",
       "placeholders": {
         "standards": "Les normes et certificats disponibles sont confirmés par commande et par marché de destination. Les copies des certificats sont envoyées en privé sur demande — les fichiers ne sont pas publiés sur le site Internet.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
       "seoTitle": "Produits de bouteilles de gaz",
       "seoDescription": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
-      "refrigerationNote": "Wanda International Trade fournit des équipements de réfrigération en plus de la gamme de bouteilles de gaz : unités, panneaux, refroidisseurs et matériel de chaîne du froid associé. Copeland, Bitzer et les noms similaires font référence à la marque du compresseur à l'intérieur de l'unité, et non à une nouvelle marque de ces sociétés.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Bouteilles d'acétylène dissous",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Bouteilles de propane",
-          "overview": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+          "overview": "Bouteilles en acier pour le stockage et le transport du gaz propane. Utilisé pour le chauffage, l'approvisionnement en propane industriel, la cuisson et l'oxycoupage lorsqu'il est associé à l'acétylène.",
           "seoTitle": "Bouteilles de gaz propane",
-          "seoDescription": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel."
+          "seoDescription": "Bouteilles de gaz propane en acier pour les applications de chauffage, d'approvisionnement industriel et de découpe. Options d’exportation et OEM discutées par commande."
         },
         "lpg": {
           "name": "Bouteilles de GPL",
-          "overview": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+          "overview": "Bouteilles de gaz de pétrole liquéfié (GPL) — propane, butane ou mélanges mixtes. Commun pour la distribution de GPL résidentielle et commerciale, le camping, le chauffage et l'approvisionnement en carburant portable.",
           "seoTitle": "Bouteilles de gaz GPL",
-          "seoDescription": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel."
+          "seoDescription": "Bouteilles de GPL pour la distribution de gaz de pétrole liquéfié résidentiel, commercial et industriel et l'approvisionnement portable."
         },
         "industrial": {
           "name": "Bouteilles de gaz industrielles",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM et vente en gros",
+      "title": "OEM and Wholesale",
       "subtitle": "Options de marque privée et d’approvisionnement en gros pour les distributeurs et les acheteurs industriels.",
-      "seoTitle": "Fourniture de bouteilles de gaz OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Fabrication de bouteilles de gaz OEM et de marque privée pour les marques et distributeurs étrangers.",
       "quoteTitle": "Discutez des exigences OEM",
       "quoteCta": "Demander un devis OEM",
@@ -1799,7 +1815,7 @@
           "text": "Exportez les cartons, palettes et marques d’emballage sur commande."
         },
         {
-          "title": "Marque privée",
+          "title": "Private Label",
           "text": "Étiquetage et présentation de la marque pour les canaux de distribution."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Quantités en gros pour l'approvisionnement du projet et du distributeur."
         },
         {
-          "title": "Fabrication OEM",
+          "title": "OEM Manufacturing",
           "text": "Configuration du produit alignée sur vos spécifications et votre marché."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Nous ne publions pas de décomptes de pays non vérifiés, de noms de clients ou de références de projets sur cette page.",
       "regions": [
         {
-          "title": "Afrique",
+          "title": "Africa",
           "text": "Demandes d'industriels et de distributeurs des marchés africains."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Acheteurs industriels évaluant l’approvisionnement en bouteilles pour l’exportation."
         },
         {
-          "title": "l'Amérique latine",
+          "title": "Latin America",
           "text": "Demandes de renseignements sur la fourniture de bouteilles de gaz industriels et d’accessoires."
         },
         {
@@ -1898,7 +1914,7 @@
       "seoDescription": "Indiquez-nous la taille, la quantité, le pays de destination et l'application — nous préparerons un devis détaillé."
     },
     "blog": {
-      "label": "Blogue",
+      "label": "Blog",
       "title": "Derniers articles",
       "subtitle": "Contenu expert pour les professionnels du soudage et de la fourniture de gaz.",
       "seoTitle": "Articles et guides",

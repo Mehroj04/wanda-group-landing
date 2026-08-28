@@ -3,16 +3,16 @@
     "home": "Nyumbani",
     "products": "Bidhaa",
     "specs": "Vipimo",
-    "applications": "Maombi",
+    "applications": "Applications",
     "about": "Kuhusu",
-    "gallery": "Matunzio",
+    "gallery": "Gallery",
     "factory": "Kiwanda",
     "quality": "Ubora",
-    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
-    "contact": "Wasiliana",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Pata Nukuu",
     "inquire": "Uliza →",
-    "services": "Huduma",
+    "services": "Services",
     "pricing": "Bei",
     "accessories": "Vifaa",
     "refrigeration": "Hifadhi ya baridi",
@@ -120,7 +120,23 @@
       "Ujenzi",
       "Utengenezaji wa Metal",
       "Uhifadhi na Usambazaji wa Gesi"
+    ],
+    "refrigerationItems": [
+      "Vyumba vya baridi na vifaa vya kuhifadhi baridi",
+      "Usindikaji na usambazaji wa chakula",
+      "Maduka makubwa na minyororo baridi ya rejareja",
+      "Uhifadhi wa baridi wa dawa na matibabu",
+      "Logistics na usafiri wa friji",
+      "Upoezaji wa viwandani na ubaridishaji wa kusindika"
     ]
+  },
+  "operations": {
+    "title": "Uendeshaji wa Kimataifa",
+    "manufacturingBase": "Msingi wa Utengenezaji",
+    "manufacturingCountry": "China",
+    "intlSalesOffice": "Ofisi ya Uuzaji wa Kimataifa",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Shughuli zetu za utengenezaji ziko nchini Uchina, wakati timu yetu ya mauzo ya kimataifa nchini Uzbekistan inasaidia wateja ulimwenguni kote."
   },
   "whyUs": {
     "title": "Kwa nini Chagua Vikundi vya Wanda",
@@ -131,7 +147,7 @@
         "desc": "Ugavi wa bidhaa unaolenga uzalishaji, sio orodha za biashara pekee."
       },
       {
-        "title": "Msaada wa OEM",
+        "title": "OEM support",
         "desc": "Rangi maalum, kuashiria, vali na ufungashaji hujadiliwa kwa agizo."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Kuunda, kulehemu, kupima na kumaliza kwa mitungi ya gesi ya viwanda."
       },
       {
-        "title": "Msaada wa OEM",
+        "title": "OEM Support",
         "desc": "Rangi, kuashiria, valve, kofia na chaguzi za kufunga kwa utaratibu."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Tuambie bidhaa, saizi, wingi, nchi lengwa na vipimo - timu yetu ya mauzo itajibu na maelezo ya bidhaa na nukuu.",
     "formTitle": "Omba Nukuu",
     "formSubtitle": "Jaza fomu kwa uchunguzi wa kibiashara. Sehemu zinazohitajika zimetiwa alama.",
-    "name": "Jina",
+    "name": "Name",
     "company": "Kampuni",
     "phone": "Simu / WhatsApp",
     "email": "Barua pepe",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Aina ya valves, rangi, kawaida, upakiaji, uwekaji alama wa OEM, noti za kiasi..."
   },
   "footer": {
-    "company": "Mtengenezaji wa Silinda ya Gesi ya Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Utengenezaji wa Silinda za Gesi Kitaalamu",
     "rights": "© 2026 Wanda Group. Haki zote zimehifadhiwa.",
     "privacy": "Sera ya Faragha",
     "terms": "Masharti ya Matumizi"
   },
   "privacy": {
-    "label": "Kisheria",
+    "label": "Legal",
     "title": "Sera ya Faragha",
     "updated": "Ilisasishwa mwisho: 25 Agosti 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Maswali kuhusu sera hii:"
   },
   "ui": {
-    "catalog": "Katalogi",
+    "catalog": "Catalog",
     "catalogTitle": "Maelezo ya kina ya Bidhaa",
     "catalogSubtitle": "Kamilisha data ya kiufundi, mifano na vigezo kwa kila kategoria. Chagua bidhaa ili kuona jedwali maalum.",
     "requestPrice": "Omba Bei ya Muundo Huu",
-    "services": "Huduma",
+    "services": "Services",
     "pricing": "Bei",
     "getExactQuote": "Pata Nukuu Halisi",
     "certifications": "Vyeti",
     "order": "Agizo",
     "reviews": "Ukaguzi",
-    "contact": "Wasiliana",
+    "contact": "Contact",
     "phone": "Simu",
     "location": "Mahali",
     "quoteResponse": "Quote majibu",
@@ -570,23 +586,23 @@
     "countriesServed": "Msaada wa kuuza nje",
     "exportReady": "Hamisha tayari",
     "years": "Miaka",
-    "acetylene": "Asetilini",
+    "acetylene": "Acetylene",
     "isoCertified": "Imethibitishwa na ISO",
     "globalExport": "Usafirishaji wa Kimataifa",
     "products": "Bidhaa",
     "specs": "Vipimo",
-    "applications": "Maombi",
+    "applications": "Applications",
     "whyUs": "Kwanini Sisi",
     "about": "Kuhusu Sisi",
-    "gallery": "Matunzio",
+    "gallery": "Gallery",
     "quality": "Ubora",
-    "faq": "Maswali Yanayoulizwa Mara kwa Mara",
-    "blog": "Blogu",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "Tafuta lugha...",
     "noLanguagesFound": "Hakuna lugha zilizopatikana",
     "breadcrumb": "Breadcrumb",
     "primaryNav": "Msingi",
-    "menu": "Menyu",
+    "menu": "Menu",
     "playVideo": "Cheza video",
     "productGallery": "Matunzio ya bidhaa",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Lebo ya Kibinafsi",
+    "OEM / Private Label",
     "Usafirishaji wa Kimataifa",
     "Udhibiti wa Ubora",
     "Viwango vya Soko juu ya Ombi",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Asetilini",
-      "propane": "Propani",
-      "generator": "Jenereta",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Vifaa"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Mifano ya Silinda ya Asetilini ya Kawaida",
       "headers": [
-        "Mfano",
+        "Model",
         "Kiasi (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Mifano ya Kawaida ya Silinda ya Propane",
       "headers": [
-        "Mfano",
+        "Model",
         "Kiasi (L)",
-        "Gesi (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Uzito (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Mifano ya Jenereta ya Acetylene",
       "headers": [
-        "Mfano",
+        "Model",
         "Pato (m³/h)",
         "Carbide (kg/h)",
         "Shinikizo (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategoria",
         "Mifano",
-        "Kawaida",
+        "Standard",
         "Maombi"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Nembo na rangi ya RAL",
           "Valve ya kiwango cha soko",
-          "Ufungaji na lebo za OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Inategemea mfano na marudio"
       },
       {
-        "label": "Wakati wa kuongoza",
+        "label": "Lead time",
         "value": "Imethibitishwa kwa agizo",
         "desc": "Imeshirikiwa na nukuu"
       },
@@ -966,7 +982,7 @@
         "Kiasi cha silinda na mfano",
         "Aina ya valves na kiwango cha uunganisho",
         "Viwango vinavyohitajika kwa soko lengwa",
-        "OEM rangi, kuashiria na ufungaji",
+        "OEM colour, marking and packaging",
         "Kiasi cha agizo na Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Bidhaa",
       "MOQ",
       "Bei",
-      "Muda wa Kuongoza"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,11 +1033,11 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Udhibitisho wa soko la Amerika"
+        "desc": "Kiwango cha silinda cha soko la Marekani - utumiaji umethibitishwa kwa kila bidhaa na agizo"
       },
       {
         "name": "TPED",
-        "desc": "maelekezo ya usafiri wa Ulaya"
+        "desc": "Mahitaji ya usafiri wa Ulaya - yanajadiliwa kwa kila soko lengwa"
       },
       {
         "name": "GB 5099",
@@ -1029,7 +1045,7 @@
       },
       {
         "name": "CE Mark",
-        "desc": "Mahitaji ya kufuata Ulaya"
+        "desc": "Uwekaji alama wa ulinganifu wa Ulaya - utumiaji kwa kila bidhaa na soko"
       }
     ]
   },
@@ -1085,18 +1101,18 @@
   "story": {
     "slides": [
       {
-        "id": "kulehemu",
+        "id": "welding",
         "eyebrow": "Mitungi ya asetilini",
         "title": "Moto thabiti kwa kulehemu kwa usahihi",
         "text": "Mitungi ya asetilini iliyoyeyushwa ambayo imeundwa kwa ajili ya kulehemu na kuwekea nguvu mara kwa mara - shinikizo thabiti, wingi wa vinyweleo salama, vali zilizo tayari kusafirisha nje.",
         "points": [
           "Chaguzi za ISO / DOT / GB",
           "Vipu vya CGA / GOST / DIN",
-          "OEM rangi & kuashiria"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "kukata",
+        "id": "cutting",
         "eyebrow": "Kukata & utengenezaji",
         "title": "Nguvu wakati chuma kinapaswa kusonga",
         "text": "Seti ya asetilini yenye mtiririko wa juu na seti za mitungi iliyo tayari oksijeni kwa viwanja vya meli, warsha na njia nzito za kutengeneza.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "kiwanda",
+        "id": "factory",
         "eyebrow": "Utengenezaji",
         "title": "Udhibiti wa kiwanda kutoka kwa chuma hadi usafirishaji",
         "text": "Uundaji wa ndani, welding, upimaji wa hydrostatic na umaliziaji - kwa hivyo kila kundi lilingane na mchoro wako na kiwango cha soko.",
         "points": [
           "Kupimwa kwa hydrostatic",
           "Vikundi vinavyoweza kufuatiliwa",
-          "OEM / ODM tayari"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "ubora",
+        "id": "quality",
         "eyebrow": "Ubora na usalama",
         "title": "Ukaguzi unaweza kuweka katika quote",
         "text": "Ukaguzi wa nyenzo, vipimo vya kuvuja, torque ya valves na picha za kufunga. Vifurushi vya cheti na ripoti za picha hutumwa kwa faragha kwa ombi.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "kuuza nje",
+        "id": "export",
         "eyebrow": "Usafirishaji wa kimataifa",
         "title": "Imefungwa kwa ajili ya bandari, tayari kwa masoko ya nje",
         "text": "Hamisha pallets, ulinzi wa vali, lebo za lugha nyingi na hati za usafirishaji zilizoratibiwa kwa Incoterms unakoenda.",
@@ -1181,8 +1197,8 @@
       "Vifuni vya silinda visivyo na rangi na shingo wazi baada ya kulehemu"
     ],
     "refrigeration": [
-      "Kitengo cha kubana kilichopozwa na hewa na kibandiko cha nusu-hermetic cha Copeland",
-      "Kitengo cha kubanalisha kilichopozwa na hewa na kibandikizi cha Bitzer nusu-hermetic",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Kitengo cha kubana majokofu cha mtindo wa baraza la mawaziri",
       "Kitengo cha kubanaisha kilichopozwa na hewa cha feni nne chenye uwezo wa juu"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Vifaa vya Bidhaa",
     "subtitle": "Sehemu za mitungi ya acetylene, jenereta, kulehemu na kukata. Fungua Maelezo kwa vipimo na programu.",
     "cta": "Omba maelezo",
-    "details": "Maelezo",
+    "details": "Details",
     "close": "Funga",
     "featuresLabel": "Vipengele muhimu",
     "specsLabel": "Vipimo",
-    "applicationsLabel": "Maombi",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Ubora na usambazaji",
     "whyTitle": "Kwa nini kuchagua vifaa vyetu?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Miunganisho ya kawaida kwa usakinishaji wa haraka na uingizwaji"
         ],
         "specs": [
-          "Gesi: asetilini (C₂H₂); vizuia oksijeni hutolewa tofauti",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Mwili: shaba; kizuizi: chuma cha pua",
           "Muunganisho: G 3/8″ LH au uzi maalum",
           "Shinikizo la kufanya kazi: hadi 1.5 MPa / iliyobinafsishwa",
@@ -1308,13 +1324,13 @@
           "100% ukaguzi wa usalama na utendakazi"
         ],
         "specs": [
-          "Gesi: asetilini, oksijeni, argon, nitrojeni na gesi sambamba",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Shinikizo la kufanya kazi: darasa la 25/35 la bar",
           "Shinikizo la mtihani: 37.5 / 52.5 bar darasa",
           "Inlet/outlet: ndani au nje, customized",
           "Handwheel: aloi ya alumini / zinki",
           "Joto: −20 °C hadi +60 °C",
-          "Viwango: ISO 10297, GB/T 8335, CGA au desturi",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Ufungaji: 1 pc / mfuko, pcs 50 / sanduku"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "Kitambulisho: 6 / 8 / 9 / 10 / 12 / 13 mm (inapatikana maalum)",
           "Urefu: 10 / 20 / 30 / 50 / 100 m au desturi",
           "Rangi: kiwango cha bluu; nyenzo SBR / EPDM + uzi wa polyester",
-          "Viwango: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Joto: −20 °C hadi +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Masafa mengi na vilima vya chini/nyuma"
         ],
         "specs": [
-          "Gesi: asetilini, oksijeni, argon, CO₂, nitrojeni na gesi zinazolingana",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Piga: 50/63/100 mm, desturi inapatikana",
           "Masafa: Pau 0–1 hadi pau 0–400, maalum",
           "Usahihi: ± 2.5% ya kawaida, ± 1.6% ya hiari",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% kupima kabla ya kujifungua",
-          "Chaguzi za kupiga simu na chapa ya OEM",
+          "OEM dial and branding options",
           "Ufungaji wa kuuza nje"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Shinikizo la kuweka nyingi na saizi za nyuzi"
         ],
         "specs": [
-          "Gesi: oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Shinikizo la kufanya kazi: hadi 25 bar / 25 kg/cm²",
           "Masafa ya usaidizi: MPa 0.1–2.5, inayoweza kubinafsishwa",
           "Joto: −20 °C hadi +120 °C",
@@ -1495,7 +1511,7 @@
           "Inasaidia kuchuja kwa ufanisi kwenye mstari wa gesi",
           "Ujenzi wa shaba / chuma wa viwanda",
           "Milango ya kawaida yenye nyuzi kwa ulinganishaji wa mfumo",
-          "OEM thread, ukubwa na kufunga juu ya ombi"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Jukumu: kibadilishaji kichungi / kichwa cha adapta",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Chuja",
+        "title": "Filter",
         "desc": "Kichujio cha ufanisi wa juu ambacho huondoa unyevu, mafuta na chembe ili kulinda vifaa vya chini vya mto.",
         "intro": "Huondoa chembe ngumu, maji, mafuta na uchafu mwingine kutoka kwa mkondo wa gesi ili kulinda vifaa na kupanua maisha ya huduma. Kichwa cha shaba, kipengele cha ubora na operesheni imara chini ya shinikizo. Kwa oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Operesheni thabiti chini ya shinikizo la kufanya kazi"
         ],
         "specs": [
-          "Gesi: oksijeni, asetilini, hewa, nitrojeni na gesi zinazoendana",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Shinikizo la kuingiza: hadi 2.5 MPa",
           "Shinikizo la kufanya kazi: 0.01-1.6 MPa",
           "Usahihi: 5 / 20 / 50 μm kwa hiari",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Kisheria",
+    "label": "Legal",
     "title": "Masharti ya Matumizi",
     "updated": "Ilisasishwa mwisho: 27 Agosti 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Vipodozi vya maji vya viwandani",
       "Vitengo vya friji za gari na vyumba vya baridi vya rununu"
     ],
-    "note": "Biashara ya Kimataifa ya Wanda hutoa vifaa vya majokofu kando ya laini ya silinda ya gesi: vitengo, paneli, vipozezi na maunzi ya mnyororo baridi yanayohusiana. Copeland, Bitzer na majina sawa yanarejelea chapa ya kujazia ndani ya kitengo, si chapa ya kampuni hizo.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video ya kampuni",
     "videoSubtitle": "Maelezo ya jumla ya mstari wa vifaa vya friji. Picha zaidi hutumwa kwa faragha kwa ombi.",
     "items": [
       {
-        "title": "Kitengo cha kupozwa kwa hewa cha Copeland nusu-hermetic",
-        "spec": "Kitengo cha kubana · Compressor ya Copeland",
-        "desc": "Kitengo cha kubana kilichopozwa na hewa na compressor ya nusu-hermetic ya Copeland kwa vyumba vya baridi na wajibu wa joto la wastani."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Kitengo cha kupozwa kwa hewa cha Bitzer nusu-hermetic",
-        "spec": "Kitengo cha kubana · Compressor ya Bitzer",
-        "desc": "Kitengo cha kubanalisha kilichopozwa na hewa na kibandiko cha Bitzer nusu-hermetic kwa vyumba vya kazi ya juu na vya kati hadi chini."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Kitengo cha aina ya kisanduku kilichofungwa",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Je, uko tayari kuomba bei?",
       "quoteCta": "Omba Nukuu",
       "relatedProducts": "Bidhaa zinazohusiana",
-      "applications": "Maombi",
+      "applications": "Applications",
       "standardsTitle": "Viwango na vyeti",
-      "oemTitle": "OEM / ubinafsishaji",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Ufungaji na utoaji",
       "placeholders": {
         "standards": "Viwango na vyeti vinavyopatikana vinathibitishwa kwa kila agizo na soko lengwa. Nakala za cheti hutumwa kwa faragha kwa ombi - faili hazichapishwi kwenye tovuti.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
       "seoTitle": "Bidhaa za Silinda za gesi",
       "seoDescription": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
-      "refrigerationNote": "Biashara ya Kimataifa ya Wanda hutoa vifaa vya majokofu kando ya laini ya silinda ya gesi: vitengo, paneli, vipozezi na maunzi ya mnyororo baridi yanayohusiana. Copeland, Bitzer na majina sawa yanarejelea chapa ya kujazia ndani ya kitengo, si chapa ya kampuni hizo.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Mitungi ya Asetilini iliyoyeyushwa",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Mitungi ya Propane",
-          "overview": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+          "overview": "Silinda za chuma kwa uhifadhi wa gesi ya propane na usafirishaji. Inatumika kwa kupokanzwa, usambazaji wa propane za viwandani, kupikia na kukata mafuta ya oksi wakati imeunganishwa na asetilini.",
           "seoTitle": "Mitungi ya gesi ya Propane",
-          "seoDescription": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda."
+          "seoDescription": "Mitungi ya gesi ya propane ya chuma kwa ajili ya kupokanzwa, usambazaji wa viwanda na matumizi ya kukata. Chaguo za kuuza nje na OEM zilizojadiliwa kwa agizo."
         },
         "lpg": {
           "name": "Silinda za LPG",
-          "overview": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+          "overview": "Mitungi ya gesi ya mafuta ya petroli (LPG) - propane, butane au mchanganyiko mchanganyiko. Kawaida kwa usambazaji wa LPG za makazi na biashara, kambi, inapokanzwa na usambazaji wa mafuta unaobebeka.",
           "seoTitle": "Mitungi ya gesi ya LPG",
-          "seoDescription": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda."
+          "seoDescription": "Silinda za LPG za usambazaji wa gesi ya petroli iliyoyeyuka katika makazi, biashara na viwandani na usambazaji wa kubebeka."
         },
         "industrial": {
           "name": "Mitungi ya Gesi ya Viwandani",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM na Jumla",
+      "title": "OEM and Wholesale",
       "subtitle": "Lebo za kibinafsi na chaguzi za usambazaji wa wingi kwa wasambazaji na wanunuzi wa viwandani.",
-      "seoTitle": "Ugavi wa Silinda ya Gesi ya OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM na utengenezaji wa mitungi ya gesi yenye lebo ya kibinafsi kwa chapa na wasambazaji wa ng'ambo.",
       "quoteTitle": "Jadili mahitaji ya OEM",
       "quoteCta": "Omba Nukuu ya OEM",
@@ -1799,7 +1815,7 @@
           "text": "Hamisha katoni, pallets na alama za kufunga kwa agizo."
         },
         {
-          "title": "Lebo ya Kibinafsi",
+          "title": "Private Label",
           "text": "Uwekaji lebo na uwasilishaji wa chapa kwa chaneli za wasambazaji."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Kiasi cha jumla cha ununuzi wa mradi na wasambazaji."
         },
         {
-          "title": "Utengenezaji wa OEM",
+          "title": "OEM Manufacturing",
           "text": "Usanidi wa bidhaa kulingana na vipimo na soko lako."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Hatuchapishi hesabu za nchi ambazo hazijathibitishwa, majina ya wateja au marejeleo ya mradi kwenye ukurasa huu.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Maswali ya viwanda na wasambazaji kutoka masoko ya Afrika."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Wanunuzi wa viwandani kutathmini usambazaji wa mitungi ya kuuza nje."
         },
         {
-          "title": "Amerika ya Kusini",
+          "title": "Latin America",
           "text": "Maswali ya silinda ya gesi ya viwandani na usambazaji wa vifaa."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Maombi",
+      "label": "Applications",
       "title": "Maombi ya Silinda",
       "subtitle": "Bidhaa iliyoundwa kwa kazi za kawaida za gesi za viwandani na mahitaji ya mnunuzi wa ng'ambo.",
       "seoTitle": "Maombi ya Silinda",
@@ -1884,21 +1900,21 @@
       ]
     },
     "faq": {
-      "label": "Maswali Yanayoulizwa Mara kwa Mara",
+      "label": "FAQ",
       "title": "Maswali Yanayoulizwa Mara Kwa Mara",
       "subtitle": "Kampuni, bidhaa, OEM na usafirishaji - majibu kwa wanunuzi wa ng'ambo kabla ya kuomba bei.",
-      "seoTitle": "Maswali Yanayoulizwa Mara kwa Mara",
+      "seoTitle": "FAQ",
       "seoDescription": "Kampuni, bidhaa, OEM na usafirishaji - majibu kwa wanunuzi wa ng'ambo kabla ya kuomba bei."
     },
     "contactPage": {
-      "label": "Wasiliana",
+      "label": "Contact",
       "title": "Hebu Tujadili Mahitaji Yako",
       "subtitle": "Fikia timu yetu ya mauzo kwa fomu, barua pepe au mjumbe. Shiriki bidhaa, wingi na lengwa kwa nukuu ya haraka zaidi.",
       "seoTitle": "Omba Nukuu",
       "seoDescription": "Tuambie ukubwa, wingi, nchi unakoenda na programu-tumizi - tutatayarisha dondoo la kina."
     },
     "blog": {
-      "label": "Blogu",
+      "label": "Blog",
       "title": "Makala za Hivi Punde",
       "subtitle": "Maudhui ya kitaalam kwa wataalamu wa kulehemu na usambazaji wa gesi.",
       "seoTitle": "Makala na Miongozo",

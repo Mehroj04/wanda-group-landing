@@ -3,16 +3,16 @@
     "home": "Pradžia",
     "products": "Produktai",
     "specs": "Specifikacijos",
-    "applications": "Programos",
+    "applications": "Applications",
     "about": "Apie",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "factory": "Gamykla",
     "quality": "Kokybė",
-    "faq": "DUK",
-    "contact": "Susisiekite",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Gaukite citatą",
     "inquire": "Teirautis →",
-    "services": "Paslaugos",
+    "services": "Services",
     "pricing": "Kainodara",
     "accessories": "Priedai",
     "refrigeration": "Šaltas sandėliavimas",
@@ -120,7 +120,23 @@
       "Statyba",
       "Metalo gamyba",
       "Dujų saugojimas ir paskirstymas"
+    ],
+    "refrigerationItems": [
+      "Šaldymo patalpos ir šaldymo patalpos",
+      "Maisto perdirbimas ir platinimas",
+      "Prekybos centrai ir mažmeninės prekybos šaldymo tinklai",
+      "Farmacijos ir medicinos šaldymo sandėlis",
+      "Logistika ir refrižeratorius",
+      "Pramoniniai aušinimo ir proceso aušintuvai"
     ]
+  },
+  "operations": {
+    "title": "Pasaulinės operacijos",
+    "manufacturingBase": "Gamybos bazė",
+    "manufacturingCountry": "Kinija",
+    "intlSalesOffice": "Tarptautinis pardavimų biuras",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Mūsų gamybos operacijos yra įsikūrusios Kinijoje, o mūsų tarptautinė pardavimų komanda Uzbekistane palaiko klientus visame pasaulyje."
   },
   "whyUs": {
     "title": "Kodėl verta rinktis Wanda grupes",
@@ -131,7 +147,7 @@
         "desc": "Produktų pasiūla orientuota į gamybą, ne tik prekybą katalogais."
       },
       {
-        "title": "OEM palaikymas",
+        "title": "OEM support",
         "desc": "Individuali spalva, žymėjimas, vožtuvas ir pakuotė aptariami pagal užsakymą."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Pramoninių dujų balionų formavimas, suvirinimas, bandymas ir apdaila."
       },
       {
-        "title": "OEM palaikymas",
+        "title": "OEM Support",
         "desc": "Spalva, žymėjimas, vožtuvas, dangtelis ir pakavimo galimybės pagal užsakymą."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Nurodykite produktą, dydį, kiekį, paskirties šalį ir specifikacijas – mūsų pardavimo komanda atsakys pateikdama informaciją apie produktą ir pasiūlymą.",
     "formTitle": "Prašyti kainos pasiūlymo",
     "formSubtitle": "Užpildykite komercinės užklausos formą. Privalomi laukai pažymėti.",
-    "name": "Vardas",
+    "name": "Name",
     "company": "Įmonė",
     "phone": "Telefonas / WhatsApp",
     "email": "El. paštas",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Vožtuvo tipas, spalva, standartas, pakuotė, OEM žymėjimas, kiekio pastabos..."
   },
   "footer": {
-    "company": "„Wanda Group“ dujų balionų gamintojas",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesionali dujų balionų gamyba",
     "rights": "© „Wanda Group“, 2026 m. Visos teisės saugomos.",
     "privacy": "Privatumo politika",
     "terms": "Naudojimo sąlygos"
   },
   "privacy": {
-    "label": "Teisinė",
+    "label": "Legal",
     "title": "Privatumo politika",
     "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 25 d",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Klausimai apie šią politiką:"
   },
   "ui": {
-    "catalog": "Katalogas",
+    "catalog": "Catalog",
     "catalogTitle": "Išsamios gaminio specifikacijos",
     "catalogSubtitle": "Išsamūs kiekvienos kategorijos techniniai duomenys, modeliai ir parametrai. Norėdami peržiūrėti specifikacijų lentelę, pasirinkite produktą.",
     "requestPrice": "Prašyti šio modelio kainos",
-    "services": "Paslaugos",
+    "services": "Services",
     "pricing": "Kainodara",
     "getExactQuote": "Gaukite tikslią citatą",
     "certifications": "Sertifikatai",
     "order": "Užsakyti",
     "reviews": "Atsiliepimai",
-    "contact": "Susisiekite",
+    "contact": "Contact",
     "phone": "Telefonas",
     "location": "Vieta",
     "quoteResponse": "Citatos atsakymas",
@@ -570,23 +586,23 @@
     "countriesServed": "Eksporto palaikymas",
     "exportReady": "Paruošta eksportuoti",
     "years": "Metai",
-    "acetylene": "Acetilenas",
+    "acetylene": "Acetylene",
     "isoCertified": "Sertifikuota ISO",
     "globalExport": "Pasaulinis eksportas",
     "products": "Produktai",
     "specs": "Specifikacijos",
-    "applications": "Programos",
+    "applications": "Applications",
     "whyUs": "Kodėl Mes",
     "about": "Apie mus",
-    "gallery": "Galerija",
+    "gallery": "Gallery",
     "quality": "Kokybė",
-    "faq": "DUK",
-    "blog": "Dienoraštis",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "Ieškoti kalbos...",
     "noLanguagesFound": "Kalbų nerasta",
     "breadcrumb": "Duonos trupiniai",
     "primaryNav": "Pirminis",
-    "menu": "Meniu",
+    "menu": "Menu",
     "playVideo": "Leisti vaizdo įrašą",
     "productGallery": "Produktų galerija",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / privati ​​etiketė",
+    "OEM / Private Label",
     "Tarptautinis eksportas",
     "Kokybės kontrolė",
     "Rinkos standartai pagal užsakymą",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilenas",
-      "propane": "Propanas",
-      "generator": "Generatorius",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Priedai"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Standartiniai acetileno cilindrų modeliai",
       "headers": [
-        "Modelis",
+        "Model",
         "Tūris (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Standartiniai propano cilindrų modeliai",
       "headers": [
-        "Modelis",
+        "Model",
         "Tūris (L)",
-        "Dujos (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Svoris (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Acetileno generatorių modeliai",
       "headers": [
-        "Modelis",
+        "Model",
         "Galia (m³/val.)",
         "Karbidas (kg/val.)",
         "Slėgis (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategorija",
         "Modeliai",
-        "Standartinis",
+        "Standard",
         "Taikymas"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logotipas ir RAL spalva",
           "Rinkos standarto vožtuvas",
-          "OEM pakuotė ir etiketės"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Priklauso nuo modelio ir paskirties vietos"
       },
       {
-        "label": "Pristatymo laikas",
+        "label": "Lead time",
         "value": "Patvirtinta pagal užsakymą",
         "desc": "Pasidalinta su citata"
       },
@@ -966,7 +982,7 @@
         "Cilindro tūris ir modelis",
         "Vožtuvo tipas ir jungties standartas",
         "Standartai, reikalingi paskirties rinkai",
-        "OEM spalva, ženklinimas ir pakuotė",
+        "OEM colour, marking and packaging",
         "Užsakymo apimtis ir Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produktas",
       "MOQ",
       "Kaina",
-      "Pristatymo laikas"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "JAV rinkos sertifikatas"
+        "desc": "JAV rinkos cilindrų standartas – taikymas patvirtintas kiekvienam produktui ir užsakymui"
       },
       {
         "name": "TPED",
-        "desc": "Europos transporto direktyva"
+        "desc": "Europos transporto reikalavimai – aptariami pagal paskirties rinką"
       },
       {
         "name": "GB 5099",
         "desc": "Kinijos dujų balionų standartas"
       },
       {
-        "name": "CE ženklas",
-        "desc": "Europos atitikties reikalavimus"
+        "name": "CE Mark",
+        "desc": "Europos atitikties ženklinimas – taikymas pagal gaminį ir rinką"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Šiemet tris kartus persakinėjome 40L acetileno balionus. GOST vožtuvai, OEM spalva ir eksporto pakuotė kiekvieną kartą atitiko pirmąjį pavyzdį.",
-        "author": "Rustamas Jusupovas",
+        "author": "Rustam Yusupov",
         "role": "Savininkas, suvirinimo dujų skirstytuvas",
-        "country": "Uzbekistanas"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Citata buvo pateikta tą pačią dieną su aiškiu MOQ ir pristatymo laiku. Propano buteliai atkeliavo su POL vožtuvais ir pilnu pakavimo sąrašu – mūsų pusėje jokių muitinės vėlavimų.",
         "author": "Aigerim Bekova",
         "role": "Pirkimų vadovas, pramonės tiekimas",
-        "country": "Kazachstanas"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Cilindrus su reguliatoriais ir žarnomis perkame kaip vieną konteinerio užsakymą. Dokumentai ir žymėjimas buvo paruošti mūsų rinkai, todėl perparduoti buvo paprasta.",
         "author": "Faisal Al-Harbi",
         "role": "Importo pirkėjas, prekyba dujų įranga",
-        "country": "Saudo Arabija"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "suvirinimas",
+        "id": "welding",
         "eyebrow": "Acetileno cilindrai",
         "title": "Stabili liepsna tiksliam suvirinimui",
         "text": "Ištirpusio acetileno cilindrai, sukurti nuolatiniam suvirinimui ir litavimui – pastovus slėgis, saugi poringa masė, eksportui paruošti vožtuvai.",
         "points": [
           "ISO / DOT / GB parinktys",
           "CGA / GOST / DIN vožtuvai",
-          "OEM spalva ir žymėjimas"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "pjovimas",
+        "id": "cutting",
         "eyebrow": "Pjaustymas ir gamyba",
         "title": "Galia, kai metalas turi judėti",
         "text": "Didelio srauto acetileno ir deguonies paruošimo balionų rinkiniai, skirti laivų statykloms, dirbtuvėms ir sunkioms gamybos linijoms.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propanas",
+        "id": "propane",
         "eyebrow": "Propanas ir LPG",
         "title": "Patvarūs SND balionai kiekvienai rinkai",
         "text": "Nuo šildymo ir virimo dujų iki pramoninio pjovimo – plieniniai balionai, sukurti slėgiui, padengimui ir ilgaamžiškumui.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "gamykla",
+        "id": "factory",
         "eyebrow": "Gamyba",
         "title": "Gamyklos kontrolė nuo plieno iki išsiuntimo",
         "text": "Vidinis formavimas, suvirinimas, hidrostatinis bandymas ir apdaila – todėl kiekviena partija atitinka jūsų brėžinį ir rinkos standartą.",
         "points": [
           "Hidrostatinis išbandytas",
           "Atsekamos partijos",
-          "Paruošta OEM / ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kokybės",
+        "id": "quality",
         "eyebrow": "Kokybė ir saugumas",
         "title": "Apžiūrą galite įrašyti į citatą",
         "text": "Medžiagų patikrinimai, sandarumo testai, vožtuvo sukimo momentas ir pakuotės nuotraukos. Paprašius, sertifikatų paketai ir fotoreportažai siunčiami privačiai.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "eksportuoti",
+        "id": "export",
         "eyebrow": "Pasaulinis eksportas",
         "title": "Supakuota uostams, paruošta eksporto rinkoms",
         "text": "Eksportuokite padėklus, vožtuvų apsaugą, daugiakalbes etiketes ir siuntimo dokumentus, suderintus pagal jūsų paskirties Incoterms.",
@@ -1181,8 +1197,8 @@
       "Po suvirinimo nedažyti cilindrų korpusai atvirais kakliukais"
     ],
     "refrigeration": [
-      "Oru aušinamas kondensacinis įrenginys su Copeland pusiau hermetišku kompresoriumi",
-      "Oru aušinamas kondensacinis įrenginys su Bitzer pusiau hermetišku kompresoriumi",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Uždaros spintos tipo šaldymo kondensacinis įrenginys",
       "Didelės talpos keturių ventiliatorių oru aušinamas kondensacinis blokas"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Produkto priedai",
     "subtitle": "Acetileno cilindrų, generatorių, suvirinimo ir pjovimo dalys. Atidarykite Išsamią informaciją, kad sužinotumėte specifikacijas ir programas.",
     "cta": "Prašyti išsamios informacijos",
-    "details": "Detalės",
+    "details": "Details",
     "close": "Uždaryti",
     "featuresLabel": "Pagrindinės savybės",
     "specsLabel": "Specifikacijos",
-    "applicationsLabel": "Programos",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kokybė ir tiekimas",
     "whyTitle": "Kodėl verta rinktis mūsų priedus?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standartinės jungtys greitam montavimui ir pakeitimui"
         ],
         "specs": [
-          "Dujos: acetilenas (C2H2); deguonies ribotuvai tiekiami atskirai",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Korpusas: žalvaris; iškroviklis: nerūdijantis plienas",
           "Jungtis: G 3/8″ LH arba pritaikytas sriegis",
           "Darbinis slėgis: iki 1,5 MPa / pritaikytas",
@@ -1308,13 +1324,13 @@
           "100% saugos ir veikimo patikrinimas"
         ],
         "specs": [
-          "Dujos: acetilenas, deguonis, argonas, azotas ir suderinamos dujos",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Darbinis slėgis: 25 / 35 barų klasė",
           "Bandymo slėgis: 37,5 / 52,5 baro klasė",
           "Įėjimas / išėjimas: vidinis arba išorinis, pritaikytas",
           "Rankinis ratas: aliuminio / cinko lydinys",
           "Temperatūra: –20 °C iki +60 °C",
-          "Standartai: ISO 10297, GB/T 8335, CGA arba pagal užsakymą",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Įpakavimas: 1 vnt / maišelis, 50 vnt / dėžutė"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (galima pagal užsakymą)",
           "Ilgis: 10/20/30/50/100 m arba pagal užsakymą",
           "Spalva: mėlyna standartinė; medžiaga SBR / EPDM + poliesterio verpalai",
-          "Standartai: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatūra: –20 °C iki +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Keli diapazonai ir tvirtinimai apačioje / gale"
         ],
         "specs": [
-          "Dujos: acetilenas, deguonis, argonas, CO₂, azotas ir suderinamos dujos",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Ciferblatas: 50 / 63 / 100 mm, galima pasirinkti pagal užsakymą",
           "Diapazonas: 0–1 baras iki 0–400 barų, pagal užsakymą",
           "Tikslumas: ±2,5% standartinis, ±1,6% neprivalomas",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% patikrinimas prieš pristatymą",
-          "OEM rinkimo ir prekės ženklo parinktys",
+          "OEM dial and branding options",
           "Eksporto pakuotė"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Keli nustatyti slėgiai ir sriegio dydžiai"
         ],
         "specs": [
-          "Dujos: deguonis, acetilenas, oras, azotas ir suderinamos dujos",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Darbinis slėgis: iki 25 bar / 25 kg/cm²",
           "Reljefo diapazonas: 0,1–2,5 MPa, pritaikomas",
           "Temperatūra: –20 °C iki +120 °C",
@@ -1495,7 +1511,7 @@
           "Palaiko efektyvų filtravimą dujų linijoje",
           "Pramoninės žalvario/metalo konstrukcijos",
           "Standartiniai srieginiai prievadai sistemos suderinimui",
-          "OEM sriegis, dydis ir pakuotė pagal užsakymą"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Paskirtis: filtro keitiklis / adapterio galvutė",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtruoti",
+        "title": "Filter",
         "desc": "Didelio efektyvumo filtras, kuris pašalina drėgmę, alyvą ir daleles, kad apsaugotų paskesnę įrangą.",
         "intro": "Pašalina kietąsias daleles, vandenį, alyvą ir kitus nešvarumus iš dujų srauto, kad apsaugotų įrangą ir pailgintų tarnavimo laiką. Žalvario galvutė, kokybiškas elementas ir stabilus veikimas esant slėgiui. Deguoniui, acetilenui, orui, azotui ir suderinamoms dujoms.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Stabilus veikimas esant darbiniam slėgiui"
         ],
         "specs": [
-          "Dujos: deguonis, acetilenas, oras, azotas ir suderinamos dujos",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Įleidimo slėgis: iki 2,5 MPa",
           "Darbinis slėgis: 0,01–1,6 MPa",
           "Tikslumas: 5 / 20 / 50 μm neprivalomas",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Teisinė",
+    "label": "Legal",
     "title": "Naudojimo sąlygos",
     "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 27 d",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Pramoniniai vandens aušintuvai",
       "Transporto priemonių šaldymo įrenginiai ir mobilios šaldymo patalpos"
     ],
-    "note": "„Wanda International Trade“ tiekia šaldymo įrangą kartu su dujų balionų linija: blokais, skydais, aušintuvais ir susijusia šaltosios grandinės įranga. Copeland, Bitzer ir panašūs pavadinimai nurodo kompresoriaus prekės ženklą įrenginio viduje, o ne tų įmonių prekės ženklą.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Įmonės vaizdo įrašas",
     "videoSubtitle": "Šaldymo įrangos linijos apžvalga. Daugiau filmuotos medžiagos siunčiame privačiai pagal pageidavimą.",
     "items": [
       {
-        "title": "Pusiau hermetiškas Copeland oru aušinamas įrenginys",
-        "spec": "Kondensacinis blokas · Copeland kompresorius",
-        "desc": "Oru aušinamas kondensacinis blokas su Copeland pusiau hermetišku kompresoriumi, skirtas šaltoms patalpoms ir vidutinei temperatūrai."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer pusiau hermetiškas oru aušinamas įrenginys",
-        "spec": "Kondensacinis įrenginys · Bitzer kompresorius",
-        "desc": "Oru aušinamas kondensacinis įrenginys su Bitzer pusiau hermetišku kompresoriumi, skirtas didesnės apkrovos ir vidutinės iki žemos temperatūros patalpoms."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Uždaras dėžutės tipo įrenginys",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Pasiruošę prašyti kainos pasiūlymo?",
       "quoteCta": "Prašyti kainos pasiūlymo",
       "relatedProducts": "Susiję produktai",
-      "applications": "Programos",
+      "applications": "Applications",
       "standardsTitle": "Standartai ir sertifikavimas",
-      "oemTitle": "OEM / pritaikymas",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pakavimas ir pristatymas",
       "placeholders": {
         "standards": "Galimi standartai ir sertifikatai patvirtinami pagal užsakymo ir paskirties rinką. Paprašius sertifikatų kopijos siunčiamos privačiai – failai svetainėje neskelbiami.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
       "seoTitle": "Dujų balionų gaminiai",
       "seoDescription": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
-      "refrigerationNote": "„Wanda International Trade“ tiekia šaldymo įrangą kartu su dujų balionų linija: blokais, skydais, aušintuvais ir susijusia šaltosios grandinės įranga. Copeland, Bitzer ir panašūs pavadinimai nurodo kompresoriaus prekės ženklą įrenginio viduje, o ne tų įmonių prekės ženklą.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Ištirpusio acetileno cilindrai",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propano cilindrai",
-          "overview": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+          "overview": "Plieniniai balionai propano dujų saugojimui ir transportavimui. Naudojamas šildymui, pramoniniam propano tiekimui, maisto ruošimui ir deguonies pjaustymui, kai suporuotas su acetilenu.",
           "seoTitle": "Propano dujų balionai",
-          "seoDescription": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse."
+          "seoDescription": "Plieniniai propano dujų balionai, skirti šildymui, pramoniniam tiekimui ir pjovimui. Eksporto ir OEM parinktys aptariamos pagal užsakymą."
         },
         "lpg": {
           "name": "LPG balionai",
-          "overview": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+          "overview": "Suskystintųjų naftos dujų (SND) balionai – propanas, butanas arba mišiniai. Įprasta gyvenamųjų ir komercinių SND paskirstymui, stovyklavimui, šildymui ir nešiojamų degalų tiekimui.",
           "seoTitle": "LPG dujų balionai",
-          "seoDescription": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse."
+          "seoDescription": "SND balionai, skirti suskystintųjų naftos dujų paskirstymui ir nešiojamam tiekimui gyvenamosioms, komercinėms ir pramoninėms patalpoms."
         },
         "industrial": {
           "name": "Pramoniniai dujų balionai",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM ir didmeninė prekyba",
+      "title": "OEM and Wholesale",
       "subtitle": "Privačios prekės ženklo ir masinio tiekimo galimybės platintojams ir pramoniniams pirkėjams.",
-      "seoTitle": "OEM dujų balionų tiekimas",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM ir privačių prekių ženklų dujų balionų gamyba užsienio prekių ženklams ir platintojams.",
       "quoteTitle": "Aptarkite OEM reikalavimus",
       "quoteCta": "Prašyti OEM kainos pasiūlymo",
@@ -1799,7 +1815,7 @@
           "text": "Eksportuojame kartonines dėžes, padėklus ir pakavimo ženklus pagal užsakymą."
         },
         {
-          "title": "Privati ​​etiketė",
+          "title": "Private Label",
           "text": "Ženklinimas ir prekės ženklo pristatymas platintojų kanalams."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Didmeniniai kiekiai projektiniams ir platintojų pirkimams."
         },
         {
-          "title": "OEM gamyba",
+          "title": "OEM Manufacturing",
           "text": "Produkto konfigūracija atitinka jūsų specifikacijas ir rinką."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Šiame puslapyje neskelbiame nepatvirtintų šalių skaičiaus, klientų vardų ar projektų nuorodų.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Pramonės ir platintojų užklausos iš Afrikos rinkų."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Pramoniniai pirkėjai, vertinantys eksporto balionų tiekimą."
         },
         {
-          "title": "Lotynų Amerika",
+          "title": "Latin America",
           "text": "Užklausos dėl pramoninių dujų balionų ir priedų tiekimo."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Programos",
+      "label": "Applications",
       "title": "Cilindrų programos",
       "subtitle": "Produktai, sukurti įprastoms pramoninių dujų užduotims ir užsienio pirkėjų reikalavimams.",
       "seoTitle": "Cilindrų programos",
@@ -1884,21 +1900,21 @@
       ]
     },
     "faq": {
-      "label": "DUK",
+      "label": "FAQ",
       "title": "Dažnai užduodami klausimai",
       "subtitle": "Įmonė, produktai, OĮG ir eksportas – atsakymai užsienio pirkėjams prieš pateikdami užklausą dėl kainos.",
-      "seoTitle": "DUK",
+      "seoTitle": "FAQ",
       "seoDescription": "Įmonė, produktai, OĮG ir eksportas – atsakymai užsienio pirkėjams prieš pateikdami užklausą dėl kainos."
     },
     "contactPage": {
-      "label": "Susisiekite",
+      "label": "Contact",
       "title": "Aptarsime jūsų reikalavimus",
       "subtitle": "Susisiekite su mūsų pardavimo komanda forma, el. paštu arba messenger. Pasidalykite produktu, kiekiu ir paskirties vieta, kad gautumėte greitesnę kainą.",
       "seoTitle": "Prašyti kainos pasiūlymo",
       "seoDescription": "Nurodykite dydį, kiekį, paskirties šalį ir paraišką – mes parengsime išsamią pasiūlymą."
     },
     "blog": {
-      "label": "Dienoraštis",
+      "label": "Blog",
       "title": "Naujausi straipsniai",
       "subtitle": "Ekspertinis turinys suvirinimo ir dujų tiekimo specialistams.",
       "seoTitle": "Straipsniai ir vadovai",

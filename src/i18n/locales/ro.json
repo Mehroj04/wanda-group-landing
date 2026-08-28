@@ -3,16 +3,16 @@
     "home": "Acasă",
     "products": "Produse",
     "specs": "Specificații",
-    "applications": "Aplicații",
+    "applications": "Applications",
     "about": "Despre",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "factory": "Fabrică",
     "quality": "Calitate",
     "faq": "FAQ",
     "contact": "Contact",
     "getQuote": "Obțineți o cotație",
     "inquire": "Întrebați →",
-    "services": "Servicii",
+    "services": "Services",
     "pricing": "Prețuri",
     "accessories": "Accesorii",
     "refrigeration": "Depozitare la rece",
@@ -120,7 +120,23 @@
       "Constructii",
       "Fabricarea metalelor",
       "Depozitare și distribuție gaze"
+    ],
+    "refrigerationItems": [
+      "Camere frigorifice și depozite frigorifice",
+      "Prelucrarea și distribuția alimentelor",
+      "Supermarketuri și lanțuri frigorifice de vânzare cu amănuntul",
+      "Depozitare frigorifică farmaceutică și medicală",
+      "Logistica si transport frigorific",
+      "Răcire industrială și răcitoare de proces"
     ]
+  },
+  "operations": {
+    "title": "Operațiuni globale",
+    "manufacturingBase": "Baza de producție",
+    "manufacturingCountry": "China",
+    "intlSalesOffice": "Biroul de vanzari international",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Operațiunile noastre de producție au sediul în China, în timp ce echipa noastră internațională de vânzări din Uzbekistan sprijină clienții din întreaga lume."
   },
   "whyUs": {
     "title": "De ce să alegeți Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Aprovizionarea cu produse orientată spre producție, nu numai cataloage comerciale."
       },
       {
-        "title": "Suport OEM",
+        "title": "OEM support",
         "desc": "Culoarea personalizată, marcarea, supapa și ambalajul discutate pe comandă."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Formare, sudare, testare și finisare pentru butelii de gaz industriale."
       },
       {
-        "title": "Suport OEM",
+        "title": "OEM Support",
         "desc": "Opțiuni de culoare, marcare, supapă, capac și ambalare la comandă."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Spuneți-ne produsul, dimensiunea, cantitatea, țara de destinație și specificațiile - echipa noastră de vânzări va răspunde cu informații despre produs și o ofertă.",
     "formTitle": "Solicitați o cotație",
     "formSubtitle": "Completați formularul pentru o anchetă comercială. Câmpurile obligatorii sunt marcate.",
-    "name": "Nume",
+    "name": "Name",
     "company": "Companie",
     "phone": "Telefon / WhatsApp",
     "email": "E-mail",
@@ -488,7 +504,7 @@
     "requirementsPlaceholder": "Tip supapă, culoare, standard, ambalaj, marcare OEM, note de cantitate..."
   },
   "footer": {
-    "company": "Producator de butelii de gaz Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Producție profesională de butelii de gaz",
     "rights": "© 2026 Wanda Group. Toate drepturile rezervate.",
     "privacy": "Politica de confidențialitate",
@@ -556,7 +572,7 @@
     "catalogTitle": "Specificații detaliate ale produsului",
     "catalogSubtitle": "Date tehnice complete, modele și parametri pentru fiecare categorie. Selectați un produs pentru a vizualiza tabelul cu specificații.",
     "requestPrice": "Solicitați preț pentru acest model",
-    "services": "Servicii",
+    "services": "Services",
     "pricing": "Prețuri",
     "getExactQuote": "Obțineți o cotație exactă",
     "certifications": "Certificari",
@@ -570,15 +586,15 @@
     "countriesServed": "Suport pentru export",
     "exportReady": "Export gata",
     "years": "ani",
-    "acetylene": "Acetilenă",
+    "acetylene": "Acetylene",
     "isoCertified": "Certificat ISO",
     "globalExport": "Export global",
     "products": "Produse",
     "specs": "Specificații",
-    "applications": "Aplicații",
+    "applications": "Applications",
     "whyUs": "De ce Noi",
     "about": "Despre noi",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "quality": "Calitate",
     "faq": "FAQ",
     "blog": "Blog",
@@ -586,7 +602,7 @@
     "noLanguagesFound": "Nu s-au găsit limbi",
     "breadcrumb": "Pesmet",
     "primaryNav": "Primar",
-    "menu": "Meniu",
+    "menu": "Menu",
     "playVideo": "Redați videoclipul",
     "productGallery": "Galerie de produse",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Etichetă privată",
+    "OEM / Private Label",
     "Export Internațional",
     "Controlul calității",
     "Standarde de piață la cerere",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilenă",
-      "propane": "propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Accesorii"
     },
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Volumul (L)",
-        "Gaz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Greutate (kg)",
@@ -879,7 +895,7 @@
         "points": [
           "Logo și culoare RAL",
           "Supapă standard pe piață",
-          "Ambalaje și etichete OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Depinde de model si destinatie"
       },
       {
-        "label": "Perioada de graţie",
+        "label": "Lead time",
         "value": "Confirmat pe comanda",
         "desc": "Partajat cu citatul"
       },
@@ -966,7 +982,7 @@
         "Volumul și modelul cilindrului",
         "Tip de supapă și standard de conectare",
         "Standarde cerute pentru piața de destinație",
-        "Culoarea, marcarea și ambalajul OEM",
+        "OEM colour, marking and packaging",
         "Volumul comenzilor și Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produs",
       "MOQ",
       "Preţ",
-      "Perioada de graţie"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certificare pe piața SUA"
+        "desc": "Standardul cilindrului de pe piața SUA – aplicabilitatea confirmată pe produs și comandă"
       },
       {
         "name": "TPED",
-        "desc": "Directiva europeană a transporturilor"
+        "desc": "Cerințe europene de transport — discutate pe piața de destinație"
       },
       {
         "name": "GB 5099",
         "desc": "Cilindru de gaz chinezesc standard"
       },
       {
-        "name": "Marcaj CE",
-        "desc": "Cerințe europene de conformitate"
+        "name": "CE Mark",
+        "desc": "Marcajul european de conformitate — aplicabilitate pe produs și pe piață"
       }
     ]
   },
@@ -1072,31 +1088,31 @@
         "quote": "Cotația a venit în aceeași zi cu un MOQ clar și un termen de livrare. Sticlele de propan au sosit cu supape POL și o listă completă de ambalare - fără întârzieri vamale din partea noastră.",
         "author": "Aigerim Bekova",
         "role": "Manager achizitii, aprovizionare industriala",
-        "country": "Kazahstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Cumpărăm butelii cu regulatoare și furtunuri ca o comandă de container. Documentele și marcarea erau gata pentru piața noastră, așa că revânzarea a fost simplă.",
         "author": "Faisal Al-Harbi",
         "role": "Cumpărător import, comercializare echipamente gaz",
-        "country": "Arabia Saudită"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "sudare",
+        "id": "welding",
         "eyebrow": "Cilindri de acetilenă",
         "title": "Flacără stabilă pentru sudare de precizie",
         "text": "Cilindri de acetilenă dizolvată proiectați pentru sudare și lipire continuă - presiune constantă, masă poroasă sigură, supape gata de export.",
         "points": [
           "Opțiuni ISO / DOT / GB",
           "Supape CGA / GOST / DIN",
-          "Culoare și marcaj OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "tăiere",
+        "id": "cutting",
         "eyebrow": "Tăiere și fabricare",
         "title": "Putere atunci când metalul trebuie să se miște",
         "text": "Seturi de cilindri de acetilenă și oxigen cu debit mare pentru șantiere navale, ateliere și linii grele de fabricație.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan și GPL",
         "title": "Butelii GPL durabile pentru fiecare piață",
         "text": "De la încălzire și gătit gaz până la tăiere industrială - cilindri de oțel construiti pentru presiune, acoperire și durată lungă de viață.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabrică",
+        "id": "factory",
         "eyebrow": "Fabricarea",
         "title": "Controlul fabricii de la oțel până la livrare",
         "text": "Formare internă, sudare, testare hidrostatică și finisare - astfel încât fiecare lot să se potrivească cu desenul și standardul de piață.",
         "points": [
           "Testat hidrostatic",
           "Loturi trasabile",
-          "Pregătit OEM/ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "calitate",
+        "id": "quality",
         "eyebrow": "Calitate și siguranță",
         "title": "Inspecție puteți pune în cotație",
         "text": "Verificări materiale, teste de scurgere, cuplul supapelor și fotografiile ambalajului. Pachetele de certificate și rapoartele foto sunt trimise în mod privat la cerere.",
@@ -1181,8 +1197,8 @@
       "Carcase cilindrice nevopsite cu gâturile deschise după sudare"
     ],
     "refrigeration": [
-      "Unitate de condensare răcită cu aer cu compresor semi-ermetic Copeland",
-      "Unitate de condensare răcită cu aer cu compresor semiermetic Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Unitate de condensare frigorifică închisă în stil dulap",
       "Unitate de condensare cu patru ventilatoare de mare capacitate, răcită cu aer"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Accesorii pentru produse",
     "subtitle": "Piese pentru cilindri de acetilena, generatoare, sudare si taiere. Deschideți Detalii pentru specificații și aplicații.",
     "cta": "Solicitați detalii",
-    "details": "Detalii",
+    "details": "Details",
     "close": "Aproape",
     "featuresLabel": "Caracteristici cheie",
     "specsLabel": "Specificații",
-    "applicationsLabel": "Aplicații",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Calitate și aprovizionare",
     "whyTitle": "De ce să ne alegem accesoriile?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Conexiuni standard pentru instalare și înlocuire rapidă"
         ],
         "specs": [
-          "Gaz: acetilenă (C2H2); opritoare de oxigen furnizate separat",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Corp: alamă; opritor: oțel inoxidabil",
           "Conexiune: G 3/8″ LH sau filet personalizat",
           "Presiune de lucru: până la 1,5 MPa / personalizat",
@@ -1308,13 +1324,13 @@
           "Inspecție de siguranță și funcționare 100%."
         ],
         "specs": [
-          "Gaz: acetilenă, oxigen, argon, azot și gaze compatibile",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Presiune de lucru: clasa 25 / 35 bar",
           "Presiune de testare: clasa 37,5 / 52,5 bar",
           "Intrare/ieșire: internă sau externă, personalizat",
           "Roată de mână: aliaj de aluminiu/zinc",
           "Temperatura: -20 °C până la +60 °C",
-          "Standarde: ISO 10297, GB/T 8335, CGA sau personalizate",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Ambalare: 1 buc/pungă, 50 buc/cutie"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6 / 8 / 9 / 10 / 12 / 13 mm (disponibil la comandă)",
           "Lungime: 10 / 20 / 30 / 50 / 100 m sau la comanda",
           "Culoare: albastru standard; material SBR / EPDM + fire de poliester",
-          "Standarde: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: -20 °C până la +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Game multiple și monturi de jos/spate"
         ],
         "specs": [
-          "Gaz: acetilenă, oxigen, argon, CO₂, azot și gaze compatibile",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Cadran: 50 / 63 / 100 mm, disponibil personalizat",
           "Interval: 0–1 bar până la 0–400 bar, personalizat",
           "Precizie: ±2,5% standard, ±1,6% opțional",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Testare 100% înainte de livrare",
-          "Cadran OEM și opțiuni de branding",
+          "OEM dial and branding options",
           "Ambalare de export"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Presiuni setate multiple și dimensiuni ale filetului"
         ],
         "specs": [
-          "Gaz: oxigen, acetilenă, aer, azot și gaze compatibile",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Presiune de lucru: până la 25 bar / 25 kg/cm²",
           "Interval de relief: 0,1–2,5 MPa, personalizabil",
           "Temperatura: -20 °C până la +120 °C",
@@ -1495,7 +1511,7 @@
           "Sprijină filtrarea eficientă în conducta de gaz",
           "Constructie industriala din alama / metal",
           "Porturi filetate standard pentru potrivirea sistemului",
-          "Filet OEM, dimensiunea și ambalajul la cerere"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rol: convertor filtru / cap adaptor",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtra",
+        "title": "Filter",
         "desc": "Filtru de înaltă eficiență care elimină umezeala, uleiul și particulele pentru a proteja echipamentele din aval.",
         "intro": "Îndepărtează particulele solide, apa, uleiul și alte impurități din fluxul de gaz pentru a proteja echipamentul și pentru a prelungi durata de viață. Cap din alama, element de calitate si functionare stabila sub presiune. Pentru oxigen, acetilenă, aer, azot și gaze compatibile.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Funcționare stabilă sub presiune de lucru"
         ],
         "specs": [
-          "Gaz: oxigen, acetilenă, aer, azot și gaze compatibile",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Presiune de intrare: până la 2,5 MPa",
           "Presiune de lucru: 0,01–1,6 MPa",
           "Precizie: 5 / 20 / 50 μm opțional",
@@ -1625,19 +1641,19 @@
       "Răcitoare industriale de apă",
       "Unități frigorifice pentru vehicule și camere frigorifice mobile"
     ],
-    "note": "Wanda International Trade furnizează echipamente de refrigerare pe lângă linia de butelii de gaz: unități, panouri, răcitoare și hardware aferente lanțului de frig. Copeland, Bitzer și nume similare se referă la marca compresorului din interiorul unității, nu o rebrand-ul acelor companii.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video companie",
     "videoSubtitle": "Prezentare generală a liniei de echipamente frigorifice. Mai multe imagini sunt trimise în privat la cerere.",
     "items": [
       {
-        "title": "Unitate copeland semi-ermetică răcită cu aer",
-        "spec": "Unitate de condensare · Compresor Copeland",
-        "desc": "Unitate de condensare răcită cu aer cu compresor semi-ermetic Copeland pentru camere frigorifice și funcționare la temperatură medie."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Unitate de răcire cu aer semiermetică Bitzer",
-        "spec": "Unitate de condensare · Compresor Bitzer",
-        "desc": "Unitate de condensare răcită cu aer cu un compresor semi-ermetic Bitzer pentru încăperi cu sarcini mai mari și temperaturi medii până la joase."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Unitate de tip cutie închisă",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Sunteți gata să solicitați o cotație?",
       "quoteCta": "Solicitați o cotație",
       "relatedProducts": "Produse înrudite",
-      "applications": "Aplicații",
+      "applications": "Applications",
       "standardsTitle": "Standarde și certificare",
-      "oemTitle": "OEM / personalizare",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Ambalare și livrare",
       "placeholders": {
         "standards": "Standardele și certificatele disponibile sunt confirmate pe comandă și pe piața de destinație. Copiile certificatelor sunt trimise în mod privat la cerere - fișierele nu sunt publicate pe site.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
       "seoTitle": "Produse pentru butelii de gaz",
       "seoDescription": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
-      "refrigerationNote": "Wanda International Trade furnizează echipamente de refrigerare pe lângă linia de butelii de gaz: unități, panouri, răcitoare și hardware aferente lanțului de frig. Copeland, Bitzer și nume similare se referă la marca compresorului din interiorul unității, nu o rebrand-ul acelor companii.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindri de acetilenă dizolvați",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Butelii de propan",
-          "overview": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+          "overview": "Butelii de oțel pentru depozitarea și transportul gazului propan. Folosit pentru încălzire, alimentare cu propan industrial, gătit și tăiere cu oxicombustibil atunci când este asociat cu acetilenă.",
           "seoTitle": "Butelii de gaz propan",
-          "seoDescription": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial."
+          "seoDescription": "Butelii de gaz propan din oțel pentru încălzire, alimentare industrială și aplicații de tăiere. Opțiunile de export și OEM discutate pe comandă."
         },
         "lpg": {
           "name": "Butelii GPL",
-          "overview": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+          "overview": "Butelii pentru gaz petrolier lichefiat (GPL) — propan, butan sau amestecuri mixte. Obișnuit pentru distribuția GPL rezidențială și comercială, camping, încălzire și alimentare portabilă cu combustibil.",
           "seoTitle": "Butelii de gaz GPL",
-          "seoDescription": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial."
+          "seoDescription": "Butelii GPL pentru distribuția și alimentarea portabilă de gaz petrolier lichefiat rezidențial, comercial și industrial."
         },
         "industrial": {
           "name": "Butelii de gaz industriale",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM și comerț cu ridicata",
+      "title": "OEM and Wholesale",
       "subtitle": "Etichetă privată și opțiuni de aprovizionare în vrac pentru distribuitori și cumpărători industriali.",
-      "seoTitle": "Aprovizionare cu cilindru de gaz OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Producție de butelii de gaz OEM și private label pentru mărci și distribuitori de peste mări.",
       "quoteTitle": "Discutați cerințele OEM",
       "quoteCta": "Solicitați cotație OEM",
@@ -1799,7 +1815,7 @@
           "text": "Exportați cutii de carton, paleți și mărci de ambalare la comandă."
         },
         {
-          "title": "Etichetă privată",
+          "title": "Private Label",
           "text": "Etichetare și prezentare a mărcii pentru canalele de distribuție."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Cantități angro pentru achiziție de proiect și distribuitor."
         },
         {
-          "title": "Producție OEM",
+          "title": "OEM Manufacturing",
           "text": "Configurația produsului aliniată cu specificațiile și piața dvs."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Cumpărători industriali care evaluează furnizarea de cilindri de export."
         },
         {
-          "title": "America Latină",
+          "title": "Latin America",
           "text": "Întrebări pentru aprovizionare cu butelie de gaz industrial și accesorii."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplicații",
+      "label": "Applications",
       "title": "Aplicații pentru cilindri",
       "subtitle": "Produse concepute pentru sarcini industriale obișnuite privind gazele și cerințele cumpărătorilor de peste mări.",
       "seoTitle": "Aplicații pentru cilindri",

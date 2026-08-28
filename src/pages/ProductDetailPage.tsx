@@ -202,7 +202,9 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
           <div className="product-detail__block">
             <h2 className="product-detail__heading">{t.pages.common.applications}</h2>
             <ul className="product-detail__list">
-              {t.applications.items.map((item) => (
+              {(product.slug === 'refrigeration'
+                ? t.applications.refrigerationItems
+                : t.applications.items).map((item) => (
                 <li key={item}>{item}</li>
               ))}
             </ul>

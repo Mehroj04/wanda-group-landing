@@ -2,6 +2,7 @@ import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { images } from '../config/images'
 import { routes } from '../config/routes'
+import OperationsInfo from './OperationsInfo'
 import './About.css'
 
 export default function About() {
@@ -26,6 +27,7 @@ export default function About() {
           <span className="section-label">{t.ui.about}</span>
           <h2 className="section-title about__title">{t.about.title}</h2>
           <p className="about__text">{t.about.text}</p>
+          <OperationsInfo />
           <ul className="about__facts">
             {t.about.facts.map((fact) => (
               <li key={fact.title}>

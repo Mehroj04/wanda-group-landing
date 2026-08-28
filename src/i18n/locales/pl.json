@@ -3,16 +3,16 @@
     "home": "Dom",
     "products": "Produkty",
     "specs": "Dane techniczne",
-    "applications": "Aplikacje",
+    "applications": "Applications",
     "about": "O",
-    "gallery": "Galeria",
+    "gallery": "Gallery",
     "factory": "Fabryka",
     "quality": "Jakość",
-    "faq": "Często zadawane pytania",
-    "contact": "Kontakt",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Uzyskaj wycenę",
     "inquire": "Zapytaj →",
-    "services": "Usługi",
+    "services": "Services",
     "pricing": "Wycena",
     "accessories": "Akcesoria",
     "refrigeration": "Przechowywanie na zimno",
@@ -120,7 +120,23 @@
       "Budowa",
       "Produkcja metalu",
       "Magazynowanie i dystrybucja gazu"
+    ],
+    "refrigerationItems": [
+      "Komory chłodnicze i chłodnie",
+      "Przetwórstwo i dystrybucja żywności",
+      "Supermarkety i detaliczne sieci chłodnicze",
+      "Chłodnie farmaceutyczne i medyczne",
+      "Logistyka i transport chłodniczy",
+      "Chłodzenie przemysłowe i agregaty chłodnicze procesowe"
     ]
+  },
+  "operations": {
+    "title": "Operacje globalne",
+    "manufacturingBase": "Baza produkcyjna",
+    "manufacturingCountry": "Chiny",
+    "intlSalesOffice": "Międzynarodowe Biuro Sprzedaży",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Nasza działalność produkcyjna mieści się w Chinach, a nasz międzynarodowy zespół sprzedaży w Uzbekistanie obsługuje klientów na całym świecie."
   },
   "whyUs": {
     "title": "Dlaczego warto wybrać Grupy Wanda",
@@ -131,7 +147,7 @@
         "desc": "Zaopatrzenie w produkty zorientowane na produkcję, a nie tylko na handel katalogami."
       },
       {
-        "title": "Wsparcie OEM",
+        "title": "OEM support",
         "desc": "Niestandardowy kolor, oznaczenie, zawór i opakowanie omawiane są na zamówienie."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Formowanie, spawanie, testowanie i wykańczanie przemysłowych butli do gazów."
       },
       {
-        "title": "Wsparcie OEM",
+        "title": "OEM Support",
         "desc": "Kolor, oznaczenie, zawór, nasadka i opcje pakowania na zamówienie."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Podaj nam produkt, rozmiar, ilość, kraj docelowy i specyfikacje — nasz zespół sprzedaży prześle informacje o produkcie i wycenę.",
     "formTitle": "Poproś o wycenę",
     "formSubtitle": "Wypełnij formularz zapytania handlowego. Pola wymagane są zaznaczone.",
-    "name": "Nazwa",
+    "name": "Name",
     "company": "Firma",
     "phone": "Telefon/WhatsApp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Typ zaworu, kolor, standard, opakowanie, oznaczenie OEM, uwagi dotyczące ilości..."
   },
   "footer": {
-    "company": "Producent Butli Gazowych Grupa Wanda",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesjonalna produkcja butli gazowych",
     "rights": "© 2026 Grupa Wanda. Wszelkie prawa zastrzeżone.",
     "privacy": "Polityka prywatności",
     "terms": "Warunki użytkowania"
   },
   "privacy": {
-    "label": "Prawny",
+    "label": "Legal",
     "title": "Polityka prywatności",
     "updated": "Ostatnia aktualizacja: 25 sierpnia 2026 r",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Pytania dotyczące tej polityki:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Szczegółowe specyfikacje produktu",
     "catalogSubtitle": "Kompletne dane techniczne, modele i parametry dla każdej kategorii. Wybierz produkt, aby wyświetlić tabelę specyfikacji.",
     "requestPrice": "Zapytaj o cenę tego modelu",
-    "services": "Usługi",
+    "services": "Services",
     "pricing": "Wycena",
     "getExactQuote": "Uzyskaj dokładną wycenę",
     "certifications": "Certyfikaty",
     "order": "Zamówienie",
     "reviews": "Recenzje",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Lokalizacja",
     "quoteResponse": "Odpowiedź na cytat",
@@ -570,18 +586,18 @@
     "countriesServed": "Wsparcie eksportu",
     "exportReady": "Eksport gotowy",
     "years": "Lata",
-    "acetylene": "Acetylen",
+    "acetylene": "Acetylene",
     "isoCertified": "Certyfikat ISO",
     "globalExport": "Globalny eksport",
     "products": "Produkty",
     "specs": "Dane techniczne",
-    "applications": "Aplikacje",
+    "applications": "Applications",
     "whyUs": "Dlaczego my",
     "about": "O nas",
-    "gallery": "Galeria",
+    "gallery": "Gallery",
     "quality": "Jakość",
-    "faq": "Często zadawane pytania",
-    "blog": "Bloga",
+    "faq": "FAQ",
+    "blog": "Blog",
     "searchLanguage": "Wyszukaj język...",
     "noLanguagesFound": "Nie znaleziono języków",
     "breadcrumb": "Bułka tarta",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / marka prywatna",
+    "OEM / Private Label",
     "Eksport międzynarodowy",
     "Kontrola jakości",
     "Standardy rynkowe na żądanie",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetylen",
-      "propane": "Propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Akcesoria"
     },
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Objętość (L)",
-        "Gaz (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Waga (kg)",
@@ -831,19 +847,19 @@
         [
           "regulatory",
           "WG-R510, WG-R580",
-          "CGA510/580",
+          "CGA 510/580",
           "Acetylen, propan"
         ],
         [
           "Wskaźniki",
           "WG-G63, WG-G100",
-          "ISO5171",
+          "ISO 5171",
           "Monitorowanie ciśnienia"
         ],
         [
           "Węże",
           "WG-H6, WG-H9",
-          "PL 559",
+          "EN 559",
           "Spawanie, cięcie"
         ],
         [
@@ -879,7 +895,7 @@
         "points": [
           "Logo i kolor RAL",
           "Zawór standardowy na rynku",
-          "Opakowania i etykiety OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Zależy od modelu i miejsca docelowego"
       },
       {
-        "label": "Czas realizacji",
+        "label": "Lead time",
         "value": "Potwierdzone na zamówienie",
         "desc": "Udostępniono wraz z cytatem"
       },
@@ -966,7 +982,7 @@
         "Pojemność i model cylindra",
         "Typ zaworu i standard podłączenia",
         "Standardy wymagane na rynku docelowym",
-        "Kolor OEM, oznakowanie i opakowanie",
+        "OEM colour, marking and packaging",
         "Wielkość zamówienia i Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produkt",
       "MOQ",
       "Cena",
-      "Czas realizacji"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certyfikat rynku amerykańskiego"
+        "desc": "Standard butli na rynku amerykańskim — zastosowanie potwierdzone dla każdego produktu i zamówienia"
       },
       {
         "name": "TPED",
-        "desc": "Europejska dyrektywa transportowa"
+        "desc": "Europejskie wymagania transportowe – omówione dla poszczególnych rynków docelowych"
       },
       {
         "name": "GB 5099",
         "desc": "Chińska norma dotycząca butli gazowych"
       },
       {
-        "name": "Znak CE",
-        "desc": "Europejskie wymagania zgodności"
+        "name": "CE Mark",
+        "desc": "Europejskie oznakowanie zgodności — zastosowanie dla każdego produktu i rynku"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "W tym roku trzy razy zamawialiśmy butle z acetylenem o pojemności 40 litrów. Zawory GOST, kolor OEM i opakowanie eksportowe za każdym razem odpowiadały pierwszej próbce.",
-        "author": "Rustam Jusupow",
+        "author": "Rustam Yusupov",
         "role": "Właściciel, dystrybutor gazów spawalniczych",
         "country": "Uzbekistan"
       },
       {
         "quote": "Wycena przyszła tego samego dnia z wyraźnym MOQ i czasem realizacji. Butelki z propanem dotarły z zaworami POL i pełną listą przewozową — z naszej strony nie było żadnych opóźnień celnych.",
-        "author": "Aigerima Bekova",
+        "author": "Aigerim Bekova",
         "role": "Kierownik zakupów, zaopatrzenie przemysłu",
-        "country": "Kazachstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Butle z reduktorami i wężami kupujemy w ramach jednego zamówienia kontenerowego. Dokumenty i oznaczenia były gotowe na nasz rynek, więc odsprzedaż była prosta.",
-        "author": "Faisala Al-Harbi",
+        "author": "Faisal Al-Harbi",
         "role": "Kupiec importowy, handel sprzętem gazowym",
-        "country": "Arabia Saudyjska"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "spawalniczy",
+        "id": "welding",
         "eyebrow": "Butle z acetylenem",
         "title": "Stabilny płomień do precyzyjnego spawania",
         "text": "Butle z rozpuszczonym acetylenem zaprojektowane do ciągłego spawania i lutowania — stałe ciśnienie, bezpieczna porowata masa, zawory gotowe do eksportu.",
         "points": [
           "Opcje ISO / DOT / GB",
           "Zawory CGA/GOST/DIN",
-          "Kolor i oznaczenie OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "cięcie",
+        "id": "cutting",
         "eyebrow": "Cięcie i produkcja",
         "title": "Moc, gdy metal musi się poruszać",
         "text": "Zestawy butli przystosowanych do acetylenu i tlenu o wysokim przepływie dla stoczni, warsztatów i ciężkich linii produkcyjnych.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan i LPG",
         "title": "Trwałe butle LPG na każdy rynek",
         "text": "Od ogrzewania i gotowania na gazie po cięcie przemysłowe — cylindry stalowe zbudowane z myślą o ciśnieniu, powlekaniu i długiej żywotności.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabryka",
+        "id": "factory",
         "eyebrow": "Produkcja",
         "title": "Kontrola fabryczna od stali do wysyłki",
         "text": "Formowanie, spawanie, testy hydrostatyczne i wykańczanie we własnym zakresie – dzięki czemu każda partia odpowiada Twojemu rysunkowi i standardom rynkowym.",
         "points": [
           "Testowany hydrostatycznie",
           "Identyfikowalne partie",
-          "Gotowy do OEM/ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "jakość",
+        "id": "quality",
         "eyebrow": "Jakość i bezpieczeństwo",
         "title": "Inspekcję możesz umieścić w wycenie",
         "text": "Kontrole materiałów, testy szczelności, moment obrotowy zaworu i zdjęcia opakowań. Pakiety certyfikatów i fotoreportaże wysyłamy prywatnie na życzenie.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "eksport",
+        "id": "export",
         "eyebrow": "Globalny eksport",
         "title": "Zapakowane do portów, gotowe na rynki eksportowe",
         "text": "Eksportuj palety, zabezpieczenia zaworów, wielojęzyczne etykiety i dokumenty wysyłkowe skoordynowane z Incoterms Twojego miejsca docelowego.",
@@ -1181,8 +1197,8 @@
       "Niemalowane panewki cylindrów z otwartymi szyjkami po spawaniu"
     ],
     "refrigeration": [
-      "Agregat skraplający chłodzony powietrzem ze sprężarką półhermetyczną Copeland",
-      "Agregat skraplający chłodzony powietrzem z półhermetyczną sprężarką Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Zamknięty agregat chłodniczy w formie szafy",
       "Agregat skraplający chłodzony powietrzem o dużej wydajności, wyposażony w cztery wentylatory"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Akcesoria do produktów",
     "subtitle": "Części do butli z acetylenem, generatorów, spawanie i cięcie. Otwórz szczegóły, aby zapoznać się ze specyfikacjami i aplikacjami.",
     "cta": "Zapytaj o szczegóły",
-    "details": "Bliższe dane",
+    "details": "Details",
     "close": "Zamknąć",
     "featuresLabel": "Kluczowe funkcje",
     "specsLabel": "Dane techniczne",
-    "applicationsLabel": "Aplikacje",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Jakość i dostawa",
     "whyTitle": "Dlaczego warto wybrać nasze akcesoria?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standardowe złącza umożliwiające szybką instalację i wymianę"
         ],
         "specs": [
-          "Gaz: acetylen (C₂H₂); pochłaniacze tlenu dostarczane oddzielnie",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Korpus: mosiądz; ogranicznik: stal nierdzewna",
           "Przyłącze: G 3/8″ LH lub gwint niestandardowy",
           "Ciśnienie robocze: do 1,5 MPa / dostosowane",
@@ -1308,13 +1324,13 @@
           "100% kontrola bezpieczeństwa i działania"
         ],
         "specs": [
-          "Gaz: acetylen, tlen, argon, azot i gazy kompatybilne",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Ciśnienie robocze: klasa 25 / 35 bar",
           "Ciśnienie próbne: klasa 37,5 / 52,5 bar",
           "Wlot/wylot: wewnętrzny lub zewnętrzny, dostosowany",
           "Pokrętło: stop aluminium/cynku",
           "Temperatura: -20°C do +60°C",
-          "Normy: ISO 10297, GB/T 8335, CGA lub niestandardowe",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Pakowanie: 1 szt./worek, 50 szt./opakowanie"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (dostępne na zamówienie)",
           "Długość: 10 / 20 / 30 / 50 / 100 m lub niestandardowa",
           "Kolor: standardowy niebieski; materiał SBR/EPDM + przędza poliestrowa",
-          "Normy: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: -20°C do +80°C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Wiele zakresów i mocowania dolne/tylne"
         ],
         "specs": [
-          "Gaz: acetylen, tlen, argon, CO₂, azot i kompatybilne gazy",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Tarcza: 50 / 63 / 100 mm, dostępna na zamówienie",
           "Zakres: 0–1 bar do 0–400 bar, niestandardowe",
           "Dokładność: ±2,5% standardowo, ±1,6% opcjonalnie",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% testów przed dostawą",
-          "Opcje wybierania i brandingu OEM",
+          "OEM dial and branding options",
           "Opakowanie eksportowe"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Wiele ustawionych ciśnień i rozmiarów gwintów"
         ],
         "specs": [
-          "Gaz: tlen, acetylen, powietrze, azot i kompatybilne gazy",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Ciśnienie robocze: do 25 bar / 25 kg/cm²",
           "Zakres podciśnienia: 0,1–2,5 MPa, konfigurowalny",
           "Temperatura: -20°C do +120°C",
@@ -1495,7 +1511,7 @@
           "Wspomaga skuteczną filtrację w przewodzie gazowym",
           "Przemysłowa konstrukcja z mosiądzu/metalu",
           "Standardowe porty gwintowane do dopasowania systemu",
-          "Gwint OEM, rozmiar i opakowanie na żądanie"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rola: konwerter filtra / głowica adaptera",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtr",
+        "title": "Filter",
         "desc": "Filtr o wysokiej wydajności, który usuwa wilgoć, olej i cząstki, aby chronić dalszy sprzęt.",
         "intro": "Usuwa cząstki stałe, wodę, olej i inne zanieczyszczenia ze strumienia gazu, chroniąc sprzęt i przedłużając jego żywotność. Mosiężna główka, element jakościowy i stabilna praca pod ciśnieniem. Do tlenu, acetylenu, powietrza, azotu i gazów kompatybilnych.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Stabilna praca pod ciśnieniem roboczym"
         ],
         "specs": [
-          "Gaz: tlen, acetylen, powietrze, azot i kompatybilne gazy",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Ciśnienie wlotowe: do 2,5 MPa",
           "Ciśnienie robocze: 0,01–1,6 MPa",
           "Dokładność: opcjonalnie 5 / 20 / 50 µm",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Prawny",
+    "label": "Legal",
     "title": "Warunki użytkowania",
     "updated": "Ostatnia aktualizacja: 27 sierpnia 2026 r",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Przemysłowe agregaty wody lodowej",
       "Samochodowe agregaty chłodnicze i mobilne komory chłodnicze"
     ],
-    "note": "Wanda International Trade dostarcza sprzęt chłodniczy wraz z linią butli gazowych: agregaty, panele, chłodnice i powiązany osprzęt łańcucha chłodniczego. Copeland, Bitzer i podobne nazwy odnoszą się do marki sprężarki znajdującej się wewnątrz urządzenia, a nie do rebrandingu tych firm.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Film firmowy",
     "videoSubtitle": "Przegląd linii urządzeń chłodniczych. Na życzenie więcej materiałów przesyłam prywatnie.",
     "items": [
       {
-        "title": "Półhermetyczna jednostka chłodzona powietrzem Copeland",
-        "spec": "Agregat skraplający · Sprężarka Copeland",
-        "desc": "Agregat skraplający chłodzony powietrzem z półhermetyczną sprężarką Copeland do komór chłodniczych i pracy średniotemperaturowej."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Półhermetyczna jednostka Bitzer chłodzona powietrzem",
-        "spec": "Agregat skraplający · Sprężarka Bitzer",
-        "desc": "Agregat skraplający chłodzony powietrzem z półhermetyczną sprężarką Bitzer do pomieszczeń o większym obciążeniu i średnich i niskich temperaturach."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Zamknięta jednostka typu skrzynkowego",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Chcesz poprosić o wycenę?",
       "quoteCta": "Poproś o wycenę",
       "relatedProducts": "Powiązane produkty",
-      "applications": "Aplikacje",
+      "applications": "Applications",
       "standardsTitle": "Normy i certyfikaty",
-      "oemTitle": "OEM/dostosowanie",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pakowanie i dostawa",
       "placeholders": {
         "standards": "Dostępne standardy i certyfikaty potwierdzane są w zależności od zamówienia i rynku docelowego. Kopie certyfikatów wysyłamy na życzenie prywatnie – pliki nie są publikowane na stronie.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Butle z acetylenem, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
       "seoTitle": "Produkty z butli gazowych",
       "seoDescription": "Butle z acetylenem, generatory, butle z propanem i akcesoria do zastosowań przemysłowych i spawalniczych.",
-      "refrigerationNote": "Wanda International Trade dostarcza sprzęt chłodniczy wraz z linią butli gazowych: agregaty, panele, chłodnice i powiązany osprzęt łańcucha chłodniczego. Copeland, Bitzer i podobne nazwy odnoszą się do marki sprężarki znajdującej się wewnątrz urządzenia, a nie do rebrandingu tych firm.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Butle z rozpuszczonym acetylenem",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Butle z propanem",
-          "overview": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy.",
+          "overview": "Butle stalowe do przechowywania i transportu gazu propanowego. Stosowany do ogrzewania, przemysłowego zaopatrzenia w propan, gotowania i cięcia tlenowo-paliwowego w połączeniu z acetylenem.",
           "seoTitle": "Butle z propanem",
-          "seoDescription": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy."
+          "seoDescription": "Stalowe butle z propanem do zastosowań grzewczych, dostaw przemysłowych i cięcia. Opcje eksportu i OEM omawiane dla każdego zamówienia."
         },
         "lpg": {
           "name": "Butle LPG",
-          "overview": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy.",
+          "overview": "Butle na gaz płynny (LPG) – propan, butan lub mieszanki mieszane. Powszechnie stosowane w dystrybucji LPG w budynkach mieszkalnych i komercyjnych, na kempingach, w ogrzewaniu i w przenośnych instalacjach paliwowych.",
           "seoTitle": "Butle z gazem LPG",
-          "seoDescription": "Butle na mieszaniny propanu, butanu i LPG. Stosowane w ogrzewaniu, cięciu, lutowaniu, budownictwie i zaopatrzeniu w gaz przemysłowy."
+          "seoDescription": "Butle LPG do dystrybucji skroplonego gazu ropopochodnego w budynkach mieszkalnych, komercyjnych i przemysłowych oraz do dystrybucji przenośnej."
         },
         "industrial": {
           "name": "Przemysłowe butle gazowe",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM i sprzedaż hurtowa",
+      "title": "OEM and Wholesale",
       "subtitle": "Opcje marek własnych i dostaw hurtowych dla dystrybutorów i odbiorców przemysłowych.",
-      "seoTitle": "Dostawa butli z gazem OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Produkcja butli gazowych OEM i pod marką własną dla zagranicznych marek i dystrybutorów.",
       "quoteTitle": "Omów wymagania OEM",
       "quoteCta": "Poproś o wycenę OEM",
@@ -1799,7 +1815,7 @@
           "text": "Eksportuj kartony, palety i znaki pakowania na zamówienie."
         },
         {
-          "title": "Etykieta prywatna",
+          "title": "Private Label",
           "text": "Etykietowanie i prezentacja marki dla kanałów dystrybutorów."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Ilości hurtowe dla zamówień projektowych i dystrybutorów."
         },
         {
-          "title": "Produkcja OEM",
+          "title": "OEM Manufacturing",
           "text": "Konfiguracja produktu dostosowana do Twojej specyfikacji i rynku."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Na tej stronie nie publikujemy niezweryfikowanych liczb krajów, nazw klientów ani referencji do projektów.",
       "regions": [
         {
-          "title": "Afryka",
+          "title": "Africa",
           "text": "Zapytania przemysłowe i dystrybutorskie z rynków afrykańskich."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Nabywcy przemysłowi oceniający dostawy butli eksportowych."
         },
         {
-          "title": "Ameryka Łacińska",
+          "title": "Latin America",
           "text": "Zapytania dotyczące dostaw butli z gazem przemysłowym i akcesoriów."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplikacje",
+      "label": "Applications",
       "title": "Zastosowania cylindrów",
       "subtitle": "Produkty zaprojektowane do typowych zadań związanych z gazami przemysłowymi i wymagań nabywców zagranicznych.",
       "seoTitle": "Zastosowania cylindrów",
@@ -1884,21 +1900,21 @@
       ]
     },
     "faq": {
-      "label": "Często zadawane pytania",
+      "label": "FAQ",
       "title": "Często zadawane pytania",
       "subtitle": "Firma, produkty, OEM i eksport — odpowiedzi dla zagranicznych nabywców przed złożeniem zapytania o wycenę.",
-      "seoTitle": "Często zadawane pytania",
+      "seoTitle": "FAQ",
       "seoDescription": "Firma, produkty, OEM i eksport — odpowiedzi dla zagranicznych nabywców przed złożeniem zapytania o wycenę."
     },
     "contactPage": {
-      "label": "Kontakt",
+      "label": "Contact",
       "title": "Porozmawiajmy o Twoich wymaganiach",
       "subtitle": "Skontaktuj się z naszym zespołem sprzedaży za pomocą formularza, e-maila lub komunikatora. Udostępnij produkt, ilość i miejsce docelowe, aby uzyskać szybszą wycenę.",
       "seoTitle": "Poproś o wycenę",
       "seoDescription": "Podaj nam rozmiar, ilość, kraj docelowy i zastosowanie – przygotujemy szczegółową wycenę."
     },
     "blog": {
-      "label": "Bloga",
+      "label": "Blog",
       "title": "Najnowsze artykuły",
       "subtitle": "Treści eksperckie dla profesjonalistów zajmujących się spawalnictwem i dostawami gazu.",
       "seoTitle": "Artykuły i przewodniki",

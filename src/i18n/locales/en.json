@@ -120,7 +120,23 @@
       "Construction",
       "Metal Fabrication",
       "Gas Storage & Distribution"
+    ],
+    "refrigerationItems": [
+      "Cold rooms and cold storage facilities",
+      "Food processing and distribution",
+      "Supermarkets and retail cold chains",
+      "Pharmaceutical and medical cold storage",
+      "Logistics and refrigerated transport",
+      "Industrial cooling and process chillers"
     ]
+  },
+  "operations": {
+    "title": "Global Operations",
+    "manufacturingBase": "Manufacturing Base",
+    "manufacturingCountry": "China",
+    "intlSalesOffice": "International Sales Office",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Our manufacturing operations are based in China, while our international sales team in Uzbekistan supports customers worldwide."
   },
   "whyUs": {
     "title": "Why Choose Wanda Groups",
@@ -1017,11 +1033,11 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "US market certification"
+        "desc": "US market cylinder standard — applicability confirmed per product and order"
       },
       {
         "name": "TPED",
-        "desc": "European transport directive"
+        "desc": "European transport requirements — discussed per destination market"
       },
       {
         "name": "GB 5099",
@@ -1029,7 +1045,7 @@
       },
       {
         "name": "CE Mark",
-        "desc": "European conformity requirements"
+        "desc": "European conformity marking — applicability per product and market"
       }
     ]
   },
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propane Cylinders",
-          "overview": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply.",
+          "overview": "Steel cylinders for propane gas storage and transport. Used for heating, industrial propane supply, cooking and oxy-fuel cutting when paired with acetylene.",
           "seoTitle": "Propane Gas Cylinders",
-          "seoDescription": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply."
+          "seoDescription": "Steel propane gas cylinders for heating, industrial supply and cutting applications. Export and OEM options discussed per order."
         },
         "lpg": {
           "name": "LPG Cylinders",
-          "overview": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply.",
+          "overview": "Cylinders for liquefied petroleum gas (LPG) — propane, butane or mixed blends. Common for residential and commercial LPG distribution, camping, heating and portable fuel supply.",
           "seoTitle": "LPG Gas Cylinders",
-          "seoDescription": "Cylinders for propane, butane and LPG mixtures. Used in heating, cutting, brazing, construction and industrial gas supply."
+          "seoDescription": "LPG cylinders for residential, commercial and industrial liquefied petroleum gas distribution and portable supply."
         },
         "industrial": {
           "name": "Industrial Gas Cylinders",

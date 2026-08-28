@@ -3,16 +3,16 @@
     "home": "Domov",
     "products": "Produkty",
     "specs": "Specifikace",
-    "applications": "Aplikace",
+    "applications": "Applications",
     "about": "O",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "factory": "Továrna",
     "quality": "Kvalitní",
     "faq": "FAQ",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "getQuote": "Získejte cenovou nabídku",
     "inquire": "Zeptejte se →",
-    "services": "Služby",
+    "services": "Services",
     "pricing": "Ceny",
     "accessories": "Příslušenství",
     "refrigeration": "Skladování v chladu",
@@ -120,7 +120,23 @@
       "Konstrukce",
       "Kovová výroba",
       "Skladování a distribuce plynu"
+    ],
+    "refrigerationItems": [
+      "Chladírny a chladírny",
+      "Zpracování a distribuce potravin",
+      "Supermarkety a maloobchodní chladírenské řetězce",
+      "Farmaceutické a lékařské chladírny",
+      "Logistika a chlazená doprava",
+      "Průmyslové chlazení a procesní chladiče"
     ]
+  },
+  "operations": {
+    "title": "Globální operace",
+    "manufacturingBase": "Výrobní základna",
+    "manufacturingCountry": "Čína",
+    "intlSalesOffice": "Mezinárodní prodejní kancelář",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Naše výrobní provozy sídlí v Číně, zatímco náš mezinárodní prodejní tým v Uzbekistánu podporuje zákazníky po celém světě."
   },
   "whyUs": {
     "title": "Proč si vybrat Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Dodávka produktů orientovaná na výrobu, nejen obchodní katalogy."
       },
       {
-        "title": "OEM podpora",
+        "title": "OEM support",
         "desc": "Vlastní barva, značení, ventil a balení projednáno na základě objednávky."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Tváření, svařování, testování a konečná úprava lahví na průmyslové plyny."
       },
       {
-        "title": "Podpora OEM",
+        "title": "OEM Support",
         "desc": "Barva, značení, ventil, uzávěr a možnosti balení dle objednávky."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Sdělte nám produkt, velikost, množství, cílovou zemi a specifikace – náš prodejní tým vám odpoví informacemi o produktu a cenovou nabídkou.",
     "formTitle": "Vyžádejte si cenovou nabídku",
     "formSubtitle": "Vyplňte formulář pro obchodní dotaz. Povinná pole jsou označena.",
-    "name": "Jméno",
+    "name": "Name",
     "company": "Společnost",
     "phone": "Telefon / WhatsApp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Typ ventilu, barva, standardní, balení, označení OEM, poznámky k množství..."
   },
   "footer": {
-    "company": "Výrobce plynových lahví Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Profesionální výroba plynových lahví",
     "rights": "© 2026 Wanda Group. Všechna práva vyhrazena.",
     "privacy": "Zásady ochrany osobních údajů",
     "terms": "Podmínky použití"
   },
   "privacy": {
-    "label": "Právní",
+    "label": "Legal",
     "title": "Zásady ochrany osobních údajů",
     "updated": "Poslední aktualizace: 25. srpna 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Otázky týkající se těchto zásad:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Podrobné specifikace produktu",
     "catalogSubtitle": "Kompletní technická data, modely a parametry pro každou kategorii. Chcete-li zobrazit tabulku specifikací, vyberte produkt.",
     "requestPrice": "Vyžádejte si cenu tohoto modelu",
-    "services": "Služby",
+    "services": "Services",
     "pricing": "Ceny",
     "getExactQuote": "Získejte přesnou cenovou nabídku",
     "certifications": "Certifikace",
     "order": "Objednávka",
     "reviews": "Recenze",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Umístění",
     "quoteResponse": "Odpověď na nabídku",
@@ -570,15 +586,15 @@
     "countriesServed": "Podpora exportu",
     "exportReady": "Export připraven",
     "years": "let",
-    "acetylene": "Acetylén",
+    "acetylene": "Acetylene",
     "isoCertified": "Certifikováno ISO",
     "globalExport": "Globální export",
     "products": "Produkty",
     "specs": "Specifikace",
-    "applications": "Aplikace",
+    "applications": "Applications",
     "whyUs": "Proč Nás",
     "about": "O nás",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "quality": "Kvalitní",
     "faq": "FAQ",
     "blog": "Blog",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetylén",
-      "propane": "Propan",
-      "generator": "Generátor",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Příslušenství"
     },
     "acetylene": {
@@ -692,7 +708,7 @@
       "headers": [
         "Model",
         "Objem (L)",
-        "plyn (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Hmotnost (kg)",
@@ -824,7 +840,7 @@
       "headers": [
         "Kategorie",
         "Modelky",
-        "Norma",
+        "Standard",
         "Aplikace"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logo a barva RAL",
           "Standardní ventil na trhu",
-          "OEM balení a štítky"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Záleží na modelu a destinaci"
       },
       {
-        "label": "Dodací lhůta",
+        "label": "Lead time",
         "value": "Potvrzeno na objednávku",
         "desc": "Sdíleno s citací"
       },
@@ -966,7 +982,7 @@
         "Objem a model válce",
         "Typ ventilu a standardní připojení",
         "Normy požadované pro trh destinací",
-        "OEM barva, značení a balení",
+        "OEM colour, marking and packaging",
         "Objem objednávky a Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Produkt",
       "MOQ",
       "Cena",
-      "Dodací lhůta"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certifikace amerického trhu"
+        "desc": "Americký standard pro cylindrické vložky – platnost potvrzena na produkt a objednávku"
       },
       {
         "name": "TPED",
-        "desc": "Evropská dopravní směrnice"
+        "desc": "Evropské požadavky na přepravu – diskutováno podle cílového trhu"
       },
       {
         "name": "GB 5099",
         "desc": "Standardní čínská plynová láhev"
       },
       {
-        "name": "Značka CE",
-        "desc": "Evropské požadavky na shodu"
+        "name": "CE Mark",
+        "desc": "Evropské označení shody – použitelnost na výrobek a trh"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Letos jsme třikrát přeobjednali 40L acetylenové lahve. Ventily GOST, barva OEM a exportní balení pokaždé odpovídaly prvnímu vzorku.",
-        "author": "Rustam Jusupov",
+        "author": "Rustam Yusupov",
         "role": "Majitel, distributor svařovacího plynu",
-        "country": "Uzbekistán"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Nabídka přišla ve stejný den s jasným MOQ a dodací lhůtou. Propanové lahve dorazily s POL ventily a kompletním balicím seznamem – na naší straně žádné celní prodlevy.",
-        "author": "Aigerim Beková",
+        "author": "Aigerim Bekova",
         "role": "Manažer nákupu, průmyslové dodávky",
-        "country": "Kazachstán"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Lahve s regulátory a hadicemi nakupujeme jako jednu objednávku kontejneru. Dokumenty a značení byly připraveny pro náš trh, takže další prodej byl jednoduchý.",
         "author": "Faisal Al-Harbi",
         "role": "Import kupující, obchod s plynovými zařízeními",
-        "country": "Saúdská Arábie"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "svařování",
+        "id": "welding",
         "eyebrow": "Acetylenové lahve",
         "title": "Stabilní plamen pro přesné svařování",
         "text": "Rozpuštěné acetylenové lahve navržené pro nepřetržité svařování a pájení — stálý tlak, bezpečná porézní hmota, ventily připravené na export.",
         "points": [
           "Možnosti ISO / DOT / GB",
           "Ventily CGA / GOST / DIN",
-          "OEM barva a označení"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "řezání",
+        "id": "cutting",
         "eyebrow": "Řezání a výroba",
         "title": "Síla, když se kov musí pohybovat",
         "text": "Sady lahví s vysokým průtokem acetylenu a kyslíku pro loděnice, dílny a těžké výrobní linky.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propan",
+        "id": "propane",
         "eyebrow": "Propan a LPG",
         "title": "Odolné láhve na LPG pro každý trh",
         "text": "Od topného a varného plynu po průmyslové řezání – ocelové lahve vyrobené pro tlak, povrchovou úpravu a dlouhou životnost.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "továrna",
+        "id": "factory",
         "eyebrow": "Výrobní",
         "title": "Tovární kontrola od oceli až po expedici",
         "text": "Vlastní tvarování, svařování, hydrostatické testování a dokončovací práce – takže každá šarže odpovídá vašemu výkresu a tržnímu standardu.",
         "points": [
           "Hydrostaticky testováno",
           "Sledovatelné šarže",
-          "Připraveno pro OEM / ODM"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "kvalitní",
+        "id": "quality",
         "eyebrow": "Kvalita a bezpečnost",
         "title": "Inspekci můžete uvést v nabídce",
         "text": "Kontroly materiálu, testy těsnosti, moment ventilu a fotky balení. Balíčky certifikátů a fotoreportáže zasíláme soukromě na vyžádání.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "vývozní",
+        "id": "export",
         "eyebrow": "Globální export",
         "title": "Baleno pro přístavy, připraveno pro exportní trhy",
         "text": "Exportujte palety, ochranu ventilů, vícejazyčné štítky a přepravní dokumenty koordinované podle Incoterms vaší destinace.",
@@ -1181,8 +1197,8 @@
       "Nelakované pláště válců s otevřenými hrdly po svařování"
     ],
     "refrigeration": [
-      "Vzduchem chlazená kondenzační jednotka s polohermetickým kompresorem Copeland",
-      "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Chladicí kondenzační jednotka ve stylu uzavřené skříně",
       "Vysokokapacitní čtyřventilátorová vzduchem chlazená kondenzační jednotka"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Příslušenství k produktu",
     "subtitle": "Díly pro acetylenové lahve, generátory, svařování a řezání. Otevřete Podrobnosti pro specifikace a aplikace.",
     "cta": "Vyžádejte si podrobnosti",
-    "details": "Podrobnosti",
+    "details": "Details",
     "close": "Blízko",
     "featuresLabel": "Klíčové vlastnosti",
     "specsLabel": "Specifikace",
-    "applicationsLabel": "Aplikace",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Kvalita a nabídka",
     "whyTitle": "Proč zvolit naše příslušenství?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standardní připojení pro rychlou instalaci a výměnu"
         ],
         "specs": [
-          "Plyn: acetylen (C2H2); lapače kyslíku dodávané samostatně",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Tělo: mosaz; pojistka: nerezová ocel",
           "Připojení: G 3/8″ LH nebo přizpůsobený závit",
           "Pracovní tlak: až 1,5 MPa / přizpůsobený",
@@ -1308,13 +1324,13 @@
           "100% kontrola bezpečnosti a funkčnosti"
         ],
         "specs": [
-          "Plyn: acetylen, kyslík, argon, dusík a kompatibilní plyny",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Pracovní tlak: 25 / 35 bar třída",
           "Zkušební tlak: 37,5 / 52,5 bar třída",
           "Vstup/výstup: vnitřní nebo vnější, přizpůsobené",
           "Ruční kolo: slitina hliník / zinek",
           "Teplota: −20 °C až +60 °C",
-          "Normy: ISO 10297, GB/T 8335, CGA nebo vlastní",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Balení: 1 ks/sáček, 50 ks/krabice"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (k dispozici na zakázku)",
           "Délka: 10 / 20 / 30 / 50 / 100 m nebo zakázková",
           "Barva: modrá standardní; materiál SBR / EPDM + polyesterová příze",
-          "Normy: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Teplota: −20 °C až +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Více rozsahů a spodní/zadní upevnění"
         ],
         "specs": [
-          "Plyn: acetylen, kyslík, argon, CO₂, dusík a kompatibilní plyny",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Ciferník: 50 / 63 / 100 mm, k dispozici na zakázku",
           "Rozsah: 0–1 bar až 0–400 bar, vlastní",
           "Přesnost: ±2,5 % standardní, ±1,6 % volitelně",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100% testování před dodáním",
-          "OEM číselník a možnosti značky",
+          "OEM dial and branding options",
           "Exportní balení"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Vícenásobné nastavené tlaky a velikosti závitů"
         ],
         "specs": [
-          "Plyn: kyslík, acetylen, vzduch, dusík a kompatibilní plyny",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Pracovní tlak: do 25 bar / 25 kg/cm²",
           "Rozsah reliéfu: 0,1–2,5 MPa, přizpůsobitelný",
           "Teplota: −20 °C až +120 °C",
@@ -1495,7 +1511,7 @@
           "Podporuje účinnou filtraci v plynovém potrubí",
           "Průmyslová mosaz / kovová konstrukce",
           "Standardní závitové porty pro přizpůsobení systému",
-          "OEM závit, velikost a balení na vyžádání"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Role: převodník filtru / hlava adaptéru",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtr",
+        "title": "Filter",
         "desc": "Vysoce účinný filtr, který odstraňuje vlhkost, olej a částice a chrání následné zařízení.",
         "intro": "Odstraňuje pevné částice, vodu, olej a další nečistoty z proudu plynu pro ochranu zařízení a prodloužení životnosti. Mosazná hlava, kvalitní prvek a stabilní provoz pod tlakem. Pro kyslík, acetylen, vzduch, dusík a kompatibilní plyny.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Stabilní provoz pod pracovním tlakem"
         ],
         "specs": [
-          "Plyn: kyslík, acetylen, vzduch, dusík a kompatibilní plyny",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Vstupní tlak: do 2,5 MPa",
           "Pracovní tlak: 0,01–1,6 MPa",
           "Přesnost: 5 / 20 / 50 μm volitelná",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Právní",
+    "label": "Legal",
     "title": "Podmínky použití",
     "updated": "Poslední aktualizace: 27. srpna 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Průmyslové chladiče vody",
       "Automobilové chladicí jednotky a mobilní chladírny"
     ],
-    "note": "Společnost Wanda International Trade dodává chladicí zařízení vedle řady plynových lahví: jednotky, panely, chladiče a související hardware pro chladicí řetězy. Copeland, Bitzer a podobná jména odkazují na značku kompresoru uvnitř jednotky, nikoli na rebrandu těchto společností.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Firemní video",
     "videoSubtitle": "Přehled řady chladicích zařízení. Další záběry zašlu na vyžádání soukromě.",
     "items": [
       {
-        "title": "Polohermetická vzduchem chlazená jednotka Copeland",
-        "spec": "Kondenzační jednotka · Kompresor Copeland",
-        "desc": "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Copeland pro chladírny a středněteplotní provoz."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Polohermetická vzduchem chlazená jednotka Bitzer",
-        "spec": "Kondenzační jednotka · Bitzer kompresor",
-        "desc": "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Bitzer pro místnosti s vyšší a střední až nízkou teplotou."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Uzavřená jednotka krabicového typu",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Jste připraveni požádat o cenovou nabídku?",
       "quoteCta": "Vyžádejte si cenovou nabídku",
       "relatedProducts": "Související produkty",
-      "applications": "Aplikace",
+      "applications": "Applications",
       "standardsTitle": "Normy a certifikace",
-      "oemTitle": "OEM / přizpůsobení",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Balení a dodání",
       "placeholders": {
         "standards": "Dostupné standardy a certifikáty jsou potvrzeny podle objednávky a cílového trhu. Kopie certifikátů se zasílají soukromě na vyžádání — soubory se na webu nezveřejňují.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
       "seoTitle": "Produkty plynových lahví",
       "seoDescription": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
-      "refrigerationNote": "Společnost Wanda International Trade dodává chladicí zařízení vedle řady plynových lahví: jednotky, panely, chladiče a související hardware pro chladicí řetězy. Copeland, Bitzer a podobná jména odkazují na značku kompresoru uvnitř jednotky, nikoli na rebrandu těchto společností.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Rozpuštěné acetylenové válce",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propanové lahve",
-          "overview": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem.",
+          "overview": "Ocelové lahve pro skladování a přepravu propanového plynu. Používá se pro vytápění, průmyslové dodávky propanu, vaření a řezání kyslíkem ve spojení s acetylenem.",
           "seoTitle": "Propanové plynové lahve",
-          "seoDescription": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem."
+          "seoDescription": "Ocelové propanové plynové lahve pro vytápění, průmyslové dodávky a řezání. Možnosti exportu a OEM diskutovány na objednávku."
         },
         "lpg": {
           "name": "LPG válce",
-          "overview": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem.",
+          "overview": "Lahve na zkapalněný ropný plyn (LPG) – propan, butan nebo směsné směsi. Společné pro obytné a komerční rozvody LPG, kempování, vytápění a přenosné dodávky paliva.",
           "seoTitle": "Plynové lahve LPG",
-          "seoDescription": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem."
+          "seoDescription": "LPG lahve pro rezidenční, komerční a průmyslové rozvody zkapalněného ropného plynu a přenosné zásobování."
         },
         "industrial": {
           "name": "Průmyslové plynové lahve",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM a velkoobchod",
+      "title": "OEM and Wholesale",
       "subtitle": "Možnosti soukromých značek a hromadné dodávky pro distributory a průmyslové nákupčí.",
-      "seoTitle": "OEM dodávka plynových lahví",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Výroba OEM a soukromých plynových lahví pro zámořské značky a distributory.",
       "quoteTitle": "Diskutujte o požadavcích OEM",
       "quoteCta": "Vyžádejte si nabídku OEM",
@@ -1799,7 +1815,7 @@
           "text": "Export kartonů, palet a obalových značek na objednávku."
         },
         {
-          "title": "Soukromá značka",
+          "title": "Private Label",
           "text": "Označování a prezentace značek pro distribuční kanály."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Velkoobchodní množství pro projekt a nákup distributorů."
         },
         {
-          "title": "OEM výroba",
+          "title": "OEM Manufacturing",
           "text": "Konfigurace produktu v souladu s vaší specifikací a trhem."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Na této stránce nezveřejňujeme neověřené počty zemí, jména zákazníků ani reference projektů.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Průmyslové a distributorské dotazy z afrických trhů."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Průmysloví nákupčí hodnotící exportní dodávky lahví."
         },
         {
-          "title": "Latinská Amerika",
+          "title": "Latin America",
           "text": "Dotazy na průmyslové plynové láhve a příslušenství."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Aplikace",
+      "label": "Applications",
       "title": "Aplikace válců",
       "subtitle": "Produkty navržené pro běžné úlohy průmyslového plynu a požadavky zahraničních kupujících.",
       "seoTitle": "Aplikace válců",
@@ -1891,7 +1907,7 @@
       "seoDescription": "Společnost, produkty, OEM a export – odpovědi pro zahraniční kupující, než požádáte o cenovou nabídku."
     },
     "contactPage": {
-      "label": "Kontakt",
+      "label": "Contact",
       "title": "Pojďme probrat vaše požadavky",
       "subtitle": "Kontaktujte náš prodejní tým prostřednictvím formuláře, e-mailu nebo messengeru. Sdílejte produkt, množství a místo určení pro rychlejší cenovou nabídku.",
       "seoTitle": "Vyžádejte si cenovou nabídku",

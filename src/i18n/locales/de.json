@@ -3,16 +3,16 @@
     "home": "Heim",
     "products": "Produkte",
     "specs": "Spezifikationen",
-    "applications": "Anwendungen",
+    "applications": "Applications",
     "about": "Um",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "factory": "Fabrik",
     "quality": "Qualität",
     "faq": "FAQ",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "getQuote": "Holen Sie sich ein Angebot",
     "inquire": "Erkundigen Sie sich →",
-    "services": "Dienstleistungen",
+    "services": "Services",
     "pricing": "Preise",
     "accessories": "Zubehör",
     "refrigeration": "Kühllager",
@@ -120,7 +120,23 @@
       "Konstruktion",
       "Metallverarbeitung",
       "Gasspeicherung und -verteilung"
+    ],
+    "refrigerationItems": [
+      "Kühlräume und Kühllager",
+      "Lebensmittelverarbeitung und -verteilung",
+      "Supermärkte und Kühlketten im Einzelhandel",
+      "Pharmazeutische und medizinische Kühllagerung",
+      "Logistik und Kühltransport",
+      "Industriekühlung und Prozesskühler"
     ]
+  },
+  "operations": {
+    "title": "Globale Operationen",
+    "manufacturingBase": "Produktionsbasis",
+    "manufacturingCountry": "China",
+    "intlSalesOffice": "Internationales Vertriebsbüro",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Unsere Produktionsstätten befinden sich in China, während unser internationales Vertriebsteam in Usbekistan Kunden weltweit unterstützt."
   },
   "whyUs": {
     "title": "Warum Wanda Groups wählen?",
@@ -131,7 +147,7 @@
         "desc": "Produktversorgung orientiert sich an der Produktion, nicht nur an Handelskatalogen."
       },
       {
-        "title": "OEM-Unterstützung",
+        "title": "OEM support",
         "desc": "Kundenspezifische Farbe, Markierung, Ventil und Verpackung werden je nach Bestellung besprochen."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Formen, Schweißen, Prüfen und Veredeln von Industriegasflaschen."
       },
       {
-        "title": "OEM-Unterstützung",
+        "title": "OEM Support",
         "desc": "Farb-, Markierungs-, Ventil-, Kappen- und Verpackungsoptionen auf Bestellung."
       },
       {
@@ -488,7 +504,7 @@
     "requirementsPlaceholder": "Ventiltyp, Farbe, Standard, Verpackung, OEM-Kennzeichnung, Mengenhinweise ..."
   },
   "footer": {
-    "company": "Hersteller von Gasflaschen der Wanda Group",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Professionelle Herstellung von Gasflaschen",
     "rights": "© 2026 Wanda Group. Alle Rechte vorbehalten.",
     "privacy": "Datenschutzrichtlinie",
@@ -552,17 +568,17 @@
     "contactLead": "Fragen zu dieser Richtlinie:"
   },
   "ui": {
-    "catalog": "Katalog",
+    "catalog": "Catalog",
     "catalogTitle": "Detaillierte Produktspezifikationen",
     "catalogSubtitle": "Vollständige technische Daten, Modelle und Parameter für jede Kategorie. Wählen Sie ein Produkt aus, um die Spezifikationstabelle anzuzeigen.",
     "requestPrice": "Preis für dieses Modell anfragen",
-    "services": "Dienstleistungen",
+    "services": "Services",
     "pricing": "Preise",
     "getExactQuote": "Holen Sie sich ein genaues Angebot",
     "certifications": "Zertifizierungen",
     "order": "Befehl",
     "reviews": "Rezensionen",
-    "contact": "Kontakt",
+    "contact": "Contact",
     "phone": "Telefon",
     "location": "Standort",
     "quoteResponse": "Antwort zitieren",
@@ -570,15 +586,15 @@
     "countriesServed": "Exportunterstützung",
     "exportReady": "Exportbereit",
     "years": "Jahre",
-    "acetylene": "Acetylen",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO-zertifiziert",
     "globalExport": "Globaler Export",
     "products": "Produkte",
     "specs": "Spezifikationen",
-    "applications": "Anwendungen",
+    "applications": "Applications",
     "whyUs": "Warum wir",
     "about": "Über uns",
-    "gallery": "Galerie",
+    "gallery": "Gallery",
     "quality": "Qualität",
     "faq": "FAQ",
     "blog": "Blog",
@@ -586,7 +602,7 @@
     "noLanguagesFound": "Keine Sprachen gefunden",
     "breadcrumb": "Semmelbrösel",
     "primaryNav": "Primär",
-    "menu": "Speisekarte",
+    "menu": "Menu",
     "playVideo": "Video abspielen",
     "productGallery": "Produktgalerie",
     "wechatQr": "WeChat QR code",
@@ -604,8 +620,8 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetylen",
-      "propane": "Propan",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
       "generator": "Generator",
       "accessories": "Zubehör"
     },
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Standardmodelle für Acetylenflaschen",
       "headers": [
-        "Modell",
+        "Model",
         "Volumen (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,7 +706,7 @@
       ],
       "tableTitle": "Standard-Propanflaschenmodelle",
       "headers": [
-        "Modell",
+        "Model",
         "Volumen (L)",
         "Gas (kg)",
         "WP (MPa)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Acetylen-Generatormodelle",
       "headers": [
-        "Modell",
+        "Model",
         "Leistung (m³/h)",
         "Karbid (kg/h)",
         "Druck (kPa)",
@@ -879,7 +895,7 @@
         "points": [
           "Logo & RAL-Farbe",
           "Marktübliches Ventil",
-          "OEM-Verpackungen und Etiketten"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -945,12 +961,12 @@
         "desc": "Formelles Angebot nach Prüfung der Anfrage"
       },
       {
-        "label": "Mindestbestellmenge",
+        "label": "MOQ",
         "value": "Bestätigt pro Bestellung",
         "desc": "Abhängig von Modell und Zielort"
       },
       {
-        "label": "Vorlaufzeit",
+        "label": "Lead time",
         "value": "Bestätigt pro Bestellung",
         "desc": "Mit dem Zitat geteilt"
       },
@@ -966,7 +982,7 @@
         "Zylindervolumen und Modell",
         "Ventiltyp und Anschlussstandard",
         "Für den Zielmarkt erforderliche Standards",
-        "OEM-Farbe, Kennzeichnung und Verpackung",
+        "OEM colour, marking and packaging",
         "Auftragsvolumen und Incoterms"
       ]
     },
@@ -998,9 +1014,9 @@
     ],
     "tableHeaders": [
       "Produkt",
-      "Mindestbestellmenge",
+      "MOQ",
       "Preis",
-      "Vorlaufzeit"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "US-Marktzertifizierung"
+        "desc": "Zylinderstandard für den US-Markt – Anwendbarkeit je Produkt und Bestellung bestätigt"
       },
       {
         "name": "TPED",
-        "desc": "Europäische Transportrichtlinie"
+        "desc": "Europäische Transportanforderungen – je Zielmarkt besprochen"
       },
       {
         "name": "GB 5099",
         "desc": "Chinesischer Gasflaschenstandard"
       },
       {
-        "name": "CE-Kennzeichnung",
-        "desc": "Europäische Konformitätsanforderungen"
+        "name": "CE Mark",
+        "desc": "Europäische Konformitätskennzeichnung – Anwendbarkeit pro Produkt und Markt"
       }
     ]
   },
@@ -1064,39 +1080,39 @@
     "items": [
       {
         "quote": "Wir haben dieses Jahr dreimal 40-Liter-Acetylenflaschen nachbestellt. GOST-Ventile, OEM-Farbe und Exportverpackung stimmten jedes Mal mit dem ersten Muster überein.",
-        "author": "Rustam Jussupow",
+        "author": "Rustam Yusupov",
         "role": "Inhaber, Schweißgashändler",
-        "country": "Usbekistan"
+        "country": "Uzbekistan"
       },
       {
         "quote": "Das Angebot kam noch am selben Tag mit einer klaren Mindestbestellmenge und Vorlaufzeit. Propanflaschen kamen mit POL-Ventilen und vollständiger Packliste an – für uns gab es keine Verzögerungen beim Zoll.",
         "author": "Aigerim Bekova",
         "role": "Einkaufsleiter, Industrieversorgung",
-        "country": "Kasachstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Wir kaufen Flaschen mit Reglern und Schläuchen in einer Containerbestellung. Dokumente und Kennzeichnung waren für unseren Markt bereit, sodass der Weiterverkauf unkompliziert war.",
         "author": "Faisal Al-Harbi",
         "role": "Importkäufer, Handel mit Gasgeräten",
-        "country": "Saudi-Arabien"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "Schweißen",
+        "id": "welding",
         "eyebrow": "Acetylenflaschen",
         "title": "Stabile Flamme für Präzisionsschweißen",
         "text": "Flaschen mit gelöstem Acetylen, entwickelt für kontinuierliches Schweißen und Löten – konstanter Druck, sichere poröse Masse, exportfähige Ventile.",
         "points": [
           "ISO-/DOT-/GB-Optionen",
           "CGA-/GOST-/DIN-Ventile",
-          "OEM-Farbe und -Markierung"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "Schneiden",
+        "id": "cutting",
         "eyebrow": "Schneiden und Konfektionieren",
         "title": "Kraft, wenn Metall sich bewegen muss",
         "text": "Acetylen- und Sauerstoff-Flaschensätze mit hohem Durchfluss für Werften, Werkstätten und schwere Fertigungslinien.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "Propan",
+        "id": "propane",
         "eyebrow": "Propan und Flüssiggas",
         "title": "Langlebige Flüssiggasflaschen für jeden Markt",
         "text": "Von Heiz- und Kochgas bis hin zu industriellem Schneiden – Stahlflaschen, die auf Druck, Beschichtung und lange Lebensdauer ausgelegt sind.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "Fabrik",
+        "id": "factory",
         "eyebrow": "Herstellung",
         "title": "Werkskontrolle vom Stahl bis zum Versand",
         "text": "Formung, Schweißen, hydrostatische Prüfung und Endbearbeitung im eigenen Haus – damit jede Charge Ihrer Zeichnung und dem Marktstandard entspricht.",
         "points": [
           "Hydrostatisch getestet",
           "Rückverfolgbare Chargen",
-          "OEM-/ODM-fähig"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "Qualität",
+        "id": "quality",
         "eyebrow": "Qualität und Sicherheit",
         "title": "Die Inspektion können Sie im Angebot angeben",
         "text": "Materialprüfungen, Dichtheitsprüfungen, Ventildrehmomente und Verpackungsfotos. Zertifikatspakete und Fotoberichte werden auf Anfrage privat verschickt.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "Export",
+        "id": "export",
         "eyebrow": "Globaler Export",
         "title": "Verpackt für Häfen, bereit für Exportmärkte",
         "text": "Exportpaletten, Ventilschutz, mehrsprachige Etiketten und Versanddokumente, abgestimmt auf die Incoterms Ihres Bestimmungsortes.",
@@ -1181,8 +1197,8 @@
       "Unlackierte Zylindermäntel mit offenen Hälsen nach dem Schweißen"
     ],
     "refrigeration": [
-      "Luftgekühlte Verflüssigungseinheit mit halbhermetischem Copeland-Kompressor",
-      "Luftgekühlte Verflüssigungseinheit mit halbhermetischem Bitzer-Kompressor",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Geschlossene Kühl-Kondensator-Einheit im Schrankstil",
       "Luftgekühlte Hochleistungs-Verflüssigungseinheit mit vier Lüftern"
     ]
@@ -1196,7 +1212,7 @@
     "close": "Schließen",
     "featuresLabel": "Hauptmerkmale",
     "specsLabel": "Spezifikationen",
-    "applicationsLabel": "Anwendungen",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Qualität und Lieferung",
     "whyTitle": "Warum sollten Sie sich für unser Zubehör entscheiden?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Standardanschlüsse für schnelle Installation und Austausch"
         ],
         "specs": [
-          "Gas: Acetylen (C₂H₂); Sauerstoffableiter werden separat geliefert",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Körper: Messing; Ableiter: Edelstahl",
           "Anschluss: G 3/8″ LH oder Sondergewinde",
           "Arbeitsdruck: bis zu 1,5 MPa / kundenspezifisch",
@@ -1308,13 +1324,13 @@
           "100 % Sicherheits- und Funktionsprüfung"
         ],
         "specs": [
-          "Gas: Acetylen, Sauerstoff, Argon, Stickstoff und kompatible Gase",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Arbeitsdruck: 25/35 bar Klasse",
           "Prüfdruck: 37,5 / 52,5 bar Klasse",
           "Einlass/Auslass: intern oder extern, individuell",
           "Handrad: Aluminium / Zinklegierung",
           "Temperatur: −20 °C bis +60 °C",
-          "Standards: ISO 10297, GB/T 8335, CGA oder kundenspezifisch",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Verpackung: 1 Stück/Beutel, 50 Stück/Karton"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Mehrere Bereiche und Montage unten/hinten"
         ],
         "specs": [
-          "Gas: Acetylen, Sauerstoff, Argon, CO₂, Stickstoff und kompatible Gase",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Zifferblatt: 50 / 63 / 100 mm, kundenspezifisch erhältlich",
           "Bereich: 0–1 bar bis 0–400 bar, kundenspezifisch",
           "Genauigkeit: ±2,5 % Standard, ±1,6 % optional",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100 % Prüfung vor der Auslieferung",
-          "OEM-Zifferblatt und Branding-Optionen",
+          "OEM dial and branding options",
           "Exportverpackung"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Mehrere Einstelldrücke und Gewindegrößen"
         ],
         "specs": [
-          "Gas: Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Arbeitsdruck: bis zu 25 bar / 25 kg/cm²",
           "Entlastungsbereich: 0,1–2,5 MPa, anpassbar",
           "Temperatur: −20 °C bis +120 °C",
@@ -1495,7 +1511,7 @@
           "Unterstützt eine effektive Filterung in der Gasleitung",
           "Industrielle Messing-/Metallkonstruktion",
           "Standard-Gewindeanschlüsse zur Systemanpassung",
-          "OEM-Gewinde, Größe und Packung auf Anfrage"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rolle: Filterkonverter / Adapterkopf",
@@ -1526,7 +1542,7 @@
           "Stabiler Betrieb unter Arbeitsdruck"
         ],
         "specs": [
-          "Gas: Sauerstoff, Acetylen, Luft, Stickstoff und kompatible Gase",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Eingangsdruck: bis zu 2,5 MPa",
           "Arbeitsdruck: 0,01–1,6 MPa",
           "Genauigkeit: 5 / 20 / 50 μm optional",
@@ -1625,19 +1641,19 @@
       "Industrielle Wasserkühler",
       "Fahrzeugkühlanlagen und mobile Kühlräume"
     ],
-    "note": "Wanda International Trade liefert neben der Gasflaschenlinie auch Kühlgeräte: Einheiten, Panels, Kühler und zugehörige Kühlkettenhardware. Copeland, Bitzer und ähnliche Namen beziehen sich auf die Kompressormarke innerhalb des Geräts und nicht auf eine Umbenennung dieser Unternehmen.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Firmenvideo",
     "videoSubtitle": "Übersicht über die Kühlgerätelinie. Weiteres Filmmaterial wird auf Anfrage privat verschickt.",
     "items": [
       {
-        "title": "Halbhermetisches, luftgekühltes Copeland-Gerät",
-        "spec": "Verflüssigungseinheit · Copeland-Kompressor",
-        "desc": "Luftgekühlte Verflüssigungseinheit mit halbhermetischem Copeland-Kompressor für Kühlräume und den Einsatz bei mittleren Temperaturen."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Halbhermetische luftgekühlte Einheit von Bitzer",
-        "spec": "Verflüssigungssatz · Bitzer-Kompressor",
-        "desc": "Luftgekühlte Verflüssigungseinheit mit einem halbhermetischen Bitzer-Kompressor für Räume mit höherer Beanspruchung und mittlerer bis niedriger Temperatur."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Geschlossene, kastenförmige Einheit",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Sind Sie bereit, ein Angebot anzufordern?",
       "quoteCta": "Fordern Sie ein Angebot an",
       "relatedProducts": "Verwandte Produkte",
-      "applications": "Anwendungen",
+      "applications": "Applications",
       "standardsTitle": "Standards & Zertifizierung",
-      "oemTitle": "OEM / Anpassung",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Verpackung & Lieferung",
       "placeholders": {
         "standards": "Verfügbare Standards und Zertifikate werden pro Bestellung und Zielmarkt bestätigt. Zertifikatskopien werden auf Anfrage privat verschickt – Dateien werden nicht auf der Website veröffentlicht.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
       "seoTitle": "Gasflaschenprodukte",
       "seoDescription": "Acetylenflaschen, Generatoren, Propanflaschen und Zubehör für Industrie- und Schweißanwendungen.",
-      "refrigerationNote": "Wanda International Trade liefert neben der Gasflaschenlinie auch Kühlgeräte: Einheiten, Panels, Kühler und zugehörige Kühlkettenhardware. Copeland, Bitzer und ähnliche Namen beziehen sich auf die Kompressormarke innerhalb des Geräts und nicht auf eine Umbenennung dieser Unternehmen.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Zylinder mit gelöstem Acetylen",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propanflaschen",
-          "overview": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet.",
+          "overview": "Stahlflaschen für die Lagerung und den Transport von Propangas. Wird zum Heizen, zur industriellen Propanversorgung, zum Kochen und zum Autogenschneiden in Kombination mit Acetylen verwendet.",
           "seoTitle": "Propangasflaschen",
-          "seoDescription": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet."
+          "seoDescription": "Propangasflaschen aus Stahl für Heiz-, Industrieversorgungs- und Schneidanwendungen. Export- und OEM-Optionen werden je Bestellung besprochen."
         },
         "lpg": {
           "name": "LPG-Flaschen",
-          "overview": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet.",
+          "overview": "Flaschen für Flüssiggas (LPG) – Propan, Butan oder gemischte Mischungen. Üblich für die LPG-Verteilung im Privat- und Gewerbebereich, beim Camping, beim Heizen und für die mobile Kraftstoffversorgung.",
           "seoTitle": "Flüssiggasflaschen",
-          "seoDescription": "Flaschen für Propan-, Butan- und LPG-Gemische. Wird zum Heizen, Schneiden, Löten, im Baugewerbe und in der industriellen Gasversorgung verwendet."
+          "seoDescription": "LPG-Flaschen für die Verteilung von Flüssiggas in Privathaushalten, Gewerbe und Industrie sowie für die mobile Versorgung."
         },
         "industrial": {
           "name": "Industriegasflaschen",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM und Großhandel",
+      "title": "OEM and Wholesale",
       "subtitle": "Private-Label- und Großlieferungsoptionen für Händler und industrielle Käufer.",
-      "seoTitle": "OEM-Gasflaschenversorgung",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Herstellung von OEM- und Private-Label-Gasflaschen für ausländische Marken und Händler.",
       "quoteTitle": "Besprechen Sie OEM-Anforderungen",
       "quoteCta": "Fordern Sie ein OEM-Angebot an",
@@ -1807,7 +1823,7 @@
           "text": "Großhandelsmengen für die Projekt- und Händlerbeschaffung."
         },
         {
-          "title": "OEM-Fertigung",
+          "title": "OEM Manufacturing",
           "text": "Produktkonfiguration abgestimmt auf Ihre Spezifikation und Ihren Markt."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Wir veröffentlichen auf dieser Seite keine unbestätigten Länderzahlen, Kundennamen oder Projektreferenzen.",
       "regions": [
         {
-          "title": "Afrika",
+          "title": "Africa",
           "text": "Industrie- und Händleranfragen aus afrikanischen Märkten."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Industrielle Einkäufer bewerten das Angebot an Exportzylindern."
         },
         {
-          "title": "Lateinamerika",
+          "title": "Latin America",
           "text": "Anfragen zur Lieferung von Industriegasflaschen und Zubehör."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Anwendungen",
+      "label": "Applications",
       "title": "Zylinderanwendungen",
       "subtitle": "Produkte, die für gängige Industriegasaufgaben und die Anforderungen ausländischer Käufer konzipiert sind.",
       "seoTitle": "Zylinderanwendungen",
@@ -1891,7 +1907,7 @@
       "seoDescription": "Unternehmen, Produkte, OEM und Export – Antworten für ausländische Käufer, bevor Sie ein Angebot anfordern."
     },
     "contactPage": {
-      "label": "Kontakt",
+      "label": "Contact",
       "title": "Lassen Sie uns Ihre Anforderungen besprechen",
       "subtitle": "Kontaktieren Sie unser Vertriebsteam per Formular, E-Mail oder Messenger. Teilen Sie Produkt, Menge und Bestimmungsort mit, um ein schnelleres Angebot zu erhalten.",
       "seoTitle": "Fordern Sie ein Angebot an",

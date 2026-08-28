@@ -3,16 +3,16 @@
     "home": "Casa",
     "products": "Prodotti",
     "specs": "Specifiche",
-    "applications": "Applicazioni",
+    "applications": "Applications",
     "about": "Di",
-    "gallery": "Galleria",
+    "gallery": "Gallery",
     "factory": "Fabbrica",
     "quality": "Qualità",
-    "faq": "Domande frequenti",
-    "contact": "Contatto",
+    "faq": "FAQ",
+    "contact": "Contact",
     "getQuote": "Ottieni un preventivo",
     "inquire": "Chiedi →",
-    "services": "Servizi",
+    "services": "Services",
     "pricing": "Prezzi",
     "accessories": "Accessori",
     "refrigeration": "Conservazione frigorifera",
@@ -120,7 +120,23 @@
       "Costruzione",
       "Fabbricazione di metalli",
       "Stoccaggio e distribuzione del gas"
+    ],
+    "refrigerationItems": [
+      "Celle frigorifere e impianti di conservazione frigorifera",
+      "Trasformazione e distribuzione alimentare",
+      "Supermercati e catene del freddo al dettaglio",
+      "Celle frigorifere farmaceutiche e mediche",
+      "Logistica e trasporti refrigerati",
+      "Raffreddamento industriale e refrigeratori di processo"
     ]
+  },
+  "operations": {
+    "title": "Operazioni globali",
+    "manufacturingBase": "Base produttiva",
+    "manufacturingCountry": "Cina",
+    "intlSalesOffice": "Ufficio vendite internazionali",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Le nostre attività produttive hanno sede in Cina, mentre il nostro team di vendita internazionale in Uzbekistan supporta i clienti in tutto il mondo."
   },
   "whyUs": {
     "title": "Perché scegliere i gruppi Wanda",
@@ -131,7 +147,7 @@
         "desc": "Fornitura di prodotti orientata alla produzione, non solo ai cataloghi commerciali."
       },
       {
-        "title": "Supporto OEM",
+        "title": "OEM support",
         "desc": "Colore personalizzato, marcatura, valvola e imballaggio discussi per ordine."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Formatura, saldatura, collaudo e finitura per bombole gas industriali."
       },
       {
-        "title": "Supporto OEM",
+        "title": "OEM Support",
         "desc": "Colore, marcatura, valvola, tappo e opzioni di imballaggio su ordinazione."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Comunicaci il prodotto, le dimensioni, la quantità, il paese di destinazione e le specifiche: il nostro team di vendita risponderà con informazioni sul prodotto e un preventivo.",
     "formTitle": "Richiedi un preventivo",
     "formSubtitle": "Compila il modulo per una richiesta commerciale. I campi obbligatori sono contrassegnati.",
-    "name": "Nome",
+    "name": "Name",
     "company": "Azienda",
     "phone": "Telefono/WhatsApp",
     "email": "E-mail",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Tipo di valvola, colore, standard, imballaggio, marcatura OEM, note sulla quantità..."
   },
   "footer": {
-    "company": "Produttore di bombole di gas del Gruppo Wanda",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Produzione professionale di bombole di gas",
     "rights": "© 2026 Gruppo Wanda. Tutti i diritti riservati.",
     "privacy": "politica sulla riservatezza",
     "terms": "Termini di utilizzo"
   },
   "privacy": {
-    "label": "Legale",
+    "label": "Legal",
     "title": "politica sulla riservatezza",
     "updated": "Ultimo aggiornamento: 25 agosto 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Domande su questa politica:"
   },
   "ui": {
-    "catalog": "Catalogare",
+    "catalog": "Catalog",
     "catalogTitle": "Specifiche dettagliate del prodotto",
     "catalogSubtitle": "Dati tecnici completi, modelli e parametri per ogni categoria. Seleziona un prodotto per visualizzare la tabella delle specifiche.",
     "requestPrice": "Richiedi il prezzo per questo modello",
-    "services": "Servizi",
+    "services": "Services",
     "pricing": "Prezzi",
     "getExactQuote": "Ottieni un preventivo esatto",
     "certifications": "Certificazioni",
     "order": "Ordine",
     "reviews": "Recensioni",
-    "contact": "Contatto",
+    "contact": "Contact",
     "phone": "Telefono",
     "location": "Posizione",
     "quoteResponse": "Risposta al preventivo",
@@ -570,17 +586,17 @@
     "countriesServed": "Sostegno all'esportazione",
     "exportReady": "Esportazione pronta",
     "years": "Anni",
-    "acetylene": "Acetilene",
+    "acetylene": "Acetylene",
     "isoCertified": "Certificato ISO",
     "globalExport": "Esportazione globale",
     "products": "Prodotti",
     "specs": "Specifiche",
-    "applications": "Applicazioni",
+    "applications": "Applications",
     "whyUs": "Perché noi",
     "about": "Chi siamo",
-    "gallery": "Galleria",
+    "gallery": "Gallery",
     "quality": "Qualità",
-    "faq": "Domande frequenti",
+    "faq": "FAQ",
     "blog": "Blog",
     "searchLanguage": "Cerca lingua...",
     "noLanguagesFound": "Nessuna lingua trovata",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM/etichetta privata",
+    "OEM / Private Label",
     "Esportazione internazionale",
     "Controllo di qualità",
     "Standard di mercato su richiesta",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Acetilene",
-      "propane": "Propano",
-      "generator": "Generatrice",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Accessori"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Modelli con bombole di acetilene standard",
       "headers": [
-        "Modella",
+        "Model",
         "Volume (l)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,7 +706,7 @@
       ],
       "tableTitle": "Modelli di bombole di propano standard",
       "headers": [
-        "Modella",
+        "Model",
         "Volume (l)",
         "Gas (kg)",
         "WP (MPa)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Modelli di generatori di acetilene",
       "headers": [
-        "Modella",
+        "Model",
         "Produzione (m³/h)",
         "Carburo (kg/ora)",
         "Pressione (kPa)",
@@ -843,7 +859,7 @@
         [
           "Tubi",
           "WG-H6, WG-H9",
-          "EN559",
+          "EN 559",
           "Saldatura, taglio"
         ],
         [
@@ -879,7 +895,7 @@
         "points": [
           "Logo e colore RAL",
           "Valvola standard di mercato",
-          "Imballaggi ed etichette OEM"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Dipende dal modello e dalla destinazione"
       },
       {
-        "label": "Tempi di consegna",
+        "label": "Lead time",
         "value": "Confermato per ordine",
         "desc": "Condiviso con la citazione"
       },
@@ -966,7 +982,7 @@
         "Volume e modello del cilindro",
         "Tipo di valvola e standard di connessione",
         "Standard richiesti per il mercato di destinazione",
-        "Colore, marcatura e confezione OEM",
+        "OEM colour, marking and packaging",
         "Volume degli ordini e Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Prodotto",
       "MOQ",
       "Prezzo",
-      "Tempi di consegna"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Certificazione per il mercato statunitense"
+        "desc": "Standard per bombole del mercato statunitense: applicabilità confermata per prodotto e ordine"
       },
       {
         "name": "TPED",
-        "desc": "Direttiva europea sui trasporti"
+        "desc": "Requisiti di trasporto europei: discussi per mercato di destinazione"
       },
       {
         "name": "GB 5099",
         "desc": "Norma cinese sulle bombole di gas"
       },
       {
-        "name": "Marchio CE",
-        "desc": "Requisiti di conformità europei"
+        "name": "CE Mark",
+        "desc": "Marchio di conformità europeo: applicabilità per prodotto e mercato"
       }
     ]
   },
@@ -1072,31 +1088,31 @@
         "quote": "Il preventivo è arrivato lo stesso giorno con un MOQ e tempi di consegna chiari. Le bombole di propano sono arrivate con valvole POL e lista di imballaggio completa: nessun ritardo doganale da parte nostra.",
         "author": "Aigerim Bekova",
         "role": "Responsabile acquisti, forniture industriali",
-        "country": "Kazakistan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Acquistiamo bombole con regolatori e tubi flessibili come un unico ordine di container. I documenti e la marcatura erano pronti per il nostro mercato, quindi la rivendita è stata semplice.",
         "author": "Faisal Al-Harbi",
         "role": "Acquirente di importazione, commercio di apparecchiature a gas",
-        "country": "Arabia Saudita"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "saldatura",
+        "id": "welding",
         "eyebrow": "Cilindri di acetilene",
         "title": "Fiamma stabile per saldature di precisione",
         "text": "Bombole di acetilene disciolto progettate per la saldatura e la brasatura continue: pressione costante, massa porosa sicura, valvole pronte per l'esportazione.",
         "points": [
           "Opzioni ISO/DOT/GB",
           "Valvole CGA/GOST/DIN",
-          "Colore e marcatura OEM"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "taglio",
+        "id": "cutting",
         "eyebrow": "Taglio e fabbricazione",
         "title": "Potenza quando il metallo deve muoversi",
         "text": "Set di bombole pronte per acetilene e ossigeno ad alto flusso per cantieri navali, officine e linee di fabbricazione pesante.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propano",
+        "id": "propane",
         "eyebrow": "Propano e GPL",
         "title": "Bombole GPL durevoli per ogni mercato",
         "text": "Dal gas da riscaldamento e da cucina al taglio industriale: cilindri in acciaio costruiti per pressione, rivestimento e lunga durata.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "fabbrica",
+        "id": "factory",
         "eyebrow": "Produzione",
         "title": "Controllo di fabbrica dall'acciaio alla spedizione",
         "text": "Formatura, saldatura, test idrostatici e finitura interni: così ogni lotto corrisponde al tuo disegno e allo standard di mercato.",
         "points": [
           "Testato idrostatico",
           "Lotti tracciabili",
-          "OEM/ODM pronto"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "qualità",
+        "id": "quality",
         "eyebrow": "Qualità e sicurezza",
         "title": "Ispezione da inserire nel preventivo",
         "text": "Controlli sui materiali, prove di tenuta, coppia delle valvole e foto dell'imballaggio. Pacchetti di certificati e report fotografici vengono inviati privatamente su richiesta.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "esportare",
+        "id": "export",
         "eyebrow": "Esportazione globale",
         "title": "Preparati per i porti, pronti per i mercati di esportazione",
         "text": "Pallet per esportazione, protezione valvole, etichette multilingue e documenti di spedizione coordinati per la tua destinazione Incoterms.",
@@ -1181,8 +1197,8 @@
       "Involucri dei cilindri non verniciati con colli aperti dopo la saldatura"
     ],
     "refrigeration": [
-      "Unità condensatrice raffreddata ad aria con compressore semiermetico Copeland",
-      "Unità condensatrice raffreddata ad aria con compressore semiermetico Bitzer",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Unità condensatrice di refrigerazione ad armadio chiuso",
       "Unità condensante raffreddata ad aria a quattro ventole ad alta capacità"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Accessori del prodotto",
     "subtitle": "Parti per bombole di acetilene, generatori, saldatura e taglio. Apri Dettagli per specifiche e applicazioni.",
     "cta": "Richiedi dettagli",
-    "details": "Dettagli",
+    "details": "Details",
     "close": "Vicina",
     "featuresLabel": "Caratteristiche principali",
     "specsLabel": "Specifiche",
-    "applicationsLabel": "Applicazioni",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Qualità e fornitura",
     "whyTitle": "Perché scegliere i nostri accessori?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Connessioni standard per installazione e sostituzione rapide"
         ],
         "specs": [
-          "Gas: acetilene (C₂H₂); paraossigeno forniti separatamente",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Corpo: ottone; limitatore: acciaio inossidabile",
           "Attacco: G 3/8″ LH o filettatura personalizzata",
           "Pressione di esercizio: fino a 1,5 MPa / personalizzata",
@@ -1308,13 +1324,13 @@
           "Ispezione di sicurezza e funzionamento al 100%."
         ],
         "specs": [
-          "Gas: acetilene, ossigeno, argon, azoto e gas compatibili",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Pressione di esercizio: classe 25 / 35 bar",
           "Pressione di prova: classe 37,5 / 52,5 bar",
           "Ingresso/uscita: interna o esterna, personalizzata",
           "Volante: alluminio/lega di zinco",
           "Temperatura: da −20 °C a +60 °C",
-          "Standard: ISO 10297, GB/T 8335, CGA o personalizzato",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Imballaggio: 1 pz/sacchetto, 50 pz/scatola"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "ID: 6/8/9/10/12/13 mm (disponibile su misura)",
           "Lunghezza: 10 / 20 / 30 / 50 / 100 m o su misura",
           "Colore: blu standard; materiale SBR/EPDM + filato di poliestere",
-          "Norme: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Temperatura: da −20 °C a +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Gamme multiple e supporti inferiori/posteriori"
         ],
         "specs": [
-          "Gas: acetilene, ossigeno, argon, CO₂, azoto e gas compatibili",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Quadrante: 50/63/100 mm, disponibile su misura",
           "Intervallo: da 0–1 bar fino a 0–400 bar, personalizzato",
           "Precisione: ±2,5% standard, ±1,6% opzionale",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "Test al 100% prima della consegna",
-          "Quadrante OEM e opzioni di branding",
+          "OEM dial and branding options",
           "Imballaggio per l'esportazione"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Pressioni di impostazione multiple e dimensioni della filettatura"
         ],
         "specs": [
-          "Gas: ossigeno, acetilene, aria, azoto e gas compatibili",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Pressione di esercizio: fino a 25 bar / 25 kg/cm²",
           "Intervallo di scarico: 0,1–2,5 MPa, personalizzabile",
           "Temperatura: da −20 °C a +120 °C",
@@ -1495,7 +1511,7 @@
           "Supporta un filtraggio efficace nella linea del gas",
           "Costruzione industriale in ottone/metallo",
           "Porte filettate standard per l'adattamento al sistema",
-          "Filettatura OEM, dimensioni e imballaggio su richiesta"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Ruolo: convertitore filtro/testa adattatore",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Filtro",
+        "title": "Filter",
         "desc": "Filtro ad alta efficienza che rimuove umidità, olio e particelle per proteggere le apparecchiature a valle.",
         "intro": "Rimuove particelle solide, acqua, olio e altre impurità dal flusso di gas per proteggere le apparecchiature e prolungarne la durata. Testa in ottone, elemento di qualità e funzionamento stabile sotto pressione. Per ossigeno, acetilene, aria, azoto e gas compatibili.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Funzionamento stabile sotto pressione di esercizio"
         ],
         "specs": [
-          "Gas: ossigeno, acetilene, aria, azoto e gas compatibili",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Pressione in ingresso: fino a 2,5 MPa",
           "Pressione di esercizio: 0,01–1,6 MPa",
           "Precisione: 5/20/50 μm opzionale",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Legale",
+    "label": "Legal",
     "title": "Termini di utilizzo",
     "updated": "Ultimo aggiornamento: 27 agosto 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "refrigeratori d'acqua industriali",
       "Unità di refrigerazione per veicoli e celle frigorifere mobili"
     ],
-    "note": "Wanda International Trade fornisce apparecchiature di refrigerazione insieme alla linea di bombole di gas: unità, pannelli, refrigeratori e relativo hardware per la catena del freddo. Copeland, Bitzer e nomi simili si riferiscono al marchio del compressore all'interno dell'unità, non al rebranding di tali società.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Video aziendale",
     "videoSubtitle": "Panoramica della linea di apparecchiature di refrigerazione. Ulteriori filmati vengono inviati privatamente su richiesta.",
     "items": [
       {
-        "title": "Unità semiermetica Copeland raffreddata ad aria",
-        "spec": "Unità condensante · Compressore Copeland",
-        "desc": "Unità condensante raffreddata ad aria con compressore semiermetico Copeland per celle frigorifere e funzionamento a media temperatura."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Unità semiermetica Bitzer raffreddata ad aria",
-        "spec": "Unità condensatrice · Compressore Bitzer",
-        "desc": "Unità condensatrice raffreddata ad aria con compressore semiermetico Bitzer per ambienti con utilizzo più elevato e temperature medio-basse."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Unità scatolata chiusa",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Pronti per richiedere un preventivo?",
       "quoteCta": "Richiedi un preventivo",
       "relatedProducts": "Prodotti correlati",
-      "applications": "Applicazioni",
+      "applications": "Applications",
       "standardsTitle": "Standard e certificazione",
-      "oemTitle": "OEM/personalizzazione",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Imballaggio e consegna",
       "placeholders": {
         "standards": "Gli standard e i certificati disponibili sono confermati per ordine e mercato di destinazione. Le copie dei certificati vengono inviate privatamente su richiesta: i file non vengono pubblicati sul sito web.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
       "seoTitle": "Prodotti per bombole di gas",
       "seoDescription": "Bombole di acetilene, generatori, bombole di propano e accessori per applicazioni industriali e di saldatura.",
-      "refrigerationNote": "Wanda International Trade fornisce apparecchiature di refrigerazione insieme alla linea di bombole di gas: unità, pannelli, refrigeratori e relativo hardware per la catena del freddo. Copeland, Bitzer e nomi simili si riferiscono al marchio del compressore all'interno dell'unità, non al rebranding di tali società.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Cilindri di acetilene disciolto",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Bombole di propano",
-          "overview": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale.",
+          "overview": "Bombole in acciaio per stoccaggio e trasporto di gas propano. Utilizzato per il riscaldamento, la fornitura di propano industriale, la cucina e l'ossitaglio se abbinato all'acetilene.",
           "seoTitle": "Bombole di gas propano",
-          "seoDescription": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale."
+          "seoDescription": "Bombole di gas propano in acciaio per applicazioni di riscaldamento, fornitura industriale e taglio. Opzioni di esportazione e OEM discusse per ordine."
         },
         "lpg": {
           "name": "Bombole GPL",
-          "overview": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale.",
+          "overview": "Bombole per gas di petrolio liquefatto (GPL) — propano, butano o miscele miste. Comune per la distribuzione GPL residenziale e commerciale, campeggio, riscaldamento e fornitura di carburante portatile.",
           "seoTitle": "Bombole di gas GPL",
-          "seoDescription": "Bombole per miscele propano, butano e GPL. Utilizzato nel riscaldamento, taglio, brasatura, edilizia e fornitura di gas industriale."
+          "seoDescription": "Bombole GPL per la distribuzione e la fornitura portatile di gas di petrolio liquefatto residenziale, commerciale e industriale."
         },
         "industrial": {
           "name": "Bombole di gas industriali",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM e commercio all'ingrosso",
+      "title": "OEM and Wholesale",
       "subtitle": "Opzioni di etichetta privata e fornitura all'ingrosso per distributori e acquirenti industriali.",
-      "seoTitle": "Fornitura di bombole di gas OEM",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "Produzione di bombole di gas OEM e con marchio privato per marchi e distributori esteri.",
       "quoteTitle": "Discutere i requisiti OEM",
       "quoteCta": "Richiedi preventivo OEM",
@@ -1799,7 +1815,7 @@
           "text": "Esporta cartoni, pallet e contrassegni di imballaggio per ordine."
         },
         {
-          "title": "Etichetta privata",
+          "title": "Private Label",
           "text": "Etichettatura e presentazione del marchio per i canali di distribuzione."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Quantità all'ingrosso per l'approvvigionamento di progetti e distributori."
         },
         {
-          "title": "Produzione OEM",
+          "title": "OEM Manufacturing",
           "text": "Configurazione del prodotto in linea con le vostre specifiche e il vostro mercato."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Acquirenti industriali che valutano la fornitura di bombole per l'esportazione."
         },
         {
-          "title": "America Latina",
+          "title": "Latin America",
           "text": "Richieste di fornitura di bombole gas industriali e accessori."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Applicazioni",
+      "label": "Applications",
       "title": "Applicazioni del cilindro",
       "subtitle": "Prodotti progettati per le attività comuni relative ai gas industriali e per le esigenze degli acquirenti esteri.",
       "seoTitle": "Applicazioni del cilindro",
@@ -1884,14 +1900,14 @@
       ]
     },
     "faq": {
-      "label": "Domande frequenti",
+      "label": "FAQ",
       "title": "Domande frequenti",
       "subtitle": "Azienda, prodotti, OEM ed esportazione: risposte per gli acquirenti esteri prima di richiedere un preventivo.",
-      "seoTitle": "Domande frequenti",
+      "seoTitle": "FAQ",
       "seoDescription": "Azienda, prodotti, OEM ed esportazione: risposte per gli acquirenti esteri prima di richiedere un preventivo."
     },
     "contactPage": {
-      "label": "Contatto",
+      "label": "Contact",
       "title": "Discutiamo delle tue esigenze",
       "subtitle": "Raggiungi il nostro team di vendita tramite modulo, e-mail o messenger. Condividi prodotto, quantità e destinazione per un preventivo più rapido.",
       "seoTitle": "Richiedi un preventivo",

@@ -3,16 +3,16 @@
     "home": "Kotiin",
     "products": "Tuotteet",
     "specs": "Tekniset tiedot",
-    "applications": "Sovellukset",
+    "applications": "Applications",
     "about": "Noin",
-    "gallery": "Galleria",
+    "gallery": "Gallery",
     "factory": "Tehdas",
     "quality": "Laatu",
     "faq": "FAQ",
-    "contact": "Ota yhteyttä",
+    "contact": "Contact",
     "getQuote": "Pyydä tarjous",
     "inquire": "Tiedustele →",
-    "services": "Palvelut",
+    "services": "Services",
     "pricing": "Hinnoittelu",
     "accessories": "Tarvikkeet",
     "refrigeration": "Kylmäsäilytys",
@@ -120,7 +120,23 @@
       "Rakentaminen",
       "Metallin valmistus",
       "Kaasun varastointi ja jakelu"
+    ],
+    "refrigerationItems": [
+      "Kylmähuoneet ja kylmävarastot",
+      "Elintarvikkeiden jalostus ja jakelu",
+      "Supermarketit ja vähittäiskaupan kylmäketjut",
+      "Farmaseuttiset ja lääketieteelliset kylmävarastot",
+      "Logistiikka ja kylmäkuljetus",
+      "Teollisuuden jäähdytys- ja prosessijäähdyttimet"
     ]
+  },
+  "operations": {
+    "title": "Globaalit toiminnot",
+    "manufacturingBase": "Tuotantopohja",
+    "manufacturingCountry": "Kiina",
+    "intlSalesOffice": "Kansainvälinen myyntitoimisto",
+    "intlSalesCountry": "Uzbekistan",
+    "description": "Valmistustoimintamme sijaitsee Kiinassa, kun taas kansainvälinen myyntitiimimme Uzbekistanissa tukee asiakkaita maailmanlaajuisesti."
   },
   "whyUs": {
     "title": "Miksi valita Wanda Groups",
@@ -131,7 +147,7 @@
         "desc": "Tuotteiden tarjonta suuntautuu tuotantoon, ei vain luetteloiden kauppaan."
       },
       {
-        "title": "OEM-tuki",
+        "title": "OEM support",
         "desc": "Mukautettu väri, merkintä, venttiili ja pakkaus sovitaan tilauksen mukaan."
       },
       {
@@ -166,7 +182,7 @@
         "desc": "Teollisuuden kaasupullojen muotoilu, hitsaus, testaus ja viimeistely."
       },
       {
-        "title": "OEM-tuki",
+        "title": "OEM Support",
         "desc": "Väri, merkintä, venttiili, korkki ja pakkausvaihtoehdot tilauksesta."
       },
       {
@@ -452,7 +468,7 @@
     "subtitle": "Kerro meille tuote, koko, määrä, kohdemaa ja tekniset tiedot – myyntitiimimme vastaa ja toimittaa tuotetiedot ja tarjouksen.",
     "formTitle": "Pyydä tarjous",
     "formSubtitle": "Täytä lomake kaupallista kyselyä varten. Pakolliset kentät on merkitty.",
-    "name": "Nimi",
+    "name": "Name",
     "company": "Yritys",
     "phone": "Puhelin / WhatsApp",
     "email": "Sähköposti",
@@ -488,14 +504,14 @@
     "requirementsPlaceholder": "Venttiilin tyyppi, väri, standardi, pakkaus, OEM-merkintä, määrätiedot..."
   },
   "footer": {
-    "company": "Wanda Groupin kaasupullojen valmistaja",
+    "company": "Wanda Group Gas Cylinder Manufacturer",
     "tagline": "Ammattimainen kaasupullojen valmistus",
     "rights": "© 2026 Wanda Group. Kaikki oikeudet pidätetään.",
     "privacy": "Tietosuojakäytäntö",
     "terms": "Käyttöehdot"
   },
   "privacy": {
-    "label": "Laillinen",
+    "label": "Legal",
     "title": "Tietosuojakäytäntö",
     "updated": "Viimeksi päivitetty: 25. elokuuta 2026",
     "intro": [
@@ -552,17 +568,17 @@
     "contactLead": "Kysymyksiä tästä käytännöstä:"
   },
   "ui": {
-    "catalog": "Luettelo",
+    "catalog": "Catalog",
     "catalogTitle": "Yksityiskohtaiset tuotetiedot",
     "catalogSubtitle": "Täydelliset tekniset tiedot, mallit ja parametrit jokaisesta luokasta. Valitse tuote nähdäksesi tekninen taulukko.",
     "requestPrice": "Pyydä hinta tälle mallille",
-    "services": "Palvelut",
+    "services": "Services",
     "pricing": "Hinnoittelu",
     "getExactQuote": "Hanki tarkka tarjous",
     "certifications": "Sertifikaatit",
     "order": "Tilata",
     "reviews": "Arvostelut",
-    "contact": "Ota yhteyttä",
+    "contact": "Contact",
     "phone": "Puhelin",
     "location": "Sijainti",
     "quoteResponse": "Lainaus vastaus",
@@ -570,23 +586,23 @@
     "countriesServed": "Vientituki",
     "exportReady": "Vienti valmis",
     "years": "Vuosia",
-    "acetylene": "Asetyleeni",
+    "acetylene": "Acetylene",
     "isoCertified": "ISO sertifioitu",
     "globalExport": "Maailmanlaajuinen vienti",
     "products": "Tuotteet",
     "specs": "Tekniset tiedot",
-    "applications": "Sovellukset",
+    "applications": "Applications",
     "whyUs": "Miksi Me",
     "about": "Tietoja meistä",
-    "gallery": "Galleria",
+    "gallery": "Gallery",
     "quality": "Laatu",
     "faq": "FAQ",
-    "blog": "Blogi",
+    "blog": "Blog",
     "searchLanguage": "Hae kieli...",
     "noLanguagesFound": "Kieliä ei löytynyt",
     "breadcrumb": "Leipämuru",
     "primaryNav": "Ensisijainen",
-    "menu": "Valikko",
+    "menu": "Menu",
     "playVideo": "Toista video",
     "productGallery": "Tuotegalleria",
     "wechatQr": "WeChat QR code",
@@ -596,7 +612,7 @@
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / yksityinen merkki",
+    "OEM / Private Label",
     "Kansainvälinen vienti",
     "Laadunvalvonta",
     "Markkinastandardit pyynnöstä",
@@ -604,9 +620,9 @@
   ],
   "productDetails": {
     "tabs": {
-      "acetylene": "Asetyleeni",
-      "propane": "Propaani",
-      "generator": "Generaattori",
+      "acetylene": "Acetylene",
+      "propane": "Propane",
+      "generator": "Generator",
       "accessories": "Tarvikkeet"
     },
     "acetylene": {
@@ -621,7 +637,7 @@
       ],
       "tableTitle": "Tavalliset asetyleenisylinterimallit",
       "headers": [
-        "Malli",
+        "Model",
         "Tilavuus (L)",
         "C₂H₂ (kg)",
         "WP (MPa)",
@@ -690,9 +706,9 @@
       ],
       "tableTitle": "Tavalliset propaanisylinterimallit",
       "headers": [
-        "Malli",
+        "Model",
         "Tilavuus (L)",
-        "Kaasu (kg)",
+        "Gas (kg)",
         "WP (MPa)",
         "TP (MPa)",
         "Paino (kg)",
@@ -759,7 +775,7 @@
       ],
       "tableTitle": "Asetyleenigeneraattorimallit",
       "headers": [
-        "Malli",
+        "Model",
         "Teho (m³/h)",
         "Karbidi (kg/h)",
         "Paine (kPa)",
@@ -824,7 +840,7 @@
       "headers": [
         "Luokka",
         "Mallit",
-        "Vakio",
+        "Standard",
         "Sovellus"
       ],
       "rows": [
@@ -879,7 +895,7 @@
         "points": [
           "Logo & RAL väri",
           "Markkinastandardi venttiili",
-          "OEM-pakkaukset ja etiketit"
+          "OEM packaging & labels"
         ]
       },
       {
@@ -950,7 +966,7 @@
         "desc": "Riippuu mallista ja määränpäästä"
       },
       {
-        "label": "läpimenoaika",
+        "label": "Lead time",
         "value": "Vahvistettu tilauksen mukaan",
         "desc": "Jaettu lainauksen kanssa"
       },
@@ -966,7 +982,7 @@
         "Sylinterin tilavuus ja malli",
         "Venttiilin tyyppi ja liitäntästandardi",
         "Kohdemarkkinoilla vaadittavat standardit",
-        "OEM-väri, merkintä ja pakkaus",
+        "OEM colour, marking and packaging",
         "Tilausmäärä ja Incoterms"
       ]
     },
@@ -1000,7 +1016,7 @@
       "Tuote",
       "MOQ",
       "Hinta",
-      "Toimitusaika"
+      "Lead Time"
     ]
   },
   "certifications": {
@@ -1017,19 +1033,19 @@
       },
       {
         "name": "DOT 3AA",
-        "desc": "Yhdysvaltain markkinoiden sertifiointi"
+        "desc": "Yhdysvaltain markkinoiden sylinteristandardi — soveltuvuus vahvistettu tuote- ja tilauskohtaisesti"
       },
       {
         "name": "TPED",
-        "desc": "Euroopan liikennedirektiivi"
+        "desc": "Eurooppalaiset kuljetusvaatimukset – keskusteltu kohdemarkkinakohtaisesti"
       },
       {
         "name": "GB 5099",
         "desc": "Kiinalainen kaasupullostandardi"
       },
       {
-        "name": "CE-merkki",
-        "desc": "eurooppalaiset vaatimustenmukaisuusvaatimukset"
+        "name": "CE Mark",
+        "desc": "Eurooppalainen vaatimustenmukaisuusmerkintä – sovellettavuus tuote- ja markkinakohtaisesti"
       }
     ]
   },
@@ -1064,7 +1080,7 @@
     "items": [
       {
         "quote": "Tilasimme 40 litran asetyleenipulloja kolme kertaa tänä vuonna. GOST-venttiilit, OEM-väri ja vientipakkaus vastasivat ensimmäistä näytettä joka kerta.",
-        "author": "Rustam Jusupov",
+        "author": "Rustam Yusupov",
         "role": "Omistaja, hitsauskaasun jakelija",
         "country": "Uzbekistan"
       },
@@ -1072,31 +1088,31 @@
         "quote": "Lainaus tuli samana päivänä selkeällä MOQ:lla ja toimitusajalla. Propaanipullot saapuivat POL-venttiileillä ja täydellä pakkausluettelolla - ei tulliviivästyksiä puolellamme.",
         "author": "Aigerim Bekova",
         "role": "Hankintapäällikkö, teollisuustoimittaja",
-        "country": "Kazakstan"
+        "country": "Kazakhstan"
       },
       {
         "quote": "Ostamme sylinterit säätimin ja letkuineen yhtenä konttitilauksena. Asiakirjat ja merkinnät olivat valmiita markkinoillemme, joten jälleenmyynti oli helppoa.",
         "author": "Faisal Al-Harbi",
         "role": "Maahantuontiostaja, kaasulaitteiden kauppa",
-        "country": "Saudi-Arabia"
+        "country": "Saudi Arabia"
       }
     ]
   },
   "story": {
     "slides": [
       {
-        "id": "hitsaus",
+        "id": "welding",
         "eyebrow": "Asetyleenisylinterit",
         "title": "Vakaa liekki tarkkuushitsaukseen",
         "text": "Liuenneet asetyleenisylinterit, jotka on suunniteltu jatkuvaan hitsaukseen ja juottamiseen – tasainen paine, turvallinen huokoinen massa, vientivalmiit venttiilit.",
         "points": [
           "ISO / DOT / GB vaihtoehdot",
           "CGA / GOST / DIN venttiilit",
-          "OEM-väri ja merkintä"
+          "OEM color & marking"
         ]
       },
       {
-        "id": "leikkaus",
+        "id": "cutting",
         "eyebrow": "Leikkaus & valmistus",
         "title": "Tehoa, kun metallin täytyy liikkua",
         "text": "Suurivirtausasetyleeni- ja happivalmiit sylinterisarjat telakoille, konepajoille ja raskaille tuotantolinjoille.",
@@ -1107,7 +1123,7 @@
         ]
       },
       {
-        "id": "propaani",
+        "id": "propane",
         "eyebrow": "Propaani & nestekaasu",
         "title": "Kestävät nestekaasusylinterit kaikille markkinoille",
         "text": "Lämmitys- ja keittokaasusta teollisuusleikkaukseen – terässylinterit, jotka on valmistettu painetta, pinnoitusta ja pitkää käyttöikää varten.",
@@ -1118,18 +1134,18 @@
         ]
       },
       {
-        "id": "tehdas",
+        "id": "factory",
         "eyebrow": "Valmistus",
         "title": "Tehdasohjaus teräksestä lähetykseen",
         "text": "Talon sisäinen muovaus, hitsaus, hydrostaattinen testaus ja viimeistely – joten jokainen erä vastaa piirustus- ja markkinastandardiasi.",
         "points": [
           "Hydrostaattinen testattu",
           "Jäljitettävät erät",
-          "OEM / ODM valmis"
+          "OEM / ODM ready"
         ]
       },
       {
-        "id": "laatu",
+        "id": "quality",
         "eyebrow": "Laatu & turvallisuus",
         "title": "Tarkastuksen voit laittaa tarjoukseen",
         "text": "Materiaalitarkistukset, vuototestit, venttiilien vääntömomentit ja pakkauskuvat. Todistuspaketit ja valokuvaraportit lähetetään pyynnöstä yksityisesti.",
@@ -1140,7 +1156,7 @@
         ]
       },
       {
-        "id": "viedä",
+        "id": "export",
         "eyebrow": "Maailmanlaajuinen vienti",
         "title": "Pakattu satamiin, valmis vientimarkkinoille",
         "text": "Vie lavat, venttiilisuojat, monikieliset etiketit ja lähetysasiakirjat, jotka on koordinoitu Incoterms-kohteeseen.",
@@ -1181,8 +1197,8 @@
       "Maalaamattomat sylinterikuoret, joissa avokaula hitsauksen jälkeen"
     ],
     "refrigeration": [
-      "Ilmajäähdytteinen lauhdutusyksikkö Copelandin puolihermeettisellä kompressorilla",
-      "Ilmajäähdytteinen lauhdutusyksikkö Bitzer-puolihermeettisellä kompressorilla",
+      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
+      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
       "Suljettu kaappityyppinen jäähdytyskondensointiyksikkö",
       "Tehokas neljän tuulettimen ilmajäähdytteinen lauhdutusyksikkö"
     ]
@@ -1192,11 +1208,11 @@
     "title": "Tuotteen tarvikkeet",
     "subtitle": "Osat asetyleenisylintereihin, generaattoreihin, hitsaukseen ja leikkaukseen. Avaa Details nähdäksesi tekniset tiedot ja sovellukset.",
     "cta": "Pyydä lisätietoja",
-    "details": "Yksityiskohdat",
+    "details": "Details",
     "close": "Lähellä",
     "featuresLabel": "Tärkeimmät ominaisuudet",
     "specsLabel": "Tekniset tiedot",
-    "applicationsLabel": "Sovellukset",
+    "applicationsLabel": "Applications",
     "qualityLabel": "Laatu & tarjonta",
     "whyTitle": "Miksi valita lisävarusteemme?",
     "why": [
@@ -1218,7 +1234,7 @@
           "Vakioliitännät nopeaa asennusta ja vaihtoa varten"
         ],
         "specs": [
-          "Kaasu: asetyleeni (C2H2); hapensammuttimet toimitetaan erikseen",
+          "Gas: acetylene (C₂H₂); oxygen arrestors supplied separately",
           "Runko: messinki; pysäytin: ruostumaton teräs",
           "Liitäntä: G 3/8″ LH tai räätälöity kierre",
           "Työpaine: jopa 1,5 MPa / räätälöity",
@@ -1308,13 +1324,13 @@
           "100 % turvallisuuden ja toiminnan tarkastus"
         ],
         "specs": [
-          "Kaasu: asetyleeni, happi, argon, typpi ja yhteensopivat kaasut",
+          "Gas: acetylene, oxygen, argon, nitrogen and compatible gases",
           "Käyttöpaine: 25 / 35 bar luokka",
           "Koepaine: luokka 37,5 / 52,5 bar",
           "Tulo/poisto: sisäinen tai ulkoinen, räätälöity",
           "Käsipyörä: alumiini/sinkkiseos",
           "Lämpötila: -20 °C - +60 °C",
-          "Standardit: ISO 10297, GB/T 8335, CGA tai mukautettu",
+          "Standards: ISO 10297, GB/T 8335, CGA or custom",
           "Pakkaus: 1 kpl/pussi, 50 kpl/laatikko"
         ],
         "applications": [
@@ -1377,7 +1393,7 @@
           "Tunnus: 6 / 8 / 9 / 10 / 12 / 13 mm (muokattavissa)",
           "Pituus: 10 / 20 / 30 / 50 / 100 m tai räätälöity",
           "Väri: sininen standardi; materiaali SBR / EPDM + polyesterilanka",
-          "Standardit: ISO 3821 / EN 559 / GB/T 20098",
+          "Standards: ISO 3821 / EN 559 / GB/T 20098",
           "Lämpötila: -20 °C - +80 °C"
         ],
         "applications": [
@@ -1403,7 +1419,7 @@
           "Useita alueita ja pohja-/takakiinnikkeet"
         ],
         "specs": [
-          "Kaasu: asetyleeni, happi, argon, CO₂, typpi ja yhteensopivat kaasut",
+          "Gas: acetylene, oxygen, argon, CO₂, nitrogen and compatible gases",
           "Kellotaulu: 50 / 63 / 100 mm, räätälöitynä",
           "Alue: 0–1 bar – 0–400 bar, mukautettu",
           "Tarkkuus: ±2,5 % vakio, ±1,6 % valinnainen",
@@ -1419,7 +1435,7 @@
         ],
         "quality": [
           "100 % testaus ennen toimitusta",
-          "OEM-valintataulu ja brändäysvaihtoehdot",
+          "OEM dial and branding options",
           "Vientipakkaus"
         ]
       },
@@ -1435,7 +1451,7 @@
           "Useita asetettuja paineita ja kierrekokoja"
         ],
         "specs": [
-          "Kaasu: happi, asetyleeni, ilma, typpi ja yhteensopivat kaasut",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Työpaine: jopa 25 bar / 25 kg/cm²",
           "Kevytysalue: 0,1–2,5 MPa, muokattavissa",
           "Lämpötila: -20 °C - +120 °C",
@@ -1495,7 +1511,7 @@
           "Tukee tehokasta suodatusta kaasuputkessa",
           "Teollisuus messinki / metallirakenne",
           "Vakiokierreportit järjestelmän yhteensovittamista varten",
-          "OEM-lanka, koko ja pakkaus pyynnöstä"
+          "OEM thread, size and packing on request"
         ],
         "specs": [
           "Rooli: suodatinmuunnin / sovitinpää",
@@ -1515,7 +1531,7 @@
         ]
       },
       {
-        "title": "Suodattaa",
+        "title": "Filter",
         "desc": "Tehokas suodatin, joka poistaa kosteuden, öljyn ja hiukkaset suojellakseen loppupään laitteita.",
         "intro": "Poistaa kiinteät hiukkaset, veden, öljyn ja muut epäpuhtaudet kaasuvirrasta laitteiden suojaamiseksi ja käyttöiän pidentämiseksi. Messinkipää, laatuelementti ja vakaa toiminta paineen alaisena. Hapelle, asetyleenille, ilmalle, typelle ja yhteensopiville kaasuille.",
         "features": [
@@ -1526,7 +1542,7 @@
           "Vakaa toiminta työpaineessa"
         ],
         "specs": [
-          "Kaasu: happi, asetyleeni, ilma, typpi ja yhteensopivat kaasut",
+          "Gas: oxygen, acetylene, air, nitrogen and compatible gases",
           "Tulopaine: jopa 2,5 MPa",
           "Käyttöpaine: 0,01–1,6 MPa",
           "Tarkkuus: 5 / 20 / 50 μm valinnainen",
@@ -1549,7 +1565,7 @@
     ]
   },
   "terms": {
-    "label": "Laillinen",
+    "label": "Legal",
     "title": "Käyttöehdot",
     "updated": "Viimeksi päivitetty: 27. elokuuta 2026",
     "intro": [
@@ -1625,19 +1641,19 @@
       "Teollisuuden vedenjäähdyttimet",
       "Ajoneuvojen jäähdytysyksiköt ja siirrettävät kylmähuoneet"
     ],
-    "note": "Wanda International Trade toimittaa jäähdytyslaitteita kaasupullolinjan rinnalle: yksiköitä, paneeleja, jäähdyttimiä ja niihin liittyviä kylmäketjulaitteita. Copeland, Bitzer ja vastaavat nimet viittaavat yksikön sisällä olevaan kompressorimerkkiin, eivät kyseisten yhtiöiden tuotemerkkiin.",
+    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
     "videoTitle": "Yrityksen video",
     "videoSubtitle": "Yleiskatsaus kylmälaitevalikoimaan. Lisää materiaalia lähetetään pyynnöstä yksityisesti.",
     "items": [
       {
-        "title": "Copeland puolihermeettinen ilmajäähdytteinen yksikkö",
-        "spec": "Lauhdutusyksikkö · Copeland-kompressori",
-        "desc": "Ilmajäähdytteinen lauhdutinyksikkö Copelandin puolihermeettisellä kompressorilla kylmähuoneisiin ja keskilämpötilaan."
+        "title": "Copeland semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Copeland compressor",
+        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
       },
       {
-        "title": "Bitzer puolihermeettinen ilmajäähdytteinen yksikkö",
-        "spec": "Lauhdutusyksikkö · Bitzer-kompressori",
-        "desc": "Ilmajäähdytteinen lauhdutusyksikkö Bitzer-puolihermeettisellä kompressorilla korkeampiin ja keski-matalaisiin huoneisiin."
+        "title": "Bitzer semi-hermetic air-cooled unit",
+        "spec": "Condensing unit · Bitzer compressor",
+        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
       },
       {
         "title": "Suljettu laatikkotyyppinen yksikkö",
@@ -1663,9 +1679,9 @@
       "quoteTitle": "Oletko valmis pyytämään tarjouksen?",
       "quoteCta": "Pyydä tarjous",
       "relatedProducts": "Liittyvät tuotteet",
-      "applications": "Sovellukset",
+      "applications": "Applications",
       "standardsTitle": "Standardit ja sertifiointi",
-      "oemTitle": "OEM / räätälöinti",
+      "oemTitle": "OEM / customization",
       "packagingTitle": "Pakkaus & toimitus",
       "placeholders": {
         "standards": "Saatavilla olevat standardit ja sertifikaatit vahvistetaan tilaus- ja kohdemarkkinakohtaisesti. Todistuskopiot lähetetään pyynnöstä yksityisesti – tiedostoja ei julkaista verkkosivustolla.",
@@ -1690,7 +1706,7 @@
       "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
       "seoTitle": "Kaasupullotuotteet",
       "seoDescription": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
-      "refrigerationNote": "Wanda International Trade toimittaa jäähdytyslaitteita kaasupullolinjan rinnalle: yksiköitä, paneeleja, jäähdyttimiä ja niihin liittyviä kylmäketjulaitteita. Copeland, Bitzer ja vastaavat nimet viittaavat yksikön sisällä olevaan kompressorimerkkiin, eivät kyseisten yhtiöiden tuotemerkkiin.",
+      "refrigerationNote": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
       "catalog": {
         "acetylene": {
           "name": "Liuenneet asetyleenisylinterit",
@@ -1700,15 +1716,15 @@
         },
         "propane": {
           "name": "Propaanisylinterit",
-          "overview": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+          "overview": "Teräspullot propaanikaasun varastointiin ja kuljetukseen. Käytetään lämmitykseen, teollisuuden propaanin syöttämiseen, ruoanlaittoon ja happipolttoaineen leikkaamiseen yhdistettynä asetyleenin kanssa.",
           "seoTitle": "Propaani kaasupullot",
-          "seoDescription": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa."
+          "seoDescription": "Teräksiset propaanikaasusylinterit lämmitys-, teollisuus- ja leikkaussovelluksiin. Vienti- ja OEM-vaihtoehdoista keskustellaan tilauskohtaisesti."
         },
         "lpg": {
           "name": "Nestekaasusylinterit",
-          "overview": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+          "overview": "Nestekaasun (LPG) sylinterit – propaani, butaani tai sekasekoitukset. Yhteinen asuin- ja kaupalliseen nestekaasun jakeluun, retkeilyyn, lämmitykseen ja kannettavaan polttoaineen jakeluun.",
           "seoTitle": "Nestekaasun kaasupullot",
-          "seoDescription": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa."
+          "seoDescription": "Nestekaasupullot asuin-, kaupallisiin ja teollisiin nestekaasun jakeluun ja kannettavaan jakeluun."
         },
         "industrial": {
           "name": "Teollisuuden kaasupullot",
@@ -1779,9 +1795,9 @@
     },
     "oem": {
       "label": "OEM",
-      "title": "OEM ja tukkumyynti",
+      "title": "OEM and Wholesale",
       "subtitle": "Yksityiset merkki- ja bulkkitoimitukset jakelijoille ja teollisille ostajille.",
-      "seoTitle": "OEM-kaasusylinterin syöttö",
+      "seoTitle": "OEM Gas Cylinder Supply",
       "seoDescription": "OEM- ja private label -kaasupullojen valmistus ulkomaisille merkeille ja jakelijoille.",
       "quoteTitle": "Keskustele OEM-vaatimuksista",
       "quoteCta": "Pyydä OEM-tarjous",
@@ -1799,7 +1815,7 @@
           "text": "Pahvilaatikoiden, lavojen ja pakkausmerkintöjen vienti tilauksesta."
         },
         {
-          "title": "Yksityinen merkki",
+          "title": "Private Label",
           "text": "Merkinnät ja tuotemerkin esittely jakelijakanaville."
         },
         {
@@ -1807,7 +1823,7 @@
           "text": "Tukkumäärät projekti- ja jakelijahankintoihin."
         },
         {
-          "title": "OEM valmistus",
+          "title": "OEM Manufacturing",
           "text": "Tuotekokoonpano vastaa määrityksiäsi ja markkinoita."
         },
         {
@@ -1825,7 +1841,7 @@
       "note": "Emme julkaise tällä sivulla vahvistamattomia maamääriä, asiakkaiden nimiä tai projektiviitteitä.",
       "regions": [
         {
-          "title": "Afrikka",
+          "title": "Africa",
           "text": "Teollisuuden ja jakelijoiden tiedustelut Afrikan markkinoilta."
         },
         {
@@ -1841,7 +1857,7 @@
           "text": "Teollisuusostajat arvioivat vientisylintereiden toimitusta."
         },
         {
-          "title": "Latinalaisessa Amerikassa",
+          "title": "Latin America",
           "text": "Tiedustelut teollisuuskaasupullojen ja tarvikkeiden toimituksista."
         },
         {
@@ -1851,7 +1867,7 @@
       ]
     },
     "applicationsPage": {
-      "label": "Sovellukset",
+      "label": "Applications",
       "title": "Sylinterisovellukset",
       "subtitle": "Tuotteet, jotka on suunniteltu yleisiin teollisuuskaasutehtäviin ja ulkomaisten ostajien tarpeisiin.",
       "seoTitle": "Sylinterisovellukset",
@@ -1891,14 +1907,14 @@
       "seoDescription": "Yritys, tuotteet, OEM ja vienti – vastauksia ulkomaisille ostajille ennen tarjouksen pyytämistä."
     },
     "contactPage": {
-      "label": "Ota yhteyttä",
+      "label": "Contact",
       "title": "Keskustellaan vaatimuksistasi",
       "subtitle": "Ota yhteyttä myyntitiimiimme lomakkeella, sähköpostilla tai messengerillä. Jaa tuote, määrä ja kohde saadaksesi nopeamman tarjouksen.",
       "seoTitle": "Pyydä tarjous",
       "seoDescription": "Kerro meille koko, määrä, kohdemaa ja sovellus – teemme yksityiskohtaisen tarjouksen."
     },
     "blog": {
-      "label": "Blogi",
+      "label": "Blog",
       "title": "Uusimmat artikkelit",
       "subtitle": "Asiantuntevaa sisältöä hitsauksen ja kaasuntoimituksen ammattilaisille.",
       "seoTitle": "Artikkelit ja oppaat",
