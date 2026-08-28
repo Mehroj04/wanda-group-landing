@@ -183,16 +183,14 @@
     display: flex;
   }
 
+  .header__actions .btn.header__cta {
+    display: none;
+  }
+
   /* The nav becomes a fixed overlay here, so nothing is left to grow between
      the logo and the actions — push them to the right edge explicitly. */
   .header__actions {
     margin-left: auto;
-  }
-
-  .header__actions .btn.header__cta {
-    display: inline-flex;
-    padding: 8px 12px;
-    font-size: 0.75rem;
   }
 
   .header__logo,
