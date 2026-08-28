@@ -60,8 +60,6 @@ export default function ProductsPage() {
         </div>
       </section>
 
-      <Accessories />
-
       {refrigeration && refrigerationCopy ? (
         <section className="section products-cold" aria-labelledby="products-cold-title">
           <div className="container">
@@ -88,6 +86,8 @@ export default function ProductsPage() {
           </div>
         </section>
       ) : null}
+
+      <Accessories />
       <Pricing />
       <QuoteBanner title={t.pages.common.quoteTitle} cta={t.pages.common.quoteCta} />
     </>

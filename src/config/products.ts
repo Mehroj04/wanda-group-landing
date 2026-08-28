@@ -1,4 +1,4 @@
-import { images, refrigerationImages } from './images'
+import { images } from './images'
 import type { ProductSlug } from './routes'
 
 export type ProductTabKey = 'acetylene' | 'propane' | 'generator' | 'accessories'
@@ -68,7 +68,7 @@ export const productCatalog: ProductPageDef[] = [
   {
     slug: 'refrigeration',
     tab: null,
-    image: refrigerationImages[0],
+    image: images.productRefrigeration,
     catalogKey: 'refrigeration',
     related: ['welding-accessories'],
   },

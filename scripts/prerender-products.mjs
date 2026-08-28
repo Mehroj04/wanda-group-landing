@@ -66,7 +66,7 @@ const PRODUCTS = [
     slug: 'refrigeration',
     catalogKey: 'refrigeration',
     tab: null,
-    image: '/images/wg/ref-copeland.jpg',
+    image: '/images/wg/product-refrigeration.jpg',
     related: ['welding-accessories'],
   },
 ]
