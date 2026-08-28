@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "집",
     "products": "제품",
     "specs": "명세서",
     "applications": "응용",
     "about": "에 대한",
     "gallery": "갱도",
+    "factory": "공장",
     "quality": "품질",
     "faq": "FAQ",
     "contact": "연락하다",
@@ -13,44 +15,42 @@
     "services": "서비스",
     "pricing": "가격",
     "accessories": "부속품",
-    "home": "집",
-    "factory": "공장",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "냉장",
+    "cooling": "냉각",
+    "certifications": "인증",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "시장"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "산업용 가스 실린더 제조업체",
+    "title": "산업용 가스 실린더 및 장비 제조업체",
+    "subtitle": "국제 수출 구매자를 위한 아세틸렌 실린더, 프로판/LPG 실린더, 발전기 및 용접 부속품의 제조, OEM 및 도매 공급.",
+    "lineGas": "가스 실린더",
+    "lineCold": "냉동 장치",
+    "cta": "견적 받기",
+    "ctaSecondary": "제품 보기",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "제조업체 중심 공급"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "개인 상표 및 맞춤화"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "국제 배송 지원"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "검사 및 테스트 프로세스"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "요청 시 시장별 옵션"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "믿을 수 있는 가스 실린더 액세서리",
@@ -60,37 +60,37 @@
   "products": {
     "title": "우리의 제품",
     "subtitle": "산업 및 용접 응용 분야를 위한 아세틸렌 실린더, 발전기, 프로판 실린더 및 액세서리.",
+    "viewDetails": "세부정보 보기",
     "items": [
       {
         "title": "아세틸렌 실린더",
-        "desc": "용접, 절단 및 산업용 가스용 용해 아세틸렌 실린더. 다양한 크기와 밸브 옵션.",
-        "icon": "🔥",
-        "spec": "2L~40L · ISO / DOT / TPED"
+        "spec": "2L~40L · 시장별로 확정된 표준",
+        "desc": "용접, 절단 및 산업용 가스 공급용 용해 아세틸렌 실린더.",
+        "icon": "🔥"
       },
       {
         "title": "아세틸렌 발생기",
-        "desc": "안정적인 가스 생산, 쉬운 작동 및 산업 응용을 위한 장비입니다.",
-        "icon": "⚙️",
-        "spec": "산업용 발전 시스템"
+        "spec": "산업용 발전 시스템",
+        "desc": "현장 및 공장에서 안정적인 아세틸렌 생산을 위한 장비입니다.",
+        "icon": "⚙️"
       },
       {
         "title": "프로판 실린더",
-        "desc": "프로판 및 LPG용 내구성 있는 실린더 - 저장, 가열, 절단 및 산업용으로 사용됩니다.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · 시장별 밸브 옵션",
+        "desc": "가열, 절단 및 산업용으로 사용되는 내구성이 뛰어난 LPG 실린더입니다.",
+        "icon": "🛢️"
       },
       {
         "title": "실린더 액세서리",
-        "desc": "호스, 게이지, 절단 토치, 용접 버너, 안전 밸브 등.",
-        "icon": "🔧",
-        "spec": "밸브 · 레귤레이터 · 호스 · 토치"
+        "spec": "밸브 · 레귤레이터 · 호스 · 토치",
+        "desc": "적합한 피팅은 실린더와 함께 제공되거나 별도 주문으로 제공됩니다.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "세부정보 보기"
+    ]
   },
   "specs": {
     "title": "기술 사양",
-    "subtitle": "문의를 보내기 전에 실린더 옵션, 맞춤화 기능, 배송 세부 사항을 살펴보세요.",
+    "subtitle": "문의를 보내기 전에 실린더 옵션, 맞춤화 기능, 배송 세부정보를 살펴보세요.",
     "items": [
       {
         "title": "실린더 용량",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "완다 그룹을 선택하는 이유",
+    "subtitle": "제조 파트너를 평가하는 산업 구매자를 위한 구체적인 역량.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "제조업체 중심 공급",
+        "desc": "무역 카탈로그뿐만 아니라 생산 중심의 제품 공급."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM 지원",
+        "desc": "맞춤형 색상, 마킹, 밸브 및 포장은 주문별로 논의됩니다."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "품질 관리",
+        "desc": "배송 전 자재부터 포장까지 검수합니다."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "국제수출",
+        "desc": "해외 바이어를 위한 수출 포장 및 배송 조율."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "제품 맞춤화",
+        "desc": "시장 및 애플리케이션 요구 사항에 맞게 사양이 조정되었습니다."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "대응적인 영업 지원",
+        "desc": "양식, 이메일, 메신저를 통한 견적 및 기술 답변."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "대량 주문 기능",
+        "desc": "유통업체 및 프로젝트 구매자를 위한 도매 수량 지원."
       }
     ]
   },
   "about": {
-    "title": "전문 가스 실린더 제조업체",
-    "text": "Wanda Group 가스 실린더 제조업체는 산업용 가스 실린더 및 관련 부속품을 전문적으로 생산 및 공급합니다. 당사의 제품은 용접, 절단, 가스 유통, 산업용 저장 및 기타 가스 공급 분야에서 널리 사용됩니다.",
-    "text2": "해외 바이어의 제품 선택, 맞춤화, 품질 검사, 포장 및 배송 조정을 지원합니다.",
+    "title": "산업 바이어를 위한 가스 실린더 제조업체",
+    "text": "Wanda Group은 용접, 절단 및 산업용 가스 공급을 위한 아세틸렌 실린더, 프로판 실린더, 발전기 및 액세서리를 제조합니다.",
+    "text2": "해외바이어의 상품선정, OEM, 검품, 포장, 배송까지 지원해 드립니다.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "조작",
+        "desc": "산업용 가스 실린더의 성형, 용접, 테스트 및 마감."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM 지원",
+        "desc": "색상, 마킹, 밸브, 캡 및 포장 옵션을 주문별로 선택할 수 있습니다."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "품질 프로세스",
+        "desc": "주문 및 시장 요구 사항에 맞춰 검사 및 테스트합니다."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "국제수출",
+        "desc": "해외 산업바이어를 위한 문서화 및 포장 지원"
       }
     ]
   },
   "gallery": {
     "title": "우리 공장 내부",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "실제 공장 사진, 현장 파견 사진, 생산 현장의 짧은 영상 등을 만나보세요.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "야간 파견",
+        "desc": "장비를 포장한 채 떠나는 트레일러 - 장면에 시간과 장소가 찍혀 있습니다."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "선적을 위해 준비된 화물",
+        "desc": "발송을 위해 수집된 팔레트 및 부품. 스튜디오 세트가 아닌 실제 창고 사진입니다."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "포장된 재고",
+        "desc": "다음 출고 주문을 위해 창고에 상자가 쌓여 있습니다."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "파견을 위해 포장됨",
+        "desc": "배송을 위해 실린더를 포장하고 공장 야드에 배치했습니다."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "생산 컨베이어",
+        "desc": "성형 및 핸들링 라인을 통해 이동하는 실린더 본체."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG 마무리 라인",
+        "desc": "포장하기 전에 오버헤드 컨베이어에 LPG 실린더를 도색했습니다."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "공장 내부",
+        "desc": "생산 홀 - 사람, 기계, 가공 중인 재고."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "용접된 실린더 본체",
+        "desc": "원주 용접 후, 페인팅 및 밸브 전 쉘."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "페인팅 전 껍질",
+        "desc": "다음 공정 단계를 위해 도색되지 않은 몸체를 바닥에 배치합니다."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "진행 중인 재고",
+        "desc": "조립을 기다리는 튜브 섹션과 덮개가 있는 쉘."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "재고가 있는 실린더 바디",
+        "desc": "용접 후 헤드와 밸브 앞에 쌓인 압연 쉘."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "베이스 링",
+        "desc": "실린더 쉘에 용접하기 위해 준비된 풋 링."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "포장된 피팅",
+        "desc": "수출 배송을 위해 폼으로 포장된 밸브 및 피팅."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "아세틸렌 발생기",
+        "desc": "호스와 부속품이 포함된 발전기 장치가 공장에서 나갈 준비가 되어 있습니다."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "바닥에 껍질",
+        "desc": "용접 후 오픈 넥 바디 - 밸브 장착 전 배치."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "공장 비디오",
+    "videosSubtitle": "공장 현장의 새로운 반바지. 더 많은 영상은 요청 시 비공개로 전송됩니다."
   },
   "quality": {
     "title": "품질 관리",
     "subtitle": "모든 배치는 생산, 테스트, 검사 및 최종 품질 관리라는 동일한 경로를 따릅니다.",
     "steps": [
       {
-        "title": "생산",
-        "desc": "공장 공정 제어 하에 성형, 용접 및 조립."
+        "title": "원료",
+        "desc": "주문 및 프로세스 요구 사항에 따라 반입 자재를 검토합니다."
       },
       {
-        "title": "테스트",
-        "desc": "실린더가 라인을 떠나기 전 압력 및 누출 테스트."
+        "title": "생산",
+        "desc": "공장 공정 제어 하에 성형, 용접 및 조립."
       },
       {
         "title": "점검",
         "desc": "주문에 대한 시각적, 표시 및 치수 점검."
       },
       {
-        "title": "최종 품질 관리",
-        "desc": "수출 선적 전 포장 검사."
+        "title": "테스트",
+        "desc": "실린더가 라인을 떠나기 전 압력 및 누출 테스트."
+      },
+      {
+        "title": "최종 QC",
+        "desc": "포장 출고 전 최종 품질 관리를 실시합니다."
+      },
+      {
+        "title": "포장",
+        "desc": "운송을 위해 준비된 수출 포장입니다."
+      },
+      {
+        "title": "선적",
+        "desc": "아웃바운드 주문에 대한 문서를 로드하고 발송합니다."
       }
     ]
   },
   "faq": {
     "title": "자주 묻는 질문",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "회사, 제품, OEM 및 수출 — 견적 요청 전 해외 바이어에 대한 답변을 드립니다.",
     "cta": "원하는 질문을 찾지 못하셨나요? 제품, 사이즈, 수량, 도착 국가를 보내주시면 자세한 제안을 보내드리겠습니다.",
     "ctaBtn": "견적 받기",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "비디오 및 문서",
         "items": [
           {
             "q": "주문하기 전에 공장 동영상을 볼 수 있나요?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "예. 이 페이지의 공장 섹션에서 생산 비디오를 시청하세요. 요청 시 추가 영상, 포장 클립 및 인증서가 비공개로 전송됩니다."
           },
           {
             "q": "특히 아세틸렌 실린더에 대한 제품 비디오를 제공합니까?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "예. 귀하의 요청에 따라 아세틸렌 실린더에 대한 비디오, 사진 및 자세한 정보가 비공개로 전송됩니다."
           },
           {
             "q": "생산 및 품질관리 영상을 보여줄 수 있나요?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "예. 생산, 품질검사, 포장, 창고보관 등의 영상을 비공개로 전송해 제품이 어떻게 준비되는지 확인할 수 있습니다."
           },
           {
             "q": "특정 주문에 맞춰 제작된 제품 영상을 요청할 수 있나요?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "특정 주문이나 제품 요구사항이 있는 경우 당사에 문의하세요. 영상 지원에 대해 논의하고 자료를 비공개로 보내드리겠습니다."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "비디오, 인증서 및 견적을 받으려면 어떻게 해야 합니까?",
+            "a": "문의 양식에 제품 유형, 실린더 크기, 수량, 목적지 국가 및 보낼 항목(비디오, 인증서 또는 둘 다)을 지정하십시오. 개인적으로 보내드리고 제안을 준비하겠습니다."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "제품 사진과 사양을 제공해 주실 수 있나요?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "예. 제품 사진, 사양 및 데이터시트는 요청 시 비공개로 전송됩니다."
           },
           {
             "q": "액세서리 견적은 어떻게 받을 수 있나요?",
@@ -427,56 +439,117 @@
         "title": "아세틸렌 실린더 구매 예산 가이드",
         "desc": "비용에 영향을 미치는 요소와 최적의 제안을 선택하는 방법.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "더 큰 로트(200~500개 이상)는 의미 있는 할인을 받습니다. OEM 페인팅, 로고 및 특수 포장으로 인해 기본 가격이 5~15% 추가되지만 유통업체의 가치는 높아집니다.",
-          "또한 배송(FOB/CIF), 문서 및 MOQ도 고려하세요. 우리는 전체 사양, 리드 타임 및 인코텀즈를 포함하여 24시간 이내에 회신합니다.",
-          "정확한 견적을 받으려면 문의 양식에 모델, 수량, 대상 국가 및 밸브 요구 사항을 포함하거나 sales@wandagroups.com으로 이메일을 보내주세요."
+          "아세틸렌 실린더 가격은 볼륨, 밸브 유형, 대상 시장에 필요한 표준 및 주문 수량에 따라 다릅니다. 우리는 웹사이트에 고정 정가를 게시하지 않습니다.",
+          "더 큰 로트와 OEM 옵션(페인팅, 로고, 포장)은 귀하의 문의 사항을 검토한 후 개별적으로 견적됩니다.",
+          "배송 조건(FOB/CIF 및 유사), 문서 및 리드 타임은 공식 견적을 통해 확인됩니다.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "견적 요청",
-    "subtitle": "크기, 수량, 대상 국가 및 용도를 알려주시면 자세한 견적을 준비해 드리겠습니다.",
+    "title": "귀하의 요구 사항에 대해 논의해 봅시다",
+    "subtitle": "제품, 크기, 수량, 도착 국가 및 사양을 알려주시면 영업팀에서 제품 정보와 견적을 보내드립니다.",
     "formTitle": "견적 요청",
-    "formSubtitle": "귀하의 요구 사항을 남겨주세요. 당사 영업팀이 제품 정보, 가격, MOQ 및 리드 타임에 대해 답변해 드릴 것입니다.",
+    "formSubtitle": "상업 문의 양식을 작성하세요. 필수 입력란이 표시되어 있습니다.",
     "name": "이름",
+    "company": "회사",
     "phone": "전화/왓츠앱",
     "email": "이메일",
     "product": "제품",
-    "quantity": "수량",
-    "country": "목적지 국가",
+    "quantity": "수량(선택사항)",
+    "country": "대상 국가(선택사항)",
     "productOptions": [
       "아세틸렌 실린더",
       "프로판 실린더",
       "아세틸렌 발생기",
       "부속품",
-      "번들 주문",
-      "Cold storage / refrigeration"
+      "냉장/냉장",
+      "번들 주문"
     ],
+    "quantityPlaceholder": "예를 들어 200개, 1개 컨테이너 또는 TBD",
+    "countryPlaceholder": "상품이 배송될 곳",
     "message": "추가 요구 사항",
     "messagePlaceholder": "상품, 사이즈, 수량, 도착국가...",
-    "submit": "문의 보내기",
+    "submit": "문의 제출",
     "sending": "배상...",
     "success": "감사합니다! 곧 연락드리겠습니다.",
     "sendAnother": "다른 문의 보내기",
     "errorGeneric": "전송하지 못했습니다. 다시 시도하거나 직접 이메일을 보내주세요.",
-    "errorNoForm": "양식이 구성되지 않았습니다. sales@wandagroups.com으로 이메일을 보내주세요.",
-    "privacyPrefix": "나는 다음에 동의한다.",
-    "privacySuffix": "그리고 이 문의를 처리하기 위해 내 개인 데이터를 처리합니다.",
-    "privacyLink": "개인 정보 보호 정책",
-    "company": "회사",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "이메일 앱을 통해 보내기",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "나는 다음에 동의한다.",
+    "privacySuffix": ", 그리고 이 문의를 처리하기 위해 내 개인 데이터를 처리합니다.",
+    "privacyLink": "개인 정보 보호 정책",
+    "termsAnd": "그리고",
+    "termsLink": "이용약관",
+    "requirements": "요구사항/사양",
+    "requirementsPlaceholder": "밸브 유형, 색상, 표준, 포장, OEM 표시, 수량 메모..."
   },
   "footer": {
     "company": "완다 그룹 가스 실린더 제조업체",
     "tagline": "전문 가스통 제조",
     "rights": "© 2026 완다 그룹. 모든 권리 보유.",
     "privacy": "개인 정보 보호 정책",
-    "terms": "Terms of Use"
+    "terms": "이용약관"
+  },
+  "privacy": {
+    "label": "합법적인",
+    "title": "개인 정보 보호 정책",
+    "updated": "최종 업데이트 날짜: 2026년 8월 25일",
+    "intro": [
+      "Wanda Group(“당사”)은 가스 실린더, 부속품 및 관련 수출 공급품을 소개하고 산업 바이어로부터 상업적 문의를 받기 위해 이 웹사이트를 운영합니다.",
+      "이 정책은 당사가 사이트를 통해 수집하는 개인 데이터의 종류, 이를 사용하는 이유, 이에 대해 귀하가 당사에 연락할 수 있는 방법을 설명합니다. 이 웹사이트에는 공장 생산 비디오가 표시됩니다. 인증서 파일은 요청 시 비공개로 전송됩니다."
+    ],
+    "sections": [
+      {
+        "title": "책임은 누구에게 있는가",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "우리가 수집하는 데이터",
+        "body": [
+          "문의 양식을 보내면 이름, 이메일, 전화번호, 대상 국가, 제품 유형, 수량, 메시지 등 귀하가 입력한 데이터가 수신됩니다.",
+          "또한 사이트는 귀하가 선택한 언어를 브라우저(localStorage)에 저장합니다. 우리는 광고 쿠키를 실행하거나 방문자 목록을 판매하지 않습니다."
+        ]
+      },
+      {
+        "title": "우리가 데이터를 사용하는 이유",
+        "body": [
+          "당사는 귀하의 요청에 대한 답변, 견적 준비, 귀하가 요청한 제품 정보, 비디오 또는 인증서 전송, 협력 시작 시 주문 조율 목적으로만 문의 데이터를 사용합니다.",
+          "법적 근거: 양식의 확인란을 선택할 때 귀하의 동의와 B2B 판매 요청에 대한 당사의 정당한 관심."
+        ]
+      },
+      {
+        "title": "데이터를 받는 사람",
+        "body": [
+          "귀하의 메시지는 이메일을 통해 영업팀에 전달됩니다. 양식은 메시지를 당사에 전송하는 기술 제공업체인 Web3Forms에 의해 처리됩니다.",
+          "우리는 개인 데이터를 판매하지 않습니다. 우리는 합의된 주문을 이행하는 데 필요한 경우에만 물류, 검사 또는 은행 파트너와 필요한 것을 공유할 수 있습니다."
+        ]
+      },
+      {
+        "title": "우리가 그것을 얼마나 오래 보관하는지",
+        "body": [
+          "문의 데이터는 법률이 허용하는 경우 귀하가 조기에 삭제하도록 요청하지 않는 한, 요청을 처리하는 데 필요한 기간 동안 보관되며 이후 판매 후속 조치 및 회계를 위해 합리적인 기간 동안 보관됩니다."
+        ]
+      },
+      {
+        "title": "귀하의 권리",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "보안과 어린이",
+        "body": [
+          "우리는 전송 중인 메시지와 사서함에 있는 메시지를 보호하기 위해 합리적인 기술 및 조직적 조치를 취합니다. 이 웹사이트는 어린이를 위한 것이 아닌 비즈니스 구매자를 위한 것입니다."
+        ]
+      }
+    ],
+    "contactLead": "이 정책에 대한 질문:"
   },
   "ui": {
     "catalog": "목록",
@@ -494,6 +567,7 @@
     "location": "위치",
     "quoteResponse": "견적 응답",
     "support": "지원하다",
+    "countriesServed": "수출 지원",
     "exportReady": "수출 준비 완료",
     "years": "연령",
     "acetylene": "아세틸렌",
@@ -508,17 +582,25 @@
     "quality": "품질",
     "faq": "FAQ",
     "blog": "블로그",
-    "countriesServed": "서비스를 제공하는 국가",
     "searchLanguage": "검색 언어...",
-    "noLanguagesFound": "언어를 찾을 수 없습니다."
+    "noLanguagesFound": "언어를 찾을 수 없습니다.",
+    "breadcrumb": "탐색경로",
+    "primaryNav": "주요한",
+    "menu": "메뉴",
+    "playVideo": "비디오 재생",
+    "productGallery": "제품 갤러리",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / 개인 상표",
+    "국제수출",
+    "품질 관리",
+    "요청 시 시장 표준",
+    "대량 주문"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "인증",
-        "desc": "Documents for customs and regulators.",
+        "desc": "세관 및 규제 기관을 위한 문서. 사본은 요청 시 개인적으로 전송됩니다.",
         "points": [
           "ISO 9809, 도트, TPED",
           "MSDS 및 품질인증서",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "가격 및 공급 조건",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "상업적 조건은 문의마다 확정됩니다. 정식 견적을 받으려면 제품, 수량, 목적지 세부 정보를 보내세요.",
+    "note": "우리는 이 웹사이트에 고정 정가, MOQ 또는 리드 타임을 게시하지 않습니다. 정확한 상업 조건은 귀하의 요구 사항을 검토한 후 견적을 통해 확인됩니다.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "가격",
+        "value": "요청 시",
+        "desc": "문의 검토 후 정식 견적"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "주문별로 확인됨",
+        "desc": "모델과 목적지에 따라 다름"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "리드타임",
+        "value": "주문별로 확인됨",
+        "desc": "견적과 공유"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "지불",
+        "value": "계약에 동의함",
+        "desc": "생산 전에 확인된 조건"
       }
     ],
     "factors": {
-      "title": "가격 요소",
+      "title": "견적에 영향을 미치는 것",
       "items": [
-        "실린더 용량 및 모델(2L – 50L)",
-        "밸브 유형(CGA, GOST, DIN, POL)",
-        "인증규격(ISO, DOT, TPED)",
-        "OEM: 색상, 마킹, 포장",
+        "실린더 용량 및 모델",
+        "밸브 종류 및 연결 규격",
+        "대상 시장에 필요한 표준",
+        "OEM 색상, 마킹 및 포장",
         "주문량 및 인코텀즈"
       ]
     },
     "samples": [
       {
-        "product": "아세틸렌 WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "아세틸렌 실린더",
+        "moq": "요청 시",
+        "price": "문의 당 견적",
+        "lead": "주문별로 확인됨"
       },
       {
-        "product": "아세틸렌 WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "프로판/LPG 실린더",
+        "moq": "요청 시",
+        "price": "문의 당 견적",
+        "lead": "주문별로 확인됨"
       },
       {
-        "product": "프로판 WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "발전기",
+        "moq": "요청 시",
+        "price": "문의 당 견적",
+        "lead": "주문별로 확인됨"
       },
       {
-        "product": "프로판 WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "발전기 WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "레귤레이터 세트",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "부속품",
+        "moq": "요청 시",
+        "price": "문의 당 견적",
+        "lead": "주문별로 확인됨"
       }
     ],
     "tableHeaders": [
       "제품",
       "MOQ",
-      "가격(EXW)",
+      "가격",
       "리드타임"
     ]
   },
   "certifications": {
     "title": "인증 및 표준",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "표준 및 인증 옵션은 제품 및 대상 시장에 따라 논의됩니다. 인증서 사본은 요청 시 비공개로 전송되며 파일은 이 웹사이트에 게시되지 않습니다.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "견적받기",
-        "desc": "24시간 이내 가격, MOQ, 리드타임 및 사양 시트"
+        "desc": "영업팀의 검토 후 가격, MOQ, 리드 타임 및 사양 시트"
       },
       {
         "title": "주문 확인",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "생산 시작 전 합의된 계약 및 지불 조건"
       },
       {
         "title": "생산 및 QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "제조 및 테스트. 요청 시 비디오와 인증서가 비공개로 전송됩니다."
       },
       {
         "title": "선적",
-        "desc": "포장, 서류, FOB/CIF/DDP 배송"
+        "desc": "주문서에 합의된 포장, 문서 및 배송 조건"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "구매자가 말하는 것",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "우리는 올해 40L 아세틸렌 실린더를 세 번 재주문했습니다. GOST 밸브, OEM 색상 및 수출 포장은 매번 첫 번째 샘플과 일치했습니다.",
+        "author": "루스탐 유스포프",
+        "role": "소유주, 용접가스 유통업체",
+        "country": "우즈베키스탄"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "명확한 MOQ와 리드타임이 포함된 견적이 당일 발송되었습니다. 프로판 병은 POL 밸브 및 전체 포장 목록과 함께 도착했습니다. 우리 측에서는 통관 지연이 없습니다.",
+        "author": "아이게림 베코바",
+        "role": "조달 관리자, 산업 공급",
+        "country": "카자흐스탄"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "우리는 레귤레이터와 호스가 포함된 실린더를 하나의 컨테이너 주문으로 구매합니다. 문서와 마킹이 우리 시장에 준비되어 있었기 때문에 재판매가 간단했습니다.",
+        "author": "파이살 알 하르비",
+        "role": "수입바이어, 가스장비 무역",
+        "country": "사우디아라비아"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "품질",
         "eyebrow": "품질 및 안전",
         "title": "견적에 넣을 수 있는 검사",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "재료 점검, 누출 테스트, 밸브 토크 및 포장 사진. 인증서 팩과 사진 보고서는 요청 시 비공개로 전송됩니다.",
         "points": [
           "압력 및 누출 테스트",
-          "Certificate package",
+          "요청 시 인증서",
           "선적 전 사진"
         ]
       },
       {
         "id": "내보내다",
         "eyebrow": "글로벌 수출",
-        "title": "항구에 맞게 포장되어 50개 이상의 국가에 사용 가능",
+        "title": "항구용으로 포장되어 수출 시장에 대비",
         "text": "목적지 인코텀즈에 맞게 조정된 팔레트, 밸브 보호, 다국어 라벨 및 배송 문서를 수출하세요.",
         "points": [
           "FOB / CIF 지원",
           "팔레트 포장",
           "리드타임 15~25일"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "포장된 가스 실린더를 공장 마당에 배치하여 발송",
+    "about": "완다그룹 공장 현장의 근로자들",
+    "accessories": "가스 실린더 액세서리 키트 - 조절기, 호스, 토치 및 부속품",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "다공성 물질과 황동 밸브가 있는 용해된 아세틸렌 실린더",
+      "공장에서 촬영된 아세틸렌 발생기",
+      "다양한 크기와 색상의 프로판 및 LPG 실린더",
+      "가스 실린더용 용접 및 절단 액세서리 키트"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "야간 파견: 포장된 장비를 트레일러에 싣습니다.",
+      "배송을 위해 준비된 팔레트 및 금속 부품",
+      "창고에 쌓인 포장된 재고 상자",
+      "공장 마당에 설치된 필름으로 싸인 실린더",
+      "공장 지붕 아래 가스 실린더 생산 컨베이어",
+      "오버헤드 마무리 컨베이어에 매달려 있는 LPG 실린더",
+      "완다그룹 공장 현장을 걷고 있는 근로자들",
+      "도색되지 않은 용접 프로판 실린더 본체가 2단으로 쌓여 있음",
+      "콘크리트 바닥에 도색되지 않은 원통 껍질이 줄지어 늘어서 있습니다.",
+      "작업장의 실린더 튜브 스톡 및 덮개가 있는 쉘",
+      "공장 벽에 쌓인 원통형 본체",
+      "조립 전 쌓인 강철 베이스 링",
+      "폼이 있는 상자에 포장된 황동 피팅",
+      "호스와 박스형 액세서리가 포함된 아세틸렌 발생기",
+      "용접 후 열린 목이 있는 도색되지 않은 실린더 쉘"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Copeland 반밀폐형 압축기를 갖춘 공냉식 응축 장치",
+      "Bitzer 반밀폐형 압축기를 갖춘 공냉식 응축 장치",
+      "밀폐형 캐비닛형 냉동 응축 장치",
+      "대용량 4팬 공냉식 응축 장치"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "합법적인",
-    "title": "개인 정보 보호 정책",
-    "updated": "최종 업데이트 날짜: 2026년 8월 25일",
-    "intro": [
-      "Wanda Group(“당사”)은 가스 실린더, 부속품 및 관련 수출 공급품을 소개하고 산업 바이어로부터 상업적 문의를 받기 위해 이 웹사이트를 운영합니다.",
-      "이 정책은 당사가 사이트를 통해 수집하는 개인 데이터의 종류, 이를 사용하는 이유, 이에 관해 귀하가 당사에 연락할 수 있는 방법을 설명합니다. 우리는 웹사이트에 공장 비디오나 인증서 파일을 게시하지 않습니다. 해당 자료는 요청 시 비공개로 전송됩니다."
-    ],
-    "sections": [
-      {
-        "title": "책임은 누구에게 있는가",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "우리가 수집하는 데이터",
-        "body": [
-          "문의 양식을 보내면 이름, 이메일, 전화번호, 대상 국가, 제품 유형, 수량, 메시지 등 귀하가 입력한 데이터가 수신됩니다.",
-          "또한 사이트는 귀하가 선택한 언어를 브라우저(localStorage)에 저장합니다. 우리는 광고 쿠키를 실행하거나 방문자 목록을 판매하지 않습니다."
-        ]
-      },
-      {
-        "title": "우리가 데이터를 사용하는 이유",
-        "body": [
-          "당사는 귀하의 요청에 대한 답변, 견적 준비, 귀하가 요청한 제품 정보, 비디오 또는 인증서 전송, 협력 시작 시 주문 조율 목적으로만 문의 데이터를 사용합니다.",
-          "법적 근거: 양식의 확인란을 선택할 때 귀하의 동의와 B2B 판매 요청에 대한 당사의 정당한 관심."
-        ]
-      },
-      {
-        "title": "데이터를 받는 사람",
-        "body": [
-          "귀하의 메시지는 이메일을 통해 영업팀에 전달됩니다. 구성에 따라 양식은 메시지를 당사에 전송하는 기술 제공자로서 Web3Forms에 의해 처리될 수 있습니다.",
-          "우리는 개인 데이터를 판매하지 않습니다. 우리는 합의된 주문을 이행하는 데 필요한 경우에만 물류, 검사 또는 은행 파트너와 필요한 것을 공유할 수 있습니다."
-        ]
-      },
-      {
-        "title": "우리가 그것을 얼마나 오래 보관하는지",
-        "body": [
-          "문의 데이터는 법률이 허용하는 경우 귀하가 조기에 삭제하도록 요청하지 않는 한, 요청을 처리하는 데 필요한 기간 동안 보관되며 이후 판매 후속 조치 및 회계를 위해 합리적인 기간 동안 보관됩니다."
-        ]
-      },
-      {
-        "title": "귀하의 권리",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "보안과 어린이",
-        "body": [
-          "우리는 전송 중인 메시지와 사서함에 있는 메시지를 보호하기 위해 합리적인 기술 및 조직적 조치를 취합니다. 이 웹사이트는 어린이를 위한 것이 아닌 비즈니스 구매자를 위한 것입니다."
-        ]
-      }
-    ],
-    "contactLead": "이 정책에 대한 질문:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "합법적인",
+    "title": "이용약관",
+    "updated": "최종 업데이트 날짜: 2026년 8월 27일",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "본 약관은 가스 실린더, 발전기 및 액세서리 산업 구매자를 위해 Wanda Group이 운영하는 wandagroups.com의 사용에 적용됩니다.",
+      "사이트를 탐색하거나 문의를 보내면 본 약관과 개인정보 보호정책에 동의하는 것입니다. 동의하지 않으시면 사이트를 이용하지 마세요."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "우리는 누구인가",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "웹사이트의 용도",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "제품정보를 제공하고 상업적인 문의를 받는 사이트입니다. 이는 개인으로서 쇼핑하는 소비자가 아닌 기업 구매자를 위한 것이며 어린이를 위한 것이 아닙니다."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "견적, 가격 및 주문",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "사이트의 가격, MOQ, 리드 타임 및 사양은 참고용입니다. 폼이나 메신저를 통한 메시지는 주문이 아닌 문의입니다.",
+          "계약은 양측이 서면(이메일 또는 서명된 문서)으로 제안을 확인하고 합의된 보증금을 수령한 경우에만 존재합니다. 단, 해당 확인서에 달리 명시하지 않는 한."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "사진, 비디오 및 인증서",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "현장의 공장 사진과 비디오는 생산 과정을 보여줍니다. 추가 영상과 인증서 파일은 요청 시 비공개로 전송되며 귀하가 공유할 수 있다고 명시하지 않는 한 기밀 자료로 유지됩니다."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "지적재산권",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "이 웹사이트의 텍스트, 사진, 비디오, 로고 및 레이아웃은 Wanda Group 또는 라이센스 제공자의 소유입니다. 귀하는 당사의 서면 동의 없이 귀하의 상업용 사이트에 대한 카탈로그를 복사할 수 없습니다."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "허용되는 사용",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "문의 양식을 오용(스팸, 허위 신원 또는 사이트 방해 시도)하지 마십시오. 악의적인 요청은 무시되거나 삭제될 수 있습니다."
         ]
       },
       {
-        "title": "Liability",
+        "title": "책임",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "우리는 정보의 정확성을 유지하기 위해 노력하지만 사이트에 오류가 있거나 일시적으로 이용이 불가능할 수 있습니다. 법이 허용하는 한도 내에서 완다그룹은 웹사이트 사용으로 인해 발생하는 간접적인 손실에 대해 책임을 지지 않습니다.",
+          "실제 공급 계약에 대한 책임은 본 웹사이트 약관에만 국한된 것이 아니라 해당 계약 및 해당 법률에 명시되어 있습니다."
         ]
       },
       {
-        "title": "Changes",
+        "title": "변경 사항",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "당사는 본 약관을 업데이트할 수 있습니다. 상단의 날짜는 현재 버전을 나타냅니다. 변경 후에도 사이트를 계속 사용한다는 것은 업데이트된 약관에 동의한다는 것을 의미합니다."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "이 용어에 대한 질문:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "우리의 제품 라인",
+    "title": "냉동 장치",
+    "subtitle": "제3자 카탈로그가 아닌 별도의 Wanda Group 라인입니다. 실린더와 함께 또는 독립형 주문으로 당사에서 공급하는 응축 장치, 냉장실 및 하드웨어.",
+    "moreLink": "냉장 보관 장비 →",
+    "cta": "견적 요청",
+    "alsoTitle": "요청 시 이용 가능",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "폴리우레탄 냉장실 패널(B1/B2) 및 304 스테인레스 패널",
+      "냉장실 공기 냉각기 — DL(~0°C), DD(~−18°C), DJ(~−25°C)",
+      "알루미늄 증발기 코일",
+      "냉장실 문",
+      "산업용 냉각기",
+      "차량용 냉장 장치 및 이동식 냉장실"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade는 가스 실린더 라인과 함께 장치, 패널, 냉각기 및 관련 저온 유통 하드웨어 등 냉동 장비를 공급합니다. Copeland, Bitzer 및 유사한 이름은 해당 회사의 브랜드 변경이 아니라 장치 내부의 압축기 브랜드를 나타냅니다.",
+    "videoTitle": "회사 영상",
+    "videoSubtitle": "냉동 장비 라인 개요. 더 많은 영상은 요청 시 비공개로 전송됩니다.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland 반밀폐형 공냉식 장치",
+        "spec": "응축 장치 · Copeland 압축기",
+        "desc": "냉장실 및 중온용 Copeland 반밀폐형 압축기를 갖춘 공냉식 응축 장치입니다."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer 반밀폐형 공냉식 장치",
+        "spec": "응축 장치 · Bitzer 압축기",
+        "desc": "고부하 및 중저온 실내용 Bitzer 반밀폐형 압축기를 갖춘 공냉식 응축 장치입니다."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "밀폐형 박스형 유닛",
+        "spec": "캐비닛 응축 장치",
+        "desc": "개방형 스키드가 아닌 내장형 기계가 필요한 현장을 위한 밀폐형 캐비닛 스타일 응축 장치입니다."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U형 / 대용량 응축기",
+        "spec": "다중 팬 공냉식",
+        "desc": "더 큰 냉장 창고 및 공정 냉각을 위한 다중 팬 응축기를 갖춘 더 큰 공냉식 응축 장치입니다."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "우리는 누구인가",
+    "title": "B2B 구매자를 위한 산업 제조업체",
+    "text": "Wanda Groups는 해외 유통업체, OEM 파트너 및 프로젝트 구매자를 위한 산업용 가스 실린더, 발전기 및 용접 액세서리를 제조 및 공급합니다.",
+    "text2": "우리의 초점은 소매 소비자 판매가 아닌 공장 연계 공급, 제품 선택 지원, 대량 주문 및 수출 조정입니다.",
+    "cta": "우리에 대해 더 알아보기"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "견적을 요청할 준비가 되셨나요?",
+      "quoteCta": "견적 요청",
+      "relatedProducts": "관련상품",
+      "applications": "응용",
+      "standardsTitle": "표준 및 인증",
+      "oemTitle": "OEM/맞춤화",
+      "packagingTitle": "포장 및 배송",
+      "placeholders": {
+        "standards": "사용 가능한 표준 및 인증서는 주문 및 대상 시장별로 확인됩니다. 인증서 사본은 요청 시 비공개로 전송되며 파일은 웹사이트에 게시되지 않습니다.",
+        "oem": "OEM 색상, 마킹, 밸브, 캡 및 포장 옵션은 주문 및 목표 시장에 따라 논의될 수 있습니다.",
+        "packaging": "수출 포장 및 문서는 주문 및 배송 조건에 따라 준비됩니다."
+      }
+    },
+    "home": {
+      "seoTitle": "가스 실린더 제조업체 | 산업용 OEM 및 수출 | 완다 그룹",
+      "seoDescription": "Wanda Groups는 OEM, 도매 및 국제 수출 구매자를 위한 산업용 가스 실린더, 발전기 및 용접 액세서리를 제조합니다."
+    },
+    "about": {
+      "label": "회사 소개",
+      "title": "산업 바이어를 위한 가스 실린더 제조업체",
+      "subtitle": "해외바이어의 상품선정, OEM, 검품, 포장, 배송까지 지원해 드립니다.",
+      "seoTitle": "완다그룹 소개",
+      "seoDescription": "Wanda Group은 용접, 절단 및 산업용 가스 공급을 위한 아세틸렌 실린더, 프로판 실린더, 발전기 및 액세서리를 제조합니다."
+    },
+    "products": {
+      "label": "제품",
+      "title": "우리의 제품",
+      "subtitle": "산업 및 용접 응용 분야를 위한 아세틸렌 실린더, 발전기, 프로판 실린더 및 액세서리.",
+      "seoTitle": "가스 실린더 제품",
+      "seoDescription": "산업 및 용접 응용 분야를 위한 아세틸렌 실린더, 발전기, 프로판 실린더 및 액세서리.",
+      "refrigerationNote": "Wanda International Trade는 가스 실린더 라인과 함께 장치, 패널, 냉각기 및 관련 저온 유통 하드웨어 등 냉동 장비를 공급합니다. Copeland, Bitzer 및 유사한 이름은 해당 회사의 브랜드 변경이 아니라 장치 내부의 압축기 브랜드를 나타냅니다.",
+      "catalog": {
+        "acetylene": {
+          "name": "용해된 아세틸렌 실린더",
+          "overview": "안전한 아세틸렌 보관 및 운송을 위한 다공성 물질과 용매가 포함된 강철 실린더입니다. 용접, 절단, 브레이징 및 금속 가공에 사용됩니다.",
+          "seoTitle": "아세틸렌 가스 실린더",
+          "seoDescription": "안전한 아세틸렌 보관 및 운송을 위한 다공성 물질과 용매가 포함된 강철 실린더입니다. 용접, 절단, 브레이징 및 금속 가공에 사용됩니다."
+        },
+        "propane": {
+          "name": "프로판 실린더",
+          "overview": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다.",
+          "seoTitle": "프로판 가스 실린더",
+          "seoDescription": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다."
+        },
+        "lpg": {
+          "name": "LPG 실린더",
+          "overview": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다.",
+          "seoTitle": "LPG 가스통",
+          "seoDescription": "프로판, 부탄, LPG 혼합물용 실린더. 가열, 절단, 브레이징, 건설, 산업용 가스 공급에 사용됩니다."
+        },
+        "industrial": {
+          "name": "산업용 가스 실린더",
+          "overview": "귀하의 시장에 맞는 아세틸렌, 프로판 및 LPG 옵션을 포함하여 용접, 절단 및 플랜트 공급을 위한 산업용 가스 실린더입니다.",
+          "seoTitle": "산업용 가스 실린더",
+          "seoDescription": "Wanda Group의 용접, 절단 및 플랜트 공급용 산업용 가스 실린더."
+        },
+        "generators": {
+          "name": "아세틸렌 발생기",
+          "overview": "탄화칼슘으로부터 아세틸렌을 생산하는 장비. 중앙 집중식 가스 인프라 없이 용접 및 산업용으로 안정적인 가스 공급이 가능합니다.",
+          "seoTitle": "아세틸렌 발생기",
+          "seoDescription": "탄화칼슘으로부터 아세틸렌을 생산하는 장비. 중앙 집중식 가스 인프라 없이 용접 및 산업용으로 안정적인 가스 공급이 가능합니다."
+        },
+        "accessories": {
+          "name": "실린더 액세서리 및 피팅",
+          "overview": "안전한 가스 실린더 작동을 위한 전체 제품군: 게이지부터 용접 토치까지. 실린더를 통한 원스톱 조달.",
+          "seoTitle": "용접 액세서리",
+          "seoDescription": "안전한 가스 실린더 작동을 위한 전체 제품군: 게이지부터 용접 토치까지. 실린더를 통한 원스톱 조달."
+        },
+        "refrigeration": {
+          "name": "냉동 장치",
+          "overview": "제3자 카탈로그가 아닌 별도의 Wanda Group 라인입니다. 실린더와 함께 또는 독립형 주문으로 당사에서 공급하는 응축 장치, 냉장실 및 하드웨어.",
+          "seoTitle": "냉동 장치",
+          "seoDescription": "제3자 카탈로그가 아닌 별도의 Wanda Group 라인입니다. 실린더와 함께 또는 독립형 주문으로 당사에서 공급하는 응축 장치, 냉장실 및 하드웨어."
+        }
+      }
+    },
+    "factory": {
+      "label": "공장",
+      "title": "공장 및 제조",
+      "subtitle": "생산, 검사, 포장 및 배송 - 실제 공장 사진과 공장 비디오로 문서화됩니다.",
+      "seoTitle": "공장 및 생산 | 완다 그룹",
+      "seoDescription": "실제 공장 사진, 현장 파견 사진, 생산 현장의 짧은 영상 등을 만나보세요.",
+      "sections": [
+        {
+          "title": "조작",
+          "text": "공장 생산 흐름의 일부인 실린더 성형, 용접 및 마감."
+        },
+        {
+          "title": "생산 과정",
+          "text": "쉘 준비부터 조립 및 마감까지 - 진행 중인 재고 및 생산 현장 영상을 확인하세요."
+        },
+        {
+          "title": "품질검사",
+          "text": "배송용 실린더를 준비하면서 시각적, 표시 및 치수 점검을 수행합니다."
+        },
+        {
+          "title": "테스트",
+          "text": "주문 요구 사항에 따라 제품이 라인에서 출고되기 전에 압력 및 누출 테스트가 적용됩니다."
+        },
+        {
+          "title": "포장",
+          "text": "수출용 포장은 해외 운송을 위한 실린더 및 부속품을 보호합니다."
+        },
+        {
+          "title": "로드 및 내보내기",
+          "text": "아웃바운드 주문에 대한 창고 준비, 트럭 적재 및 발송 문서입니다."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "인증",
+      "title": "인증 및 표준",
+      "subtitle": "구매자가 일반적으로 요구하는 표준은 다음과 같습니다. 적용 여부는 제품 및 대상 시장에 따라 다릅니다. 인증서 사본, 번호 및 유효성은 요청 시 비공개로 공유되며 확인되지 않은 주장으로 게시되지 않습니다.",
+      "seoTitle": "인증 및 표준 | 완다 그룹",
+      "seoDescription": "시장별로 Wanda Groups 가스 실린더에 대해 논의된 표준입니다. 인증서 사본은 요청 시 비공개로 제공됩니다.",
+      "note": "인증서 사본은 요청 시 비공개로 전송됩니다. 우리는 웹사이트에 인증서 파일을 게시하지 않습니다."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM 및 도매",
+      "subtitle": "유통업체 및 산업 구매자를 위한 자체 상표 및 대량 공급 옵션입니다.",
+      "seoTitle": "OEM 가스 실린더 공급",
+      "seoDescription": "해외 브랜드 및 유통업체를 위한 OEM 및 자체 라벨 가스 실린더 제조.",
+      "quoteTitle": "OEM 요구 사항 논의",
+      "quoteCta": "OEM 견적 요청",
+      "capabilities": [
+        {
+          "title": "맞춤형 로고",
+          "text": "적격 OEM 주문에 대해 논의된 로고 및 마킹 옵션."
+        },
+        {
+          "title": "사용자 정의 색상",
+          "text": "시장 또는 브랜드 요구 사항에 따른 실린더 색상."
+        },
+        {
+          "title": "맞춤형 포장",
+          "text": "주문에 따라 상자, 팔레트 및 포장 표시를 수출합니다."
+        },
+        {
+          "title": "개인 상표",
+          "text": "유통업체 채널을 위한 라벨링 및 브랜드 프리젠테이션."
+        },
+        {
+          "title": "대량 주문",
+          "text": "프로젝트 및 유통업체 조달을 위한 도매 수량입니다."
+        },
+        {
+          "title": "OEM 제조",
+          "text": "귀하의 사양과 시장에 맞는 제품 구성."
+        },
+        {
+          "title": "수출 지원",
+          "text": "해외 배송을 위한 서류 및 배송 조율."
+        }
+      ]
+    },
+    "markets": {
+      "label": "시장",
+      "title": "글로벌 시장",
+      "subtitle": "우리는 국제 B2B 구매자를 지원합니다. 아래 지역은 일반적인 문의 영역을 설명합니다. 특정 국가 및 프로젝트는 사례별로 확인됩니다.",
+      "seoTitle": "글로벌 시장 | 완다 그룹 수출",
+      "seoDescription": "Wanda Groups는 아프리카, 중동, 중앙 아시아, 동남아시아, 라틴 아메리카 및 기타 시장의 국제 산업 바이어와 협력하고 있습니다.",
+      "note": "이 페이지에는 확인되지 않은 국가 수, 고객 이름 또는 프로젝트 참조를 게시하지 않습니다.",
+      "regions": [
+        {
+          "title": "아프리카",
+          "text": "아프리카 시장의 산업 및 대리점 문의."
+        },
+        {
+          "title": "중동",
+          "text": "구매자는 지역 프로젝트를 위해 실린더 및 관련 장비를 소싱합니다."
+        },
+        {
+          "title": "중앙아시아",
+          "text": "중앙아시아 시장 전반에 걸친 도매 및 프로젝트 공급 논의."
+        },
+        {
+          "title": "동남아시아",
+          "text": "수출용 실린더 공급을 평가하는 산업 구매자."
+        },
+        {
+          "title": "라틴 아메리카",
+          "text": "산업용 가스통 및 부속품 공급에 대한 문의입니다."
+        },
+        {
+          "title": "기타 국제 시장",
+          "text": "추가 배송지는 상품 규격 및 물류에 따라 검토됩니다."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "응용",
+      "title": "실린더 응용",
+      "subtitle": "일반적인 산업용 가스 작업 및 해외 구매자 요구 사항에 맞게 설계된 제품입니다.",
+      "seoTitle": "실린더 응용",
+      "seoDescription": "일반적인 산업용 가스 작업 및 해외 구매자 요구 사항에 맞게 설계된 제품입니다.",
+      "items": [
+        {
+          "title": "용접 및 브레이징",
+          "text": "작업장 및 제작 용접을 위한 용해 아세틸렌 및 관련 장비."
+        },
+        {
+          "title": "금속절단",
+          "text": "현장 및 공장 내 순산소 절단용 실린더 및 부속품."
+        },
+        {
+          "title": "산업용 가스 공급",
+          "text": "산업용 유통 및 플랜트 가스 시스템용 실린더 공급 장치입니다."
+        },
+        {
+          "title": "건설",
+          "text": "건설 및 유지보수 작업을 위한 휴대용 가스 공급 장치입니다."
+        },
+        {
+          "title": "금속 제조",
+          "text": "제조 공장 및 조선소용 실린더 및 액세서리."
+        },
+        {
+          "title": "가스 저장 및 유통",
+          "text": "산업용 구매자를 위한 보관 및 유통 준비 실린더입니다."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "자주 묻는 질문",
+      "subtitle": "회사, 제품, OEM 및 수출 — 견적 요청 전 해외 바이어에 대한 답변을 드립니다.",
+      "seoTitle": "FAQ",
+      "seoDescription": "회사, 제품, OEM 및 수출 — 견적 요청 전 해외 바이어에 대한 답변을 드립니다."
+    },
+    "contactPage": {
+      "label": "연락하다",
+      "title": "귀하의 요구 사항에 대해 논의해 봅시다",
+      "subtitle": "양식, 이메일 또는 메신저를 통해 영업팀에 연락하세요. 더 빠른 견적을 받으려면 제품, 수량, 목적지를 공유하세요.",
+      "seoTitle": "견적 요청",
+      "seoDescription": "크기, 수량, 대상 국가 및 용도를 알려주시면 자세한 견적을 준비해 드리겠습니다."
+    },
+    "blog": {
+      "label": "블로그",
+      "title": "최신 기사",
+      "subtitle": "용접 및 가스 공급 전문가를 위한 전문가 콘텐츠입니다.",
+      "seoTitle": "기사 및 가이드",
+      "seoDescription": "용접 및 가스 공급 전문가를 위한 전문가 콘텐츠입니다.",
+      "coming": "더 많은 구매자 가이드와 제품 노트가 여기에 추가됩니다. 위의 기사를 활용하거나 제품별 자료를 문의하세요."
+    },
+    "privacy": {
+      "seoTitle": "개인 정보 보호 정책",
+      "seoDescription": "완다그룹 웹사이트 문의 및 개인정보에 대한 개인정보 보호정책."
+    },
+    "terms": {
+      "seoTitle": "이용약관",
+      "seoDescription": "완다그룹 웹사이트 이용약관."
+    },
+    "notFound": {
+      "seoTitle": "페이지를 찾을 수 없습니다",
+      "seoDescription": "요청한 페이지를 사용할 수 없습니다.",
+      "title": "페이지를 찾을 수 없습니다",
+      "text": "찾으시는 페이지가 존재하지 않거나 이동되었습니다.",
+      "home": "집",
+      "products": "제품",
+      "contact": "문의 / 견적 받기"
+    }
   }
 }

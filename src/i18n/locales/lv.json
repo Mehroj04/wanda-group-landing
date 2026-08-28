@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Sākums",
     "products": "Produkti",
     "specs": "Specifikācijas",
     "applications": "Lietojumprogrammas",
     "about": "Par",
     "gallery": "Galerija",
+    "factory": "Rūpnīca",
     "quality": "Kvalitāte",
     "faq": "FAQ",
     "contact": "Sazināties",
@@ -13,44 +15,42 @@
     "services": "Pakalpojumi",
     "pricing": "Cenu noteikšana",
     "accessories": "Piederumi",
-    "home": "Sākums",
-    "factory": "Rūpnīca",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Saldētava",
+    "cooling": "Dzesēšana",
+    "certifications": "Sertifikāti",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Tirgi"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Rūpnieciskās gāzes balonu ražotājs",
+    "title": "Rūpniecisko gāzes balonu un iekārtu ražotājs",
+    "subtitle": "Acetilēna balonu, propāna/LPG balonu, ģeneratoru un metināšanas piederumu ražošana, OEM un vairumtirdzniecības piegāde starptautiskajiem eksporta pircējiem.",
+    "lineGas": "Gāzes baloni",
+    "lineCold": "Saldēšanas iekārtas",
+    "cta": "Saņemt citātu",
+    "ctaSecondary": "Skatīt produktus",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Uz ražotāju orientēta piegāde"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Privātā etiķete un pielāgošana"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Starptautiskās piegādes atbalsts"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Pārbaudes un testēšanas process"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Tirgus specifiskas iespējas pēc pieprasījuma"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Uzticami gāzes balonu piederumi",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Mūsu produkti",
     "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+    "viewDetails": "Skatīt detaļas",
     "items": [
       {
         "title": "Acetilēna cilindrs",
-        "desc": "Izšķīdināti acetilēna baloni metināšanai, griešanai un rūpnieciskajām gāzēm. Dažādi izmēri un vārstu iespējas.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · standarti apstiprināti katram tirgum",
+        "desc": "Izšķīdināti acetilēna baloni metināšanai, griešanai un rūpnieciskās gāzes padevei.",
+        "icon": "🔥"
       },
       {
         "title": "Acetilēna ģenerators",
-        "desc": "Iekārtas stabilai gāzes ražošanai, vienkāršai darbībai un rūpnieciskai lietošanai.",
-        "icon": "⚙️",
-        "spec": "Rūpnieciskās ražošanas sistēmas"
+        "spec": "Rūpnieciskās ražošanas sistēmas",
+        "desc": "Iekārtas stabilai acetilēna ražošanai uz vietas un ražotnē.",
+        "icon": "⚙️"
       },
       {
         "title": "Propāna cilindrs",
-        "desc": "Izturīgi baloni propānam un LPG — uzglabāšanai, apkurei, griešanai un rūpnieciskai lietošanai.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · vārstu iespējas katrā tirgū",
+        "desc": "Izturīgi LPG baloni apkurei, griešanai un rūpnieciskai lietošanai.",
+        "icon": "🛢️"
       },
       {
         "title": "Cilindru piederumi",
-        "desc": "Šļūtenes, mērinstrumenti, griešanas lāpas, metināšanas degļi, drošības vārsti un daudz kas cits.",
-        "icon": "🔧",
-        "spec": "Vārsti · regulatori · šļūtenes · lāpas"
+        "spec": "Vārsti · regulatori · šļūtenes · lāpas",
+        "desc": "Atbilstoši piederumi tiek piegādāti kopā ar cilindriem vai kā atsevišķs pasūtījums.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Skatīt detaļas"
+    ]
   },
   "specs": {
     "title": "Tehniskās specifikācijas",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Kāpēc izvēlēties Wanda grupas",
+    "subtitle": "Konkrētas iespējas rūpnieciskajiem pircējiem, novērtējot ražošanas partneri.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Uz ražotāju orientēta piegāde",
+        "desc": "Preču piedāvājums orientēts uz ražošanu, ne tikai uz katalogu tirdzniecību."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM atbalsts",
+        "desc": "Pielāgota krāsa, marķējums, vārsts un iepakojums tiek apspriesti pēc pasūtījuma."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kvalitātes kontrole",
+        "desc": "Pārbaude no materiāliem līdz iepakojumam pirms nosūtīšanas."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Starptautiskais eksports",
+        "desc": "Eksporta iepakošanas un nosūtīšanas koordinēšana ārvalstu pircējiem."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Produkta pielāgošana",
+        "desc": "Specifikācijas pielāgotas tirgus un pielietojuma prasībām."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Atsaucīgs pārdošanas atbalsts",
+        "desc": "Citāti un tehniskās atbildes, izmantojot veidlapu, e-pastu un kurjerus."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Lielapjoma pasūtīšanas iespēja",
+        "desc": "Vairumtirdzniecības daudzumi atbalstīti izplatītājiem un projektu pircējiem."
       }
     ]
   },
   "about": {
-    "title": "Profesionāls gāzes balonu ražotājs",
-    "text": "Wanda Group gāzes balonu ražotājs specializējas rūpniecisko gāzes balonu un saistīto piederumu ražošanā un piegādē. Mūsu produkti tiek plaši izmantoti metināšanas, griešanas, gāzes sadales, rūpnieciskās uzglabāšanas un citās gāzes piegādes jomās.",
-    "text2": "Mēs atbalstām ārzemju pircējus produktu atlasē, pielāgošanā, kvalitātes pārbaudē, iepakošanas un piegādes koordinēšanā.",
+    "title": "Gāzes balonu ražotājs rūpnieciskajiem pircējiem",
+    "text": "Wanda Group ražo acetilēna balonus, propāna balonus, ģeneratorus un piederumus metināšanai, griešanai un rūpnieciskās gāzes piegādei.",
+    "text2": "Mēs atbalstām ārzemju pircējus ar produktu izvēli, OEM, pārbaudi, iepakošanu un nosūtīšanu.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Ražošana",
+        "desc": "Rūpniecisko gāzes balonu formēšana, metināšana, testēšana un apdare."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM atbalsts",
+        "desc": "Krāsa, marķējums, vārsts, vāciņš un iepakojuma iespējas pēc pasūtījuma."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kvalitātes process",
+        "desc": "Pārbaude un testēšana, kas saskaņota ar pasūtījuma un tirgus prasībām."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Starptautiskais eksports",
+        "desc": "Dokumentācijas un iepakošanas atbalsts ārvalstu rūpnieciskajiem pircējiem."
       }
     ]
   },
   "gallery": {
     "title": "Mūsu rūpnīcā",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Īsti augu fotoattēli, tiešraides nosūtīšanas kadri un īsi video no ražošanas telpas.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Nakts izsūtīšana",
+        "desc": "Piekrauta piekabe, kas aizbrauc ar iesaiņotu ekipējumu – uz kadra uzdrukāts laiks un vieta."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Krava iekārtota nosūtīšanai",
+        "desc": "Paletes un detaļas savāktas nosūtīšanai. Dzīva noliktavas fotogrāfija, nevis studijas komplekts."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Iepakots krājums",
+        "desc": "Kartona kastes sakrautas noliktavā, gatavas nākamajam izejošajam pasūtījumam."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Iepakots nosūtīšanai",
+        "desc": "Cilindri iesaiņoti un novietoti rūpnīcā nosūtīšanai."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Ražošanas konveijers",
+        "desc": "Cilindru korpusi, kas pārvietojas pa formēšanas un apstrādes līniju."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG apdares līnija",
+        "desc": "Pirms iepakošanas krāsoti sašķidrinātās gāzes baloni uz augšējā konveijera."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Augu iekšpusē",
+        "desc": "Ražošanas zāle — cilvēki, mašīnas un ražošanas krājumi."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Metināti cilindru korpusi",
+        "desc": "Korpusi pēc apkārtmetināšanas, pirms krāsošanas un vārsti."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Čaumalas pirms krāsošanas",
+        "desc": "Nekrāsoti korpusi, kas novietoti uz grīdas nākamajam procesa posmam."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Noliktavā ražošanas procesā",
+        "desc": "Cauruļu sekcijas un vāciņi, kas gaida montāžu."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Cilindru korpusi noliktavā",
+        "desc": "Velmēti apvalki, kas sakrauti pēc metināšanas, pirms galvām un vārstiem."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Pamatnes gredzeni",
+        "desc": "Pēdu gredzeni, kas sagatavoti metināšanai uz cilindru korpusiem."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Iepakots armatūra",
+        "desc": "Vārsti un veidgabali, kas iepakoti ar putām eksporta sūtīšanai."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Acetilēna ģenerators",
+        "desc": "Ģeneratora bloks ar šļūteni un veidgabaliem, gatavs izbraukšanai no rūpnīcas."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Grīdas čaumalas",
+        "desc": "Korpusi ar atvērtu kaklu pēc metināšanas — partija pirms vārsta uzstādīšanas."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Rūpnīcas video",
+    "videosSubtitle": "Jauni šorti no augu grīdas. Vairāk kadru pēc pieprasījuma sūta privāti."
   },
   "quality": {
     "title": "Kvalitātes kontrole",
     "subtitle": "Katra partija iet vienu un to pašu ceļu: ražošana, testēšana, pārbaude un galīgā kvalitātes kontrole.",
     "steps": [
       {
-        "title": "Ražošana",
-        "desc": "Formēšana, metināšana un montāža rūpnīcas procesa kontrolē."
+        "title": "Izejviela",
+        "desc": "Ienākošie materiāli tiek pārskatīti atbilstoši pasūtījuma un procesa prasībām."
       },
       {
-        "title": "Testēšana",
-        "desc": "Spiediena un noplūdes testi, pirms baloni atstāj līniju."
+        "title": "Ražošana",
+        "desc": "Formēšana, metināšana un montāža rūpnīcas procesa kontrolē."
       },
       {
         "title": "Pārbaude",
         "desc": "Vizuāla, marķējuma un izmēru pārbaude pēc pasūtījuma."
       },
       {
-        "title": "Galīgā kvalitātes kontrole",
-        "desc": "Iepakojuma pārbaude pirms eksporta nosūtīšanas."
+        "title": "Testēšana",
+        "desc": "Spiediena un noplūdes testi, pirms baloni atstāj līniju."
+      },
+      {
+        "title": "Galīgais QC",
+        "desc": "Galīgā kvalitātes kontrole pirms izlaišanas iesaiņošanai."
+      },
+      {
+        "title": "Iepakojums",
+        "desc": "Eksporta iepakojums sagatavots transportēšanai."
+      },
+      {
+        "title": "Sūtījums",
+        "desc": "Izejošo pasūtījumu dokumentācijas ielāde un nosūtīšana."
       }
     ]
   },
   "faq": {
     "title": "Bieži uzdotie jautājumi",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Uzņēmums, produkti, OEM un eksports — atbildes pircējiem ārzemēs, pirms pieprasāt cenu piedāvājumu.",
     "cta": "Vai neatradāt savu jautājumu? Nosūtiet preci, izmēru, daudzumu un galamērķa valsti — mēs atbildēsim ar detalizētu piedāvājumu.",
     "ctaBtn": "Saņemt citātu",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video un dokumenti",
         "items": [
           {
             "q": "Vai pirms pasūtījuma veikšanas varu skatīties rūpnīcas video?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Jā. Skatieties ražošanas video šīs lapas sadaļā Rūpnīca. Papildu kadri, iepakošanas klipi un sertifikāti tiek nosūtīti privāti pēc pieprasījuma."
           },
           {
             "q": "Vai jūs sniedzat produktu video, īpaši par acetilēna baloniem?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Jā. Video, fotogrāfijas un detalizēta informācija par acetilēna baloniem tiek nosūtīta privāti pēc jūsu pieprasījuma."
           },
           {
             "q": "Vai varat parādīt ražošanas un kvalitātes kontroles video?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Jā. Pieejamie video par ražošanu, kvalitātes pārbaudi, iepakošanu un noliktavu uzglabāšanu tiek nosūtīti privāti, lai jūs varētu redzēt, kā produkti tiek gatavoti."
           },
           {
             "q": "Vai es varu pieprasīt produkta video, kas izveidots konkrētam pasūtījumam?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Par konkrētu pasūtījumu vai produkta prasībām sazinieties ar mums — apspriedīsim video atbalstu un materiālus nosūtīsim privāti."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Kā iegūt video, sertifikātus un citātu?",
+            "a": "Pieprasījuma formā norādiet preces veidu, balona izmēru, daudzumu, galamērķa valsti un sūtāmo: video, sertifikātus vai abus. Nosūtīsim privāti un sagatavosim piedāvājumu."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Vai varat sniegt produkta fotoattēlus un specifikācijas?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Jā. Produktu fotogrāfijas, specifikācijas un datu lapas tiek nosūtītas privāti pēc pieprasījuma."
           },
           {
             "q": "Kā es varu saņemt piedāvājumu aksesuāriem?",
@@ -427,56 +439,117 @@
         "title": "Budžeta rokasgrāmata acetilēna balonu iegādei",
         "desc": "Faktori, kas ietekmē izmaksas un kā izvēlēties optimālo piedāvājumu.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Jāņem vērā arī piegāde (FOB/CIF), dokumenti un MOQ. Mēs atbildam 24 stundu laikā ar pilnu specifikāciju, izpildes laiku un Incoterms.",
-          "Lai iegūtu precīzu cenu, saziņas veidlapā iekļaujiet modeli, daudzumu, galamērķa valsti un vārsta prasības vai rakstiet uz sales@wandagroups.com."
+          "Acetilēna balonu cenas ir atkarīgas no tilpuma, vārsta veida, nepieciešamajiem standartiem jūsu galamērķa tirgum un pasūtījuma daudzuma. Mēs vietnē nepublicējam fiksētās saraksta cenas.",
+          "Lielākas partijas un OEM iespējas (krāsojums, logotips, iesaiņojums) tiek norādītas atsevišķi pēc tam, kad esam izskatījuši jūsu pieprasījumu.",
+          "Piegādes nosacījumi (FOB/CIF un līdzīgi), dokumenti un izpildes laiks ir apstiprināti oficiālajā piedāvājumā.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Pieprasīt cenas piedāvājumu",
-    "subtitle": "Pastāstiet mums izmēru, daudzumu, galamērķa valsti un pieteikumu — mēs sagatavosim detalizētu piedāvājumu.",
+    "title": "Apspriedīsim jūsu prasības",
+    "subtitle": "Pastāstiet mums produktu, izmēru, daudzumu, galamērķa valsti un specifikācijas — mūsu pārdošanas komanda atbildēs ar informāciju par produktu un piedāvājumu.",
     "formTitle": "Pieprasīt cenas piedāvājumu",
-    "formSubtitle": "Atstājiet savas prasības — mūsu pārdošanas komanda atbildēs ar informāciju par produktu, cenām, MOQ un izpildes laiku.",
+    "formSubtitle": "Aizpildiet veidlapu komerciālai izmeklēšanai. Obligātie lauki ir atzīmēti.",
     "name": "Vārds",
+    "company": "Uzņēmums",
     "phone": "Tālrunis / WhatsApp",
     "email": "E-pasts",
     "product": "Produkts",
-    "quantity": "Daudzums",
-    "country": "Galamērķa valsts",
+    "quantity": "Daudzums (pēc izvēles)",
+    "country": "Galamērķa valsts (neobligāti)",
     "productOptions": [
       "Acetilēna cilindrs",
       "Propāna cilindrs",
       "Acetilēna ģenerators",
       "Piederumi",
-      "Komplekta pasūtījums",
-      "Cold storage / refrigeration"
+      "Aukstā uzglabāšana / saldēšana",
+      "Komplekta pasūtījums"
     ],
+    "quantityPlaceholder": "piem. 200 gab., 1 konteiners vai TBD",
+    "countryPlaceholder": "Kur preces tiks nosūtītas",
     "message": "Papildu prasības",
     "messagePlaceholder": "Produkts, izmērs, daudzums, galamērķa valsts...",
-    "submit": "Nosūtīt pieprasījumu",
+    "submit": "Iesniedziet pieprasījumu",
     "sending": "Notiek sūtīšana...",
     "success": "Paldies! Mēs ar jums sazināsimies tuvākajā laikā.",
     "sendAnother": "Nosūtiet citu pieprasījumu",
     "errorGeneric": "Neizdevās nosūtīt. Lūdzu, mēģiniet vēlreiz vai rakstiet mums tieši.",
-    "errorNoForm": "Veidlapa nav konfigurēta. Lūdzu, rakstiet uz sales@wandagroups.com",
-    "privacyPrefix": "Es piekrītu",
-    "privacySuffix": "un manu personas datu apstrādi, lai apstrādātu šo pieprasījumu.",
-    "privacyLink": "Privātuma politika",
-    "company": "Uzņēmums",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Sūtīt, izmantojot e-pasta lietotni",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Es piekrītu",
+    "privacySuffix": ", un manu personas datu apstrādi, lai apstrādātu šo pieprasījumu.",
+    "privacyLink": "Privātuma politika",
+    "termsAnd": "un",
+    "termsLink": "Lietošanas noteikumi",
+    "requirements": "Prasības / Specifikācijas",
+    "requirementsPlaceholder": "Vārsta tips, krāsa, standarts, iepakojums, OEM marķējums, daudzuma piezīmes..."
   },
   "footer": {
     "company": "Wanda Group gāzes balonu ražotājs",
     "tagline": "Profesionāla gāzes balonu ražošana",
     "rights": "© 2026 Wanda Group. Visas tiesības paturētas.",
     "privacy": "Privātuma politika",
-    "terms": "Terms of Use"
+    "terms": "Lietošanas noteikumi"
+  },
+  "privacy": {
+    "label": "Juridisks",
+    "title": "Privātuma politika",
+    "updated": "Pēdējo reizi atjaunināts: 2026. gada 25. augustā",
+    "intro": [
+      "Wanda Group (“mēs”, “mēs”) pārvalda šo vietni, lai prezentētu gāzes balonus, piederumus un saistītos eksporta piedāvājumus, kā arī saņemtu rūpniecisko pircēju komerciālus pieprasījumus.",
+      "Šajā politikā ir paskaidrots, kādus personas datus mēs apkopojam, izmantojot vietni, kāpēc mēs tos izmantojam un kā jūs varat ar mums sazināties. Rūpnīcas ražošanas video ir parādīti šajā vietnē. Sertifikātu faili tiek nosūtīti privāti pēc pieprasījuma."
+    ],
+    "sections": [
+      {
+        "title": "Kurš ir atbildīgs",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Kādus datus mēs apkopojam",
+        "body": [
+          "Nosūtot pieprasījuma veidlapu, mēs saņemam jūsu ievadītos datus: vārdu, e-pastu, tālruni, galamērķa valsti, produkta veidu, daudzumu un ziņojumu.",
+          "Vietne arī saglabā jūsu izvēlēto valodu pārlūkprogrammā (localStorage). Mēs nedarbinām reklāmas sīkfailus un nepārdodam apmeklētāju sarakstus."
+        ]
+      },
+      {
+        "title": "Kāpēc mēs izmantojam datus",
+        "body": [
+          "Pieprasījuma datus izmantojam tikai, lai atbildētu uz jūsu pieprasījumu, sagatavotu piedāvājumu, nosūtītu informāciju par produktu, video vai sertifikātus, kurus lūdzāt, kā arī lai saskaņotu pasūtījumu, ja sākam strādāt kopā.",
+          "Juridiskais pamats: jūsu piekrišana, atzīmējot veidlapas izvēles rūtiņu, un mūsu likumīgās intereses atbildēt uz B2B pārdošanas pieprasījumiem."
+        ]
+      },
+      {
+        "title": "Kas saņem datus",
+        "body": [
+          "Jūsu ziņojums tiek nosūtīts mūsu pārdošanas komandai pa e-pastu. Veidlapu apstrādā Web3Forms, tehniskais nodrošinātājs, kas nosūta mums ziņojumu.",
+          "Mēs nepārdodam personas datus. Mēs varam dalīties ar nepieciešamo ar loģistikas, pārbaudes vai banku partneriem tikai tad, ja tas ir nepieciešams saskaņota pasūtījuma izpildei."
+        ]
+      },
+      {
+        "title": "Cik ilgi mēs to glabājam",
+        "body": [
+          "Pieprasījuma dati tiek glabāti tik ilgi, cik nepieciešams, lai apstrādātu pieprasījumu, un saprātīgu laiku pēc tam pārdošanas uzraudzībai un uzskaitei, ja vien jūs nelūdzat mums tos dzēst agrāk, ja to atļauj likums."
+        ]
+      },
+      {
+        "title": "Jūsu tiesības",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Drošība un bērni",
+        "body": [
+          "Mēs veicam saprātīgus tehniskos un organizatoriskos pasākumus, lai aizsargātu ziņojumus, kas tiek sūtīti un atrodas mūsu pastkastē. Šī vietne ir paredzēta biznesa pircējiem, nevis bērniem."
+        ]
+      }
+    ],
+    "contactLead": "Jautājumi par šo politiku:"
   },
   "ui": {
     "catalog": "Katalogs",
@@ -494,6 +567,7 @@
     "location": "Atrašanās vieta",
     "quoteResponse": "Citāta atbilde",
     "support": "Atbalsts",
+    "countriesServed": "Eksporta atbalsts",
     "exportReady": "Eksports gatavs",
     "years": "Gadiem",
     "acetylene": "Acetilēns",
@@ -508,17 +582,25 @@
     "quality": "Kvalitāte",
     "faq": "FAQ",
     "blog": "Emuārs",
-    "countriesServed": "Apkalpotās valstis",
     "searchLanguage": "Meklēt valodu...",
-    "noLanguagesFound": "Nav atrasta neviena valoda"
+    "noLanguagesFound": "Nav atrasta neviena valoda",
+    "breadcrumb": "rīvmaize",
+    "primaryNav": "Primārais",
+    "menu": "Izvēlne",
+    "playVideo": "Atskaņot video",
+    "productGallery": "Produktu galerija",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / privātā etiķete",
+    "Starptautiskais eksports",
+    "Kvalitātes kontrole",
+    "Tirgus standarti pēc pieprasījuma",
+    "Lielapjoma pasūtījumi"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Sertifikācija",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumenti muitai un regulatoriem. Pēc pieprasījuma kopijas tiek nosūtītas privāti.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS un kvalitātes sertifikāts",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Cenas un piegādes noteikumi",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Tirdzniecības noteikumi tiek apstiprināti pēc pieprasījuma. Nosūtiet informāciju par produktu, daudzumu un galamērķi, lai saņemtu oficiālu piedāvājumu.",
+    "note": "Mēs šajā vietnē nepublicējam fiksētās saraksta cenas, MOQ vai izpildes laikus. Precīzi komerciālie noteikumi tiek apstiprināti citātā pēc tam, kad esam pārskatījuši jūsu prasības.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Cenu noteikšana",
+        "value": "Pēc pieprasījuma",
+        "desc": "Oficiāls citāts pēc pieprasījuma pārskatīšanas"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Apstiprināts pēc pasūtījuma",
+        "desc": "Atkarīgs no modeļa un galamērķa"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Izpildes laiks",
+        "value": "Apstiprināts pēc pasūtījuma",
+        "desc": "Kopīgots ar citātu"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Maksājums",
+        "value": "Norunāts līgumā",
+        "desc": "Noteikumi apstiprināti pirms ražošanas"
       }
     ],
     "factors": {
-      "title": "Cenu faktori",
+      "title": "Kas ietekmē citātu",
       "items": [
-        "Cilindra tilpums un modelis (2L – 50L)",
-        "Vārsta tips (CGA, GOST, DIN, POL)",
-        "Sertifikācijas standarts (ISO, DOT, TPED)",
-        "OEM: krāsa, marķējums, iepakojums",
+        "Cilindra tilpums un modelis",
+        "Vārsta veids un savienojuma standarts",
+        "Standarti, kas nepieciešami galamērķa tirgum",
+        "OEM krāsa, marķējums un iepakojums",
         "Pasūtījumu apjoms un Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetilēns WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetilēna cilindri",
+        "moq": "Pēc pieprasījuma",
+        "price": "Citēts pēc pieprasījuma",
+        "lead": "Apstiprināts pēc pasūtījuma"
       },
       {
-        "product": "Acetilēns WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propāna / LPG baloni",
+        "moq": "Pēc pieprasījuma",
+        "price": "Citēts pēc pieprasījuma",
+        "lead": "Apstiprināts pēc pasūtījuma"
       },
       {
-        "product": "Propāns WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Ģeneratori",
+        "moq": "Pēc pieprasījuma",
+        "price": "Citēts pēc pieprasījuma",
+        "lead": "Apstiprināts pēc pasūtījuma"
       },
       {
-        "product": "Propāns WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Ģenerators WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Regulatora komplekts",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Piederumi",
+        "moq": "Pēc pieprasījuma",
+        "price": "Citēts pēc pieprasījuma",
+        "lead": "Apstiprināts pēc pasūtījuma"
       }
     ],
     "tableHeaders": [
       "Produkts",
       "MOQ",
-      "Cena (EXW)",
+      "Cena",
       "Izpildes laiks"
     ]
   },
   "certifications": {
     "title": "Sertifikāti un standarti",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standarti un sertifikācijas iespējas tiek apspriesti atbilstoši produkta un galamērķa tirgum. Sertifikātu kopijas pēc pieprasījuma tiek nosūtītas privāti — faili šajā vietnē netiek publicēti.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Saņemt citātu",
-        "desc": "Cena, MOQ, izpildes laiks un specifikācijas lapa 24 stundu laikā"
+        "desc": "Cena, MOQ, izpildes laiks un specifikāciju lapa pēc mūsu pārdošanas komandas pārskatīšanas"
       },
       {
         "title": "Apstipriniet pasūtījumu",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Līgums un maksājuma nosacījumi saskaņoti pirms ražošanas uzsākšanas"
       },
       {
         "title": "Ražošana un kvalitātes kontrole",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Ražošana un testēšana. Videoklipi un sertifikāti tiek nosūtīti privāti pēc pieprasījuma"
       },
       {
         "title": "Sūtījums",
-        "desc": "Iepakojums, dokumenti, FOB/CIF/DDP piegāde"
+        "desc": "Iepakojums, dokumenti un piegādes noteikumi saskaņā ar pasūtījumu"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Ko saka pircēji",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Šogad trīs reizes pārsūtījām 40L acetilēna balonus. GOST vārsti, OEM krāsa un eksporta iepakojums katru reizi atbilda pirmajam paraugam.",
+        "author": "Rustams Jusupovs",
+        "role": "Īpašnieks, metināšanas gāzes izplatītājs",
+        "country": "Uzbekistāna"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "Citāts nāca tajā pašā dienā ar skaidru MOQ un izpildes laiku. Propāna pudeles tika piegādātas ar POL vārstiem un pilnu iepakošanas sarakstu — no mūsu puses nav nekādu muitas kavējumu.",
+        "author": "Aigerims Bekova",
+        "role": "Iepirkumu vadītājs, rūpnieciskā apgāde",
+        "country": "Kazahstāna"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Balonus ar regulatoriem un šļūtenēm pērkam kā vienu konteinera pasūtījumu. Dokumenti un marķējums bija gatavi mūsu tirgum, tāpēc tālākpārdošana bija vienkārša.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Importa pircējs, gāzes iekārtu tirdzniecība",
+        "country": "Saūda Arābija"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "kvalitāti",
         "eyebrow": "Kvalitāte un drošība",
         "title": "Apskati varat ievietot citātā",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Materiālu pārbaudes, noplūdes testi, vārstu griezes moments un iepakojuma fotoattēli. Sertifikātu pakas un fotoreportāžas pēc pieprasījuma tiek nosūtītas privāti.",
         "points": [
           "Spiediena un noplūdes testi",
-          "Certificate package",
+          "Sertifikāti pēc pieprasījuma",
           "Fotogrāfijas pirms nosūtīšanas"
         ]
       },
       {
         "id": "eksportēt",
         "eyebrow": "Globālais eksports",
-        "title": "Iepakots ostām, gatavs lietošanai vairāk nekā 50 valstīs",
+        "title": "Iepakots ostām, gatavs eksporta tirgiem",
         "text": "Eksportējiet paletes, vārstu aizsardzību, daudzvalodu etiķetes un piegādes dokumentus, kas saskaņoti jūsu galamērķim Incoterms.",
         "points": [
           "FOB / CIF atbalsts",
           "Paletē iepakošana",
           "Izpildes laiks 15-25 dienas"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Iesaiņoti gāzes baloni, kas iestudēti rūpnīcas pagalmā nosūtīšanai",
+    "about": "Strādnieki Wanda Group rūpnīcas stāvā",
+    "accessories": "Gāzes balonu piederumu komplekts — regulatori, šļūtenes, lāpas un armatūra",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Izšķīdināts acetilēna cilindrs ar porainu masu un misiņa vārstu",
+      "Acetilēna ģenerators fotografēts rūpnīcā",
+      "Propāna un LPG baloni dažādos izmēros un krāsās",
+      "Metināšanas un griešanas piederumu komplekts gāzes baloniem"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Nakts nosūtīšana: iesaiņots aprīkojums, kas iekrauts piekabē",
+      "Paletes un metāla daļas sakārtotas nosūtīšanai",
+      "Noliktavā sakrautas iepakotu krājumu kartona kastes",
+      "Plēvē ietīti cilindri, iestudēti rūpnīcas pagalmā",
+      "Gāzes balonu ražošanas konveijers zem rūpnīcas jumta",
+      "Sašķidrinātās naftas gāzes baloni karājās uz augšējā apdares konveijera",
+      "Strādnieki, kas staigā pa Wanda Group rūpnīcas stāvu",
+      "Nekrāsoti metināti propāna cilindru korpusi, kas sakrauti divos augstumos",
+      "Nekrāsotu cilindru čaulu rindas uz betona grīdas",
+      "Cilindru cauruļu krājumi un vāciņi ar vāciņu darbnīcā",
+      "Sakrauti neapstrādāti cilindru korpusi pret rūpnīcas sienu",
+      "Tērauda pamatnes gredzeni sakrauti pirms montāžas",
+      "Misiņa furnitūra iepakota kartona kastītē ar putām",
+      "Acetilēna ģenerators ar šļūteni un piederumiem kastē",
+      "Nekrāsoti cilindru apvalki ar atvērtiem kakliņiem pēc metināšanas"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Kondensācijas iekārta ar gaisa dzesēšanu ar Copeland daļēji hermētisku kompresoru",
+      "Kondensācijas iekārta ar gaisa dzesēšanu ar Bitzer daļēji hermētisku kompresoru",
+      "Slēgta skapja tipa saldēšanas kondensācijas iekārta",
+      "Lieljaudas četru ventilatoru gaisa dzesēšanas kondensācijas iekārta"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Juridisks",
-    "title": "Privātuma politika",
-    "updated": "Pēdējo reizi atjaunināts: 2026. gada 25. augustā",
-    "intro": [
-      "Wanda Group (“mēs”, “mēs”) pārvalda šo vietni, lai prezentētu gāzes balonus, piederumus un saistītos eksporta piedāvājumus, kā arī saņemtu rūpniecisko pircēju komerciālus pieprasījumus.",
-      "Šajā politikā ir paskaidrots, kādus personas datus mēs apkopojam, izmantojot vietni, kāpēc mēs tos izmantojam un kā jūs varat ar mums sazināties. Mēs vietnē nepublicējam rūpnīcas video vai sertifikātu failus; šie materiāli tiek nosūtīti privāti pēc pieprasījuma."
-    ],
-    "sections": [
-      {
-        "title": "Kurš ir atbildīgs",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Kādus datus mēs apkopojam",
-        "body": [
-          "Nosūtot pieprasījuma veidlapu, mēs saņemam jūsu ievadītos datus: vārdu, e-pastu, tālruni, galamērķa valsti, produkta veidu, daudzumu un ziņojumu.",
-          "Vietne arī saglabā jūsu izvēlēto valodu pārlūkprogrammā (localStorage). Mēs nedarbinām reklāmas sīkfailus un nepārdodam apmeklētāju sarakstus."
-        ]
-      },
-      {
-        "title": "Kāpēc mēs izmantojam datus",
-        "body": [
-          "Pieprasījuma datus izmantojam tikai, lai atbildētu uz jūsu pieprasījumu, sagatavotu piedāvājumu, nosūtītu informāciju par produktu, video vai sertifikātus, kurus lūdzāt, kā arī lai saskaņotu pasūtījumu, ja sākam strādāt kopā.",
-          "Juridiskais pamats: jūsu piekrišana, atzīmējot veidlapas izvēles rūtiņu, un mūsu likumīgās intereses atbildēt uz B2B pārdošanas pieprasījumiem."
-        ]
-      },
-      {
-        "title": "Kas saņem datus",
-        "body": [
-          "Jūsu ziņojums tiek nosūtīts mūsu pārdošanas komandai pa e-pastu. Atkarībā no konfigurācijas veidlapu var apstrādāt Web3Forms kā tehniskais nodrošinātājs, kas nosūta mums ziņojumu.",
-          "Mēs nepārdodam personas datus. Mēs varam dalīties ar nepieciešamo ar loģistikas, pārbaudes vai banku partneriem tikai tad, ja tas ir nepieciešams saskaņota pasūtījuma izpildei."
-        ]
-      },
-      {
-        "title": "Cik ilgi mēs to glabājam",
-        "body": [
-          "Pieprasījuma dati tiek glabāti tik ilgi, cik nepieciešams, lai apstrādātu pieprasījumu, un saprātīgu laiku pēc tam pārdošanas uzraudzībai un uzskaitei, ja vien jūs nelūdzat mums tos dzēst agrāk, ja to atļauj likums."
-        ]
-      },
-      {
-        "title": "Jūsu tiesības",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Drošība un bērni",
-        "body": [
-          "Mēs veicam saprātīgus tehniskos un organizatoriskos pasākumus, lai aizsargātu ziņojumus, kas tiek sūtīti un atrodas mūsu pastkastē. Šī vietne ir paredzēta biznesa pircējiem, nevis bērniem."
-        ]
-      }
-    ],
-    "contactLead": "Jautājumi par šo politiku:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Juridisks",
+    "title": "Lietošanas noteikumi",
+    "updated": "Pēdējo reizi atjaunināts: 2026. gada 27. augustā",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Šie noteikumi regulē Wanda Group pārvaldītās vietnes wandagroups.com izmantošanu gāzes balonu, ģeneratoru un piederumu rūpnieciskajiem pircējiem.",
+      "Pārlūkojot vietni vai nosūtot pieprasījumu, jūs piekrītat šiem noteikumiem un mūsu privātuma politikai. Ja nepiekrītat, neizmantojiet vietni."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Kas mēs esam",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Kam paredzēta vietne",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Vietne piedāvā informāciju par produktu un saņem komerciālus jautājumus. Tas ir paredzēts biznesa pircējiem, nevis patērētājiem, kas iepērkas kā privātpersonas, nevis bērniem."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Citācijas, cenas un pasūtījumi",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Cenas, MOQ, izpildes laiki un specifikācijas vietnē ir orientējošas. Ziņojums, izmantojot veidlapu vai kurjeru, ir pieprasījums, nevis pasūtījums.",
+          "Līgums pastāv tikai tad, kad abas puses rakstiski (e-pastā vai parakstītos dokumentos) apstiprina piedāvājumu un ir saņemts saskaņotais depozīts, ja vien apstiprinājumā nav norādīts citādi."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotogrāfijas, video un sertifikāti",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Rūpnīcas fotoattēli un videoklipi vietnē ilustrē ražošanu. Papildu kadri un sertifikātu faili tiek nosūtīti privāti pēc pieprasījuma, un tie paliek mūsu konfidenciālie materiāli, ja vien mēs nerunājam, ka varat tos kopīgot."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Intelektuālais īpašums",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Teksts, fotoattēli, video, logotipi un izkārtojums šajā vietnē pieder Wanda Group vai mūsu licences devējiem. Jūs nedrīkstat kopēt katalogu savai komerciālajai vietnei bez mūsu rakstiskas piekrišanas."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Pieņemama lietošana",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Neizmantojiet pieprasījuma veidlapu ļaunprātīgi (surogātpastu, viltus identitāti vai mēģinājumus traucēt vietni). Mēs varam ignorēt vai dzēst ļaunprātīgus pieprasījumus."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Atbildība",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Mēs rūpējamies, lai informācija būtu precīza, taču vietnē var būt kļūdas vai tā īslaicīgi nav pieejama. Likumā atļautajā apjomā Wanda Group nav atbildīgs par netiešiem zaudējumiem, kas radušies tikai no vietnes izmantošanas.",
+          "Atbildība par faktisko piegādes līgumu ir noteikta šajā līgumā un piemērojamos tiesību aktos, nevis tikai šajos tīmekļa vietnes noteikumos."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Izmaiņas",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Mēs varam atjaunināt šos noteikumus. Datums augšpusē parāda pašreizējo versiju. Vietnes turpmāka izmantošana pēc izmaiņām nozīmē, ka jūs piekrītat atjauninātajiem noteikumiem."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Jautājumi par šiem noteikumiem:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Mūsu produktu līnija",
+    "title": "Saldēšanas iekārtas",
+    "subtitle": "Atsevišķa Wanda Group līnija — nevis trešās puses katalogs. Kondensācijas iekārtas, aukstuma kameras un aparatūra, ko mēs piegādājam ar cilindriem vai kā atsevišķu pasūtījumu.",
+    "moreLink": "Saldēšanas iekārtas →",
+    "cta": "Pieprasiet piedāvājumu",
+    "alsoTitle": "Pieejams arī pēc pieprasījuma",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Poliuretāna aukstās telpas paneļi (B1 / B2) un 304 nerūsējošā tērauda paneļi",
+      "Aukstās telpas gaisa dzesētāji — DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Alumīnija iztvaicētāja spoles",
+      "Aukstās telpas durvis",
+      "Rūpnieciskie ūdens dzesētāji",
+      "Transportlīdzekļu saldēšanas iekārtas un pārvietojamās aukstumkameras"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade piegādā saldēšanas iekārtas līdzās gāzes balonu līnijai: blokus, paneļus, dzesētājus un saistīto aukstās ķēdes aparatūru. Copeland, Bitzer un līdzīgi nosaukumi attiecas uz kompresora zīmolu iekārtas iekšpusē, nevis uz šo uzņēmumu zīmolu.",
+    "videoTitle": "Uzņēmuma video",
+    "videoSubtitle": "Pārskats par saldēšanas iekārtu līniju. Vairāk kadru pēc pieprasījuma sūta privāti.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland daļēji hermētiska gaisa dzesēšanas iekārta",
+        "spec": "Kondensācijas iekārta · Copeland kompresors",
+        "desc": "Gaisa dzesēšanas kondensācijas iekārta ar Copeland daļēji hermētisku kompresoru aukstām telpām un vidējai temperatūrai."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer daļēji hermētiska gaisa dzesēšanas iekārta",
+        "spec": "Kondensācijas iekārta · Bitzer kompresors",
+        "desc": "Gaisa dzesēšanas kondensācijas iekārta ar Bitzer daļēji hermētisku kompresoru augstākas slodzes un vidējas līdz zemas temperatūras telpām."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Slēgta kastes tipa vienība",
+        "spec": "Skapja kondensācijas iekārta",
+        "desc": "Slēgta skapja tipa kondensācijas iekārta vietām, kur nepieciešama iebūvēta mašīna, nevis atvērta sliede."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U veida / lielas jaudas kondensācijas iekārta",
+        "spec": "Vairāku ventilatoru gaisa dzesēšana",
+        "desc": "Lielāka gaisa dzesēšanas kondensācijas iekārta ar vairāku ventilatoru kondensatoru lielākām saldētavām un procesa dzesēšanai."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Kas Mēs esam",
+    "title": "Rūpnieciskais ražotājs B2B pircējiem",
+    "text": "Wanda Groups ražo un piegādā rūpnieciskos gāzes balonus, ģeneratorus un metināšanas piederumus ārvalstu izplatītājiem, OEM partneriem un projektu pircējiem.",
+    "text2": "Mūsu uzmanības centrā ir ar rūpnīcu saistīta piegāde, produktu izvēles atbalsts, lielapjoma pasūtījumi un eksporta koordinēšana, nevis mazumtirdzniecība patērētājiem.",
+    "cta": "Uzziniet vairāk par mums"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Vai esat gatavs pieprasīt cenas piedāvājumu?",
+      "quoteCta": "Pieprasīt cenas piedāvājumu",
+      "relatedProducts": "Saistītie produkti",
+      "applications": "Lietojumprogrammas",
+      "standardsTitle": "Standarti un sertifikācija",
+      "oemTitle": "OEM / pielāgošana",
+      "packagingTitle": "Iepakojums un piegāde",
+      "placeholders": {
+        "standards": "Pieejamie standarti un sertifikāti tiek apstiprināti katram pasūtījuma un galamērķa tirgum. Sertifikātu kopijas tiek nosūtītas privāti pēc pieprasījuma — faili netiek publicēti vietnē.",
+        "oem": "OEM krāsu, marķējumu, vārstu, vāciņu un iepakojuma iespējas var apspriest atbilstoši pasūtījumam un mērķa tirgum.",
+        "packaging": "Eksporta iepakojums un dokumentācija tiek sagatavota atbilstoši pasūtījuma un piegādes noteikumiem."
+      }
+    },
+    "home": {
+      "seoTitle": "Gāzes balona ražotājs | Rūpnieciskie oriģināliekārtu ražotāji un eksports | Wanda grupas",
+      "seoDescription": "Wanda Groups ražo rūpnieciskos gāzes balonus, ģeneratorus un metināšanas piederumus OEM, vairumtirdzniecības un starptautiska eksporta pircējiem."
+    },
+    "about": {
+      "label": "Par mums",
+      "title": "Gāzes balonu ražotājs rūpnieciskajiem pircējiem",
+      "subtitle": "Mēs atbalstām ārzemju pircējus ar produktu izvēli, OEM, pārbaudi, iepakošanu un nosūtīšanu.",
+      "seoTitle": "Par Wanda grupu",
+      "seoDescription": "Wanda Group ražo acetilēna balonus, propāna balonus, ģeneratorus un piederumus metināšanai, griešanai un rūpnieciskās gāzes piegādei."
+    },
+    "products": {
+      "label": "Produkti",
+      "title": "Mūsu produkti",
+      "subtitle": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+      "seoTitle": "Gāzes balonu izstrādājumi",
+      "seoDescription": "Acetilēna baloni, ģeneratori, propāna baloni un piederumi rūpnieciskiem un metināšanas lietojumiem.",
+      "refrigerationNote": "Wanda International Trade piegādā saldēšanas iekārtas līdzās gāzes balonu līnijai: blokus, paneļus, dzesētājus un saistīto aukstās ķēdes aparatūru. Copeland, Bitzer un līdzīgi nosaukumi attiecas uz kompresora zīmolu iekārtas iekšpusē, nevis uz šo uzņēmumu zīmolu.",
+      "catalog": {
+        "acetylene": {
+          "name": "Izšķīdināti acetilēna cilindri",
+          "overview": "Tērauda cilindri ar porainu masu un šķīdinātāju drošai acetilēna uzglabāšanai un transportēšanai. Izmanto metināšanai, griešanai, lodēšanai un metāla ražošanā.",
+          "seoTitle": "Acetilēna gāzes baloni",
+          "seoDescription": "Tērauda cilindri ar porainu masu un šķīdinātāju drošai acetilēna uzglabāšanai un transportēšanai. Izmanto metināšanai, griešanai, lodēšanai un metāla ražošanā."
+        },
+        "propane": {
+          "name": "Propāna cilindri",
+          "overview": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+          "seoTitle": "Propāna gāzes baloni",
+          "seoDescription": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē."
+        },
+        "lpg": {
+          "name": "LPG baloni",
+          "overview": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē.",
+          "seoTitle": "LPG gāzes baloni",
+          "seoDescription": "Baloni propāna, butāna un LPG maisījumiem. Izmanto apkures, griešanas, lodēšanas, celtniecības un rūpnieciskās gāzes apgādē."
+        },
+        "industrial": {
+          "name": "Rūpnieciskie gāzes baloni",
+          "overview": "Rūpnieciskie gāzes baloni metināšanai, griešanai un iekārtu piegādei — ieskaitot acetilēna, propāna un sašķidrinātas naftas gāzes iespējas, kas piemērotas jūsu tirgum.",
+          "seoTitle": "Rūpnieciskie gāzes baloni",
+          "seoDescription": "Rūpnieciskie gāzes baloni metināšanai, griešanai un iekārtu piegādei no Wanda Group."
+        },
+        "generators": {
+          "name": "Acetilēna ģeneratori",
+          "overview": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras.",
+          "seoTitle": "Acetilēna ģeneratori",
+          "seoDescription": "Iekārtas acetilēna ražošanai no kalcija karbīda. Stabila gāzes padeve metināšanas un rūpnieciskām vajadzībām bez centralizētas gāzes infrastruktūras."
+        },
+        "accessories": {
+          "name": "Cilindru piederumi un piederumi",
+          "overview": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem.",
+          "seoTitle": "Metināšanas piederumi",
+          "seoDescription": "Pilns klāsts drošai gāzes balona darbībai: no mērierīcēm līdz metināšanas degļiem. Vienas pieturas iepirkums ar baloniem."
+        },
+        "refrigeration": {
+          "name": "Saldēšanas iekārtas",
+          "overview": "Atsevišķa Wanda Group līnija — nevis trešās puses katalogs. Kondensācijas iekārtas, aukstuma kameras un aparatūra, ko mēs piegādājam ar cilindriem vai kā atsevišķu pasūtījumu.",
+          "seoTitle": "Saldēšanas iekārtas",
+          "seoDescription": "Atsevišķa Wanda Group līnija — nevis trešās puses katalogs. Kondensācijas iekārtas, aukstuma kameras un aparatūra, ko mēs piegādājam ar cilindriem vai kā atsevišķu pasūtījumu."
+        }
+      }
+    },
+    "factory": {
+      "label": "Rūpnīca",
+      "title": "Rūpnīca un ražošana",
+      "subtitle": "Ražošana, pārbaude, iepakošana un nosūtīšana — dokumentēta ar reālu rūpnīcas fotogrāfiju un rūpnīcas video.",
+      "seoTitle": "Rūpnīca un ražošana | Wanda grupas",
+      "seoDescription": "Īsti augu fotoattēli, tiešraides nosūtīšanas kadri un īsi video no ražošanas telpas.",
+      "sections": [
+        {
+          "title": "Ražošana",
+          "text": "Cilindru formēšana, metināšana un apdare kā daļa no rūpnīcas ražošanas plūsmas."
+        },
+        {
+          "title": "Ražošanas process",
+          "text": "No korpusa sagatavošanas līdz montāžai un apdarei — skatiet ražošanas procesa un ražošanas grīdas kadrus."
+        },
+        {
+          "title": "Kvalitātes pārbaude",
+          "text": "Vizuālas, marķēšanas un izmēru pārbaudes, sagatavojot balonus nosūtīšanai."
+        },
+        {
+          "title": "Testēšana",
+          "text": "Spiediena un noplūdes pārbaude tiek veikta pirms produktu izvešanas no līnijas saskaņā ar pasūtījuma prasībām."
+        },
+        {
+          "title": "Iepakojums",
+          "text": "Eksporta iepakojums aizsargā balonus un piederumus ārzemju transportēšanai."
+        },
+        {
+          "title": "Iekraušana un eksportēšana",
+          "text": "Noliktavas iekārtošana, kravas iekraušanas un nosūtīšanas dokumentācija izejošajiem pasūtījumiem."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Sertifikāti",
+      "title": "Sertifikāti un standarti",
+      "subtitle": "Standarti, ko parasti pieprasa pircēji, ir uzskaitīti zemāk. Piemērojamība ir atkarīga no produkta un galamērķa tirgus. Sertifikātu kopijas, numuri un derīgums tiek kopīgoti privāti pēc pieprasījuma — netiek publicēti kā nepārbaudītas pretenzijas.",
+      "seoTitle": "Sertifikāti un standarti | Wanda grupas",
+      "seoDescription": "Standarti, kas apspriesti Wanda Groups gāzes baloniem pēc tirgus. Sertifikātu kopijas tiek izsniegtas privāti pēc pieprasījuma.",
+      "note": "Sertifikātu kopijas pēc pieprasījuma nosūta privāti. Mēs nepublicējam sertifikātu failus vietnē."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM un vairumtirdzniecība",
+      "subtitle": "Privātās preču zīmes un lielapjoma piegādes iespējas izplatītājiem un rūpnieciskajiem pircējiem.",
+      "seoTitle": "OEM gāzes balonu piegāde",
+      "seoDescription": "OEM un privāto zīmolu gāzes balonu ražošana ārvalstu zīmoliem un izplatītājiem.",
+      "quoteTitle": "Apspriediet OEM prasības",
+      "quoteCta": "Pieprasīt OEM cenas piedāvājumu",
+      "capabilities": [
+        {
+          "title": "Pielāgots logotips",
+          "text": "Logotips un marķēšanas iespējas, kas apspriestas kvalificētiem OEM pasūtījumiem."
+        },
+        {
+          "title": "Pielāgota krāsa",
+          "text": "Cilindra krāsa atbilstoši tirgus vai zīmola prasībām."
+        },
+        {
+          "title": "Pielāgots iepakojums",
+          "text": "Eksportēt kartona kastes, paletes un iepakojuma zīmes pēc pasūtījuma."
+        },
+        {
+          "title": "Privātā etiķete",
+          "text": "Marķēšana un zīmola prezentācija izplatītāju kanāliem."
+        },
+        {
+          "title": "Lielapjoma pasūtījumi",
+          "text": "Vairumtirdzniecības daudzumi projektu un izplatītāju iepirkumiem."
+        },
+        {
+          "title": "OEM ražošana",
+          "text": "Produkta konfigurācija ir saskaņota ar jūsu specifikāciju un tirgu."
+        },
+        {
+          "title": "Eksporta atbalsts",
+          "text": "Dokumenti un nosūtīšanas koordinācija piegādei uz ārzemēm."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Tirgi",
+      "title": "Globālie tirgi",
+      "subtitle": "Mēs atbalstām starptautiskos B2B pircējus. Tālāk minētie reģioni apraksta kopējās aptauju jomas — konkrētas valstis un projekti tiek apstiprināti katrā gadījumā atsevišķi.",
+      "seoTitle": "Globālie tirgi | Wanda grupu eksports",
+      "seoDescription": "Wanda Groups strādā ar starptautiskajiem rūpnieciskajiem pircējiem Āfrikā, Tuvajos Austrumos, Vidusāzijā, Dienvidaustrumāzijā, Latīņamerikā un citos tirgos.",
+      "note": "Mēs šajā lapā nepublicējam nepārbaudītus valstu skaitu, klientu vārdus vai projektu atsauces.",
+      "regions": [
+        {
+          "title": "Āfrika",
+          "text": "Rūpniecības un izplatītāju pieprasījumi no Āfrikas tirgiem."
+        },
+        {
+          "title": "Tuvie Austrumi",
+          "text": "Pircēji, kas iegādājas balonus un saistīto aprīkojumu reģionālajiem projektiem."
+        },
+        {
+          "title": "Vidusāzija",
+          "text": "Vairumtirdzniecības un projektu piegādes diskusijas Vidusāzijas tirgos."
+        },
+        {
+          "title": "Dienvidaustrumāzija",
+          "text": "Rūpnieciskie pircēji, izvērtējot eksporta balonu piegādi."
+        },
+        {
+          "title": "Latīņamerika",
+          "text": "Uzziņas par rūpniecisko gāzes balonu un piederumu piegādi."
+        },
+        {
+          "title": "Citi starptautiskie tirgi",
+          "text": "Papildu galamērķi tiek pārskatīti atbilstoši produktu standartam un loģistiku."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Lietojumprogrammas",
+      "title": "Cilindru pielietojumi",
+      "subtitle": "Produkti, kas paredzēti parastajiem rūpnieciskās gāzes uzdevumiem un ārvalstu pircēju prasībām.",
+      "seoTitle": "Cilindru pielietojumi",
+      "seoDescription": "Produkti, kas paredzēti parastajiem rūpnieciskās gāzes uzdevumiem un ārvalstu pircēju prasībām.",
+      "items": [
+        {
+          "title": "Metināšana un cietlodēšana",
+          "text": "Izšķīdināts acetilēns un ar to saistītās iekārtas darbnīcu un ražošanas metināšanai."
+        },
+        {
+          "title": "Metāla griešana",
+          "text": "Cilindri un piederumi skābekļa-degvielas griešanai uz vietas un rūpnīcā."
+        },
+        {
+          "title": "Rūpnieciskās gāzes apgāde",
+          "text": "Balonu piegāde rūpnieciskās sadales un augu gāzes sistēmām."
+        },
+        {
+          "title": "Būvniecība",
+          "text": "Pārnēsājama gāzes padeve būvniecības un apkopes darbiem."
+        },
+        {
+          "title": "Metāla izgatavošana",
+          "text": "Baloni un piederumi ražošanas veikaliem un kuģu būvētavām."
+        },
+        {
+          "title": "Gāzes uzglabāšana un sadale",
+          "text": "Uzglabāšanai un izplatīšanai gatavi baloni rūpnieciskajiem pircējiem."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Bieži uzdotie jautājumi",
+      "subtitle": "Uzņēmums, produkti, OEM un eksports — atbildes pircējiem ārzemēs, pirms pieprasāt cenu piedāvājumu.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Uzņēmums, produkti, OEM un eksports — atbildes pircējiem ārzemēs, pirms pieprasāt cenu piedāvājumu."
+    },
+    "contactPage": {
+      "label": "Sazināties",
+      "title": "Apspriedīsim jūsu prasības",
+      "subtitle": "Sazinieties ar mūsu pārdošanas komandu, izmantojot veidlapu, e-pastu vai messenger. Kopīgojiet produktu, daudzumu un galamērķi, lai iegūtu ātrāku piedāvājumu.",
+      "seoTitle": "Pieprasīt cenas piedāvājumu",
+      "seoDescription": "Pastāstiet mums izmēru, daudzumu, galamērķa valsti un pieteikumu — mēs sagatavosim detalizētu piedāvājumu."
+    },
+    "blog": {
+      "label": "Emuārs",
+      "title": "Jaunākie raksti",
+      "subtitle": "Ekspertu saturs metināšanas un gāzes apgādes profesionāļiem.",
+      "seoTitle": "Raksti un ceļveži",
+      "seoDescription": "Ekspertu saturs metināšanas un gāzes apgādes profesionāļiem.",
+      "coming": "Šeit tiks pievienoti citi pircēju ceļveži un produktu piezīmes. Izmantojiet iepriekš minētos rakstus vai sazinieties ar mums, lai iegūtu konkrētam produktam raksturīgus materiālus."
+    },
+    "privacy": {
+      "seoTitle": "Privātuma politika",
+      "seoDescription": "Privātuma politika Wanda Group tīmekļa vietnes pieprasījumiem un personas datiem."
+    },
+    "terms": {
+      "seoTitle": "Lietošanas noteikumi",
+      "seoDescription": "Wanda Group tīmekļa vietnes lietošanas noteikumi."
+    },
+    "notFound": {
+      "seoTitle": "Lapa nav atrasta",
+      "seoDescription": "Jūsu pieprasītā lapa nav pieejama.",
+      "title": "Lapa nav atrasta",
+      "text": "Lapa, kuru meklējat, neeksistē vai ir pārvietota.",
+      "home": "Sākums",
+      "products": "Produkti",
+      "contact": "Sazinieties / saņemiet piedāvājumu"
+    }
   }
 }

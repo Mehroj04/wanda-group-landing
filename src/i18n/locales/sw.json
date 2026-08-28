@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Nyumbani",
     "products": "Bidhaa",
     "specs": "Vipimo",
-    "applications": "Matumizi",
+    "applications": "Maombi",
     "about": "Kuhusu",
     "gallery": "Matunzio",
+    "factory": "Kiwanda",
     "quality": "Ubora",
     "faq": "Maswali Yanayoulizwa Mara kwa Mara",
     "contact": "Wasiliana",
@@ -13,44 +15,42 @@
     "services": "Huduma",
     "pricing": "Bei",
     "accessories": "Vifaa",
-    "home": "Nyumbani",
-    "factory": "Kiwanda",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Hifadhi ya baridi",
+    "cooling": "Kupoa",
+    "certifications": "Vyeti",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Masoko"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Mtengenezaji wa Silinda ya Gesi ya Viwandani",
+    "title": "Mitungi ya Gesi ya Viwandani na Mtengenezaji wa Vifaa",
+    "subtitle": "Utengenezaji, OEM na usambazaji wa jumla wa mitungi ya asetilini, mitungi ya propane/LPG, jenereta na vifaa vya kulehemu kwa wanunuzi wa kimataifa wa kuuza nje.",
+    "lineGas": "Mitungi ya gesi",
+    "lineCold": "Vitengo vya friji",
+    "cta": "Pata Nukuu",
+    "ctaSecondary": "Tazama Bidhaa",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Ugavi unaozingatia mtengenezaji"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Lebo ya kibinafsi na ubinafsishaji"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Msaada wa kimataifa wa usafirishaji"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Mchakato wa ukaguzi na upimaji"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Chaguo mahususi za soko unapoomba"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Vifaa vya Kuaminika vya Silinda ya Gesi",
@@ -59,219 +59,231 @@
   },
   "products": {
     "title": "Bidhaa Zetu",
-    "subtitle": "Silinda za asetilini, jenereta, silinda za propani na vifaa vya ziada kwa matumizi ya viwanda na kulehemu.",
+    "subtitle": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+    "viewDetails": "Tazama Maelezo",
     "items": [
       {
         "title": "Silinda ya Asetilini",
-        "desc": "Silinda za asetilini iliyoyeyushwa kwa kulehemu, kukata na gesi za viwanda. Ukubwa mbalimbali na chaguo za valvu.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · viwango vilivyothibitishwa kwa kila soko",
+        "desc": "Mitungi ya asetilini iliyoyeyushwa kwa kulehemu, kukata na usambazaji wa gesi ya viwandani.",
+        "icon": "🔥"
       },
       {
-        "title": "Jenereta ya Asetilini",
-        "desc": "Vifaa kwa uzalishaji thabiti wa gesi, uendeshaji rahisi na matumizi ya viwanda.",
-        "icon": "⚙️",
-        "spec": "Mifumo ya uzalishaji wa viwanda"
+        "title": "Jenereta ya asetilini",
+        "spec": "Mifumo ya uzalishaji wa viwanda",
+        "desc": "Vifaa vya uzalishaji thabiti wa asetilini kwenye tovuti na kwenye mmea.",
+        "icon": "⚙️"
       },
       {
-        "title": "Silinda ya Propani",
-        "desc": "Silinda imara kwa propani na LPG — kuhifadhi, kupasha joto, kukata na matumizi ya viwanda.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "title": "Silinda ya Propane",
+        "spec": "3L–50L · chaguzi za vali kwa kila soko",
+        "desc": "Silinda za kudumu za LPG za kupokanzwa, kukata na matumizi ya viwandani.",
+        "icon": "🛢️"
       },
       {
-        "title": "Vifaa vya Ziada vya Silinda",
-        "desc": "Mirija, vipimo, tochi za kukata, burna za kulehemu, valvu za usalama na zaidi.",
-        "icon": "🔧",
-        "spec": "Vali · vidhibiti · hosi · tochi"
+        "title": "Vifaa vya Silinda",
+        "spec": "Vali · vidhibiti · hosi · tochi",
+        "desc": "Viunga vinavyolingana vilivyotolewa na mitungi au kama mpangilio tofauti.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Tazama Maelezo"
+    ]
   },
   "specs": {
-    "title": "Vipimo vya Kiufundi",
-    "subtitle": "Chunguza chaguo za silinda, uwezo wa kubinafsisha na maelezo ya usafirishaji kabla ya kutuma ombi.",
+    "title": "Maelezo ya kiufundi",
+    "subtitle": "Chunguza chaguo za silinda, uwezo wa kubinafsisha na maelezo ya usafirishaji kabla ya kutuma uchunguzi.",
     "items": [
       {
         "title": "Uwezo wa Silinda",
-        "desc": "Chaguo mbalimbali za uwezo na kiasi kulingana na matumizi na mahitaji ya soko."
+        "desc": "Chaguzi mbalimbali za uwezo na kiasi kulingana na maombi na mahitaji ya soko."
       },
       {
-        "title": "Valvu na Kofia",
-        "desc": "Valvu, kofia na viunganishi hutolewa kulingana na mahitaji ya mteja na mradi."
+        "title": "Valves na Kofia",
+        "desc": "Valves, kofia na vifaa vinavyotolewa kulingana na mahitaji ya mteja na mradi."
       },
       {
-        "title": "Chaguo za Kutengenezea",
-        "desc": "Mfumo wa kujaza wenye vinyweleo na vimumunyisho kwa uhifadhi thabiti wa asetilini."
+        "title": "Chaguzi za kutengenezea",
+        "desc": "Mfumo wa kujaza vinyweleo na vimumunyisho kwa uhifadhi thabiti wa asetilini."
       },
       {
-        "title": "Ufungashaji na Usafirishaji",
-        "desc": "Ufungashaji wa mauzo ya nje na msaada wa usafirishaji kwa wasambazaji na wateja wa miradi."
+        "title": "Ufungaji & Usafirishaji",
+        "desc": "Hamisha usaidizi wa ufungaji na usafirishaji kwa wasambazaji na wateja wa mradi."
       }
     ]
   },
   "applications": {
-    "title": "Matumizi ya Silinda",
-    "subtitle": "Bidhaa zilizoundwa kwa kazi za kawaida za gesi za viwanda na mahitaji ya wanunuzi wa nje.",
+    "title": "Maombi ya Silinda",
+    "subtitle": "Bidhaa iliyoundwa kwa kazi za kawaida za gesi za viwandani na mahitaji ya mnunuzi wa ng'ambo.",
     "items": [
-      "Kulehemu na Kubrazi",
+      "Kulehemu na Kuchoma",
       "Kukata Metali",
-      "Usambazaji wa Gesi za Viwanda",
+      "Ugavi wa Gesi ya Viwandani",
       "Ujenzi",
-      "Utengenezaji wa Metali",
+      "Utengenezaji wa Metal",
       "Uhifadhi na Usambazaji wa Gesi"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Kwa nini Chagua Vikundi vya Wanda",
+    "subtitle": "Uwezo wa zege kwa wanunuzi wa viwandani wanaotathmini mshirika wa utengenezaji.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Ugavi unaozingatia mtengenezaji",
+        "desc": "Ugavi wa bidhaa unaolenga uzalishaji, sio orodha za biashara pekee."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Msaada wa OEM",
+        "desc": "Rangi maalum, kuashiria, vali na ufungashaji hujadiliwa kwa agizo."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Udhibiti wa ubora",
+        "desc": "Ukaguzi kutoka kwa nyenzo kupitia kufunga kabla ya usafirishaji."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Usafirishaji wa kimataifa",
+        "desc": "Ufungaji na uratibu wa usafirishaji nje ya nchi kwa wanunuzi wa ng'ambo."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Ubinafsishaji wa bidhaa",
+        "desc": "Specifications ilichukuliwa na soko na mahitaji ya maombi."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Msaada msikivu wa mauzo",
+        "desc": "Nukuu na majibu ya kiufundi kupitia fomu, barua pepe na wajumbe."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Uwezo wa kuagiza kwa wingi",
+        "desc": "Kiasi cha jumla kinachotumika kwa wasambazaji na wanunuzi wa mradi."
       }
     ]
   },
   "about": {
-    "title": "Mtengenezaji Mtaalamu wa Silinda za Gesi",
-    "text": "Wanda Group Gas Cylinder Manufacturer inabobea katika kutengeneza na kusambaza silinda za gesi za viwanda na vifaa vinavyohusiana. Bidhaa zetu hutumika sana katika kulehemu, kukata, usambazaji wa gesi, uhifadhi wa viwanda na nyanja nyingine za usambazaji wa gesi.",
-    "text2": "Tunasaidia wanunuzi wa nje katika uteuzi wa bidhaa, ubinafsishaji, ukaguzi wa ubora, ufungashaji na uratibu wa usafirishaji.",
+    "title": "Mtengenezaji wa silinda ya gesi kwa wanunuzi wa viwanda",
+    "text": "Wanda Group hutengeneza mitungi ya asetilini, silinda za propane, jenereta na vifaa vya kulehemu, kukata na usambazaji wa gesi ya viwandani.",
+    "text2": "Tunasaidia wanunuzi wa ng'ambo na uteuzi wa bidhaa, OEM, ukaguzi, upakiaji na usafirishaji.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Utengenezaji",
+        "desc": "Kuunda, kulehemu, kupima na kumaliza kwa mitungi ya gesi ya viwanda."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Msaada wa OEM",
+        "desc": "Rangi, kuashiria, valve, kofia na chaguzi za kufunga kwa utaratibu."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Mchakato wa Ubora",
+        "desc": "Ukaguzi na upimaji unaoendana na utaratibu na mahitaji ya soko."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Usafirishaji wa Kimataifa",
+        "desc": "Usaidizi wa uhifadhi wa nyaraka na upakiaji kwa wanunuzi wa viwanda vya ng'ambo."
       }
     ]
   },
   "gallery": {
     "title": "Ndani ya Kiwanda Chetu",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Picha halisi za mimea, picha za kutuma moja kwa moja, na video fupi kutoka kwa uzalishaji.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Usafirishaji wa usiku",
+        "desc": "Trela ​​iliyopakiwa ikiondoka na vifaa vilivyofungwa - wakati na mahali vimegongwa kwenye picha."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Mizigo iliyopangwa kwa ajili ya kusafirishwa",
+        "desc": "Pallets na sehemu zilizokusanywa kwa kutumwa. Picha ya moja kwa moja ya ghala, sio seti ya studio."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Mali iliyopakiwa",
+        "desc": "Katoni zilizorundikwa kwenye ghala, tayari kwa agizo linalotoka."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Imefungwa kwa ajili ya kutumwa",
+        "desc": "Mitungi iliyofungwa na kuwekwa kwenye uwanja wa mimea kwa ajili ya kusafirishwa."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Uzalishaji conveyor",
+        "desc": "Miili ya silinda inayotembea kupitia mstari wa kutengeneza na kushughulikia."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Mstari wa kumaliza wa LPG",
+        "desc": "Silinda za LPG zilizopakwa rangi kwenye kofita ya juu kabla ya kufunga."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Ndani ya mmea",
+        "desc": "Ukumbi wa uzalishaji - watu, mashine na hisa zinazoendelea."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Miili ya silinda iliyo svetsade",
+        "desc": "Shells baada ya kulehemu kwa mzunguko, kabla ya uchoraji na valves."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Shells kabla ya uchoraji",
+        "desc": "Miili ambayo haijapakwa rangi iliyopangwa kwenye sakafu kwa hatua inayofuata ya mchakato."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Malipo katika mchakato",
+        "desc": "Sehemu za bomba na makombora yaliyofungwa yanangojea kusanyiko."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Miili ya silinda katika hisa",
+        "desc": "Vifuni vilivyovingirwa vilivyowekwa baada ya kulehemu, kabla ya vichwa na valves."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Pete za msingi",
+        "desc": "Pete za miguu zilizoandaliwa kwa kulehemu kwenye ganda la silinda."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Vifungashio vilivyofungwa",
+        "desc": "Valves na fittings boxed na povu kwa ajili ya usafirishaji wa nje."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Jenereta ya asetilini",
+        "desc": "Kitengo cha jenereta kilicho na hose na fittings, tayari kuondoka kwenye mmea."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Shells kwenye sakafu",
+        "desc": "Miili ya shingo iliyofunguliwa baada ya kulehemu - kundi kabla ya kufunga valve."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Video za kiwanda",
+    "videosSubtitle": "Shorts mpya kutoka kwa sakafu ya mmea. Picha zaidi hutumwa kwa faragha kwa ombi."
   },
   "quality": {
     "title": "Udhibiti wa Ubora",
     "subtitle": "Kila kundi hufuata njia sawa: uzalishaji, majaribio, ukaguzi na udhibiti wa ubora wa mwisho.",
     "steps": [
       {
-        "title": "Uzalishaji",
-        "desc": "Kuunda, kulehemu na kukusanyika chini ya udhibiti wa mchakato wa mmea."
+        "title": "Malighafi",
+        "desc": "Nyenzo zinazoingia zimekaguliwa dhidi ya utaratibu na mahitaji ya mchakato."
       },
       {
-        "title": "Kupima",
-        "desc": "Vipimo vya shinikizo na uvujaji kabla ya mitungi kuondoka kwenye mstari."
+        "title": "Uzalishaji",
+        "desc": "Kuunda, kulehemu na kukusanyika chini ya udhibiti wa mchakato wa mmea."
       },
       {
         "title": "Ukaguzi",
         "desc": "Visual, kuashiria na dimensional hundi dhidi ya utaratibu."
       },
       {
-        "title": "Udhibiti wa Ubora wa Mwisho",
-        "desc": "Ukaguzi wa kufunga kabla ya usafirishaji wa nje."
+        "title": "Kupima",
+        "desc": "Vipimo vya shinikizo na uvujaji kabla ya mitungi kuondoka kwenye mstari."
+      },
+      {
+        "title": "QC ya mwisho",
+        "desc": "Udhibiti wa mwisho wa ubora kabla ya kutolewa kwa upakiaji."
+      },
+      {
+        "title": "Ufungaji",
+        "desc": "Ufungashaji wa nje ulioandaliwa kwa usafirishaji."
+      },
+      {
+        "title": "Usafirishaji",
+        "desc": "Inapakia na kutuma hati kwa maagizo ya nje."
       }
     ]
   },
   "faq": {
     "title": "Maswali Yanayoulizwa Mara Kwa Mara",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Kampuni, bidhaa, OEM na usafirishaji - majibu kwa wanunuzi wa ng'ambo kabla ya kuomba bei.",
     "cta": "Hujapata swali lako? Tuma bidhaa, saizi, idadi na nchi unakoenda - tutajibu kwa toleo la kina.",
     "ctaBtn": "Pata Nukuu",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video na hati",
         "items": [
           {
             "q": "Je, ninaweza kutazama video za kiwandani kabla ya kuagiza?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ndiyo. Tazama video za uzalishaji katika sehemu ya Kiwanda kwenye ukurasa huu. Picha za ziada, klipu za kufunga na vyeti hutumwa kwa faragha kwa ombi."
           },
           {
             "q": "Je, unatoa video za bidhaa, hasa kwa mitungi ya asetilini?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ndiyo. Video, picha na maelezo ya kina juu ya mitungi ya asetilini hutumwa kwa faragha kulingana na ombi lako."
           },
           {
             "q": "Je, unaweza kuonyesha video za uzalishaji na udhibiti wa ubora?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ndiyo. Video zinazopatikana za uzalishaji, ukaguzi wa ubora, upakiaji na hifadhi ya ghala hutumwa kwa faragha ili uweze kuona jinsi bidhaa zinavyotayarishwa."
           },
           {
             "q": "Je, ninaweza kuomba video ya bidhaa iliyoundwa kwa agizo mahususi?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Kwa agizo mahususi au mahitaji ya bidhaa, wasiliana nasi - tutajadili usaidizi wa video na kutuma nyenzo kwa faragha."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Je, ninapataje video, vyeti na nukuu?",
+            "a": "Katika fomu ya uchunguzi, taja aina ya bidhaa, ukubwa wa silinda, wingi, nchi unakoenda na nini cha kutuma: video, vyeti au vyote viwili. Tutazituma kwa faragha na tutatayarisha ofa."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Je, unaweza kutoa picha za bidhaa na vipimo?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ndiyo. Picha za bidhaa, vipimo na hifadhidata hutumwa kwa faragha kwa ombi."
           },
           {
             "q": "Ninawezaje kupata nukuu ya vifaa?",
@@ -395,110 +407,172 @@
     ]
   },
   "articles": {
-    "title": "Makala za Hivi Karibuni",
-    "subtitle": "Maudhui ya kitaalamu kwa wataalamu wa kulehemu na usambazaji wa gesi.",
+    "title": "Makala za Hivi Punde",
+    "subtitle": "Maudhui ya kitaalam kwa wataalamu wa kulehemu na usambazaji wa gesi.",
     "readMore": "Soma zaidi →",
     "close": "Funga",
     "items": [
       {
         "tag": "Mafundi",
-        "title": "Suluhisho Kamili la Usambazaji wa Silinda za Propani",
-        "desc": "Uthabiti wa vifaa huathiri moja kwa moja ufanisi wa kazi za kulehemu na kukata.",
+        "title": "Suluhisho kamili la Ugavi wa Silinda ya Propane",
+        "desc": "Utulivu wa vifaa huathiri moja kwa moja kulehemu na kukata ufanisi wa kazi.",
         "body": [
-          "Kwa mafundi wanaolehemu, kutengeneza na kutengeneza metali kila siku, vifaa thabiti vya gesi huathiri moja kwa moja ubora na kasi ya kazi.",
-          "Silinda za propani za Wanda Group zinapatikana kutoka 3L hadi 50L zenye valvu za POL, CGA 510 au GOST kulingana na soko lako — msambazaji mmoja kwa kulehemu, kukata na kupasha joto.",
-          "Tunapendekeza kuagiza silinda pamoja na vidhibiti, mirija na tochi. Usambazaji wa pakiti hupunguza gharama za usafirishaji na kuhakikisha uoanifu wa vifaa vya ziada.",
-          "Unapoagiza, bainisha soko lengwa, ujazo, aina ya valvu na rangi — tunaandaa alama za OEM na ufungashaji wa mauzo ya nje chini ya chapa yako."
+          "Kwa mafundi ambao huchoma, kutengeneza na kutengeneza chuma kila siku, vifaa vya gesi thabiti huathiri moja kwa moja ubora na kasi ya kazi.",
+          "Silinda za propane za Wanda Group zinapatikana kuanzia 3L hadi 50L na vali za POL, CGA 510 au GOST kulingana na soko lako - msambazaji mmoja wa kulehemu, kukata na kupasha joto.",
+          "Tunapendekeza kuagiza mitungi pamoja na vidhibiti, hoses na tochi. Ugavi wa bundle hupunguza gharama ya vifaa na kuhakikisha uoanifu wa vifaa.",
+          "Wakati wa kuagiza, bainisha soko lengwa, kiasi, aina ya vali na rangi - tunatayarisha alama za OEM na kuuza nje chini ya chapa yako."
         ]
       },
       {
-        "tag": "Uhifadhi",
-        "title": "Vidokezo vya Uhifadhi wa Muda Mrefu wa Silinda za Asetilini",
-        "desc": "Hali za uhifadhi, mbinu za kuweka na ukaguzi wa mara kwa mara kwa silinda zisizotumika.",
+        "tag": "Hifadhi",
+        "title": "Vidokezo vya Uhifadhi wa Silinda ya Asetilini ya Muda Mrefu",
+        "desc": "Hali ya kuhifadhi, njia za uwekaji na ukaguzi wa mara kwa mara kwa mitungi isiyotumiwa.",
         "body": [
-          "Kampuni nyingi huhifadhi silinda za asetilini na propani wakati wa mapumziko ya uzalishaji au kama hesabu. Silinda zisizotumika bado zinahitaji usimamizi sahihi.",
-          "Hifadhi silinda wima katika eneo lenye uingizaji hewa mzuri mbali na vyanzo vya joto na mwanga wa jua wa moja kwa moja. Joto la uhifadhi kwa kawaida halipaswi kuzidi 40–50°C.",
-          "Kagua valvu, kofia na alama angalau kila robo mwaka. Kwa uhifadhi wa muda mrefu wa asetilini, weka silinda wima na usiruhusu kupinda.",
-          "Wanda Group husafirisha silinda zenye kofia za kinga na ufungashaji wa mauzo ya nje uliobuniwa kwa usafirishaji na uhifadhi salama. Mwongozo wa uhifadhi unapatikana kwa lugha yako kwa ombi."
+          "Makampuni mengi huhifadhi silinda za asetilini na propane wakati wa mapumziko ya uzalishaji au kama hesabu. Silinda zisizotumiwa bado zinahitaji utunzaji sahihi.",
+          "Hifadhi mitungi wima katika eneo lenye uingizaji hewa wa kutosha mbali na vyanzo vya joto na jua moja kwa moja. Joto la kuhifadhi kawaida haipaswi kuzidi 40-50 ° C.",
+          "Kagua vali, kofia na alama angalau kila robo mwaka. Kwa uhifadhi wa muda mrefu wa asetilini, weka silinda wima na usiruhusu kamwe kuinamisha.",
+          "Wanda Group husafirisha mitungi yenye kofia za kinga na vifungashio vya usafirishaji vilivyoundwa kwa ajili ya usafiri salama na ghala. Miongozo ya kuhifadhi inapatikana katika lugha yako ukiomba."
         ]
       },
       {
         "tag": "Bei",
-        "title": "Mwongozo wa Bajeti kwa Ununuzi wa Silinda za Asetilini",
-        "desc": "Mambo yanayoathiri gharama na jinsi ya kuchagua ofa bora.",
+        "title": "Mwongozo wa Bajeti kwa Ununuzi wa Silinda ya Asetilini",
+        "desc": "Mambo yanayoathiri gharama na jinsi ya kuchagua ofa mojawapo.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Pia zingatia usafirishaji (FOB/CIF), nyaraka na MOQ. Tunajibu ndani ya saa 24 kwa vipimo kamili, muda wa utoaji na Incoterms.",
-          "Kwa nukuu sahihi, jumuisha modeli, kiasi, nchi ya marudio na mahitaji ya valvu katika fomu ya mawasiliano — au tuma barua pepe sales@wandagroups.com."
+          "Bei ya mitungi ya asetilini inategemea ujazo, aina ya valvu, viwango vinavyohitajika kwa soko lako lengwa, na wingi wa agizo. Hatuchapishi bei za orodha zisizobadilika kwenye wavuti.",
+          "Kura kubwa na chaguzi za OEM (uchoraji, nembo, upakiaji) hunukuliwa kibinafsi baada ya kukagua uchunguzi wako.",
+          "Masharti ya usafirishaji (FOB/CIF na sawa), hati na wakati wa kuongoza huthibitishwa katika nukuu rasmi.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Omba Nukuu",
-    "subtitle": "Tuambie ukubwa, kiasi, nchi ya marudio na matumizi — tutaandaa nukuu yenye maelezo.",
+    "title": "Hebu Tujadili Mahitaji Yako",
+    "subtitle": "Tuambie bidhaa, saizi, wingi, nchi lengwa na vipimo - timu yetu ya mauzo itajibu na maelezo ya bidhaa na nukuu.",
     "formTitle": "Omba Nukuu",
-    "formSubtitle": "Acha mahitaji yako — timu yetu ya mauzo itajibu kwa taarifa za bidhaa, bei, MOQ na muda wa utoaji.",
+    "formSubtitle": "Jaza fomu kwa uchunguzi wa kibiashara. Sehemu zinazohitajika zimetiwa alama.",
     "name": "Jina",
+    "company": "Kampuni",
     "phone": "Simu / WhatsApp",
     "email": "Barua pepe",
     "product": "Bidhaa",
-    "quantity": "Kiasi",
-    "country": "Nchi ya Marudio",
+    "quantity": "Kiasi (si lazima)",
+    "country": "Nchi Lengwa (si lazima)",
     "productOptions": [
       "Silinda ya Asetilini",
-      "Silinda ya Propani",
-      "Jenereta ya Asetilini",
-      "Vifaa vya Ziada",
-      "Oda ya Pakiti",
-      "Cold storage / refrigeration"
+      "Silinda ya Propane",
+      "Jenereta ya asetilini",
+      "Vifaa",
+      "Uhifadhi wa baridi / friji",
+      "Agizo la Bundle"
     ],
+    "quantityPlaceholder": "k.m. pcs 200, kontena 1, au TBD",
+    "countryPlaceholder": "Ambapo bidhaa zitatumwa",
     "message": "Mahitaji ya Ziada",
-    "messagePlaceholder": "Bidhaa, ukubwa, kiasi, nchi ya marudio...",
-    "submit": "Tuma Uchunguzi",
+    "messagePlaceholder": "Bidhaa, ukubwa, wingi, nchi lengwa...",
+    "submit": "Peana Uchunguzi",
     "sending": "Inatuma...",
-    "success": "Asante! Tutawasiliana nawe hivi karibuni.",
-    "sendAnother": "Tuma ombi lingine",
+    "success": "Asante! Tutawasiliana nawe baada ya muda mfupi.",
+    "sendAnother": "Tuma uchunguzi mwingine",
     "errorGeneric": "Imeshindwa kutuma. Tafadhali jaribu tena au tutumie barua pepe moja kwa moja.",
-    "errorNoForm": "Fomu haijasanidiwa. Tafadhali tuma barua pepe sales@wandagroups.com",
-    "privacyPrefix": "Nakubaliana na",
-    "privacySuffix": "na kwa usindikaji wa data yangu ya kibinafsi kushughulikia uchunguzi huu.",
-    "privacyLink": "Sera ya Faragha",
-    "company": "Kampuni",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Tuma kupitia programu ya barua pepe",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Nakubaliana na",
+    "privacySuffix": ", na kwa usindikaji wa data yangu ya kibinafsi kushughulikia uchunguzi huu.",
+    "privacyLink": "Sera ya Faragha",
+    "termsAnd": "na",
+    "termsLink": "Masharti ya Matumizi",
+    "requirements": "Mahitaji / Specifications",
+    "requirementsPlaceholder": "Aina ya valves, rangi, kawaida, upakiaji, uwekaji alama wa OEM, noti za kiasi..."
   },
   "footer": {
     "company": "Mtengenezaji wa Silinda ya Gesi ya Wanda Group",
-    "tagline": "Utengenezaji wa Kitaalamu wa Silinda za Gesi",
+    "tagline": "Utengenezaji wa Silinda za Gesi Kitaalamu",
     "rights": "© 2026 Wanda Group. Haki zote zimehifadhiwa.",
     "privacy": "Sera ya Faragha",
-    "terms": "Terms of Use"
+    "terms": "Masharti ya Matumizi"
+  },
+  "privacy": {
+    "label": "Kisheria",
+    "title": "Sera ya Faragha",
+    "updated": "Ilisasishwa mwisho: 25 Agosti 2026",
+    "intro": [
+      "Wanda Group (“sisi”, “sisi”) huendesha tovuti hii ili kuwasilisha mitungi ya gesi, vifuasi na usambazaji unaohusiana na usafirishaji nje, na kupokea maswali ya kibiashara kutoka kwa wanunuzi wa viwandani.",
+      "Sera hii inaeleza ni data gani ya kibinafsi tunayokusanya kupitia tovuti, kwa nini tunaitumia na jinsi unavyoweza kuwasiliana nasi kuihusu. Video za uzalishaji wa kiwanda zinaonyeshwa kwenye tovuti hii. Faili za cheti hutumwa kwa faragha kwa ombi."
+    ],
+    "sections": [
+      {
+        "title": "Nani anawajibika",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Data gani tunakusanya",
+        "body": [
+          "Unapotuma fomu ya uchunguzi tunapokea data unayoweka: jina, barua pepe, simu, nchi unakoenda, aina ya bidhaa, wingi na ujumbe.",
+          "Tovuti pia huhifadhi chaguo lako la lugha kwenye kivinjari (Hifadhi ya ndani). Hatuendeshi vidakuzi vya utangazaji au kuuza orodha za wageni."
+        ]
+      },
+      {
+        "title": "Kwa nini tunatumia data",
+        "body": [
+          "Tunatumia data ya uchunguzi pekee kujibu ombi lako, kuandaa nukuu, kutuma maelezo ya bidhaa, video au vyeti ulivyouliza, na kuratibu agizo iwapo tutaanza kufanya kazi pamoja.",
+          "Msingi wa kisheria: idhini yako unapoweka tiki kwenye kisanduku cha kuteua kwenye fomu, na nia yetu halali ya kujibu maombi ya mauzo ya B2B."
+        ]
+      },
+      {
+        "title": "Nani anapokea data",
+        "body": [
+          "Ujumbe wako unawasilishwa kwa timu yetu ya mauzo kwa barua pepe. Fomu inachakatwa na Web3Forms, mtoa huduma wa kiufundi anayetuma ujumbe kwetu.",
+          "Hatuuzi data ya kibinafsi. Tunaweza kushiriki kile kinachohitajika na washirika wa vifaa, ukaguzi au benki ikiwa tu inahitajika kutimiza agizo lililokubaliwa."
+        ]
+      },
+      {
+        "title": "Tunaiweka kwa muda gani",
+        "body": [
+          "Data ya uchunguzi huwekwa kwa muda unaohitajika kushughulikia ombi na kwa muda unaofaa baadaye kwa ufuatiliaji wa mauzo na uhasibu, isipokuwa utuombe tuifute mapema pale ambapo sheria inaruhusu."
+        ]
+      },
+      {
+        "title": "Haki zako",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Usalama na watoto",
+        "body": [
+          "Tunachukua hatua zinazokubalika za kiufundi na za shirika ili kulinda ujumbe unaposafirishwa na katika kisanduku chetu cha barua. Tovuti hii inalenga wanunuzi wa biashara, sio watoto."
+        ]
+      }
+    ],
+    "contactLead": "Maswali kuhusu sera hii:"
   },
   "ui": {
     "catalog": "Katalogi",
-    "catalogTitle": "Vipimo vya Kina vya Bidhaa",
-    "catalogSubtitle": "Data kamili ya kiufundi, modeli na vigezo kwa kila kategoria. Chagua bidhaa kuona jedwali la vipimo.",
-    "requestPrice": "Omba Bei ya Modeli Hii",
+    "catalogTitle": "Maelezo ya kina ya Bidhaa",
+    "catalogSubtitle": "Kamilisha data ya kiufundi, mifano na vigezo kwa kila kategoria. Chagua bidhaa ili kuona jedwali maalum.",
+    "requestPrice": "Omba Bei ya Muundo Huu",
     "services": "Huduma",
     "pricing": "Bei",
-    "getExactQuote": "Pata Nukuu Sahihi",
+    "getExactQuote": "Pata Nukuu Halisi",
     "certifications": "Vyeti",
-    "order": "Agiza",
-    "reviews": "Maoni",
+    "order": "Agizo",
+    "reviews": "Ukaguzi",
     "contact": "Wasiliana",
     "phone": "Simu",
     "location": "Mahali",
-    "quoteResponse": "Majibu ya nukuu",
+    "quoteResponse": "Quote majibu",
     "support": "Msaada",
-    "exportReady": "Tayari kwa mauzo ya nje",
+    "countriesServed": "Msaada wa kuuza nje",
+    "exportReady": "Hamisha tayari",
     "years": "Miaka",
     "acetylene": "Asetilini",
     "isoCertified": "Imethibitishwa na ISO",
-    "globalExport": "Mauzo ya Nje Duniani",
+    "globalExport": "Usafirishaji wa Kimataifa",
     "products": "Bidhaa",
     "specs": "Vipimo",
     "applications": "Maombi",
@@ -508,17 +582,25 @@
     "quality": "Ubora",
     "faq": "Maswali Yanayoulizwa Mara kwa Mara",
     "blog": "Blogu",
-    "countriesServed": "Nchi zinazohudumiwa",
     "searchLanguage": "Tafuta lugha...",
-    "noLanguagesFound": "Hakuna lugha zilizopatikana"
+    "noLanguagesFound": "Hakuna lugha zilizopatikana",
+    "breadcrumb": "Breadcrumb",
+    "primaryNav": "Msingi",
+    "menu": "Menyu",
+    "playVideo": "Cheza video",
+    "productGallery": "Matunzio ya bidhaa",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Lebo ya Kibinafsi",
+    "Usafirishaji wa Kimataifa",
+    "Udhibiti wa Ubora",
+    "Viwango vya Soko juu ya Ombi",
+    "Maagizo ya Wingi"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Uthibitisho",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Nyaraka za forodha na wasimamizi. Nakala hutumwa kwa faragha kwa ombi.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & cheti cha ubora",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Masharti ya Bei na Ugavi",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Masharti ya kibiashara yanathibitishwa kwa kila uchunguzi. Tuma maelezo ya bidhaa, wingi na lengwa kwa nukuu rasmi.",
+    "note": "Hatuchapishi bei za orodha zisizobadilika, MOQ au nyakati za kuongoza kwenye tovuti hii. Masharti kamili ya kibiashara yanathibitishwa katika nukuu baada ya kukagua mahitaji yako.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Bei",
+        "value": "Kwa ombi",
+        "desc": "Nukuu rasmi baada ya ukaguzi wa uchunguzi"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Imethibitishwa kwa agizo",
+        "desc": "Inategemea mfano na marudio"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Wakati wa kuongoza",
+        "value": "Imethibitishwa kwa agizo",
+        "desc": "Imeshirikiwa na nukuu"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Malipo",
+        "value": "Imekubaliwa kwa mkataba",
+        "desc": "Masharti yamethibitishwa kabla ya uzalishaji"
       }
     ],
     "factors": {
-      "title": "Mambo ya Bei",
+      "title": "Ni nini kinachoathiri nukuu",
       "items": [
-        "Kiasi cha silinda na muundo (2L - 50L)",
-        "Aina ya valves (CGA, GOST, DIN, POL)",
-        "Kiwango cha uthibitisho (ISO, DOT, TPED)",
-        "OEM: rangi, kuashiria, ufungaji",
+        "Kiasi cha silinda na mfano",
+        "Aina ya valves na kiwango cha uunganisho",
+        "Viwango vinavyohitajika kwa soko lengwa",
+        "OEM rangi, kuashiria na ufungaji",
         "Kiasi cha agizo na Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Asetilini WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Mitungi ya asetilini",
+        "moq": "Kwa ombi",
+        "price": "Imenukuliwa kwa uchunguzi",
+        "lead": "Imethibitishwa kwa agizo"
       },
       {
-        "product": "Asetilini WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Silinda za propane / LPG",
+        "moq": "Kwa ombi",
+        "price": "Imenukuliwa kwa uchunguzi",
+        "lead": "Imethibitishwa kwa agizo"
       },
       {
-        "product": "Propani WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Jenereta",
+        "moq": "Kwa ombi",
+        "price": "Imenukuliwa kwa uchunguzi",
+        "lead": "Imethibitishwa kwa agizo"
       },
       {
-        "product": "Propani WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Jenereta WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Seti ya mdhibiti",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Vifaa",
+        "moq": "Kwa ombi",
+        "price": "Imenukuliwa kwa uchunguzi",
+        "lead": "Imethibitishwa kwa agizo"
       }
     ],
     "tableHeaders": [
       "Bidhaa",
       "MOQ",
-      "Bei (EXW)",
+      "Bei",
       "Muda wa Kuongoza"
     ]
   },
   "certifications": {
     "title": "Vyeti na Viwango",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Viwango na chaguzi za uthibitishaji hujadiliwa kulingana na bidhaa na soko lengwa. Nakala za cheti hutumwa kwa faragha kwa ombi - faili hazichapishwi kwenye tovuti hii.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,41 +1043,41 @@
       },
       {
         "title": "Pokea Nukuu",
-        "desc": "Bei, MOQ, muda wa kuongoza na karatasi maalum ndani ya saa 24"
+        "desc": "Bei, MOQ, muda wa kuongoza na karatasi maalum baada ya ukaguzi na timu yetu ya mauzo"
       },
       {
         "title": "Thibitisha Agizo",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Masharti ya mkataba na malipo yamekubaliwa kabla ya uzalishaji kuanza"
       },
       {
         "title": "Uzalishaji na QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Uzalishaji na upimaji. Video na vyeti hutumwa kwa faragha kwa ombi"
       },
       {
         "title": "Usafirishaji",
-        "desc": "Ufungaji, hati, utoaji wa FOB/CIF/DDP"
+        "desc": "Ufungaji, hati na masharti ya uwasilishaji kama ilivyokubaliwa katika agizo"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Wanunuzi wanasema nini",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "quote": "Tulipanga upya mitungi ya 40L ya asetilini mara tatu mwaka huu. Vali za GOST, rangi ya OEM na vifungashio vya usafirishaji vililingana na sampuli ya kwanza kila wakati.",
         "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "role": "Mmiliki, msambazaji wa gesi ya kulehemu",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Nukuu ilikuja siku hiyo hiyo ikiwa na MOQ wazi na wakati wa kuongoza. Chupa za propane zilifika zikiwa na vali za POL na orodha kamili ya upakiaji - hakuna ucheleweshaji wa forodha kwa upande wetu.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
+        "role": "Meneja wa manunuzi, usambazaji wa viwanda",
         "country": "Kazakhstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Tunanunua mitungi yenye vidhibiti na hosi kama utaratibu wa chombo kimoja. Hati na kuashiria zilikuwa tayari kwa soko letu, kwa hivyo uuzaji ulikuwa wa moja kwa moja.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
+        "role": "Mnunuzi wa kuagiza, biashara ya vifaa vya gesi",
         "country": "Saudi Arabia"
       }
     ]
@@ -1062,58 +1132,59 @@
         "id": "ubora",
         "eyebrow": "Ubora na usalama",
         "title": "Ukaguzi unaweza kuweka katika quote",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Ukaguzi wa nyenzo, vipimo vya kuvuja, torque ya valves na picha za kufunga. Vifurushi vya cheti na ripoti za picha hutumwa kwa faragha kwa ombi.",
         "points": [
           "Vipimo vya shinikizo na uvujaji",
-          "Certificate package",
+          "Vyeti kwa ombi",
           "Picha kabla ya usafirishaji"
         ]
       },
       {
         "id": "kuuza nje",
         "eyebrow": "Usafirishaji wa kimataifa",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Imefungwa kwa ajili ya bandari, tayari kwa masoko ya nje",
         "text": "Hamisha pallets, ulinzi wa vali, lebo za lugha nyingi na hati za usafirishaji zilizoratibiwa kwa Incoterms unakoenda.",
         "points": [
           "Msaada wa FOB / CIF",
           "Ufungashaji wa palletized",
           "Muda wa kozi ni siku 15-25"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Mitungi ya gesi iliyofungwa iliyowekwa kwenye uwanja wa kiwanda kwa ajili ya kutumwa",
+    "about": "Wafanyakazi kwenye sakafu ya kiwanda cha Wanda Group",
+    "accessories": "Seti ya nyongeza ya silinda ya gesi - vidhibiti, hoses, tochi na fittings",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Silinda ya asetilini iliyofutwa na molekuli ya porous na valve ya shaba",
+      "Jenereta ya asetilini iliyopigwa picha kwenye kiwanda",
+      "Silinda za propane na LPG katika saizi na rangi nyingi",
+      "Vifaa vya kulehemu na kukata kwa mitungi ya gesi"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Utumaji wa usiku: vifaa vilivyofungwa vilivyopakiwa kwenye trela",
+      "Pallets na sehemu za chuma zilizopangwa kwa usafirishaji",
+      "Katoni za hisa zilizopakiwa zimewekwa kwenye ghala",
+      "Mitungi iliyofunikwa kwa filamu, iliyowekwa kwenye uwanja wa kiwanda",
+      "Conveyor ya uzalishaji wa silinda ya gesi chini ya paa la mmea",
+      "Mitungi ya LPG inayoning'inia kwenye sehemu ya juu inayomalizia conveyor",
+      "Wafanyakazi wakitembea kwenye sakafu ya kiwanda cha Wanda Group",
+      "Miili ya silinda ya propane isiyopakwa rangi iliyopangwa kwa urefu wa mbili",
+      "Safu za makombora ya silinda yasiyopakwa kwenye sakafu ya zege",
+      "Hifadhi ya bomba la silinda na makombora yaliyofungwa kwenye semina",
+      "Miili mbichi ya silinda iliyopangwa dhidi ya ukuta wa kiwanda",
+      "Pete za msingi za chuma zimefungwa kabla ya kukusanyika",
+      "Vifaa vya shaba vilivyojaa kwenye katoni na povu",
+      "Jenereta ya Acetylene yenye hose na vifaa vya sanduku",
+      "Vifuni vya silinda visivyo na rangi na shingo wazi baada ya kulehemu"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Kitengo cha kubana kilichopozwa na hewa na kibandiko cha nusu-hermetic cha Copeland",
+      "Kitengo cha kubanalisha kilichopozwa na hewa na kibandikizi cha Bitzer nusu-hermetic",
+      "Kitengo cha kubana majokofu cha mtindo wa baraza la mawaziri",
+      "Kitengo cha kubanaisha kilichopozwa na hewa cha feni nne chenye uwezo wa juu"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Kisheria",
-    "title": "Sera ya Faragha",
-    "updated": "Ilisasishwa mwisho: 25 Agosti 2026",
-    "intro": [
-      "Wanda Group (“sisi”, “sisi”) huendesha tovuti hii ili kuwasilisha mitungi ya gesi, vifuasi na usambazaji unaohusiana na usafirishaji nje, na kupokea maswali ya kibiashara kutoka kwa wanunuzi wa viwandani.",
-      "Sera hii inaeleza ni data gani ya kibinafsi tunayokusanya kupitia tovuti, kwa nini tunaitumia na jinsi unavyoweza kuwasiliana nasi kuihusu. Hatuchapishi video za kiwanda au faili za cheti kwenye wavuti; nyenzo hizo hutumwa kwa faragha kwa ombi."
-    ],
-    "sections": [
-      {
-        "title": "Nani anawajibika",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Data gani tunakusanya",
-        "body": [
-          "Unapotuma fomu ya uchunguzi tunapokea data unayoweka: jina, barua pepe, simu, nchi unakoenda, aina ya bidhaa, wingi na ujumbe.",
-          "Tovuti pia huhifadhi chaguo lako la lugha kwenye kivinjari (Hifadhi ya ndani). Hatuendeshi vidakuzi vya utangazaji au kuuza orodha za wageni."
-        ]
-      },
-      {
-        "title": "Kwa nini tunatumia data",
-        "body": [
-          "Tunatumia data ya uchunguzi pekee kujibu ombi lako, kuandaa nukuu, kutuma maelezo ya bidhaa, video au vyeti ulivyouliza, na kuratibu agizo iwapo tutaanza kufanya kazi pamoja.",
-          "Msingi wa kisheria: idhini yako unapoweka tiki kwenye kisanduku cha kuteua kwenye fomu, na nia yetu halali ya kujibu maombi ya mauzo ya B2B."
-        ]
-      },
-      {
-        "title": "Nani anapokea data",
-        "body": [
-          "Ujumbe wako unawasilishwa kwa timu yetu ya mauzo kwa barua pepe. Kulingana na usanidi, fomu inaweza kuchakatwa na Web3Forms kama mtoa huduma wa kiufundi anayetuma ujumbe kwetu.",
-          "Hatuuzi data ya kibinafsi. Tunaweza kushiriki kile kinachohitajika na washirika wa vifaa, ukaguzi au benki ikiwa tu inahitajika kutimiza agizo lililokubaliwa."
-        ]
-      },
-      {
-        "title": "Tunaiweka kwa muda gani",
-        "body": [
-          "Data ya uchunguzi huwekwa kwa muda unaohitajika kushughulikia ombi na kwa muda unaofaa baadaye kwa ufuatiliaji wa mauzo na uhasibu, isipokuwa utuombe tuifute mapema pale ambapo sheria inaruhusu."
-        ]
-      },
-      {
-        "title": "Haki zako",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Usalama na watoto",
-        "body": [
-          "Tunachukua hatua zinazokubalika za kiufundi na za shirika ili kulinda ujumbe unaposafirishwa na katika kisanduku chetu cha barua. Tovuti hii inalenga wanunuzi wa biashara, sio watoto."
-        ]
-      }
-    ],
-    "contactLead": "Maswali kuhusu sera hii:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Kisheria",
+    "title": "Masharti ya Matumizi",
+    "updated": "Ilisasishwa mwisho: 27 Agosti 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Masharti haya yanatawala matumizi ya wandagroups.com, inayoendeshwa na Wanda Group kwa wanunuzi wa viwandani wa mitungi ya gesi, jenereta na vifuasi.",
+      "Kwa kuvinjari tovuti au kutuma uchunguzi unakubali masharti haya na Sera yetu ya Faragha. Ikiwa hukubaliani, usitumie tovuti."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Sisi ni nani",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Tovuti ni ya nini",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Tovuti inatoa taarifa za bidhaa na kupokea maswali ya kibiashara. Inakusudiwa wanunuzi wa biashara, sio kwa watumiaji wanaonunua kama watu binafsi na sio kwa watoto."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Nukuu, bei na maagizo",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Bei, MOQ, nyakati za kuongoza na vipimo kwenye tovuti ni dalili. Ujumbe kupitia fomu au mjumbe ni uchunguzi, sio agizo.",
+          "Mkataba unakuwepo tu wakati pande zote mbili zinathibitisha toleo hilo kwa maandishi (barua pepe au hati zilizosainiwa) na amana iliyokubaliwa inapokelewa, isipokuwa tutakaposema vinginevyo katika uthibitisho huo."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Picha, video na vyeti",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Picha na video za kiwanda kwenye tovuti zinaonyesha uzalishaji. Picha za ziada na faili za cheti hutumwa kwa faragha kwa ombi na kubaki nyenzo zetu za siri isipokuwa tuseme unaweza kuzishiriki."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Mali ya kiakili",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Maandishi, picha, video, nembo na mpangilio kwenye tovuti hii ni mali ya Wanda Group au watoa leseni wetu. Huwezi kunakili katalogi kwa tovuti yako mwenyewe ya kibiashara bila idhini yetu iliyoandikwa."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Matumizi yanayokubalika",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Usitumie vibaya fomu ya uchunguzi (barua taka, utambulisho wa uwongo, au majaribio ya kutatiza tovuti). Tunaweza kupuuza au kufuta maombi ya matusi."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Dhima",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Tunachukua tahadhari kuweka maelezo sahihi, lakini tovuti inaweza kuwa na hitilafu au isipatikane kwa muda. Kwa kiwango kinachoruhusiwa na sheria, Wanda Group haiwajibikiwi kwa hasara isiyo ya moja kwa moja inayotokana tu na matumizi ya tovuti.",
+          "Dhima ya mkataba halisi wa usambazaji imewekwa katika mkataba huo na katika sheria inayotumika, si katika masharti haya ya tovuti pekee."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Mabadiliko",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Tunaweza kusasisha masharti haya. Tarehe iliyo juu inaonyesha toleo la sasa. Kuendelea kutumia tovuti baada ya mabadiliko kunamaanisha kuwa unakubali masharti yaliyosasishwa."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Maswali kuhusu masharti haya:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Bidhaa zetu line",
+    "title": "Vitengo vya friji",
+    "subtitle": "Mstari tofauti wa Wanda Group - sio orodha ya watu wengine. Vitengo vya kubana, vyumba vya baridi na maunzi, vinavyotolewa na sisi pamoja na mitungi au kama agizo la kusimama pekee.",
+    "moreLink": "Vifaa vya kuhifadhi baridi →",
+    "cta": "Omba nukuu",
+    "alsoTitle": "Inapatikana pia kwa ombi",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Paneli za chumba baridi za polyurethane (B1 / B2) na paneli 304 za pua",
+      "Vipoza hewa vya chumba baridi - DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Coils ya evaporator ya alumini",
+      "Milango ya chumba baridi",
+      "Vipodozi vya maji vya viwandani",
+      "Vitengo vya friji za gari na vyumba vya baridi vya rununu"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Biashara ya Kimataifa ya Wanda hutoa vifaa vya majokofu kando ya laini ya silinda ya gesi: vitengo, paneli, vipozezi na maunzi ya mnyororo baridi yanayohusiana. Copeland, Bitzer na majina sawa yanarejelea chapa ya kujazia ndani ya kitengo, si chapa ya kampuni hizo.",
+    "videoTitle": "Video ya kampuni",
+    "videoSubtitle": "Maelezo ya jumla ya mstari wa vifaa vya friji. Picha zaidi hutumwa kwa faragha kwa ombi.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Kitengo cha kupozwa kwa hewa cha Copeland nusu-hermetic",
+        "spec": "Kitengo cha kubana · Compressor ya Copeland",
+        "desc": "Kitengo cha kubana kilichopozwa na hewa na compressor ya nusu-hermetic ya Copeland kwa vyumba vya baridi na wajibu wa joto la wastani."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Kitengo cha kupozwa kwa hewa cha Bitzer nusu-hermetic",
+        "spec": "Kitengo cha kubana · Compressor ya Bitzer",
+        "desc": "Kitengo cha kubanalisha kilichopozwa na hewa na kibandiko cha Bitzer nusu-hermetic kwa vyumba vya kazi ya juu na vya kati hadi chini."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Kitengo cha aina ya kisanduku kilichofungwa",
+        "spec": "Kitengo cha kubana baraza la mawaziri",
+        "desc": "Kitengo kilichoambatanishwa cha mtindo wa kabati kwa tovuti zinazohitaji mashine ya kukaa badala ya kuteleza wazi."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Kitengo cha kubana cha aina ya U / chenye uwezo wa juu",
+        "spec": "Mashabiki wengi hewa-kilichopozwa",
+        "desc": "Kitengo kikubwa cha kubanarisha kilichopozwa na hewa chenye kikondeshi cha feni nyingi kwa maduka makubwa ya baridi na mchakato wa kupoeza."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Sisi ni Nani",
+    "title": "Mtengenezaji wa viwanda kwa wanunuzi wa B2B",
+    "text": "Wanda Groups hutengeneza na kusambaza mitungi ya gesi ya viwandani, jenereta na vifaa vya kulehemu kwa wasambazaji wa ng'ambo, washirika wa OEM na wanunuzi wa mradi.",
+    "text2": "Lengo letu ni ugavi unaohusishwa na kiwanda, usaidizi wa uteuzi wa bidhaa, maagizo ya wingi na uratibu wa usafirishaji - sio mauzo ya wateja wa reja reja.",
+    "cta": "Pata Maelezo Zaidi Kutuhusu"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Je, uko tayari kuomba bei?",
+      "quoteCta": "Omba Nukuu",
+      "relatedProducts": "Bidhaa zinazohusiana",
+      "applications": "Maombi",
+      "standardsTitle": "Viwango na vyeti",
+      "oemTitle": "OEM / ubinafsishaji",
+      "packagingTitle": "Ufungaji na utoaji",
+      "placeholders": {
+        "standards": "Viwango na vyeti vinavyopatikana vinathibitishwa kwa kila agizo na soko lengwa. Nakala za cheti hutumwa kwa faragha kwa ombi - faili hazichapishwi kwenye tovuti.",
+        "oem": "Rangi ya OEM, kuashiria, vali, kofia na chaguzi za kufunga zinaweza kujadiliwa kulingana na agizo na soko linalolengwa.",
+        "packaging": "Ufungashaji wa usafirishaji na hati hutayarishwa kulingana na agizo na masharti ya usafirishaji."
+      }
+    },
+    "home": {
+      "seoTitle": "Mtengenezaji wa Silinda ya Gesi | Viwanda OEM na kuuza nje | Vikundi vya Wanda",
+      "seoDescription": "Vikundi vya Wanda hutengeneza mitungi ya gesi ya viwandani, jenereta na vifaa vya kulehemu kwa OEM, wanunuzi wa jumla na wa kimataifa wa kuuza nje."
+    },
+    "about": {
+      "label": "Kuhusu Sisi",
+      "title": "Mtengenezaji wa silinda ya gesi kwa wanunuzi wa viwanda",
+      "subtitle": "Tunasaidia wanunuzi wa ng'ambo na uteuzi wa bidhaa, OEM, ukaguzi, upakiaji na usafirishaji.",
+      "seoTitle": "Kuhusu Wanda Group",
+      "seoDescription": "Wanda Group hutengeneza mitungi ya asetilini, silinda za propane, jenereta na vifaa vya kulehemu, kukata na usambazaji wa gesi ya viwandani."
+    },
+    "products": {
+      "label": "Bidhaa",
+      "title": "Bidhaa Zetu",
+      "subtitle": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+      "seoTitle": "Bidhaa za Silinda za gesi",
+      "seoDescription": "Mitungi ya Acetylene, jenereta, mitungi ya propane na vifaa kwa ajili ya maombi ya viwanda na kulehemu.",
+      "refrigerationNote": "Biashara ya Kimataifa ya Wanda hutoa vifaa vya majokofu kando ya laini ya silinda ya gesi: vitengo, paneli, vipozezi na maunzi ya mnyororo baridi yanayohusiana. Copeland, Bitzer na majina sawa yanarejelea chapa ya kujazia ndani ya kitengo, si chapa ya kampuni hizo.",
+      "catalog": {
+        "acetylene": {
+          "name": "Mitungi ya Asetilini iliyoyeyushwa",
+          "overview": "Mitungi ya chuma yenye wingi wa vinyweleo na kutengenezea kwa ajili ya uhifadhi na usafiri wa asetilini salama. Kutumika katika kulehemu, kukata, kutengeneza shaba na kutengeneza chuma.",
+          "seoTitle": "Mitungi ya Gesi ya Asetilini",
+          "seoDescription": "Mitungi ya chuma yenye wingi wa vinyweleo na kutengenezea kwa ajili ya uhifadhi na usafiri wa asetilini salama. Kutumika katika kulehemu, kukata, kutengeneza shaba na kutengeneza chuma."
+        },
+        "propane": {
+          "name": "Mitungi ya Propane",
+          "overview": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+          "seoTitle": "Mitungi ya gesi ya Propane",
+          "seoDescription": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda."
+        },
+        "lpg": {
+          "name": "Silinda za LPG",
+          "overview": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda.",
+          "seoTitle": "Mitungi ya gesi ya LPG",
+          "seoDescription": "Silinda za mchanganyiko wa propane, butane na LPG. Kutumika katika inapokanzwa, kukata, brazing, ujenzi na usambazaji wa gesi ya viwanda."
+        },
+        "industrial": {
+          "name": "Mitungi ya Gesi ya Viwandani",
+          "overview": "Mitungi ya gesi ya viwandani ya kulehemu, kukata na usambazaji wa mimea - ikijumuisha chaguzi za asetilini, propane na LPG zinazolingana na soko lako.",
+          "seoTitle": "Mitungi ya Gesi ya Viwandani",
+          "seoDescription": "Mitungi ya gesi ya viwandani ya kulehemu, kukata na usambazaji wa mitambo kutoka kwa Wanda Group."
+        },
+        "generators": {
+          "name": "Jenereta za asetilini",
+          "overview": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati.",
+          "seoTitle": "Jenereta za asetilini",
+          "seoDescription": "Vifaa vya kuzalisha asetilini kutoka kwa carbudi ya kalsiamu. Ugavi wa gesi thabiti kwa mahitaji ya kulehemu na viwandani bila miundombinu ya gesi ya kati."
+        },
+        "accessories": {
+          "name": "Vifaa vya Silinda na Viambatisho",
+          "overview": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi.",
+          "seoTitle": "Vifaa vya kulehemu",
+          "seoDescription": "Upeo kamili wa uendeshaji salama wa silinda ya gesi: kutoka kwa kupima hadi tochi za kulehemu. Ununuzi wa kituo kimoja na mitungi."
+        },
+        "refrigeration": {
+          "name": "Vitengo vya friji",
+          "overview": "Mstari tofauti wa Wanda Group - sio orodha ya watu wengine. Vitengo vya kubana, vyumba vya baridi na maunzi, vinavyotolewa na sisi pamoja na mitungi au kama agizo la kusimama pekee.",
+          "seoTitle": "Vitengo vya Majokofu",
+          "seoDescription": "Mstari tofauti wa Wanda Group - sio orodha ya watu wengine. Vitengo vya kubana, vyumba vya baridi na maunzi, vinavyotolewa na sisi pamoja na mitungi au kama agizo la kusimama pekee."
+        }
+      }
+    },
+    "factory": {
+      "label": "Kiwanda",
+      "title": "Kiwanda na Utengenezaji",
+      "subtitle": "Uzalishaji, ukaguzi, upakiaji na utumaji - umeandikwa na upigaji picha halisi wa mimea na video za kiwandani.",
+      "seoTitle": "Kiwanda na Uzalishaji | Vikundi vya Wanda",
+      "seoDescription": "Picha halisi za mimea, picha za kutuma moja kwa moja, na video fupi kutoka kwa uzalishaji.",
+      "sections": [
+        {
+          "title": "Utengenezaji",
+          "text": "Kutengeneza silinda, kulehemu na kumaliza kama sehemu ya mtiririko wa uzalishaji wa mmea."
+        },
+        {
+          "title": "Mchakato wa Uzalishaji",
+          "text": "Kuanzia utayarishaji wa ganda hadi kuunganisha na kumalizia - tazama hisa inayochakatwa na video za sakafu ya uzalishaji."
+        },
+        {
+          "title": "Ukaguzi wa Ubora",
+          "text": "Visual, kuashiria na dimensional hundi kuandaa silinda kwa ajili ya usafirishaji."
+        },
+        {
+          "title": "Kupima",
+          "text": "Upimaji wa shinikizo na uvujaji unatumika kabla ya bidhaa kuondoka kwenye mstari, kulingana na mahitaji ya kuagiza."
+        },
+        {
+          "title": "Ufungaji",
+          "text": "Ufungashaji wa bidhaa nje hulinda mitungi na vifaa vya kuwekea usafiri wa nje ya nchi."
+        },
+        {
+          "title": "Inapakia na Kusafirisha nje",
+          "text": "Upangaji wa ghala, upakiaji wa lori na nyaraka za kutuma kwa maagizo ya nje."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Vyeti",
+      "title": "Vyeti na Viwango",
+      "subtitle": "Viwango vinavyoombwa na wanunuzi vimeorodheshwa hapa chini. Kutumika kunategemea bidhaa na soko lengwa. Nakala za cheti, nambari na uhalali hushirikiwa kwa faragha kwa ombi - hazijachapishwa kama madai ambayo hayajathibitishwa.",
+      "seoTitle": "Vyeti na Viwango | Vikundi vya Wanda",
+      "seoDescription": "Viwango vinavyojadiliwa kwa mitungi ya gesi ya Wanda Groups kulingana na soko. Nakala za cheti hutolewa kwa faragha kwa ombi.",
+      "note": "Nakala za cheti hutumwa kwa faragha kwa ombi. Hatuchapishi faili za cheti kwenye tovuti."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM na Jumla",
+      "subtitle": "Lebo za kibinafsi na chaguzi za usambazaji wa wingi kwa wasambazaji na wanunuzi wa viwandani.",
+      "seoTitle": "Ugavi wa Silinda ya Gesi ya OEM",
+      "seoDescription": "OEM na utengenezaji wa mitungi ya gesi yenye lebo ya kibinafsi kwa chapa na wasambazaji wa ng'ambo.",
+      "quoteTitle": "Jadili mahitaji ya OEM",
+      "quoteCta": "Omba Nukuu ya OEM",
+      "capabilities": [
+        {
+          "title": "Nembo Maalum",
+          "text": "Nembo na chaguzi za kuashiria zimejadiliwa kwa maagizo ya OEM yaliyohitimu."
+        },
+        {
+          "title": "Rangi Maalum",
+          "text": "Rangi ya silinda kulingana na mahitaji ya soko au chapa."
+        },
+        {
+          "title": "Ufungaji Maalum",
+          "text": "Hamisha katoni, pallets na alama za kufunga kwa agizo."
+        },
+        {
+          "title": "Lebo ya Kibinafsi",
+          "text": "Uwekaji lebo na uwasilishaji wa chapa kwa chaneli za wasambazaji."
+        },
+        {
+          "title": "Maagizo ya Wingi",
+          "text": "Kiasi cha jumla cha ununuzi wa mradi na wasambazaji."
+        },
+        {
+          "title": "Utengenezaji wa OEM",
+          "text": "Usanidi wa bidhaa kulingana na vipimo na soko lako."
+        },
+        {
+          "title": "Hamisha Msaada",
+          "text": "Hati na uratibu wa usafirishaji kwa usafirishaji nje ya nchi."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Masoko",
+      "title": "Masoko ya Kimataifa",
+      "subtitle": "Tunasaidia wanunuzi wa kimataifa wa B2B. Mikoa iliyo hapa chini inaelezea maeneo ya uchunguzi ya kawaida - nchi na miradi mahususi inathibitishwa moja kwa moja.",
+      "seoTitle": "Masoko ya Kimataifa | Usafirishaji wa Vikundi vya Wanda",
+      "seoDescription": "Wanda Groups hufanya kazi na wanunuzi wa kimataifa wa viwanda kote Afrika, Mashariki ya Kati, Asia ya Kati, Asia ya Kusini-Mashariki, Amerika Kusini na masoko mengine.",
+      "note": "Hatuchapishi hesabu za nchi ambazo hazijathibitishwa, majina ya wateja au marejeleo ya mradi kwenye ukurasa huu.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Maswali ya viwanda na wasambazaji kutoka masoko ya Afrika."
+        },
+        {
+          "title": "Mashariki ya Kati",
+          "text": "Wanunuzi wanaotafuta mitungi na vifaa vinavyohusiana kwa ajili ya miradi ya kikanda."
+        },
+        {
+          "title": "Asia ya Kati",
+          "text": "Majadiliano ya jumla na usambazaji wa mradi katika masoko ya Asia ya Kati."
+        },
+        {
+          "title": "Asia ya Kusini-mashariki",
+          "text": "Wanunuzi wa viwandani kutathmini usambazaji wa mitungi ya kuuza nje."
+        },
+        {
+          "title": "Amerika ya Kusini",
+          "text": "Maswali ya silinda ya gesi ya viwandani na usambazaji wa vifaa."
+        },
+        {
+          "title": "Masoko Mengine ya Kimataifa",
+          "text": "Maeneo ya ziada yanapitiwa kulingana na viwango vya bidhaa na vifaa."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Maombi",
+      "title": "Maombi ya Silinda",
+      "subtitle": "Bidhaa iliyoundwa kwa kazi za kawaida za gesi za viwandani na mahitaji ya mnunuzi wa ng'ambo.",
+      "seoTitle": "Maombi ya Silinda",
+      "seoDescription": "Bidhaa iliyoundwa kwa kazi za kawaida za gesi za viwandani na mahitaji ya mnunuzi wa ng'ambo.",
+      "items": [
+        {
+          "title": "Kulehemu na Kuchoma",
+          "text": "Asetilini iliyoyeyushwa na vifaa vinavyohusiana kwa ajili ya warsha na kulehemu za utengenezaji."
+        },
+        {
+          "title": "Kukata Metali",
+          "text": "Silinda na vifaa vya kukata mafuta ya oksi kwenye tovuti na kwenye mmea."
+        },
+        {
+          "title": "Ugavi wa Gesi ya Viwandani",
+          "text": "Ugavi wa silinda kwa usambazaji wa viwanda na mifumo ya gesi ya mimea."
+        },
+        {
+          "title": "Ujenzi",
+          "text": "Ugavi wa gesi ya portable kwa kazi ya ujenzi na matengenezo."
+        },
+        {
+          "title": "Utengenezaji wa Metal",
+          "text": "Mitungi na vifaa kwa ajili ya maduka ya kutengeneza na viwanja vya meli."
+        },
+        {
+          "title": "Uhifadhi na Usambazaji wa Gesi",
+          "text": "Uhifadhi na usambazaji-tayari mitungi kwa wanunuzi wa viwanda."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Maswali Yanayoulizwa Mara kwa Mara",
+      "title": "Maswali Yanayoulizwa Mara Kwa Mara",
+      "subtitle": "Kampuni, bidhaa, OEM na usafirishaji - majibu kwa wanunuzi wa ng'ambo kabla ya kuomba bei.",
+      "seoTitle": "Maswali Yanayoulizwa Mara kwa Mara",
+      "seoDescription": "Kampuni, bidhaa, OEM na usafirishaji - majibu kwa wanunuzi wa ng'ambo kabla ya kuomba bei."
+    },
+    "contactPage": {
+      "label": "Wasiliana",
+      "title": "Hebu Tujadili Mahitaji Yako",
+      "subtitle": "Fikia timu yetu ya mauzo kwa fomu, barua pepe au mjumbe. Shiriki bidhaa, wingi na lengwa kwa nukuu ya haraka zaidi.",
+      "seoTitle": "Omba Nukuu",
+      "seoDescription": "Tuambie ukubwa, wingi, nchi unakoenda na programu-tumizi - tutatayarisha dondoo la kina."
+    },
+    "blog": {
+      "label": "Blogu",
+      "title": "Makala za Hivi Punde",
+      "subtitle": "Maudhui ya kitaalam kwa wataalamu wa kulehemu na usambazaji wa gesi.",
+      "seoTitle": "Makala na Miongozo",
+      "seoDescription": "Maudhui ya kitaalam kwa wataalamu wa kulehemu na usambazaji wa gesi.",
+      "coming": "Miongozo zaidi ya wanunuzi na maelezo ya bidhaa yataongezwa hapa. Tumia vifungu vilivyo hapo juu au wasiliana nasi kwa nyenzo mahususi za bidhaa."
+    },
+    "privacy": {
+      "seoTitle": "Sera ya Faragha",
+      "seoDescription": "Sera ya faragha ya maswali ya tovuti ya Wanda Group na data ya kibinafsi."
+    },
+    "terms": {
+      "seoTitle": "Masharti ya Matumizi",
+      "seoDescription": "Masharti ya matumizi ya tovuti ya Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Ukurasa haujapatikana",
+      "seoDescription": "Ukurasa ulioomba haupatikani.",
+      "title": "Ukurasa haujapatikana",
+      "text": "Ukurasa unaotafuta haupo au umehama.",
+      "home": "Nyumbani",
+      "products": "Bidhaa",
+      "contact": "Wasiliana / Pata Nukuu"
+    }
   }
 }

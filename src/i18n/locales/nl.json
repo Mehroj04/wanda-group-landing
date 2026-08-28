@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Thuis",
     "products": "Producten",
     "specs": "Specificaties",
     "applications": "Toepassingen",
     "about": "Over",
     "gallery": "Galerij",
+    "factory": "Fabriek",
     "quality": "Kwaliteit",
     "faq": "Veelgestelde vragen",
     "contact": "Contact",
@@ -13,44 +15,42 @@
     "services": "Diensten",
     "pricing": "Prijzen",
     "accessories": "Accessoires",
-    "home": "Thuis",
-    "factory": "Fabriek",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Koude opslag",
+    "cooling": "Koeling",
+    "certifications": "Certificeringen",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Markten"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Fabrikant van industriële gasflessen",
+    "title": "Fabrikant van industriële gasflessen en apparatuur",
+    "subtitle": "Productie, OEM en groothandel van acetyleencilinders, propaan/LPG-cilinders, generatoren en lasaccessoires voor internationale exportkopers.",
+    "lineGas": "Gasflessen",
+    "lineCold": "Koeleenheden",
+    "cta": "Ontvang een offerte",
+    "ctaSecondary": "Bekijk producten",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Fabrikantgericht aanbod"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Private label en maatwerk"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Internationale verzendondersteuning"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Inspectie- en testproces"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Marktspecifieke opties op aanvraag"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Betrouwbare gasflesaccessoires",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Onze producten",
     "subtitle": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+    "viewDetails": "Details bekijken",
     "items": [
       {
         "title": "Acetyleen cilinder",
-        "desc": "Opgeloste acetyleencilinders voor lassen, snijden en industriële gassen. Diverse maten en ventielopties.",
-        "icon": "🔥",
-        "spec": "2–40 l · ISO / DOT / TPED"
+        "spec": "2L–40L · normen bevestigd per markt",
+        "desc": "Opgeloste acetyleencilinders voor lassen, snijden en industriële gastoevoer.",
+        "icon": "🔥"
       },
       {
         "title": "Acetyleengenerator",
-        "desc": "Apparatuur voor stabiele gasproductie, eenvoudige bediening en industriële toepassingen.",
-        "icon": "⚙️",
-        "spec": "Industriële generatiesystemen"
+        "spec": "Industriële generatiesystemen",
+        "desc": "Apparatuur voor stabiele acetyleenproductie op locatie en in de fabriek.",
+        "icon": "⚙️"
       },
       {
         "title": "Propaan cilinder",
-        "desc": "Duurzame cilinders voor propaan en LPG — opslag, verwarming, snijden en industrieel gebruik.",
-        "icon": "🛢️",
-        "spec": "3–50 l · POL / CGA / GOST"
+        "spec": "3L–50L · ventielopties per markt",
+        "desc": "Duurzame LPG-cilinders voor verwarmen, snijden en industrieel gebruik.",
+        "icon": "🛢️"
       },
       {
         "title": "Cilinderaccessoires",
-        "desc": "Slangen, meters, snijbranders, lasbranders, veiligheidskleppen en meer.",
-        "icon": "🔧",
-        "spec": "Kleppen · regelaars · slangen · toortsen"
+        "spec": "Kleppen · regelaars · slangen · toortsen",
+        "desc": "Bijpassend beslag geleverd bij cilinders of apart te bestellen.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Details bekijken"
+    ]
   },
   "specs": {
     "title": "Technische specificaties",
@@ -106,7 +106,7 @@
       },
       {
         "title": "Verpakking en verzending",
-        "desc": "Ondersteuning voor exportverpakkingen en verzending voor distributeurs en projectklanten."
+        "desc": "Ondersteuning bij exportverpakking en verzending voor distributeurs en projectklanten."
       }
     ]
   },
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Waarom kiezen voor Wanda-groepen",
+    "subtitle": "Concrete mogelijkheden voor industriële kopers die een productiepartner evalueren.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Fabrikantgericht aanbod",
+        "desc": "Productaanbod gericht op productie, niet alleen op handelscatalogi."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM-ondersteuning",
+        "desc": "Aangepaste kleur, markering, ventiel en verpakking besproken per bestelling."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kwaliteitscontrole",
+        "desc": "Inspectie van materialen tot en met verpakking vóór verzending."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Internationale export",
+        "desc": "Exportverpakking en verzendcoördinatie voor buitenlandse kopers."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Productaanpassing",
+        "desc": "Specificaties aangepast aan markt- en toepassingsvereisten."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Responsieve verkoopondersteuning",
+        "desc": "Offertes en technische antwoorden via formulieren, e-mail en messengers."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Mogelijkheid voor bulkbestellingen",
+        "desc": "Groothandelshoeveelheden ondersteund voor distributeurs en projectkopers."
       }
     ]
   },
   "about": {
-    "title": "Professionele fabrikant van gasflessen",
-    "text": "Wanda Group Gasflessenfabrikant is gespecialiseerd in het produceren en leveren van industriële gasflessen en aanverwante accessoires. Onze producten worden veel gebruikt op het gebied van lassen, snijden, gasdistributie, industriële opslag en andere gasvoorzieningsgebieden.",
-    "text2": "Wij ondersteunen buitenlandse kopers bij productselectie, maatwerk, kwaliteitsinspectie, verpakking en verzendcoördinatie.",
+    "title": "Fabrikant van gasflessen voor industriële afnemers",
+    "text": "Wanda Group produceert acetyleencilinders, propaancilinders, generatoren en accessoires voor lassen, snijden en industriële gasvoorziening.",
+    "text2": "Wij ondersteunen buitenlandse kopers met productselectie, OEM, inspectie, verpakking en verzending.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Productie",
+        "desc": "Vormen, lassen, testen en afwerken van industriële gasflessen."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM-ondersteuning",
+        "desc": "Kleur, markering, ventiel, dop en verpakkingsopties op bestelling."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kwaliteitsproces",
+        "desc": "Inspectie en testen afgestemd op de order- en marktvereisten."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Internationale export",
+        "desc": "Documentatie en verpakkingsondersteuning voor overzeese industriële kopers."
       }
     ]
   },
   "gallery": {
     "title": "Binnen in onze fabriek",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Echte fabrieksfoto's, live verzendingsopnamen en korte video's van de productievloer.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Nachtelijke verzending",
+        "desc": "Een beladen trailer die vertrekt met ingepakte uitrusting; tijd en plaats staan ​​op de foto vermeld."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Vracht gereedgemaakt voor verzending",
+        "desc": "Pallets en onderdelen verzameld voor verzending. Een live magazijnfoto, geen studioset."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Verpakte voorraad",
+        "desc": "Dozen gestapeld in het magazijn, klaar voor de volgende uitgaande bestelling."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Verpakt voor verzending",
+        "desc": "Cilinders worden verpakt en klaargemaakt op de fabriekswerf voor verzending."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Productie transportband",
+        "desc": "Cilinderlichamen bewegen door de vorm- en verwerkingslijn."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG-eindlijn",
+        "desc": "Geschilderde LPG-cilinders op de hangbaan vóór het verpakken."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Binnen in de plant",
+        "desc": "De productiehal – mensen, machines en lopende voorraad."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Gelaste cilinderlichamen",
+        "desc": "Shells na omtreklassen, vóór het verven en kleppen."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Schelpen vóór het schilderen",
+        "desc": "Ongeverfde carrosserieën op de vloer gelegd voor de volgende processtap."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Voorraad in behandeling",
+        "desc": "Buissecties en afgedekte schalen wachten op montage."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Cilinderlichamen op voorraad",
+        "desc": "Gewalste schalen gestapeld na het lassen, vóór koppen en kleppen."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Basis ringen",
+        "desc": "Voetringen voorbereid voor lassen op cilinderschalen."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Verpakte fittingen",
+        "desc": "Kleppen en fittingen verpakt in schuim voor exportverzending."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Acetyleengenerator",
+        "desc": "Een generatorunit met slang en fittingen, klaar om de fabriek te verlaten."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Schelpen op de vloer",
+        "desc": "Open-halslichamen na het lassen – de batch vóór montage van de klep."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Fabrieksvideo's",
+    "videosSubtitle": "Nieuwe shorts van de fabrieksvloer. Meer beeldmateriaal wordt op verzoek privé toegestuurd."
   },
   "quality": {
     "title": "Kwaliteitscontrole",
     "subtitle": "Elke batch volgt hetzelfde traject: productie, testen, inspectie en uiteindelijke kwaliteitscontrole.",
     "steps": [
       {
-        "title": "Productie",
-        "desc": "Vormen, lassen en assembleren onder procescontrole."
+        "title": "Grondstof",
+        "desc": "Inkomende materialen worden beoordeeld op basis van order- en procesvereisten."
       },
       {
-        "title": "Testen",
-        "desc": "Druk- en lektesten voordat cilinders de lijn verlaten."
+        "title": "Productie",
+        "desc": "Vormen, lassen en assembleren onder procescontrole."
       },
       {
         "title": "Inspectie",
         "desc": "Visuele, markerings- en maatcontroles ten opzichte van de bestelling."
       },
       {
+        "title": "Testen",
+        "desc": "Druk- en lektesten voordat cilinders de lijn verlaten."
+      },
+      {
         "title": "Laatste kwaliteitscontrole",
-        "desc": "Verpakkingsinspectie vóór exportverzending."
+        "desc": "Laatste kwaliteitscontrole vóór vrijgave voor verpakking."
+      },
+      {
+        "title": "Verpakking",
+        "desc": "Exportverpakking klaargemaakt voor transport."
+      },
+      {
+        "title": "Verzending",
+        "desc": "Documentatie voor uitgaande bestellingen laden en verzenden."
       }
     ]
   },
   "faq": {
     "title": "Veelgestelde vragen",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Bedrijf, producten, OEM en export: antwoorden voor buitenlandse kopers voordat u een offerte aanvraagt.",
     "cta": "Heeft u uw vraag niet gevonden? Stuur het product, de maat, de hoeveelheid en het land van bestemming - wij antwoorden met een gedetailleerd aanbod.",
     "ctaBtn": "Ontvang een offerte",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video's en documenten",
         "items": [
           {
             "q": "Kan ik fabrieksvideo's bekijken voordat ik een bestelling plaats?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ja. Bekijk productievideo's in het gedeelte Fabriek op deze pagina. Extra beeldmateriaal, verpakkingsclips en certificaten worden op verzoek privé toegestuurd."
           },
           {
             "q": "Levert u productvideo's, vooral voor acetyleencilinders?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ja. Video's, foto's en gedetailleerde informatie over acetyleencilinders worden op uw verzoek privé verzonden."
           },
           {
             "q": "Kunt u video's van productie en kwaliteitscontrole laten zien?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ja. Beschikbare video's van productie, kwaliteitscontrole, verpakking en magazijnopslag worden privé verzonden, zodat u kunt zien hoe producten worden voorbereid."
           },
           {
             "q": "Kan ik een productvideo aanvragen die gemaakt is voor een specifieke bestelling?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Neem voor een specifieke bestelling of productvereisten contact met ons op. We bespreken video-ondersteuning en sturen de materialen privé."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Hoe ontvang ik video's, certificaten en een offerte?",
+            "a": "Geef in het aanvraagformulier het producttype, de cilindergrootte, het aantal, het land van bestemming en wat u moet verzenden op: video's, certificaten of beide. Wij sturen ze privé en maken een offerte op."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Kunt u productfoto's en specificaties verstrekken?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ja. Productfoto's, specificaties en datasheets worden op verzoek privé toegestuurd."
           },
           {
             "q": "Hoe kan ik een prijsopgave krijgen voor accessoires?",
@@ -427,56 +439,117 @@
         "title": "Budgetgids voor de aankoop van acetyleencilinders",
         "desc": "Factoren die van invloed zijn op de kosten en hoe u het optimale aanbod kiest.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Houd ook rekening met verzending (FOB/CIF), documenten en MOQ. Wij antwoorden binnen 24 uur met volledige specificatie, doorlooptijd en Incoterms.",
-          "Voor een exacte prijsopgave vermeldt u het model, de hoeveelheid, het land van bestemming en de klepvereisten in het contactformulier — of stuurt u een e-mail naar sales@wandagroups.com."
+          "De prijzen van acetyleencilinders zijn afhankelijk van het volume, het kleptype, de vereiste normen voor uw bestemmingsmarkt en de bestelhoeveelheid. Wij publiceren geen vaste catalogusprijzen op de website.",
+          "Grotere partijen en OEM-opties (schilderij, logo, verpakking) worden afzonderlijk vermeld nadat we uw aanvraag hebben beoordeeld.",
+          "Verzendvoorwaarden (FOB/CIF en vergelijkbaar), documenten en doorlooptijd worden bevestigd in de formele offerte.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Vraag een offerte aan",
-    "subtitle": "Vertel ons de maat, het aantal, het land van bestemming en de toepassing; wij maken een gedetailleerde offerte op.",
+    "title": "Laten we uw vereisten bespreken",
+    "subtitle": "Vertel ons het product, de maat, het aantal, het land van bestemming en de specificaties. Ons verkoopteam zal u antwoorden met productinformatie en een offerte.",
     "formTitle": "Vraag een offerte aan",
-    "formSubtitle": "Laat uw wensen achter - ons verkoopteam zal reageren met productinformatie, prijzen, MOQ en doorlooptijd.",
+    "formSubtitle": "Vul het formulier voor een commerciële aanvraag in. Verplichte velden zijn gemarkeerd.",
     "name": "Naam",
+    "company": "Bedrijf",
     "phone": "Telefoon/Whatsapp",
     "email": "E-mail",
     "product": "Product",
-    "quantity": "Hoeveelheid",
-    "country": "Land van bestemming",
+    "quantity": "Aantal (optioneel)",
+    "country": "Land van bestemming (optioneel)",
     "productOptions": [
       "Acetyleen cilinder",
       "Propaan cilinder",
       "Acetyleengenerator",
       "Accessoires",
-      "Bundelbestelling",
-      "Cold storage / refrigeration"
+      "Koude opslag / koeling",
+      "Bundelbestelling"
     ],
+    "quantityPlaceholder": "bijv. 200 stuks, 1 container, of nader vast te stellen",
+    "countryPlaceholder": "Waar de goederen naartoe worden verzonden",
     "message": "Aanvullende vereisten",
     "messagePlaceholder": "Product, maat, hoeveelheid, land van bestemming...",
-    "submit": "Onderzoek verzenden",
+    "submit": "Onderzoek indienen",
     "sending": "Verzenden...",
     "success": "Bedankt! Wij nemen binnenkort contact met u op.",
     "sendAnother": "Stuur nog een aanvraag",
     "errorGeneric": "Kan niet verzenden. Probeer het opnieuw of stuur ons direct een e-mail.",
-    "errorNoForm": "Formulier niet geconfigureerd. Stuur een e-mail naar sales@wandagroups.com",
-    "privacyPrefix": "Ik ga akkoord met de",
-    "privacySuffix": "en op de verwerking van mijn persoonlijke gegevens om dit onderzoek af te handelen.",
-    "privacyLink": "Privacybeleid",
-    "company": "Bedrijf",
-    "emailFallback": "De website kon de aanvraag niet automatisch versturen. Klik op de knop hieronder — uw e-mailapp opent met een kant-en-klaar bericht aan sales@wandagroups.com.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Verzenden via e-mailapp",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Ik ga akkoord met de",
+    "privacySuffix": ", en op de verwerking van mijn persoonlijke gegevens om dit onderzoek af te handelen.",
+    "privacyLink": "Privacybeleid",
+    "termsAnd": "en de",
+    "termsLink": "Gebruiksvoorwaarden",
+    "requirements": "Vereisten / Specificaties",
+    "requirementsPlaceholder": "Ventieltype, kleur, standaard, verpakking, OEM-markering, hoeveelheidsinformatie..."
   },
   "footer": {
     "company": "Fabrikant van gasflessen uit de Wanda Group",
     "tagline": "Professionele productie van gasflessen",
     "rights": "© 2026 Wanda Groep. Alle rechten voorbehouden.",
     "privacy": "Privacybeleid",
-    "terms": "Terms of Use"
+    "terms": "Gebruiksvoorwaarden"
+  },
+  "privacy": {
+    "label": "Legaal",
+    "title": "Privacybeleid",
+    "updated": "Laatst bijgewerkt: 25 augustus 2026",
+    "intro": [
+      "Wanda Group (“wij”, “ons”) beheert deze website om gasflessen, accessoires en aanverwante exportbenodigdheden te presenteren, en om commerciële vragen van industriële kopers te ontvangen.",
+      "In dit beleid wordt uitgelegd welke persoonlijke gegevens we via de site verzamelen, waarom we deze gebruiken en hoe u hierover contact met ons kunt opnemen. Op deze website worden fabrieksproductievideo's getoond. Certificaatbestanden worden op verzoek privé verzonden."
+    ],
+    "sections": [
+      {
+        "title": "Wie is verantwoordelijk",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Welke gegevens we verzamelen",
+        "body": [
+          "Wanneer u het aanvraagformulier verzendt, ontvangen wij de gegevens die u invoert: naam, e-mailadres, telefoonnummer, land van bestemming, producttype, hoeveelheid en bericht.",
+          "De site slaat ook uw taalkeuze op in de browser (localStorage). Wij gebruiken geen advertentiecookies en verkopen geen bezoekerslijsten."
+        ]
+      },
+      {
+        "title": "Waarom we de gegevens gebruiken",
+        "body": [
+          "Wij gebruiken aanvraaggegevens alleen om op uw verzoek te reageren, een offerte op te stellen, productinformatie, video's of certificaten te sturen waar u om hebt gevraagd, en om een ​​bestelling te coördineren als we gaan samenwerken.",
+          "Rechtsgrond: uw toestemming wanneer u het selectievakje op het formulier aanvinkt, en ons legitieme belang bij het beantwoorden van B2B-verkoopverzoeken."
+        ]
+      },
+      {
+        "title": "Wie ontvangt de gegevens",
+        "body": [
+          "Uw bericht wordt per e-mail afgeleverd bij ons verkoopteam. Het formulier wordt verwerkt door Web3Forms, een technische provider die het bericht naar ons verzendt.",
+          "Wij verkopen geen persoonlijke gegevens. Wij mogen alleen met logistieke, inspectie- of bankpartners delen wat nodig is als dat nodig is om een ​​overeengekomen opdracht uit te voeren."
+        ]
+      },
+      {
+        "title": "Hoe lang we het bewaren",
+        "body": [
+          "Aanvraaggegevens worden bewaard zo lang als nodig is voor de afhandeling van het verzoek en gedurende een redelijke periode daarna voor verkoopopvolging en boekhouding, tenzij u ons vraagt ​​deze eerder te verwijderen indien de wet dit toestaat."
+        ]
+      },
+      {
+        "title": "Jouw rechten",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Veiligheid en kinderen",
+        "body": [
+          "We nemen redelijke technische en organisatorische maatregelen om berichten tijdens verzending en in onze mailbox te beschermen. Deze website is bedoeld voor zakelijke kopers, niet voor kinderen."
+        ]
+      }
+    ],
+    "contactLead": "Vragen over dit beleid:"
   },
   "ui": {
     "catalog": "Catalogus",
@@ -494,6 +567,7 @@
     "location": "Locatie",
     "quoteResponse": "Citaat reactie",
     "support": "Steun",
+    "countriesServed": "Ondersteuning voor exporteren",
     "exportReady": "Klaar voor exporteren",
     "years": "Jaren",
     "acetylene": "Acetyleen",
@@ -508,17 +582,25 @@
     "quality": "Kwaliteit",
     "faq": "Veelgestelde vragen",
     "blog": "Bloggen",
-    "countriesServed": "Landen bediend",
     "searchLanguage": "Zoektaal...",
-    "noLanguagesFound": "Geen talen gevonden"
+    "noLanguagesFound": "Geen talen gevonden",
+    "breadcrumb": "Broodkruimel",
+    "primaryNav": "Primair",
+    "menu": "Menu",
+    "playVideo": "Speel video af",
+    "productGallery": "Productgalerij",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM/Private Label",
+    "Internationale export",
+    "Kwaliteitscontrole",
+    "Marktstandaarden op aanvraag",
+    "Bulkbestellingen"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Certificering",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Documenten voor douane en toezichthouders. Op verzoek worden kopieën privé verzonden.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & kwaliteitscertificaat",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Prijs- en leveringsvoorwaarden",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Commerciële voorwaarden worden per aanvraag bevestigd. Stuur product-, hoeveelheid- en bestemmingsgegevens voor een formele offerte.",
+    "note": "We publiceren geen vaste catalogusprijzen, MOQ of doorlooptijden op deze website. Exacte commerciële voorwaarden worden bevestigd in een offerte nadat we uw wensen hebben beoordeeld.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Prijzen",
+        "value": "Op aanvraag",
+        "desc": "Formele offerte na beoordeling van het onderzoek"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Bevestigd per bestelling",
+        "desc": "Afhankelijk van model en bestemming"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Doorlooptijd",
+        "value": "Bevestigd per bestelling",
+        "desc": "Gedeeld met de offerte"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Betaling",
+        "value": "Contractueel overeengekomen",
+        "desc": "Voorwaarden bevestigd vóór productie"
       }
     ],
     "factors": {
-      "title": "Prijsfactoren",
+      "title": "Wat beïnvloedt het citaat",
       "items": [
-        "Cilindervolume en model (2L – 50L)",
-        "Ventieltype (CGA, GOST, DIN, POL)",
-        "Certificeringsnorm (ISO, DOT, TPED)",
-        "OEM: kleur, markering, verpakking",
-        "Bestelvolume & Incoterms"
+        "Cilinderinhoud en model",
+        "Ventieltype en aansluitingsstandaard",
+        "Normen vereist voor de bestemmingsmarkt",
+        "OEM-kleur, markering en verpakking",
+        "Bestelvolume en Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetyleen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetyleen cilinders",
+        "moq": "Op aanvraag",
+        "price": "Geciteerd per aanvraag",
+        "lead": "Bevestigd per bestelling"
       },
       {
-        "product": "Acetyleen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propaan/LPG cilinders",
+        "moq": "Op aanvraag",
+        "price": "Geciteerd per aanvraag",
+        "lead": "Bevestigd per bestelling"
       },
       {
-        "product": "Propaan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generatoren",
+        "moq": "Op aanvraag",
+        "price": "Geciteerd per aanvraag",
+        "lead": "Bevestigd per bestelling"
       },
       {
-        "product": "Propaan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generator WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Regelaar ingesteld",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Accessoires",
+        "moq": "Op aanvraag",
+        "price": "Geciteerd per aanvraag",
+        "lead": "Bevestigd per bestelling"
       }
     ],
     "tableHeaders": [
       "Product",
       "MOQ",
-      "Prijs (EXW)",
+      "Prijs",
       "Doorlooptijd"
     ]
   },
   "certifications": {
     "title": "Certificeringen en normen",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Normen en certificeringsopties worden besproken op basis van product- en bestemmingsmarkt. Certificaatkopieën worden op verzoek privé verzonden; bestanden worden niet op deze website gepubliceerd.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,19 +1043,19 @@
       },
       {
         "title": "Offerte ontvangen",
-        "desc": "Prijs, MOQ, levertijd en specificatieblad binnen 24 uur"
+        "desc": "Prijs, MOQ, doorlooptijd en specificatieblad na beoordeling door ons verkoopteam"
       },
       {
         "title": "Bevestig bestelling",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Contract- en betalingsvoorwaarden overeengekomen vóór aanvang van de productie"
       },
       {
         "title": "Productie & QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Productie en testen. Video's en certificaten worden op verzoek privé verzonden"
       },
       {
         "title": "Verzending",
-        "desc": "Verpakking, documenten, FOB/CIF/DDP-levering"
+        "desc": "Verpakking, documenten en leveringsvoorwaarden zoals overeengekomen in de bestelling"
       }
     ]
   },
@@ -993,20 +1063,20 @@
     "title": "Wat kopers zeggen",
     "items": [
       {
-        "quote": "We hebben dit jaar drie keer 40 l-acetyleencilinders nabesteld. GOST-ventielen, OEM-kleur en exportverpakking kwamen elke keer overeen met het eerste monster.",
-        "author": "Rustam Yusupov",
-        "role": "Eigenaar, distributeur van lasgas",
+        "quote": "We hebben dit jaar drie keer acetyleencilinders van 40 liter opnieuw besteld. GOST-kleppen, OEM-kleur en exportverpakking kwamen elke keer overeen met het eerste monster.",
+        "author": "Roestam Yusupov",
+        "role": "Eigenaar, lasgasdistributeur",
         "country": "Oezbekistan"
       },
       {
-        "quote": "De offerte kwam dezelfde dag met een duidelijke MOQ en levertijd. Propaanflessen kwamen aan met POL-ventielen en een volledige paklijst — geen douanevertraging aan onze kant.",
+        "quote": "De offerte kwam dezelfde dag met een duidelijke MOQ en doorlooptijd. Propaanflessen arriveerden met POL-kleppen en een volledige paklijst – geen douanevertragingen aan onze kant.",
         "author": "Aigerim Bekova",
         "role": "Inkoopmanager, industriële toelevering",
         "country": "Kazachstan"
       },
       {
-        "quote": "We kopen cilinders met reduceerventielen en slangen als één containerorder. Documenten en markering waren klaar voor onze markt, dus doorverkoop was eenvoudig.",
-        "author": "Faisal Al-Harbi",
+        "quote": "We kopen cilinders met regelaars en slangen in één containerbestelling. Documenten en markering waren klaar voor onze markt, dus wederverkoop was eenvoudig.",
+        "author": "Faisal Al Harbi",
         "role": "Importkoper, handel in gasapparatuur",
         "country": "Saoedi-Arabië"
       }
@@ -1062,58 +1132,59 @@
         "id": "kwaliteit",
         "eyebrow": "Kwaliteit & veiligheid",
         "title": "Inspectie kunt u bij de offerte vermelden",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Materiaalcontroles, lektests, klepkoppel en pakkingfoto's. Certificaatpakketten en fotorapporten worden op verzoek privé verzonden.",
         "points": [
           "Druk- en lektesten",
-          "Certificate package",
+          "Certificaten op aanvraag",
           "Foto's vóór verzending"
         ]
       },
       {
         "id": "exporteren",
         "eyebrow": "Mondiale export",
-        "title": "Verpakt voor havens, klaar voor meer dan 50 landen",
+        "title": "Verpakt voor havens, klaar voor exportmarkten",
         "text": "Exportpallets, klepbescherming, meertalige labels en verzenddocumenten afgestemd op uw Incoterms-bestemming.",
         "points": [
           "FOB/CIF-ondersteuning",
           "Gepalletiseerde verpakking",
           "Levertijd 15-25 dagen"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Ingepakte gasflessen worden op het fabrieksterrein klaargezet voor verzending",
+    "about": "Werknemers op de fabrieksvloer van Wanda Group",
+    "accessories": "Accessoireset voor gascilinders: regelaars, slangen, toortsen en fittingen",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Opgeloste acetyleencilinder met poreuze massa en messing klep",
+      "Acetyleengenerator gefotografeerd in de fabriek",
+      "Propaan- en LPG-cilinders in meerdere maten en kleuren",
+      "Las- en snijaccessoireset voor gasflessen"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Nachtverzending: verpakt materieel geladen op een aanhanger",
+      "Pallets en metalen onderdelen gereedgemaakt voor verzending",
+      "Dozen met verpakte voorraad gestapeld in het magazijn",
+      "In folie gewikkelde cilinders, opgevoerd op het fabrieksterrein",
+      "Productietransportband voor gasflessen onder het dak van de fabriek",
+      "LPG-cilinders hangend aan de hangafwerkingsband",
+      "Werknemers lopen over de fabrieksvloer van Wanda Group",
+      "Ongelakte gelaste propaancilinderlichamen, twee hoog gestapeld",
+      "Rijen ongeverfde cilinderschalen op de betonnen vloer",
+      "Cilinderbuisvoorraad en afgedekte schalen in de werkplaats",
+      "Gestapelde ruwe cilinderlichamen tegen de fabrieksmuur",
+      "Stalen basisringen opgestapeld vóór montage",
+      "Messing fittingen verpakt in een doos met schuim",
+      "Acetyleengenerator met slang en accessoires in doos",
+      "Ongelakte cilinderschalen met open halzen na het lassen"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Luchtgekoelde condensorunit met Copeland semi-hermetische compressor",
+      "Luchtgekoelde condensatieunit met Bitzer semi-hermetische compressor",
+      "Gesloten koelcondensorunit in kaststijl",
+      "Luchtgekoelde condensorunit met vier ventilatoren en hoge capaciteit"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Legaal",
-    "title": "Privacybeleid",
-    "updated": "Laatst bijgewerkt: 25 augustus 2026",
-    "intro": [
-      "Wanda Group (“wij”, “ons”) beheert deze website om gasflessen, accessoires en aanverwante exportbenodigdheden te presenteren, en om commerciële vragen van industriële kopers te ontvangen.",
-      "In dit beleid wordt uitgelegd welke persoonlijke gegevens we via de site verzamelen, waarom we deze gebruiken en hoe u hierover contact met ons kunt opnemen. We publiceren geen fabrieksvideo's of certificaatbestanden op de website; deze materialen worden op verzoek privé verzonden."
-    ],
-    "sections": [
-      {
-        "title": "Wie is verantwoordelijk",
-        "body": [
-          "De verwerkingsverantwoordelijke voor persoonsgegevens via deze website is Wanda Group. Voor privacyverzoeken mailt u sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Welke gegevens we verzamelen",
-        "body": [
-          "Wanneer u het aanvraagformulier verzendt, ontvangen wij de gegevens die u invoert: naam, e-mailadres, telefoonnummer, land van bestemming, producttype, hoeveelheid en bericht.",
-          "De site slaat ook uw taalkeuze op in de browser (localStorage). Wij gebruiken geen advertentiecookies en verkopen geen bezoekerslijsten."
-        ]
-      },
-      {
-        "title": "Waarom we de gegevens gebruiken",
-        "body": [
-          "Wij gebruiken aanvraaggegevens alleen om op uw verzoek te reageren, een offerte op te stellen, productinformatie, video's of certificaten te sturen waar u om hebt gevraagd, en om een ​​bestelling te coördineren als we gaan samenwerken.",
-          "Rechtsgrond: uw toestemming wanneer u het selectievakje op het formulier aanvinkt, en ons legitieme belang bij het beantwoorden van B2B-verkoopverzoeken."
-        ]
-      },
-      {
-        "title": "Wie ontvangt de gegevens",
-        "body": [
-          "Uw bericht wordt per e-mail afgeleverd bij ons verkoopteam. Afhankelijk van de configuratie kan het formulier worden verwerkt door Web3Forms als technische provider die het bericht naar ons verzendt.",
-          "Wij verkopen geen persoonlijke gegevens. Wij mogen alleen met logistieke, inspectie- of bankpartners delen wat nodig is als dat nodig is om een ​​overeengekomen opdracht uit te voeren."
-        ]
-      },
-      {
-        "title": "Hoe lang we het bewaren",
-        "body": [
-          "Aanvraaggegevens worden bewaard zo lang als nodig is voor de afhandeling van het verzoek en gedurende een redelijke periode daarna voor verkoopopvolging en boekhouding, tenzij u ons vraagt ​​deze eerder te verwijderen indien de wet dit toestaat."
-        ]
-      },
-      {
-        "title": "Jouw rechten",
-        "body": [
-          "U kunt een kopie vragen van de gegevens die wij over u hebben, correctie of verwijdering. Toestemming voor verdere commerciële opvolging trekt u in per e-mail. Gebruik deze rechten via sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Veiligheid en kinderen",
-        "body": [
-          "We nemen redelijke technische en organisatorische maatregelen om berichten tijdens verzending en in onze mailbox te beschermen. Deze website is bedoeld voor zakelijke kopers, niet voor kinderen."
-        ]
-      }
-    ],
-    "contactLead": "Vragen over dit beleid:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Legaal",
+    "title": "Gebruiksvoorwaarden",
+    "updated": "Laatst bijgewerkt: 27 augustus 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Deze voorwaarden zijn van toepassing op het gebruik van wandagroups.com, beheerd door Wanda Group, voor industriële kopers van gasflessen, generatoren en accessoires.",
+      "Door op de site te surfen of een aanvraag te sturen, gaat u akkoord met deze voorwaarden en ons privacybeleid. Als u het er niet mee eens bent, gebruik de site dan niet."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Wie wij zijn",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Waar de website voor is",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "De site presenteert productinformatie en ontvangt commerciële vragen. Het is bedoeld voor zakelijke kopers, niet voor consumenten die als particulier winkelen en niet voor kinderen."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Offertes, prijzen en bestellingen",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Prijzen, MOQ, levertijden en specificaties op de site zijn indicatief. Een bericht via het formulier of de messenger is een aanvraag, geen bestelling.",
+          "Er is pas sprake van een overeenkomst als beide partijen het aanbod schriftelijk bevestigen (e-mail of ondertekende documenten) en het overeengekomen voorschot is ontvangen, tenzij wij in die bevestiging anders vermelden."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Foto's, video's en certificaten",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Fabrieksfoto's en video's op de site illustreren de productie. Extra beeldmateriaal en certificaatbestanden worden op verzoek privé verzonden en blijven ons vertrouwelijke materiaal, tenzij we zeggen dat u deze mag delen."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Intellectueel eigendom",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Tekst, foto's, video's, logo's en lay-out op deze website zijn eigendom van Wanda Group of onze licentiegevers. U mag de catalogus niet kopiëren voor uw eigen commerciële site zonder onze schriftelijke toestemming."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Acceptabel gebruik",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Maak geen misbruik van het aanvraagformulier (spam, valse identiteit of pogingen om de site te verstoren). We kunnen onrechtmatige verzoeken negeren of verwijderen."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Betrouwbaarheid",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Wij doen er alles aan om de informatie accuraat te houden, maar de site kan fouten bevatten of tijdelijk niet beschikbaar zijn. Voor zover wettelijk toegestaan, is Wanda Group niet aansprakelijk voor indirecte schade die uitsluitend voortvloeit uit het gebruik van de website.",
+          "De aansprakelijkheid voor een feitelijk leveringscontract wordt vastgelegd in dat contract en in de toepasselijke wetgeving, en niet alleen in deze websitevoorwaarden."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Veranderingen",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "We kunnen deze voorwaarden bijwerken. De datum bovenaan toont de huidige versie. Voortgezet gebruik van de site na een wijziging betekent dat u de bijgewerkte voorwaarden accepteert."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Vragen over deze voorwaarden:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Onze productlijn",
+    "title": "Koeleenheden",
+    "subtitle": "Een aparte Wanda Group-lijn - geen catalogus van derden. Koelaggregaten, koelcellen en hardware, door ons geleverd met cilinders of als losse bestelling.",
+    "moreLink": "Apparatuur voor koude opslag →",
+    "cta": "Vraag een offerte aan",
+    "alsoTitle": "Ook verkrijgbaar op aanvraag",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Koelcelpanelen van polyurethaan (B1 / B2) en 304 roestvrijstalen panelen",
+      "Luchtkoelers voor koude ruimtes — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Verdamperspiralen van aluminium",
+      "Deuren voor koelkamers",
+      "Industriële waterkoelers",
+      "Voertuigkoelunits en mobiele koelcellen"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade levert naast de gasflessenlijn ook koelapparatuur: units, panelen, koelers en bijbehorende koelketenhardware. Copeland, Bitzer en soortgelijke namen verwijzen naar het compressormerk in de unit, niet naar een rebranding van die bedrijven.",
+    "videoTitle": "Bedrijfsvideo",
+    "videoSubtitle": "Overzicht van de lijn koelapparatuur. Meer beeldmateriaal wordt op verzoek privé toegestuurd.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland semi-hermetische luchtgekoelde unit",
+        "spec": "Condensatieunit · Copeland-compressor",
+        "desc": "Luchtgekoelde condensorunit met een semi-hermetische Copeland-compressor voor koelruimtes en middelhoge temperaturen."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer semi-hermetische luchtgekoelde unit",
+        "spec": "Condensatieunit · Bitzer-compressor",
+        "desc": "Luchtgekoelde condensorunit met een Bitzer semi-hermetische compressor voor ruimtes met hogere belasting en middelhoge tot lage temperaturen."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Gesloten kasttype-eenheid",
+        "spec": "Kast condensatie-eenheid",
+        "desc": "Gesloten condensorunit in kaststijl voor locaties waar een machine in behuizing nodig is in plaats van een open skid."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-type condensorunit met hoge capaciteit",
+        "spec": "Luchtgekoeld met meerdere ventilatoren",
+        "desc": "Grotere luchtgekoelde condensorunit met een condensor met meerdere ventilatoren voor grotere koelcellen en proceskoeling."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Wie wij zijn",
+    "title": "Industriële fabrikant voor B2B-kopers",
+    "text": "Wanda Groups produceert en levert industriële gasflessen, generatoren en lasaccessoires voor buitenlandse distributeurs, OEM-partners en projectkopers.",
+    "text2": "Onze focus ligt op fabrieksgebonden leveringen, ondersteuning bij productselectie, bulkbestellingen en exportcoördinatie – niet op de detailhandel aan consumenten.",
+    "cta": "Leer meer over ons"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Klaar om een ​​offerte aan te vragen?",
+      "quoteCta": "Vraag een offerte aan",
+      "relatedProducts": "Gerelateerde producten",
+      "applications": "Toepassingen",
+      "standardsTitle": "Normen & certificering",
+      "oemTitle": "OEM / maatwerk",
+      "packagingTitle": "Verpakking en levering",
+      "placeholders": {
+        "standards": "Beschikbare normen en certificaten worden per order- en bestemmingsmarkt bevestigd. Certificaatkopieën worden op verzoek privé verzonden; bestanden worden niet op de website gepubliceerd.",
+        "oem": "OEM-kleur-, markering-, klep-, dop- en verpakkingsopties kunnen worden besproken op basis van de bestelling en de doelmarkt.",
+        "packaging": "Exportverpakkingen en documentatie worden voorbereid volgens de order- en verzendingsvoorwaarden."
+      }
+    },
+    "home": {
+      "seoTitle": "Fabrikant van gasflessen | Industriële OEM en export | Wanda-groepen",
+      "seoDescription": "Wanda Groups produceert industriële gasflessen, generatoren en lasaccessoires voor OEM, groothandel en internationale exportkopers."
+    },
+    "about": {
+      "label": "Over ons",
+      "title": "Fabrikant van gasflessen voor industriële afnemers",
+      "subtitle": "Wij ondersteunen buitenlandse kopers met productselectie, OEM, inspectie, verpakking en verzending.",
+      "seoTitle": "Over Wandagroep",
+      "seoDescription": "Wanda Group produceert acetyleencilinders, propaancilinders, generatoren en accessoires voor lassen, snijden en industriële gasvoorziening."
+    },
+    "products": {
+      "label": "Producten",
+      "title": "Onze producten",
+      "subtitle": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+      "seoTitle": "Gasflesproducten",
+      "seoDescription": "Acetyleencilinders, generatoren, propaancilinders en accessoires voor industriële en lastoepassingen.",
+      "refrigerationNote": "Wanda International Trade levert naast de gasflessenlijn ook koelapparatuur: units, panelen, koelers en bijbehorende koelketenhardware. Copeland, Bitzer en soortgelijke namen verwijzen naar het compressormerk in de unit, niet naar een rebranding van die bedrijven.",
+      "catalog": {
+        "acetylene": {
+          "name": "Opgeloste acetyleencilinders",
+          "overview": "Stalen cilinders met poreuze massa en oplosmiddel voor veilige opslag en transport van acetyleen. Gebruikt bij lassen, snijden, solderen en metaalproductie.",
+          "seoTitle": "Acetyleengasflessen",
+          "seoDescription": "Stalen cilinders met poreuze massa en oplosmiddel voor veilige opslag en transport van acetyleen. Gebruikt bij lassen, snijden, solderen en metaalproductie."
+        },
+        "propane": {
+          "name": "Propaancilinders",
+          "overview": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening.",
+          "seoTitle": "Propaangasflessen",
+          "seoDescription": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening."
+        },
+        "lpg": {
+          "name": "LPG-cilinders",
+          "overview": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening.",
+          "seoTitle": "LPG-gasflessen",
+          "seoDescription": "Cilinders voor propaan-, butaan- en LPG-mengsels. Gebruikt bij verwarming, snijden, solderen, bouw en industriële gasvoorziening."
+        },
+        "industrial": {
+          "name": "Industriële gasflessen",
+          "overview": "Industriële gasflessen voor lassen, snijden en levering van installaties – inclusief acetyleen-, propaan- en LPG-opties afgestemd op uw markt.",
+          "seoTitle": "Industriële gasflessen",
+          "seoDescription": "Industriële gasflessen voor lassen, snijden en installatievoorziening van Wanda Group."
+        },
+        "generators": {
+          "name": "Acetyleengeneratoren",
+          "overview": "Apparatuur voor de productie van acetyleen uit calciumcarbide. Stabiele gastoevoer voor lassen en industriële behoeften zonder gecentraliseerde gasinfrastructuur.",
+          "seoTitle": "Acetyleengeneratoren",
+          "seoDescription": "Apparatuur voor de productie van acetyleen uit calciumcarbide. Stabiele gastoevoer voor lassen en industriële behoeften zonder gecentraliseerde gasinfrastructuur."
+        },
+        "accessories": {
+          "name": "Cilinderaccessoires en fittingen",
+          "overview": "Compleet assortiment voor veilig gebruik van gascilinders: van meters tot lastoortsen. One-stop-inkoop met cilinders.",
+          "seoTitle": "Accessoires voor lassen",
+          "seoDescription": "Compleet assortiment voor veilig gebruik van gascilinders: van meters tot lastoortsen. One-stop-inkoop met cilinders."
+        },
+        "refrigeration": {
+          "name": "Koeleenheden",
+          "overview": "Een aparte Wanda Group-lijn - geen catalogus van derden. Koelaggregaten, koelcellen en hardware, door ons geleverd met cilinders of als losse bestelling.",
+          "seoTitle": "Koeleenheden",
+          "seoDescription": "Een aparte Wanda Group-lijn - geen catalogus van derden. Koelaggregaten, koelcellen en hardware, door ons geleverd met cilinders of als losse bestelling."
+        }
+      }
+    },
+    "factory": {
+      "label": "Fabriek",
+      "title": "Fabriek en productie",
+      "subtitle": "Productie, inspectie, verpakking en verzending — gedocumenteerd met echte fabrieksfotografie en fabrieksvideo's.",
+      "seoTitle": "Fabriek en productie | Wanda-groepen",
+      "seoDescription": "Echte fabrieksfoto's, live verzendingsopnamen en korte video's van de productievloer.",
+      "sections": [
+        {
+          "title": "Productie",
+          "text": "Cilindervormen, lassen en afwerken als onderdeel van de productiestroom van de fabriek."
+        },
+        {
+          "title": "Productieproces",
+          "text": "Van ruwbouwvoorbereiding tot montage en afwerking: bekijk voorraad- en productievloerbeelden tijdens het proces."
+        },
+        {
+          "title": "Kwaliteitsinspectie",
+          "text": "Visuele, markerings- en maatcontroles ter voorbereiding van cilinders voor verzending."
+        },
+        {
+          "title": "Testen",
+          "text": "Druk- en lektesten worden toegepast voordat producten de lijn verlaten, volgens de ordervereisten."
+        },
+        {
+          "title": "Verpakking",
+          "text": "Exportverpakkingen beschermen cilinders en fittingen voor transport overzee."
+        },
+        {
+          "title": "Laden en exporteren",
+          "text": "Magazijnbeheer, het laden van vrachtwagens en verzenddocumentatie voor uitgaande bestellingen."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Certificeringen",
+      "title": "Certificeringen en normen",
+      "subtitle": "Normen die vaak door kopers worden gevraagd, worden hieronder vermeld. De toepasbaarheid is afhankelijk van de product- en bestemmingsmarkt. Kopieën, nummers en geldigheid van certificaten worden op verzoek privé gedeeld – niet gepubliceerd als niet-geverifieerde claims.",
+      "seoTitle": "Certificeringen en normen | Wanda-groepen",
+      "seoDescription": "Normen besproken voor Wanda Groups gasflessen per markt. Certificaatkopieën worden op verzoek aan particulieren verstrekt.",
+      "note": "Certificaatkopieën worden op verzoek privé verzonden. Wij publiceren geen certificaatbestanden op de website."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM en groothandel",
+      "subtitle": "Private label- en bulkleveringsopties voor distributeurs en industriële kopers.",
+      "seoTitle": "Levering van OEM-gasflessen",
+      "seoDescription": "OEM- en private-label productie van gasflessen voor buitenlandse merken en distributeurs.",
+      "quoteTitle": "Bespreek OEM-vereisten",
+      "quoteCta": "OEM-offerte aanvragen",
+      "capabilities": [
+        {
+          "title": "Aangepast logo",
+          "text": "Logo- en markeringsopties besproken voor in aanmerking komende OEM-bestellingen."
+        },
+        {
+          "title": "Aangepaste kleur",
+          "text": "Cilinderkleur volgens markt- of merkvereisten."
+        },
+        {
+          "title": "Aangepaste verpakking",
+          "text": "Exportdozen, pallets en pakmerken op bestelling."
+        },
+        {
+          "title": "Privélabel",
+          "text": "Etikettering en merkpresentatie voor distributiekanalen."
+        },
+        {
+          "title": "Bulkbestellingen",
+          "text": "Groothandelshoeveelheden voor project- en distributeursinkoop."
+        },
+        {
+          "title": "OEM-productie",
+          "text": "Productconfiguratie afgestemd op uw specificatie en markt."
+        },
+        {
+          "title": "Ondersteuning voor exporteren",
+          "text": "Documenten en verzendcoördinatie voor levering in het buitenland."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Markten",
+      "title": "Mondiale markten",
+      "subtitle": "Wij ondersteunen internationale B2B-kopers. De onderstaande regio's beschrijven gemeenschappelijke onderzoeksgebieden; specifieke landen en projecten worden geval per geval bevestigd.",
+      "seoTitle": "Mondiale markten | Wanda-groepen exporteren",
+      "seoDescription": "Wanda Groups werkt met internationale industriële kopers in Afrika, het Midden-Oosten, Centraal-Azië, Zuidoost-Azië, Latijns-Amerika en andere markten.",
+      "note": "We publiceren geen niet-geverifieerde landentellingen, klantnamen of projectreferenties op deze pagina.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Industriële vragen en vragen van distributeurs uit Afrikaanse markten."
+        },
+        {
+          "title": "Midden-Oosten",
+          "text": "Inkopers die cilinders en aanverwante apparatuur inkopen voor regionale projecten."
+        },
+        {
+          "title": "Centraal-Azië",
+          "text": "Discussies over groothandel en projectlevering op de Centraal-Aziatische markten."
+        },
+        {
+          "title": "Zuidoost-Azië",
+          "text": "Industriële kopers evalueren het aanbod van exportcilinders."
+        },
+        {
+          "title": "Latijns-Amerika",
+          "text": "Aanvragen voor levering van industriële gasflessen en accessoires."
+        },
+        {
+          "title": "Andere internationale markten",
+          "text": "Extra bestemmingen worden beoordeeld op basis van productstandaard en logistiek."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Toepassingen",
+      "title": "Cilindertoepassingen",
+      "subtitle": "Producten ontworpen voor algemene industriële gastaken en eisen van buitenlandse kopers.",
+      "seoTitle": "Cilindertoepassingen",
+      "seoDescription": "Producten ontworpen voor algemene industriële gastaken en eisen van buitenlandse kopers.",
+      "items": [
+        {
+          "title": "Lassen en solderen",
+          "text": "Opgelost acetyleen en aanverwante apparatuur voor werkplaats- en fabricagelassen."
+        },
+        {
+          "title": "Metaal snijden",
+          "text": "Cilinders en accessoires voor autogeen snijden op locatie en in de fabriek."
+        },
+        {
+          "title": "Industriële gasvoorziening",
+          "text": "Cilinderlevering voor industriële distributie en fabrieksgassystemen."
+        },
+        {
+          "title": "Bouw",
+          "text": "Draagbare gasvoorziening voor bouw- en onderhoudswerkzaamheden."
+        },
+        {
+          "title": "Metaalproductie",
+          "text": "Cilinders en accessoires voor fabricagewinkels en scheepswerven."
+        },
+        {
+          "title": "Gasopslag en -distributie",
+          "text": "Opslag- en distributieklare cilinders voor industriële afnemers."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Veelgestelde vragen",
+      "title": "Veelgestelde vragen",
+      "subtitle": "Bedrijf, producten, OEM en export: antwoorden voor buitenlandse kopers voordat u een offerte aanvraagt.",
+      "seoTitle": "Veelgestelde vragen",
+      "seoDescription": "Bedrijf, producten, OEM en export: antwoorden voor buitenlandse kopers voordat u een offerte aanvraagt."
+    },
+    "contactPage": {
+      "label": "Contact",
+      "title": "Laten we uw vereisten bespreken",
+      "subtitle": "Bereik ons ​​verkoopteam via het formulier, e-mail of messenger. Deel product, hoeveelheid en bestemming voor een snellere offerte.",
+      "seoTitle": "Vraag een offerte aan",
+      "seoDescription": "Vertel ons de maat, het aantal, het land van bestemming en de toepassing; wij maken een gedetailleerde offerte op."
+    },
+    "blog": {
+      "label": "Bloggen",
+      "title": "Laatste artikelen",
+      "subtitle": "Deskundige inhoud voor las- en gastoevoerprofessionals.",
+      "seoTitle": "Artikelen en gidsen",
+      "seoDescription": "Deskundige inhoud voor las- en gastoevoerprofessionals.",
+      "coming": "Hier zullen meer kopersgidsen en productnotities worden toegevoegd. Gebruik bovenstaande artikelen of neem contact met ons op voor productspecifieke materialen."
+    },
+    "privacy": {
+      "seoTitle": "Privacybeleid",
+      "seoDescription": "Privacybeleid voor vragen over de website van Wanda Group en persoonlijke gegevens."
+    },
+    "terms": {
+      "seoTitle": "Gebruiksvoorwaarden",
+      "seoDescription": "Gebruiksvoorwaarden voor de website van Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Pagina niet gevonden",
+      "seoDescription": "De door u opgevraagde pagina is niet beschikbaar.",
+      "title": "Pagina niet gevonden",
+      "text": "De pagina die u zoekt bestaat niet of is verplaatst.",
+      "home": "Thuis",
+      "products": "Producten",
+      "contact": "Neem contact op / Vraag een offerte aan"
+    }
   }
 }

@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Kotiin",
     "products": "Tuotteet",
     "specs": "Tekniset tiedot",
     "applications": "Sovellukset",
     "about": "Noin",
     "gallery": "Galleria",
+    "factory": "Tehdas",
     "quality": "Laatu",
     "faq": "FAQ",
     "contact": "Ota yhteyttä",
@@ -13,44 +15,42 @@
     "services": "Palvelut",
     "pricing": "Hinnoittelu",
     "accessories": "Tarvikkeet",
-    "home": "Kotiin",
-    "factory": "Tehdas",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Kylmäsäilytys",
+    "cooling": "Jäähdytys",
+    "certifications": "Sertifikaatit",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Markkinat"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Teollisuuden kaasupullojen valmistaja",
+    "title": "Teollisuuden kaasupullojen ja -laitteiden valmistaja",
+    "subtitle": "Asetyleenisylintereiden, propaani/nestekaasusylintereiden, generaattoreiden ja hitsaustarvikkeiden valmistus, OEM- ja tukkumyynti kansainvälisille vientiostijoille.",
+    "lineGas": "Kaasupullot",
+    "lineCold": "Jäähdytysyksiköt",
+    "cta": "Pyydä tarjous",
+    "ctaSecondary": "Näytä tuotteet",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Valmistajakeskeinen tarjonta"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Yksityinen merkki ja räätälöinti"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Kansainvälinen lähetystuki"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Tarkastus- ja testausprosessi"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Markkinakohtaiset vaihtoehdot pyynnöstä"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Luotettavat kaasupullojen tarvikkeet",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Tuotteemme",
     "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+    "viewDetails": "Näytä tiedot",
     "items": [
       {
         "title": "Asetyleeni sylinteri",
-        "desc": "Liuotetut asetyleenisylinterit hitsaus-, leikkaus- ja teollisuuskaasuihin. Eri kokoja ja venttiilivaihtoehtoja.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · standardit vahvistetut markkinakohtaisesti",
+        "desc": "Liuotetut asetyleenisylinterit hitsaukseen, leikkaamiseen ja teollisuuskaasun syöttöön.",
+        "icon": "🔥"
       },
       {
         "title": "Asetyleenin generaattori",
-        "desc": "Laitteet vakaaseen kaasuntuotantoon, helppokäyttöisyyteen ja teollisiin sovelluksiin.",
-        "icon": "⚙️",
-        "spec": "Teolliset tuotantojärjestelmät"
+        "spec": "Teolliset tuotantojärjestelmät",
+        "desc": "Laitteet vakaaseen asetyleenin tuotantoon paikan päällä ja tehtaalla.",
+        "icon": "⚙️"
       },
       {
         "title": "Propaani sylinteri",
-        "desc": "Kestävät sylinterit propaanille ja nestekaasulle — varastointiin, lämmitykseen, leikkaamiseen ja teollisuuskäyttöön.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · venttiilivaihtoehdot markkinakohtaisesti",
+        "desc": "Kestävät nestekaasusylinterit lämmitykseen, leikkaamiseen ja teollisuuskäyttöön.",
+        "icon": "🛢️"
       },
       {
         "title": "Sylinterin tarvikkeet",
-        "desc": "Letkut, mittarit, leikkauspolttimet, hitsauspolttimet, varoventtiilit ja paljon muuta.",
-        "icon": "🔧",
-        "spec": "Venttiilit · säätimet · letkut · polttimet"
+        "spec": "Venttiilit · säätimet · letkut · polttimet",
+        "desc": "Sopivat liittimet toimitetaan sylintereiden kanssa tai erillisenä tilauksena.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Näytä tiedot"
+    ]
   },
   "specs": {
     "title": "Tekniset tiedot",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Miksi valita Wanda Groups",
+    "subtitle": "Konkreettisia valmiuksia teollisille ostajille, jotka arvioivat valmistuskumppania.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Valmistajakeskeinen tarjonta",
+        "desc": "Tuotteiden tarjonta suuntautuu tuotantoon, ei vain luetteloiden kauppaan."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM-tuki",
+        "desc": "Mukautettu väri, merkintä, venttiili ja pakkaus sovitaan tilauksen mukaan."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Laadunvalvonta",
+        "desc": "Tarkastus materiaaleista pakkaukseen ennen lähetystä."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Kansainvälinen vienti",
+        "desc": "Vientipakkauksen ja lähetyksen koordinointi ulkomaisille ostajille."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Tuotteen räätälöinti",
+        "desc": "Tekniset tiedot mukautettu markkinoiden ja sovellusten vaatimuksiin."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Responsiivinen myyntituki",
+        "desc": "Lainaukset ja tekniset vastaukset lomakkeen, sähköpostin ja lähettiläiden kautta."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Joukkotilausmahdollisuus",
+        "desc": "Tuetut tukkumäärät jakelijoille ja projektiostajille."
       }
     ]
   },
   "about": {
-    "title": "Ammattimainen kaasupullojen valmistaja",
-    "text": "Wanda Group Gas Sylinder Manufacturer on erikoistunut teollisuuskaasupullojen ja niihin liittyvien tarvikkeiden tuotantoon ja toimittamiseen. Tuotteitamme käytetään laajasti hitsauksessa, leikkauksessa, kaasunjakelussa, teollisessa varastoinnissa ja muilla kaasuntoimitusaloilla.",
-    "text2": "Tuemme ulkomaisia ​​ostajia tuotteiden valinnassa, räätälöinnissa, laaduntarkastuksessa, pakkaamisessa ja toimituksen koordinoinnissa.",
+    "title": "Kaasupullojen valmistaja teollisille ostajille",
+    "text": "Wanda Group valmistaa asetyleenisylintereitä, propaanisylintereitä, generaattoreita ja tarvikkeita hitsaus-, leikkaus- ja teollisuuskaasun syöttöön.",
+    "text2": "Tuemme ulkomaisia ​​ostajia tuotevalinnassa, OEM:ssä, tarkastuksessa, pakkaamisessa ja toimituksessa.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Valmistus",
+        "desc": "Teollisuuden kaasupullojen muotoilu, hitsaus, testaus ja viimeistely."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM-tuki",
+        "desc": "Väri, merkintä, venttiili, korkki ja pakkausvaihtoehdot tilauksesta."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Laatuprosessi",
+        "desc": "Tarkastus ja testaus tilausten ja markkinoiden vaatimusten mukaisesti."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Kansainvälinen vienti",
+        "desc": "Dokumentaatio- ja pakkaustuki ulkomaisille teollisille ostajille."
       }
     ]
   },
   "gallery": {
     "title": "Tehtaamme sisällä",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Oikeita kasvikuvia, reaaliaikaisia ​​lähetyskuvia ja lyhyitä videoita tuotantotiloista.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Yölähetys",
+        "desc": "Ladattu perävaunu, joka lähtee käärittyjen varusteiden kanssa – aika ja paikka leimattu laukaukseen."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Lasti lavastettu kuljetusta varten",
+        "desc": "Lavat ja osat kerätään lähetystä varten. Live varastokuva, ei studiosarja."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Pakattu varasto",
+        "desc": "Pahvilaatikot pinottu varastoon, valmiina seuraavaa lähtevää tilausta varten."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Pakattu lähetettäväksi",
+        "desc": "Sylinterit kääritty ja lavastettu tehdaspihalle kuljetusta varten."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Tuotanto kuljetin",
+        "desc": "Sylinterirungot liikkuvat muovaus- ja käsittelylinjan läpi."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG viimeistelylinja",
+        "desc": "Maalatut nestekaasusylinterit yläkuljettimella ennen pakkaamista."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Kasvin sisällä",
+        "desc": "Tuotantohalli – ihmiset, koneet ja keskeneräinen varasto."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Hitsatut sylinterirungot",
+        "desc": "Vaipat kehähitsauksen jälkeen, ennen maalausta ja venttiilit."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Kuoret ennen maalausta",
+        "desc": "Maalaamattomat kappaleet kootaan lattialle seuraavaa prosessivaihetta varten."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Käynnissä oleva varasto",
+        "desc": "Putken osat ja suljetut kuoret odottavat asennusta."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Sylinterirungot varastossa",
+        "desc": "Valssatut vaipat päällekkäin hitsauksen jälkeen, ennen päitä ja venttiileitä."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Pohjarenkaat",
+        "desc": "Jalkarenkaat, jotka on valmistettu hitsattavaksi sylinterin kuoriin."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Pakatut varusteet",
+        "desc": "Venttiilit ja liittimet pakattu vaahtomuoviin vientilähetystä varten."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Asetyleenigeneraattori",
+        "desc": "Generaattoriyksikkö letkulla ja liittimillä, valmiina lähtemään tehtaalta."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Kuoret lattialla",
+        "desc": "Avokaulakappaleet hitsauksen jälkeen — erä ennen venttiilin asennusta."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Tehdasvideot",
+    "videosSubtitle": "Uudet shortsit tehtaalta. Lisää materiaalia lähetetään pyynnöstä yksityisesti."
   },
   "quality": {
     "title": "Laadunvalvonta",
     "subtitle": "Jokainen erä seuraa samaa reittiä: tuotanto, testaus, tarkastus ja lopullinen laadunvalvonta.",
     "steps": [
       {
-        "title": "Tuotanto",
-        "desc": "Muotoilu, hitsaus ja kokoonpano tehtaan prosessiohjauksessa."
+        "title": "Raaka-aine",
+        "desc": "Saapuvat materiaalit tarkistetaan tilaus- ja prosessivaatimusten perusteella."
       },
       {
-        "title": "Testaus",
-        "desc": "Paine- ja vuototestit ennen kuin sylinterit poistuvat linjasta."
+        "title": "Tuotanto",
+        "desc": "Muotoilu, hitsaus ja kokoonpano tehtaan prosessiohjauksessa."
       },
       {
         "title": "Tarkastus",
         "desc": "Visuaaliset, merkinnät ja mittojen tarkastukset tilaukseen nähden."
       },
       {
-        "title": "Lopullinen laadunvalvonta",
-        "desc": "Pakkauksen tarkastus ennen vientilähetystä."
+        "title": "Testaus",
+        "desc": "Paine- ja vuototestit ennen kuin sylinterit poistuvat linjasta."
+      },
+      {
+        "title": "Lopullinen QC",
+        "desc": "Lopullinen laadunvalvonta ennen luovutusta pakkaamiseen."
+      },
+      {
+        "title": "Pakkaus",
+        "desc": "Vientipakkaus valmisteltu kuljetusta varten."
+      },
+      {
+        "title": "Lähetys",
+        "desc": "Lähtevien tilausten dokumenttien lataus ja lähettäminen."
       }
     ]
   },
   "faq": {
     "title": "Usein kysytyt kysymykset",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Yritys, tuotteet, OEM ja vienti – vastauksia ulkomaisille ostajille ennen tarjouksen pyytämistä.",
     "cta": "Etkö löytänyt kysymystäsi? Lähetä tuote, koko, määrä ja kohdemaa – vastaamme yksityiskohtaisella tarjouksella.",
     "ctaBtn": "Pyydä tarjous",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videoita ja asiakirjoja",
         "items": [
           {
             "q": "Voinko katsoa tehdasvideoita ennen tilauksen tekemistä?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Kyllä. Katso tuotantovideot tämän sivun Tehdas-osiossa. Lisämateriaalia, pakkausleikkeitä ja sertifikaatteja lähetetään pyynnöstä yksityisesti."
           },
           {
             "q": "Tarjoatko tuotevideoita, erityisesti asetyleenisylintereistä?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Kyllä. Videot, valokuvat ja yksityiskohtaiset tiedot asetyleenisylintereistä lähetetään yksityisesti pyynnöstäsi."
           },
           {
             "q": "Voitko näyttää videoita tuotannosta ja laadunvalvonnasta?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Kyllä. Saatavilla olevat videot tuotannosta, laaduntarkastuksesta, pakkaamisesta ja varastovarastosta lähetetään yksityisesti, jotta näet kuinka tuotteet valmistetaan."
           },
           {
             "q": "Voinko pyytää tiettyä tilausta varten tehdyn tuotevideon?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Ota yhteyttä tietystä tilauksesta tai tuotevaatimuksista – keskustelemme videotuesta ja lähetämme materiaalit yksityisesti."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Miten saan videoita, sertifikaatteja ja tarjouksen?",
+            "a": "Ilmoita tiedustelulomakkeeseen tuotteen tyyppi, sylinterin koko, määrä, kohdemaa ja lähetettävät tiedot: videot, sertifikaatit vai molemmat. Lähetämme ne yksityisesti ja teemme tarjouksen."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Voitko antaa tuotekuvia ja teknisiä tietoja?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Kyllä. Tuotekuvat, tekniset tiedot ja tiedot lähetetään pyynnöstä yksityisesti."
           },
           {
             "q": "Kuinka saan tarjouksen lisävarusteista?",
@@ -406,14 +418,14 @@
         "desc": "Laitteen vakaus vaikuttaa suoraan hitsaus- ja leikkaustyön tehokkuuteen.",
         "body": [
           "Joka päivä metallia hitsaaville, korjaaville ja valmistaville käsityöläisille vakaat kaasulaitteet vaikuttavat suoraan työn laatuun ja nopeuteen.",
-          "Wanda Groupin propaanisylintereitä on saatavilla 3-50 litraa POL-, CGA 510- tai GOST-venttiileillä markkina-alueen mukaan – yksi toimittaja hitsaukseen, leikkaukseen ja lämmitykseen.",
+          "Wanda Groupin propaanisylintereitä on saatavilla 3–50 litraa POL-, CGA 510- tai GOST-venttiileillä markkina-alueesi mukaan – yksi toimittaja hitsaukseen, leikkaamiseen ja lämmitykseen.",
           "Suosittelemme tilaamaan sylinterit yhdessä säätimien, letkujen ja polttimien kanssa. Toimituspaketti vähentää logistiikkakustannuksia ja varmistaa lisävarusteiden yhteensopivuuden.",
           "Tilauksen yhteydessä ilmoita kohdemarkkinat, tilavuus, venttiilin tyyppi ja väri – valmistelemme OEM-merkinnät ja vientipakkaukset sinun tuotemerkilläsi."
         ]
       },
       {
         "tag": "Varastointi",
-        "title": "Pitkän aikavälin asetyleenisylinterin säilytysvinkit",
+        "title": "Pitkäaikaiset asetyleenisylinterin säilytysvinkit",
         "desc": "Varastointiolosuhteet, sijoitusmenetelmät ja säännölliset tarkastukset käyttämättömien sylinterien varalta.",
         "body": [
           "Monet yritykset varastoivat asetyleeni- ja propaanipulloja tuotantotaukojen aikana tai varastona. Käyttämättömät sylinterit vaativat edelleen asianmukaista käsittelyä.",
@@ -427,33 +439,36 @@
         "title": "Budjettiopas asetyleenisylinterien ostamiseen",
         "desc": "Kustannuksiin vaikuttavat tekijät ja optimaalisen tarjouksen valinta.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "Isommat erät (200-500+ kpl) saavat mielekkäitä alennuksia. OEM-maalaus, logo ja erikoispakkaukset lisäävät 5–15 % perushintaan, mutta lisäävät arvoa jakelijoille.",
-          "Ota huomioon myös toimitus (FOB/CIF), asiakirjat ja MOQ. Vastaamme 24 tunnin sisällä täydellisellä eritelmällä, toimitusajalla ja Incotermsillä.",
-          "Jos haluat tarkan tarjouksen, sisällytä malli, määrä, kohdemaa ja venttiilivaatimukset yhteydenottolomakkeeseen – tai lähetä sähköpostia sales@wandagroups.com."
+          "Asetyleenisylinterien hinta riippuu tilavuudesta, venttiilityypistä, kohdemarkkinoiden vaadittavista standardeista ja tilausmäärästä. Emme julkaise kiinteitä listahintoja verkkosivustolla.",
+          "Suuremmat erät ja OEM-vaihtoehdot (maalaus, logo, pakkaus) ilmoitetaan erikseen, kun olemme tarkistaneet kyselysi.",
+          "Toimitusehdot (FOB/CIF ja vastaavat), asiakirjat ja toimitusaika vahvistetaan virallisessa tarjouksessa.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Pyydä tarjous",
-    "subtitle": "Kerro meille koko, määrä, kohdemaa ja sovellus – teemme yksityiskohtaisen tarjouksen.",
+    "title": "Keskustellaan vaatimuksistasi",
+    "subtitle": "Kerro meille tuote, koko, määrä, kohdemaa ja tekniset tiedot – myyntitiimimme vastaa ja toimittaa tuotetiedot ja tarjouksen.",
     "formTitle": "Pyydä tarjous",
-    "formSubtitle": "Jätä vaatimukset – myyntitiimimme vastaa tuotetiedoilla, hinnoittelulla, MOQ:lla ja toimitusajalla.",
+    "formSubtitle": "Täytä lomake kaupallista kyselyä varten. Pakolliset kentät on merkitty.",
     "name": "Nimi",
+    "company": "Yritys",
     "phone": "Puhelin / WhatsApp",
     "email": "Sähköposti",
     "product": "Tuote",
-    "quantity": "Määrä",
-    "country": "Kohdemaa",
+    "quantity": "Määrä (valinnainen)",
+    "country": "Kohdemaa (valinnainen)",
     "productOptions": [
       "Asetyleeni sylinteri",
       "Propaani sylinteri",
       "Asetyleenin generaattori",
       "Tarvikkeet",
-      "Cold storage / refrigeration",
+      "Kylmäsäilytys/jäähdytys",
       "Pakettitilaus"
     ],
+    "quantityPlaceholder": "esim. 200 kpl, 1 säiliö tai TBD",
+    "countryPlaceholder": "Minne tavarat toimitetaan",
     "message": "Lisävaatimukset",
     "messagePlaceholder": "Tuote, koko, määrä, kohdemaa...",
     "submit": "Lähetä kysely",
@@ -461,22 +476,80 @@
     "success": "Kiitos! Otamme sinuun yhteyttä pian.",
     "sendAnother": "Lähetä toinen kysely",
     "errorGeneric": "Lähetys epäonnistui. Yritä uudelleen tai lähetä meille sähköpostia.",
-    "errorNoForm": "Lomaketta ei ole määritetty. Lähetä sähköpostia sales@wandagroups.com",
-    "privacyPrefix": "Olen samaa mieltä",
-    "privacySuffix": "ja henkilötietojeni käsittelyyn tämän kyselyn käsittelemiseksi.",
-    "privacyLink": "Tietosuojakäytäntö",
-    "company": "Yritys",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Lähetä sähköpostisovelluksen kautta",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Olen samaa mieltä",
+    "privacySuffix": ", ja henkilötietojeni käsittelyyn tämän kyselyn käsittelemiseksi.",
+    "privacyLink": "Tietosuojakäytäntö",
+    "termsAnd": "ja",
+    "termsLink": "Käyttöehdot",
+    "requirements": "Vaatimukset / Tekniset tiedot",
+    "requirementsPlaceholder": "Venttiilin tyyppi, väri, standardi, pakkaus, OEM-merkintä, määrätiedot..."
   },
   "footer": {
     "company": "Wanda Groupin kaasupullojen valmistaja",
     "tagline": "Ammattimainen kaasupullojen valmistus",
     "rights": "© 2026 Wanda Group. Kaikki oikeudet pidätetään.",
     "privacy": "Tietosuojakäytäntö",
-    "terms": "Terms of Use"
+    "terms": "Käyttöehdot"
+  },
+  "privacy": {
+    "label": "Laillinen",
+    "title": "Tietosuojakäytäntö",
+    "updated": "Viimeksi päivitetty: 25. elokuuta 2026",
+    "intro": [
+      "Wanda Group (\"me\", \"me\") ylläpitää tätä verkkosivustoa esitelläkseen kaasupulloja, lisävarusteita ja niihin liittyviä vientituotteita sekä vastaanottaakseen kaupallisia tiedusteluja teollisilta ostajilta.",
+      "Tämä käytäntö selittää, mitä henkilötietoja keräämme sivuston kautta, miksi käytämme niitä ja kuinka voit ottaa meihin yhteyttä. Tehdastuotantovideot näkyvät tällä sivustolla. Todistustiedostot lähetetään pyynnöstä yksityisesti."
+    ],
+    "sections": [
+      {
+        "title": "Kuka on vastuussa",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Mitä tietoja keräämme",
+        "body": [
+          "Kun lähetät kyselylomakkeen, saamme antamasi tiedot: nimi, sähköpostiosoite, puhelinnumero, kohdemaa, tuotetyyppi, määrä ja viesti.",
+          "Sivusto tallentaa myös valitsemasi kielivalintasi selaimeen (localStorage). Emme käytä mainosevästeitä tai myy vierailijaluetteloita."
+        ]
+      },
+      {
+        "title": "Miksi käytämme tietoja",
+        "body": [
+          "Käytämme kyselytietoja vain pyyntöösi vastaamiseen, tarjouksen laatimiseen, pyytämiesi tuotetietojen, videoiden tai sertifikaattien lähettämiseen sekä tilauksen koordinoimiseen, jos aloitamme yhteistyön.",
+          "Oikeusperusta: suostumuksesi, kun valitset lomakkeen valintaruudun, ja oikeutettu etumme vastata B2B-myyntipyyntöihin."
+        ]
+      },
+      {
+        "title": "Kuka vastaanottaa tiedot",
+        "body": [
+          "Viestisi toimitetaan myyntitiimillemme sähköpostitse. Lomakkeen käsittelee Web3Forms, tekninen toimittaja, joka välittää viestin meille.",
+          "Emme myy henkilötietoja. Voimme jakaa tarvittavan logistiikka-, tarkastus- tai pankkikumppaneiden kanssa vain, jos se on tarpeen sovitun tilauksen toteuttamiseksi."
+        ]
+      },
+      {
+        "title": "Kuinka kauan säilytämme sitä",
+        "body": [
+          "Tiedustelutietoja säilytetään niin kauan kuin on tarpeen pyynnön käsittelemiseksi ja kohtuullisen ajan sen jälkeen myynnin seurantaa ja kirjanpitoa varten, ellet pyydä meitä poistamaan niitä aikaisemmin, mikäli laki sen sallii."
+        ]
+      },
+      {
+        "title": "Sinun oikeutesi",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Turvallisuus ja lapset",
+        "body": [
+          "Ryhdymme kohtuullisiin teknisiin ja organisatorisiin toimenpiteisiin suojellaksemme viestejä siirrettäessä ja postilaatikossamme. Tämä sivusto on tarkoitettu yrityksille, ei lapsille."
+        ]
+      }
+    ],
+    "contactLead": "Kysymyksiä tästä käytännöstä:"
   },
   "ui": {
     "catalog": "Luettelo",
@@ -494,6 +567,7 @@
     "location": "Sijainti",
     "quoteResponse": "Lainaus vastaus",
     "support": "Tukea",
+    "countriesServed": "Vientituki",
     "exportReady": "Vienti valmis",
     "years": "Vuosia",
     "acetylene": "Asetyleeni",
@@ -508,17 +582,25 @@
     "quality": "Laatu",
     "faq": "FAQ",
     "blog": "Blogi",
-    "countriesServed": "Palvelivat maat",
     "searchLanguage": "Hae kieli...",
-    "noLanguagesFound": "Kieliä ei löytynyt"
+    "noLanguagesFound": "Kieliä ei löytynyt",
+    "breadcrumb": "Leipämuru",
+    "primaryNav": "Ensisijainen",
+    "menu": "Valikko",
+    "playVideo": "Toista video",
+    "productGallery": "Tuotegalleria",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / yksityinen merkki",
+    "Kansainvälinen vienti",
+    "Laadunvalvonta",
+    "Markkinastandardit pyynnöstä",
+    "Joukkotilaukset"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Sertifiointi",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Asiakirjat tullille ja sääntelyviranomaisille. Kopiot lähetetään pyynnöstä yksityisesti.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS ja laatusertifikaatti",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Hinnoittelu ja toimitusehdot",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Kaupalliset ehdot vahvistetaan tiedustelukohtaisesti. Lähetä tuote, määrä ja kohdetiedot muodollista tarjousta varten.",
+    "note": "Emme julkaise tällä verkkosivustolla kiinteitä listahintoja, MOQ:ta tai toimitusaikoja. Tarkat kaupalliset ehdot vahvistetaan tarjouksessa, kun olemme tarkistaneet vaatimukset.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Hinnoittelu",
+        "value": "Pyynnöstä",
+        "desc": "Muodollinen tarjous tiedustelutarkistuksen jälkeen"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Vahvistettu tilauksen mukaan",
+        "desc": "Riippuu mallista ja määränpäästä"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "läpimenoaika",
+        "value": "Vahvistettu tilauksen mukaan",
+        "desc": "Jaettu lainauksen kanssa"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Maksu",
+        "value": "Sopimuksessa sovittu",
+        "desc": "Ehdot vahvistetaan ennen tuotantoa"
       }
     ],
     "factors": {
-      "title": "Hintatekijät",
+      "title": "Mikä vaikuttaa tarjoukseen",
       "items": [
-        "Sylinterin tilavuus ja malli (2L – 50L)",
-        "Venttiilin tyyppi (CGA, GOST, DIN, POL)",
-        "Sertifiointistandardi (ISO, DOT, TPED)",
-        "OEM: väri, merkintä, pakkaus",
+        "Sylinterin tilavuus ja malli",
+        "Venttiilin tyyppi ja liitäntästandardi",
+        "Kohdemarkkinoilla vaadittavat standardit",
+        "OEM-väri, merkintä ja pakkaus",
         "Tilausmäärä ja Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Asetyleeni WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Asetyleenisylinterit",
+        "moq": "Pyynnöstä",
+        "price": "Lainaus per kysely",
+        "lead": "Vahvistettu tilauksen mukaan"
       },
       {
-        "product": "Asetyleeni WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propaani/nestekaasusylinterit",
+        "moq": "Pyynnöstä",
+        "price": "Lainaus per kysely",
+        "lead": "Vahvistettu tilauksen mukaan"
       },
       {
-        "product": "Propaani WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generaattorit",
+        "moq": "Pyynnöstä",
+        "price": "Lainaus per kysely",
+        "lead": "Vahvistettu tilauksen mukaan"
       },
       {
-        "product": "Propaani WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generaattori WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Säädinsarja",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Tarvikkeet",
+        "moq": "Pyynnöstä",
+        "price": "Lainaus per kysely",
+        "lead": "Vahvistettu tilauksen mukaan"
       }
     ],
     "tableHeaders": [
       "Tuote",
       "MOQ",
-      "Hinta (EXW)",
+      "Hinta",
       "Toimitusaika"
     ]
   },
   "certifications": {
     "title": "Sertifikaatit ja standardit",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standardeista ja sertifiointivaihtoehdoista keskustellaan tuote- ja kohdemarkkinoiden mukaan. Todistuskopiot lähetetään pyynnöstä yksityisesti – tiedostoja ei julkaista tällä sivustolla.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Vastaanota tarjous",
-        "desc": "Hinta, MOQ, toimitusaika ja tekniset tiedot 24 tunnin sisällä"
+        "desc": "Hinta, MOQ, läpimenoaika ja tekniset tiedot myyntitiimimme tarkastelun jälkeen"
       },
       {
         "title": "Vahvista tilaus",
-        "desc": "Sopimuksen allekirjoittaminen ja 30 % talletusmaksu"
+        "desc": "Sopimus- ja maksuehdot sovittu ennen tuotannon aloittamista"
       },
       {
         "title": "Tuotanto ja laadunvalvonta",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Valmistus ja testaus. Videot ja todistukset lähetetään pyynnöstä yksityisesti"
       },
       {
         "title": "Lähetys",
-        "desc": "Pakkaus, asiakirjat, FOB/CIF/DDP toimitus"
+        "desc": "Pakkaus, asiakirjat ja toimitusehdot tilauksen mukaisesti"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Mitä ostajat sanovat",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "quote": "Tilasimme 40 litran asetyleenipulloja kolme kertaa tänä vuonna. GOST-venttiilit, OEM-väri ja vientipakkaus vastasivat ensimmäistä näytettä joka kerta.",
+        "author": "Rustam Jusupov",
+        "role": "Omistaja, hitsauskaasun jakelija",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Lainaus tuli samana päivänä selkeällä MOQ:lla ja toimitusajalla. Propaanipullot saapuivat POL-venttiileillä ja täydellä pakkausluettelolla - ei tulliviivästyksiä puolellamme.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "role": "Hankintapäällikkö, teollisuustoimittaja",
+        "country": "Kazakstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Ostamme sylinterit säätimin ja letkuineen yhtenä konttitilauksena. Asiakirjat ja merkinnät olivat valmiita markkinoillemme, joten jälleenmyynti oli helppoa.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Maahantuontiostaja, kaasulaitteiden kauppa",
+        "country": "Saudi-Arabia"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "laatu",
         "eyebrow": "Laatu & turvallisuus",
         "title": "Tarkastuksen voit laittaa tarjoukseen",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Materiaalitarkistukset, vuototestit, venttiilien vääntömomentit ja pakkauskuvat. Todistuspaketit ja valokuvaraportit lähetetään pyynnöstä yksityisesti.",
         "points": [
           "Paine- ja vuototestit",
-          "Certificate package",
+          "Todistukset pyynnöstä",
           "Kuvia ennen toimitusta"
         ]
       },
       {
         "id": "viedä",
         "eyebrow": "Maailmanlaajuinen vienti",
-        "title": "Pakattu satamiin, valmiina yli 50 maahan",
+        "title": "Pakattu satamiin, valmis vientimarkkinoille",
         "text": "Vie lavat, venttiilisuojat, monikieliset etiketit ja lähetysasiakirjat, jotka on koordinoitu Incoterms-kohteeseen.",
         "points": [
           "FOB / CIF-tuki",
           "Lavattu pakkaus",
           "Toimitusaika 15-25 päivää"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Käärityt kaasupullot lavastettu tehtaan pihalle lähetettäväksi",
+    "about": "Työntekijöitä Wanda Groupin tehdaskerroksessa",
+    "accessories": "Kaasupullon lisävarustesarja — säätimet, letkut, polttimet ja liittimet",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Liuotettu asetyleenisylinteri huokoisella massalla ja messinkiventtiilillä",
+      "Asetyleenigeneraattori valokuvattu tehtaalla",
+      "Propaani- ja nestekaasupulloja useissa eri koossa ja väreissä",
+      "Hitsaus- ja leikkaustarvikesarja kaasupulloille"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Yölähetys: kääritty laitteisto lastataan perävaunuun",
+      "Lavat ja metalliosat lavastettu kuljetusta varten",
+      "Varastossa pinottu laatikot pakattuista varastoista",
+      "Kalvoon käärityt sylinterit, lavastettu tehtaan pihalle",
+      "Kaasupullon tuotantokuljetin tehtaan katon alla",
+      "Nestekaasusylinterit riippuvat yläpuolisella viimeistelykuljettimella",
+      "Työntekijät kävelevät Wanda Groupin tehtaan kerroksessa",
+      "Maalaamattomat hitsatut propaanisylinterin rungot pinottuna kaksinkertaisesti",
+      "Rivit maalaamattomia sylinterikuoria betonilattialla",
+      "Sylinteriputkivarasto ja korkittuneet kuoret työpajassa",
+      "Pinottu raa'at sylinterirungot tehtaan seinää vasten",
+      "Teräspohjarenkaat pinottu ennen kokoamista",
+      "Messinkiset liittimet pakattu vaahtomuovikoteloon",
+      "Asetyleenigeneraattori letkulla ja koteloituilla tarvikkeilla",
+      "Maalaamattomat sylinterikuoret, joissa avokaula hitsauksen jälkeen"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Ilmajäähdytteinen lauhdutusyksikkö Copelandin puolihermeettisellä kompressorilla",
+      "Ilmajäähdytteinen lauhdutusyksikkö Bitzer-puolihermeettisellä kompressorilla",
+      "Suljettu kaappityyppinen jäähdytyskondensointiyksikkö",
+      "Tehokas neljän tuulettimen ilmajäähdytteinen lauhdutusyksikkö"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Laillinen",
-    "title": "Tietosuojakäytäntö",
-    "updated": "Viimeksi päivitetty: 25. elokuuta 2026",
-    "intro": [
-      "Wanda Group (\"me\", \"me\") ylläpitää tätä verkkosivustoa esitelläkseen kaasupulloja, lisävarusteita ja niihin liittyviä vientituotteita sekä vastaanottaakseen kaupallisia tiedusteluja teollisilta ostajilta.",
-      "Tämä käytäntö selittää, mitä henkilötietoja keräämme sivuston kautta, miksi käytämme niitä ja kuinka voit ottaa meihin yhteyttä. Emme julkaise tehdasvideoita tai sertifikaattitiedostoja verkkosivustolla; materiaalit lähetetään pyynnöstä yksityisesti."
-    ],
-    "sections": [
-      {
-        "title": "Kuka on vastuussa",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Mitä tietoja keräämme",
-        "body": [
-          "Kun lähetät kyselylomakkeen, saamme antamasi tiedot: nimi, sähköpostiosoite, puhelinnumero, kohdemaa, tuotetyyppi, määrä ja viesti.",
-          "Sivusto tallentaa myös valitsemasi kielivalintasi selaimeen (localStorage). Emme käytä mainosevästeitä tai myy vierailijaluetteloita."
-        ]
-      },
-      {
-        "title": "Miksi käytämme tietoja",
-        "body": [
-          "Käytämme kyselytietoja vain pyyntöösi vastaamiseen, tarjouksen laatimiseen, pyytämiesi tuotetietojen, videoiden tai sertifikaattien lähettämiseen sekä tilauksen koordinoimiseen, jos aloitamme yhteistyön.",
-          "Oikeusperusta: suostumuksesi, kun valitset lomakkeen valintaruudun, ja oikeutettu etumme vastata B2B-myyntipyyntöihin."
-        ]
-      },
-      {
-        "title": "Kuka vastaanottaa tiedot",
-        "body": [
-          "Viestisi toimitetaan myyntitiimillemme sähköpostitse. Kokoonpanosta riippuen Web3Forms voi käsitellä lomakkeen teknisenä palveluntarjoajana, joka lähettää viestin meille.",
-          "Emme myy henkilötietoja. Voimme jakaa tarvittavan logistiikka-, tarkastus- tai pankkikumppaneiden kanssa vain, jos se on tarpeen sovitun tilauksen toteuttamiseksi."
-        ]
-      },
-      {
-        "title": "Kuinka kauan säilytämme sitä",
-        "body": [
-          "Tiedustelutietoja säilytetään niin kauan kuin on tarpeen pyynnön käsittelemiseksi ja kohtuullisen ajan sen jälkeen myynnin seurantaa ja kirjanpitoa varten, ellet pyydä meitä poistamaan niitä aikaisemmin, mikäli laki sen sallii."
-        ]
-      },
-      {
-        "title": "Sinun oikeutesi",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Turvallisuus ja lapset",
-        "body": [
-          "Ryhdymme kohtuullisiin teknisiin ja organisatorisiin toimenpiteisiin suojellaksemme viestejä siirrettäessä ja postilaatikossamme. Tämä sivusto on tarkoitettu yrityksille, ei lapsille."
-        ]
-      }
-    ],
-    "contactLead": "Kysymyksiä tästä käytännöstä:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Laillinen",
+    "title": "Käyttöehdot",
+    "updated": "Viimeksi päivitetty: 27. elokuuta 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Nämä ehdot koskevat Wanda Groupin ylläpitämän wandagroups.com-sivuston käyttöä kaasupullojen, generaattoreiden ja lisävarusteiden teollisille ostajille.",
+      "Selaamalla sivustoa tai lähettämällä kyselyn hyväksyt nämä ehdot ja tietosuojakäytäntömme. Jos et ole samaa mieltä, älä käytä sivustoa."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Keitä me olemme",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Mitä varten sivusto on",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Sivusto esittelee tuotetietoja ja vastaanottaa kaupallisia tiedusteluja. Se on tarkoitettu yritysostajalle, ei yksityishenkilönä ostaville kuluttajille eikä lapsille."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Tarjoukset, hinnat ja tilaukset",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Sivuston hinnat, MOQ, toimitusajat ja tekniset tiedot ovat ohjeellisia. Viesti lomakkeen tai messengerin kautta on tiedustelu, ei tilaus.",
+          "Sopimus on olemassa vain, kun molemmat osapuolet vahvistavat tarjouksen kirjallisesti (sähköpostilla tai allekirjoitetuilla asiakirjoilla) ja sovittu talletus on vastaanotettu, ellei vahvistuksessa toisin mainita."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Valokuvia, videoita ja todistuksia",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Tehdasvalokuvat ja -videot sivustolla havainnollistavat tuotantoa. Ylimääräiset materiaalit ja todistustiedostot lähetetään pyynnöstä yksityisesti, ja ne pysyvät luottamuksellisina, ellemme sano, että voit jakaa niitä."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Immateriaaliomaisuus",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Tämän sivuston teksti, valokuvat, videot, logot ja ulkoasu kuuluvat Wanda Groupille tai lisenssinantajallemme. Et saa kopioida luetteloa omalle kaupalliselle sivustollesi ilman kirjallista lupaamme."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Hyväksyttävä käyttö",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Älä käytä kyselylomaketta väärin (roskaposti, väärä henkilöllisyys tai yritykset häiritä sivustoa). Voimme jättää huomiotta tai poistaa loukkaavia pyyntöjä."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Vastuu",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Huolehdimme tietojen tarkkuudesta, mutta sivusto saattaa sisältää virheitä tai olla tilapäisesti poissa käytöstä. Lain sallimissa rajoissa Wanda Group ei ole vastuussa välillisistä vahingoista, jotka aiheutuvat vain verkkosivuston käytöstä.",
+          "Varsinaisen toimitussopimuksen vastuu määräytyy kyseisessä sopimuksessa ja sovellettavassa laissa, ei pelkästään näissä verkkosivuston ehdoissa."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Muutokset",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Saatamme päivittää näitä ehtoja. Ylhäällä oleva päivämäärä näyttää nykyisen version. Sivuston käytön jatkaminen muutoksen jälkeen tarkoittaa, että hyväksyt päivitetyt ehdot."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Kysymyksiä näistä ehdoista:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Tuotevalikoimamme",
+    "title": "Jäähdytysyksiköt",
+    "subtitle": "Erillinen Wanda Group -linja – ei kolmannen osapuolen luettelo. Lauhdutusyksiköt, kylmähuoneet ja laitteistot toimitamme sylintereillä tai erillisenä tilauksena.",
+    "moreLink": "Kylmävarastolaitteet →",
+    "cta": "Pyydä tarjous",
+    "alsoTitle": "Saatavilla myös pyynnöstä",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Polyuretaanikylmähuonepaneelit (B1 / B2) ja 304 ruostumattomat paneelit",
+      "Kylmähuoneen ilmanjäähdyttimet — DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Alumiiniset höyrystimen käämit",
+      "Kylmähuoneen ovet",
+      "Teollisuuden vedenjäähdyttimet",
+      "Ajoneuvojen jäähdytysyksiköt ja siirrettävät kylmähuoneet"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade toimittaa jäähdytyslaitteita kaasupullolinjan rinnalle: yksiköitä, paneeleja, jäähdyttimiä ja niihin liittyviä kylmäketjulaitteita. Copeland, Bitzer ja vastaavat nimet viittaavat yksikön sisällä olevaan kompressorimerkkiin, eivät kyseisten yhtiöiden tuotemerkkiin.",
+    "videoTitle": "Yrityksen video",
+    "videoSubtitle": "Yleiskatsaus kylmälaitevalikoimaan. Lisää materiaalia lähetetään pyynnöstä yksityisesti.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland puolihermeettinen ilmajäähdytteinen yksikkö",
+        "spec": "Lauhdutusyksikkö · Copeland-kompressori",
+        "desc": "Ilmajäähdytteinen lauhdutinyksikkö Copelandin puolihermeettisellä kompressorilla kylmähuoneisiin ja keskilämpötilaan."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer puolihermeettinen ilmajäähdytteinen yksikkö",
+        "spec": "Lauhdutusyksikkö · Bitzer-kompressori",
+        "desc": "Ilmajäähdytteinen lauhdutusyksikkö Bitzer-puolihermeettisellä kompressorilla korkeampiin ja keski-matalaisiin huoneisiin."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Suljettu laatikkotyyppinen yksikkö",
+        "spec": "Kaapin lauhdutusyksikkö",
+        "desc": "Suljettu kaappityyppinen lauhdutusyksikkö kohteisiin, joissa tarvitaan koteloitu kone avoimen alustan sijaan."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-tyyppinen / suuritehoinen lauhdutusyksikkö",
+        "spec": "Ilmajäähdytteinen monituuletin",
+        "desc": "Suurempi ilmajäähdytteinen lauhdutinyksikkö monipuhallinlauhduttimella isompiin kylmävarastoihin ja prosessin jäähdytykseen."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Keitä olemme",
+    "title": "Teollinen valmistaja B2B-ostajalle",
+    "text": "Wanda Groups valmistaa ja toimittaa teollisuuskaasupulloja, generaattoreita ja hitsaustarvikkeita ulkomaisille jakelijoille, OEM-kumppaneille ja projektiostajille.",
+    "text2": "Painopisteemme on tehdassidottu toimitus, tuotevalinnan tuki, massatilaukset ja viennin koordinointi – ei vähittäismyyntiä.",
+    "cta": "Lisätietoja meistä"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Oletko valmis pyytämään tarjouksen?",
+      "quoteCta": "Pyydä tarjous",
+      "relatedProducts": "Liittyvät tuotteet",
+      "applications": "Sovellukset",
+      "standardsTitle": "Standardit ja sertifiointi",
+      "oemTitle": "OEM / räätälöinti",
+      "packagingTitle": "Pakkaus & toimitus",
+      "placeholders": {
+        "standards": "Saatavilla olevat standardit ja sertifikaatit vahvistetaan tilaus- ja kohdemarkkinakohtaisesti. Todistuskopiot lähetetään pyynnöstä yksityisesti – tiedostoja ei julkaista verkkosivustolla.",
+        "oem": "OEM-väristä, merkinnöistä, venttiilistä, korkista ja pakkausvaihtoehdoista voidaan keskustella tilauksen ja kohdemarkkinoiden mukaan.",
+        "packaging": "Vientipakkaus ja dokumentaatio laaditaan tilaus- ja toimitusehtojen mukaisesti."
+      }
+    },
+    "home": {
+      "seoTitle": "Kaasupullon valmistaja | Teollisuuden OEM ja vienti | Wanda ryhmät",
+      "seoDescription": "Wanda Groups valmistaa teollisuuskaasupulloja, generaattoreita ja hitsaustarvikkeita OEM-, tukku- ja kansainvälisille vientiostimille."
+    },
+    "about": {
+      "label": "Tietoja meistä",
+      "title": "Kaasupullojen valmistaja teollisille ostajille",
+      "subtitle": "Tuemme ulkomaisia ​​ostajia tuotevalinnassa, OEM:ssä, tarkastuksessa, pakkaamisessa ja toimituksessa.",
+      "seoTitle": "Tietoja Wanda Groupista",
+      "seoDescription": "Wanda Group valmistaa asetyleenisylintereitä, propaanisylintereitä, generaattoreita ja tarvikkeita hitsaus-, leikkaus- ja teollisuuskaasun syöttöön."
+    },
+    "products": {
+      "label": "Tuotteet",
+      "title": "Tuotteemme",
+      "subtitle": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+      "seoTitle": "Kaasupullotuotteet",
+      "seoDescription": "Asetyleenisylinterit, generaattorit, propaanisylinterit ja tarvikkeet teollisuus- ja hitsaussovelluksiin.",
+      "refrigerationNote": "Wanda International Trade toimittaa jäähdytyslaitteita kaasupullolinjan rinnalle: yksiköitä, paneeleja, jäähdyttimiä ja niihin liittyviä kylmäketjulaitteita. Copeland, Bitzer ja vastaavat nimet viittaavat yksikön sisällä olevaan kompressorimerkkiin, eivät kyseisten yhtiöiden tuotemerkkiin.",
+      "catalog": {
+        "acetylene": {
+          "name": "Liuenneet asetyleenisylinterit",
+          "overview": "Terässylinterit huokoisella massalla ja liuottimella turvalliseen asetyleenin varastointiin ja kuljetukseen. Käytetään hitsauksessa, leikkauksessa, juottamisessa ja metallien valmistuksessa.",
+          "seoTitle": "Asetyleenikaasupullot",
+          "seoDescription": "Terässylinterit huokoisella massalla ja liuottimella turvalliseen asetyleenin varastointiin ja kuljetukseen. Käytetään hitsauksessa, leikkauksessa, juottamisessa ja metallien valmistuksessa."
+        },
+        "propane": {
+          "name": "Propaanisylinterit",
+          "overview": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+          "seoTitle": "Propaani kaasupullot",
+          "seoDescription": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa."
+        },
+        "lpg": {
+          "name": "Nestekaasusylinterit",
+          "overview": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa.",
+          "seoTitle": "Nestekaasun kaasupullot",
+          "seoDescription": "Sylinterit propaani-, butaani- ja nestekaasuseoksille. Käytetään lämmityksessä, leikkaamisessa, juottamisessa, rakentamisessa ja teollisuuden kaasuntoimituksissa."
+        },
+        "industrial": {
+          "name": "Teollisuuden kaasupullot",
+          "overview": "Teollisuuskaasupullot hitsaukseen, leikkaamiseen ja laitosten toimittamiseen – mukaan lukien asetyleeni-, propaani- ja nestekaasuvaihtoehdot, jotka sopivat markkinoillesi.",
+          "seoTitle": "Teollisuuden kaasupullot",
+          "seoDescription": "Wanda Groupin teollisuuskaasupullot hitsaukseen, leikkaamiseen ja laitostoimitukseen."
+        },
+        "generators": {
+          "name": "Asetyleenigeneraattorit",
+          "overview": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria.",
+          "seoTitle": "Asetyleenigeneraattorit",
+          "seoDescription": "Laitteet asetyleenin valmistamiseksi kalsiumkarbidista. Vakaa kaasunsyöttö hitsaukseen ja teollisuuden tarpeisiin ilman keskitettyä kaasuinfrastruktuuria."
+        },
+        "accessories": {
+          "name": "Sylinterin tarvikkeet ja varusteet",
+          "overview": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä.",
+          "seoTitle": "Hitsaustarvikkeet",
+          "seoDescription": "Täydellinen valikoima kaasupullojen turvalliseen käyttöön: mittareista hitsauspolttimiin. Yhden luukun hankinta sylintereillä."
+        },
+        "refrigeration": {
+          "name": "Jäähdytysyksiköt",
+          "overview": "Erillinen Wanda Group -linja – ei kolmannen osapuolen luettelo. Lauhdutusyksiköt, kylmähuoneet ja laitteistot toimitamme sylintereillä tai erillisenä tilauksena.",
+          "seoTitle": "Jäähdytysyksiköt",
+          "seoDescription": "Erillinen Wanda Group -linja – ei kolmannen osapuolen luettelo. Lauhdutusyksiköt, kylmähuoneet ja laitteistot toimitamme sylintereillä tai erillisenä tilauksena."
+        }
+      }
+    },
+    "factory": {
+      "label": "Tehdas",
+      "title": "Tehdas ja valmistus",
+      "subtitle": "Tuotanto, tarkastus, pakkaus ja lähetys – dokumentoitu todellisilla tehdasvalokuvilla ja tehdasvideoilla.",
+      "seoTitle": "Tehdas ja tuotanto | Wanda ryhmät",
+      "seoDescription": "Oikeita kasvikuvia, reaaliaikaisia ​​lähetyskuvia ja lyhyitä videoita tuotantotiloista.",
+      "sections": [
+        {
+          "title": "Valmistus",
+          "text": "Sylinterin muovaus, hitsaus ja viimeistely osana tuotantoprosessia."
+        },
+        {
+          "title": "Tuotantoprosessi",
+          "text": "Kuoren valmistelusta kokoonpanoon ja viimeistelyyn – katso prosessin aikana olevaa varasto- ja tuotantolattiamateriaalia."
+        },
+        {
+          "title": "Laaduntarkastus",
+          "text": "Silmämääräiset, merkinnät ja mittatarkastukset sylintereiden valmistelemiseksi kuljetusta varten."
+        },
+        {
+          "title": "Testaus",
+          "text": "Paine- ja vuototestit ennen tuotteiden lähtöä linjalta tilausvaatimusten mukaisesti."
+        },
+        {
+          "title": "Pakkaus",
+          "text": "Vientipakkaus suojaa sylintereitä ja liittimiä ulkomaan kuljetuksiin."
+        },
+        {
+          "title": "Lataus ja vienti",
+          "text": "Varaston lavastus, kuorma-auton lastaus ja lähetysdokumentaatio lähteville tilauksille."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Sertifikaatit",
+      "title": "Sertifikaatit ja standardit",
+      "subtitle": "Ostajien yleisesti pyytämät standardit on lueteltu alla. Soveltuvuus riippuu tuote- ja kohdemarkkinoista. Todistuskopiot, numerot ja voimassaolo jaetaan yksityisesti pyynnöstä – ei julkaista vahvistamattomina väitteinä.",
+      "seoTitle": "Sertifikaatit ja standardit | Wanda ryhmät",
+      "seoDescription": "Wanda Groupsin kaasupullojen standardit markkinoiden mukaan. Todistuskopiot toimitetaan pyynnöstä yksityisesti.",
+      "note": "Todistuskopiot lähetetään pyynnöstä yksityisesti. Emme julkaise varmennetiedostoja verkkosivustolla."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM ja tukkumyynti",
+      "subtitle": "Yksityiset merkki- ja bulkkitoimitukset jakelijoille ja teollisille ostajille.",
+      "seoTitle": "OEM-kaasusylinterin syöttö",
+      "seoDescription": "OEM- ja private label -kaasupullojen valmistus ulkomaisille merkeille ja jakelijoille.",
+      "quoteTitle": "Keskustele OEM-vaatimuksista",
+      "quoteCta": "Pyydä OEM-tarjous",
+      "capabilities": [
+        {
+          "title": "Mukautettu logo",
+          "text": "Logosta ja merkintävaihtoehdoista keskusteltiin kelvollisille OEM-tilauksille."
+        },
+        {
+          "title": "Mukautettu väri",
+          "text": "Sylinterin väri markkinoiden tai tuotemerkin vaatimusten mukaan."
+        },
+        {
+          "title": "Mukautettu pakkaus",
+          "text": "Pahvilaatikoiden, lavojen ja pakkausmerkintöjen vienti tilauksesta."
+        },
+        {
+          "title": "Yksityinen merkki",
+          "text": "Merkinnät ja tuotemerkin esittely jakelijakanaville."
+        },
+        {
+          "title": "Joukkotilaukset",
+          "text": "Tukkumäärät projekti- ja jakelijahankintoihin."
+        },
+        {
+          "title": "OEM valmistus",
+          "text": "Tuotekokoonpano vastaa määrityksiäsi ja markkinoita."
+        },
+        {
+          "title": "Vientituki",
+          "text": "Asiakirjat ja toimituksen koordinointi ulkomaille."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Markkinat",
+      "title": "Globaalit markkinat",
+      "subtitle": "Tuemme kansainvälisiä B2B ostajia. Alla olevat alueet kuvaavat yleisiä tutkimusalueita – tietyt maat ja hankkeet vahvistetaan tapauskohtaisesti.",
+      "seoTitle": "Globaalit markkinat | Wanda Groups Export",
+      "seoDescription": "Wanda Groups työskentelee kansainvälisten teollisten ostajien kanssa Afrikassa, Lähi-idässä, Keski-Aasiassa, Kaakkois-Aasiassa, Latinalaisessa Amerikassa ja muilla markkinoilla.",
+      "note": "Emme julkaise tällä sivulla vahvistamattomia maamääriä, asiakkaiden nimiä tai projektiviitteitä.",
+      "regions": [
+        {
+          "title": "Afrikka",
+          "text": "Teollisuuden ja jakelijoiden tiedustelut Afrikan markkinoilta."
+        },
+        {
+          "title": "Lähi-idässä",
+          "text": "Ostajat hankkivat sylintereitä ja niihin liittyviä laitteita alueellisiin projekteihin."
+        },
+        {
+          "title": "Keski-Aasia",
+          "text": "Tukku- ja projektitoimituskeskustelut Keski-Aasian markkinoilla."
+        },
+        {
+          "title": "Kaakkois-Aasia",
+          "text": "Teollisuusostajat arvioivat vientisylintereiden toimitusta."
+        },
+        {
+          "title": "Latinalaisessa Amerikassa",
+          "text": "Tiedustelut teollisuuskaasupullojen ja tarvikkeiden toimituksista."
+        },
+        {
+          "title": "Muut kansainväliset markkinat",
+          "text": "Lisäkohteet tarkistetaan tuotestandardin ja logistiikan mukaan."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Sovellukset",
+      "title": "Sylinterisovellukset",
+      "subtitle": "Tuotteet, jotka on suunniteltu yleisiin teollisuuskaasutehtäviin ja ulkomaisten ostajien tarpeisiin.",
+      "seoTitle": "Sylinterisovellukset",
+      "seoDescription": "Tuotteet, jotka on suunniteltu yleisiin teollisuuskaasutehtäviin ja ulkomaisten ostajien tarpeisiin.",
+      "items": [
+        {
+          "title": "Hitsaus ja juotto",
+          "text": "Liuotettu asetyleeni ja siihen liittyvät laitteet työpaja- ja valmistushitsaukseen."
+        },
+        {
+          "title": "Metallin leikkaus",
+          "text": "Sylinterit ja tarvikkeet happipolttoleikkaukseen työmaalla ja tehtaalla."
+        },
+        {
+          "title": "Teollisuuden kaasun toimitus",
+          "text": "Sylinterien syöttö teollisuuden jakelu- ja kasvikaasujärjestelmiin."
+        },
+        {
+          "title": "Rakentaminen",
+          "text": "Kannettava kaasunsyöttö rakennus- ja kunnossapitotöihin."
+        },
+        {
+          "title": "Metallin valmistus",
+          "text": "Sylinterit ja tarvikkeet valmistusliikkeitä ja telakoita varten."
+        },
+        {
+          "title": "Kaasun varastointi ja jakelu",
+          "text": "Varastointi- ja jakeluvalmiit sylinterit teollisille ostajille."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Usein kysytyt kysymykset",
+      "subtitle": "Yritys, tuotteet, OEM ja vienti – vastauksia ulkomaisille ostajille ennen tarjouksen pyytämistä.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Yritys, tuotteet, OEM ja vienti – vastauksia ulkomaisille ostajille ennen tarjouksen pyytämistä."
+    },
+    "contactPage": {
+      "label": "Ota yhteyttä",
+      "title": "Keskustellaan vaatimuksistasi",
+      "subtitle": "Ota yhteyttä myyntitiimiimme lomakkeella, sähköpostilla tai messengerillä. Jaa tuote, määrä ja kohde saadaksesi nopeamman tarjouksen.",
+      "seoTitle": "Pyydä tarjous",
+      "seoDescription": "Kerro meille koko, määrä, kohdemaa ja sovellus – teemme yksityiskohtaisen tarjouksen."
+    },
+    "blog": {
+      "label": "Blogi",
+      "title": "Uusimmat artikkelit",
+      "subtitle": "Asiantuntevaa sisältöä hitsauksen ja kaasuntoimituksen ammattilaisille.",
+      "seoTitle": "Artikkelit ja oppaat",
+      "seoDescription": "Asiantuntevaa sisältöä hitsauksen ja kaasuntoimituksen ammattilaisille.",
+      "coming": "Lisää ostajan oppaita ja tuoteselosteita lisätään tänne. Käytä yllä olevia artikkeleita tai ota yhteyttä tuotekohtaisiin materiaaleihin."
+    },
+    "privacy": {
+      "seoTitle": "Tietosuojakäytäntö",
+      "seoDescription": "Wanda Groupin verkkosivustokyselyiden ja henkilötietojen tietosuojakäytäntö."
+    },
+    "terms": {
+      "seoTitle": "Käyttöehdot",
+      "seoDescription": "Wanda Groupin verkkosivuston käyttöehdot."
+    },
+    "notFound": {
+      "seoTitle": "Sivua ei löydy",
+      "seoDescription": "Pyytämäsi sivu ei ole käytettävissä.",
+      "title": "Sivua ei löydy",
+      "text": "Etsimääsi sivua ei ole olemassa tai se on muuttanut.",
+      "home": "Kotiin",
+      "products": "Tuotteet",
+      "contact": "Ota yhteyttä / Pyydä tarjous"
+    }
   }
 }

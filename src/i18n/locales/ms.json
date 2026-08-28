@@ -1,56 +1,56 @@
 {
   "nav": {
+    "home": "Rumah",
     "products": "Produk",
-    "specs": "Rentetan Sambungan",
-    "applications": "Aplikasi-Aplikasi",
-    "about": "Berhadapan",
+    "specs": "Spesifikasi",
+    "applications": "Aplikasi",
+    "about": "Tentang",
     "gallery": "Galeri",
+    "factory": "Kilang",
     "quality": "Kualiti",
     "faq": "Soalan Lazim",
-    "contact": "Hubungi kami",
+    "contact": "Kenalan",
     "getQuote": "Dapatkan Sebut Harga",
-    "inquire": "Permintaan",
+    "inquire": "Bertanya →",
     "services": "Perkhidmatan",
-    "pricing": "Harga",
+    "pricing": "penetapan harga",
     "accessories": "Aksesori",
-    "home": "Rumah",
-    "factory": "Kilang",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Penyimpanan sejuk",
+    "cooling": "Menyejukkan",
+    "certifications": "Pensijilan",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Pasaran"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Pengeluar Silinder Gas Industri",
+    "title": "Pengeluar Silinder Gas dan Peralatan Industri",
+    "subtitle": "Pembuatan, OEM dan pembekalan borong silinder asetilena, silinder propana/LPG, penjana dan aksesori kimpalan untuk pembeli eksport antarabangsa.",
+    "lineGas": "Silinder gas",
+    "lineCold": "Unit penyejukan",
+    "cta": "Dapatkan Sebut Harga",
+    "ctaSecondary": "Lihat Produk",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Bekalan tertumpu kepada pengilang"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Label peribadi dan penyesuaian"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Sokongan perkapalan antarabangsa"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Proses pemeriksaan dan ujian"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Pilihan khusus pasaran atas permintaan"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Aksesori Silinder Gas Boleh Dipercayai",
@@ -58,35 +58,35 @@
     "cta": "Lihat aksesori"
   },
   "products": {
-    "title": "Produk-produk Kami",
-    "subtitle": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi perindustrian dan kimpalan.",
+    "title": "Produk Kami",
+    "subtitle": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+    "viewDetails": "Lihat Butiran",
     "items": [
       {
-        "title": "Silinder Asetilena",
-        "desc": "Silinder asetilena terlarut untuk kimpalan, pemotongan dan gas industri. Pelbagai saiz dan pilihan injap.",
-        "icon": "🔥",
-        "spec": "2–40 L · ISO / DOT / TPED"
+        "title": "Silinder asetilena",
+        "spec": "2L–40L · piawaian disahkan setiap pasaran",
+        "desc": "Silinder asetilena terlarut untuk kimpalan, pemotongan dan bekalan gas industri.",
+        "icon": "🔥"
       },
       {
         "title": "Penjana Asetilena",
-        "desc": "Peralatan untuk pengeluaran gas yang stabil, operasi mudah dan aplikasi perindustrian.",
-        "icon": "⚙️",
-        "spec": "Sistem penjanaan industri"
+        "spec": "Sistem penjanaan industri",
+        "desc": "Peralatan untuk pengeluaran asetilena yang stabil di tapak dan di loji.",
+        "icon": "⚙️"
       },
       {
-        "title": "Silinder Propana",
-        "desc": "Silinder tahan lama untuk propana dan LPG — penyimpanan, pemanasan, pemotongan dan kegunaan industri.",
-        "icon": "🛢️",
-        "spec": "3–50 L · POL / CGA / GOST"
+        "title": "Silinder propana",
+        "spec": "3L–50L · pilihan injap setiap pasaran",
+        "desc": "Silinder LPG tahan lama untuk pemanasan, pemotongan dan kegunaan industri.",
+        "icon": "🛢️"
       },
       {
         "title": "Aksesori Silinder",
-        "desc": "Hos, tolok, obor pemotong, pembakar kimpalan, injap keselamatan dan banyak lagi.",
-        "icon": "🔧",
-        "spec": "Injap · pengawal selia · hos · obor"
+        "spec": "Injap · pengawal selia · hos · obor",
+        "desc": "Kelengkapan sepadan dibekalkan dengan silinder atau sebagai pesanan berasingan.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Lihat Butiran"
+    ]
   },
   "specs": {
     "title": "Spesifikasi Teknikal",
@@ -94,19 +94,19 @@
     "items": [
       {
         "title": "Kapasiti Silinder",
-        "desc": "Pelbagai pilihan kapasiti dan volum bergantung kepada aplikasi dan keperluan pasaran."
+        "desc": "Pelbagai kapasiti dan pilihan volum bergantung pada keperluan aplikasi dan pasaran."
       },
       {
         "title": "Injap & Penutup",
-        "desc": "Injap, penutup dan kelengkapan yang dibekalkan mengikut keperluan pelanggan dan projek."
+        "desc": "Injap, penutup dan kelengkapan dibekalkan mengikut keperluan pelanggan dan projek."
       },
       {
         "title": "Pilihan Pelarut",
-        "desc": "Sistem pengisi berliang dan pelarut untuk penyimpanan asetilena yang stabil."
+        "desc": "Sistem pengisi berliang dan pelarut untuk simpanan asetilena yang stabil."
       },
       {
         "title": "Pembungkusan & Penghantaran",
-        "desc": "Eksport sokongan pembungkusan dan penghantaran untuk pengedar dan pelanggan projek."
+        "desc": "Eksport pembungkusan dan sokongan penghantaran untuk pengedar dan pelanggan projek."
       }
     ]
   },
@@ -114,164 +114,176 @@
     "title": "Aplikasi Silinder",
     "subtitle": "Produk yang direka untuk tugas gas industri biasa dan keperluan pembeli luar negara.",
     "items": [
-      "Pengelasan & Pematerian",
-      "Pemotongan Logam",
-      "Bekalan Gas Industri",
+      "Kimpalan & Pateri",
+      "Memotong Logam",
+      "Bekalan Gas Perindustrian",
       "Pembinaan",
       "Fabrikasi Logam",
-      "Penyimpanan & Pengedaran Gas"
+      "Penyimpanan & Pengagihan Gas"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Mengapa Memilih Kumpulan Wanda",
+    "subtitle": "Keupayaan konkrit untuk pembeli industri menilai rakan kongsi pembuatan.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Bekalan tertumpu kepada pengilang",
+        "desc": "Bekalan produk berorientasikan pengeluaran, bukan sahaja katalog perdagangan."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Sokongan OEM",
+        "desc": "Warna tersuai, penandaan, injap dan pembungkusan dibincangkan setiap pesanan."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kawalan kualiti",
+        "desc": "Pemeriksaan daripada bahan melalui pembungkusan sebelum penghantaran."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Eksport antarabangsa",
+        "desc": "Eksport pembungkusan dan penyelarasan penghantaran untuk pembeli luar negara."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Penyesuaian produk",
+        "desc": "Spesifikasi disesuaikan dengan keperluan pasaran dan aplikasi."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Sokongan jualan responsif",
+        "desc": "Petikan dan balasan teknikal melalui borang, e-mel dan messenger."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Keupayaan pesanan pukal",
+        "desc": "Kuantiti borong disokong untuk pengedar dan pembeli projek."
       }
     ]
   },
   "about": {
-    "title": "Pengeluar Silinder Gas Profesional",
-    "text": "Pengeluar Silinder Gas Kumpulan Wanda mengkhusus dalam menghasilkan dan membekalkan silinder gas industri dan aksesori yang berkaitan. Produk kami digunakan secara meluas dalam kimpalan, pemotongan, pengedaran gas, penyimpanan industri dan bidang bekalan gas lain.",
-    "text2": "Kami menyokong pembeli luar negara dalam pemilihan produk, penyesuaian, pemeriksaan kualiti, pembungkusan dan penyelarasan penghantaran.",
+    "title": "Pengeluar silinder gas untuk pembeli industri",
+    "text": "Kumpulan Wanda mengeluarkan silinder asetilena, silinder propana, penjana dan aksesori untuk kimpalan, pemotongan dan bekalan gas industri.",
+    "text2": "Kami menyokong pembeli luar negara dengan pemilihan produk, OEM, pemeriksaan, pembungkusan dan penghantaran.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Pembuatan",
+        "desc": "Membentuk, mengimpal, menguji dan kemasan untuk silinder gas industri."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Sokongan OEM",
+        "desc": "Pilihan warna, penandaan, injap, penutup dan pembungkusan mengikut pesanan."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Proses Kualiti",
+        "desc": "Pemeriksaan dan ujian sejajar dengan pesanan dan keperluan pasaran."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Eksport Antarabangsa",
+        "desc": "Sokongan dokumentasi dan pembungkusan untuk pembeli industri luar negara."
       }
     ]
   },
   "gallery": {
     "title": "Di Dalam Kilang Kami",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Foto tumbuhan sebenar, tangkapan penghantaran langsung dan video pendek dari tingkat pengeluaran.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Penghantaran malam",
+        "desc": "Treler yang dimuatkan keluar dengan peralatan berbalut — masa dan tempat dicop pada tangkapan."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Kargo dipentaskan untuk penghantaran",
+        "desc": "Palet dan bahagian yang dikumpul untuk penghantaran. Foto gudang langsung, bukan set studio."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Stok berbungkus",
+        "desc": "Karton disusun di dalam gudang, sedia untuk pesanan keluar seterusnya."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Dibungkus untuk penghantaran",
+        "desc": "Silinder dibalut dan dipentaskan di halaman loji untuk penghantaran."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Penghantar pengeluaran",
+        "desc": "Badan silinder bergerak melalui garisan pembentukan dan pengendalian."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "garisan penamat LPG",
+        "desc": "Silinder LPG dicat pada penghantar atas sebelum dibungkus."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Di dalam tumbuhan",
+        "desc": "Dewan pengeluaran — orang, mesin dan stok dalam proses."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Badan silinder yang dikimpal",
+        "desc": "Cengkerang selepas kimpalan lilitan, sebelum mengecat dan injap."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Kerang sebelum melukis",
+        "desc": "Badan yang tidak dicat berkumpul di atas lantai untuk langkah proses seterusnya."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Stok dalam proses",
+        "desc": "Bahagian tiub dan cengkerang bertutup menunggu pemasangan."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Badan silinder dalam stok",
+        "desc": "Cangkang bergulung disusun selepas dikimpal, sebelum kepala dan injap."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Cincin asas",
+        "desc": "Gelang kaki disediakan untuk dikimpal pada cengkerang silinder."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Kelengkapan yang dibungkus",
+        "desc": "Injap dan kelengkapan berkotak dengan buih untuk penghantaran eksport."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Penjana asetilena",
+        "desc": "Unit penjana dengan hos dan kelengkapan, sedia untuk meninggalkan loji."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Kerang di atas lantai",
+        "desc": "Badan leher terbuka selepas kimpalan — kumpulan sebelum pemasangan injap."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Video kilang",
+    "videosSubtitle": "Seluar pendek baru dari lantai loji. Lebih banyak rakaman dihantar secara peribadi atas permintaan."
   },
   "quality": {
     "title": "Kawalan Kualiti",
     "subtitle": "Setiap kelompok mengikut laluan yang sama: pengeluaran, ujian, pemeriksaan dan kawalan kualiti akhir.",
     "steps": [
       {
-        "title": "Pengeluaran",
-        "desc": "Membentuk, mengimpal dan memasang di bawah kawalan proses loji."
+        "title": "Bahan Mentah",
+        "desc": "Bahan masuk disemak berdasarkan pesanan dan keperluan proses."
       },
       {
-        "title": "Menguji",
-        "desc": "Ujian tekanan dan kebocoran sebelum silinder meninggalkan garisan."
+        "title": "Pengeluaran",
+        "desc": "Membentuk, mengimpal dan memasang di bawah kawalan proses loji."
       },
       {
         "title": "Pemeriksaan",
         "desc": "Pemeriksaan visual, penandaan dan dimensi terhadap pesanan."
       },
       {
-        "title": "Kawalan Kualiti Akhir",
-        "desc": "Pemeriksaan pembungkusan sebelum penghantaran eksport."
+        "title": "Menguji",
+        "desc": "Ujian tekanan dan kebocoran sebelum silinder meninggalkan garisan."
+      },
+      {
+        "title": "QC akhir",
+        "desc": "Kawalan kualiti akhir sebelum dikeluarkan untuk pembungkusan."
+      },
+      {
+        "title": "Pembungkusan",
+        "desc": "Pembungkusan eksport disediakan untuk pengangkutan."
+      },
+      {
+        "title": "Penghantaran",
+        "desc": "Memuatkan dan menghantar dokumentasi untuk pesanan keluar."
       }
     ]
   },
   "faq": {
     "title": "Soalan Lazim",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Syarikat, produk, OEM dan eksport — jawapan untuk pembeli luar negara sebelum anda meminta sebut harga.",
     "cta": "Tidak menemui soalan anda? Hantar produk, saiz, kuantiti dan negara destinasi — kami akan membalas dengan tawaran terperinci.",
     "ctaBtn": "Dapatkan Sebut Harga",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video dan dokumen",
         "items": [
           {
             "q": "Bolehkah saya menonton video kilang sebelum membuat pesanan?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "ya. Tonton video pengeluaran di bahagian Kilang di halaman ini. Rakaman tambahan, klip pembungkusan dan sijil dihantar secara peribadi atas permintaan."
           },
           {
             "q": "Adakah anda menyediakan video produk, terutamanya untuk silinder asetilena?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "ya. Video, foto dan maklumat terperinci tentang silinder asetilena dihantar secara peribadi mengikut permintaan anda."
           },
           {
             "q": "Bolehkah anda menunjukkan video pengeluaran dan kawalan kualiti?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "ya. Video pengeluaran, pemeriksaan kualiti, pembungkusan dan penyimpanan gudang yang tersedia dihantar secara peribadi supaya anda dapat melihat cara produk disediakan."
           },
           {
             "q": "Bolehkah saya meminta video produk yang dibuat untuk pesanan tertentu?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Untuk pesanan atau keperluan produk tertentu, hubungi kami — kami akan membincangkan sokongan video dan menghantar bahan secara peribadi."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Bagaimanakah saya boleh mendapatkan video, sijil dan sebut harga?",
+            "a": "Dalam borang pertanyaan, nyatakan jenis produk, saiz silinder, kuantiti, negara destinasi dan perkara yang hendak dihantar: video, sijil atau kedua-duanya. Kami akan menghantar mereka secara peribadi dan menyediakan tawaran."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Bolehkah anda memberikan gambar dan spesifikasi produk?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "ya. Foto produk, spesifikasi dan lembaran data dihantar secara peribadi atas permintaan."
           },
           {
             "q": "Bagaimanakah saya boleh mendapatkan sebut harga untuk aksesori?",
@@ -395,88 +407,149 @@
     ]
   },
   "articles": {
-    "title": "Artikel terbaru",
+    "title": "Artikel Terkini",
     "subtitle": "Kandungan pakar untuk profesional kimpalan dan bekalan gas.",
-    "readMore": "Baca lagi dnoalfonaifi",
-    "close": "Penutup",
+    "readMore": "Baca lebih lanjut →",
+    "close": "tutup",
     "items": [
       {
-        "tag": "Tukang",
+        "tag": "tukang",
         "title": "Penyelesaian Bekalan Silinder Propana Lengkap",
-        "desc": "Kestabilan peralatan memberi kesan langsung kepada kecekapan kerja kimpalan dan pemotongan.",
+        "desc": "Kestabilan peralatan secara langsung mempengaruhi kecekapan kerja kimpalan dan pemotongan.",
         "body": [
-          "Bagi tukang yang mengimpal, membaiki dan mengarang logam setiap hari, peralatan gas yang stabil secara langsung memberi kesan kepada kualiti dan kelajuan kerja.",
-          "Silinder propana Kumpulan Wanda boleh didapati dari 3L hingga 50L dengan injap POL, CGA 510 atau GOST bergantung pada pasaran anda — satu pembekal untuk kimpalan, pemotongan dan pemanasan.",
-          "Kami mengesyorkan anda memesan silinder bersama-sama dengan pengawal selia, hos dan obor. Bekalan pakej mengurangkan kos logistik dan memastikan keserasian aksesori.",
-          "Apabila memesan, tentukan pasaran sasaran, jumlah, jenis injap dan warna — kami menyediakan penandaan OEM dan pembungkusan eksport di bawah jenama anda."
+          "Bagi tukang yang mengimpal, membaiki dan membuat logam setiap hari, peralatan gas stabil secara langsung menjejaskan kualiti dan kelajuan kerja.",
+          "Silinder propana Kumpulan Wanda boleh didapati daripada 3L hingga 50L dengan injap POL, CGA 510 atau GOST bergantung pada pasaran anda — satu pembekal untuk mengimpal, memotong dan memanaskan.",
+          "Kami mengesyorkan memesan silinder bersama-sama dengan pengawal selia, hos dan obor. Bekalan bundle mengurangkan kos logistik dan memastikan keserasian aksesori.",
+          "Semasa membuat pesanan, nyatakan sasaran pasaran, volum, jenis injap dan warna — kami menyediakan pembungkusan penandaan dan eksport OEM di bawah jenama anda."
         ]
       },
       {
-        "tag": "Storan",
+        "tag": "Penyimpanan",
         "title": "Petua Penyimpanan Silinder Asetilena Jangka Panjang",
         "desc": "Keadaan penyimpanan, kaedah penempatan dan pemeriksaan biasa untuk silinder yang tidak digunakan.",
         "body": [
-          "Banyak syarikat menyimpan asetilena dan silinder propana semasa rehat pengeluaran atau sebagai inventori. Silinder yang tidak digunakan masih memerlukan pengendalian yang betul.",
-          "Simpan silinder tegak di kawasan yang mempunyai pengudaraan yang baik jauh dari sumber haba dan cahaya matahari langsung. Suhu penyimpanan biasanya tidak melebihi 40–50°C.",
-          "Periksa injap, penutup dan tanda sekurang-kurangnya setiap suku tahun. Untuk penyimpanan asetilena jangka panjang, pastikan silinder menegak dan jangan sekali-kali membenarkan pencondongan.",
-          "Wanda Group menghantar silinder dengan penutup pelindung dan pembungkusan eksport yang direka untuk pengangkutan dan pergudangan yang selamat. Panduan storan tersedia dalam bahasa anda atas permintaan."
+          "Banyak syarikat menyimpan silinder asetilena dan propana semasa rehat pengeluaran atau sebagai inventori. Silinder yang tidak digunakan masih memerlukan pengendalian yang betul.",
+          "Simpan silinder tegak di kawasan yang mempunyai pengudaraan yang baik dari sumber haba dan cahaya matahari langsung. Suhu penyimpanan biasanya tidak melebihi 40–50°C.",
+          "Periksa injap, penutup dan tanda sekurang-kurangnya setiap suku tahun. Untuk penyimpanan asetilena jangka panjang, pastikan silinder menegak dan jangan biarkan senget.",
+          "Kumpulan Wanda menghantar silinder dengan penutup pelindung dan pembungkusan eksport yang direka untuk pengangkutan dan pergudangan yang selamat. Panduan penyimpanan tersedia dalam bahasa anda atas permintaan."
         ]
       },
       {
-        "tag": "Harga",
+        "tag": "penetapan harga",
         "title": "Panduan Belanjawan untuk Pembelian Silinder Asetilena",
-        "desc": "Faktor-faktor yang mempengaruhi kos dan cara memilih tawaran yang optimum.",
+        "desc": "Faktor yang mempengaruhi kos dan cara memilih tawaran yang optimum.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Juga faktor dalam penghantaran (FOB/CIF), dokumen dan MOQ. Kami membalas dalam masa 24 jam dengan spesifikasi penuh, masa pendahulu dan Incoterms.",
-          "Untuk mendapatkan sebut harga yang tepat, sertakan model, kuantiti, negara destinasi dan keperluan injap dalam borang hubungan — atau e-mel kepada sales@wandagroups.com."
+          "Harga silinder asetilena bergantung pada volum, jenis injap, piawaian yang diperlukan untuk pasaran destinasi anda dan kuantiti pesanan. Kami tidak menerbitkan harga senarai tetap di tapak web.",
+          "Lot yang lebih besar dan pilihan OEM (mengecat, logo, pembungkusan) disebut secara individu selepas kami menyemak pertanyaan anda.",
+          "Terma penghantaran (FOB/CIF dan seumpamanya), dokumen dan masa utama disahkan dalam sebut harga rasmi.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Minta Sebut Harga",
-    "subtitle": "Beritahu kami saiz, kuantiti, negara destinasi dan aplikasi — kami akan menyediakan sebut harga terperinci.",
+    "title": "Mari Bincang Keperluan Anda",
+    "subtitle": "Beritahu kami produk, saiz, kuantiti, negara destinasi dan spesifikasi — pasukan jualan kami akan membalas dengan maklumat produk dan sebut harga.",
     "formTitle": "Minta Sebut Harga",
-    "formSubtitle": "Tinggalkan keperluan anda — pasukan jualan kami akan menjawab dengan maklumat produk, harga, MOQ dan masa pendahulu.",
+    "formSubtitle": "Lengkapkan borang untuk pertanyaan komersial. Medan yang diperlukan ditanda.",
     "name": "Nama",
+    "company": "Syarikat",
     "phone": "Telefon / WhatsApp",
     "email": "E-mel",
-    "product": "Produk",
-    "quantity": "Kuantiti",
-    "country": "Negara Destinasi",
+    "product": "produk",
+    "quantity": "Kuantiti (pilihan)",
+    "country": "Negara Destinasi (pilihan)",
     "productOptions": [
-      "Silinder Asetilena",
-      "Silinder Propana",
+      "Silinder asetilena",
+      "Silinder propana",
       "Penjana Asetilena",
       "Aksesori",
-      "Susunan Bundel",
-      "Cold storage / refrigeration"
+      "Penyimpanan sejuk / penyejukan",
+      "Pesanan Bundle"
     ],
-    "message": "Keperluan tambahan *",
+    "quantityPlaceholder": "cth. 200 pcs, 1 bekas atau TBD",
+    "countryPlaceholder": "Ke mana barang akan dihantar",
+    "message": "Keperluan Tambahan",
     "messagePlaceholder": "Produk, saiz, kuantiti, negara destinasi...",
     "submit": "Hantar Pertanyaan",
     "sending": "Menghantar...",
-    "success": "Terima kasih! Kami akan menghubungi anda sebentar lagi.",
+    "success": "terima kasih! Kami akan menghubungi anda sebentar lagi.",
     "sendAnother": "Hantar pertanyaan lain",
-    "errorGeneric": "Gagal dihantar. Sila cuba lagi atau e-mel terus kepada kami.",
-    "errorNoForm": "Borang tidak dikonfigurasikan. Sila e-mel kepada sales@wandagroups.com",
-    "privacyPrefix": "Saya bersetuju dengan",
-    "privacySuffix": "dan pemprosesan data peribadi saya untuk mengendalikan siasatan ini.",
-    "privacyLink": "Dasar Privasi",
-    "company": "Syarikat",
-    "emailFallback": "Laman web tidak dapat menghantar secara automatik. Klik butang di bawah — aplikasi e-mel akan terbuka dengan mesej sedia untuk sales@wandagroups.com.",
+    "errorGeneric": "Gagal menghantar. Sila cuba lagi atau e-mel terus kepada kami.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Hantar melalui aplikasi e-mel",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Saya bersetuju dengan",
+    "privacySuffix": ", dan pemprosesan data peribadi saya untuk mengendalikan siasatan ini.",
+    "privacyLink": "Dasar Privasi",
+    "termsAnd": "dan",
+    "termsLink": "Syarat Penggunaan",
+    "requirements": "Keperluan / Spesifikasi",
+    "requirementsPlaceholder": "Jenis injap, warna, standard, pembungkusan, tanda OEM, nota kuantiti..."
   },
   "footer": {
     "company": "Pengeluar Silinder Gas Kumpulan Wanda",
     "tagline": "Pembuatan Silinder Gas Profesional",
-    "rights": "© 2026 Kumpulan Wanda. Hak cipta terpelihara.",
+    "rights": "© 2026 Wanda Group. Semua hak terpelihara.",
     "privacy": "Dasar Privasi",
-    "terms": "Terms of Use"
+    "terms": "Syarat Penggunaan"
+  },
+  "privacy": {
+    "label": "sah",
+    "title": "Dasar Privasi",
+    "updated": "Kemas kini terakhir: 25 Ogos 2026",
+    "intro": [
+      "Kumpulan Wanda (“kami”, “kami”) mengendalikan laman web ini untuk membentangkan silinder gas, aksesori dan bekalan eksport yang berkaitan, dan untuk menerima pertanyaan komersial daripada pembeli industri.",
+      "Dasar ini menerangkan data peribadi yang kami kumpul melalui tapak, sebab kami menggunakannya dan cara anda boleh menghubungi kami mengenainya. Video pengeluaran kilang ditunjukkan di laman web ini. Fail sijil dihantar secara peribadi atas permintaan."
+    ],
+    "sections": [
+      {
+        "title": "Siapa yang bertanggungjawab",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Apakah data yang kami kumpulkan",
+        "body": [
+          "Apabila anda menghantar borang pertanyaan kami menerima data yang anda masukkan: nama, e-mel, telefon, negara destinasi, jenis produk, kuantiti dan mesej.",
+          "Tapak ini juga menyimpan pilihan bahasa anda dalam penyemak imbas (localStorage). Kami tidak menjalankan kuki pengiklanan atau menjual senarai pelawat."
+        ]
+      },
+      {
+        "title": "Mengapa kami menggunakan data",
+        "body": [
+          "Kami menggunakan data pertanyaan hanya untuk membalas permintaan anda, menyediakan sebut harga, menghantar maklumat produk, video atau sijil yang anda minta dan untuk menyelaraskan pesanan jika kami mula bekerjasama.",
+          "Asas undang-undang: persetujuan anda apabila anda menanda kotak pilihan pada borang, dan minat sah kami dalam menjawab permintaan jualan B2B."
+        ]
+      },
+      {
+        "title": "Siapa yang menerima data",
+        "body": [
+          "Mesej anda dihantar kepada pasukan jualan kami melalui e-mel. Borang ini diproses oleh Web3Forms, penyedia teknikal yang menghantar mesej kepada kami.",
+          "Kami tidak menjual data peribadi. Kami mungkin berkongsi perkara yang diperlukan dengan logistik, pemeriksaan atau rakan kongsi perbankan hanya jika itu diperlukan untuk memenuhi pesanan yang dipersetujui."
+        ]
+      },
+      {
+        "title": "Berapa lama kita menyimpannya",
+        "body": [
+          "Data pertanyaan disimpan selama yang diperlukan untuk mengendalikan permintaan dan untuk tempoh yang munasabah selepas itu untuk susulan jualan dan perakaunan, melainkan anda meminta kami memadamkannya lebih awal di mana undang-undang membenarkan."
+        ]
+      },
+      {
+        "title": "Hak awak",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Keselamatan dan kanak-kanak",
+        "body": [
+          "Kami mengambil langkah teknikal dan organisasi yang munasabah untuk melindungi mesej dalam transit dan dalam peti mel kami. Laman web ini bertujuan untuk pembeli perniagaan, bukan untuk kanak-kanak."
+        ]
+      }
+    ],
+    "contactLead": "Soalan tentang dasar ini:"
   },
   "ui": {
     "catalog": "Katalog",
@@ -484,19 +557,20 @@
     "catalogSubtitle": "Lengkapkan data teknikal, model dan parameter untuk setiap kategori. Pilih produk untuk melihat jadual spesifikasi.",
     "requestPrice": "Minta Harga untuk Model Ini",
     "services": "Perkhidmatan",
-    "pricing": "Harga",
+    "pricing": "penetapan harga",
     "getExactQuote": "Dapatkan Sebut Harga Tepat",
-    "certifications": "& Sijil",
-    "order": "Pesan",
+    "certifications": "Pensijilan",
+    "order": "Pesanan",
     "reviews": "Ulasan",
-    "contact": "Hubungi kami",
-    "phone": "Telefon",
+    "contact": "Kenalan",
+    "phone": "telefon",
     "location": "Lokasi",
-    "quoteResponse": "Maklum balas sebut harga",
+    "quoteResponse": "Jawapan petikan",
     "support": "Sokongan",
+    "countriesServed": "Sokongan eksport",
     "exportReady": "Eksport sedia",
-    "years": "Tahun",
-    "acetylene": "Asetilena",
+    "years": "tahun",
+    "acetylene": "asetilena",
     "isoCertified": "Diperakui ISO",
     "globalExport": "Eksport Global",
     "products": "Produk",
@@ -507,18 +581,26 @@
     "gallery": "Galeri",
     "quality": "Kualiti",
     "faq": "Soalan Lazim",
-    "blog": "Artikel",
-    "countriesServed": "Negara yang berkhidmat",
+    "blog": "Blog",
     "searchLanguage": "Cari bahasa...",
-    "noLanguagesFound": "Tiada bahasa ditemui"
+    "noLanguagesFound": "Tiada bahasa ditemui",
+    "breadcrumb": "Serbuk roti",
+    "primaryNav": "utama",
+    "menu": "Menu",
+    "playVideo": "Mainkan video",
+    "productGallery": "Galeri produk",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Label Peribadi",
+    "Eksport Antarabangsa",
+    "Kawalan Kualiti",
+    "Piawaian Pasaran atas Permintaan",
+    "Pesanan Pukal"
   ],
   "productDetails": {
     "tabs": {
@@ -742,7 +824,7 @@
       "headers": [
         "kategori",
         "model",
-        "Piawaian",
+        "Standard",
         "Permohonan"
       ],
       "rows": [
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Pensijilan",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumen untuk kastam dan pengawal selia. Salinan dihantar secara peribadi atas permintaan.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & sijil kualiti",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Syarat Harga & Bekalan",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Terma komersial disahkan setiap pertanyaan. Hantar butiran produk, kuantiti dan destinasi untuk sebut harga rasmi.",
+    "note": "Kami tidak menerbitkan harga senarai tetap, MOQ atau masa utama di laman web ini. Syarat komersial yang tepat disahkan dalam petikan selepas kami menyemak keperluan anda.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "penetapan harga",
+        "value": "Atas permintaan",
+        "desc": "Sebut harga rasmi selepas semakan pertanyaan"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Disahkan setiap pesanan",
+        "desc": "Bergantung pada model dan destinasi"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Masa utama",
+        "value": "Disahkan setiap pesanan",
+        "desc": "Dikongsi dengan petikan"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Bayaran",
+        "value": "Dipersetujui dalam kontrak",
+        "desc": "Syarat disahkan sebelum pengeluaran"
       }
     ],
     "factors": {
-      "title": "Faktor Harga",
+      "title": "Apa yang mempengaruhi petikan",
       "items": [
-        "Isipadu & model silinder (2L – 50L)",
-        "Jenis injap (CGA, GOST, DIN, POL)",
-        "Piawaian pensijilan (ISO, DOT, TPED)",
-        "OEM: warna, penandaan, pembungkusan",
-        "Jumlah pesanan & Incoterms"
+        "Isipadu silinder dan model",
+        "Jenis injap dan standard sambungan",
+        "Piawaian yang diperlukan untuk pasaran destinasi",
+        "Warna OEM, penandaan dan pembungkusan",
+        "Jumlah pesanan dan Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Asetilena WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Silinder asetilena",
+        "moq": "Atas permintaan",
+        "price": "Dipetik setiap pertanyaan",
+        "lead": "Disahkan setiap pesanan"
       },
       {
-        "product": "Asetilena WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Silinder propana / LPG",
+        "moq": "Atas permintaan",
+        "price": "Dipetik setiap pertanyaan",
+        "lead": "Disahkan setiap pesanan"
       },
       {
-        "product": "Propana WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Penjana",
+        "moq": "Atas permintaan",
+        "price": "Dipetik setiap pertanyaan",
+        "lead": "Disahkan setiap pesanan"
       },
       {
-        "product": "Propana WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Penjana WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Set pengawal selia",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Aksesori",
+        "moq": "Atas permintaan",
+        "price": "Dipetik setiap pertanyaan",
+        "lead": "Disahkan setiap pesanan"
       }
     ],
     "tableHeaders": [
       "produk",
       "MOQ",
-      "Harga (EXW)",
+      "harga",
       "Masa Utama"
     ]
   },
   "certifications": {
     "title": "Pensijilan & Piawaian",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Piawaian dan pilihan pensijilan dibincangkan mengikut pasaran produk dan destinasi. Salinan sijil dihantar secara peribadi atas permintaan — fail tidak diterbitkan di tapak web ini.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,39 +1043,39 @@
       },
       {
         "title": "Terima Sebutharga",
-        "desc": "Harga, MOQ, masa utama dan lembaran spesifikasi dalam masa 24 jam"
+        "desc": "Harga, MOQ, masa utama dan helaian spesifikasi selepas semakan oleh pasukan jualan kami"
       },
       {
         "title": "Sahkan Pesanan",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Kontrak dan syarat pembayaran dipersetujui sebelum pengeluaran bermula"
       },
       {
         "title": "Pengeluaran & QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Pembuatan dan ujian. Video dan sijil dihantar secara peribadi atas permintaan"
       },
       {
         "title": "Penghantaran",
-        "desc": "Pembungkusan, dokumen, penghantaran FOB/CIF/DDP"
+        "desc": "Pembungkusan, dokumen dan syarat penghantaran seperti yang dipersetujui dalam pesanan"
       }
     ]
   },
   "testimonials": {
-    "title": "Apa kata pembeli",
+    "title": "Apa yang pembeli katakan",
     "items": [
       {
-        "quote": "Kami memesan semula silinder asetilena 40 L tiga kali tahun ini. Injap GOST, warna OEM dan pembungkusan eksport sentiasa sepadan dengan sampel pertama.",
+        "quote": "Kami memesan semula silinder asetilena 40L tiga kali pada tahun ini. Injap GOST, warna OEM dan pembungkusan eksport sepadan dengan sampel pertama setiap kali.",
         "author": "Rustam Yusupov",
         "role": "Pemilik, pengedar gas kimpalan",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Sebut harga tiba pada hari yang sama dengan MOQ dan masa hantar yang jelas. Botol propana tiba dengan injap POL dan senarai pembungkusan penuh — tiada kelewatan kastam di pihak kami.",
+        "quote": "Sebut harga datang pada hari yang sama dengan MOQ dan masa utama yang jelas. Botol propana tiba dengan injap POL dan senarai pembungkusan penuh — tiada kelewatan kastam di pihak kami.",
         "author": "Aigerim Bekova",
         "role": "Pengurus perolehan, bekalan industri",
         "country": "Kazakhstan"
       },
       {
-        "quote": "Kami membeli silinder bersama pengawal selia dan hos dalam satu pesanan kontena. Dokumen dan penandaan sedia untuk pasaran kami, jadi jualan semula berjalan lancar.",
+        "quote": "Kami membeli silinder dengan pengawal selia dan hos sebagai satu pesanan kontena. Dokumen dan penandaan telah sedia untuk pasaran kami, jadi jualan semula adalah mudah.",
         "author": "Faisal Al-Harbi",
         "role": "Pembeli import, perdagangan peralatan gas",
         "country": "Arab Saudi"
@@ -1062,58 +1132,59 @@
         "id": "kualiti",
         "eyebrow": "Kualiti & keselamatan",
         "title": "Pemeriksaan boleh anda masukkan dalam sebut harga",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Pemeriksaan bahan, ujian kebocoran, tork injap dan gambar pembungkusan. Pek sijil dan laporan foto dihantar secara peribadi atas permintaan.",
         "points": [
           "Ujian tekanan & kebocoran",
-          "Certificate package",
+          "Sijil atas permintaan",
           "Foto pra-penghantaran"
         ]
       },
       {
         "id": "eksport",
         "eyebrow": "Eksport global",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Dikemas untuk pelabuhan, sedia untuk pasaran eksport",
         "text": "Eksport palet, perlindungan injap, label berbilang bahasa dan dokumen penghantaran yang diselaraskan untuk Incoterms destinasi anda.",
         "points": [
           "Sokongan FOB / CIF",
           "Pembungkusan berpalet",
           "Masa utama 15-25 hari"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Silinder gas berbalut dipentaskan di halaman kilang untuk dihantar",
+    "about": "Pekerja di tingkat kilang Wanda Group",
+    "accessories": "Kit aksesori silinder gas — pengawal selia, hos, obor dan kelengkapan",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Silinder asetilena terlarut dengan jisim berliang dan injap loyang",
+      "Penjana asetilena difoto di kilang",
+      "Silinder propana dan LPG dalam pelbagai saiz dan warna",
+      "Kit aksesori kimpalan dan pemotongan untuk silinder gas"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Penghantaran malam: peralatan berbalut dimuatkan pada treler",
+      "Palet dan bahagian logam dipentaskan untuk penghantaran",
+      "Karton stok yang dibungkus disusun di dalam gudang",
+      "Silinder dibalut dengan filem, dipentaskan di halaman kilang",
+      "Penghantar pengeluaran silinder gas di bawah bumbung loji",
+      "Silinder LPG tergantung pada penghantar penamat atas",
+      "Pekerja berjalan di lantai kilang Wanda Group",
+      "Badan silinder propana yang dikimpal yang tidak dicat disusun setinggi dua",
+      "Barisan cengkerang silinder yang tidak dicat di atas lantai konkrit",
+      "Stok tiub silinder dan cengkerang bertutup di bengkel",
+      "Susun badan silinder mentah pada dinding kilang",
+      "Cincin asas keluli dilonggokkan sebelum pemasangan",
+      "Kelengkapan tembaga dibungkus dalam kadbod dengan buih",
+      "Penjana asetilena dengan hos dan aksesori berkotak",
+      "Cengkerang silinder yang tidak dicat dengan leher terbuka selepas dikimpal"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Unit pemeluwapan sejukan udara dengan pemampat separa hermetik Copeland",
+      "Unit pemeluwapan sejukan udara dengan pemampat separa hermetik Bitzer",
+      "Unit pemeluwapan penyejukan gaya kabinet tertutup",
+      "Unit pemeluwapan penyejuk udara empat kipas berkapasiti tinggi"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "sah",
-    "title": "Dasar Privasi",
-    "updated": "Kemas kini terakhir: 25 Ogos 2026",
-    "intro": [
-      "Kumpulan Wanda (“kami”, “kami”) mengendalikan laman web ini untuk membentangkan silinder gas, aksesori dan bekalan eksport yang berkaitan, dan untuk menerima pertanyaan komersial daripada pembeli industri.",
-      "Dasar ini menerangkan data peribadi yang kami kumpul melalui tapak, sebab kami menggunakannya dan cara anda boleh menghubungi kami mengenainya. Kami tidak menerbitkan video kilang atau fail sijil di tapak web; bahan tersebut dihantar secara peribadi atas permintaan."
-    ],
-    "sections": [
-      {
-        "title": "Siapa yang bertanggungjawab",
-        "body": [
-          "Pengawal data peribadi yang dikumpul melalui laman web ini ialah Wanda Group. Untuk permintaan privasi, tulis kepada sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Apakah data yang kami kumpulkan",
-        "body": [
-          "Apabila anda menghantar borang pertanyaan kami menerima data yang anda masukkan: nama, e-mel, telefon, negara destinasi, jenis produk, kuantiti dan mesej.",
-          "Tapak ini juga menyimpan pilihan bahasa anda dalam penyemak imbas (localStorage). Kami tidak menjalankan kuki pengiklanan atau menjual senarai pelawat."
-        ]
-      },
-      {
-        "title": "Mengapa kami menggunakan data",
-        "body": [
-          "Kami menggunakan data pertanyaan hanya untuk membalas permintaan anda, menyediakan sebut harga, menghantar maklumat produk, video atau sijil yang anda minta dan untuk menyelaraskan pesanan jika kami mula bekerjasama.",
-          "Asas undang-undang: persetujuan anda apabila anda menanda kotak pilihan pada borang, dan minat sah kami dalam menjawab permintaan jualan B2B."
-        ]
-      },
-      {
-        "title": "Siapa yang menerima data",
-        "body": [
-          "Mesej anda dihantar kepada pasukan jualan kami melalui e-mel. Bergantung pada konfigurasi, borang boleh diproses oleh Web3Forms sebagai pembekal teknikal yang menghantar mesej kepada kami.",
-          "Kami tidak menjual data peribadi. Kami mungkin berkongsi perkara yang diperlukan dengan logistik, pemeriksaan atau rakan kongsi perbankan hanya jika itu diperlukan untuk memenuhi pesanan yang dipersetujui."
-        ]
-      },
-      {
-        "title": "Berapa lama kita menyimpannya",
-        "body": [
-          "Data pertanyaan disimpan selama yang diperlukan untuk mengendalikan permintaan dan untuk tempoh yang munasabah selepas itu untuk susulan jualan dan perakaunan, melainkan anda meminta kami memadamkannya lebih awal di mana undang-undang membenarkan."
-        ]
-      },
-      {
-        "title": "Hak awak",
-        "body": [
-          "Anda boleh meminta salinan data kami tentang anda, memohon pembetulan atau pemadaman. Anda boleh menarik balik persetujuan untuk susulan pemasaran dengan menulis kepada kami. Untuk hak ini, e-mel sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Keselamatan dan kanak-kanak",
-        "body": [
-          "Kami mengambil langkah teknikal dan organisasi yang munasabah untuk melindungi mesej dalam transit dan dalam peti mel kami. Laman web ini bertujuan untuk pembeli perniagaan, bukan untuk kanak-kanak."
-        ]
-      }
-    ],
-    "contactLead": "Soalan tentang dasar ini:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "sah",
+    "title": "Syarat Penggunaan",
+    "updated": "Kemas kini terakhir: 27 Ogos 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Terma ini mengawal penggunaan wandagroups.com, yang dikendalikan oleh Wanda Group untuk pembeli industri silinder gas, penjana dan aksesori.",
+      "Dengan menyemak imbas tapak atau menghantar pertanyaan, anda bersetuju menerima terma ini dan Dasar Privasi kami. Jika anda tidak bersetuju, jangan gunakan tapak tersebut."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Siapa kita",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Untuk apa laman web itu",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Laman web ini membentangkan maklumat produk dan menerima pertanyaan komersial. Ia bertujuan untuk pembeli perniagaan, bukan untuk pengguna membeli-belah sebagai individu persendirian dan bukan untuk kanak-kanak."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Sebut harga, harga dan pesanan",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Harga, MOQ, masa utama dan spesifikasi di tapak adalah petunjuk. Mesej melalui borang atau messenger adalah pertanyaan, bukan pesanan.",
+          "Kontrak hanya wujud apabila kedua-dua pihak mengesahkan tawaran secara bertulis (e-mel atau dokumen yang ditandatangani) dan deposit yang dipersetujui diterima, melainkan kami menyatakan sebaliknya dalam pengesahan tersebut."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Foto, video dan sijil",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Foto dan video kilang di tapak menggambarkan pengeluaran. Rakaman tambahan dan fail sijil dihantar secara persendirian atas permintaan dan kekal sebagai bahan sulit kami melainkan kami menyatakan anda mungkin berkongsinya."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Harta intelek",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Teks, foto, video, logo dan reka letak di laman web ini adalah milik Kumpulan Wanda atau pemberi lesen kami. Anda tidak boleh menyalin katalog untuk tapak komersial anda sendiri tanpa kebenaran bertulis kami."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Penggunaan yang boleh diterima",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Jangan menyalahgunakan borang pertanyaan (spam, identiti palsu atau percubaan untuk mengganggu tapak). Kami mungkin mengabaikan atau memadamkan permintaan kesat."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Liabiliti",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Kami berhati-hati untuk memastikan maklumat tepat, tetapi tapak mungkin mengandungi ralat atau tidak tersedia buat sementara waktu. Setakat yang dibenarkan oleh undang-undang, Kumpulan Wanda tidak bertanggungjawab ke atas kerugian tidak langsung yang timbul hanya daripada penggunaan laman web.",
+          "Liabiliti untuk kontrak pembekalan sebenar ditetapkan dalam kontrak tersebut dan dalam undang-undang yang terpakai, bukan dalam syarat tapak web ini sahaja."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Perubahan",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Kami mungkin mengemas kini syarat ini. Tarikh di bahagian atas menunjukkan versi semasa. Penggunaan tapak yang berterusan selepas perubahan bermakna anda menerima syarat yang dikemas kini."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Soalan tentang istilah ini:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Barisan produk kami",
+    "title": "Unit penyejukan",
+    "subtitle": "Barisan Kumpulan Wanda yang berasingan — bukan katalog pihak ketiga. Unit pemeluwapan, bilik sejuk dan perkakasan, dibekalkan oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri.",
+    "moreLink": "Peralatan penyimpanan sejuk →",
+    "cta": "Minta sebut harga",
+    "alsoTitle": "Juga disediakan atas permintaan",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Panel bilik sejuk poliuretana (B1 / B2) dan panel tahan karat 304",
+      "Penyejuk udara bilik sejuk — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Gegelung penyejat aluminium",
+      "Pintu bilik sejuk",
+      "Penyejuk air industri",
+      "Unit penyejukan kenderaan dan bilik sejuk mudah alih"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade membekalkan peralatan penyejukan di samping talian silinder gas: unit, panel, penyejuk dan perkakasan rantai sejuk yang berkaitan. Copeland, Bitzer dan nama serupa merujuk kepada jenama pemampat di dalam unit, bukan penjenamaan semula syarikat tersebut.",
+    "videoTitle": "Video syarikat",
+    "videoSubtitle": "Gambaran keseluruhan barisan peralatan penyejukan. Lebih banyak rakaman dihantar secara peribadi atas permintaan.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Unit penyejuk udara separa hermetik Copeland",
+        "spec": "Unit pemeluwapan · Pemampat Copeland",
+        "desc": "Unit pemeluwapan penyejuk udara dengan pemampat separa hermetik Copeland untuk bilik sejuk dan tugas suhu sederhana."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Unit sejukan udara separa hermetik Bitzer",
+        "spec": "Unit pemeluwapan · Pemampat bitzer",
+        "desc": "Unit pemeluwapan sejukan udara dengan pemampat separa hermetik Bitzer untuk bilik suhu tinggi dan sederhana hingga rendah."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Unit jenis kotak tertutup",
+        "spec": "Unit pemeluwapan kabinet",
+        "desc": "Unit pemeluwapan gaya kabinet tertutup untuk tapak yang memerlukan mesin ditempatkan dan bukannya gelincir terbuka."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Unit pemeluwapan jenis U / berkapasiti tinggi",
+        "spec": "Berbilang kipas sejukan udara",
+        "desc": "Unit pemeluwapan penyejuk udara yang lebih besar dengan pemeluwap berbilang kipas untuk stor sejuk yang lebih besar dan proses penyejukan."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Siapa Kita",
+    "title": "Pengilang perindustrian untuk pembeli B2B",
+    "text": "Wanda Groups mengeluarkan dan membekalkan silinder gas industri, penjana dan aksesori kimpalan untuk pengedar luar negara, rakan kongsi OEM dan pembeli projek.",
+    "text2": "Fokus kami ialah bekalan berkaitan kilang, sokongan pemilihan produk, pesanan pukal dan penyelarasan eksport — bukan jualan pengguna runcit.",
+    "cta": "Ketahui Lebih Lanjut Tentang Kami"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Bersedia untuk meminta sebut harga?",
+      "quoteCta": "Minta Sebut Harga",
+      "relatedProducts": "Produk berkaitan",
+      "applications": "Aplikasi",
+      "standardsTitle": "Piawaian & pensijilan",
+      "oemTitle": "OEM / penyesuaian",
+      "packagingTitle": "Pembungkusan & penghantaran",
+      "placeholders": {
+        "standards": "Piawaian dan sijil yang tersedia disahkan setiap pesanan dan pasaran destinasi. Salinan sijil dihantar secara peribadi atas permintaan — fail tidak diterbitkan di tapak web.",
+        "oem": "Pilihan warna, penandaan, injap, penutup dan pembungkusan OEM boleh dibincangkan mengikut pesanan dan pasaran sasaran.",
+        "packaging": "Pembungkusan dan dokumentasi eksport disediakan mengikut pesanan dan syarat penghantaran."
+      }
+    },
+    "home": {
+      "seoTitle": "Pengeluar Silinder Gas | OEM Perindustrian dan Eksport | Kumpulan Wanda",
+      "seoDescription": "Wanda Groups mengeluarkan silinder gas industri, penjana dan aksesori kimpalan untuk pembeli eksport OEM, borong dan antarabangsa."
+    },
+    "about": {
+      "label": "Tentang Kami",
+      "title": "Pengeluar silinder gas untuk pembeli industri",
+      "subtitle": "Kami menyokong pembeli luar negara dengan pemilihan produk, OEM, pemeriksaan, pembungkusan dan penghantaran.",
+      "seoTitle": "Mengenai Kumpulan Wanda",
+      "seoDescription": "Kumpulan Wanda mengeluarkan silinder asetilena, silinder propana, penjana dan aksesori untuk kimpalan, pemotongan dan bekalan gas industri."
+    },
+    "products": {
+      "label": "Produk",
+      "title": "Produk Kami",
+      "subtitle": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+      "seoTitle": "Produk Silinder Gas",
+      "seoDescription": "Silinder asetilena, penjana, silinder propana dan aksesori untuk aplikasi industri dan kimpalan.",
+      "refrigerationNote": "Wanda International Trade membekalkan peralatan penyejukan di samping talian silinder gas: unit, panel, penyejuk dan perkakasan rantai sejuk yang berkaitan. Copeland, Bitzer dan nama serupa merujuk kepada jenama pemampat di dalam unit, bukan penjenamaan semula syarikat tersebut.",
+      "catalog": {
+        "acetylene": {
+          "name": "Silinder asetilena terlarut",
+          "overview": "Silinder keluli dengan jisim berliang dan pelarut untuk penyimpanan dan pengangkutan asetilena yang selamat. Digunakan dalam kimpalan, pemotongan, pematerian dan fabrikasi logam.",
+          "seoTitle": "Silinder Gas Asetilena",
+          "seoDescription": "Silinder keluli dengan jisim berliang dan pelarut untuk penyimpanan dan pengangkutan asetilena yang selamat. Digunakan dalam kimpalan, pemotongan, pematerian dan fabrikasi logam."
+        },
+        "propane": {
+          "name": "Silinder propana",
+          "overview": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, pematerian, pembinaan dan bekalan gas perindustrian.",
+          "seoTitle": "Silinder Gas Propana",
+          "seoDescription": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, pematerian, pembinaan dan bekalan gas perindustrian."
+        },
+        "lpg": {
+          "name": "Silinder LPG",
+          "overview": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, pematerian, pembinaan dan bekalan gas perindustrian.",
+          "seoTitle": "Silinder Gas LPG",
+          "seoDescription": "Silinder untuk campuran propana, butana dan LPG. Digunakan dalam pemanasan, pemotongan, pematerian, pembinaan dan bekalan gas perindustrian."
+        },
+        "industrial": {
+          "name": "Silinder Gas Industri",
+          "overview": "Silinder gas industri untuk kimpalan, pemotongan dan bekalan loji — termasuk asetilena, propana dan pilihan LPG yang dipadankan dengan pasaran anda.",
+          "seoTitle": "Silinder Gas Industri",
+          "seoDescription": "Silinder gas industri untuk kimpalan, pemotongan dan bekalan loji daripada Kumpulan Wanda."
+        },
+        "generators": {
+          "name": "Penjana Asetilena",
+          "overview": "Peralatan untuk menghasilkan asetilena daripada kalsium karbida. Bekalan gas yang stabil untuk keperluan kimpalan dan perindustrian tanpa infrastruktur gas berpusat.",
+          "seoTitle": "Penjana Asetilena",
+          "seoDescription": "Peralatan untuk menghasilkan asetilena daripada kalsium karbida. Bekalan gas yang stabil untuk keperluan kimpalan dan perindustrian tanpa infrastruktur gas berpusat."
+        },
+        "accessories": {
+          "name": "Aksesori & Kelengkapan Silinder",
+          "overview": "Rangkaian lengkap untuk operasi silinder gas yang selamat: daripada tolok kepada obor kimpalan. Perolehan sehenti dengan silinder.",
+          "seoTitle": "Aksesori Kimpalan",
+          "seoDescription": "Rangkaian lengkap untuk operasi silinder gas yang selamat: daripada tolok kepada obor kimpalan. Perolehan sehenti dengan silinder."
+        },
+        "refrigeration": {
+          "name": "Unit penyejukan",
+          "overview": "Barisan Kumpulan Wanda yang berasingan — bukan katalog pihak ketiga. Unit pemeluwapan, bilik sejuk dan perkakasan, dibekalkan oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri.",
+          "seoTitle": "Unit Penyejukan",
+          "seoDescription": "Barisan Kumpulan Wanda yang berasingan — bukan katalog pihak ketiga. Unit pemeluwapan, bilik sejuk dan perkakasan, dibekalkan oleh kami dengan silinder atau sebagai pesanan yang berdiri sendiri."
+        }
+      }
+    },
+    "factory": {
+      "label": "Kilang",
+      "title": "Kilang dan Pembuatan",
+      "subtitle": "Pengeluaran, pemeriksaan, pembungkusan dan penghantaran — didokumenkan dengan fotografi tumbuhan sebenar dan video kilang.",
+      "seoTitle": "Kilang dan Pengeluaran | Kumpulan Wanda",
+      "seoDescription": "Foto tumbuhan sebenar, tangkapan penghantaran langsung dan video pendek dari tingkat pengeluaran.",
+      "sections": [
+        {
+          "title": "Pembuatan",
+          "text": "Pembentukan silinder, kimpalan dan kemasan sebagai sebahagian daripada aliran pengeluaran loji."
+        },
+        {
+          "title": "Proses Pengeluaran",
+          "text": "Daripada penyediaan cangkerang hingga pemasangan dan kemasan — lihat stok dalam proses dan rakaman lantai pengeluaran."
+        },
+        {
+          "title": "Pemeriksaan Kualiti",
+          "text": "Pemeriksaan visual, penandaan dan dimensi menyediakan silinder untuk penghantaran."
+        },
+        {
+          "title": "Menguji",
+          "text": "Ujian tekanan dan kebocoran digunakan sebelum produk meninggalkan barisan, mengikut keperluan pesanan."
+        },
+        {
+          "title": "Pembungkusan",
+          "text": "Pembungkusan eksport melindungi silinder dan kelengkapan untuk pengangkutan ke luar negara."
+        },
+        {
+          "title": "Memuatkan dan Eksport",
+          "text": "Pementasan gudang, memuatkan trak dan dokumentasi penghantaran untuk pesanan keluar."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Pensijilan",
+      "title": "Pensijilan & Piawaian",
+      "subtitle": "Piawaian yang biasa diminta oleh pembeli disenaraikan di bawah. Kebolehgunaan bergantung pada produk dan pasaran destinasi. Salinan sijil, nombor dan kesahihan dikongsi secara tertutup atas permintaan — tidak diterbitkan sebagai tuntutan yang tidak disahkan.",
+      "seoTitle": "Pensijilan dan Piawaian | Kumpulan Wanda",
+      "seoDescription": "Piawaian yang dibincangkan untuk silinder gas Wanda Groups mengikut pasaran. Salinan sijil disediakan secara peribadi atas permintaan.",
+      "note": "Salinan sijil dihantar secara peribadi atas permintaan. Kami tidak menerbitkan fail sijil di tapak web."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM dan Borong",
+      "subtitle": "Label peribadi dan pilihan bekalan pukal untuk pengedar dan pembeli industri.",
+      "seoTitle": "Bekalan Silinder Gas OEM",
+      "seoDescription": "Pengeluaran silinder gas OEM dan label persendirian untuk jenama dan pengedar luar negara.",
+      "quoteTitle": "Bincangkan keperluan OEM",
+      "quoteCta": "Minta Sebut Harga OEM",
+      "capabilities": [
+        {
+          "title": "Logo Tersuai",
+          "text": "Pilihan logo dan penandaan dibincangkan untuk pesanan OEM yang layak."
+        },
+        {
+          "title": "Warna Tersuai",
+          "text": "Warna silinder mengikut keperluan pasaran atau jenama."
+        },
+        {
+          "title": "Pembungkusan Tersuai",
+          "text": "Eksport karton, palet dan tanda pembungkusan mengikut pesanan."
+        },
+        {
+          "title": "Label Peribadi",
+          "text": "Pelabelan dan persembahan jenama untuk saluran pengedar."
+        },
+        {
+          "title": "Pesanan Pukal",
+          "text": "Kuantiti borong untuk perolehan projek dan pengedar."
+        },
+        {
+          "title": "Pembuatan OEM",
+          "text": "Konfigurasi produk sejajar dengan spesifikasi dan pasaran anda."
+        },
+        {
+          "title": "Sokongan Eksport",
+          "text": "Penyelarasan dokumen dan penghantaran untuk penghantaran ke luar negara."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Pasaran",
+      "title": "Pasaran Global",
+      "subtitle": "Kami menyokong pembeli B2B antarabangsa. Kawasan di bawah menerangkan kawasan pertanyaan biasa — negara dan projek tertentu disahkan kes demi kes.",
+      "seoTitle": "Pasaran Global | Eksport Kumpulan Wanda",
+      "seoDescription": "Wanda Groups bekerjasama dengan pembeli industri antarabangsa di seluruh Afrika, Timur Tengah, Asia Tengah, Asia Tenggara, Amerika Latin dan pasaran lain.",
+      "note": "Kami tidak menerbitkan kiraan negara yang tidak disahkan, nama pelanggan atau rujukan projek pada halaman ini.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Pertanyaan industri dan pengedar dari pasaran Afrika."
+        },
+        {
+          "title": "Timur Tengah",
+          "text": "Pembeli mendapatkan silinder dan peralatan berkaitan untuk projek serantau."
+        },
+        {
+          "title": "Asia Tengah",
+          "text": "Perbincangan borong dan pembekalan projek merentasi pasaran Asia Tengah."
+        },
+        {
+          "title": "Asia Tenggara",
+          "text": "Pembeli industri menilai bekalan silinder eksport."
+        },
+        {
+          "title": "Amerika Latin",
+          "text": "Pertanyaan untuk silinder gas industri dan bekalan aksesori."
+        },
+        {
+          "title": "Pasaran Antarabangsa Lain",
+          "text": "Destinasi tambahan disemak mengikut standard produk dan logistik."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Aplikasi",
+      "title": "Aplikasi Silinder",
+      "subtitle": "Produk yang direka untuk tugas gas industri biasa dan keperluan pembeli luar negara.",
+      "seoTitle": "Aplikasi Silinder",
+      "seoDescription": "Produk yang direka untuk tugas gas industri biasa dan keperluan pembeli luar negara.",
+      "items": [
+        {
+          "title": "Kimpalan & Pateri",
+          "text": "asetilena terlarut dan peralatan yang berkaitan untuk kimpalan bengkel dan fabrikasi."
+        },
+        {
+          "title": "Memotong Logam",
+          "text": "Silinder dan aksesori untuk pemotongan bahan api oksi di tapak dan di kilang."
+        },
+        {
+          "title": "Bekalan Gas Perindustrian",
+          "text": "Bekalan silinder untuk pengedaran industri dan sistem gas loji."
+        },
+        {
+          "title": "Pembinaan",
+          "text": "Bekalan gas mudah alih untuk kerja pembinaan dan penyelenggaraan."
+        },
+        {
+          "title": "Fabrikasi Logam",
+          "text": "Silinder dan aksesori untuk kedai fabrikasi dan limbungan kapal."
+        },
+        {
+          "title": "Penyimpanan & Pengagihan Gas",
+          "text": "Silinder sedia storan dan pengedaran untuk pembeli industri."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Soalan Lazim",
+      "title": "Soalan Lazim",
+      "subtitle": "Syarikat, produk, OEM dan eksport — jawapan untuk pembeli luar negara sebelum anda meminta sebut harga.",
+      "seoTitle": "Soalan Lazim",
+      "seoDescription": "Syarikat, produk, OEM dan eksport — jawapan untuk pembeli luar negara sebelum anda meminta sebut harga."
+    },
+    "contactPage": {
+      "label": "Kenalan",
+      "title": "Mari Bincang Keperluan Anda",
+      "subtitle": "Jangkau pasukan jualan kami melalui borang, e-mel atau messenger. Kongsi produk, kuantiti dan destinasi untuk sebut harga yang lebih pantas.",
+      "seoTitle": "Minta Sebut Harga",
+      "seoDescription": "Beritahu kami saiz, kuantiti, negara destinasi dan aplikasi — kami akan menyediakan sebut harga terperinci."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Artikel Terkini",
+      "subtitle": "Kandungan pakar untuk profesional kimpalan dan bekalan gas.",
+      "seoTitle": "Artikel & Panduan",
+      "seoDescription": "Kandungan pakar untuk profesional kimpalan dan bekalan gas.",
+      "coming": "Lebih banyak panduan pembeli dan nota produk akan ditambah di sini. Gunakan artikel di atas atau hubungi kami untuk mendapatkan bahan khusus produk."
+    },
+    "privacy": {
+      "seoTitle": "Dasar Privasi",
+      "seoDescription": "Dasar privasi untuk pertanyaan tapak web Wanda Group dan data peribadi."
+    },
+    "terms": {
+      "seoTitle": "Syarat Penggunaan",
+      "seoDescription": "Syarat penggunaan untuk laman web Kumpulan Wanda."
+    },
+    "notFound": {
+      "seoTitle": "Halaman tidak ditemui",
+      "seoDescription": "Halaman yang anda minta tidak tersedia.",
+      "title": "Halaman tidak ditemui",
+      "text": "Halaman yang anda cari tidak wujud atau telah berpindah.",
+      "home": "Rumah",
+      "products": "Produk",
+      "contact": "Hubungi / Dapatkan Sebut Harga"
+    }
   }
 }

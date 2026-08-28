@@ -1,56 +1,56 @@
 {
   "nav": {
-    "products": "ผลิตภัณฑ์",
+    "home": "บ้าน",
+    "products": "สินค้า",
     "specs": "ข้อมูลจำเพาะ",
     "applications": "การใช้งาน",
-    "about": "เกี่ยวกับเรา",
-    "gallery": "แกลเลอรี",
+    "about": "เกี่ยวกับ",
+    "gallery": "แกลเลอรี่",
+    "factory": "โรงงาน",
     "quality": "คุณภาพ",
     "faq": "คำถามที่พบบ่อย",
     "contact": "ติดต่อ",
-    "getQuote": "ขอใบเสนอราคา",
+    "getQuote": "รับใบเสนอราคา",
     "inquire": "สอบถาม →",
     "services": "บริการ",
     "pricing": "ราคา",
     "accessories": "เครื่องประดับ",
-    "home": "บ้าน",
-    "factory": "โรงงาน",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "ห้องเย็น",
+    "cooling": "ระบายความร้อน",
+    "certifications": "การรับรอง",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "ตลาด"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "ผลิตถังแก๊สอุตสาหกรรม",
+    "title": "ผลิตถังแก๊สและอุปกรณ์อุตสาหกรรม",
+    "subtitle": "ผลิต OEM และขายส่งถังอะเซทิลีน ถังโพรเพน/LPG เครื่องกำเนิดไฟฟ้า และอุปกรณ์การเชื่อมสำหรับผู้ซื้อส่งออกต่างประเทศ",
+    "lineGas": "ถังแก๊ส",
+    "lineCold": "หน่วยทำความเย็น",
+    "cta": "รับใบเสนอราคา",
+    "ctaSecondary": "ดูผลิตภัณฑ์",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "อุปทานที่เน้นผู้ผลิต"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "ป้ายกำกับส่วนตัวและการปรับแต่ง"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "การสนับสนุนการขนส่งระหว่างประเทศ"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "กระบวนการตรวจสอบและทดสอบ"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "ตัวเลือกเฉพาะตลาดตามคำขอ"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "อุปกรณ์เสริมถังแก๊สที่วางใจได้",
@@ -59,219 +59,231 @@
   },
   "products": {
     "title": "ผลิตภัณฑ์ของเรา",
-    "subtitle": "ถังอะเซทิลีน เครื่องผลิตแก๊ส ถังโพรเพน และอุปกรณ์เสริมสำหรับการใช้งานในอุตสาหกรรมและการเชื่อม",
+    "subtitle": "กระบอกอะเซทิลีน เครื่องกำเนิดไฟฟ้า กระบอกโพรเพน และอุปกรณ์เสริมสำหรับงานอุตสาหกรรมและงานเชื่อม",
+    "viewDetails": "ดูรายละเอียด",
     "items": [
       {
-        "title": "ถังอะเซทิลีน",
-        "desc": "ถังอะเซทิลีนละลายสำหรับการเชื่อม การตัด และแก๊สอุตสาหกรรม มีหลายขนาดและตัวเลือกวาล์ว",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "title": "กระบอกอะเซทิลีน",
+        "spec": "2L–40L · มาตรฐาน ได้รับการยืนยันตามตลาด",
+        "desc": "กระบอกอะเซทิลีนละลายน้ำสำหรับการเชื่อม การตัด และการจ่ายก๊าซอุตสาหกรรม",
+        "icon": "🔥"
       },
       {
-        "title": "เครื่องผลิตอะเซทิลีน",
-        "desc": "อุปกรณ์สำหรับการผลิตแก๊สที่เสถียร ใช้งานง่าย และการใช้งานในอุตสาหกรรม",
-        "icon": "⚙️",
-        "spec": "ระบบการผลิตทางอุตสาหกรรม"
+        "title": "เครื่องกำเนิดอะเซทิลีน",
+        "spec": "ระบบการผลิตทางอุตสาหกรรม",
+        "desc": "อุปกรณ์สำหรับการผลิตอะเซทิลีนที่เสถียรทั้งในสถานที่และในโรงงาน",
+        "icon": "⚙️"
       },
       {
-        "title": "ถังโพรเพน",
-        "desc": "ถังทนทานสำหรับโพรเพนและ LPG — การจัดเก็บ การทำความร้อน การตัด และการใช้งานในอุตสาหกรรม",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "title": "กระบอกโพรเพน",
+        "spec": "ตัวเลือกวาล์ว 3L–50L · ต่อตลาด",
+        "desc": "ถัง LPG ทนทานสำหรับให้ความร้อน การตัด และการใช้งานในอุตสาหกรรม",
+        "icon": "🛢️"
       },
       {
-        "title": "อุปกรณ์เสริมถัง",
-        "desc": "ท่อ เกจ หัวตัด หัวเชื่อม วาล์วนิรภัย และอื่นๆ",
-        "icon": "🔧",
-        "spec": "วาล์ว · ตัวควบคุม · ท่อ · คบเพลิง"
+        "title": "อุปกรณ์เสริมกระบอกสูบ",
+        "spec": "วาล์ว · ตัวควบคุม · ท่อ · คบเพลิง",
+        "desc": "อุปกรณ์จับคู่ที่มาพร้อมกับกระบอกสูบหรือสั่งแยกต่างหาก",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "ดูรายละเอียด"
+    ]
   },
   "specs": {
     "title": "ข้อมูลจำเพาะทางเทคนิค",
-    "subtitle": "สำรวจตัวเลือกถัง ความสามารถในการปรับแต่ง และรายละเอียดการจัดส่งก่อนส่งคำสอบถาม",
+    "subtitle": "สำรวจตัวเลือกกระบอกสูบ ความสามารถในการปรับแต่ง และรายละเอียดการจัดส่งก่อนส่งคำถาม",
     "items": [
       {
-        "title": "ความจุถัง",
-        "desc": "ตัวเลือกความจุและปริมาตรต่างๆ ตามการใช้งานและข้อกำหนดของตลาด"
+        "title": "ความจุกระบอกสูบ",
+        "desc": "ตัวเลือกความจุและปริมาตรต่างๆ ขึ้นอยู่กับการใช้งานและความต้องการของตลาด"
       },
       {
-        "title": "วาล์วและฝาครอบ",
-        "desc": "วาล์ว ฝาครอบ และข้อต่อจัดหาตามความต้องการของลูกค้าและโครงการ"
+        "title": "วาล์วและฝาปิด",
+        "desc": "วาล์ว ฝาครอบ และอุปกรณ์ต่างๆ จัดให้ตามความต้องการของลูกค้าและโครงการ"
       },
       {
         "title": "ตัวเลือกตัวทำละลาย",
-        "desc": "ระบบวัสดุเติมรูพรุนและตัวทำละลายสำหรับการจัดเก็บอะเซทิลีนที่เสถียร"
+        "desc": "ระบบตัวเติมที่มีรูพรุนและตัวทำละลายเพื่อการจัดเก็บอะเซทิลีนที่เสถียร"
       },
       {
         "title": "บรรจุภัณฑ์และการจัดส่ง",
-        "desc": "บรรจุภัณฑ์ส่งออกและการสนับสนุนการจัดส่งสำหรับผู้จัดจำหน่ายและลูกค้าโครงการ"
+        "desc": "การสนับสนุนด้านบรรจุภัณฑ์และการขนส่งการส่งออกสำหรับผู้จัดจำหน่ายและลูกค้าโครงการ"
       }
     ]
   },
   "applications": {
-    "title": "การใช้งานถัง",
-    "subtitle": "ผลิตภัณฑ์ออกแบบสำหรับงานแก๊สอุตสาหกรรมทั่วไปและข้อกำหนดของผู้ซื้อต่างประเทศ",
+    "title": "การใช้งานกระบอกสูบ",
+    "subtitle": "ผลิตภัณฑ์ที่ออกแบบมาสำหรับงานก๊าซอุตสาหกรรมทั่วไปและข้อกำหนดของผู้ซื้อในต่างประเทศ",
     "items": [
-      "การเชื่อมและบัดกรีแข็ง",
+      "การเชื่อมและการประสาน",
       "การตัดโลหะ",
-      "ระบบจ่ายแก๊สอุตสาหกรรม",
+      "การจัดหาก๊าซอุตสาหกรรม",
       "การก่อสร้าง",
-      "การแปรรูปโลหะ",
-      "การจัดเก็บและการกระจายแก๊ส"
+      "การผลิตโลหะ",
+      "การจัดเก็บและการจำหน่ายก๊าซ"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "เหตุใดจึงเลือกกลุ่มแวนด้า",
+    "subtitle": "ความสามารถที่เป็นรูปธรรมสำหรับผู้ซื้อภาคอุตสาหกรรมในการประเมินคู่ค้าด้านการผลิต",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "อุปทานที่เน้นผู้ผลิต",
+        "desc": "การจัดหาผลิตภัณฑ์ที่เน้นการผลิต ไม่ใช่แค่แค็ตตาล็อกการค้าเท่านั้น"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "การสนับสนุน OEM",
+        "desc": "สีที่กำหนดเอง การทำเครื่องหมาย วาล์ว และการบรรจุจะกล่าวถึงตามคำสั่งซื้อ"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "การควบคุมคุณภาพ",
+        "desc": "การตรวจสอบตั้งแต่วัสดุจนถึงการบรรจุก่อนจัดส่ง"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "การส่งออกระหว่างประเทศ",
+        "desc": "ประสานงานการแพ็คสินค้าส่งออกและจัดส่งสำหรับผู้ซื้อจากต่างประเทศ"
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "การปรับแต่งผลิตภัณฑ์",
+        "desc": "ข้อมูลจำเพาะที่ปรับให้เข้ากับความต้องการของตลาดและการใช้งาน"
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "การสนับสนุนการขายที่ตอบสนอง",
+        "desc": "การเสนอราคาและการตอบกลับทางเทคนิคผ่านแบบฟอร์ม อีเมล และระบบส่งข้อความ"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "ความสามารถในการสั่งซื้อจำนวนมาก",
+        "desc": "ปริมาณขายส่งที่รองรับสำหรับผู้จัดจำหน่ายและผู้ซื้อโครงการ"
       }
     ]
   },
   "about": {
-    "title": "ผู้ผลิตถังแก๊สมืออาชีพ",
-    "text": "Wanda Group Gas Cylinder Manufacturer เชี่ยวชาญในการผลิตและจัดหาถังแก๊สอุตสาหกรรมและอุปกรณ์เสริมที่เกี่ยวข้อง ผลิตภัณฑ์ของเราใช้กันอย่างแพร่หลายในการเชื่อม การตัด การกระจายแก๊ส การจัดเก็บในอุตสาหกรรม และสาขาการจ่ายแก๊สอื่นๆ",
-    "text2": "เราสนับสนุนผู้ซื้อต่างประเทศในการเลือกผลิตภัณฑ์ การปรับแต่ง การตรวจสอบคุณภาพ บรรจุภัณฑ์ และการประสานงานการจัดส่ง",
+    "title": "ผู้ผลิตถังแก๊สสำหรับผู้ซื้ออุตสาหกรรม",
+    "text": "Wanda Group ผลิตถังอะเซทิลีน ถังโพรเพน เครื่องกำเนิดไฟฟ้า และอุปกรณ์เสริมสำหรับการเชื่อม การตัด และการจัดหาก๊าซอุตสาหกรรม",
+    "text2": "เราสนับสนุนผู้ซื้อในต่างประเทศด้วยการเลือกผลิตภัณฑ์ OEM การตรวจสอบ การบรรจุ และการจัดส่ง",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "การผลิต",
+        "desc": "การขึ้นรูป การเชื่อม การทดสอบ และการตกแต่งขั้นสุดท้ายสำหรับถังแก๊สอุตสาหกรรม"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "การสนับสนุน OEM",
+        "desc": "ตัวเลือกสี การทำเครื่องหมาย วาล์ว ฝาปิด และการบรรจุตามลำดับ"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "กระบวนการที่มีคุณภาพ",
+        "desc": "การตรวจสอบและทดสอบสอดคล้องกับคำสั่งซื้อและข้อกำหนดของตลาด"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "การส่งออกระหว่างประเทศ",
+        "desc": "การสนับสนุนด้านเอกสารและการบรรจุสำหรับผู้ซื้ออุตสาหกรรมในต่างประเทศ"
       }
     ]
   },
   "gallery": {
     "title": "ภายในโรงงานของเรา",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "ภาพถ่ายโรงงานจริง การถ่ายภาพการจัดส่งแบบสดๆ และวิดีโอสั้นๆ จากพื้นที่การผลิต",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "ส่งของกลางคืน",
+        "desc": "รถพ่วงขนของออกมาพร้อมกับอุปกรณ์ที่พันไว้ — เวลาและสถานที่ประทับอยู่ในช็อต"
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "สินค้าถูกจัดเตรียมเพื่อการขนส่ง",
+        "desc": "พาเลทและชิ้นส่วนที่รวบรวมเพื่อจัดส่ง รูปภาพในโกดังสด ไม่ใช่ชุดสตูดิโอ"
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "สต๊อกแน่น",
+        "desc": "กล่องซ้อนกันอยู่ในโกดัง พร้อมสำหรับการสั่งซื้อครั้งต่อไป"
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "บรรจุเพื่อจัดส่ง",
+        "desc": "กระบอกสูบถูกห่อและจัดแสดงในลานโรงงานเพื่อจัดส่ง"
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "สายพานลำเลียงการผลิต",
+        "desc": "ตัวกระบอกสูบเคลื่อนที่ผ่านสายการขึ้นรูปและการจัดการ"
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "เส้นชัยแอลพีจี",
+        "desc": "ถัง LPG ทาสีบนสายพานลำเลียงก่อนบรรจุ"
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "ภายในโรงงาน",
+        "desc": "ฝ่ายผลิต ได้แก่ คน เครื่องจักร และสต็อกระหว่างดำเนินการ"
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "ตัวถังเชื่อม",
+        "desc": "เปลือกหลังการเชื่อมตามเส้นรอบวง ก่อนทาสีและวาล์ว"
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "เปลือกหอยก่อนทาสี",
+        "desc": "ชิ้นส่วนที่ไม่ได้ทาสีถูกกองไว้บนพื้นเพื่อขั้นตอนถัดไป"
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "สต็อกอยู่ระหว่างดำเนินการ",
+        "desc": "ส่วนท่อและเปลือกหุ้มรอการประกอบ"
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "กระบอกสูบในสต็อก",
+        "desc": "เปลือกที่ม้วนแล้วซ้อนกันหลังการเชื่อม ก่อนหัวและวาล์ว"
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "วงแหวนฐาน",
+        "desc": "วงแหวนตีนผีที่เตรียมไว้สำหรับการเชื่อมบนเปลือกกระบอกสูบ"
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "อุปกรณ์บรรจุ",
+        "desc": "วาล์วและฟิตติ้งบรรจุกล่องด้วยโฟมเพื่อการส่งออก"
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "เครื่องกำเนิดอะเซทิลีน",
+        "desc": "เครื่องกำเนิดไฟฟ้าพร้อมสายยางและอุปกรณ์พร้อมออกจากโรงงาน"
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "เปลือกหอยบนพื้น",
+        "desc": "ตัวคอเปิดหลังการเชื่อม — แบทช์ก่อนประกอบวาล์ว"
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "วิดีโอโรงงาน",
+    "videosSubtitle": "กางเกงขาสั้นใหม่จากพื้นโรงงาน ภาพเพิ่มเติมจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ"
   },
   "quality": {
     "title": "การควบคุมคุณภาพ",
     "subtitle": "ทุกชุดเป็นไปตามเส้นทางเดียวกัน: การผลิต การทดสอบ การตรวจสอบ และการควบคุมคุณภาพขั้นสุดท้าย",
     "steps": [
       {
-        "title": "การผลิต",
-        "desc": "การขึ้นรูป การเชื่อม และการประกอบภายใต้การควบคุมกระบวนการของโรงงาน"
+        "title": "วัตถุดิบ",
+        "desc": "วัสดุที่เข้ามามีการตรวจสอบตามข้อกำหนดของคำสั่งซื้อและกระบวนการ"
       },
       {
-        "title": "การทดสอบ",
-        "desc": "การทดสอบแรงดันและรอยรั่วก่อนที่กระบอกสูบจะออกจากสายการผลิต"
+        "title": "การผลิต",
+        "desc": "การขึ้นรูป การเชื่อม และการประกอบภายใต้การควบคุมกระบวนการของโรงงาน"
       },
       {
         "title": "การตรวจสอบ",
         "desc": "การตรวจสอบด้วยสายตา การทำเครื่องหมาย และมิติเทียบกับคำสั่งซื้อ"
       },
       {
+        "title": "การทดสอบ",
+        "desc": "การทดสอบแรงดันและรอยรั่วก่อนที่กระบอกสูบจะออกจากสายการผลิต"
+      },
+      {
         "title": "การควบคุมคุณภาพขั้นสุดท้าย",
-        "desc": "การตรวจสอบการบรรจุก่อนส่งออก"
+        "desc": "การควบคุมคุณภาพขั้นสุดท้ายก่อนปล่อยบรรจุ"
+      },
+      {
+        "title": "บรรจุภัณฑ์",
+        "desc": "บรรจุภัณฑ์ส่งออกที่เตรียมไว้สำหรับการขนส่ง"
+      },
+      {
+        "title": "การจัดส่ง",
+        "desc": "กำลังโหลดและจัดส่งเอกสารสำหรับคำสั่งซื้อขาออก"
       }
     ]
   },
   "faq": {
     "title": "คำถามที่พบบ่อย",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "บริษัท ผลิตภัณฑ์ OEM และการส่งออก — คำตอบสำหรับผู้ซื้อในต่างประเทศก่อนที่คุณจะขอใบเสนอราคา",
     "cta": "ไม่พบคำถามของคุณ? ส่งสินค้า ขนาด ปริมาณ และประเทศปลายทาง — เราจะตอบกลับพร้อมข้อเสนอโดยละเอียด",
     "ctaBtn": "รับใบเสนอราคา",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "วิดีโอและเอกสาร",
         "items": [
           {
             "q": "ฉันสามารถดูวิดีโอโรงงานก่อนทำการสั่งซื้อได้หรือไม่",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "ใช่. ชมวิดีโอการผลิตในส่วนโรงงานในหน้านี้ ฟุตเทจเพิ่มเติม คลิปบรรจุหีบห่อ และใบรับรองจะถูกส่งแบบส่วนตัวเมื่อมีการร้องขอ"
           },
           {
             "q": "คุณมีวิดีโอเกี่ยวกับผลิตภัณฑ์ โดยเฉพาะอย่างยิ่งสำหรับกระบอกอะเซทิลีนหรือไม่",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "ใช่. วิดีโอ ภาพถ่าย และข้อมูลโดยละเอียดเกี่ยวกับถังอะเซทิลีนจะถูกส่งเป็นการส่วนตัวตามคำขอของคุณ"
           },
           {
             "q": "คุณสามารถแสดงวิดีโอการผลิตและการควบคุมคุณภาพได้หรือไม่?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "ใช่. วิดีโอการผลิต การตรวจสอบคุณภาพ การบรรจุ และการจัดเก็บคลังสินค้าที่มีอยู่จะถูกส่งแบบส่วนตัว เพื่อให้คุณสามารถดูวิธีการเตรียมผลิตภัณฑ์ได้"
           },
           {
             "q": "ฉันสามารถขอวิดีโอผลิตภัณฑ์ที่สร้างขึ้นสำหรับคำสั่งซื้อเฉพาะเจาะจงได้หรือไม่",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "สำหรับคำสั่งซื้อเฉพาะหรือข้อกำหนดผลิตภัณฑ์ โปรดติดต่อเรา เราจะหารือเกี่ยวกับการสนับสนุนทางวิดีโอและส่งเอกสารเป็นการส่วนตัว"
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "ฉันจะรับวิดีโอ ใบรับรอง และใบเสนอราคาได้อย่างไร",
+            "a": "ในแบบฟอร์มสอบถาม ให้ระบุประเภทผลิตภัณฑ์ ขนาดกระบอกสูบ ปริมาณ ประเทศปลายทาง และสิ่งที่ต้องส่ง: วิดีโอ ใบรับรอง หรือทั้งสองอย่าง เราจะส่งเป็นการส่วนตัวและเตรียมข้อเสนอ"
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "คุณสามารถให้รูปถ่ายผลิตภัณฑ์และข้อมูลจำเพาะได้หรือไม่?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "ใช่. รูปถ่ายผลิตภัณฑ์ ข้อมูลจำเพาะ และเอกสารข้อมูลจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ"
           },
           {
             "q": "ฉันจะได้รับใบเสนอราคาสำหรับอุปกรณ์เสริมได้อย่างไร?",
@@ -396,109 +408,171 @@
   },
   "articles": {
     "title": "บทความล่าสุด",
-    "subtitle": "เนื้อหาจากผู้เชี่ยวชาญสำหรับมืออาชีพด้านการเชื่อมและระบบจ่ายแก๊ส",
+    "subtitle": "เนื้อหาผู้เชี่ยวชาญสำหรับผู้เชี่ยวชาญด้านการเชื่อมและการจัดหาก๊าซ",
     "readMore": "อ่านเพิ่มเติม →",
     "close": "ปิด",
     "items": [
       {
         "tag": "ช่างฝีมือ",
-        "title": "โซลูชันจัดหาถังโพรเพนครบวงจร",
-        "desc": "ความเสถียรของอุปกรณ์ส่งผลโดยตรงต่อประสิทธิภาพงานเชื่อมและตัด",
+        "title": "โซลูชันการจัดหาถังโพรเพนแบบสมบูรณ์",
+        "desc": "ความเสถียรของอุปกรณ์ส่งผลโดยตรงต่อประสิทธิภาพการทำงานของการเชื่อมและการตัด",
         "body": [
-          "สำหรับช่างฝีมือที่เชื่อม ซ่อม และแปรรูปโลหะทุกวัน อุปกรณ์แก๊สที่เสถียรส่งผลโดยตรงต่อคุณภาพและความเร็วของงาน",
-          "ถังโพรเพน Wanda Group มีขนาดตั้งแต่ 3L ถึง 50L พร้อมวาล์ว POL, CGA 510 หรือ GOST ตามตลาดของคุณ — ผู้จัดหาหนึ่งรายสำหรับการเชื่อม การตัด และการทำความร้อน",
-          "เราแนะนำให้สั่งถังพร้อมเรกูเลเตอร์ ท่อ และหัวเชื่อม การจัดหาแบบชุดลดต้นทุนโลจิสติกส์และรับประกันความเข้ากันได้ของอุปกรณ์เสริม",
-          "เมื่อสั่งซื้อ ระบุตลาดเป้าหมาย ปริมาตร ประเภทวาล์ว และสี — เราจัดเตรียมการมาร์ก OEM และบรรจุภัณฑ์ส่งออกภายใต้แบรนด์ของคุณ"
+          "สำหรับช่างฝีมือที่เชื่อม ซ่อมแซม และแปรรูปโลหะทุกวัน อุปกรณ์แก๊สที่มีความเสถียรจะส่งผลโดยตรงต่อคุณภาพและความเร็วของงาน",
+          "กระบอกสูบโพรเพนของ Wanda Group มีจำหน่ายตั้งแต่ 3 ลิตรถึง 50 ลิตร พร้อมด้วยวาล์ว POL, CGA 510 หรือ GOST ขึ้นอยู่กับตลาดของคุณ — ซัพพลายเออร์รายหนึ่งสำหรับการเชื่อม การตัด และการทำความร้อน",
+          "เราขอแนะนำให้สั่งซื้อกระบอกสูบพร้อมกับตัวควบคุม ท่อ และคบเพลิง การจัดหาแบบมัดรวมช่วยลดต้นทุนด้านลอจิสติกส์และรับประกันความเข้ากันได้ของอุปกรณ์เสริม",
+          "เมื่อสั่งซื้อ ให้ระบุตลาดเป้าหมาย ปริมาณ ประเภทวาล์ว และสี — เราเตรียมเครื่องหมาย OEM และบรรจุภัณฑ์ส่งออกภายใต้แบรนด์ของคุณ"
         ]
       },
       {
-        "tag": "การจัดเก็บ",
-        "title": "เคล็ดลับการจัดเก็บถังอะเซทิลีนระยะยาว",
-        "desc": "เงื่อนไขการจัดเก็บ วิธีวาง และการตรวจสอบเป็นประจำสำหรับถังที่ไม่ได้ใช้งาน",
+        "tag": "พื้นที่จัดเก็บ",
+        "title": "เคล็ดลับการจัดเก็บกระบอกอะเซทิลีนในระยะยาว",
+        "desc": "สภาพการเก็บรักษา วิธีการจัดวาง และการตรวจสอบกระบอกสูบที่ไม่ได้ใช้เป็นประจำ",
         "body": [
-          "บริษัทหลายแห่งจัดเก็บถังอะเซทิลีนและโพรเพนในช่วงหยุดผลิตหรือเป็นสินค้าคงคลัง ถังที่ไม่ได้ใช้งานยังต้องจัดการอย่างเหมาะสม",
-          "จัดเก็บถังในแนวตั้งในพื้นที่ระบายอากาศดี ห่างจากแหล่งความร้อนและแสงแดดโดยตรง อุณหภูมิการจัดเก็บโดยทั่วไปไม่ควรเกิน 40–50°C",
-          "ตรวจสอบวาล์ว ฝาครอบ และการมาร์กอย่างน้อยทุกไตรมาส สำหรับการจัดเก็บอะเซทิลีนระยะยาว ให้เก็บถังในแนวตั้งและอย่าให้เอียง",
-          "Wanda Group จัดส่งถังพร้อมฝาครอบป้องกันและบรรจุภัณฑ์ส่งออกที่ออกแบบเพื่อการขนส่งและการเก็บในคลังอย่างปลอดภัย คู่มือการจัดเก็บมีให้ในภาษาของคุณตามคำขอ"
+          "บริษัทหลายแห่งจัดเก็บถังอะเซทิลีนและโพรเพนระหว่างช่วงพักการผลิตหรือเป็นสินค้าคงคลัง กระบอกสูบที่ไม่ได้ใช้ยังคงต้องมีการจัดการที่เหมาะสม",
+          "เก็บถังตั้งตรงในบริเวณที่มีการระบายอากาศดี ห่างจากแหล่งความร้อนและแสงแดดโดยตรง โดยทั่วไปอุณหภูมิในการจัดเก็บไม่ควรเกิน 40–50°C",
+          "ตรวจสอบวาล์ว ฝาครอบ และเครื่องหมายอย่างน้อยไตรมาสละครั้ง สำหรับการจัดเก็บอะเซทิลีนในระยะยาว ให้ตั้งถังไว้ในแนวตั้งและอย่าให้เอียง",
+          "Wanda Group จัดส่งกระบอกสูบพร้อมฝาปิดป้องกันและบรรจุภัณฑ์ส่งออกที่ออกแบบมาเพื่อการขนส่งและคลังสินค้าที่ปลอดภัย คู่มือการจัดเก็บมีให้บริการในภาษาของคุณตามคำขอ"
         ]
       },
       {
         "tag": "ราคา",
         "title": "คู่มืองบประมาณสำหรับการซื้อถังอะเซทิลีน",
-        "desc": "ปัจจัยที่มีผลต่อต้นทุนและวิธีเลือกข้อเสนอที่เหมาะสมที่สุด",
+        "desc": "ปัจจัยที่ส่งผลต่อต้นทุนและวิธีเลือกข้อเสนอที่เหมาะสมที่สุด",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "รวมค่าขนส่ง (FOB/CIF) เอกสาร และ MOQ ด้วย เราตอบกลับภายใน 24 ชั่วโมงพร้อมข้อมูลจำเพาะครบถ้วน ระยะเวลานำส่ง และ Incoterms",
-          "สำหรับใบเสนอราคาที่แน่นอน ให้ระบุรุ่น ปริมาณ ประเทศปลายทาง และข้อกำหนดวาล์วในแบบฟอร์มติดต่อ — หรืออีเมล sales@wandagroups.com"
+          "ราคากระบอกอะเซทิลีนขึ้นอยู่กับปริมาณ ประเภทของวาล์ว มาตรฐานที่จำเป็นสำหรับตลาดปลายทางของคุณ และปริมาณการสั่งซื้อ เราไม่เผยแพร่รายการราคาคงที่บนเว็บไซต์",
+          "ตัวเลือก OEM และล็อตที่ใหญ่กว่า (การทาสี โลโก้ การบรรจุ) จะถูกเสนอราคาแยกกันหลังจากที่เราตรวจสอบคำถามของคุณแล้ว",
+          "เงื่อนไขการจัดส่ง (FOB/CIF และที่คล้ายกัน) เอกสารและระยะเวลารอคอยสินค้าได้รับการยืนยันในใบเสนอราคาอย่างเป็นทางการ",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "ขอใบเสนอราคา",
-    "subtitle": "บอกเราขนาด ปริมาณ ประเทศปลายทาง และการใช้งาน — เราจะจัดทำใบเสนอราคาโดยละเอียด",
+    "title": "มาหารือเกี่ยวกับความต้องการของคุณกันดีกว่า",
+    "subtitle": "บอกเราเกี่ยวกับผลิตภัณฑ์ ขนาด ปริมาณ ประเทศปลายทาง และข้อมูลจำเพาะ — ทีมขายของเราจะตอบกลับพร้อมข้อมูลผลิตภัณฑ์และใบเสนอราคา",
     "formTitle": "ขอใบเสนอราคา",
-    "formSubtitle": "ระบุความต้องการของคุณ — ทีมขายของเราจะตอบกลับด้วยข้อมูลผลิตภัณฑ์ ราคา MOQ และระยะเวลานำส่ง",
+    "formSubtitle": "กรอกแบบฟอร์มเพื่อสอบถามข้อมูลเชิงพาณิชย์ ช่องที่ต้องกรอกถูกทำเครื่องหมายไว้",
     "name": "ชื่อ",
+    "company": "บริษัท",
     "phone": "โทรศัพท์ / WhatsApp",
     "email": "อีเมล",
     "product": "ผลิตภัณฑ์",
-    "quantity": "ปริมาณ",
-    "country": "ประเทศปลายทาง",
+    "quantity": "ปริมาณ (ไม่จำเป็น)",
+    "country": "ประเทศปลายทาง (ไม่บังคับ)",
     "productOptions": [
-      "ถังอะเซทิลีน",
-      "ถังโพรเพน",
-      "เครื่องผลิตอะเซทิลีน",
-      "อุปกรณ์เสริม",
-      "สั่งซื้อแบบชุด",
-      "Cold storage / refrigeration"
+      "กระบอกอะเซทิลีน",
+      "กระบอกโพรเพน",
+      "เครื่องกำเนิดอะเซทิลีน",
+      "เครื่องประดับ",
+      "ห้องเย็น/เครื่องทำความเย็น",
+      "สั่งซื้อเป็นชุด"
     ],
-    "message": "ความต้องการเพิ่มเติม",
-    "messagePlaceholder": "ผลิตภัณฑ์ ขนาด ปริมาณ ประเทศปลายทาง...",
+    "quantityPlaceholder": "เช่น 200 ชิ้น 1 คอนเทนเนอร์ หรือ TBD",
+    "countryPlaceholder": "สินค้าจะจัดส่งไปที่ไหน.",
+    "message": "ข้อกำหนดเพิ่มเติม",
+    "messagePlaceholder": "สินค้า ขนาด ปริมาณ ประเทศปลายทาง...",
     "submit": "ส่งคำถาม",
     "sending": "กำลังส่ง...",
     "success": "ขอบคุณ! เราจะติดต่อคุณในไม่ช้า",
-    "sendAnother": "ส่งคำสอบถามอีกครั้ง",
-    "errorGeneric": "ส่งไม่สำเร็จ กรุณาลองอีกครั้งหรืออีเมลถึงเราโดยตรง",
-    "errorNoForm": "แบบฟอร์มยังไม่ได้ตั้งค่า กรุณาอีเมล sales@wandagroups.com",
+    "sendAnother": "ส่งคำถามอื่น",
+    "errorGeneric": "ไม่สามารถส่งได้ โปรดลองอีกครั้งหรือส่งอีเมลถึงเราโดยตรง",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "ส่งผ่านแอปอีเมล",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
     "privacyPrefix": "ฉันเห็นด้วยกับ",
     "privacySuffix": "และการประมวลผลข้อมูลส่วนบุคคลของฉันเพื่อจัดการกับคำถามนี้",
     "privacyLink": "นโยบายความเป็นส่วนตัว",
-    "company": "บริษัท",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "ส่งผ่านแอปอีเมล",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "termsAnd": "และ",
+    "termsLink": "เงื่อนไขการใช้งาน",
+    "requirements": "ข้อกำหนด / ข้อมูลจำเพาะ",
+    "requirementsPlaceholder": "ประเภทของวาล์ว สี มาตรฐาน การบรรจุ เครื่องหมาย OEM บันทึกปริมาณ..."
   },
   "footer": {
     "company": "ผู้ผลิตถังแก๊ส Wanda Group",
-    "tagline": "การผลิตถังแก๊สมืออาชีพ",
-    "rights": "© 2026 Wanda Group. สงวนลิขสิทธิ์ทั้งหมด",
+    "tagline": "การผลิตถังแก๊สแบบมืออาชีพ",
+    "rights": "© 2026 แวนด้า กรุ๊ป สงวนลิขสิทธิ์.",
     "privacy": "นโยบายความเป็นส่วนตัว",
-    "terms": "Terms of Use"
+    "terms": "เงื่อนไขการใช้งาน"
+  },
+  "privacy": {
+    "label": "ถูกกฎหมาย",
+    "title": "นโยบายความเป็นส่วนตัว",
+    "updated": "อัปเดตล่าสุด: 25 สิงหาคม 2569",
+    "intro": [
+      "Wanda Group (“เรา”, “พวกเรา”) ดำเนินการเว็บไซต์นี้เพื่อนำเสนอถังแก๊ส อุปกรณ์เสริม และอุปทานส่งออกที่เกี่ยวข้อง และเพื่อรับคำถามเชิงพาณิชย์จากผู้ซื้อในอุตสาหกรรม",
+      "นโยบายนี้อธิบายว่าข้อมูลส่วนบุคคลใดบ้างที่เรารวบรวมผ่านเว็บไซต์ เหตุใดเราจึงใช้ข้อมูลดังกล่าว และคุณจะติดต่อเราเกี่ยวกับข้อมูลดังกล่าวได้อย่างไร วิดีโอการผลิตของโรงงานแสดงอยู่ในเว็บไซต์นี้ ไฟล์ใบรับรองจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ"
+    ],
+    "sections": [
+      {
+        "title": "ใครเป็นผู้รับผิดชอบ",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "ข้อมูลใดที่เราเก็บรวบรวม",
+        "body": [
+          "เมื่อคุณส่งแบบฟอร์มสอบถาม เราได้รับข้อมูลที่คุณป้อน: ชื่อ อีเมล โทรศัพท์ ประเทศปลายทาง ประเภทผลิตภัณฑ์ ปริมาณ และข้อความ",
+          "ไซต์นี้ยังจัดเก็บตัวเลือกภาษาของคุณในเบราว์เซอร์ (localStorage) เราไม่ใช้งานคุกกี้โฆษณาหรือขายรายชื่อผู้เยี่ยมชม"
+        ]
+      },
+      {
+        "title": "เหตุใดเราจึงใช้ข้อมูล",
+        "body": [
+          "เราใช้ข้อมูลการสอบถามเพื่อตอบกลับคำขอของคุณ เตรียมใบเสนอราคา ส่งข้อมูลผลิตภัณฑ์ วิดีโอ หรือใบรับรองที่คุณขอ และเพื่อประสานงานคำสั่งซื้อหากเราเริ่มทำงานร่วมกัน",
+          "พื้นฐานทางกฎหมาย: ความยินยอมของคุณเมื่อคุณทำเครื่องหมายในช่องบนแบบฟอร์ม และประโยชน์โดยชอบด้วยกฎหมายของเราในการตอบคำขอขาย B2B"
+        ]
+      },
+      {
+        "title": "ใครรับข้อมูล",
+        "body": [
+          "ข้อความของคุณถูกส่งไปยังทีมขายของเราทางอีเมล แบบฟอร์มนี้ได้รับการประมวลผลโดย Web3Forms ซึ่งเป็นผู้ให้บริการด้านเทคนิคที่ส่งข้อความถึงเรา",
+          "เราไม่ขายข้อมูลส่วนบุคคล เราอาจแบ่งปันสิ่งที่จำเป็นกับพันธมิตรด้านลอจิสติกส์ การตรวจสอบ หรือธนาคารเฉพาะในกรณีที่จำเป็นต้องปฏิบัติตามคำสั่งซื้อที่ตกลงไว้เท่านั้น"
+        ]
+      },
+      {
+        "title": "นานแค่ไหนที่เราเก็บมันไว้",
+        "body": [
+          "ข้อมูลการสอบถามจะถูกเก็บไว้นานเท่าที่จำเป็นเพื่อจัดการกับคำขอและในระยะเวลาที่เหมาะสมหลังจากนั้นสำหรับการติดตามการขายและการบัญชี เว้นแต่คุณจะขอให้เราลบออกก่อนที่กฎหมายจะอนุญาต"
+        ]
+      },
+      {
+        "title": "สิทธิของคุณ",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "รปภ.และลูกๆ",
+        "body": [
+          "เราดำเนินการตามขั้นตอนด้านเทคนิคและองค์กรที่เหมาะสมเพื่อปกป้องข้อความระหว่างทางและในกล่องจดหมายของเรา เว็บไซต์นี้มีไว้สำหรับผู้ซื้อที่เป็นธุรกิจ ไม่ใช่สำหรับเด็ก"
+        ]
+      }
+    ],
+    "contactLead": "คำถามเกี่ยวกับนโยบายนี้:"
   },
   "ui": {
     "catalog": "แคตตาล็อก",
-    "catalogTitle": "ข้อมูลจำเพาะผลิตภัณฑ์โดยละเอียด",
-    "catalogSubtitle": "ข้อมูลทางเทคนิคครบถ้วน รุ่น และพารามิเตอร์สำหรับแต่ละหมวดหมู่ เลือกผลิตภัณฑ์เพื่อดูตารางข้อมูลจำเพาะ",
-    "requestPrice": "ขอราคาสำหรับรุ่นนี้",
+    "catalogTitle": "ข้อมูลจำเพาะของผลิตภัณฑ์โดยละเอียด",
+    "catalogSubtitle": "กรอกข้อมูลทางเทคนิค โมเดล และพารามิเตอร์สำหรับแต่ละหมวดหมู่ให้ครบถ้วน เลือกผลิตภัณฑ์เพื่อดูตารางข้อมูลจำเพาะ",
+    "requestPrice": "ขอราคารุ่นนี้",
     "services": "บริการ",
     "pricing": "ราคา",
-    "getExactQuote": "ขอใบเสนอราคาที่แน่นอน",
+    "getExactQuote": "รับใบเสนอราคาที่แน่นอน",
     "certifications": "การรับรอง",
-    "order": "สั่งซื้อ",
+    "order": "คำสั่ง",
     "reviews": "รีวิว",
     "contact": "ติดต่อ",
     "phone": "โทรศัพท์",
     "location": "ที่ตั้ง",
-    "quoteResponse": "การตอบใบเสนอราคา",
-    "support": "การสนับสนุน",
+    "quoteResponse": "ตอบกลับใบเสนอราคา",
+    "support": "สนับสนุน",
+    "countriesServed": "รองรับการส่งออก",
     "exportReady": "พร้อมส่งออก",
     "years": "ปี",
     "acetylene": "อะเซทิลีน",
-    "isoCertified": "รับรอง ISO",
-    "globalExport": "ส่งออกทั่วโลก",
+    "isoCertified": "ได้รับการรับรองมาตรฐาน ISO",
+    "globalExport": "การส่งออกทั่วโลก",
     "products": "สินค้า",
     "specs": "ข้อมูลจำเพาะ",
     "applications": "การใช้งาน",
@@ -508,17 +582,25 @@
     "quality": "คุณภาพ",
     "faq": "คำถามที่พบบ่อย",
     "blog": "บล็อก",
-    "countriesServed": "ประเทศที่ให้บริการ",
     "searchLanguage": "ค้นหาภาษา...",
-    "noLanguagesFound": "ไม่พบภาษา"
+    "noLanguagesFound": "ไม่พบภาษา",
+    "breadcrumb": "เกล็ดขนมปัง",
+    "primaryNav": "หลัก",
+    "menu": "เมนู",
+    "playVideo": "เล่นวิดีโอ",
+    "productGallery": "แกลเลอรี่สินค้า",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM/ฉลากส่วนตัว",
+    "การส่งออกระหว่างประเทศ",
+    "การควบคุมคุณภาพ",
+    "มาตรฐานตลาดตามคำขอ",
+    "คำสั่งซื้อจำนวนมาก"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "การรับรอง",
-        "desc": "Documents for customs and regulators.",
+        "desc": "เอกสารสำหรับศุลกากรและหน่วยงานกำกับดูแล สำเนาจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS และใบรับรองคุณภาพ",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "การกำหนดราคาและเงื่อนไขการจัดหา",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "เงื่อนไขการค้าได้รับการยืนยันตามการสอบถาม ส่งรายละเอียดผลิตภัณฑ์ ปริมาณ และปลายทางเพื่อรับใบเสนอราคาอย่างเป็นทางการ",
+    "note": "เราไม่เผยแพร่รายการราคาคงที่ ขั้นต่ำ หรือระยะเวลารอคอยสินค้าบนเว็บไซต์นี้ ข้อกำหนดทางการค้าที่แน่นอนจะได้รับการยืนยันในใบเสนอราคาหลังจากที่เราตรวจสอบข้อกำหนดของคุณแล้ว",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "ราคา",
+        "value": "ตามคำขอ",
+        "desc": "ใบเสนอราคาอย่างเป็นทางการหลังจากการตรวจสอบการสอบถาม"
       },
       {
-        "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "label": "ขั้นต่ำ",
+        "value": "ได้รับการยืนยันตามคำสั่งซื้อ",
+        "desc": "ขึ้นอยู่กับรุ่นและปลายทาง"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "เวลานำ",
+        "value": "ได้รับการยืนยันตามคำสั่งซื้อ",
+        "desc": "แบ่งปันด้วยใบเสนอราคา"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "การชำระเงิน",
+        "value": "ตกลงกันในสัญญา",
+        "desc": "เงื่อนไขได้รับการยืนยันก่อนการผลิต"
       }
     ],
     "factors": {
-      "title": "ปัจจัยด้านราคา",
+      "title": "สิ่งที่ส่งผลต่อใบเสนอราคา",
       "items": [
-        "ปริมาตรและรุ่นกระบอกสูบ (2 ลิตร – 50 ลิตร)",
-        "ประเภทวาล์ว (CGA, GOST, DIN, POL)",
-        "การรับรองมาตรฐาน (ISO, DOT, TPED)",
-        "OEM: สี การทำเครื่องหมาย บรรจุภัณฑ์",
+        "ปริมาตรกระบอกสูบและรุ่น",
+        "ประเภทของวาล์วและมาตรฐานการเชื่อมต่อ",
+        "มาตรฐานที่จำเป็นสำหรับตลาดปลายทาง",
+        "สี เครื่องหมาย และบรรจุภัณฑ์ OEM",
         "ปริมาณการสั่งซื้อและ Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "อะเซทิลีน WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "กระบอกอะเซทิลีน",
+        "moq": "ตามคำขอ",
+        "price": "อ้างต่อการสอบถาม",
+        "lead": "ได้รับการยืนยันตามคำสั่งซื้อ"
       },
       {
-        "product": "อะเซทิลีน WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "ถังโพรเพน/แอลพีจี",
+        "moq": "ตามคำขอ",
+        "price": "อ้างต่อการสอบถาม",
+        "lead": "ได้รับการยืนยันตามคำสั่งซื้อ"
       },
       {
-        "product": "โพรเพน WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "เครื่องกำเนิดไฟฟ้า",
+        "moq": "ตามคำขอ",
+        "price": "อ้างต่อการสอบถาม",
+        "lead": "ได้รับการยืนยันตามคำสั่งซื้อ"
       },
       {
-        "product": "โพรเพน WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "เครื่องปั่นไฟ WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "ชุดเรกูเลเตอร์",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "เครื่องประดับ",
+        "moq": "ตามคำขอ",
+        "price": "อ้างต่อการสอบถาม",
+        "lead": "ได้รับการยืนยันตามคำสั่งซื้อ"
       }
     ],
     "tableHeaders": [
       "ผลิตภัณฑ์",
       "ขั้นต่ำ",
-      "ราคา (EXW)",
+      "ราคา",
       "เวลานำ"
     ]
   },
   "certifications": {
     "title": "การรับรองและมาตรฐาน",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "ตัวเลือกมาตรฐานและการรับรองจะมีการหารือกันตามผลิตภัณฑ์และตลาดปลายทาง สำเนาใบรับรองจะถูกส่งแบบส่วนตัวตามคำขอ — ไฟล์จะไม่ถูกเผยแพร่บนเว็บไซต์นี้",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "รับใบเสนอราคา",
-        "desc": "ราคา, MOQ, เวลานำและแผ่นข้อมูลจำเพาะภายใน 24 ชั่วโมง"
+        "desc": "ราคา ขั้นต่ำ เวลานำ และเอกสารข้อมูลจำเพาะหลังจากตรวจสอบโดยทีมขายของเรา"
       },
       {
         "title": "ยืนยันการสั่งซื้อ",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "สัญญาและเงื่อนไขการชำระเงินที่ตกลงกันก่อนเริ่มการผลิต"
       },
       {
         "title": "การผลิตและการควบคุมคุณภาพ",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "การผลิตและการทดสอบ วิดีโอและใบรับรองจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ"
       },
       {
         "title": "การจัดส่ง",
-        "desc": "บรรจุภัณฑ์ เอกสาร การจัดส่ง FOB/CIF/DDP"
+        "desc": "การบรรจุภัณฑ์ เอกสาร และเงื่อนไขการจัดส่งตามที่ตกลงกันในการสั่งซื้อ"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "สิ่งที่ผู้ซื้อพูด",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "เราจัดลำดับกระบอกสูบอะเซทิลีนขนาด 40 ลิตรใหม่สามครั้งในปีนี้ วาล์ว GOST สี OEM และบรรจุภัณฑ์ส่งออกตรงกับตัวอย่างแรกทุกครั้ง",
+        "author": "รุสตัม ยูซูปอฟ",
+        "role": "เจ้าของกิจการจำหน่ายแก๊สเชื่อม",
+        "country": "อุซเบกิสถาน"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "ใบเสนอราคามาในวันเดียวกันโดยมีปริมาณขั้นต่ำและเวลาดำเนินการที่ชัดเจน ขวดโพรเพนมาพร้อมกับวาล์ว POL และรายการบรรจุภัณฑ์ที่ครบถ้วน ฝั่งของเราไม่มีความล่าช้าด้านศุลกากร",
+        "author": "ไอเกริม เบโควา",
+        "role": "ผู้จัดการฝ่ายจัดซื้อ ฝ่ายจัดหาอุตสาหกรรม",
+        "country": "คาซัคสถาน"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "เราซื้อกระบอกสูบที่มีตัวควบคุมและสายยางเป็นคำสั่งซื้อคอนเทนเนอร์เดียว เอกสารและการทำเครื่องหมายพร้อมสำหรับตลาดของเราแล้ว ดังนั้นการขายต่อจึงตรงไปตรงมา",
+        "author": "ไฟซาล อัล-ฮาร์บี",
+        "role": "นำเข้าผู้ซื้อซื้อขายอุปกรณ์แก๊ส",
+        "country": "ซาอุดีอาระเบีย"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "คุณภาพ",
         "eyebrow": "คุณภาพและความปลอดภัย",
         "title": "การตรวจสอบคุณสามารถใส่ใบเสนอราคาได้",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "การตรวจสอบวัสดุ การทดสอบการรั่วไหล แรงบิดของวาล์ว และรูปถ่ายการบรรจุ ชุดใบรับรองและรายงานภาพถ่ายจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ",
         "points": [
           "การทดสอบแรงดันและการรั่วไหล",
-          "Certificate package",
+          "ใบรับรองตามคำขอ",
           "ภาพถ่ายก่อนจัดส่ง"
         ]
       },
       {
         "id": "ส่งออก",
         "eyebrow": "การส่งออกทั่วโลก",
-        "title": "บรรจุไว้สำหรับท่าเรือ พร้อมสำหรับกว่า 50 ประเทศ",
+        "title": "บรรจุลงท่าเรือพร้อมส่งออกตลาด",
         "text": "ส่งออกพาเลท อุปกรณ์ป้องกันวาล์ว ฉลากหลายภาษา และเอกสารการจัดส่งที่ประสานงานสำหรับ Incoterms ปลายทางของคุณ",
         "points": [
           "รองรับ FOB / CIF",
           "บรรจุพาเลท",
           "ระยะเวลาดำเนินการ 15-25 วัน"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "ถังแก๊สแบบห่อถูกจัดแสดงในลานโรงงานเพื่อจัดส่ง",
+    "about": "คนงานในโรงงาน Wanda Group",
+    "accessories": "ชุดอุปกรณ์เสริมถังแก๊ส — ตัวควบคุม ท่อ คบเพลิง และข้อต่อ",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "กระบอกอะเซทิลีนละลายน้ำมีมวลเป็นรูพรุนและวาล์วทองเหลือง",
+      "เครื่องกำเนิดอะเซทิลีนถ่ายภาพที่โรงงาน",
+      "ถังโพรเพนและ LPG มีหลายขนาดและหลายสี",
+      "ชุดอุปกรณ์เชื่อมและตัดถังแก๊ส"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "การจัดส่งตอนกลางคืน: อุปกรณ์ที่ห่อไว้บนรถพ่วง",
+      "พาเลทและชิ้นส่วนโลหะที่จัดเตรียมไว้สำหรับการขนส่ง",
+      "ลังบรรจุสต็อกซ้อนกันในโกดัง",
+      "กระบอกสูบถูกห่อด้วยฟิล์ม จัดแสดงในลานโรงงาน",
+      "สายพานลำเลียงผลิตถังแก๊สใต้หลังคาโรงงาน",
+      "ถัง LPG แขวนอยู่บนสายพานลำเลียงตกแต่งเหนือศีรษะ",
+      "คนงานกำลังเดินอยู่ในโรงงานของ Wanda Group",
+      "ตัวกระบอกโพรเพนเชื่อมที่ไม่ทาสีซ้อนกันสูงสองระดับ",
+      "แถวของเปลือกทรงกระบอกที่ไม่ได้ทาสีบนพื้นคอนกรีต",
+      "สต็อกท่อกระบอกสูบและเปลือกหุ้มในเวิร์กช็อป",
+      "ซ้อนตัวถังดิบกับผนังโรงงาน",
+      "วงแหวนฐานเหล็กซ้อนกันก่อนการประกอบ",
+      "อุปกรณ์ทองเหลืองบรรจุในกล่องโฟม",
+      "เครื่องกำเนิดอะเซทิลีนพร้อมสายยางและอุปกรณ์เสริมชนิดบรรจุกล่อง",
+      "เปลือกทรงกระบอกที่ไม่ทาสีและมีคอเปิดหลังการเชื่อม"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "ชุดควบแน่นระบายความร้อนด้วยอากาศพร้อมคอมเพรสเซอร์กึ่งสุญญากาศโคปแลนด์",
+      "ยูนิตควบแน่นระบายความร้อนด้วยอากาศพร้อมคอมเพรสเซอร์กึ่งสุญญากาศ Bitzer",
+      "หน่วยควบแน่นทำความเย็นแบบตู้ปิด",
+      "คอนเดนซิ่งยูนิตระบายความร้อนด้วยอากาศสี่พัดลมความจุสูง"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "ถูกกฎหมาย",
-    "title": "นโยบายความเป็นส่วนตัว",
-    "updated": "อัปเดตล่าสุด: 25 สิงหาคม 2569",
-    "intro": [
-      "Wanda Group (“เรา”, “พวกเรา”) ดำเนินการเว็บไซต์นี้เพื่อนำเสนอถังแก๊ส อุปกรณ์เสริม และอุปทานส่งออกที่เกี่ยวข้อง และเพื่อรับคำถามเชิงพาณิชย์จากผู้ซื้อในอุตสาหกรรม",
-      "นโยบายนี้อธิบายว่าข้อมูลส่วนบุคคลใดบ้างที่เรารวบรวมผ่านเว็บไซต์ เหตุใดเราจึงใช้ข้อมูลดังกล่าว และคุณจะติดต่อเราเกี่ยวกับข้อมูลดังกล่าวได้อย่างไร เราไม่เผยแพร่วิดีโอจากโรงงานหรือไฟล์ใบรับรองบนเว็บไซต์ วัสดุเหล่านั้นจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ"
-    ],
-    "sections": [
-      {
-        "title": "ใครเป็นผู้รับผิดชอบ",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "ข้อมูลใดที่เราเก็บรวบรวม",
-        "body": [
-          "เมื่อคุณส่งแบบฟอร์มสอบถาม เราได้รับข้อมูลที่คุณป้อน: ชื่อ อีเมล โทรศัพท์ ประเทศปลายทาง ประเภทผลิตภัณฑ์ ปริมาณ และข้อความ",
-          "ไซต์นี้ยังจัดเก็บตัวเลือกภาษาของคุณในเบราว์เซอร์ (localStorage) เราไม่ใช้งานคุกกี้โฆษณาหรือขายรายชื่อผู้เยี่ยมชม"
-        ]
-      },
-      {
-        "title": "เหตุใดเราจึงใช้ข้อมูล",
-        "body": [
-          "เราใช้ข้อมูลการสอบถามเพื่อตอบกลับคำขอของคุณ เตรียมใบเสนอราคา ส่งข้อมูลผลิตภัณฑ์ วิดีโอ หรือใบรับรองที่คุณขอ และเพื่อประสานงานคำสั่งซื้อหากเราเริ่มทำงานร่วมกัน",
-          "พื้นฐานทางกฎหมาย: ความยินยอมของคุณเมื่อคุณทำเครื่องหมายในช่องบนแบบฟอร์ม และประโยชน์โดยชอบด้วยกฎหมายของเราในการตอบคำขอขาย B2B"
-        ]
-      },
-      {
-        "title": "ใครรับข้อมูล",
-        "body": [
-          "ข้อความของคุณถูกส่งไปยังทีมขายของเราทางอีเมล ขึ้นอยู่กับการกำหนดค่า แบบฟอร์มอาจได้รับการประมวลผลโดย Web3Forms ในฐานะผู้ให้บริการด้านเทคนิคที่ส่งข้อความถึงเรา",
-          "เราไม่ขายข้อมูลส่วนบุคคล เราอาจแบ่งปันสิ่งที่จำเป็นกับพันธมิตรด้านลอจิสติกส์ การตรวจสอบ หรือธนาคารเฉพาะในกรณีที่จำเป็นต้องปฏิบัติตามคำสั่งซื้อที่ตกลงไว้เท่านั้น"
-        ]
-      },
-      {
-        "title": "นานแค่ไหนที่เราเก็บมันไว้",
-        "body": [
-          "ข้อมูลการสอบถามจะถูกเก็บไว้นานเท่าที่จำเป็นเพื่อจัดการกับคำขอและในระยะเวลาที่เหมาะสมหลังจากนั้นสำหรับการติดตามการขายและการบัญชี เว้นแต่คุณจะขอให้เราลบออกก่อนที่กฎหมายจะอนุญาต"
-        ]
-      },
-      {
-        "title": "สิทธิของคุณ",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "รปภ.และลูกๆ",
-        "body": [
-          "เราดำเนินการตามขั้นตอนด้านเทคนิคและองค์กรที่เหมาะสมเพื่อปกป้องข้อความระหว่างทางและในกล่องจดหมายของเรา เว็บไซต์นี้มีไว้สำหรับผู้ซื้อที่เป็นธุรกิจ ไม่ใช่สำหรับเด็ก"
-        ]
-      }
-    ],
-    "contactLead": "คำถามเกี่ยวกับนโยบายนี้:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "ถูกกฎหมาย",
+    "title": "เงื่อนไขการใช้งาน",
+    "updated": "อัปเดตล่าสุด: 27 สิงหาคม 2569",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "ข้อกำหนดเหล่านี้ควบคุมการใช้งาน wandagroups.com ซึ่งดำเนินการโดย Wanda Group สำหรับผู้ซื้อถังแก๊ส เครื่องกำเนิดไฟฟ้า และอุปกรณ์เสริมในอุตสาหกรรม",
+      "โดยการเรียกดูเว็บไซต์หรือส่งคำถามแสดงว่าคุณยอมรับข้อกำหนดเหล่านี้และนโยบายความเป็นส่วนตัวของเรา หากคุณไม่เห็นด้วยอย่าใช้เว็บไซต์"
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "พวกเราคือใคร",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "เว็บไซต์มีไว้เพื่ออะไร",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "เว็บไซต์นำเสนอข้อมูลผลิตภัณฑ์และรับข้อซักถามทางการค้า มีไว้สำหรับผู้ซื้อที่เป็นธุรกิจ ไม่ใช่สำหรับผู้บริโภคที่ช็อปปิ้งในฐานะบุคคลธรรมดา และไม่ใช่สำหรับเด็ก"
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "การเสนอราคา ราคา และการสั่งซื้อ",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "ราคา ขั้นต่ำ เวลานำ และข้อกำหนดบนเว็บไซต์เป็นตัวบ่งชี้ การส่งข้อความผ่านแบบฟอร์มหรือ Messenger เป็นการสอบถาม ไม่ใช่คำสั่ง",
+          "สัญญาจะเกิดขึ้นก็ต่อเมื่อทั้งสองฝ่ายยืนยันข้อเสนอเป็นลายลักษณ์อักษร (อีเมลหรือเอกสารที่ลงนาม) และได้รับเงินมัดจำที่ตกลงกันไว้ เว้นแต่เราจะระบุไว้เป็นอย่างอื่นในการยืนยันนั้น"
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "ภาพถ่าย วิดีโอ และใบรับรอง",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "ภาพถ่ายและวิดีโอจากโรงงานบนเว็บไซต์แสดงให้เห็นถึงการผลิต ไฟล์ฟุตเทจและใบรับรองเพิ่มเติมจะถูกส่งแบบส่วนตัวเมื่อมีการร้องขอ และยังคงเป็นเนื้อหาที่เป็นความลับของเรา เว้นแต่เราจะบอกว่าคุณสามารถแบ่งปันได้"
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "ทรัพย์สินทางปัญญา",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "ข้อความ รูปภาพ วิดีโอ โลโก้ และเค้าโครงบนเว็บไซต์นี้เป็นของ Wanda Group หรือผู้อนุญาตของเรา คุณไม่สามารถคัดลอกแค็ตตาล็อกสำหรับไซต์เชิงพาณิชย์ของคุณเองโดยไม่ได้รับความยินยอมเป็นลายลักษณ์อักษรจากเรา"
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "การใช้งานที่ยอมรับได้",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "อย่าใช้แบบฟอร์มสอบถามในทางที่ผิด (สแปม ข้อมูลระบุตัวตนที่เป็นเท็จ หรือความพยายามในการรบกวนไซต์) เราอาจเพิกเฉยหรือลบคำขอที่ไม่เหมาะสม"
         ]
       },
       {
-        "title": "Liability",
+        "title": "ความรับผิด",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "เราดูแลให้ข้อมูลถูกต้อง แต่ไซต์อาจมีข้อผิดพลาดหรือใช้งานไม่ได้ชั่วคราว ภายในขอบเขตที่กฎหมายอนุญาต Wanda Group จะไม่รับผิดชอบต่อความสูญเสียทางอ้อมที่เกิดขึ้นจากการใช้งานเว็บไซต์เท่านั้น",
+          "ความรับผิดสำหรับสัญญาการจัดหาจริงถูกกำหนดไว้ในสัญญานั้นและในกฎหมายที่บังคับใช้ ไม่ใช่ในข้อกำหนดของเว็บไซต์เหล่านี้เพียงอย่างเดียว"
         ]
       },
       {
-        "title": "Changes",
+        "title": "การเปลี่ยนแปลง",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "เราอาจปรับปรุงข้อกำหนดเหล่านี้ วันที่ด้านบนแสดงเวอร์ชันปัจจุบัน การใช้ไซต์ต่อไปหลังจากการเปลี่ยนแปลงหมายความว่าคุณยอมรับข้อกำหนดที่อัปเดต"
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "คำถามเกี่ยวกับข้อกำหนดเหล่านี้:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "สายผลิตภัณฑ์ของเรา",
+    "title": "หน่วยทำความเย็น",
+    "subtitle": "กลุ่ม Wanda Group ที่แยกจากกัน — ไม่ใช่แค็ตตาล็อกของบุคคลที่สาม หน่วยควบแน่น ห้องเย็น และฮาร์ดแวร์ จัดส่งโดยเราพร้อมกระบอกสูบหรือสั่งซื้อแบบแยกเดี่ยว",
+    "moreLink": "อุปกรณ์ห้องเย็น →",
+    "cta": "ขอใบเสนอราคา",
+    "alsoTitle": "นอกจากนี้ยังมีตามคำขอ",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "แผงห้องเย็นโพลียูรีเทน (B1/B2) และแผงสแตนเลส 304",
+      "เครื่องทำความเย็นด้วยอากาศในห้องเย็น — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "คอยล์เย็นอลูมิเนียม",
+      "ประตูห้องเย็น",
+      "เครื่องทำน้ำเย็นอุตสาหกรรม",
+      "หน่วยทำความเย็นยานพาหนะและห้องเย็นเคลื่อนที่"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade จัดหาอุปกรณ์ทำความเย็นควบคู่ไปกับสายถังแก๊ส: หน่วย แผง เครื่องทำความเย็น และฮาร์ดแวร์โซ่เย็นที่เกี่ยวข้อง Copeland, Bitzer และชื่อที่คล้ายกันหมายถึงแบรนด์คอมเพรสเซอร์ภายในหน่วย ไม่ใช่การรีแบรนด์ของบริษัทเหล่านั้น",
+    "videoTitle": "วิดีโอของบริษัท",
+    "videoSubtitle": "ภาพรวมของสายอุปกรณ์ทำความเย็น ภาพเพิ่มเติมจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "ระบายความร้อนด้วยอากาศแบบกึ่งสุญญากาศโคปแลนด์",
+        "spec": "เครื่องควบแน่น · คอมเพรสเซอร์โคปแลนด์",
+        "desc": "ยูนิตควบแน่นระบายความร้อนด้วยอากาศพร้อมคอมเพรสเซอร์กึ่งสุญญากาศโคปแลนด์สำหรับห้องเย็นและงานอุณหภูมิปานกลาง"
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer ระบายความร้อนด้วยอากาศกึ่งสุญญากาศ",
+        "spec": "เครื่องควบแน่น · คอมเพรสเซอร์ Bitzer",
+        "desc": "ยูนิตควบแน่นระบายความร้อนด้วยอากาศพร้อมคอมเพรสเซอร์กึ่งสุญญากาศ Bitzer สำหรับห้องที่มีอุณหภูมิสูงและปานกลางถึงต่ำ"
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "หน่วยชนิดกล่องปิด",
+        "spec": "ตู้คอนเดนซิ่งยูนิต",
+        "desc": "ยูนิตควบแน่นแบบตู้แบบปิดสำหรับไซต์งานที่ต้องการเครื่องจักรในโรงเรือน แทนที่จะเป็นระบบไถลแบบเปิด"
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "ยูนิตควบแน่นชนิด U / ความจุสูง",
+        "spec": "พัดลมหลายตัวระบายความร้อนด้วยอากาศ",
+        "desc": "ยูนิตควบแน่นระบายความร้อนด้วยอากาศขนาดใหญ่ขึ้นพร้อมคอนเดนเซอร์แบบหลายพัดลมสำหรับห้องเย็นขนาดใหญ่และการทำความเย็นในกระบวนการ"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "พวกเราคือใคร",
+    "title": "ผู้ผลิตอุตสาหกรรมสำหรับผู้ซื้อ B2B",
+    "text": "Wanda Groups ผลิตและจำหน่ายถังแก๊สอุตสาหกรรม เครื่องกำเนิดไฟฟ้า และอุปกรณ์การเชื่อมสำหรับผู้จัดจำหน่ายในต่างประเทศ พันธมิตร OEM และผู้ซื้อโครงการ",
+    "text2": "จุดมุ่งเน้นของเราคือการจัดหาที่เชื่อมโยงกับโรงงาน การสนับสนุนการเลือกผลิตภัณฑ์ การสั่งซื้อจำนวนมาก และการประสานงานการส่งออก ไม่ใช่การขายของผู้บริโภครายย่อย",
+    "cta": "เรียนรู้เพิ่มเติมเกี่ยวกับเรา"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "พร้อมที่จะขอใบเสนอราคาแล้วหรือยัง?",
+      "quoteCta": "ขอใบเสนอราคา",
+      "relatedProducts": "สินค้าที่เกี่ยวข้อง",
+      "applications": "การใช้งาน",
+      "standardsTitle": "มาตรฐานและการรับรอง",
+      "oemTitle": "OEM/การปรับแต่ง",
+      "packagingTitle": "บรรจุภัณฑ์และการจัดส่ง",
+      "placeholders": {
+        "standards": "มาตรฐานและใบรับรองที่มีอยู่ได้รับการยืนยันตามคำสั่งซื้อและตลาดปลายทาง สำเนาใบรับรองจะถูกส่งแบบส่วนตัวตามคำขอ — ไฟล์จะไม่ถูกเผยแพร่บนเว็บไซต์",
+        "oem": "ตัวเลือกสี การทำเครื่องหมาย วาล์ว ฝาปิด และการบรรจุของ OEM สามารถพูดคุยได้ตามลำดับและตลาดเป้าหมาย",
+        "packaging": "บรรจุภัณฑ์และเอกสารส่งออกจัดทำขึ้นตามคำสั่งซื้อและเงื่อนไขการจัดส่ง"
+      }
+    },
+    "home": {
+      "seoTitle": "ผู้ผลิตถังแก๊ส | OEM อุตสาหกรรมและการส่งออก | แวนด้า กรุ๊ป",
+      "seoDescription": "Wanda Groups ผลิตถังแก๊สอุตสาหกรรม เครื่องกำเนิดไฟฟ้า และอุปกรณ์การเชื่อมสำหรับผู้ซื้อ OEM การขายส่ง และการส่งออกระหว่างประเทศ"
+    },
+    "about": {
+      "label": "เกี่ยวกับเรา",
+      "title": "ผู้ผลิตถังแก๊สสำหรับผู้ซื้ออุตสาหกรรม",
+      "subtitle": "เราสนับสนุนผู้ซื้อในต่างประเทศด้วยการเลือกผลิตภัณฑ์ OEM การตรวจสอบ การบรรจุ และการจัดส่ง",
+      "seoTitle": "เกี่ยวกับแวนด้า กรุ๊ป",
+      "seoDescription": "Wanda Group ผลิตถังอะเซทิลีน ถังโพรเพน เครื่องกำเนิดไฟฟ้า และอุปกรณ์เสริมสำหรับการเชื่อม การตัด และการจัดหาก๊าซอุตสาหกรรม"
+    },
+    "products": {
+      "label": "สินค้า",
+      "title": "ผลิตภัณฑ์ของเรา",
+      "subtitle": "กระบอกอะเซทิลีน เครื่องกำเนิดไฟฟ้า กระบอกโพรเพน และอุปกรณ์เสริมสำหรับงานอุตสาหกรรมและงานเชื่อม",
+      "seoTitle": "ผลิตภัณฑ์ถังแก๊ส",
+      "seoDescription": "กระบอกอะเซทิลีน เครื่องกำเนิดไฟฟ้า กระบอกโพรเพน และอุปกรณ์เสริมสำหรับงานอุตสาหกรรมและงานเชื่อม",
+      "refrigerationNote": "Wanda International Trade จัดหาอุปกรณ์ทำความเย็นควบคู่ไปกับสายถังแก๊ส: หน่วย แผง เครื่องทำความเย็น และฮาร์ดแวร์โซ่เย็นที่เกี่ยวข้อง Copeland, Bitzer และชื่อที่คล้ายกันหมายถึงแบรนด์คอมเพรสเซอร์ภายในหน่วย ไม่ใช่การรีแบรนด์ของบริษัทเหล่านั้น",
+      "catalog": {
+        "acetylene": {
+          "name": "ถังอะเซทิลีนที่ละลายน้ำ",
+          "overview": "ถังเหล็กที่มีมวลเป็นรูพรุนและตัวทำละลายเพื่อการจัดเก็บและขนส่งอะเซทิลีนที่ปลอดภัย ใช้ในการเชื่อม การตัด การประสาน และการผลิตโลหะ",
+          "seoTitle": "ถังแก๊สอะเซทิลีน",
+          "seoDescription": "ถังเหล็กที่มีมวลเป็นรูพรุนและตัวทำละลายเพื่อการจัดเก็บและขนส่งอะเซทิลีนที่ปลอดภัย ใช้ในการเชื่อม การตัด การประสาน และการผลิตโลหะ"
+        },
+        "propane": {
+          "name": "ถังโพรเพน",
+          "overview": "กระบอกสูบสำหรับผสมโพรเพน บิวเทน และแอลพีจี ใช้ในการทำความร้อน การตัด การประสาน การก่อสร้าง และการจ่ายก๊าซอุตสาหกรรม",
+          "seoTitle": "ถังแก๊สโพรเพน",
+          "seoDescription": "กระบอกสูบสำหรับผสมโพรเพน บิวเทน และแอลพีจี ใช้ในการทำความร้อน การตัด การประสาน การก่อสร้าง และการจ่ายก๊าซอุตสาหกรรม"
+        },
+        "lpg": {
+          "name": "ถังแอลพีจี",
+          "overview": "กระบอกสูบสำหรับผสมโพรเพน บิวเทน และแอลพีจี ใช้ในการทำความร้อน การตัด การประสาน การก่อสร้าง และการจ่ายก๊าซอุตสาหกรรม",
+          "seoTitle": "ถังแก๊สแอลพีจี",
+          "seoDescription": "กระบอกสูบสำหรับผสมโพรเพน บิวเทน และแอลพีจี ใช้ในการทำความร้อน การตัด การประสาน การก่อสร้าง และการจ่ายก๊าซอุตสาหกรรม"
+        },
+        "industrial": {
+          "name": "ถังแก๊สอุตสาหกรรม",
+          "overview": "ถังแก๊สอุตสาหกรรมสำหรับการเชื่อม การตัด และการจัดหาในโรงงาน รวมถึงตัวเลือกอะเซทิลีน โพรเพน และ LPG ที่ตรงกับตลาดของคุณ",
+          "seoTitle": "ถังแก๊สอุตสาหกรรม",
+          "seoDescription": "ถังแก๊สอุตสาหกรรมสำหรับการเชื่อม การตัด และการจัดหาโรงงานจาก Wanda Group"
+        },
+        "generators": {
+          "name": "เครื่องกำเนิดอะเซทิลีน",
+          "overview": "อุปกรณ์การผลิตอะเซทิลีนจากแคลเซียมคาร์ไบด์ การจ่ายก๊าซที่เสถียรสำหรับการเชื่อมและความต้องการทางอุตสาหกรรมโดยไม่มีโครงสร้างพื้นฐานก๊าซแบบรวมศูนย์",
+          "seoTitle": "เครื่องกำเนิดอะเซทิลีน",
+          "seoDescription": "อุปกรณ์การผลิตอะเซทิลีนจากแคลเซียมคาร์ไบด์ การจ่ายก๊าซที่เสถียรสำหรับการเชื่อมและความต้องการทางอุตสาหกรรมโดยไม่มีโครงสร้างพื้นฐานก๊าซแบบรวมศูนย์"
+        },
+        "accessories": {
+          "name": "อุปกรณ์และฟิตติ้งกระบอกสูบ",
+          "overview": "กลุ่มผลิตภัณฑ์ครบวงจรสำหรับการทำงานของถังแก๊สอย่างปลอดภัย: ตั้งแต่เกจไปจนถึงหัวเชื่อม การจัดซื้อแบบครบวงจรด้วยกระบอกสูบ",
+          "seoTitle": "อุปกรณ์เชื่อม",
+          "seoDescription": "กลุ่มผลิตภัณฑ์ครบวงจรสำหรับการทำงานของถังแก๊สอย่างปลอดภัย: ตั้งแต่เกจไปจนถึงหัวเชื่อม การจัดซื้อแบบครบวงจรด้วยกระบอกสูบ"
+        },
+        "refrigeration": {
+          "name": "หน่วยทำความเย็น",
+          "overview": "กลุ่ม Wanda Group ที่แยกจากกัน — ไม่ใช่แค็ตตาล็อกของบุคคลที่สาม หน่วยควบแน่น ห้องเย็น และฮาร์ดแวร์ จัดส่งโดยเราพร้อมกระบอกสูบหรือสั่งซื้อแบบแยกเดี่ยว",
+          "seoTitle": "หน่วยทำความเย็น",
+          "seoDescription": "กลุ่ม Wanda Group ที่แยกจากกัน — ไม่ใช่แค็ตตาล็อกของบุคคลที่สาม หน่วยควบแน่น ห้องเย็น และฮาร์ดแวร์ จัดส่งโดยเราพร้อมกระบอกสูบหรือสั่งซื้อแบบแยกเดี่ยว"
+        }
+      }
+    },
+    "factory": {
+      "label": "โรงงาน",
+      "title": "โรงงานและการผลิต",
+      "subtitle": "การผลิต การตรวจสอบ การบรรจุ และการจัดส่ง — บันทึกด้วยภาพถ่ายต้นไม้จริงและวิดีโอของโรงงาน",
+      "seoTitle": "โรงงานและการผลิต | แวนด้า กรุ๊ป",
+      "seoDescription": "ภาพถ่ายโรงงานจริง การถ่ายภาพการจัดส่งแบบสดๆ และวิดีโอสั้นๆ จากพื้นที่การผลิต",
+      "sections": [
+        {
+          "title": "การผลิต",
+          "text": "การขึ้นรูป การเชื่อม และการตกแต่งกระบอกสูบเป็นส่วนหนึ่งของขั้นตอนการผลิตของโรงงาน"
+        },
+        {
+          "title": "กระบวนการผลิต",
+          "text": "ตั้งแต่การเตรียมเปลือกไปจนถึงการประกอบและการตกแต่ง — ดูภาพสต็อกระหว่างกระบวนการและภาพพื้นที่การผลิต"
+        },
+        {
+          "title": "การตรวจสอบคุณภาพ",
+          "text": "การตรวจสอบด้วยสายตา การทำเครื่องหมาย และมิติเพื่อเตรียมกระบอกสูบสำหรับการขนส่ง"
+        },
+        {
+          "title": "การทดสอบ",
+          "text": "มีการทดสอบแรงดันและรอยรั่วก่อนที่ผลิตภัณฑ์จะออกจากสายการผลิต ตามความต้องการในการสั่งซื้อ"
+        },
+        {
+          "title": "บรรจุภัณฑ์",
+          "text": "บรรจุภัณฑ์ส่งออกช่วยปกป้องกระบอกสูบและข้อต่อสำหรับการขนส่งในต่างประเทศ"
+        },
+        {
+          "title": "กำลังโหลดและส่งออก",
+          "text": "การจัดเตรียมคลังสินค้า การบรรทุกรถบรรทุก และเอกสารการจัดส่งสำหรับคำสั่งซื้อขาออก"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "การรับรอง",
+      "title": "การรับรองและมาตรฐาน",
+      "subtitle": "มาตรฐานที่ผู้ซื้อร้องขอโดยทั่วไปมีดังต่อไปนี้ การบังคับใช้ขึ้นอยู่กับผลิตภัณฑ์และตลาดปลายทาง สำเนาใบรับรอง หมายเลข และความถูกต้องจะถูกแชร์แบบส่วนตัวเมื่อมีการร้องขอ — ไม่ได้เผยแพร่เป็นการกล่าวอ้างที่ไม่ได้รับการตรวจสอบ",
+      "seoTitle": "การรับรองและมาตรฐาน | แวนด้า กรุ๊ป",
+      "seoDescription": "มาตรฐานที่กล่าวถึงสำหรับถังแก๊สของ Wanda Groups แยกตามตลาด สำเนาใบรับรองจะถูกจัดเตรียมไว้เป็นการส่วนตัวเมื่อมีการร้องขอ",
+      "note": "สำเนาใบรับรองจะถูกส่งเป็นการส่วนตัวเมื่อมีการร้องขอ เราไม่เผยแพร่ไฟล์ใบรับรองบนเว็บไซต์"
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM และขายส่ง",
+      "subtitle": "ตัวเลือกฉลากส่วนตัวและการจัดหาจำนวนมากสำหรับผู้จัดจำหน่ายและผู้ซื้อในอุตสาหกรรม",
+      "seoTitle": "จัดหาถังแก๊ส OEM",
+      "seoDescription": "ผลิตถังแก๊ส OEM และ Private Label สำหรับแบรนด์และผู้จัดจำหน่ายในต่างประเทศ",
+      "quoteTitle": "หารือเกี่ยวกับข้อกำหนดของ OEM",
+      "quoteCta": "ขอใบเสนอราคา OEM",
+      "capabilities": [
+        {
+          "title": "โลโก้ที่กำหนดเอง",
+          "text": "ตัวเลือกโลโก้และการทำเครื่องหมายที่กล่าวถึงสำหรับคำสั่งซื้อ OEM ที่เข้าเกณฑ์"
+        },
+        {
+          "title": "สีที่กำหนดเอง",
+          "text": "สีกระบอกสูบตามความต้องการของตลาดหรือแบรนด์"
+        },
+        {
+          "title": "บรรจุภัณฑ์แบบกำหนดเอง",
+          "text": "ส่งออกกล่อง พาเลท และเครื่องหมายบรรจุภัณฑ์ตามคำสั่งซื้อ"
+        },
+        {
+          "title": "ป้ายกำกับส่วนตัว",
+          "text": "การติดฉลากและการนำเสนอแบรนด์สำหรับช่องทางการจัดจำหน่าย"
+        },
+        {
+          "title": "คำสั่งซื้อจำนวนมาก",
+          "text": "ปริมาณการขายส่งสำหรับโครงการและการจัดหาผู้จัดจำหน่าย"
+        },
+        {
+          "title": "การผลิตแบบ OEM",
+          "text": "การกำหนดค่าผลิตภัณฑ์สอดคล้องกับข้อกำหนดและตลาดของคุณ"
+        },
+        {
+          "title": "สนับสนุนการส่งออก",
+          "text": "เอกสารและการประสานงานการจัดส่งเพื่อจัดส่งไปต่างประเทศ"
+        }
+      ]
+    },
+    "markets": {
+      "label": "ตลาด",
+      "title": "ตลาดโลก",
+      "subtitle": "เราสนับสนุนผู้ซื้อ B2B ระหว่างประเทศ ภูมิภาคด้านล่างอธิบายพื้นที่การสอบถามทั่วไป — ประเทศและโครงการเฉพาะจะได้รับการยืนยันเป็นกรณีไป",
+      "seoTitle": "ตลาดโลก | แวนด้ากรุ๊ปส่งออก",
+      "seoDescription": "Wanda Groups ทำงานร่วมกับผู้ซื้ออุตสาหกรรมระดับนานาชาติทั่วแอฟริกา ตะวันออกกลาง เอเชียกลาง เอเชียตะวันออกเฉียงใต้ ละตินอเมริกา และตลาดอื่นๆ",
+      "note": "เราไม่เผยแพร่จำนวนประเทศ ชื่อลูกค้า หรือการอ้างอิงโครงการที่ไม่ได้รับการยืนยันในหน้านี้",
+      "regions": [
+        {
+          "title": "แอฟริกา",
+          "text": "สอบถามข้อมูลอุตสาหกรรมและผู้จัดจำหน่ายจากตลาดแอฟริกา"
+        },
+        {
+          "title": "ตะวันออกกลาง",
+          "text": "ผู้ซื้อจัดหากระบอกสูบและอุปกรณ์ที่เกี่ยวข้องสำหรับโครงการระดับภูมิภาค"
+        },
+        {
+          "title": "เอเชียกลาง",
+          "text": "การอภิปรายเรื่องการขายส่งและการจัดหาโครงการทั่วตลาดเอเชียกลาง"
+        },
+        {
+          "title": "เอเชียตะวันออกเฉียงใต้",
+          "text": "ผู้ซื้ออุตสาหกรรมประเมินอุปทานถังส่งออก"
+        },
+        {
+          "title": "ละตินอเมริกา",
+          "text": "สอบถามการจัดหาถังแก๊สอุตสาหกรรมและอุปกรณ์เสริม"
+        },
+        {
+          "title": "ตลาดต่างประเทศอื่นๆ",
+          "text": "มีการตรวจสอบจุดหมายปลายทางเพิ่มเติมตามมาตรฐานผลิตภัณฑ์และโลจิสติกส์"
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "การใช้งาน",
+      "title": "การใช้งานกระบอกสูบ",
+      "subtitle": "ผลิตภัณฑ์ที่ออกแบบมาสำหรับงานก๊าซอุตสาหกรรมทั่วไปและข้อกำหนดของผู้ซื้อในต่างประเทศ",
+      "seoTitle": "การใช้งานกระบอกสูบ",
+      "seoDescription": "ผลิตภัณฑ์ที่ออกแบบมาสำหรับงานก๊าซอุตสาหกรรมทั่วไปและข้อกำหนดของผู้ซื้อในต่างประเทศ",
+      "items": [
+        {
+          "title": "การเชื่อมและการประสาน",
+          "text": "อะเซทิลีนละลายน้ำและอุปกรณ์ที่เกี่ยวข้องสำหรับการเชื่อมในโรงงานและงานประกอบ"
+        },
+        {
+          "title": "การตัดโลหะ",
+          "text": "กระบอกสูบและอุปกรณ์เสริมสำหรับการตัดเชื้อเพลิงออกซีที่ไซต์งานและในโรงงาน"
+        },
+        {
+          "title": "การจัดหาก๊าซอุตสาหกรรม",
+          "text": "การจัดหากระบอกสำหรับการกระจายอุตสาหกรรมและระบบก๊าซโรงงาน"
+        },
+        {
+          "title": "การก่อสร้าง",
+          "text": "จำหน่ายก๊าซแบบพกพาสำหรับงานก่อสร้างและงานซ่อมบำรุง"
+        },
+        {
+          "title": "การผลิตโลหะ",
+          "text": "กระบอกสูบและอุปกรณ์เสริมสำหรับโรงผลิตและอู่ต่อเรือ"
+        },
+        {
+          "title": "การจัดเก็บและการจำหน่ายก๊าซ",
+          "text": "ถังเก็บและกระจายสินค้าสำหรับผู้ซื้อในภาคอุตสาหกรรม"
+        }
+      ]
+    },
+    "faq": {
+      "label": "คำถามที่พบบ่อย",
+      "title": "คำถามที่พบบ่อย",
+      "subtitle": "บริษัท ผลิตภัณฑ์ OEM และการส่งออก — คำตอบสำหรับผู้ซื้อในต่างประเทศก่อนที่คุณจะขอใบเสนอราคา",
+      "seoTitle": "คำถามที่พบบ่อย",
+      "seoDescription": "บริษัท ผลิตภัณฑ์ OEM และการส่งออก — คำตอบสำหรับผู้ซื้อในต่างประเทศก่อนที่คุณจะขอใบเสนอราคา"
+    },
+    "contactPage": {
+      "label": "ติดต่อ",
+      "title": "มาหารือเกี่ยวกับความต้องการของคุณกันดีกว่า",
+      "subtitle": "ติดต่อทีมขายของเราทางแบบฟอร์ม อีเมล หรือ Messenger แบ่งปันผลิตภัณฑ์ ปริมาณ และปลายทางเพื่อรับใบเสนอราคาที่รวดเร็วยิ่งขึ้น",
+      "seoTitle": "ขอใบเสนอราคา",
+      "seoDescription": "บอกขนาด ปริมาณ ประเทศปลายทาง และการใช้งาน — เราจะเตรียมใบเสนอราคาโดยละเอียด"
+    },
+    "blog": {
+      "label": "บล็อก",
+      "title": "บทความล่าสุด",
+      "subtitle": "เนื้อหาผู้เชี่ยวชาญสำหรับผู้เชี่ยวชาญด้านการเชื่อมและการจัดหาก๊าซ",
+      "seoTitle": "บทความและคำแนะนำ",
+      "seoDescription": "เนื้อหาผู้เชี่ยวชาญสำหรับผู้เชี่ยวชาญด้านการเชื่อมและการจัดหาก๊าซ",
+      "coming": "คู่มือผู้ซื้อและหมายเหตุผลิตภัณฑ์เพิ่มเติมจะถูกเพิ่มที่นี่ ใช้บทความด้านบนหรือติดต่อเราเพื่อขอวัสดุเฉพาะผลิตภัณฑ์"
+    },
+    "privacy": {
+      "seoTitle": "นโยบายความเป็นส่วนตัว",
+      "seoDescription": "นโยบายความเป็นส่วนตัวสำหรับการสอบถามข้อมูลเว็บไซต์และข้อมูลส่วนบุคคลของ Wanda Group"
+    },
+    "terms": {
+      "seoTitle": "เงื่อนไขการใช้งาน",
+      "seoDescription": "เงื่อนไขการใช้งานเว็บไซต์ Wanda Group"
+    },
+    "notFound": {
+      "seoTitle": "ไม่พบหน้า",
+      "seoDescription": "เพจที่คุณร้องขอไม่สามารถใช้งานได้",
+      "title": "ไม่พบหน้า",
+      "text": "หน้าที่คุณกำลังค้นหาไม่มีอยู่หรือได้ถูกย้ายแล้ว",
+      "home": "บ้าน",
+      "products": "สินค้า",
+      "contact": "ติดต่อ/ขอใบเสนอราคา"
+    }
   }
 }

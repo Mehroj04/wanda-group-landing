@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "घर",
     "products": "उत्पादों",
     "specs": "विशेष विवरण",
     "applications": "अनुप्रयोग",
     "about": "के बारे में",
     "gallery": "गैलरी",
+    "factory": "कारखाना",
     "quality": "गुणवत्ता",
     "faq": "अक्सर पूछे जाने वाले प्रश्न",
     "contact": "संपर्क",
@@ -13,44 +15,42 @@
     "services": "सेवाएं",
     "pricing": "मूल्य निर्धारण",
     "accessories": "सामान",
-    "home": "मुख्य पृष्ठ",
-    "factory": "कारखाना",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "शीतगृह",
+    "cooling": "शीतलक",
+    "certifications": "प्रमाणपत्र",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "बाज़ार"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "औद्योगिक गैस सिलेंडर निर्माता",
+    "title": "औद्योगिक गैस सिलेंडर और उपकरण निर्माता",
+    "subtitle": "अंतरराष्ट्रीय निर्यात खरीदारों के लिए एसिटिलीन सिलेंडर, प्रोपेन/एलपीजी सिलेंडर, जनरेटर और वेल्डिंग सहायक उपकरण का विनिर्माण, OEM और थोक आपूर्ति।",
+    "lineGas": "गैस सिलेंडर",
+    "lineCold": "प्रशीतन इकाइयाँ",
+    "cta": "एक कहावत कहना",
+    "ctaSecondary": "उत्पाद देखें",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "निर्माता-केंद्रित आपूर्ति"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "निजी लेबल और अनुकूलन"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "अंतर्राष्ट्रीय शिपिंग समर्थन"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "निरीक्षण एवं परीक्षण प्रक्रिया"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "अनुरोध पर बाज़ार-विशिष्ट विकल्प"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "विश्वसनीय गैस सिलेंडर सहायक उपकरण",
@@ -60,33 +60,33 @@
   "products": {
     "title": "हमारे उत्पाद",
     "subtitle": "औद्योगिक और वेल्डिंग अनुप्रयोगों के लिए एसिटिलीन सिलेंडर, जनरेटर, प्रोपेन सिलेंडर और सहायक उपकरण।",
+    "viewDetails": "विवरण देखें",
     "items": [
       {
         "title": "एसिटिलीन सिलेंडर",
-        "desc": "वेल्डिंग, कटिंग और औद्योगिक गैसों के लिए विघटित एसिटिलीन सिलेंडर। विभिन्न आकार और वाल्व विकल्प।",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "प्रति बाजार 2L–40L · मानकों की पुष्टि की गई",
+        "desc": "वेल्डिंग, कटिंग और औद्योगिक गैस आपूर्ति के लिए विघटित एसिटिलीन सिलेंडर।",
+        "icon": "🔥"
       },
       {
         "title": "एसिटिलीन जेनरेटर",
-        "desc": "स्थिर गैस उत्पादन, आसान संचालन और औद्योगिक अनुप्रयोगों के लिए उपकरण।",
-        "icon": "⚙️",
-        "spec": "औद्योगिक उत्पादन प्रणाली"
+        "spec": "औद्योगिक उत्पादन प्रणाली",
+        "desc": "साइट पर और संयंत्र में स्थिर एसिटिलीन उत्पादन के लिए उपकरण।",
+        "icon": "⚙️"
       },
       {
         "title": "प्रोपेन सिलेंडर",
-        "desc": "प्रोपेन और एलपीजी के लिए टिकाऊ सिलेंडर - भंडारण, हीटिंग, कटिंग और औद्योगिक उपयोग।",
-        "icon": "🛢️",
-        "spec": "3एल-50एल · पीओएल/सीजीए/गोस्ट"
+        "spec": "प्रति बाजार 3L–50L · वाल्व विकल्प",
+        "desc": "हीटिंग, कटिंग और औद्योगिक उपयोग के लिए टिकाऊ एलपीजी सिलेंडर।",
+        "icon": "🛢️"
       },
       {
         "title": "सिलेंडर सहायक उपकरण",
-        "desc": "होज़, गेज, कटिंग टॉर्च, वेल्डिंग बर्नर, सुरक्षा वाल्व और बहुत कुछ।",
-        "icon": "🔧",
-        "spec": "वाल्व · नियामक · नली · मशालें"
+        "spec": "वाल्व · नियामक · नली · मशालें",
+        "desc": "मिलान फिटिंग सिलेंडर के साथ या एक अलग ऑर्डर के रूप में आपूर्ति की जाती है।",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "विवरण देखें"
+    ]
   },
   "specs": {
     "title": "तकनीकी निर्देश",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "वांडा समूह क्यों चुनें?",
+    "subtitle": "विनिर्माण भागीदार का मूल्यांकन करने वाले औद्योगिक खरीदारों के लिए ठोस क्षमताएं।",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "निर्माता-केंद्रित आपूर्ति",
+        "desc": "उत्पाद आपूर्ति उत्पादन पर केंद्रित है, न कि केवल ट्रेडिंग कैटलॉग पर।"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM समर्थन",
+        "desc": "प्रत्येक ऑर्डर के अनुसार कस्टम रंग, मार्किंग, वाल्व और पैकिंग पर चर्चा की गई।"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "गुणवत्ता नियंत्रण",
+        "desc": "शिपमेंट से पहले पैकिंग के माध्यम से सामग्री का निरीक्षण।"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "अंतर्राष्ट्रीय निर्यात",
+        "desc": "विदेशी खरीदारों के लिए निर्यात पैकिंग और शिपिंग समन्वय।"
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "उत्पाद अनुकूलन",
+        "desc": "बाज़ार और अनुप्रयोग आवश्यकताओं के अनुरूप अनुकूलित विशिष्टताएँ।"
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "उत्तरदायी बिक्री समर्थन",
+        "desc": "फ़ॉर्म, ईमेल और संदेशवाहकों के माध्यम से उद्धरण और तकनीकी उत्तर।"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "थोक ऑर्डर क्षमता",
+        "desc": "वितरकों और परियोजना खरीदारों के लिए थोक मात्रा का समर्थन किया गया।"
       }
     ]
   },
   "about": {
-    "title": "पेशेवर गैस सिलेंडर निर्माता",
-    "text": "वांडा ग्रुप गैस सिलेंडर निर्माता औद्योगिक गैस सिलेंडर और संबंधित सहायक उपकरण के उत्पादन और आपूर्ति में माहिर है। हमारे उत्पादों का व्यापक रूप से वेल्डिंग, कटिंग, गैस वितरण, औद्योगिक भंडारण और अन्य गैस आपूर्ति क्षेत्रों में उपयोग किया जाता है।",
-    "text2": "हम उत्पाद चयन, अनुकूलन, गुणवत्ता निरीक्षण, पैकेजिंग और शिपिंग समन्वय में विदेशी खरीदारों का समर्थन करते हैं।",
+    "title": "औद्योगिक खरीदारों के लिए गैस सिलेंडर निर्माता",
+    "text": "वांडा समूह वेल्डिंग, कटिंग और औद्योगिक गैस आपूर्ति के लिए एसिटिलीन सिलेंडर, प्रोपेन सिलेंडर, जनरेटर और सहायक उपकरण बनाता है।",
+    "text2": "हम उत्पाद चयन, OEM, निरीक्षण, पैकिंग और शिपिंग के साथ विदेशी खरीदारों का समर्थन करते हैं।",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "उत्पादन",
+        "desc": "औद्योगिक गैस सिलेंडरों का निर्माण, वेल्डिंग, परीक्षण और फिनिशिंग।"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "ओईएम समर्थन",
+        "desc": "ऑर्डर के अनुसार रंग, अंकन, वाल्व, टोपी और पैकिंग विकल्प।"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "गुणवत्ता प्रक्रिया",
+        "desc": "निरीक्षण और परीक्षण ऑर्डर और बाज़ार की आवश्यकताओं के अनुरूप।"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "अंतर्राष्ट्रीय निर्यात",
+        "desc": "विदेशी औद्योगिक खरीदारों के लिए दस्तावेज़ीकरण और पैकिंग सहायता।"
       }
     ]
   },
   "gallery": {
     "title": "हमारे कारखाने के अंदर",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "वास्तविक पौधे की तस्वीरें, लाइव डिस्पैच शॉट्स और प्रोडक्शन फ्लोर से लघु वीडियो।",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "रात्रि प्रेषण",
+        "desc": "एक भरा हुआ ट्रेलर लपेटे हुए उपकरणों के साथ जा रहा है - शॉट पर समय और स्थान अंकित है।"
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "कार्गो को शिपमेंट के लिए तैयार किया गया",
+        "desc": "प्रेषण के लिए पैलेट और हिस्से एकत्र किए गए। एक लाइव वेयरहाउस फोटो, स्टूडियो सेट नहीं।"
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "पैक किया हुआ स्टॉक",
+        "desc": "गोदाम में ढेर सारे कार्टन, अगले आउटगोइंग ऑर्डर के लिए तैयार।"
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "प्रेषण के लिए पैक किया गया",
+        "desc": "सिलेंडरों को लपेटकर शिपमेंट के लिए प्लांट यार्ड में रखा गया।"
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "उत्पादन कन्वेयर",
+        "desc": "सिलेंडर बॉडी फॉर्मिंग और हैंडलिंग लाइन के माध्यम से आगे बढ़ रही है।"
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "एलपीजी फिनिशिंग लाइन",
+        "desc": "पैकिंग से पहले ओवरहेड कन्वेयर पर एलपीजी सिलेंडरों को पेंट किया गया।"
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "पौधे के अंदर",
+        "desc": "उत्पादन हॉल - लोग, मशीनें और प्रक्रियाधीन स्टॉक।"
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "वेल्डेड सिलेंडर निकाय",
+        "desc": "पेंटिंग और वाल्व से पहले, परिधीय वेल्डिंग के बाद गोले।"
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "पेंटिंग से पहले गोले",
+        "desc": "प्रक्रिया के अगले चरण के लिए बिना रंगे शरीरों को फर्श पर एकत्रित किया गया।"
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "प्रक्रियाधीन स्टॉक",
+        "desc": "ट्यूब अनुभाग और कैप्ड शैल संयोजन की प्रतीक्षा कर रहे हैं।"
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "स्टॉक में सिलेंडर बॉडी",
+        "desc": "वेल्डिंग के बाद सिरों और वाल्वों के सामने रोल किए गए गोले रखे गए।"
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "आधार के छल्ले",
+        "desc": "सिलेंडर के खोल पर वेल्डिंग के लिए फुट रिंग तैयार की गईं।"
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "पैक की गई फिटिंग",
+        "desc": "निर्यात शिपमेंट के लिए फोम के साथ बॉक्स किए गए वाल्व और फिटिंग।"
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "एसिटिलीन जनरेटर",
+        "desc": "नली और फिटिंग के साथ एक जनरेटर इकाई, संयंत्र छोड़ने के लिए तैयार है।"
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "फर्श पर गोले",
+        "desc": "वेल्डिंग के बाद ओपन-नेक बॉडी - वाल्व फिटमेंट से पहले का बैच।"
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "फ़ैक्टरी वीडियो",
+    "videosSubtitle": "प्लांट फ्लोर से नए शॉर्ट्स। अनुरोध पर अधिक फुटेज निजी तौर पर भेजे जाते हैं।"
   },
   "quality": {
     "title": "गुणवत्ता नियंत्रण",
     "subtitle": "प्रत्येक बैच एक ही पथ का अनुसरण करता है: उत्पादन, परीक्षण, निरीक्षण और अंतिम गुणवत्ता नियंत्रण।",
     "steps": [
       {
-        "title": "उत्पादन",
-        "desc": "प्लांट प्रक्रिया नियंत्रण के तहत फॉर्मिंग, वेल्डिंग और असेंबली।"
+        "title": "कच्चा माल",
+        "desc": "आदेश और प्रक्रिया आवश्यकताओं के अनुरूप आने वाली सामग्रियों की समीक्षा की गई।"
       },
       {
-        "title": "परीक्षण",
-        "desc": "सिलिंडरों के लाइन छोड़ने से पहले दबाव और रिसाव परीक्षण।"
+        "title": "उत्पादन",
+        "desc": "प्लांट प्रक्रिया नियंत्रण के तहत फॉर्मिंग, वेल्डिंग और असेंबली।"
       },
       {
         "title": "निरीक्षण",
         "desc": "आदेश के विरुद्ध दृश्य, अंकन और आयामी जांच।"
       },
       {
-        "title": "अंतिम गुणवत्ता नियंत्रण",
-        "desc": "निर्यात शिपमेंट से पहले पैकिंग निरीक्षण।"
+        "title": "परीक्षण",
+        "desc": "सिलिंडरों के लाइन छोड़ने से पहले दबाव और रिसाव परीक्षण।"
+      },
+      {
+        "title": "अंतिम क्यूसी",
+        "desc": "पैकिंग के लिए रिलीज से पहले अंतिम गुणवत्ता नियंत्रण।"
+      },
+      {
+        "title": "पैकेजिंग",
+        "desc": "परिवहन के लिए निर्यात पैकिंग तैयार की गई।"
+      },
+      {
+        "title": "लदान",
+        "desc": "आउटबाउंड ऑर्डर के लिए दस्तावेज़ लोड करना और भेजना।"
       }
     ]
   },
   "faq": {
     "title": "अक्सर पूछे जाने वाले प्रश्नों",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "कंपनी, उत्पाद, ओईएम और निर्यात - कोटेशन का अनुरोध करने से पहले विदेशी खरीदारों के लिए उत्तर।",
     "cta": "क्या आपका प्रश्न नहीं मिला? उत्पाद, आकार, मात्रा और गंतव्य देश भेजें - हम विस्तृत प्रस्ताव के साथ उत्तर देंगे।",
     "ctaBtn": "एक कहावत कहना",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "वीडियो और दस्तावेज़",
         "items": [
           {
             "q": "क्या मैं ऑर्डर देने से पहले फ़ैक्टरी वीडियो देख सकता हूँ?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "हाँ। इस पृष्ठ पर फ़ैक्टरी अनुभाग में उत्पादन वीडियो देखें। अतिरिक्त फ़ुटेज, पैकिंग क्लिप और प्रमाणपत्र अनुरोध पर निजी तौर पर भेजे जाते हैं।"
           },
           {
             "q": "क्या आप विशेष रूप से एसिटिलीन सिलेंडर के लिए उत्पाद वीडियो प्रदान करते हैं?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "हाँ। एसिटिलीन सिलेंडर पर वीडियो, फोटो और विस्तृत जानकारी आपके अनुरोध के अनुसार निजी तौर पर भेजी जाती है।"
           },
           {
             "q": "क्या आप उत्पादन और गुणवत्ता नियंत्रण के वीडियो दिखा सकते हैं?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "हाँ। उत्पादन, गुणवत्ता निरीक्षण, पैकिंग और गोदाम भंडारण के उपलब्ध वीडियो निजी तौर पर भेजे जाते हैं ताकि आप देख सकें कि उत्पाद कैसे तैयार किए जाते हैं।"
           },
           {
             "q": "क्या मैं किसी विशिष्ट ऑर्डर के लिए बनाए गए उत्पाद वीडियो का अनुरोध कर सकता हूं?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "किसी विशिष्ट ऑर्डर या उत्पाद आवश्यकताओं के लिए, हमसे संपर्क करें - हम वीडियो समर्थन पर चर्चा करेंगे और सामग्री निजी तौर पर भेजेंगे।"
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "मुझे वीडियो, प्रमाणपत्र और कोटेशन कैसे मिलेगा?",
+            "a": "पूछताछ फॉर्म में, उत्पाद का प्रकार, सिलेंडर का आकार, मात्रा, गंतव्य देश और क्या भेजना है: वीडियो, प्रमाण पत्र या दोनों निर्दिष्ट करें। हम उन्हें निजी तौर पर भेजेंगे और एक प्रस्ताव तैयार करेंगे."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "क्या आप उत्पाद की तस्वीरें और विशिष्टताएँ प्रदान कर सकते हैं?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "हाँ। उत्पाद फ़ोटो, विनिर्देश और डेटाशीट अनुरोध पर निजी तौर पर भेजे जाते हैं।"
           },
           {
             "q": "मैं एक्सेसरीज़ के लिए कोटेशन कैसे प्राप्त कर सकता हूँ?",
@@ -425,58 +437,119 @@
       {
         "tag": "मूल्य निर्धारण",
         "title": "एसिटिलीन सिलेंडर खरीद के लिए बजट गाइड",
-        "desc": "लागत को प्रभावित करने वाले कारक और इष्टतम प्रस्ताव का चयन कैसे करें।",
+        "desc": "लागत को प्रभावित करने वाले कारक और इष्टतम प्रस्ताव कैसे चुनें।",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "शिपिंग (एफओबी/सीआईएफ), दस्तावेज़ और एमओक्यू को भी ध्यान में रखें। हम पूर्ण विनिर्देश, लीड टाइम और इनकोटर्म्स के साथ 24 घंटे के भीतर जवाब देते हैं।",
-          "सटीक उद्धरण के लिए, संपर्क फ़ॉर्म में मॉडल, मात्रा, गंतव्य देश और वाल्व आवश्यकताएँ शामिल करें - या sales@wandagroups.com पर ईमेल करें।"
+          "एसिटिलीन सिलेंडर की कीमत मात्रा, वाल्व प्रकार, आपके गंतव्य बाजार के लिए आवश्यक मानकों और ऑर्डर मात्रा पर निर्भर करती है। हम वेबसाइट पर निश्चित सूची मूल्य प्रकाशित नहीं करते हैं।",
+          "आपकी पूछताछ की समीक्षा के बाद बड़े लॉट और ओईएम विकल्प (पेंटिंग, लोगो, पैकिंग) को व्यक्तिगत रूप से उद्धृत किया जाता है।",
+          "औपचारिक कोटेशन में शिपिंग शर्तें (एफओबी/सीआईएफ और समान), दस्तावेज़ और लीड समय की पुष्टि की जाती है।",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "एक उद्धरण का अनुरोध करें",
-    "subtitle": "हमें आकार, मात्रा, गंतव्य देश और आवेदन बताएं - हम एक विस्तृत उद्धरण तैयार करेंगे।",
+    "title": "आइए आपकी आवश्यकताओं पर चर्चा करें",
+    "subtitle": "हमें उत्पाद, आकार, मात्रा, गंतव्य देश और विशिष्टताएँ बताएं - हमारी बिक्री टीम उत्पाद जानकारी और एक उद्धरण के साथ उत्तर देगी।",
     "formTitle": "एक उद्धरण का अनुरोध करें",
-    "formSubtitle": "अपनी आवश्यकताएं छोड़ें - हमारी बिक्री टीम उत्पाद जानकारी, मूल्य निर्धारण, MOQ और लीड समय के साथ जवाब देगी।",
+    "formSubtitle": "व्यावसायिक पूछताछ के लिए फॉर्म पूरा करें। आवश्यक फ़ील्ड चिह्नित हैं।",
     "name": "नाम",
+    "company": "कंपनी",
     "phone": "फ़ोन/व्हाट्सएप",
     "email": "ईमेल",
     "product": "उत्पाद",
-    "quantity": "मात्रा",
-    "country": "गंतव्य देश",
+    "quantity": "मात्रा (वैकल्पिक)",
+    "country": "गंतव्य देश (वैकल्पिक)",
     "productOptions": [
       "एसिटिलीन सिलेंडर",
       "प्रोपेन सिलेंडर",
       "एसिटिलीन जेनरेटर",
       "सामान",
-      "बंडल ऑर्डर",
-      "Cold storage / refrigeration"
+      "कोल्ड स्टोरेज/प्रशीतन",
+      "बंडल ऑर्डर"
     ],
+    "quantityPlaceholder": "जैसे 200 पीसी, 1 कंटेनर, या टीबीडी",
+    "countryPlaceholder": "जहां माल भेजा जाएगा",
     "message": "अतिरिक्त जरूरतें",
     "messagePlaceholder": "उत्पाद, आकार, मात्रा, गंतव्य देश...",
-    "submit": "जांच भेजें",
+    "submit": "पूछताछ सबमिट करें",
     "sending": "भेजा जा रहा है...",
     "success": "धन्यवाद! हम आपसे शीघ्र ही संपर्क करेंगे।",
     "sendAnother": "एक और जांच भेजें",
     "errorGeneric": "भेजने में विफल. कृपया पुनः प्रयास करें या हमें सीधे ईमेल करें।",
-    "errorNoForm": "प्रपत्र कॉन्फ़िगर नहीं किया गया. कृपया sales@wandagroups.com पर ईमेल करें",
-    "privacyPrefix": "मैं करने के लिए सहमत हूं",
-    "privacySuffix": "और इस पूछताछ को संभालने के लिए मेरे व्यक्तिगत डेटा का प्रसंस्करण।",
-    "privacyLink": "गोपनीयता नीति",
-    "company": "कंपनी",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "ईमेल ऐप के माध्यम से भेजें",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "मैं करने के लिए सहमत हूं",
+    "privacySuffix": ", और इस पूछताछ को संभालने के लिए मेरे व्यक्तिगत डेटा का प्रसंस्करण।",
+    "privacyLink": "गोपनीयता नीति",
+    "termsAnd": "और यह",
+    "termsLink": "उपयोग की शर्तें",
+    "requirements": "आवश्यकताएँ / विशिष्टताएँ",
+    "requirementsPlaceholder": "वाल्व प्रकार, रंग, मानक, पैकिंग, OEM अंकन, मात्रा नोट..."
   },
   "footer": {
     "company": "वांडा समूह गैस सिलेंडर निर्माता",
     "tagline": "व्यावसायिक गैस सिलेंडर विनिर्माण",
     "rights": "© 2026 वांडा ग्रुप। सर्वाधिकार सुरक्षित।",
     "privacy": "गोपनीयता नीति",
-    "terms": "Terms of Use"
+    "terms": "उपयोग की शर्तें"
+  },
+  "privacy": {
+    "label": "कानूनी",
+    "title": "गोपनीयता नीति",
+    "updated": "अंतिम अद्यतन: 25 अगस्त 2026",
+    "intro": [
+      "वांडा समूह (\"हम\", \"हमें\") गैस सिलेंडर, सहायक उपकरण और संबंधित निर्यात आपूर्ति पेश करने और औद्योगिक खरीदारों से वाणिज्यिक पूछताछ प्राप्त करने के लिए इस वेबसाइट का संचालन करता है।",
+      "यह नीति बताती है कि हम साइट के माध्यम से कौन सा व्यक्तिगत डेटा एकत्र करते हैं, हम इसका उपयोग क्यों करते हैं और आप इसके बारे में हमसे कैसे संपर्क कर सकते हैं। इस वेबसाइट पर फ़ैक्टरी उत्पादन वीडियो दिखाए जाते हैं। प्रमाणपत्र फ़ाइलें अनुरोध पर निजी तौर पर भेजी जाती हैं।"
+    ],
+    "sections": [
+      {
+        "title": "कौन जिम्मेदार है",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "हम कौन सा डेटा एकत्र करते हैं",
+        "body": [
+          "जब आप पूछताछ फ़ॉर्म भेजते हैं तो हमें आपके द्वारा दर्ज किया गया डेटा प्राप्त होता है: नाम, ईमेल, फ़ोन, गंतव्य देश, उत्पाद प्रकार, मात्रा और संदेश।",
+          "साइट आपकी भाषा पसंद को ब्राउज़र (लोकलस्टोरेज) में भी संग्रहीत करती है। हम विज्ञापन कुकीज़ नहीं चलाते या विज़िटर सूचियाँ नहीं बेचते।"
+        ]
+      },
+      {
+        "title": "हम डेटा का उपयोग क्यों करते हैं",
+        "body": [
+          "हम पूछताछ डेटा का उपयोग केवल आपके अनुरोध का उत्तर देने, एक कोटेशन तैयार करने, आपके द्वारा मांगी गई उत्पाद जानकारी, वीडियो या प्रमाणपत्र भेजने और यदि हम एक साथ काम करना शुरू करते हैं तो एक आदेश का समन्वय करने के लिए करते हैं।",
+          "कानूनी आधार: जब आप फॉर्म पर चेकबॉक्स पर टिक करते हैं तो आपकी सहमति, और बी2बी बिक्री अनुरोधों का उत्तर देने में हमारा वैध हित।"
+        ]
+      },
+      {
+        "title": "डेटा कौन प्राप्त करता है",
+        "body": [
+          "आपका संदेश हमारी बिक्री टीम को ईमेल द्वारा भेज दिया जाता है। फ़ॉर्म को Web3Forms द्वारा संसाधित किया जाता है, जो एक तकनीकी प्रदाता है जो हमें संदेश भेजता है।",
+          "हम व्यक्तिगत डेटा नहीं बेचते हैं. हम लॉजिस्टिक्स, निरीक्षण या बैंकिंग भागीदारों के साथ केवल तभी साझा कर सकते हैं जो किसी सहमत आदेश को पूरा करने के लिए आवश्यक हो।"
+        ]
+      },
+      {
+        "title": "हम इसे कब तक रखते हैं",
+        "body": [
+          "पूछताछ डेटा को अनुरोध को संभालने के लिए आवश्यक समय तक और उसके बाद बिक्री अनुवर्ती और लेखांकन के लिए उचित अवधि तक रखा जाता है, जब तक कि आप हमें इसे पहले हटाने के लिए नहीं कहते जहां कानून अनुमति देता है।"
+        ]
+      },
+      {
+        "title": "आपके हक",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "सुरक्षा और बच्चे",
+        "body": [
+          "हम पारगमन और अपने मेलबॉक्स में संदेशों की सुरक्षा के लिए उचित तकनीकी और संगठनात्मक कदम उठाते हैं। यह वेबसाइट व्यावसायिक खरीदारों के लिए है, बच्चों के लिए नहीं।"
+        ]
+      }
+    ],
+    "contactLead": "इस नीति के बारे में प्रश्न:"
   },
   "ui": {
     "catalog": "सूची",
@@ -494,6 +567,7 @@
     "location": "जगह",
     "quoteResponse": "उद्धरण प्रतिक्रिया",
     "support": "सहायता",
+    "countriesServed": "निर्यात समर्थन",
     "exportReady": "निर्यात तैयार",
     "years": "साल",
     "acetylene": "एसिटिलीन",
@@ -508,17 +582,25 @@
     "quality": "गुणवत्ता",
     "faq": "अक्सर पूछे जाने वाले प्रश्न",
     "blog": "ब्लॉग",
-    "countriesServed": "देशों की सेवा की",
     "searchLanguage": "भाषा खोजें...",
-    "noLanguagesFound": "कोई भाषा नहीं मिली"
+    "noLanguagesFound": "कोई भाषा नहीं मिली",
+    "breadcrumb": "ब्रेडक्रम्ब",
+    "primaryNav": "प्राथमिक",
+    "menu": "मेनू",
+    "playVideo": "वीडियो चलाएं",
+    "productGallery": "उत्पाद गैलरी",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM/निजी लेबल",
+    "अंतर्राष्ट्रीय निर्यात",
+    "गुणवत्ता नियंत्रण",
+    "अनुरोध पर बाज़ार मानक",
+    "थोक आदेश"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "प्रमाणन",
-        "desc": "Documents for customs and regulators.",
+        "desc": "सीमा शुल्क और नियामकों के लिए दस्तावेज़. अनुरोध पर प्रतियां निजी तौर पर भेजी जाती हैं।",
         "points": [
           "आईएसओ 9809, डीओटी, टीपीईडी",
           "एमएसडीएस और गुणवत्ता प्रमाणपत्र",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "मूल्य निर्धारण एवं आपूर्ति शर्तें",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "प्रति पूछताछ वाणिज्यिक शर्तों की पुष्टि की जाती है। औपचारिक कोटेशन के लिए उत्पाद, मात्रा और गंतव्य विवरण भेजें।",
+    "note": "हम इस वेबसाइट पर निश्चित सूची मूल्य, MOQ या लीड समय प्रकाशित नहीं करते हैं। आपकी आवश्यकताओं की समीक्षा के बाद एक उद्धरण में सटीक व्यावसायिक शर्तों की पुष्टि की जाती है।",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "मूल्य निर्धारण",
+        "value": "अनुरोध पर",
+        "desc": "पूछताछ समीक्षा के बाद औपचारिक उद्धरण"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "प्रति आदेश की पुष्टि की गई",
+        "desc": "मॉडल और गंतव्य पर निर्भर करता है"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "समय सीमा",
+        "value": "प्रति आदेश की पुष्टि की गई",
+        "desc": "उद्धरण के साथ साझा किया गया"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "भुगतान",
+        "value": "अनुबंध में सहमति हुई",
+        "desc": "उत्पादन से पहले शर्तों की पुष्टि की गई"
       }
     ],
     "factors": {
-      "title": "मूल्य कारक",
+      "title": "उद्धरण को क्या प्रभावित करता है",
       "items": [
-        "सिलेंडर की मात्रा और मॉडल (2L - 50L)",
-        "वाल्व प्रकार (सीजीए, गोस्ट, डीआईएन, पीओएल)",
-        "प्रमाणन मानक (आईएसओ, डीओटी, टीपीईडी)",
-        "OEM: रंग, अंकन, पैकेजिंग",
-        "ऑर्डर की मात्रा और इन्कोटर्म्स"
+        "सिलेंडर की मात्रा और मॉडल",
+        "वाल्व प्रकार और कनेक्शन मानक",
+        "गंतव्य बाज़ार के लिए आवश्यक मानक",
+        "OEM रंग, अंकन और पैकेजिंग",
+        "ऑर्डर की मात्रा और Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "एसिटिलीन WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "एसिटिलीन सिलेंडर",
+        "moq": "अनुरोध पर",
+        "price": "प्रति पूछताछ उद्धृत किया गया",
+        "lead": "प्रति आदेश की पुष्टि की गई"
       },
       {
-        "product": "एसिटिलीन WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "प्रोपेन/एलपीजी सिलेंडर",
+        "moq": "अनुरोध पर",
+        "price": "प्रति पूछताछ उद्धृत किया गया",
+        "lead": "प्रति आदेश की पुष्टि की गई"
       },
       {
-        "product": "प्रोपेन WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "जेनरेटर",
+        "moq": "अनुरोध पर",
+        "price": "प्रति पूछताछ उद्धृत किया गया",
+        "lead": "प्रति आदेश की पुष्टि की गई"
       },
       {
-        "product": "प्रोपेन WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "जेनरेटर WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "नियामक सेट",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "सामान",
+        "moq": "अनुरोध पर",
+        "price": "प्रति पूछताछ उद्धृत किया गया",
+        "lead": "प्रति आदेश की पुष्टि की गई"
       }
     ],
     "tableHeaders": [
       "उत्पाद",
       "MOQ",
-      "कीमत (EXW)",
+      "कीमत",
       "समय सीमा"
     ]
   },
   "certifications": {
     "title": "प्रमाणपत्र एवं मानक",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "उत्पाद और गंतव्य बाजार के अनुसार मानकों और प्रमाणन विकल्पों पर चर्चा की जाती है। प्रमाणपत्र प्रतियां अनुरोध पर निजी तौर पर भेजी जाती हैं - फ़ाइलें इस वेबसाइट पर प्रकाशित नहीं की जाती हैं।",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "कोटेशन प्राप्त करें",
-        "desc": "24 घंटे के भीतर कीमत, MOQ, लीड टाइम और स्पेक शीट"
+        "desc": "हमारी बिक्री टीम द्वारा समीक्षा के बाद मूल्य, MOQ, लीड समय और स्पेक शीट"
       },
       {
         "title": "आदेश की पुष्टि",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "उत्पादन शुरू होने से पहले अनुबंध और भुगतान की शर्तों पर सहमति हुई"
       },
       {
         "title": "उत्पादन एवं क्यूसी",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "विनिर्माण और परीक्षण. अनुरोध पर वीडियो और प्रमाणपत्र निजी तौर पर भेजे जाते हैं"
       },
       {
         "title": "लदान",
-        "desc": "पैकेजिंग, दस्तावेज़, एफओबी/सीआईएफ/डीडीपी डिलीवरी"
+        "desc": "ऑर्डर में सहमति के अनुसार पैकेजिंग, दस्तावेज़ और डिलीवरी शर्तें"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "खरीदार क्या कहते हैं",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "हमने इस वर्ष तीन बार 40L एसिटिलीन सिलेंडर का ऑर्डर दिया। GOST वाल्व, OEM रंग और निर्यात पैकिंग हर बार पहले नमूने से मेल खाते थे।",
+        "author": "रुस्तम युसुपोव",
+        "role": "मालिक, वेल्डिंग गैस वितरक",
+        "country": "उज़्बेकिस्तान"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "कोटेशन उसी दिन स्पष्ट MOQ और लीड टाइम के साथ आया। प्रोपेन की बोतलें पीओएल वाल्व और पूरी पैकिंग सूची के साथ पहुंचीं - हमारी ओर से कोई सीमा शुल्क देरी नहीं हुई।",
+        "author": "एगेरिम बेकोवा",
+        "role": "खरीद प्रबंधक, औद्योगिक आपूर्ति",
+        "country": "कजाखस्तान"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "हम एक कंटेनर ऑर्डर के रूप में रेगुलेटर और होज़ वाले सिलेंडर खरीदते हैं। हमारे बाज़ार के लिए दस्तावेज़ और अंकन तैयार थे, इसलिए पुनर्विक्रय आसान था।",
+        "author": "फैसल अल-हर्बी",
+        "role": "आयात खरीदार, गैस उपकरण व्यापार",
+        "country": "सऊदी अरब"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "गुणवत्ता",
         "eyebrow": "गुणवत्ता एवं सुरक्षा",
         "title": "निरीक्षण आप उद्धरण में डाल सकते हैं",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "सामग्री जांच, रिसाव परीक्षण, वाल्व टॉर्क और पैकिंग तस्वीरें। प्रमाणपत्र पैक और फोटो रिपोर्ट अनुरोध पर निजी तौर पर भेजे जाते हैं।",
         "points": [
           "दबाव एवं रिसाव परीक्षण",
-          "Certificate package",
+          "अनुरोध पर प्रमाण पत्र",
           "प्री-शिपमेंट तस्वीरें"
         ]
       },
       {
         "id": "निर्यात",
         "eyebrow": "वैश्विक निर्यात",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "बंदरगाहों के लिए पैक, निर्यात बाज़ारों के लिए तैयार",
         "text": "निर्यात पैलेट, वाल्व सुरक्षा, बहुभाषी लेबल और शिपिंग दस्तावेज़ आपके गंतव्य Incoterms के लिए समन्वित हैं।",
         "points": [
           "एफओबी/सीआईएफ समर्थन",
           "पैलेटाइज़्ड पैकिंग",
           "लीड समय 15-25 दिन"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "प्रेषण के लिए लपेटे हुए गैस सिलेंडरों को फ़ैक्टरी यार्ड में रखा गया",
+    "about": "वांडा ग्रुप फैक्ट्री के फर्श पर श्रमिक",
+    "accessories": "गैस सिलेंडर सहायक किट - नियामक, नली, टॉर्च और फिटिंग",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "छिद्रपूर्ण द्रव्यमान और पीतल के वाल्व के साथ घुला हुआ एसिटिलीन सिलेंडर",
+      "संयंत्र में एसिटिलीन जनरेटर का फोटो लिया गया",
+      "कई आकारों और रंगों में प्रोपेन और एलपीजी सिलेंडर",
+      "गैस सिलेंडर के लिए वेल्डिंग और कटिंग एक्सेसरी किट"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "रात्रि प्रेषण: ट्रेलर पर लादे गए उपकरण लपेटे हुए",
+      "शिपमेंट के लिए पैलेट और धातु के हिस्सों का मंचन किया गया",
+      "गोदाम में पैक स्टॉक के कार्टन रखे हुए हैं",
+      "फ़िल्म में लिपटे सिलेंडर, फ़ैक्टरी यार्ड में रखे हुए",
+      "संयंत्र की छत के नीचे गैस सिलेंडर उत्पादन कन्वेयर",
+      "एलपीजी सिलेंडर ओवरहेड फिनिशिंग कन्वेयर पर लटके हुए हैं",
+      "वांडा ग्रुप फैक्ट्री के फर्श पर चलते हुए श्रमिक",
+      "अप्रकाशित वेल्डेड प्रोपेन सिलेंडर बॉडी दो-ऊंचाई पर खड़ी हैं",
+      "कंक्रीट के फर्श पर बिना रंगे सिलेंडर के खोलों की कतारें",
+      "कार्यशाला में सिलेंडर ट्यूब स्टॉक और कैप्ड गोले",
+      "कारखाने की दीवार के सामने कच्चे सिलिंडर के ढेर लगाए गए",
+      "स्टील बेस रिंग्स को असेंबली से पहले ढेर कर दिया गया",
+      "पीतल की फिटिंग फोम के साथ एक कार्टन में पैक की गई",
+      "नली और बॉक्सिंग सहायक उपकरण के साथ एसिटिलीन जनरेटर",
+      "वेल्डिंग के बाद खुली गर्दन वाले बिना रंगे सिलेंडर के खोल"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "कोपलैंड सेमी-हर्मेटिक कंप्रेसर के साथ एयर-कूल्ड संघनक इकाई",
+      "बिट्ज़र सेमी-हर्मेटिक कंप्रेसर के साथ एयर-कूल्ड संघनक इकाई",
+      "संलग्न कैबिनेट-शैली प्रशीतन संघनक इकाई",
+      "उच्च क्षमता वाली चार-पंखे वाली एयर-कूल्ड संघनक इकाई"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "कानूनी",
-    "title": "गोपनीयता नीति",
-    "updated": "अंतिम अद्यतन: 25 अगस्त 2026",
-    "intro": [
-      "वांडा समूह (\"हम\", \"हमें\") गैस सिलेंडर, सहायक उपकरण और संबंधित निर्यात आपूर्ति पेश करने और औद्योगिक खरीदारों से वाणिज्यिक पूछताछ प्राप्त करने के लिए इस वेबसाइट का संचालन करता है।",
-      "यह नीति बताती है कि हम साइट के माध्यम से कौन सा व्यक्तिगत डेटा एकत्र करते हैं, हम इसका उपयोग क्यों करते हैं और आप इसके बारे में हमसे कैसे संपर्क कर सकते हैं। हम वेबसाइट पर फ़ैक्टरी वीडियो या प्रमाणपत्र फ़ाइलें प्रकाशित नहीं करते हैं; वे सामग्रियाँ अनुरोध पर निजी तौर पर भेजी जाती हैं।"
-    ],
-    "sections": [
-      {
-        "title": "कौन जिम्मेदार है",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "हम कौन सा डेटा एकत्र करते हैं",
-        "body": [
-          "जब आप पूछताछ फ़ॉर्म भेजते हैं तो हमें आपके द्वारा दर्ज किया गया डेटा प्राप्त होता है: नाम, ईमेल, फ़ोन, गंतव्य देश, उत्पाद प्रकार, मात्रा और संदेश।",
-          "साइट आपकी भाषा पसंद को ब्राउज़र (लोकलस्टोरेज) में भी संग्रहीत करती है। हम विज्ञापन कुकीज़ नहीं चलाते या विज़िटर सूचियाँ नहीं बेचते।"
-        ]
-      },
-      {
-        "title": "हम डेटा का उपयोग क्यों करते हैं",
-        "body": [
-          "हम पूछताछ डेटा का उपयोग केवल आपके अनुरोध का उत्तर देने, एक कोटेशन तैयार करने, आपके द्वारा मांगी गई उत्पाद जानकारी, वीडियो या प्रमाणपत्र भेजने और यदि हम एक साथ काम करना शुरू करते हैं तो एक आदेश का समन्वय करने के लिए करते हैं।",
-          "कानूनी आधार: जब आप फॉर्म पर चेकबॉक्स पर टिक करते हैं तो आपकी सहमति, और बी2बी बिक्री अनुरोधों का उत्तर देने में हमारा वैध हित।"
-        ]
-      },
-      {
-        "title": "डेटा कौन प्राप्त करता है",
-        "body": [
-          "आपका संदेश हमारी बिक्री टीम को ईमेल द्वारा भेज दिया जाता है। कॉन्फ़िगरेशन के आधार पर, फॉर्म को फॉर्मसबमिट या फॉर्मस्प्री द्वारा एक तकनीकी प्रदाता के रूप में संसाधित किया जा सकता है जो हमें संदेश भेजता है।",
-          "हम व्यक्तिगत डेटा नहीं बेचते हैं. हम लॉजिस्टिक्स, निरीक्षण या बैंकिंग भागीदारों के साथ केवल तभी साझा कर सकते हैं जो किसी सहमत आदेश को पूरा करने के लिए आवश्यक हो।"
-        ]
-      },
-      {
-        "title": "हम इसे कब तक रखते हैं",
-        "body": [
-          "पूछताछ डेटा को अनुरोध को संभालने के लिए आवश्यक समय तक और उसके बाद बिक्री अनुवर्ती और लेखांकन के लिए उचित अवधि तक रखा जाता है, जब तक कि आप हमें इसे पहले हटाने के लिए नहीं कहते जहां कानून अनुमति देता है।"
-        ]
-      },
-      {
-        "title": "आपके हक",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "सुरक्षा और बच्चे",
-        "body": [
-          "हम पारगमन और अपने मेलबॉक्स में संदेशों की सुरक्षा के लिए उचित तकनीकी और संगठनात्मक कदम उठाते हैं। यह वेबसाइट व्यावसायिक खरीदारों के लिए है, बच्चों के लिए नहीं।"
-        ]
-      }
-    ],
-    "contactLead": "इस नीति के बारे में प्रश्न:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "कानूनी",
+    "title": "उपयोग की शर्तें",
+    "updated": "अंतिम अद्यतन: 27 अगस्त 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "ये शर्तें गैस सिलेंडर, जनरेटर और सहायक उपकरण के औद्योगिक खरीदारों के लिए वांडा समूह द्वारा संचालित wandagroups.com के उपयोग को नियंत्रित करती हैं।",
+      "साइट ब्राउज़ करके या पूछताछ भेजकर आप इन शर्तों और हमारी गोपनीयता नीति से सहमत होते हैं। यदि आप सहमत नहीं हैं, तो साइट का उपयोग न करें।"
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "हम जो हैं",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "वेबसाइट किस लिए है",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "साइट उत्पाद जानकारी प्रस्तुत करती है और व्यावसायिक पूछताछ प्राप्त करती है। यह व्यावसायिक खरीदारों के लिए है, न कि निजी तौर पर खरीदारी करने वाले उपभोक्ताओं के लिए और न ही बच्चों के लिए।"
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "उद्धरण, कीमतें और ऑर्डर",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "साइट पर कीमतें, एमओक्यू, लीड समय और विशिष्टताएं सांकेतिक हैं। प्रपत्र या संदेशवाहक के माध्यम से भेजा गया संदेश एक पूछताछ है, आदेश नहीं।",
+          "एक अनुबंध तभी अस्तित्व में आता है जब दोनों पक्ष लिखित रूप में प्रस्ताव की पुष्टि करते हैं (ईमेल या हस्ताक्षरित दस्तावेज़) और सहमत जमा प्राप्त हो जाता है, जब तक कि हम उस पुष्टिकरण में अन्यथा नहीं बताते हैं।"
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "तस्वीरें, वीडियो और प्रमाण पत्र",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "साइट पर फ़ैक्टरी फ़ोटो और वीडियो उत्पादन का वर्णन करते हैं। अतिरिक्त फ़ुटेज और प्रमाणपत्र फ़ाइलें अनुरोध पर निजी तौर पर भेजी जाती हैं और हमारी गोपनीय सामग्री बनी रहती हैं जब तक कि हम न कहें कि आप उन्हें साझा कर सकते हैं।"
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "बौद्धिक संपदा",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "इस वेबसाइट पर टेक्स्ट, फोटो, वीडियो, लोगो और लेआउट वांडा ग्रुप या हमारे लाइसेंसकर्ताओं के हैं। आप हमारी लिखित सहमति के बिना अपनी व्यावसायिक साइट के लिए कैटलॉग की प्रतिलिपि नहीं बना सकते।"
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "स्वीकार्य उपयोग",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "पूछताछ फॉर्म का दुरुपयोग न करें (स्पैम, झूठी पहचान, या साइट को बाधित करने का प्रयास)। हम अपमानजनक अनुरोधों को अनदेखा कर सकते हैं या हटा सकते हैं।"
         ]
       },
       {
-        "title": "Liability",
+        "title": "देयता",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "हम जानकारी को सटीक रखने का ध्यान रखते हैं, लेकिन साइट में त्रुटियाँ हो सकती हैं या अस्थायी रूप से अनुपलब्ध हो सकती हैं। कानून द्वारा अनुमत सीमा तक, वांडा समूह केवल वेबसाइट के उपयोग से होने वाले अप्रत्यक्ष नुकसान के लिए उत्तरदायी नहीं है।",
+          "वास्तविक आपूर्ति अनुबंध के लिए दायित्व उस अनुबंध और लागू कानून में निर्धारित किया गया है, न कि केवल इन वेबसाइट शर्तों में।"
         ]
       },
       {
-        "title": "Changes",
+        "title": "परिवर्तन",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "हम इन शर्तों को अद्यतन कर सकते हैं. शीर्ष पर दिनांक वर्तमान संस्करण दिखाता है. परिवर्तन के बाद साइट का निरंतर उपयोग का मतलब है कि आप अद्यतन शर्तों को स्वीकार करते हैं।"
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "इन शर्तों के बारे में प्रश्न:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "हमारी उत्पाद श्रृंखला",
+    "title": "प्रशीतन इकाइयाँ",
+    "subtitle": "एक अलग वांडा ग्रुप लाइन - कोई तृतीय-पक्ष कैटलॉग नहीं। संघनक इकाइयां, ठंडे कमरे और हार्डवेयर, सिलेंडर के साथ या स्टैंड-अलोन ऑर्डर के रूप में हमारे द्वारा आपूर्ति की जाती हैं।",
+    "moreLink": "कोल्ड स्टोरेज उपकरण →",
+    "cta": "एक उद्धरण का अनुरोध करें",
+    "alsoTitle": "अनुरोध पर भी उपलब्ध है",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "पॉलीयूरेथेन कोल्ड-रूम पैनल (बी1/बी2) और 304 स्टेनलेस पैनल",
+      "कोल्ड-रूम एयर कूलर - डीएल (~0 डिग्री सेल्सियस), डीडी (~−18 डिग्री सेल्सियस), डीजे (~−25 डिग्री सेल्सियस)",
+      "एल्यूमीनियम बाष्पीकरण करनेवाला कुंडलियाँ",
+      "शीत-कक्ष के दरवाजे",
+      "औद्योगिक जल चिलर",
+      "वाहन प्रशीतन इकाइयाँ और मोबाइल कोल्ड रूम"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "वांडा इंटरनेशनल ट्रेड गैस-सिलेंडर लाइन के साथ-साथ प्रशीतन उपकरण की आपूर्ति करता है: इकाइयाँ, पैनल, कूलर और संबंधित कोल्ड-चेन हार्डवेयर। कोपलैंड, बिट्ज़र और इसी तरह के नाम यूनिट के अंदर कंप्रेसर ब्रांड को संदर्भित करते हैं, न कि उन कंपनियों के रीब्रांड को।",
+    "videoTitle": "कंपनी वीडियो",
+    "videoSubtitle": "प्रशीतन उपकरण लाइन का अवलोकन. अनुरोध पर अधिक फुटेज निजी तौर पर भेजे जाते हैं।",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "कोपलैंड अर्ध-हर्मेटिक एयर-कूल्ड इकाई",
+        "spec": "संघनक इकाई · कोपलैंड कंप्रेसर",
+        "desc": "ठंडे कमरे और मध्यम-तापमान ड्यूटी के लिए कोपलैंड सेमी-हर्मेटिक कंप्रेसर के साथ एयर-कूल्ड संघनक इकाई।"
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "बिट्ज़र अर्ध-हर्मेटिक एयर-कूल्ड इकाई",
+        "spec": "संघनक इकाई · बिट्ज़र कंप्रेसर",
+        "desc": "उच्च-ड्यूटी और मध्य-से-निम्न तापमान वाले कमरों के लिए बिट्ज़र सेमी-हर्मेटिक कंप्रेसर के साथ एयर-कूल्ड संघनक इकाई।"
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "संलग्न बॉक्स-प्रकार की इकाई",
+        "spec": "कैबिनेट संघनक इकाई",
+        "desc": "उन साइटों के लिए संलग्न कैबिनेट-शैली संघनक इकाई, जिन्हें खुली स्किड के बजाय एक घरेलू मशीन की आवश्यकता होती है।"
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "यू-प्रकार/उच्च क्षमता संघनक इकाई",
+        "spec": "मल्टी-फैन एयर-कूल्ड",
+        "desc": "बड़े कोल्ड स्टोर और प्रोसेस कूलिंग के लिए मल्टी-फैन कंडेनसर के साथ बड़ी एयर-कूल्ड कंडेंसिंग यूनिट।"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "हम जो हैं",
+    "title": "B2B खरीदारों के लिए औद्योगिक निर्माता",
+    "text": "वांडा समूह विदेशी वितरकों, ओईएम भागीदारों और परियोजना खरीदारों के लिए औद्योगिक गैस सिलेंडर, जनरेटर और वेल्डिंग सहायक उपकरण का निर्माण और आपूर्ति करता है।",
+    "text2": "हमारा ध्यान फ़ैक्टरी-लिंक्ड आपूर्ति, उत्पाद चयन समर्थन, थोक ऑर्डर और निर्यात समन्वय पर है - खुदरा उपभोक्ता बिक्री पर नहीं।",
+    "cta": "हमारे बारे में अधिक जानें"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "कोटेशन का अनुरोध करने के लिए तैयार हैं?",
+      "quoteCta": "एक उद्धरण का अनुरोध करें",
+      "relatedProducts": "संबंधित उत्पाद",
+      "applications": "अनुप्रयोग",
+      "standardsTitle": "मानक एवं प्रमाणीकरण",
+      "oemTitle": "OEM/अनुकूलन",
+      "packagingTitle": "पैकेजिंग एवं डिलिवरी",
+      "placeholders": {
+        "standards": "उपलब्ध मानकों और प्रमाणपत्रों की पुष्टि प्रति ऑर्डर और गंतव्य बाजार में की जाती है। प्रमाणपत्र प्रतियां अनुरोध पर निजी तौर पर भेजी जाती हैं - फ़ाइलें वेबसाइट पर प्रकाशित नहीं की जाती हैं।",
+        "oem": "ऑर्डर और लक्ष्य बाजार के अनुसार OEM रंग, मार्किंग, वाल्व, कैप और पैकिंग विकल्पों पर चर्चा की जा सकती है।",
+        "packaging": "निर्यात पैकिंग और दस्तावेज़ीकरण ऑर्डर और शिपिंग शर्तों के अनुसार तैयार किए जाते हैं।"
+      }
+    },
+    "home": {
+      "seoTitle": "गैस सिलेंडर निर्माता | औद्योगिक ओईएम और निर्यात | वांडा समूह",
+      "seoDescription": "वांडा समूह ओईएम, थोक और अंतरराष्ट्रीय निर्यात खरीदारों के लिए औद्योगिक गैस सिलेंडर, जनरेटर और वेल्डिंग सहायक उपकरण बनाती है।"
+    },
+    "about": {
+      "label": "हमारे बारे में",
+      "title": "औद्योगिक खरीदारों के लिए गैस सिलेंडर निर्माता",
+      "subtitle": "हम उत्पाद चयन, OEM, निरीक्षण, पैकिंग और शिपिंग के साथ विदेशी खरीदारों का समर्थन करते हैं।",
+      "seoTitle": "वांडा ग्रुप के बारे में",
+      "seoDescription": "वांडा समूह वेल्डिंग, कटिंग और औद्योगिक गैस आपूर्ति के लिए एसिटिलीन सिलेंडर, प्रोपेन सिलेंडर, जनरेटर और सहायक उपकरण बनाता है।"
+    },
+    "products": {
+      "label": "उत्पादों",
+      "title": "हमारे उत्पाद",
+      "subtitle": "औद्योगिक और वेल्डिंग अनुप्रयोगों के लिए एसिटिलीन सिलेंडर, जनरेटर, प्रोपेन सिलेंडर और सहायक उपकरण।",
+      "seoTitle": "गैस सिलेंडर उत्पाद",
+      "seoDescription": "औद्योगिक और वेल्डिंग अनुप्रयोगों के लिए एसिटिलीन सिलेंडर, जनरेटर, प्रोपेन सिलेंडर और सहायक उपकरण।",
+      "refrigerationNote": "वांडा इंटरनेशनल ट्रेड गैस-सिलेंडर लाइन के साथ-साथ प्रशीतन उपकरण की आपूर्ति करता है: इकाइयाँ, पैनल, कूलर और संबंधित कोल्ड-चेन हार्डवेयर। कोपलैंड, बिट्ज़र और इसी तरह के नाम यूनिट के अंदर कंप्रेसर ब्रांड को संदर्भित करते हैं, न कि उन कंपनियों के रीब्रांड को।",
+      "catalog": {
+        "acetylene": {
+          "name": "विघटित एसिटिलीन सिलेंडर",
+          "overview": "सुरक्षित एसिटिलीन भंडारण और परिवहन के लिए छिद्रपूर्ण द्रव्यमान और विलायक के साथ स्टील सिलेंडर। वेल्डिंग, कटिंग, ब्रेजिंग और धातु निर्माण में उपयोग किया जाता है।",
+          "seoTitle": "एसिटिलीन गैस सिलेंडर",
+          "seoDescription": "सुरक्षित एसिटिलीन भंडारण और परिवहन के लिए छिद्रपूर्ण द्रव्यमान और विलायक के साथ स्टील सिलेंडर। वेल्डिंग, कटिंग, ब्रेजिंग और धातु निर्माण में उपयोग किया जाता है।"
+        },
+        "propane": {
+          "name": "प्रोपेन सिलेंडर",
+          "overview": "प्रोपेन, ब्यूटेन और एलपीजी मिश्रण के लिए सिलेंडर। हीटिंग, कटिंग, ब्रेजिंग, निर्माण और औद्योगिक गैस आपूर्ति में उपयोग किया जाता है।",
+          "seoTitle": "प्रोपेन गैस सिलेंडर",
+          "seoDescription": "प्रोपेन, ब्यूटेन और एलपीजी मिश्रण के लिए सिलेंडर। हीटिंग, कटिंग, ब्रेजिंग, निर्माण और औद्योगिक गैस आपूर्ति में उपयोग किया जाता है।"
+        },
+        "lpg": {
+          "name": "एलपीजी सिलेंडर",
+          "overview": "प्रोपेन, ब्यूटेन और एलपीजी मिश्रण के लिए सिलेंडर। हीटिंग, कटिंग, ब्रेजिंग, निर्माण और औद्योगिक गैस आपूर्ति में उपयोग किया जाता है।",
+          "seoTitle": "एलपीजी गैस सिलेंडर",
+          "seoDescription": "प्रोपेन, ब्यूटेन और एलपीजी मिश्रण के लिए सिलेंडर। हीटिंग, कटिंग, ब्रेजिंग, निर्माण और औद्योगिक गैस आपूर्ति में उपयोग किया जाता है।"
+        },
+        "industrial": {
+          "name": "औद्योगिक गैस सिलेंडर",
+          "overview": "वेल्डिंग, कटिंग और संयंत्र आपूर्ति के लिए औद्योगिक गैस सिलेंडर - जिसमें आपके बाजार से मेल खाने वाले एसिटिलीन, प्रोपेन और एलपीजी विकल्प शामिल हैं।",
+          "seoTitle": "औद्योगिक गैस सिलेंडर",
+          "seoDescription": "वांडा समूह से वेल्डिंग, कटिंग और संयंत्र आपूर्ति के लिए औद्योगिक गैस सिलेंडर।"
+        },
+        "generators": {
+          "name": "एसिटिलीन जेनरेटर",
+          "overview": "कैल्शियम कार्बाइड से एसिटिलीन के उत्पादन के लिए उपकरण। केंद्रीकृत गैस बुनियादी ढांचे के बिना वेल्डिंग और औद्योगिक जरूरतों के लिए स्थिर गैस आपूर्ति।",
+          "seoTitle": "एसिटिलीन जेनरेटर",
+          "seoDescription": "कैल्शियम कार्बाइड से एसिटिलीन के उत्पादन के लिए उपकरण। केंद्रीकृत गैस बुनियादी ढांचे के बिना वेल्डिंग और औद्योगिक जरूरतों के लिए स्थिर गैस आपूर्ति।"
+        },
+        "accessories": {
+          "name": "सिलेंडर सहायक उपकरण और फिटिंग",
+          "overview": "सुरक्षित गैस सिलेंडर संचालन के लिए पूरी श्रृंखला: गेज से लेकर वेल्डिंग टॉर्च तक। सिलेंडर के साथ वन-स्टॉप खरीद।",
+          "seoTitle": "वेल्डिंग सहायक उपकरण",
+          "seoDescription": "सुरक्षित गैस सिलेंडर संचालन के लिए पूरी श्रृंखला: गेज से लेकर वेल्डिंग टॉर्च तक। सिलेंडर के साथ वन-स्टॉप खरीद।"
+        },
+        "refrigeration": {
+          "name": "प्रशीतन इकाइयाँ",
+          "overview": "एक अलग वांडा ग्रुप लाइन - कोई तृतीय-पक्ष कैटलॉग नहीं। संघनक इकाइयां, ठंडे कमरे और हार्डवेयर, सिलेंडर के साथ या स्टैंड-अलोन ऑर्डर के रूप में हमारे द्वारा आपूर्ति की जाती हैं।",
+          "seoTitle": "प्रशीतन इकाइयाँ",
+          "seoDescription": "एक अलग वांडा ग्रुप लाइन - कोई तृतीय-पक्ष कैटलॉग नहीं। संघनक इकाइयां, ठंडे कमरे और हार्डवेयर, सिलेंडर के साथ या स्टैंड-अलोन ऑर्डर के रूप में हमारे द्वारा आपूर्ति की जाती हैं।"
+        }
+      }
+    },
+    "factory": {
+      "label": "कारखाना",
+      "title": "फैक्टरी और विनिर्माण",
+      "subtitle": "उत्पादन, निरीक्षण, पैकिंग और प्रेषण - वास्तविक संयंत्र फोटोग्राफी और फैक्टरी वीडियो के साथ प्रलेखित।",
+      "seoTitle": "फ़ैक्टरी और उत्पादन | वांडा समूह",
+      "seoDescription": "वास्तविक पौधे की तस्वीरें, लाइव डिस्पैच शॉट्स और प्रोडक्शन फ्लोर से लघु वीडियो।",
+      "sections": [
+        {
+          "title": "उत्पादन",
+          "text": "प्लांट उत्पादन प्रवाह के हिस्से के रूप में सिलेंडर बनाना, वेल्डिंग और फिनिशिंग करना।"
+        },
+        {
+          "title": "उत्पादन प्रक्रिया",
+          "text": "शेल की तैयारी से लेकर असेंबली और फिनिशिंग तक - इन-प्रोसेस स्टॉक और प्रोडक्शन फ्लोर फुटेज देखें।"
+        },
+        {
+          "title": "गुणवत्ता निरीक्षण",
+          "text": "शिपमेंट के लिए सिलेंडर तैयार करने की दृश्य, अंकन और आयामी जांच।"
+        },
+        {
+          "title": "परीक्षण",
+          "text": "ऑर्डर की आवश्यकताओं के अनुसार उत्पादों के लाइन छोड़ने से पहले दबाव और रिसाव परीक्षण लागू किया जाता है।"
+        },
+        {
+          "title": "पैकेजिंग",
+          "text": "निर्यात पैकिंग विदेशी परिवहन के लिए सिलेंडर और फिटिंग की सुरक्षा करती है।"
+        },
+        {
+          "title": "लोड हो रहा है और निर्यात",
+          "text": "आउटबाउंड ऑर्डर के लिए वेयरहाउस स्टेजिंग, ट्रक लोडिंग और डिस्पैच दस्तावेज़ीकरण।"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "प्रमाणपत्र",
+      "title": "प्रमाणपत्र एवं मानक",
+      "subtitle": "खरीदारों द्वारा आमतौर पर अनुरोधित मानक नीचे सूचीबद्ध हैं। प्रयोज्यता उत्पाद और गंतव्य बाजार पर निर्भर करती है। प्रमाणपत्र प्रतियां, संख्याएं और वैधता अनुरोध पर निजी तौर पर साझा की जाती हैं - असत्यापित दावों के रूप में प्रकाशित नहीं की जाती हैं।",
+      "seoTitle": "प्रमाणपत्र और मानक | वांडा समूह",
+      "seoDescription": "बाजार द्वारा वांडा समूह के गैस सिलेंडरों के लिए मानकों पर चर्चा की गई। अनुरोध पर प्रमाणपत्र प्रतियां निजी तौर पर प्रदान की जाती हैं।",
+      "note": "अनुरोध पर प्रमाणपत्र प्रतियां निजी तौर पर भेजी जाती हैं। हम वेबसाइट पर प्रमाणपत्र फ़ाइलें प्रकाशित नहीं करते हैं।"
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM और थोक",
+      "subtitle": "वितरकों और औद्योगिक खरीदारों के लिए निजी लेबल और थोक आपूर्ति विकल्प।",
+      "seoTitle": "ओईएम गैस सिलेंडर आपूर्ति",
+      "seoDescription": "विदेशी ब्रांडों और वितरकों के लिए OEM और निजी-लेबल गैस सिलेंडर विनिर्माण।",
+      "quoteTitle": "OEM आवश्यकताओं पर चर्चा करें",
+      "quoteCta": "OEM कोटेशन का अनुरोध करें",
+      "capabilities": [
+        {
+          "title": "कस्टम लोगो",
+          "text": "योग्य OEM ऑर्डर के लिए लोगो और अंकन विकल्पों पर चर्चा की गई।"
+        },
+        {
+          "title": "कस्टम रंग",
+          "text": "बाजार या ब्रांड की आवश्यकताओं के अनुसार सिलेंडर का रंग।"
+        },
+        {
+          "title": "कस्टम पैकेजिंग",
+          "text": "ऑर्डर द्वारा कार्टन, पैलेट और पैकिंग मार्क निर्यात करें।"
+        },
+        {
+          "title": "निजी लेबल",
+          "text": "वितरक चैनलों के लिए लेबलिंग और ब्रांड प्रस्तुति।"
+        },
+        {
+          "title": "थोक आदेश",
+          "text": "परियोजना और वितरक खरीद के लिए थोक मात्रा।"
+        },
+        {
+          "title": "ओईएम विनिर्माण",
+          "text": "उत्पाद विन्यास आपके विनिर्देश और बाजार के अनुरूप है।"
+        },
+        {
+          "title": "निर्यात समर्थन",
+          "text": "विदेशी डिलीवरी के लिए दस्तावेज़ और शिपिंग समन्वय।"
+        }
+      ]
+    },
+    "markets": {
+      "label": "बाज़ार",
+      "title": "वैश्विक बाजार",
+      "subtitle": "हम अंतर्राष्ट्रीय B2B खरीदारों का समर्थन करते हैं। नीचे दिए गए क्षेत्र सामान्य पूछताछ क्षेत्रों का वर्णन करते हैं - विशिष्ट देशों और परियोजनाओं की पुष्टि मामले दर मामले की जाती है।",
+      "seoTitle": "वैश्विक बाज़ार | वांडा समूह निर्यात",
+      "seoDescription": "वांडा समूह अफ्रीका, मध्य पूर्व, मध्य एशिया, दक्षिण पूर्व एशिया, लैटिन अमेरिका और अन्य बाजारों में अंतरराष्ट्रीय औद्योगिक खरीदारों के साथ काम करता है।",
+      "note": "हम इस पृष्ठ पर असत्यापित देश संख्या, ग्राहक नाम या परियोजना संदर्भ प्रकाशित नहीं करते हैं।",
+      "regions": [
+        {
+          "title": "अफ़्रीका",
+          "text": "अफ़्रीकी बाज़ारों से औद्योगिक और वितरक पूछताछ।"
+        },
+        {
+          "title": "मध्य पूर्व",
+          "text": "खरीदार क्षेत्रीय परियोजनाओं के लिए सिलेंडर और संबंधित उपकरण खरीद रहे हैं।"
+        },
+        {
+          "title": "मध्य एशिया",
+          "text": "मध्य एशियाई बाजारों में थोक और परियोजना आपूर्ति पर चर्चा।"
+        },
+        {
+          "title": "दक्षिणपूर्व एशिया",
+          "text": "औद्योगिक खरीदार निर्यात सिलेंडर आपूर्ति का मूल्यांकन कर रहे हैं।"
+        },
+        {
+          "title": "लैटिन अमेरिका",
+          "text": "औद्योगिक गैस सिलेंडर और सहायक आपूर्ति के लिए पूछताछ।"
+        },
+        {
+          "title": "अन्य अंतर्राष्ट्रीय बाज़ार",
+          "text": "उत्पाद मानक और लॉजिस्टिक्स के अनुसार अतिरिक्त गंतव्यों की समीक्षा की जाती है।"
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "अनुप्रयोग",
+      "title": "सिलेंडर अनुप्रयोग",
+      "subtitle": "सामान्य औद्योगिक गैस कार्यों और विदेशी खरीदार आवश्यकताओं के लिए डिज़ाइन किए गए उत्पाद।",
+      "seoTitle": "सिलेंडर अनुप्रयोग",
+      "seoDescription": "सामान्य औद्योगिक गैस कार्यों और विदेशी खरीदार आवश्यकताओं के लिए डिज़ाइन किए गए उत्पाद।",
+      "items": [
+        {
+          "title": "वेल्डिंग एवं टांकना",
+          "text": "वर्कशॉप और फैब्रिकेशन वेल्डिंग के लिए घुलित एसिटिलीन और संबंधित उपकरण।"
+        },
+        {
+          "title": "धातु को काटना",
+          "text": "साइट पर और संयंत्र में ऑक्सी-ईंधन काटने के लिए सिलेंडर और सहायक उपकरण।"
+        },
+        {
+          "title": "औद्योगिक गैस आपूर्ति",
+          "text": "औद्योगिक वितरण और संयंत्र गैस प्रणालियों के लिए सिलेंडर आपूर्ति।"
+        },
+        {
+          "title": "निर्माण",
+          "text": "निर्माण और रखरखाव कार्य के लिए पोर्टेबल गैस आपूर्ति।"
+        },
+        {
+          "title": "धातु निर्माण",
+          "text": "निर्माण की दुकानों और शिपयार्डों के लिए सिलेंडर और सहायक उपकरण।"
+        },
+        {
+          "title": "गैस भंडारण एवं वितरण",
+          "text": "औद्योगिक खरीदारों के लिए भंडारण और वितरण के लिए तैयार सिलेंडर।"
+        }
+      ]
+    },
+    "faq": {
+      "label": "अक्सर पूछे जाने वाले प्रश्न",
+      "title": "अक्सर पूछे जाने वाले प्रश्नों",
+      "subtitle": "कंपनी, उत्पाद, ओईएम और निर्यात - कोटेशन का अनुरोध करने से पहले विदेशी खरीदारों के लिए उत्तर।",
+      "seoTitle": "अक्सर पूछे जाने वाले प्रश्न",
+      "seoDescription": "कंपनी, उत्पाद, ओईएम और निर्यात - कोटेशन का अनुरोध करने से पहले विदेशी खरीदारों के लिए उत्तर।"
+    },
+    "contactPage": {
+      "label": "संपर्क",
+      "title": "आइए आपकी आवश्यकताओं पर चर्चा करें",
+      "subtitle": "फ़ॉर्म, ईमेल या मैसेंजर द्वारा हमारी बिक्री टीम तक पहुंचें। तेज़ कोटेशन के लिए उत्पाद, मात्रा और गंतव्य साझा करें।",
+      "seoTitle": "एक उद्धरण का अनुरोध करें",
+      "seoDescription": "हमें आकार, मात्रा, गंतव्य देश और आवेदन बताएं - हम एक विस्तृत उद्धरण तैयार करेंगे।"
+    },
+    "blog": {
+      "label": "ब्लॉग",
+      "title": "नवीनतम लेख",
+      "subtitle": "वेल्डिंग और गैस आपूर्ति पेशेवरों के लिए विशेषज्ञ सामग्री।",
+      "seoTitle": "लेख एवं मार्गदर्शिकाएँ",
+      "seoDescription": "वेल्डिंग और गैस आपूर्ति पेशेवरों के लिए विशेषज्ञ सामग्री।",
+      "coming": "अधिक खरीदार गाइड और उत्पाद नोट्स यहां जोड़े जाएंगे। उपरोक्त लेखों का उपयोग करें या उत्पाद-विशिष्ट सामग्री के लिए हमसे संपर्क करें।"
+    },
+    "privacy": {
+      "seoTitle": "गोपनीयता नीति",
+      "seoDescription": "वांडा समूह की वेबसाइट पूछताछ और व्यक्तिगत डेटा के लिए गोपनीयता नीति।"
+    },
+    "terms": {
+      "seoTitle": "उपयोग की शर्तें",
+      "seoDescription": "वांडा समूह वेबसाइट के लिए उपयोग की शर्तें।"
+    },
+    "notFound": {
+      "seoTitle": "पृष्ठ नहीं मिला",
+      "seoDescription": "आप का अनुरोध किया हुआ पृष्ठ अनुपलभ्य है।",
+      "title": "पृष्ठ नहीं मिला",
+      "text": "आप जिस पृष्ठ की तलाश कर रहे हैं वह मौजूद नहीं है या स्थानांतरित हो गया है।",
+      "home": "घर",
+      "products": "उत्पादों",
+      "contact": "संपर्क करें/कोटेशन प्राप्त करें"
+    }
   }
 }

@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "بيت",
     "products": "منتجات",
     "specs": "تحديد",
     "applications": "التطبيقات",
     "about": "عن",
     "gallery": "معرض",
+    "factory": "مصنع",
     "quality": "جودة",
     "faq": "التعليمات",
     "contact": "اتصال",
@@ -13,44 +15,42 @@
     "services": "خدمات",
     "pricing": "التسعير",
     "accessories": "مُكَمِّلات",
-    "home": "الرئيسية",
-    "factory": "مصنع",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "التخزين البارد",
+    "cooling": "تبريد",
+    "certifications": "الشهادات",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "الأسواق"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "مصنع اسطوانات الغاز الصناعية",
+    "title": "الشركة المصنعة لأسطوانات الغاز الصناعية والمعدات",
+    "subtitle": "التصنيع وتصنيع المعدات الأصلية وتوريد أسطوانات الأسيتيلين وأسطوانات البروبان/غاز البترول المسال والمولدات وملحقات اللحام بالجملة لمشتري التصدير الدوليين.",
+    "lineGas": "اسطوانات الغاز",
+    "lineCold": "وحدات التبريد",
+    "cta": "احصل على عرض أسعار",
+    "ctaSecondary": "عرض المنتجات",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "العرض الذي يركز على الشركة المصنعة"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "تسمية خاصة والتخصيص"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "دعم الشحن الدولي"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "عملية التفتيش والاختبار"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "خيارات خاصة بالسوق عند الطلب"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "ملحقات أسطوانة الغاز الموثوقة",
@@ -60,33 +60,33 @@
   "products": {
     "title": "منتجاتنا",
     "subtitle": "أسطوانات الأسيتيلين والمولدات وأسطوانات البروبان وملحقاتها للتطبيقات الصناعية واللحام.",
+    "viewDetails": "عرض التفاصيل",
     "items": [
       {
         "title": "اسطوانة الأسيتيلين",
-        "desc": "أسطوانات الأسيتيلين المذابة للحام والقطع والغازات الصناعية. أحجام مختلفة وخيارات الصمام.",
-        "icon": "🔥",
-        "spec": "2 لتر – 40 لتر · ISO / DOT / TPED"
+        "spec": "2 لتر - 40 لتر · المعايير المؤكدة لكل سوق",
+        "desc": "أسطوانات الأسيتيلين المذابة للحام والقطع وإمدادات الغاز الصناعي.",
+        "icon": "🔥"
       },
       {
         "title": "مولد الأسيتيلين",
-        "desc": "معدات لإنتاج الغاز المستقر والتشغيل السهل والتطبيقات الصناعية.",
-        "icon": "⚙️",
-        "spec": "أنظمة التوليد الصناعية"
+        "spec": "أنظمة التوليد الصناعية",
+        "desc": "معدات لإنتاج الأسيتيلين المستقر في الموقع وفي المصنع.",
+        "icon": "⚙️"
       },
       {
         "title": "اسطوانة البروبان",
-        "desc": "أسطوانات متينة للبروبان وغاز البترول المسال - للتخزين والتدفئة والقطع والاستخدام الصناعي.",
-        "icon": "🛢️",
-        "spec": "3 لتر – 50 لتر · POL / CGA / GOST"
+        "spec": "3 لتر – 50 لتر · خيارات الصمامات لكل سوق",
+        "desc": "أسطوانات غاز البترول المسال المتينة للتدفئة والقطع والاستخدام الصناعي.",
+        "icon": "🛢️"
       },
       {
         "title": "ملحقات الاسطوانة",
-        "desc": "الخراطيم، أجهزة القياس، مشاعل القطع، محارق اللحام، صمامات الأمان وغيرها.",
-        "icon": "🔧",
-        "spec": "صمامات · منظمات · خراطيم · مشاعل"
+        "spec": "صمامات · منظمات · خراطيم · مشاعل",
+        "desc": "التجهيزات المطابقة المتوفرة مع الأسطوانات أو كأمر منفصل.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "عرض التفاصيل"
+    ]
   },
   "specs": {
     "title": "المواصفات الفنية",
@@ -106,7 +106,7 @@
       },
       {
         "title": "التعبئة والتغليف والشحن",
-        "desc": "دعم تعبئة وشحن الصادرات للموزعين وعملاء المشروع."
+        "desc": "دعم تعبئة وتغليف الصادرات والشحن للموزعين وعملاء المشروع."
       }
     ]
   },
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "لماذا تختار مجموعات واندا",
+    "subtitle": "قدرات ملموسة للمشترين الصناعيين الذين يقومون بتقييم شريك التصنيع.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "العرض الذي يركز على الشركة المصنعة",
+        "desc": "توريد المنتجات موجه نحو الإنتاج، وليس فقط الكتالوجات التجارية."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "دعم صانعي القطع الأصلية",
+        "desc": "تمت مناقشة اللون المخصص والعلامات والصمام والتعبئة حسب الطلب."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "ضبط الجودة",
+        "desc": "التفتيش على المواد من خلال التعبئة قبل الشحن."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "التصدير الدولي",
+        "desc": "تصدير التعبئة وتنسيق الشحن للمشترين في الخارج."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "تخصيص المنتج",
+        "desc": "المواصفات تتكيف مع متطلبات السوق والتطبيق."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "دعم المبيعات سريع الاستجابة",
+        "desc": "عروض الأسعار والردود الفنية من خلال النموذج والبريد الإلكتروني والمراسلين."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "القدرة على الطلب بالجملة",
+        "desc": "كميات الجملة مدعومة للموزعين ومشتري المشروع."
       }
     ]
   },
   "about": {
-    "title": "الشركة المصنعة لأسطوانة الغاز المهنية",
-    "text": "شركة Wanda Group لأسطوانات الغاز متخصصة في إنتاج وتوريد أسطوانات الغاز الصناعية والملحقات ذات الصلة. يتم استخدام منتجاتنا على نطاق واسع في اللحام والقطع وتوزيع الغاز والتخزين الصناعي ومجالات إمدادات الغاز الأخرى.",
-    "text2": "نحن ندعم المشترين الأجانب في اختيار المنتجات والتخصيص وفحص الجودة والتعبئة وتنسيق الشحن.",
+    "title": "الشركة المصنعة لأسطوانة الغاز للمشترين الصناعيين",
+    "text": "تقوم مجموعة واندا بتصنيع أسطوانات الأسيتيلين واسطوانات البروبان والمولدات الكهربائية وملحقات اللحام والقطع وإمدادات الغاز الصناعي.",
+    "text2": "نحن ندعم المشترين في الخارج من خلال اختيار المنتجات وتصنيع المعدات الأصلية والتفتيش والتعبئة والشحن.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "تصنيع",
+        "desc": "تشكيل ولحام واختبار وتشطيب أسطوانات الغاز الصناعية."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "دعم صانعي القطع الأصلية",
+        "desc": "خيارات اللون ووضع العلامات والصمام والغطاء والتعبئة حسب الطلب."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "عملية الجودة",
+        "desc": "التفتيش والاختبار يتماشى مع متطلبات النظام والسوق."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "التصدير الدولي",
+        "desc": "دعم التوثيق والتعبئة للمشترين الصناعيين في الخارج."
       }
     ]
   },
   "gallery": {
     "title": "داخل مصنعنا",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "صور المصنع الحقيقية، ولقطات البث المباشر، ومقاطع الفيديو القصيرة من قاعة الإنتاج.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "إرسالية ليلية",
+        "desc": "مقطورة محملة تغادر بمعدات ملفوفة - يتم تحديد الوقت والمكان على اللقطة."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "نظمت البضائع للشحن",
+        "desc": "المنصات والأجزاء التي تم جمعها للإرسال. صورة مستودع حية، وليست مجموعة استوديو."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "مخزون معبأ",
+        "desc": "كرتونة مكدسة في المستودع، جاهزة للطلب الصادر التالي."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "معبأة للإرسال",
+        "desc": "يتم تغليف الأسطوانات ووضعها في ساحة المصنع للشحن."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "ناقل الإنتاج",
+        "desc": "تتحرك أجسام الأسطوانات عبر خط التشكيل والمعالجة."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "خط التشطيب لغاز البترول المسال",
+        "desc": "يتم دهان أسطوانات غاز البترول المسال على الناقل العلوي قبل التعبئة."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "داخل النبات",
+        "desc": "قاعة الإنتاج – الأشخاص والآلات والمخزون قيد التشغيل."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "أجسام الأسطوانات الملحومة",
+        "desc": "الأصداف بعد اللحام المحيطي، قبل الطلاء والصمامات."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "قذائف قبل الطلاء",
+        "desc": "تم تجميع الجثث غير المطلية على الأرض لخطوة العملية التالية."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "المخزون قيد التشغيل",
+        "desc": "أقسام الأنبوب والأصداف المغطاة في انتظار التجميع."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "أجسام الأسطوانات متوفرة في المخزون",
+        "desc": "يتم تكديس الأصداف المدرفلة بعد اللحام وقبل الرؤوس والصمامات."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "حلقات القاعدة",
+        "desc": "حلقات قدم مُجهزة للحام على أغلفة الأسطوانات."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "تجهيزات معبأة",
+        "desc": "الصمامات والتجهيزات المعبأة بالرغوة لشحن التصدير."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "مولد الأسيتيلين",
+        "desc": "وحدة مولد مع خرطوم وتركيبات جاهزة لمغادرة المصنع."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "قذائف على الأرض",
+        "desc": "الأجسام ذات الرقبة المفتوحة بعد اللحام — الدفعة قبل تركيب الصمام."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "فيديوهات المصنع",
+    "videosSubtitle": "شورت جديد من أرضية المصنع. يتم إرسال المزيد من اللقطات على الخاص عند الطلب."
   },
   "quality": {
     "title": "ضبط الجودة",
     "subtitle": "تتبع كل دفعة نفس المسار: الإنتاج والاختبار والفحص ومراقبة الجودة النهائية.",
     "steps": [
       {
-        "title": "إنتاج",
-        "desc": "التشكيل واللحام والتجميع تحت مراقبة عملية المصنع."
+        "title": "المواد الخام",
+        "desc": "تتم مراجعة المواد الواردة وفقًا لمتطلبات الطلب والعملية."
       },
       {
-        "title": "اختبار",
-        "desc": "اختبارات الضغط والتسرب قبل مغادرة الاسطوانات للخط."
+        "title": "إنتاج",
+        "desc": "التشكيل واللحام والتجميع تحت مراقبة عملية المصنع."
       },
       {
         "title": "تقتيش",
         "desc": "الفحوصات البصرية والعلامات والأبعاد مقابل الطلب."
       },
       {
+        "title": "اختبار",
+        "desc": "اختبارات الضغط والتسرب قبل مغادرة الاسطوانات للخط."
+      },
+      {
         "title": "مراقبة الجودة النهائية",
-        "desc": "فحص التعبئة قبل شحن التصدير."
+        "desc": "مراقبة الجودة النهائية قبل الافراج عن التعبئة."
+      },
+      {
+        "title": "التعبئة والتغليف",
+        "desc": "تعبئة الصادرات معدة للنقل."
+      },
+      {
+        "title": "شحنة",
+        "desc": "تحميل وإرسال الوثائق للطلبات الصادرة."
       }
     ]
   },
   "faq": {
     "title": "الأسئلة المتداولة",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "الشركة والمنتجات وتصنيع المعدات الأصلية والتصدير - إجابات للمشترين في الخارج قبل طلب عرض أسعار.",
     "cta": "لم تجد سؤالك؟ أرسل المنتج والحجم والكمية وبلد الوجهة - وسنقوم بالرد بعرض مفصل.",
     "ctaBtn": "احصل على عرض أسعار",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "أشرطة الفيديو والوثائق",
         "items": [
           {
             "q": "هل يمكنني مشاهدة فيديوهات المصنع قبل تقديم الطلب؟",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "نعم. شاهد مقاطع فيديو الإنتاج في قسم المصنع في هذه الصفحة. يتم إرسال اللقطات الإضافية ومقاطع التعبئة والشهادات بشكل خاص عند الطلب."
           },
           {
             "q": "هل تقدمون فيديوهات خاصة بالمنتجات وخاصة أسطوانات الأسيتيلين؟",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "نعم. يتم إرسال الفيديوهات والصور والمعلومات التفصيلية عن أسطوانات الأسيتيلين على الخاص حسب طلبك."
           },
           {
             "q": "هل يمكنكم عرض فيديوهات الإنتاج ومراقبة الجودة؟",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "نعم. يتم إرسال مقاطع الفيديو المتاحة للإنتاج وفحص الجودة والتعبئة والتخزين في المستودعات بشكل خاص حتى تتمكن من رؤية كيفية تحضير المنتجات."
           },
           {
             "q": "هل يمكنني طلب فيديو منتج تم تصميمه لطلب معين؟",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "للحصول على طلب معين أو متطلبات منتج معين، اتصل بنا - وسنناقش دعم الفيديو ونرسل المواد بشكل خاص."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "كيف يمكنني الحصول على مقاطع الفيديو والشهادات والاقتباس؟",
+            "a": "في نموذج الاستفسار، حدد نوع المنتج وحجم الأسطوانة والكمية وبلد الوجهة وما سيتم إرساله: مقاطع فيديو أو شهادات أو كليهما. سنرسلهم على الخاص ونجهز عرضًا."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "هل يمكنك تقديم صور المنتج ومواصفاته ؟",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "نعم. يتم إرسال صور المنتج والمواصفات وأوراق البيانات بشكل خاص عند الطلب."
           },
           {
             "q": "كيف يمكنني الحصول على عرض أسعار للملحقات؟",
@@ -406,7 +418,7 @@
         "desc": "يؤثر استقرار المعدات بشكل مباشر على كفاءة عمل اللحام والقطع.",
         "body": [
           "بالنسبة للحرفيين الذين يقومون بلحام وإصلاح وتصنيع المعادن كل يوم، فإن معدات الغاز المستقرة تؤثر بشكل مباشر على جودة العمل وسرعته.",
-          "تتوفر أسطوانات البروبان من Wanda Group من 3 لتر إلى 50 لترًا مع صمامات POL أو CGA 510 أو GOST اعتمادًا على السوق الخاص بك - مورد واحد للحام والقطع والتدفئة.",
+          "تتوفر أسطوانات البروبان من Wanda Group بسعة تتراوح من 3 لتر إلى 50 لترًا مع صمامات POL أو CGA 510 أو GOST اعتمادًا على السوق الخاص بك - مورد واحد للحام والقطع والتدفئة.",
           "نوصي بطلب الأسطوانات مع المنظمات والخراطيم والمشاعل. يقلل توريد الحزمة من تكلفة الخدمات اللوجستية ويضمن توافق الملحقات.",
           "عند الطلب، حدد السوق المستهدف والحجم ونوع الصمام واللون - نقوم بإعداد علامات OEM وتغليف التصدير تحت علامتك التجارية."
         ]
@@ -427,33 +439,36 @@
         "title": "دليل الميزانية لشراء اسطوانة الأسيتيلين",
         "desc": "العوامل المؤثرة على التكلفة وكيفية اختيار العرض الأمثل.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "تحصل القطع الأكبر (200-500+ قطعة) على خصومات كبيرة. تضيف طلاء OEM والشعار والتغليف الخاص ما بين 5 إلى 15% إلى السعر الأساسي ولكنها تزيد من القيمة بالنسبة للموزعين.",
-          "عامل أيضًا في الشحن (FOB / CIF) والمستندات وموك. نقوم بالرد خلال 24 ساعة بالمواصفات الكاملة والمهلة الزمنية وشروط التجارة الدولية.",
-          "للحصول على عرض أسعار دقيق، قم بتضمين الطراز والكمية وبلد الوجهة ومتطلبات الصمام في نموذج الاتصال - أو أرسل بريدًا إلكترونيًا إلى sales@wandagroups.com."
+          "يعتمد تسعير أسطوانة الأسيتيلين على الحجم ونوع الصمام والمعايير المطلوبة لسوق وجهتك وكمية الطلب. نحن لا ننشر قائمة الأسعار الثابتة على الموقع.",
+          "يتم نقل القطع الأكبر وخيارات OEM (اللوحة والشعار والتعبئة) بشكل فردي بعد أن نراجع استفسارك.",
+          "يتم تأكيد شروط الشحن (FOB/CIF وما شابه ذلك) والمستندات والمهلة الزمنية في عرض الأسعار الرسمي.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "طلب عرض أسعار",
-    "subtitle": "أخبرنا بالحجم والكمية وبلد الوجهة والطلب - وسنقوم بإعداد عرض أسعار مفصل.",
+    "title": "دعنا نناقش متطلباتك",
+    "subtitle": "أخبرنا بالمنتج والحجم والكمية وبلد الوجهة والمواصفات - وسيقوم فريق المبيعات لدينا بالرد بمعلومات المنتج وعرض الأسعار.",
     "formTitle": "طلب عرض أسعار",
-    "formSubtitle": "اترك متطلباتك - سيرد فريق المبيعات لدينا بمعلومات المنتج والسعر وموك والمدة الزمنية.",
+    "formSubtitle": "أكمل النموذج الخاص بالاستفسار التجاري. تم وضع علامة على الحقول المطلوبة.",
     "name": "اسم",
+    "company": "شركة",
     "phone": "هاتف / واتساب",
     "email": "بريد إلكتروني",
     "product": "منتج",
-    "quantity": "كمية",
-    "country": "بلد المقصد",
+    "quantity": "الكمية (اختياري)",
+    "country": "بلد الوجهة (اختياري)",
     "productOptions": [
       "اسطوانة الأسيتيلين",
       "اسطوانة البروبان",
       "مولد الأسيتيلين",
       "مُكَمِّلات",
-      "طلب الحزمة",
-      "Cold storage / refrigeration"
+      "التخزين البارد/التبريد",
+      "طلب الحزمة"
     ],
+    "quantityPlaceholder": "على سبيل المثال 200 قطعة، 1 حاوية، أو سيتم تحديدها لاحقًا",
+    "countryPlaceholder": "حيث سيتم شحن البضائع",
     "message": "متطلبات إضافية",
     "messagePlaceholder": "المنتج والحجم والكمية وبلد المقصد...",
     "submit": "إرسال الاستفسار",
@@ -461,22 +476,80 @@
     "success": "شكرًا لك! سوف نتصل بك قريبا.",
     "sendAnother": "إرسال استفسار آخر",
     "errorGeneric": "فشل الإرسال. يرجى المحاولة مرة أخرى أو مراسلتنا عبر البريد الإلكتروني مباشرة.",
-    "errorNoForm": "لم يتم تكوين النموذج. يرجى إرسال بريد إلكتروني إلى sales@wandagroups.com",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "إرسال عبر تطبيق البريد الإلكتروني",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
     "privacyPrefix": "أنا أوافق على",
     "privacySuffix": "ومعالجة بياناتي الشخصية للتعامل مع هذا الاستفسار.",
     "privacyLink": "سياسة الخصوصية",
-    "company": "شركة",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "إرسال عبر تطبيق البريد الإلكتروني",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "termsAnd": "و",
+    "termsLink": "شروط الاستخدام",
+    "requirements": "المتطلبات / المواصفات",
+    "requirementsPlaceholder": "نوع الصمام، اللون، المعيار، التعبئة، علامات OEM، ملاحظات الكمية..."
   },
   "footer": {
     "company": "شركة واندا جروب لصناعة أسطوانات الغاز",
     "tagline": "صناعة أسطوانات الغاز بطريقة احترافية",
     "rights": "© 2026 مجموعة واندا. جميع الحقوق محفوظة.",
     "privacy": "سياسة الخصوصية",
-    "terms": "Terms of Use"
+    "terms": "شروط الاستخدام"
+  },
+  "privacy": {
+    "label": "قانوني",
+    "title": "سياسة الخصوصية",
+    "updated": "آخر تحديث: 25 أغسطس 2026",
+    "intro": [
+      "تقوم مجموعة واندا (\"نحن\"، \"لنا\") بتشغيل هذا الموقع الإلكتروني لتقديم أسطوانات الغاز وملحقاتها وإمدادات التصدير ذات الصلة، ولتلقي الاستفسارات التجارية من المشترين الصناعيين.",
+      "تشرح هذه السياسة ما هي البيانات الشخصية التي نجمعها من خلال الموقع، ولماذا نستخدمها، وكيف يمكنك الاتصال بنا بشأنها. يتم عرض مقاطع فيديو إنتاج المصنع على هذا الموقع. يتم إرسال ملفات الشهادات بشكل خاص عند الطلب."
+    ],
+    "sections": [
+      {
+        "title": "من هو المسؤول",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "ما هي البيانات التي نجمعها",
+        "body": [
+          "عندما ترسل نموذج الاستفسار، نتلقى البيانات التي تدخلها: الاسم والبريد الإلكتروني والهاتف وبلد الوجهة ونوع المنتج والكمية والرسالة.",
+          "يقوم الموقع أيضًا بتخزين اختيارك للغة في المتصفح (localStorage). نحن لا نقوم بتشغيل ملفات تعريف الارتباط الإعلانية أو بيع قوائم الزوار."
+        ]
+      },
+      {
+        "title": "لماذا نستخدم البيانات",
+        "body": [
+          "نحن نستخدم بيانات الاستفسار فقط للرد على طلبك، وإعداد عرض الأسعار، وإرسال معلومات المنتج أو مقاطع الفيديو أو الشهادات التي طلبتها، ولتنسيق الطلب إذا بدأنا العمل معًا.",
+          "الأساس القانوني: موافقتك عند تحديد مربع الاختيار في النموذج، ومصلحتنا المشروعة في الرد على طلبات مبيعات B2B."
+        ]
+      },
+      {
+        "title": "من يتلقى البيانات",
+        "body": [
+          "يتم تسليم رسالتك إلى فريق المبيعات لدينا عبر البريد الإلكتروني. تتم معالجة النموذج بواسطة Web3Forms، وهو مزود تقني ينقل الرسالة إلينا.",
+          "نحن لا نبيع البيانات الشخصية. لا يجوز لنا مشاركة ما هو مطلوب مع شركاء الخدمات اللوجستية أو التفتيش أو الخدمات المصرفية إلا إذا كان ذلك مطلوبًا للوفاء بطلب متفق عليه."
+        ]
+      },
+      {
+        "title": "الى متى نحتفظ به",
+        "body": [
+          "يتم الاحتفاظ ببيانات الاستفسار طالما كانت هناك حاجة للتعامل مع الطلب ولفترة معقولة بعد ذلك لمتابعة المبيعات والمحاسبة، إلا إذا طلبت منا حذفها مبكرًا حيثما يسمح القانون بذلك."
+        ]
+      },
+      {
+        "title": "حقوقك",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "الأمن والأطفال",
+        "body": [
+          "نحن نتخذ خطوات فنية وتنظيمية معقولة لحماية الرسائل أثناء النقل وفي صندوق البريد الخاص بنا. هذا الموقع مخصص للمشترين من رجال الأعمال، وليس للأطفال."
+        ]
+      }
+    ],
+    "contactLead": "أسئلة حول هذه السياسة:"
   },
   "ui": {
     "catalog": "كتالوج",
@@ -494,6 +567,7 @@
     "location": "موقع",
     "quoteResponse": "رد الاقتباس",
     "support": "يدعم",
+    "countriesServed": "دعم التصدير",
     "exportReady": "التصدير جاهز",
     "years": "سنين",
     "acetylene": "الأسيتيلين",
@@ -508,17 +582,25 @@
     "quality": "جودة",
     "faq": "التعليمات",
     "blog": "مدونة",
-    "countriesServed": "الدول المخدومة",
     "searchLanguage": "لغة البحث...",
-    "noLanguagesFound": "لم يتم العثور على لغات"
+    "noLanguagesFound": "لم يتم العثور على لغات",
+    "breadcrumb": "مسار التنقل",
+    "primaryNav": "أساسي",
+    "menu": "قائمة طعام",
+    "playVideo": "تشغيل الفيديو",
+    "productGallery": "معرض المنتجات",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "تصنيع المعدات الأصلية / العلامة الخاصة",
+    "التصدير الدولي",
+    "ضبط الجودة",
+    "معايير السوق عند الطلب",
+    "الطلبات السائبة"
   ],
   "productDetails": {
     "tabs": {
@@ -542,8 +624,8 @@
         "نموذج",
         "الحجم (لتر)",
         "C₂H₂ (kg)",
-        "الفسفور الأبيض (ميغاباسكال)",
-        "TP (ميجا باسكال)",
+        "WP (MPa)",
+        "TP (MPa)",
         "الوزن (كجم)",
         "الارتفاع (مم)"
       ],
@@ -611,14 +693,14 @@
         "نموذج",
         "الحجم (لتر)",
         "الغاز (كجم)",
-        "الفسفور الأبيض (ميغاباسكال)",
-        "TP (ميجا باسكال)",
+        "WP (MPa)",
+        "TP (MPa)",
         "الوزن (كجم)",
         "الارتفاع (مم)"
       ],
       "rows": [
         [
-          "مجموعة العمل-P3",
+          "WG-P3",
           "3",
           "1.2",
           "1.8",
@@ -627,7 +709,7 @@
           "280"
         ],
         [
-          "مجموعة العمل-P5",
+          "WG-P5",
           "5",
           "2.0",
           "1.8",
@@ -636,7 +718,7 @@
           "340"
         ],
         [
-          "مجموعة العمل-P11",
+          "WG-P11",
           "11",
           "4.5",
           "1.8",
@@ -645,7 +727,7 @@
           "510"
         ],
         [
-          "مجموعة العمل-P15",
+          "WG-P15",
           "15",
           "6.0",
           "1.8",
@@ -686,7 +768,7 @@
       ],
       "rows": [
         [
-          "مجموعة العمل-G3",
+          "WG-G3",
           "3",
           "12",
           "1.5–5",
@@ -694,7 +776,7 @@
           "180"
         ],
         [
-          "مجموعة العمل-G5",
+          "WG-G5",
           "5",
           "20",
           "1.5–5",
@@ -702,7 +784,7 @@
           "280"
         ],
         [
-          "مجموعة العمل-مجموعة العشرين",
+          "WG-G20",
           "20",
           "80",
           "1.5–5",
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "شهادة",
-        "desc": "وثائق للجمارك والجهات التنظيمية.",
+        "desc": "وثائق للجمارك والجهات التنظيمية. يتم إرسال النسخ على الخاص عند الطلب.",
         "points": [
           "آيزو 9809، دوت، تي بي إي دي",
           "MSDS وشهادة الجودة",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "شروط التسعير والتوريد",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "يتم تأكيد الشروط التجارية لكل استفسار. أرسل تفاصيل المنتج والكمية والوجهة للحصول على عرض أسعار رسمي.",
+    "note": "نحن لا ننشر قائمة أسعار ثابتة أو موك أو فترات زمنية على هذا الموقع. يتم تأكيد الشروط التجارية الدقيقة في عرض الأسعار بعد أن نقوم بمراجعة متطلباتك.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "التسعير",
+        "value": "عند الطلب",
+        "desc": "اقتباس رسمي بعد مراجعة التحقيق"
       },
       {
-        "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "label": "موك",
+        "value": "تم تأكيده لكل طلب",
+        "desc": "يعتمد على النموذج والوجهة"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "مهلة",
+        "value": "تم تأكيده لكل طلب",
+        "desc": "مشترك مع الاقتباس"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "قسط",
+        "value": "متفق عليه في العقد",
+        "desc": "الشروط المؤكدة قبل الإنتاج"
       }
     ],
     "factors": {
-      "title": "عوامل السعر",
+      "title": "ما يؤثر على الاقتباس",
       "items": [
-        "حجم وطراز الأسطوانة (2 لتر – 50 لتر)",
-        "نوع الصمام (CGA، GOST، DIN، POL)",
-        "معيار الشهادة (ISO، DOT، TPED)",
-        "OEM: اللون، ووضع العلامات، والتعبئة والتغليف",
+        "حجم الاسطوانة ونموذجها",
+        "نوع الصمام ومعيار الاتصال",
+        "المعايير المطلوبة لسوق الوجهة",
+        "لون OEM ووضع العلامات والتعبئة والتغليف",
         "حجم الطلب وشروط التجارة الدولية"
       ]
     },
     "samples": [
       {
-        "product": "الأسيتيلين WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "اسطوانات الأسيتيلين",
+        "moq": "عند الطلب",
+        "price": "نقلت لكل استفسار",
+        "lead": "تم تأكيده لكل طلب"
       },
       {
-        "product": "الأسيتيلين WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "اسطوانات البروبان / غاز البترول المسال",
+        "moq": "عند الطلب",
+        "price": "نقلت لكل استفسار",
+        "lead": "تم تأكيده لكل طلب"
       },
       {
-        "product": "البروبان WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "مولدات",
+        "moq": "عند الطلب",
+        "price": "نقلت لكل استفسار",
+        "lead": "تم تأكيده لكل طلب"
       },
       {
-        "product": "البروبان WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "مولد WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "مجموعة منظم",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "مُكَمِّلات",
+        "moq": "عند الطلب",
+        "price": "نقلت لكل استفسار",
+        "lead": "تم تأكيده لكل طلب"
       }
     ],
     "tableHeaders": [
       "منتج",
       "موك",
-      "السعر (خارج)",
+      "سعر",
       "مهلة"
     ]
   },
   "certifications": {
     "title": "الشهادات والمعايير",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "تتم مناقشة المعايير وخيارات الاعتماد وفقًا لسوق المنتج والوجهة. يتم إرسال نسخ الشهادات بشكل خاص عند الطلب - ولا يتم نشر الملفات على هذا الموقع.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,41 +1043,41 @@
       },
       {
         "title": "تلقي الاقتباس",
-        "desc": "السعر، موك، المهلة الزمنية وورقة المواصفات في غضون 24 ساعة"
+        "desc": "السعر وموك والمهلة الزمنية وورقة المواصفات بعد المراجعة من قبل فريق المبيعات لدينا"
       },
       {
         "title": "تأكيد الطلب",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "شروط العقد والدفع المتفق عليها قبل بدء الإنتاج"
       },
       {
         "title": "الإنتاج ومراقبة الجودة",
-        "desc": "التصنيع والاختبار وتقرير الصورة عند الطلب"
+        "desc": "التصنيع والاختبار. يتم إرسال الفيديوهات والشهادات على الخاص عند الطلب"
       },
       {
         "title": "شحنة",
-        "desc": "التغليف والمستندات والتسليم FOB/CIF/DDP"
+        "desc": "التعبئة والتغليف والوثائق وشروط التسليم على النحو المتفق عليه في الطلب"
       }
     ]
   },
   "testimonials": {
-    "title": "ماذا يقول المشترون",
+    "title": "ماذا يقول المشترين",
     "items": [
       {
-        "quote": "أعدنا طلب أسطوانات الأسيتيلين سعة 40 لتر ثلاث مرات هذا العام. صمامات GOST ولون OEM والتغليف التصديري طابقت العينة الأولى في كل مرة.",
-        "author": "Rustam Yusupov",
-        "role": "مالك موزع غازات اللحام",
+        "quote": "قمنا بإعادة طلب أسطوانات الأسيتيلين سعة 40 لترًا ثلاث مرات هذا العام. تتوافق صمامات GOST ولون OEM وتعبئة التصدير مع العينة الأولى في كل مرة.",
+        "author": "رستم يوسوبوف",
+        "role": "مالك موزع غاز اللحام",
         "country": "أوزبكستان"
       },
       {
-        "quote": "وصل العرض في اليوم نفسه مع حد أدنى واضح ومدة تسليم. وصلت أسطوانات البروبان بصمامات POL وقائمة تعبئة كاملة دون تأخير جمركي لدينا.",
-        "author": "Aigerim Bekova",
-        "role": "مديرة مشتريات للتوريدات الصناعية",
+        "quote": "جاء الاقتباس في نفس اليوم مع موك واضح والمهلة الزمنية. وصلت زجاجات البروبان مع صمامات POL وقائمة التعبئة الكاملة - دون أي تأخير جمركي من جانبنا.",
+        "author": "إيجيريم بيكوفا",
+        "role": "مدير مشتريات - توريدات صناعية",
         "country": "كازاخستان"
       },
       {
-        "quote": "نشتري الأسطوانات مع المنظمات والخراطيم في شحنة حاوية واحدة. المستندات والوسم جاهزان لسوقنا، فإعادة البيع كانت مباشرة.",
-        "author": "Faisal Al-Harbi",
-        "role": "مشتري استيراد لمعدات الغاز",
+        "quote": "نقوم بشراء الأسطوانات مع المنظمات والخراطيم كطلب حاوية واحدة. كانت المستندات ووضع العلامات جاهزة لسوقنا، لذلك كانت عملية إعادة البيع سهلة ومباشرة.",
+        "author": "فيصل الحربي",
+        "role": "مشتري استيراد، تجارة معدات الغاز",
         "country": "المملكة العربية السعودية"
       }
     ]
@@ -1018,7 +1088,7 @@
         "id": "لحام",
         "eyebrow": "اسطوانات الأسيتيلين",
         "title": "لهب مستقر للحام الدقيق",
-        "text": "تم تصميم أسطوانات الأسيتيلين المذابة من أجل اللحام المستمر والنحاس - ضغط ثابت، وكتلة مسامية آمنة، وصمامات جاهزة للتصدير.",
+        "text": "أسطوانات الأسيتيلين المذابة مصممة للحام والنحاس المستمر - ضغط ثابت، وكتلة مسامية آمنة، وصمامات جاهزة للتصدير.",
         "points": [
           "خيارات ISO/DOT/GB",
           "صمامات CGA / GOST / DIN",
@@ -1062,58 +1132,59 @@
         "id": "جودة",
         "eyebrow": "الجودة والسلامة",
         "title": "التفتيش يمكنك وضعه في الاقتباس",
-        "text": "فحوصات المواد، واختبارات التسرب، وعزم دوران الصمام، وصور التعبئة - حزم الوثائق للموزعين ومشتري المشروع.",
+        "text": "فحص المواد واختبارات التسرب وعزم دوران الصمام وصور التعبئة. يتم إرسال حزم الشهادات وتقارير الصور بشكل خاص عند الطلب.",
         "points": [
           "اختبارات الضغط والتسرب",
-          "حزمة الشهادة",
+          "شهادات عند الطلب",
           "صور ما قبل الشحن"
         ]
       },
       {
         "id": "يصدّر",
         "eyebrow": "التصدير العالمي",
-        "title": "معبأة للموانئ، وجاهزة لأكثر من 50 دولة",
+        "title": "معبأة للموانئ، جاهزة لأسواق التصدير",
         "text": "تصدير المنصات، وحماية الصمامات، والملصقات متعددة اللغات ومستندات الشحن المنسقة وفقًا لشروط التجارة الدولية لوجهتك.",
         "points": [
           "دعم فوب/سيف",
           "التعبئة الباليتية",
           "المهلة 15-25 يوما"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "تم وضع أسطوانات الغاز المغلفة في ساحة المصنع لإرسالها",
+    "about": "عمال في أرضية مصنع مجموعة واندا",
+    "accessories": "مجموعة ملحقات أسطوانة الغاز - المنظمات والخراطيم والمشاعل والتجهيزات",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "أسطوانة الأسيتيلين المذابة بكتلة مسامية وصمام نحاسي",
+      "تم تصوير مولد الأسيتيلين في المصنع",
+      "اسطوانات البروبان وغاز البترول المسال بأحجام وألوان متعددة",
+      "طقم ملحقات اللحام والقطع لأسطوانات الغاز"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "الإرسال الليلي: معدات ملفوفة محملة على مقطورة",
+      "المنصات والأجزاء المعدنية نظمت للشحن",
+      "كرتونة من المخزون المعبأ مكدسة في المستودع",
+      "أسطوانات ملفوفة بالفيلم، معروضة في ساحة المصنع",
+      "ناقل إنتاج أسطوانات الغاز تحت سقف المصنع",
+      "أسطوانات غاز البترول المسال معلقة على ناقل التشطيب العلوي",
+      "عمال يسيرون على أرضية مصنع مجموعة واندا",
+      "أجسام أسطوانات البروبان الملحومة غير المطلية مكدسة بارتفاعين",
+      "صفوف من قذائف الأسطوانات غير المطلية على الأرضية الخرسانية",
+      "مخزون أنابيب الأسطوانات والأصداف المغطاة في ورشة العمل",
+      "أجسام الأسطوانات الخام مكدسة على جدار المصنع",
+      "حلقات القاعدة الفولاذية مكدسة قبل التجميع",
+      "تركيبات نحاسية معبأة في كرتون بالرغوة",
+      "مولد الأسيتيلين مع خرطوم وملحقات معلبة",
+      "قذائف أسطوانية غير مطلية ذات أعناق مفتوحة بعد اللحام"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "وحدة تكثيف مبردة بالهواء مع ضاغط كوبلاند شبه محكم",
+      "وحدة تكثيف مبردة بالهواء مع ضاغط بيتزر شبه المحكم",
+      "وحدة تكثيف تبريد مغلقة على شكل خزانة",
+      "وحدة تكثيف مبردة بالهواء ذات أربع مراوح ذات قدرة عالية"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "قانوني",
-    "title": "سياسة الخصوصية",
-    "updated": "آخر تحديث: 25 أغسطس 2026",
-    "intro": [
-      "تقوم مجموعة واندا (\"نحن\"، \"لنا\") بتشغيل هذا الموقع الإلكتروني لتقديم أسطوانات الغاز وملحقاتها وإمدادات التصدير ذات الصلة، ولتلقي الاستفسارات التجارية من المشترين الصناعيين.",
-      "تشرح هذه السياسة ما هي البيانات الشخصية التي نجمعها من خلال الموقع، ولماذا نستخدمها، وكيف يمكنك الاتصال بنا بشأنها. نحن لا ننشر مقاطع فيديو المصنع أو ملفات الشهادات على الموقع الإلكتروني؛ يتم إرسال هذه المواد بشكل خاص عند الطلب."
-    ],
-    "sections": [
-      {
-        "title": "من هو المسؤول",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "ما هي البيانات التي نجمعها",
-        "body": [
-          "عندما ترسل نموذج الاستفسار، نتلقى البيانات التي تدخلها: الاسم والبريد الإلكتروني والهاتف وبلد الوجهة ونوع المنتج والكمية والرسالة.",
-          "يقوم الموقع أيضًا بتخزين اختيارك للغة في المتصفح (localStorage). نحن لا نقوم بتشغيل ملفات تعريف الارتباط الإعلانية أو بيع قوائم الزوار."
-        ]
-      },
-      {
-        "title": "لماذا نستخدم البيانات",
-        "body": [
-          "نحن نستخدم بيانات الاستفسار فقط للرد على طلبك، وإعداد عرض الأسعار، وإرسال معلومات المنتج أو مقاطع الفيديو أو الشهادات التي طلبتها، ولتنسيق الطلب إذا بدأنا العمل معًا.",
-          "الأساس القانوني: موافقتك عند تحديد مربع الاختيار في النموذج، ومصلحتنا المشروعة في الرد على طلبات مبيعات B2B."
-        ]
-      },
-      {
-        "title": "من يتلقى البيانات",
-        "body": [
-          "يتم تسليم رسالتك إلى فريق المبيعات لدينا عبر البريد الإلكتروني. اعتمادًا على التكوين، قد تتم معالجة النموذج بواسطة Web3Forms كمزود تقني ينقل الرسالة إلينا.",
-          "نحن لا نبيع البيانات الشخصية. لا يجوز لنا مشاركة ما هو مطلوب مع شركاء الخدمات اللوجستية أو التفتيش أو الخدمات المصرفية إلا إذا كان ذلك مطلوبًا للوفاء بطلب متفق عليه."
-        ]
-      },
-      {
-        "title": "الى متى نحتفظ به",
-        "body": [
-          "يتم الاحتفاظ ببيانات الاستفسار طالما كانت هناك حاجة للتعامل مع الطلب ولفترة معقولة بعد ذلك لمتابعة المبيعات والمحاسبة، إلا إذا طلبت منا حذفها مبكرًا حيثما يسمح القانون بذلك."
-        ]
-      },
-      {
-        "title": "حقوقك",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "الأمن والأطفال",
-        "body": [
-          "نحن نتخذ خطوات فنية وتنظيمية معقولة لحماية الرسائل أثناء النقل وفي صندوق البريد الخاص بنا. هذا الموقع مخصص للمشترين من رجال الأعمال، وليس للأطفال."
-        ]
-      }
-    ],
-    "contactLead": "أسئلة حول هذه السياسة:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "قانوني",
+    "title": "شروط الاستخدام",
+    "updated": "آخر تحديث: 27 أغسطس 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "تحكم هذه الشروط استخدام موقع wandagroups.com، الذي تديره مجموعة Wanda للمشترين الصناعيين لأسطوانات الغاز والمولدات والملحقات.",
+      "من خلال تصفح الموقع أو إرسال استفسار فإنك توافق على هذه الشروط وعلى سياسة الخصوصية الخاصة بنا. إذا كنت لا توافق، فلا تستخدم الموقع."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "من نحن",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "ما هو الموقع ل",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "يعرض الموقع معلومات المنتج ويستقبل الاستفسارات التجارية. إنه مخصص للمشترين من رجال الأعمال، وليس للمستهلكين الذين يتسوقون كأفراد وليس للأطفال."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "عروض الأسعار والأسعار والأوامر",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "الأسعار وموك والمهل والمواصفات على الموقع إرشادية. الرسالة عبر النموذج أو الماسنجر هي استفسار وليست أمر.",
+          "لا يوجد عقد إلا عندما يؤكد الطرفان العرض كتابيًا (بالبريد الإلكتروني أو المستندات الموقعة) ويتم استلام الوديعة المتفق عليها، ما لم نذكر خلاف ذلك في هذا التأكيد."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "الصور ومقاطع الفيديو والشهادات",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "توضح صور ومقاطع الفيديو الخاصة بالمصنع الموجودة على الموقع عملية الإنتاج. يتم إرسال اللقطات الإضافية وملفات الشهادات بشكل خاص عند الطلب، وتظل موادنا سرية ما لم نطلب منك مشاركتها."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "الملكية الفكرية",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "تنتمي النصوص والصور ومقاطع الفيديو والشعارات والتخطيط الموجود على هذا الموقع إلى مجموعة Wanda Group أو المرخصين لدينا. لا يجوز لك نسخ الكتالوج الخاص بموقعك التجاري دون الحصول على موافقة كتابية منا."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "الاستخدام المقبول",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "لا تسيء استخدام نموذج الاستفسار (البريد العشوائي أو الهوية المزورة أو محاولات تعطيل الموقع). يجوز لنا تجاهل الطلبات المسيئة أو حذفها."
         ]
       },
       {
-        "title": "Liability",
+        "title": "مسئولية قانونية",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "نحن نحرص على الحفاظ على دقة المعلومات، ولكن الموقع قد يحتوي على أخطاء أو قد يكون غير متاح مؤقتًا. إلى الحد الذي يسمح به القانون، فإن Wanda Group ليست مسؤولة عن الخسارة غير المباشرة التي تنشأ فقط من استخدام الموقع.",
+          "يتم تحديد المسؤولية عن عقد التوريد الفعلي في هذا العقد وفي القانون المعمول به، وليس في شروط الموقع هذه وحدها."
         ]
       },
       {
-        "title": "Changes",
+        "title": "التغييرات",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "قد نقوم بتحديث هذه الشروط. يعرض التاريخ الموجود في الأعلى الإصدار الحالي. استمرار استخدام الموقع بعد التغيير يعني قبولك للشروط المحدثة."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "أسئلة حول هذه المصطلحات:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "خط منتجاتنا",
+    "title": "وحدات التبريد",
+    "subtitle": "خط منفصل لمجموعة Wanda – وليس كتالوجًا تابعًا لجهة خارجية. وحدات التكثيف وغرف التبريد والأجهزة، التي نقوم بتوريدها من خلال اسطوانات أو كطلب مستقل.",
+    "moreLink": "معدات التخزين البارد →",
+    "cta": "طلب عرض أسعار",
+    "alsoTitle": "متاح أيضا عند الطلب",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "ألواح غرف التبريد من مادة البولي يوريثين (B1/B2) و304 ألواح مقاومة للصدأ",
+      "مبردات هواء الغرفة الباردة — DL (~0 درجة مئوية)، DD (~−18 درجة مئوية)، DJ (~−25 درجة مئوية)",
+      "ملفات المبخر الألومنيوم",
+      "أبواب الغرف الباردة",
+      "مبردات المياه الصناعية",
+      "وحدات تبريد المركبات وغرف التبريد المتنقلة"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "تقوم شركة Wanda International Trade بتوريد معدات التبريد إلى جانب خط أسطوانات الغاز: الوحدات والألواح والمبردات وأجهزة سلسلة التبريد ذات الصلة. تشير أسماء كوبلاند وبيتزر والأسماء المشابهة إلى العلامة التجارية للضاغط الموجود داخل الوحدة، وليس إلى العلامة التجارية الجديدة لتلك الشركات.",
+    "videoTitle": "فيديو الشركة",
+    "videoSubtitle": "نظرة عامة على خط معدات التبريد. يتم إرسال المزيد من اللقطات على الخاص عند الطلب.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "وحدة تبريد الهواء كوبلاند شبه محكم",
+        "spec": "وحدة التكثيف · ضاغط كوبلاند",
+        "desc": "وحدة تكثيف مبردة بالهواء مع ضاغط كوبلاند شبه محكم للغرف الباردة ودرجات الحرارة المتوسطة."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "وحدة تبريد الهواء بيتزر شبه محكمة الغلق",
+        "spec": "وحدة التكثيف · ضاغط بيتزر",
+        "desc": "وحدة تكثيف مبردة بالهواء مع ضاغط بيتزر شبه محكم للخدمة العالية وغرف درجات الحرارة المتوسطة إلى المنخفضة."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "وحدة صندوقية مغلقة",
+        "spec": "وحدة تكثيف مجلس الوزراء",
+        "desc": "وحدة تكثيف مغلقة على شكل خزانة للمواقع التي تحتاج إلى آلة داخل المنزل بدلاً من منصة انزلاقية مفتوحة."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "وحدة تكثيف من النوع U / ذات قدرة عالية",
+        "spec": "تبريد هواء متعدد المراوح",
+        "desc": "وحدة تكثيف أكبر حجمًا يتم تبريدها بالهواء مع مكثف متعدد المراوح لمخازن تبريد أكبر وتبريد العمليات."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "من نحن",
+    "title": "الشركة المصنعة الصناعية للمشترين B2B",
+    "text": "تقوم مجموعة Wanda بتصنيع وتوريد أسطوانات الغاز الصناعية والمولدات وملحقات اللحام للموزعين في الخارج وشركاء تصنيع المعدات الأصلية ومشتري المشاريع.",
+    "text2": "ينصب تركيزنا على التوريد المرتبط بالمصنع، ودعم اختيار المنتجات، والطلبات بالجملة، وتنسيق الصادرات - وليس المبيعات الاستهلاكية بالتجزئة.",
+    "cta": "اعرف المزيد عنا"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "هل أنت مستعد لطلب عرض أسعار؟",
+      "quoteCta": "طلب عرض أسعار",
+      "relatedProducts": "المنتجات ذات الصلة",
+      "applications": "التطبيقات",
+      "standardsTitle": "المعايير والشهادة",
+      "oemTitle": "تصنيع المعدات الأصلية / التخصيص",
+      "packagingTitle": "التعبئة والتغليف والتسليم",
+      "placeholders": {
+        "standards": "يتم تأكيد المعايير والشهادات المتاحة حسب الطلب وسوق الوجهة. يتم إرسال نسخ الشهادات بشكل خاص عند الطلب - ولا يتم نشر الملفات على الموقع.",
+        "oem": "يمكن مناقشة خيارات ألوان OEM ووضع العلامات والصمام والغطاء والتعبئة وفقًا للطلب والسوق المستهدف.",
+        "packaging": "يتم إعداد تعبئة التصدير والوثائق وفقًا لشروط الطلب والشحن."
+      }
+    },
+    "home": {
+      "seoTitle": "مصنع اسطوانات الغاز | تصنيع المعدات الأصلية والتصدير الصناعي | مجموعات واندا",
+      "seoDescription": "تقوم مجموعة Wanda بتصنيع أسطوانات الغاز الصناعية والمولدات وملحقات اللحام لمشتري المعدات الأصلية والجملة ومشتري التصدير الدوليين."
+    },
+    "about": {
+      "label": "معلومات عنا",
+      "title": "الشركة المصنعة لأسطوانة الغاز للمشترين الصناعيين",
+      "subtitle": "نحن ندعم المشترين في الخارج من خلال اختيار المنتجات وتصنيع المعدات الأصلية والتفتيش والتعبئة والشحن.",
+      "seoTitle": "نبذة عن مجموعة واندا",
+      "seoDescription": "تقوم مجموعة واندا بتصنيع أسطوانات الأسيتيلين واسطوانات البروبان والمولدات الكهربائية وملحقات اللحام والقطع وإمدادات الغاز الصناعي."
+    },
+    "products": {
+      "label": "منتجات",
+      "title": "منتجاتنا",
+      "subtitle": "أسطوانات الأسيتيلين والمولدات وأسطوانات البروبان وملحقاتها للتطبيقات الصناعية واللحام.",
+      "seoTitle": "منتجات اسطوانات الغاز",
+      "seoDescription": "أسطوانات الأسيتيلين والمولدات وأسطوانات البروبان وملحقاتها للتطبيقات الصناعية واللحام.",
+      "refrigerationNote": "تقوم شركة Wanda International Trade بتوريد معدات التبريد إلى جانب خط أسطوانات الغاز: الوحدات والألواح والمبردات وأجهزة سلسلة التبريد ذات الصلة. تشير أسماء كوبلاند وبيتزر والأسماء المشابهة إلى العلامة التجارية للضاغط الموجود داخل الوحدة، وليس إلى العلامة التجارية الجديدة لتلك الشركات.",
+      "catalog": {
+        "acetylene": {
+          "name": "اسطوانات الأسيتيلين المذابة",
+          "overview": "أسطوانات فولاذية ذات كتلة مسامية ومذيبات لتخزين ونقل الأسيتيلين بشكل آمن. تستخدم في اللحام والقطع والنحاس وتصنيع المعادن.",
+          "seoTitle": "اسطوانات غاز الأسيتيلين",
+          "seoDescription": "أسطوانات فولاذية ذات كتلة مسامية ومذيبات لتخزين ونقل الأسيتيلين بشكل آمن. تستخدم في اللحام والقطع والنحاس وتصنيع المعادن."
+        },
+        "propane": {
+          "name": "اسطوانات البروبان",
+          "overview": "اسطوانات لمخاليط البروبان والبيوتان وغاز البترول المسال. تستخدم في التدفئة والقطع والنحاس والبناء وإمدادات الغاز الصناعي.",
+          "seoTitle": "اسطوانات غاز البروبان",
+          "seoDescription": "اسطوانات لمخاليط البروبان والبيوتان وغاز البترول المسال. تستخدم في التدفئة والقطع والنحاس والبناء وإمدادات الغاز الصناعي."
+        },
+        "lpg": {
+          "name": "اسطوانات غاز البترول المسال",
+          "overview": "اسطوانات لمخاليط البروبان والبيوتان وغاز البترول المسال. تستخدم في التدفئة والقطع والنحاس والبناء وإمدادات الغاز الصناعي.",
+          "seoTitle": "اسطوانات غاز البترول المسال",
+          "seoDescription": "اسطوانات لمخاليط البروبان والبيوتان وغاز البترول المسال. تستخدم في التدفئة والقطع والنحاس والبناء وإمدادات الغاز الصناعي."
+        },
+        "industrial": {
+          "name": "اسطوانات الغاز الصناعية",
+          "overview": "أسطوانات الغاز الصناعية المخصصة للحام والقطع وتوريد المصانع - بما في ذلك خيارات الأسيتيلين والبروبان وغاز البترول المسال المطابقة لسوقك.",
+          "seoTitle": "اسطوانات الغاز الصناعية",
+          "seoDescription": "اسطوانات الغاز الصناعية للحام والقطع وتوريد المصانع من مجموعة واندا."
+        },
+        "generators": {
+          "name": "مولدات الأسيتيلين",
+          "overview": "معدات لإنتاج الأسيتيلين من كربيد الكالسيوم. إمدادات غاز مستقرة لاحتياجات اللحام والاحتياجات الصناعية دون بنية تحتية مركزية للغاز.",
+          "seoTitle": "مولدات الأسيتيلين",
+          "seoDescription": "معدات لإنتاج الأسيتيلين من كربيد الكالسيوم. إمدادات غاز مستقرة لاحتياجات اللحام والاحتياجات الصناعية دون بنية تحتية مركزية للغاز."
+        },
+        "accessories": {
+          "name": "إكسسوارات وتركيبات الأسطوانات",
+          "overview": "مجموعة كاملة للتشغيل الآمن لأسطوانة الغاز: بدءًا من أجهزة القياس وحتى مشاعل اللحام. شراء وقفة واحدة مع الاسطوانات.",
+          "seoTitle": "ملحقات اللحام",
+          "seoDescription": "مجموعة كاملة للتشغيل الآمن لأسطوانة الغاز: بدءًا من أجهزة القياس وحتى مشاعل اللحام. شراء وقفة واحدة مع الاسطوانات."
+        },
+        "refrigeration": {
+          "name": "وحدات التبريد",
+          "overview": "خط منفصل لمجموعة Wanda – وليس كتالوجًا تابعًا لجهة خارجية. وحدات التكثيف وغرف التبريد والأجهزة، التي نقوم بتوريدها من خلال اسطوانات أو كطلب مستقل.",
+          "seoTitle": "وحدات التبريد",
+          "seoDescription": "خط منفصل لمجموعة Wanda – وليس كتالوجًا تابعًا لجهة خارجية. وحدات التكثيف وغرف التبريد والأجهزة، التي نقوم بتوريدها من خلال اسطوانات أو كطلب مستقل."
+        }
+      }
+    },
+    "factory": {
+      "label": "مصنع",
+      "title": "المصنع والتصنيع",
+      "subtitle": "الإنتاج والفحص والتعبئة والإرسال — موثق بصور فوتوغرافية حقيقية للمصنع ومقاطع فيديو للمصنع.",
+      "seoTitle": "المصنع والإنتاج | مجموعات واندا",
+      "seoDescription": "صور المصنع الحقيقية، ولقطات البث المباشر، ومقاطع الفيديو القصيرة من قاعة الإنتاج.",
+      "sections": [
+        {
+          "title": "تصنيع",
+          "text": "تشكيل الأسطوانات واللحام والتشطيب كجزء من تدفق إنتاج المصنع."
+        },
+        {
+          "title": "عملية الإنتاج",
+          "text": "بدءًا من إعداد الهيكل وحتى التجميع والتشطيب - راجع لقطات المخزون قيد التشغيل وأرضية الإنتاج."
+        },
+        {
+          "title": "فحص الجودة",
+          "text": "الفحوصات البصرية والعلامات والأبعاد لإعداد الأسطوانات للشحن."
+        },
+        {
+          "title": "اختبار",
+          "text": "يتم تطبيق اختبار الضغط والتسرب قبل مغادرة المنتجات للخط، وفقًا لمتطلبات الطلب."
+        },
+        {
+          "title": "التعبئة والتغليف",
+          "text": "تحمي عبوات التصدير الأسطوانات والتجهيزات للنقل الخارجي."
+        },
+        {
+          "title": "التحميل والتصدير",
+          "text": "تنظيم المستودعات وتحميل الشاحنات وإرسال الوثائق للطلبات الصادرة."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "الشهادات",
+      "title": "الشهادات والمعايير",
+      "subtitle": "المعايير المطلوبة عادة من قبل المشترين مدرجة أدناه. تعتمد قابلية التطبيق على المنتج وسوق الوجهة. تتم مشاركة نسخ الشهادة وأرقامها وصلاحيتها بشكل خاص عند الطلب - ولا يتم نشرها كمطالبات لم يتم التحقق منها.",
+      "seoTitle": "الشهادات والمعايير | مجموعات واندا",
+      "seoDescription": "تمت مناقشة المعايير الخاصة بأسطوانات الغاز التابعة لمجموعة واندا حسب السوق. يتم توفير نسخ الشهادة بشكل خاص عند الطلب.",
+      "note": "يتم إرسال نسخ الشهادة بشكل خاص عند الطلب. نحن لا ننشر ملفات الشهادات على الموقع."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "تصنيع المعدات الأصلية والجملة",
+      "subtitle": "خيارات التوريد الخاصة والبيع بالجملة للموزعين والمشترين الصناعيين.",
+      "seoTitle": "توريد اسطوانات الغاز OEM",
+      "seoDescription": "تصنيع أسطوانات الغاز OEM والخاصة للعلامات التجارية والموزعين في الخارج.",
+      "quoteTitle": "مناقشة متطلبات OEM",
+      "quoteCta": "طلب اقتباس OEM",
+      "capabilities": [
+        {
+          "title": "شعار مخصص",
+          "text": "تمت مناقشة خيارات الشعار ووضع العلامات لتأهيل طلبات OEM."
+        },
+        {
+          "title": "لون مخصص",
+          "text": "لون الاسطوانة حسب متطلبات السوق أو العلامة التجارية."
+        },
+        {
+          "title": "التعبئة والتغليف المخصصة",
+          "text": "تصدير الكراتين والمنصات وعلامات التعبئة حسب الطلب."
+        },
+        {
+          "title": "تسمية خاصة",
+          "text": "وضع العلامات وعرض العلامة التجارية لقنوات التوزيع."
+        },
+        {
+          "title": "الطلبات السائبة",
+          "text": "كميات الجملة لمشتريات المشروع والموزعين."
+        },
+        {
+          "title": "تصنيع المعدات الأصلية",
+          "text": "تكوين المنتج يتوافق مع المواصفات الخاصة بك والسوق."
+        },
+        {
+          "title": "دعم التصدير",
+          "text": "الوثائق وتنسيق الشحن للتسليم في الخارج."
+        }
+      ]
+    },
+    "markets": {
+      "label": "الأسواق",
+      "title": "الأسواق العالمية",
+      "subtitle": "نحن ندعم المشترين الدوليين B2B. تصف المناطق أدناه مجالات الاستفسار المشتركة - يتم تأكيد بلدان ومشاريع محددة كل حالة على حدة.",
+      "seoTitle": "الأسواق العالمية | تصدير مجموعات واندا",
+      "seoDescription": "تعمل مجموعة واندا مع المشترين الصناعيين الدوليين في جميع أنحاء أفريقيا والشرق الأوسط وآسيا الوسطى وجنوب شرق آسيا وأمريكا اللاتينية وأسواق أخرى.",
+      "note": "نحن لا ننشر إحصائيات البلدان التي لم يتم التحقق منها أو أسماء العملاء أو مراجع المشاريع على هذه الصفحة.",
+      "regions": [
+        {
+          "title": "أفريقيا",
+          "text": "الاستفسارات الصناعية والموزعين من الأسواق الأفريقية."
+        },
+        {
+          "title": "الشرق الأوسط",
+          "text": "يقوم المشترون بتوفير الأسطوانات والمعدات ذات الصلة للمشاريع الإقليمية."
+        },
+        {
+          "title": "آسيا الوسطى",
+          "text": "مناقشات البيع بالجملة وتوريد المشاريع عبر أسواق آسيا الوسطى."
+        },
+        {
+          "title": "جنوب شرق آسيا",
+          "text": "يقوم المشترون الصناعيون بتقييم توريد أسطوانات التصدير."
+        },
+        {
+          "title": "أمريكا اللاتينية",
+          "text": "استعلام عن توريد اسطوانات الغاز الصناعي وملحقاتها."
+        },
+        {
+          "title": "الأسواق الدولية الأخرى",
+          "text": "تتم مراجعة الوجهات الإضافية وفقًا لمعايير المنتج والخدمات اللوجستية."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "التطبيقات",
+      "title": "تطبيقات الاسطوانة",
+      "subtitle": "منتجات مصممة لمهام الغاز الصناعية الشائعة ومتطلبات المشترين في الخارج.",
+      "seoTitle": "تطبيقات الاسطوانة",
+      "seoDescription": "منتجات مصممة لمهام الغاز الصناعية الشائعة ومتطلبات المشترين في الخارج.",
+      "items": [
+        {
+          "title": "اللحام والنحاس",
+          "text": "الأسيتيلين المذاب والمعدات ذات الصلة لورشة العمل ولحام التصنيع."
+        },
+        {
+          "title": "قطع المعادن",
+          "text": "اسطوانات وملحقات لقطع وقود الأوكسجين في الموقع وفي المصنع."
+        },
+        {
+          "title": "توريد الغاز الصناعي",
+          "text": "توريد الأسطوانات للتوزيع الصناعي وأنظمة الغاز النباتية."
+        },
+        {
+          "title": "بناء",
+          "text": "إمدادات الغاز المحمولة لأعمال البناء والصيانة."
+        },
+        {
+          "title": "تصنيع المعادن",
+          "text": "الأسطوانات وملحقاتها لمحلات التصنيع وأحواض بناء السفن."
+        },
+        {
+          "title": "تخزين وتوزيع الغاز",
+          "text": "اسطوانات جاهزة للتخزين والتوزيع للمشترين الصناعيين."
+        }
+      ]
+    },
+    "faq": {
+      "label": "التعليمات",
+      "title": "الأسئلة المتداولة",
+      "subtitle": "الشركة والمنتجات وتصنيع المعدات الأصلية والتصدير - إجابات للمشترين في الخارج قبل طلب عرض أسعار.",
+      "seoTitle": "التعليمات",
+      "seoDescription": "الشركة والمنتجات وتصنيع المعدات الأصلية والتصدير - إجابات للمشترين في الخارج قبل طلب عرض أسعار."
+    },
+    "contactPage": {
+      "label": "اتصال",
+      "title": "دعنا نناقش متطلباتك",
+      "subtitle": "تواصل مع فريق المبيعات لدينا عن طريق النموذج أو البريد الإلكتروني أو المراسلة. مشاركة المنتج والكمية والوجهة للحصول على عرض أسعار أسرع.",
+      "seoTitle": "طلب عرض أسعار",
+      "seoDescription": "أخبرنا بالحجم والكمية وبلد الوجهة والطلب - وسنقوم بإعداد عرض أسعار مفصل."
+    },
+    "blog": {
+      "label": "مدونة",
+      "title": "أحدث المقالات",
+      "subtitle": "محتوى الخبراء لمحترفي اللحام وإمدادات الغاز.",
+      "seoTitle": "مقالات وأدلة",
+      "seoDescription": "محتوى الخبراء لمحترفي اللحام وإمدادات الغاز.",
+      "coming": "سيتم إضافة المزيد من أدلة المشتري وملاحظات المنتج هنا. استخدم المقالات أعلاه أو اتصل بنا للحصول على مواد خاصة بالمنتج."
+    },
+    "privacy": {
+      "seoTitle": "سياسة الخصوصية",
+      "seoDescription": "سياسة الخصوصية لاستفسارات موقع Wanda Group والبيانات الشخصية."
+    },
+    "terms": {
+      "seoTitle": "شروط الاستخدام",
+      "seoDescription": "شروط الاستخدام لموقع مجموعة واندا."
+    },
+    "notFound": {
+      "seoTitle": "لم يتم العثور على الصفحة",
+      "seoDescription": "الصفحة التي طلبتها غير متوفرة.",
+      "title": "لم يتم العثور على الصفحة",
+      "text": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+      "home": "بيت",
+      "products": "منتجات",
+      "contact": "الاتصال / الحصول على الاقتباس"
+    }
   }
 }

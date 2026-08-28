@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Hjem",
     "products": "Produkter",
     "specs": "Specifikationer",
     "applications": "Ansøgninger",
     "about": "Om",
     "gallery": "Galleri",
+    "factory": "Fabrik",
     "quality": "Kvalitet",
     "faq": "FAQ",
     "contact": "Kontakte",
@@ -13,44 +15,42 @@
     "services": "Tjenester",
     "pricing": "Prissætning",
     "accessories": "Tilbehør",
-    "home": "Hjem",
-    "factory": "Fabrik",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Køleopbevaring",
+    "cooling": "Køling",
+    "certifications": "Certificeringer",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Markeder"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Producent af industrigascylindre",
+    "title": "Producent af industrielle gascylindre og udstyr",
+    "subtitle": "Fremstilling, OEM og engros levering af acetylenflasker, propan/LPG-flasker, generatorer og svejsetilbehør til internationale eksportkøbere.",
+    "lineGas": "Gasflasker",
+    "lineCold": "Køleanlæg",
+    "cta": "Få et tilbud",
+    "ctaSecondary": "Se produkter",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Producentfokuseret forsyning"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Private label og tilpasning"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "International forsendelsessupport"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Inspektions- og testproces"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Markedsspecifikke muligheder på forespørgsel"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Pålidelig gascylindertilbehør",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Vores produkter",
     "subtitle": "Acetylencylindre, generatorer, propancylindre og tilbehør til industri- og svejseapplikationer.",
+    "viewDetails": "Se detaljer",
     "items": [
       {
         "title": "Acetylen cylinder",
-        "desc": "Opløste acetylencylindre til svejsning, skæring og industrigasser. Forskellige størrelser og ventilmuligheder.",
-        "icon": "🔥",
-        "spec": "2–40 l · ISO / DOT / TPED"
+        "spec": "2L–40L · standarder bekræftet pr. marked",
+        "desc": "Opløste acetylencylindre til svejsning, skæring og industriel gasforsyning.",
+        "icon": "🔥"
       },
       {
         "title": "Acetylen generator",
-        "desc": "Udstyr til stabil gasproduktion, nem betjening og industrielle applikationer.",
-        "icon": "⚙️",
-        "spec": "Industrielle generationssystemer"
+        "spec": "Industrielle generationssystemer",
+        "desc": "Udstyr til stabil acetylenproduktion på stedet og i anlægget.",
+        "icon": "⚙️"
       },
       {
         "title": "Propan cylinder",
-        "desc": "Holdbare cylindre til propan og LPG — opbevaring, opvarmning, skæring og industriel brug.",
-        "icon": "🛢️",
-        "spec": "3–50 l · POL / CGA / GOST"
+        "spec": "3L–50L · ventilmuligheder pr. marked",
+        "desc": "Holdbare LPG-flasker til opvarmning, skæring og industriel brug.",
+        "icon": "🛢️"
       },
       {
         "title": "Cylinder tilbehør",
-        "desc": "Slanger, målere, skærebrændere, svejsebrændere, sikkerhedsventiler og meget mere.",
-        "icon": "🔧",
-        "spec": "Ventiler · regulatorer · slanger · brændere"
+        "spec": "Ventiler · regulatorer · slanger · brændere",
+        "desc": "Matchende beslag leveres med cylindre eller som separat bestilling.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Se detaljer"
+    ]
   },
   "specs": {
     "title": "Tekniske specifikationer",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Hvorfor vælge Wanda Groups",
+    "subtitle": "Konkrete muligheder for industrielle købere, der vurderer en produktionspartner.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Producentfokuseret forsyning",
+        "desc": "Produktudbud orienteret omkring produktion, ikke kun handelskataloger."
       },
       {
         "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "desc": "Brugerdefineret farve, mærkning, ventil og pakning diskuteres pr. ordre."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kvalitetskontrol",
+        "desc": "Inspektion fra materialer gennem pakning før forsendelse."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "International eksport",
+        "desc": "Eksportpakning og forsendelseskoordinering for oversøiske købere."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Produkttilpasning",
+        "desc": "Specifikationer tilpasset markeds- og applikationskrav."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Responsiv salgssupport",
+        "desc": "Tilbud og tekniske svar via formular, e-mail og messengers."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Mulighed for massebestilling",
+        "desc": "Engrosmængder understøttet for distributører og projektkøbere."
       }
     ]
   },
   "about": {
-    "title": "Professionel gascylinderproducent",
-    "text": "Wanda Group Gas Cylinder Manufacturer har specialiseret sig i at producere og levere industrielle gasflasker og tilhørende tilbehør. Vores produkter er meget udbredt inden for svejsning, skæring, gasdistribution, industriel opbevaring og andre gasforsyningsområder.",
-    "text2": "Vi støtter oversøiske købere i produktvalg, tilpasning, kvalitetsinspektion, emballering og forsendelseskoordinering.",
+    "title": "Gasflaskeproducent til industrielle købere",
+    "text": "Wanda Group fremstiller acetylencylindre, propancylindre, generatorer og tilbehør til svejsning, skæring og industriel gasforsyning.",
+    "text2": "Vi støtter oversøiske købere med produktvalg, OEM, inspektion, pakning og forsendelse.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Fremstilling",
+        "desc": "Formning, svejsning, test og efterbehandling til industrielle gasflasker."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM support",
+        "desc": "Farve, mærkning, ventil, hætte og pakningsmuligheder efter ordre."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kvalitetsproces",
+        "desc": "Inspektion og test i overensstemmelse med ordre- og markedskrav."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "International eksport",
+        "desc": "Dokumentation og pakningsstøtte til oversøiske industrielle købere."
       }
     ]
   },
   "gallery": {
     "title": "Inde i vores fabrik",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Rigtige plantefotos, live-udsendelsesbilleder og korte videoer fra produktionsgulvet.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Natafsendelse",
+        "desc": "En lastet trailer afgår med indpakket udstyr — tid og sted stemplet på skuddet."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Last iscenesat til forsendelse",
+        "desc": "Paller og dele afhentes til forsendelse. Et levende lagerfoto, ikke et studiesæt."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Pakket lager",
+        "desc": "Kartoner stablet på lageret, klar til næste udgående ordre."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Pakket til forsendelse",
+        "desc": "Cylindre pakket ind og iscenesat i planteværftet til forsendelse."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Produktionstransportør",
+        "desc": "Cylinderlegemer bevæger sig gennem formnings- og håndteringslinjen."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG-mållinje",
+        "desc": "Malede LPG-flasker på overliggende transportør før pakning."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Inde i anlægget",
+        "desc": "Produktionshallen — mennesker, maskiner og igangværende lager."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Svejste cylinderkroppe",
+        "desc": "Skaller efter periferisk svejsning, før maling og ventiler."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Skaller før maling",
+        "desc": "Umalede kroppe samlet på gulvet til næste procestrin."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Lager i proces",
+        "desc": "Rørsektioner og kappede skaller venter på montering."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Cylinderhuse på lager",
+        "desc": "Valsede skaller stablet efter svejsning, før hoveder og ventiler."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Bundringe",
+        "desc": "Fodringe forberedt til svejsning på cylinderskaller."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Pakkede beslag",
+        "desc": "Ventiler og fittings indpakket med skum til eksportforsendelse."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Acetylen generator",
+        "desc": "En generatorenhed med slange og fittings, klar til at forlade anlægget."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Skaller på gulvet",
+        "desc": "Åbent halslegeme efter svejsning — batchen før ventilmontering."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Fabriksvideoer",
+    "videosSubtitle": "Nye shorts fra plantegulvet. Flere optagelser sendes privat på forespørgsel."
   },
   "quality": {
     "title": "Kvalitetskontrol",
     "subtitle": "Hver batch følger den samme vej: produktion, test, inspektion og endelig kvalitetskontrol.",
     "steps": [
       {
-        "title": "Produktion",
-        "desc": "Formning, svejsning og montage under anlægsproceskontrol."
+        "title": "Råmateriale",
+        "desc": "Indgående materialer gennemgået i forhold til ordre- og proceskrav."
       },
       {
-        "title": "Afprøvning",
-        "desc": "Tryk- og lækagetest før cylindre forlader linjen."
+        "title": "Produktion",
+        "desc": "Formning, svejsning og montage under anlægsproceskontrol."
       },
       {
         "title": "Inspektion",
         "desc": "Visuel, mærkning og dimensionskontrol i forhold til ordren."
       },
       {
-        "title": "Endelig kvalitetskontrol",
-        "desc": "Emballageinspektion før eksportforsendelse."
+        "title": "Afprøvning",
+        "desc": "Tryk- og lækagetest før cylindre forlader linjen."
+      },
+      {
+        "title": "Endelig QC",
+        "desc": "Endelig kvalitetskontrol før frigivelse til pakning."
+      },
+      {
+        "title": "Emballage",
+        "desc": "Eksportemballage klargjort til transport."
+      },
+      {
+        "title": "Forsendelse",
+        "desc": "Indlæsning og afsendelse af dokumentation for udgående ordrer."
       }
     ]
   },
   "faq": {
     "title": "Ofte stillede spørgsmål",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Virksomhed, produkter, OEM og eksport - svar til oversøiske købere, før du anmoder om et tilbud.",
     "cta": "Fandt du ikke dit spørgsmål? Send produkt, størrelse, mængde og destinationsland - vi svarer med et detaljeret tilbud.",
     "ctaBtn": "Få et tilbud",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videoer og dokumenter",
         "items": [
           {
             "q": "Kan jeg se fabriksvideoer, før jeg afgiver en ordre?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ja. Se produktionsvideoer i Factory-sektionen på denne side. Ekstra optagelser, pakkeclips og certifikater sendes privat på forespørgsel."
           },
           {
             "q": "Leverer du produktvideoer, især for acetylencylindre?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ja. Videoer, fotos og detaljerede oplysninger om acetylencylindre sendes privat efter din anmodning."
           },
           {
             "q": "Kan du vise videoer af produktion og kvalitetskontrol?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ja. Tilgængelige videoer af produktion, kvalitetskontrol, pakning og lageropbevaring sendes privat, så du kan se, hvordan produkter tilberedes."
           },
           {
             "q": "Kan jeg anmode om en produktvideo lavet til en bestemt ordre?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "For en specifik ordre eller produktkrav, kontakt os - vi diskuterer videosupport og sender materialerne privat."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Hvordan får jeg videoer, certifikater og et tilbud?",
+            "a": "I forespørgselsformularen skal du angive produkttype, cylinderstørrelse, mængde, destinationsland og hvad der skal sendes: videoer, certifikater eller begge dele. Vi sender dem privat og udarbejder et tilbud."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Kan du give produktbilleder og specifikationer?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ja. Produktfotos, specifikationer og datablade sendes privat på forespørgsel."
           },
           {
             "q": "Hvordan kan jeg få et tilbud på tilbehør?",
@@ -403,12 +415,12 @@
       {
         "tag": "Håndværkere",
         "title": "Komplet propancylinderforsyningsløsning",
-        "desc": "Udstyrets stabilitet påvirker direkte svejse- og skærearbejdets effektivitet.",
+        "desc": "Udstyrets stabilitet påvirker direkte effektiviteten af ​​svejse- og skærearbejde.",
         "body": [
           "For håndværkere, der svejser, reparerer og fremstiller metal hver dag, påvirker stabilt gasudstyr direkte arbejdets kvalitet og hastighed.",
           "Wanda Group propancylindre fås fra 3L til 50L med POL-, CGA 510- eller GOST-ventiler afhængigt af dit marked - én leverandør til svejsning, skæring og opvarmning.",
           "Vi anbefaler at bestille cylindre sammen med regulatorer, slanger og brændere. Levering af bundter reducerer logistikomkostninger og sikrer tilbehørskompatibilitet.",
-          "Ved bestilling angiv målmarked, volumen, ventiltype og farve — vi udarbejder OEM-mærkning og eksporterer emballage under dit varemærke."
+          "Ved bestilling angiv målmarked, volumen, ventiltype og farve - vi udarbejder OEM-mærkning og eksporterer emballage under dit brand."
         ]
       },
       {
@@ -427,33 +439,36 @@
         "title": "Budgetvejledning til køb af acetylencylindre",
         "desc": "Faktorer, der påvirker omkostningerne, og hvordan man vælger det optimale tilbud.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "Større partier (200–500+ stk) får meningsfulde rabatter. OEM-maling, logo og specialemballage tilføjer 5-15 % til basisprisen, men øger værdien for distributører.",
-          "Tag også hensyn til forsendelse (FOB/CIF), dokumenter og MOQ. Vi svarer inden for 24 timer med fuld specifikation, leveringstid og Incoterms.",
-          "For et nøjagtigt tilbud skal du inkludere model, mængde, destinationsland og ventilkrav i kontaktformularen - eller e-mail sales@wandagroups.com."
+          "Acetylencylinderpriser afhænger af volumen, ventiltype, påkrævede standarder for dit destinationsmarked og ordremængde. Vi offentliggør ikke faste listepriser på hjemmesiden.",
+          "Større partier og OEM-muligheder (maling, logo, pakning) citeres individuelt, efter vi har gennemgået din forespørgsel.",
+          "Forsendelsesbetingelser (FOB/CIF og lignende), dokumenter og leveringstid er bekræftet i det formelle tilbud.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Anmod om et tilbud",
-    "subtitle": "Fortæl os størrelse, mængde, destinationsland og ansøgning - vi udarbejder et detaljeret tilbud.",
+    "title": "Lad os diskutere dine krav",
+    "subtitle": "Fortæl os produktet, størrelsen, mængden, destinationsland og specifikationer - vores salgsteam vil svare med produktinformation og et tilbud.",
     "formTitle": "Anmod om et tilbud",
-    "formSubtitle": "Forlad dine krav - vores salgsteam vil svare med produktinformation, priser, MOQ og leveringstid.",
+    "formSubtitle": "Udfyld formularen for en kommerciel forespørgsel. Påkrævede felter er markeret.",
     "name": "Navn",
+    "company": "Selskab",
     "phone": "Telefon / WhatsApp",
     "email": "E-mail",
     "product": "Produkt",
-    "quantity": "Mængde",
-    "country": "Destinationsland",
+    "quantity": "Mængde (valgfrit)",
+    "country": "Destinationsland (valgfrit)",
     "productOptions": [
       "Acetylen cylinder",
       "Propan cylinder",
       "Acetylen generator",
       "Tilbehør",
-      "Bundebestilling",
-      "Cold storage / refrigeration"
+      "Køleopbevaring / køling",
+      "Bundebestilling"
     ],
+    "quantityPlaceholder": "f.eks. 200 stk, 1 beholder eller TBD",
+    "countryPlaceholder": "Hvor varerne vil blive sendt",
     "message": "Yderligere krav",
     "messagePlaceholder": "Produkt, størrelse, mængde, destinationsland...",
     "submit": "Send forespørgsel",
@@ -461,22 +476,80 @@
     "success": "Tak! Vi kontakter dig snarest.",
     "sendAnother": "Send endnu en forespørgsel",
     "errorGeneric": "Kunne ikke sende. Prøv venligst igen eller send os en e-mail direkte.",
-    "errorNoForm": "Formularen er ikke konfigureret. Send venligst en e-mail til sales@wandagroups.com",
-    "privacyPrefix": "Jeg er enig i",
-    "privacySuffix": "og til behandlingen af ​​mine personoplysninger for at håndtere denne forespørgsel.",
-    "privacyLink": "Privatlivspolitik",
-    "company": "Selskab",
-    "emailFallback": "Webstedet kunne ikke sende automatisk. Klik på knappen nedenfor — din e-mailapp åbner med en færdig besked til sales@wandagroups.com.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Send via e-mail app",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Jeg er enig i",
+    "privacySuffix": ", og til behandlingen af ​​mine personlige data for at håndtere denne forespørgsel.",
+    "privacyLink": "Privatlivspolitik",
+    "termsAnd": "og den",
+    "termsLink": "Vilkår for brug",
+    "requirements": "Krav / Specifikationer",
+    "requirementsPlaceholder": "Ventiltype, farve, standard, pakning, OEM-mærkning, mængdenoter..."
   },
   "footer": {
     "company": "Wanda Group Gascylinder Producent",
     "tagline": "Professionel fremstilling af gascylindre",
     "rights": "© 2026 Wanda Group. Alle rettigheder forbeholdes.",
     "privacy": "Privatlivspolitik",
-    "terms": "Terms of Use"
+    "terms": "Vilkår for brug"
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Privatlivspolitik",
+    "updated": "Sidst opdateret: 25. august 2026",
+    "intro": [
+      "Wanda Group (\"vi\", \"os\") driver denne hjemmeside for at præsentere gasflasker, tilbehør og relateret eksportforsyning og for at modtage kommercielle forespørgsler fra industrielle købere.",
+      "Denne politik forklarer, hvilke personlige data vi indsamler via webstedet, hvorfor vi bruger det, og hvordan du kan kontakte os om det. Fabriksproduktionsvideoer vises på denne hjemmeside. Certifikatfiler sendes privat efter anmodning."
+    ],
+    "sections": [
+      {
+        "title": "Hvem er ansvarlig",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Hvilke data vi indsamler",
+        "body": [
+          "Når du sender forespørgselsformularen modtager vi de data, du indtaster: navn, e-mail, telefon, destinationsland, produkttype, mængde og besked.",
+          "Siden gemmer også dit sprogvalg i browseren (localStorage). Vi kører ikke annonceringscookies eller sælger besøgslister."
+        ]
+      },
+      {
+        "title": "Hvorfor bruger vi dataene",
+        "body": [
+          "Vi bruger kun forespørgselsdata til at besvare din anmodning, udarbejde et tilbud, sende produktinformation, videoer eller certifikater, som du har bedt om, og til at koordinere en ordre, hvis vi begynder at arbejde sammen.",
+          "Retsgrundlag: dit samtykke, når du afkrydser afkrydsningsfeltet på formularen, og vores legitime interesse i at besvare B2B-salgsanmodninger."
+        ]
+      },
+      {
+        "title": "Hvem modtager dataene",
+        "body": [
+          "Din besked bliver leveret til vores salgsteam via e-mail. Formularen behandles af Web3Forms, en teknisk udbyder, der sender beskeden til os.",
+          "Vi sælger ikke personlige data. Vi må kun dele det nødvendige med logistik-, inspektions- eller bankpartnere, hvis det er nødvendigt for at opfylde en aftalt ordre."
+        ]
+      },
+      {
+        "title": "Hvor længe beholder vi det",
+        "body": [
+          "Forespørgselsdata opbevares så længe det er nødvendigt for at håndtere anmodningen og i en rimelig periode efterfølgende til salgsopfølgning og regnskab, medmindre du beder os slette dem tidligere, hvor loven tillader det."
+        ]
+      },
+      {
+        "title": "Dine rettigheder",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Sikkerhed og børn",
+        "body": [
+          "Vi tager rimelige tekniske og organisatoriske skridt for at beskytte meddelelser i transit og i vores postkasse. Denne hjemmeside er beregnet til erhvervskøbere, ikke til børn."
+        ]
+      }
+    ],
+    "contactLead": "Spørgsmål om denne politik:"
   },
   "ui": {
     "catalog": "Katalog",
@@ -494,6 +567,7 @@
     "location": "Beliggenhed",
     "quoteResponse": "Citat svar",
     "support": "Støtte",
+    "countriesServed": "Eksportstøtte",
     "exportReady": "Eksport klar",
     "years": "år",
     "acetylene": "Acetylen",
@@ -508,17 +582,25 @@
     "quality": "Kvalitet",
     "faq": "FAQ",
     "blog": "Blog",
-    "countriesServed": "Lande tjente",
     "searchLanguage": "Søg sprog...",
-    "noLanguagesFound": "Ingen sprog fundet"
+    "noLanguagesFound": "Ingen sprog fundet",
+    "breadcrumb": "Brødkrumme",
+    "primaryNav": "Primær",
+    "menu": "Menu",
+    "playVideo": "Afspil video",
+    "productGallery": "Produktgalleri",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
     "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "International eksport",
+    "Kvalitetskontrol",
+    "Markedsstandarder på anmodning",
+    "Masseordrer"
   ],
   "productDetails": {
     "tabs": {
@@ -678,7 +760,7 @@
       "tableTitle": "Acetylen Generator modeller",
       "headers": [
         "Model",
-        "Ydelse (m³/t)",
+        "Output (m³/h)",
         "Carbid (kg/t)",
         "Tryk (kPa)",
         "Effekt (kW)",
@@ -792,7 +874,7 @@
     "items": [
       {
         "icon": "🏭",
-        "title": "Kundespecifik produktion (OEM/ODM)",
+        "title": "Custom Manufacturing (OEM/ODM)",
         "desc": "Cylindre med dit mærke, farve og mærkning.",
         "points": [
           "Logo & RAL farve",
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Certificering",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumenter til told- og tilsynsmyndigheder. Kopier sendes privat på forespørgsel.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & kvalitetscertifikat",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Pris- og leveringsbetingelser",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Kommercielle vilkår bekræftes pr. henvendelse. Send produkt-, mængde- og destinationsoplysninger for et formelt tilbud.",
+    "note": "Vi offentliggør ikke faste listepriser, MOQ eller leveringstider på denne hjemmeside. Nøjagtige kommercielle vilkår bekræftes i et tilbud, efter at vi har gennemgået dine krav.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Prissætning",
+        "value": "På forespørgsel",
+        "desc": "Formelt tilbud efter forespørgsel gennemgang"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Bekræftet pr. ordre",
+        "desc": "Afhænger af model og destination"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Leveringstid",
+        "value": "Bekræftet pr. ordre",
+        "desc": "Deles med citatet"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Betaling",
+        "value": "Aftalt i kontrakt",
+        "desc": "Vilkår bekræftet før produktion"
       }
     ],
     "factors": {
-      "title": "Prisfaktorer",
+      "title": "Hvad påvirker citatet",
       "items": [
-        "Cylindervolumen og model (2L – 50L)",
-        "Ventiltype (CGA, GOST, DIN, POL)",
-        "Certificeringsstandard (ISO, DOT, TPED)",
-        "OEM: farve, mærkning, emballage",
-        "Ordrevolumen & Incoterms"
+        "Cylindervolumen og model",
+        "Ventiltype og tilslutningsstandard",
+        "Standarder, der kræves til destinationsmarkedet",
+        "OEM farve, mærkning og emballage",
+        "Ordrevolumen og Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetylen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetylen cylindere",
+        "moq": "På forespørgsel",
+        "price": "Opgivet pr. henvendelse",
+        "lead": "Bekræftet pr. ordre"
       },
       {
-        "product": "Acetylen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propan / LPG flasker",
+        "moq": "På forespørgsel",
+        "price": "Opgivet pr. henvendelse",
+        "lead": "Bekræftet pr. ordre"
       },
       {
-        "product": "Propan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generatorer",
+        "moq": "På forespørgsel",
+        "price": "Opgivet pr. henvendelse",
+        "lead": "Bekræftet pr. ordre"
       },
       {
-        "product": "Propan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generator WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Regulator sæt",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Tilbehør",
+        "moq": "På forespørgsel",
+        "price": "Opgivet pr. henvendelse",
+        "lead": "Bekræftet pr. ordre"
       }
     ],
     "tableHeaders": [
       "Produkt",
       "MOQ",
-      "Pris (EXW)",
+      "Pris",
       "Ledetid"
     ]
   },
   "certifications": {
     "title": "Certificeringer og standarder",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standarder og certificeringsmuligheder diskuteres i henhold til produkt- og destinationsmarked. Certifikatkopier sendes privat efter anmodning - filer offentliggøres ikke på denne hjemmeside.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,39 +1043,39 @@
       },
       {
         "title": "Modtag tilbud",
-        "desc": "Pris, MOQ, leveringstid og spec-ark inden for 24 timer"
+        "desc": "Pris, MOQ, leveringstid og spec-ark efter gennemgang af vores salgsteam"
       },
       {
         "title": "Bekræft ordre",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Kontrakt og betalingsbetingelser aftalt inden produktionen starter"
       },
       {
         "title": "Produktion & QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Fremstilling og test. Videoer og certifikater sendes privat efter anmodning"
       },
       {
         "title": "Forsendelse",
-        "desc": "Emballage, dokumenter, FOB/CIF/DDP levering"
+        "desc": "Emballage, dokumenter og leveringsbetingelser som aftalt i bestillingen"
       }
     ]
   },
   "testimonials": {
-    "title": "Det siger køberne",
+    "title": "Hvad køberne siger",
     "items": [
       {
-        "quote": "Vi har genbestilt 40 l acetylencylindre tre gange i år. GOST-ventiler, OEM-farve og eksportemballage matchede den første prøve hver gang.",
+        "quote": "Vi genbestilte 40L acetylencylindre tre gange i år. GOST-ventiler, OEM-farve og eksportpakning matchede den første prøve hver gang.",
         "author": "Rustam Yusupov",
-        "role": "Ejer, distributør af svejsegas",
+        "role": "Ejer, svejsegasfordeler",
         "country": "Usbekistan"
       },
       {
-        "quote": "Tilbuddet kom samme dag med klar MOQ og leveringstid. Propanflaskerne ankom med POL-ventiler og fuld pakkeliste — ingen toldforsinkelser hos os.",
+        "quote": "Citat kom samme dag med en klar MOQ og leveringstid. Propanflasker ankom med POL-ventiler og fuld pakkeliste - ingen toldforsinkelser fra vores side.",
         "author": "Aigerim Bekova",
-        "role": "Indkøbschef, industriel forsyning",
+        "role": "Indkøbschef, industriforsyning",
         "country": "Kasakhstan"
       },
       {
-        "quote": "Vi køber cylindre med regulatorer og slanger som én containerordre. Dokumenter og mærkning var klar til vores marked, så videresalg var ligetil.",
+        "quote": "Vi køber cylindre med regulatorer og slanger som én containerbestilling. Dokumenter og mærkning var klar til vores marked, så videresalg var ligetil.",
         "author": "Faisal Al-Harbi",
         "role": "Importkøber, handel med gasudstyr",
         "country": "Saudi-Arabien"
@@ -1062,58 +1132,59 @@
         "id": "kvalitet",
         "eyebrow": "Kvalitet & sikkerhed",
         "title": "Besigtigelse kan du indsætte i tilbuddet",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Materialekontrol, lækagetest, ventilmoment og pakningsfotos. Certifikatpakker og fotorapporter sendes privat efter anmodning.",
         "points": [
           "Tryk- og lækagetest",
-          "Certificate package",
+          "Certifikater på forespørgsel",
           "Billeder før forsendelse"
         ]
       },
       {
         "id": "eksportere",
         "eyebrow": "Global eksport",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Pakket til havne, klar til eksportmarkeder",
         "text": "Eksporter paller, ventilbeskyttelse, flersprogede etiketter og forsendelsesdokumenter koordineret til din destination Incoterms.",
         "points": [
-          "FOB-/CIF-support",
+          "FOB / CIF support",
           "Palleteret pakning",
           "Leveringstid 15-25 dage"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Indpakkede gasflasker iscenesat i fabriksgården til afsendelse",
+    "about": "Arbejdere på Wanda Groups fabriksgulv",
+    "accessories": "Gasflaske tilbehørssæt - regulatorer, slanger, fakler og fittings",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Opløst acetylen cylinder med porøs masse og messing ventil",
+      "Acetylengenerator fotograferet på anlægget",
+      "Propan- og LPG-flasker i flere størrelser og farver",
+      "Svejse- og skæretilbehørssæt til gasflasker"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Natafsendelse: indpakket udstyr læsset på en trailer",
+      "Paller og metaldele iscenesat til forsendelse",
+      "Kartoner med pakket lager stablet på lageret",
+      "Cylindre pakket ind i film, iscenesat i fabriksgården",
+      "Gasflaskeproduktionstransportør under anlæggets tag",
+      "LPG-cylindre hængende på overliggende efterbehandlingstransportør",
+      "Arbejdere går på Wanda Groups fabriksgulv",
+      "Umalede svejsede propancylinderlegemer stablet to-høje",
+      "Rækker af umalede cylinderskaller på betongulvet",
+      "Cylinderrørsskål og kappede skaller på værkstedet",
+      "Stablet rå cylinderkroppe mod fabriksvæggen",
+      "Stålbundringe stablet før montering",
+      "Messingbeslag pakket i en karton med skum",
+      "Acetylen generator med slange og tilbehør i æske",
+      "Umalede cylinderkapper med åbne halse efter svejsning"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Luftkølet kondenseringsenhed med Copeland semi-hermetisk kompressor",
+      "Luftkølet kondenseringsaggregat med Bitzer semi-hermetisk kompressor",
+      "Lukket kølekondenserende enhed i skabsstil",
+      "Luftkølet kondenseringsenhed med høj kapacitet med fire ventilatorer"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Juridisk",
-    "title": "Privatlivspolitik",
-    "updated": "Sidst opdateret: 25. august 2026",
-    "intro": [
-      "Wanda Group (\"vi\", \"os\") driver denne hjemmeside for at præsentere gasflasker, tilbehør og relateret eksportforsyning og for at modtage kommercielle forespørgsler fra industrielle købere.",
-      "Denne politik forklarer, hvilke personlige data vi indsamler via webstedet, hvorfor vi bruger det, og hvordan du kan kontakte os om det. Vi offentliggør ikke fabriksvideoer eller certifikatfiler på webstedet; disse materialer sendes privat efter anmodning."
-    ],
-    "sections": [
-      {
-        "title": "Hvem er ansvarlig",
-        "body": [
-          "Den dataansvarlige for personoplysninger indsamlet via dette website er Wanda Group. Skriv til sales@wandagroups.com vedrørende privatliv."
-        ]
-      },
-      {
-        "title": "Hvilke data vi indsamler",
-        "body": [
-          "Når du sender forespørgselsformularen modtager vi de data, du indtaster: navn, e-mail, telefon, destinationsland, produkttype, mængde og besked.",
-          "Siden gemmer også dit sprogvalg i browseren (localStorage). Vi kører ikke annonceringscookies eller sælger besøgslister."
-        ]
-      },
-      {
-        "title": "Hvorfor bruger vi dataene",
-        "body": [
-          "Vi bruger kun forespørgselsdata til at besvare din anmodning, udarbejde et tilbud, sende produktinformation, videoer eller certifikater, som du har bedt om, og til at koordinere en ordre, hvis vi begynder at arbejde sammen.",
-          "Retsgrundlag: dit samtykke, når du afkrydser afkrydsningsfeltet på formularen, og vores legitime interesse i at besvare B2B-salgsanmodninger."
-        ]
-      },
-      {
-        "title": "Hvem modtager dataene",
-        "body": [
-          "Din besked bliver leveret til vores salgsteam via e-mail. Afhængigt af konfigurationen kan formularen behandles af Web3Forms som en teknisk udbyder, der sender beskeden til os.",
-          "Vi sælger ikke personlige data. Vi må kun dele det nødvendige med logistik-, inspektions- eller bankpartnere, hvis det er nødvendigt for at opfylde en aftalt ordre."
-        ]
-      },
-      {
-        "title": "Hvor længe beholder vi det",
-        "body": [
-          "Forespørgselsdata opbevares så længe det er nødvendigt for at håndtere anmodningen og i en rimelig periode efterfølgende til salgsopfølgning og regnskab, medmindre du beder os slette dem tidligere, hvor loven tillader det."
-        ]
-      },
-      {
-        "title": "Dine rettigheder",
-        "body": [
-          "Du kan bede om en kopi af de data, vi har om dig, om rettelse eller sletning. Du kan trække samtykke til yderligere salgsopfølgning tilbage ved at skrive til os. Brug rettighederne via sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Sikkerhed og børn",
-        "body": [
-          "Vi tager rimelige tekniske og organisatoriske skridt for at beskytte meddelelser i transit og i vores postkasse. Denne hjemmeside er beregnet til erhvervskøbere, ikke til børn."
-        ]
-      }
-    ],
-    "contactLead": "Spørgsmål om denne politik:"
-  },
   "terms": {
     "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "title": "Vilkår for brug",
+    "updated": "Sidst opdateret: 27. august 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Disse vilkår regulerer brugen af ​​wandagroups.com, der drives af Wanda Group for industrielle købere af gasflasker, generatorer og tilbehør.",
+      "Ved at browse på siden eller sende en forespørgsel accepterer du disse vilkår og vores privatlivspolitik. Hvis du ikke er enig, skal du ikke bruge siden."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Hvem vi er",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Hvad hjemmesiden er til",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Siden præsenterer produktinformation og modtager kommercielle forespørgsler. Den er beregnet til erhvervskøbere, ikke til forbrugere, der handler som privatpersoner og ikke til børn."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Tilbud, priser og ordrer",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Priser, MOQ, leveringstider og specifikationer på siden er vejledende. En besked via formularen eller messenger er en forespørgsel, ikke en ordre.",
+          "En kontrakt eksisterer kun, når begge parter bekræfter tilbuddet skriftligt (e-mail eller underskrevne dokumenter), og det aftalte depositum er modtaget, medmindre vi angiver andet i denne bekræftelse."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotos, videoer og certifikater",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Fabriksfotos og -videoer på webstedet illustrerer produktionen. Ekstra optagelser og certifikatfiler sendes privat efter anmodning og forbliver vores fortrolige materialer, medmindre vi siger, at du må dele dem."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Intellektuel ejendomsret",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Tekst, fotos, videoer, logoer og layout på denne hjemmeside tilhører Wanda Group eller vores licensgivere. Du må ikke kopiere kataloget til dit eget kommercielle websted uden vores skriftlige samtykke."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Acceptabel brug",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Misbrug ikke forespørgselsformularen (spam, falsk identitet eller forsøg på at forstyrre webstedet). Vi kan ignorere eller slette vildledende anmodninger."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Ansvar",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Vi sørger for at holde oplysningerne nøjagtige, men siden kan indeholde fejl eller være midlertidigt utilgængelig. I det omfang loven tillader det, er Wanda Group ikke ansvarlig for indirekte tab, der kun opstår ved brug af hjemmesiden.",
+          "Ansvar for en faktisk leveringskontrakt er fastsat i den pågældende kontrakt og i den gældende lovgivning, ikke alene i disse webstedsvilkår."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Ændringer",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Vi kan opdatere disse vilkår. Datoen øverst viser den aktuelle version. Fortsat brug af siden efter en ændring betyder, at du accepterer de opdaterede vilkår."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Spørgsmål om disse vilkår:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Vores produktlinje",
+    "title": "Køleanlæg",
+    "subtitle": "En separat Wanda Group-linje - ikke et tredjepartskatalog. Kondenseringsaggregater, kølerum og isenkram, leveret af os med cylindre eller som enkeltstående ordre.",
+    "moreLink": "Køleanlæg →",
+    "cta": "Anmod om et tilbud",
+    "alsoTitle": "Fås også på forespørgsel",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Polyurethan kølerumspaneler (B1 / B2) og 304 rustfri paneler",
+      "Kølerumsluftkølere — DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Fordamperspoler i aluminium",
+      "Kølerumsdøre",
+      "Industrielle vandkølere",
+      "Køleanlæg til køretøjer og mobile kølerum"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade leverer køleudstyr ved siden af ​​gascylinderlinjen: enheder, paneler, kølere og tilhørende kølekædehardware. Copeland, Bitzer og lignende navne henviser til kompressormærket inde i enheden, ikke et rebrand af disse virksomheder.",
+    "videoTitle": "Firma video",
+    "videoSubtitle": "Oversigt over køleudstyrslinjen. Flere optagelser sendes privat på forespørgsel.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland semi-hermetisk luftkølet enhed",
+        "spec": "Kondenseringsenhed · Copeland kompressor",
+        "desc": "Luftkølet kondenseringsaggregat med Copeland semi-hermetisk kompressor til kølerum og mellemtemperaturdrift."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer semi-hermetisk luftkølet enhed",
+        "spec": "Kondenseringsenhed · Bitzer kompressor",
+        "desc": "Luftkølet kondenseringsenhed med en Bitzer semi-hermetisk kompressor til rum med høj belastning og mellem til lav temperatur."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Indkapslet boks-type enhed",
+        "spec": "Skab kondenserende enhed",
+        "desc": "Indkapslet kondenseringsenhed i skabsstil til steder, der har brug for en maskine i stedet for en åben glidesko."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-type / højkapacitets kondenseringsenhed",
+        "spec": "Multi-fan luftkølet",
+        "desc": "Større luftkølet kondenseringsenhed med multi-fan kondensator til større kølerum og proceskøling."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Hvem vi er",
+    "title": "Industriel producent til B2B-købere",
+    "text": "Wanda Groups fremstiller og leverer industrielle gasflasker, generatorer og svejsetilbehør til oversøiske distributører, OEM-partnere og projektkøbere.",
+    "text2": "Vores fokus er fabriksforbundet forsyning, produktudvælgelsesstøtte, bulkordrer og eksportkoordinering - ikke detailsalg til forbrugere.",
+    "cta": "Lær mere om os"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Klar til at anmode om et tilbud?",
+      "quoteCta": "Anmod om et tilbud",
+      "relatedProducts": "Relaterede produkter",
+      "applications": "Ansøgninger",
+      "standardsTitle": "Standarder og certificering",
+      "oemTitle": "OEM / tilpasning",
+      "packagingTitle": "Pakning og levering",
+      "placeholders": {
+        "standards": "Tilgængelige standarder og certifikater bekræftes pr. ordre og destinationsmarked. Certifikatkopier sendes privat efter anmodning - filer offentliggøres ikke på hjemmesiden.",
+        "oem": "OEM farve, mærkning, ventil, hætte og pakningsmuligheder kan diskuteres i henhold til ordren og målmarkedet.",
+        "packaging": "Eksportpakning og dokumentation udarbejdes i henhold til ordre- og forsendelsesbetingelserne."
+      }
+    },
+    "home": {
+      "seoTitle": "Gascylinderfabrikant | Industriel OEM og eksport | Wanda grupper",
+      "seoDescription": "Wanda Groups fremstiller industrielle gasflasker, generatorer og svejsetilbehør til OEM-, engros- og internationale eksportkøbere."
+    },
+    "about": {
+      "label": "Om os",
+      "title": "Gasflaskeproducent til industrielle købere",
+      "subtitle": "Vi støtter oversøiske købere med produktvalg, OEM, inspektion, pakning og forsendelse.",
+      "seoTitle": "Om Wanda Group",
+      "seoDescription": "Wanda Group fremstiller acetylencylindre, propancylindre, generatorer og tilbehør til svejsning, skæring og industriel gasforsyning."
+    },
+    "products": {
+      "label": "Produkter",
+      "title": "Vores produkter",
+      "subtitle": "Acetylencylindre, generatorer, propancylindre og tilbehør til industri- og svejseapplikationer.",
+      "seoTitle": "Gascylinderprodukter",
+      "seoDescription": "Acetylencylindre, generatorer, propancylindre og tilbehør til industri- og svejseapplikationer.",
+      "refrigerationNote": "Wanda International Trade leverer køleudstyr ved siden af ​​gascylinderlinjen: enheder, paneler, kølere og tilhørende kølekædehardware. Copeland, Bitzer og lignende navne henviser til kompressormærket inde i enheden, ikke et rebrand af disse virksomheder.",
+      "catalog": {
+        "acetylene": {
+          "name": "Opløste acetylencylindre",
+          "overview": "Stålcylindre med porøs masse og opløsningsmiddel til sikker opbevaring og transport af acetylen. Anvendes til svejsning, skæring, lodning og metalfremstilling.",
+          "seoTitle": "Acetylen gascylindre",
+          "seoDescription": "Stålcylindre med porøs masse og opløsningsmiddel til sikker opbevaring og transport af acetylen. Anvendes til svejsning, skæring, lodning og metalfremstilling."
+        },
+        "propane": {
+          "name": "Propan cylindere",
+          "overview": "Cylindre til propan, butan og LPG blandinger. Anvendes til opvarmning, skæring, lodning, byggeri og industriel gasforsyning.",
+          "seoTitle": "Propangascylindre",
+          "seoDescription": "Cylindre til propan, butan og LPG blandinger. Anvendes til opvarmning, skæring, lodning, byggeri og industriel gasforsyning."
+        },
+        "lpg": {
+          "name": "LPG cylindere",
+          "overview": "Cylindre til propan, butan og LPG blandinger. Anvendes til opvarmning, skæring, lodning, byggeri og industriel gasforsyning.",
+          "seoTitle": "LPG gasflasker",
+          "seoDescription": "Cylindre til propan, butan og LPG blandinger. Anvendes til opvarmning, skæring, lodning, byggeri og industriel gasforsyning."
+        },
+        "industrial": {
+          "name": "Industrielle gascylindre",
+          "overview": "Industrielle gasflasker til svejsning, skæring og anlægsforsyning — inklusive acetylen, propan og LPG-muligheder, der er tilpasset dit marked.",
+          "seoTitle": "Industrielle gascylindre",
+          "seoDescription": "Industrielle gasflasker til svejsning, skæring og anlægsforsyning fra Wanda Group."
+        },
+        "generators": {
+          "name": "Acetylen generatorer",
+          "overview": "Udstyr til fremstilling af acetylen ud fra calciumcarbid. Stabil gasforsyning til svejsning og industrielle behov uden centraliseret gasinfrastruktur.",
+          "seoTitle": "Acetylen generatorer",
+          "seoDescription": "Udstyr til fremstilling af acetylen ud fra calciumcarbid. Stabil gasforsyning til svejsning og industrielle behov uden centraliseret gasinfrastruktur."
+        },
+        "accessories": {
+          "name": "Cylinder tilbehør og fittings",
+          "overview": "Komplet sortiment til sikker drift af gasflasker: fra målere til svejsebrændere. One-stop indkøb med cylindre.",
+          "seoTitle": "Svejsetilbehør",
+          "seoDescription": "Komplet sortiment til sikker drift af gasflasker: fra målere til svejsebrændere. One-stop indkøb med cylindre."
+        },
+        "refrigeration": {
+          "name": "Køleanlæg",
+          "overview": "En separat Wanda Group-linje - ikke et tredjepartskatalog. Kondenseringsaggregater, kølerum og isenkram, leveret af os med cylindre eller som enkeltstående ordre.",
+          "seoTitle": "Køleanlæg",
+          "seoDescription": "En separat Wanda Group-linje - ikke et tredjepartskatalog. Kondenseringsaggregater, kølerum og isenkram, leveret af os med cylindre eller som enkeltstående ordre."
+        }
+      }
+    },
+    "factory": {
+      "label": "Fabrik",
+      "title": "Fabrik og fremstilling",
+      "subtitle": "Produktion, inspektion, pakning og forsendelse — dokumenteret med ægte plantefotografering og fabriksvideoer.",
+      "seoTitle": "Fabrik og produktion | Wanda grupper",
+      "seoDescription": "Rigtige plantefotos, live-udsendelsesbilleder og korte videoer fra produktionsgulvet.",
+      "sections": [
+        {
+          "title": "Fremstilling",
+          "text": "Cylinderformning, svejsning og efterbehandling som en del af anlæggets produktionsflow."
+        },
+        {
+          "title": "Produktionsproces",
+          "text": "Fra skalforberedelse til montering og efterbehandling - se lageroptagelser i processen og produktionsgulvoptagelser."
+        },
+        {
+          "title": "Kvalitetsinspektion",
+          "text": "Visuel kontrol, mærkning og dimensionskontrol forbereder cylindre til forsendelse."
+        },
+        {
+          "title": "Afprøvning",
+          "text": "Tryk- og lækagetest udføres, før produkter forlader linjen, i henhold til ordrekrav."
+        },
+        {
+          "title": "Emballage",
+          "text": "Eksportpakning beskytter cylindre og fittings til oversøisk transport."
+        },
+        {
+          "title": "Indlæsning og eksport",
+          "text": "Lageropstilling, lastbillæsning og forsendelsesdokumentation for udgående ordrer."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Certificeringer",
+      "title": "Certificeringer og standarder",
+      "subtitle": "Standarder, som ofte efterspørges af købere, er anført nedenfor. Anvendelighed afhænger af produkt- og destinationsmarked. Certifikatkopier, numre og gyldighed deles privat efter anmodning - ikke offentliggjort som ubekræftede krav.",
+      "seoTitle": "Certificeringer og standarder | Wanda grupper",
+      "seoDescription": "Standarder diskuteret for Wanda Groups gasflasker efter marked. Certifikatkopier udleveres privat efter anmodning.",
+      "note": "Certifikatkopier sendes privat efter anmodning. Vi offentliggør ikke certifikatfiler på hjemmesiden."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM og Engros",
+      "subtitle": "Private label og bulk leveringsmuligheder for distributører og industrielle købere.",
+      "seoTitle": "OEM gascylinderforsyning",
+      "seoDescription": "OEM og private-label gasflaskefremstilling til oversøiske mærker og distributører.",
+      "quoteTitle": "Diskuter OEM-krav",
+      "quoteCta": "Anmod om OEM-tilbud",
+      "capabilities": [
+        {
+          "title": "Brugerdefineret logo",
+          "text": "Logo- og mærkningsmuligheder diskuteret for kvalificerende OEM-ordrer."
+        },
+        {
+          "title": "Brugerdefineret farve",
+          "text": "Cylinderfarve i henhold til markeds- eller mærkekrav."
+        },
+        {
+          "title": "Brugerdefineret emballage",
+          "text": "Eksporter kartoner, paller og pakkemærker efter ordre."
+        },
+        {
+          "title": "Private Label",
+          "text": "Mærkning og brandpræsentation for distributørkanaler."
+        },
+        {
+          "title": "Masseordrer",
+          "text": "Engrosmængder til projekt- og distributørindkøb."
+        },
+        {
+          "title": "OEM-fremstilling",
+          "text": "Produktkonfiguration tilpasset din specifikation og marked."
+        },
+        {
+          "title": "Eksport support",
+          "text": "Dokumenter og forsendelseskoordinering til oversøisk levering."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Markeder",
+      "title": "Globale markeder",
+      "subtitle": "Vi støtter internationale B2B-købere. Nedenstående regioner beskriver fælles undersøgelsesområder — specifikke lande og projekter bekræftes fra sag til sag.",
+      "seoTitle": "Globale markeder | Wanda Groups eksport",
+      "seoDescription": "Wanda Groups arbejder med internationale industrielle købere på tværs af Afrika, Mellemøsten, Centralasien, Sydøstasien, Latinamerika og andre markeder.",
+      "note": "Vi offentliggør ikke ubekræftede landetællinger, kundenavne eller projektreferencer på denne side.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Industri- og distributørforespørgsler fra afrikanske markeder."
+        },
+        {
+          "title": "Mellemøsten",
+          "text": "Købere indkøber cylindre og tilhørende udstyr til regionale projekter."
+        },
+        {
+          "title": "Centralasien",
+          "text": "Engros- og projektforsyningsdiskussioner på tværs af centralasiatiske markeder."
+        },
+        {
+          "title": "Sydøstasien",
+          "text": "Industrielle købere vurderer udbuddet af eksportcylindre."
+        },
+        {
+          "title": "Latinamerika",
+          "text": "Forespørgsler til industriel gasflaske og tilbehørsforsyning."
+        },
+        {
+          "title": "Andre internationale markeder",
+          "text": "Yderligere destinationer gennemgås i henhold til produktstandard og logistik."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Ansøgninger",
+      "title": "Cylinderapplikationer",
+      "subtitle": "Produkter designet til almindelige industrielle gasopgaver og oversøiske købers krav.",
+      "seoTitle": "Cylinderapplikationer",
+      "seoDescription": "Produkter designet til almindelige industrielle gasopgaver og oversøiske købers krav.",
+      "items": [
+        {
+          "title": "Svejsning og lodning",
+          "text": "Opløst acetylen og tilhørende udstyr til værksteds- og fabrikationssvejsning."
+        },
+        {
+          "title": "Metalskæring",
+          "text": "Cylindre og tilbehør til oxy-fuel skæring på stedet og i anlægget."
+        },
+        {
+          "title": "Industriel gasforsyning",
+          "text": "Cylinderforsyning til industriel distribution og plantegasanlæg."
+        },
+        {
+          "title": "Konstruktion",
+          "text": "Transportabel gasforsyning til bygge- og vedligeholdelsesarbejde."
+        },
+        {
+          "title": "Metalfremstilling",
+          "text": "Cylindre og tilbehør til fabrikationsbutikker og skibsværfter."
+        },
+        {
+          "title": "Gas Opbevaring & Distribution",
+          "text": "Lager- og distributionsklare cylindre til industrielle købere."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Ofte stillede spørgsmål",
+      "subtitle": "Virksomhed, produkter, OEM og eksport - svar til oversøiske købere, før du anmoder om et tilbud.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Virksomhed, produkter, OEM og eksport - svar til oversøiske købere, før du anmoder om et tilbud."
+    },
+    "contactPage": {
+      "label": "Kontakte",
+      "title": "Lad os diskutere dine krav",
+      "subtitle": "Nå vores salgsteam via formular, e-mail eller messenger. Del produkt, mængde og destination for et hurtigere tilbud.",
+      "seoTitle": "Anmod om et tilbud",
+      "seoDescription": "Fortæl os størrelse, mængde, destinationsland og ansøgning - vi udarbejder et detaljeret tilbud."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Seneste artikler",
+      "subtitle": "Ekspertindhold til fagfolk i svejse- og gasforsyning.",
+      "seoTitle": "Artikler og vejledninger",
+      "seoDescription": "Ekspertindhold til fagfolk i svejse- og gasforsyning.",
+      "coming": "Flere købervejledninger og produktnoter vil blive tilføjet her. Brug ovenstående artikler eller kontakt os for produktspecifikke materialer."
+    },
+    "privacy": {
+      "seoTitle": "Privatlivspolitik",
+      "seoDescription": "Privatlivspolitik for Wanda Group-webstedsforespørgsler og personlige data."
+    },
+    "terms": {
+      "seoTitle": "Vilkår for brug",
+      "seoDescription": "Betingelser for brug for Wanda Group-webstedet."
+    },
+    "notFound": {
+      "seoTitle": "Siden blev ikke fundet",
+      "seoDescription": "Den side, du anmodede om, er ikke tilgængelig.",
+      "title": "Siden blev ikke fundet",
+      "text": "Den side, du leder efter, findes ikke eller er flyttet.",
+      "home": "Hjem",
+      "products": "Produkter",
+      "contact": "Kontakt / Få et tilbud"
+    }
   }
 }

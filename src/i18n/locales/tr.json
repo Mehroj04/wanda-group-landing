@@ -1,56 +1,56 @@
 {
   "nav": {
+    "home": "Ev",
     "products": "Ürünler",
-    "specs": "Teknik Özellikler",
+    "specs": "Özellikler",
     "applications": "Uygulamalar",
-    "about": "Hakkımızda",
+    "about": "Hakkında",
     "gallery": "Galeri",
+    "factory": "Fabrika",
     "quality": "Kalite",
     "faq": "SSS",
-    "contact": "İletişim",
-    "getQuote": "Teklif Alın",
-    "inquire": "Sorgula →",
+    "contact": "Temas etmek",
+    "getQuote": "Teklif Al",
+    "inquire": "Sor →",
     "services": "Hizmetler",
     "pricing": "Fiyatlandırma",
     "accessories": "Aksesuarlar",
-    "home": "Ana sayfa",
-    "factory": "Fabrika",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Soğuk hava deposu",
+    "cooling": "Soğutma",
+    "certifications": "Sertifikalar",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Piyasalar"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Endüstriyel Gaz Tüpü Üreticisi",
+    "title": "Endüstriyel Gaz Tüpleri ve Ekipmanları Üreticisi",
+    "subtitle": "Uluslararası ihracat alıcıları için asetilen tüpleri, propan/LPG tüpleri, jeneratörler ve kaynak aksesuarlarının üretimi, OEM ve toptan tedariki.",
+    "lineGas": "Gaz silindirleri",
+    "lineCold": "Soğutma üniteleri",
+    "cta": "Teklif Al",
+    "ctaSecondary": "Ürünleri Görüntüle",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Üretici odaklı tedarik"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Özel etiket ve özelleştirme"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Uluslararası nakliye desteği"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Muayene ve test süreci"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Talep üzerine pazara özel seçenekler"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Güvenilir Gaz Tüpü Aksesuarları",
@@ -59,219 +59,231 @@
   },
   "products": {
     "title": "Ürünlerimiz",
-    "subtitle": "Endüstriyel ve kaynak uygulamaları için asetilen tüpleri, jeneratörler, propan tüpleri ve aksesuarlar.",
+    "subtitle": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+    "viewDetails": "Ayrıntıları Görüntüle",
     "items": [
       {
-        "title": "Asetilen Tüpü",
-        "desc": "Kaynak, kesme ve endüstriyel gazlar için çözünmüş asetilen tüpleri. Çeşitli boyut ve vana seçenekleri.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "title": "Asetilen Silindiri",
+        "spec": "2L–40L · pazara göre onaylanan standartlar",
+        "desc": "Kaynak, kesme ve endüstriyel gaz temini için çözünmüş asetilen silindirleri.",
+        "icon": "🔥"
       },
       {
         "title": "Asetilen Jeneratörü",
-        "desc": "Stabil gaz üretimi, kolay kullanım ve endüstriyel uygulamalar için ekipman.",
-        "icon": "⚙️",
-        "spec": "Endüstriyel üretim sistemleri"
+        "spec": "Endüstriyel üretim sistemleri",
+        "desc": "Sahada ve tesiste stabil asetilen üretimi için donatım.",
+        "icon": "⚙️"
       },
       {
-        "title": "Propan Tüpü",
-        "desc": "Propan ve LPG için dayanıklı tüpler — depolama, ısıtma, kesme ve endüstriyel kullanım.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "title": "Propan Silindiri",
+        "spec": "3L–50L · pazara göre valf seçenekleri",
+        "desc": "Isıtma, kesme ve endüstriyel kullanıma yönelik dayanıklı LPG tüpleri.",
+        "icon": "🛢️"
       },
       {
-        "title": "Tüp Aksesuarları",
-        "desc": "Hortumlar, manometreler, kesme torçları, kaynak brülörleri, emniyet vanaları ve daha fazlası.",
-        "icon": "🔧",
-        "spec": "Vanalar · regülatörler · hortumlar · fenerler"
+        "title": "Silindir Aksesuarları",
+        "spec": "Vanalar · regülatörler · hortumlar · fenerler",
+        "desc": "Eşleşen bağlantı parçaları silindirlerle birlikte veya ayrı sipariş olarak sağlanır.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Ayrıntıları Görüntüle"
+    ]
   },
   "specs": {
     "title": "Teknik Özellikler",
-    "subtitle": "Sorgu göndermeden önce tüp seçeneklerini, özelleştirme olanaklarını ve sevkiyat detaylarını inceleyin.",
+    "subtitle": "Bir soruşturma göndermeden önce silindir seçeneklerini, özelleştirme yeteneklerini ve nakliye ayrıntılarını keşfedin.",
     "items": [
       {
-        "title": "Tüp Kapasitesi",
-        "desc": "Uygulama ve pazar gereksinimlerine göre çeşitli kapasite ve hacim seçenekleri."
+        "title": "Silindir Kapasitesi",
+        "desc": "Uygulama ve pazar gereksinimlerine bağlı olarak çeşitli kapasite ve hacim seçenekleri."
       },
       {
         "title": "Vanalar ve Kapaklar",
-        "desc": "Müşteri ve proje ihtiyaçlarına göre tedarik edilen vanalar, kapaklar ve bağlantı parçaları."
+        "desc": "Müşteri ve proje ihtiyaçlarına göre temin edilen vana, kapak ve bağlantı parçaları."
       },
       {
         "title": "Çözücü Seçenekleri",
-        "desc": "Stabil asetilen depolama için gözenekli dolgu sistemi ve çözücüler."
+        "desc": "Stabil asetilen depolaması için gözenekli dolgu sistemi ve solventler."
       },
       {
-        "title": "Paketleme ve Sevkiyat",
-        "desc": "Distribütörler ve proje müşterileri için ihracat paketleme ve sevkiyat desteği."
+        "title": "Paketleme ve Nakliye",
+        "desc": "Distribütörler ve proje müşterileri için ihracat paketleme ve nakliye desteği."
       }
     ]
   },
   "applications": {
-    "title": "Tüp Uygulamaları",
-    "subtitle": "Yaygın endüstriyel gaz görevleri ve yurt dışı alıcı gereksinimleri için tasarlanmış ürünler.",
+    "title": "Silindir Uygulamaları",
+    "subtitle": "Yaygın endüstriyel gaz görevleri ve yurtdışı alıcı gereksinimleri için tasarlanmış ürünler.",
     "items": [
-      "Kaynak ve Sert Lehim",
-      "Metal Kesme",
-      "Endüstriyel Gaz Tedariki",
-      "İnşaat",
-      "Metal İmalat",
-      "Gaz Depolama ve Dağıtım"
+      "Kaynak ve Lehimleme",
+      "Metal Kesim",
+      "Endüstriyel Gaz Temini",
+      "Yapı",
+      "Metal İmalatı",
+      "Gaz Depolama ve Dağıtımı"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Neden Wanda Gruplarını Seçmelisiniz?",
+    "subtitle": "Bir üretim ortağını değerlendiren endüstriyel alıcılar için somut yetenekler.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Üretici odaklı tedarik",
+        "desc": "Ürün tedariği yalnızca ticari kataloglara değil, üretime yöneliktir."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM desteği",
+        "desc": "Siparişe göre özel renk, işaretleme, valf ve ambalaj tartışılır."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kalite kontrol",
+        "desc": "Sevkiyattan önce malzemelerin paketlenmesine kadar muayene."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Uluslararası ihracat",
+        "desc": "Yurtdışı alıcılar için ihracat paketleme ve nakliye koordinasyonu."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Ürün özelleştirme",
+        "desc": "Spesifikasyonlar pazar ve uygulama gereksinimlerine göre uyarlanmıştır."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Duyarlı satış desteği",
+        "desc": "Form, e-posta ve mesajlaşma yoluyla fiyat teklifleri ve teknik yanıtlar."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Toplu sipariş imkanı",
+        "desc": "Distribütörler ve proje alıcıları için desteklenen toptan satış miktarları."
       }
     ]
   },
   "about": {
-    "title": "Profesyonel Gaz Tüpü Üreticisi",
-    "text": "Wanda Group Gas Cylinder Manufacturer, endüstriyel gaz tüpleri ve ilgili aksesuarların üretimi ve tedarikinde uzmanlaşmıştır. Ürünlerimiz kaynak, kesme, gaz dağıtımı, endüstriyel depolama ve diğer gaz tedarik alanlarında yaygın olarak kullanılır.",
-    "text2": "Yurt dışı alıcılara ürün seçimi, özelleştirme, kalite kontrolü, paketleme ve sevkiyat koordinasyonunda destek sunuyoruz.",
+    "title": "Endüstriyel alıcılar için gaz tüpü üreticisi",
+    "text": "Wanda Group kaynak, kesme ve endüstriyel gaz tedariğine yönelik asetilen tüpleri, propan tüpleri, jeneratörler ve aksesuarlar üretmektedir.",
+    "text2": "Yurtdışındaki alıcıları ürün seçimi, OEM, muayene, paketleme ve nakliye konularında destekliyoruz.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Üretme",
+        "desc": "Endüstriyel gaz silindirleri için şekillendirme, kaynaklama, test etme ve bitirme."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM Desteği",
+        "desc": "Siparişe göre renk, markalama, valf, kapak ve ambalaj seçenekleri."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kalite Süreci",
+        "desc": "Sipariş ve pazar gereksinimlerine uygun inceleme ve testler."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Uluslararası İhracat",
+        "desc": "Yurtdışı endüstriyel alıcılar için dokümantasyon ve paketleme desteği."
       }
     ]
   },
   "gallery": {
     "title": "Fabrikamızın İçinde",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Üretim alanından gerçek tesis fotoğrafları, canlı sevk çekimleri ve kısa videolar.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Gece gönderimi",
+        "desc": "Yüklü bir römork sarılı ekipmanla ayrılıyor; çekimin üzerine zaman ve yer damgası vurulmuş."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Kargo sevk edilmek üzere hazırlandı",
+        "desc": "Sevkiyat için toplanan paletler ve parçalar. Canlı bir depo fotoğrafı, stüdyo seti değil."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Paketlenmiş stok",
+        "desc": "Bir sonraki siparişe hazır olarak depoda istiflenen kartonlar."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Sevkiyat için paketlenmiş",
+        "desc": "Silindirler sevkıyat için tesis sahasında sarılır ve hazırlanır."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Üretim konveyörü",
+        "desc": "Şekillendirme ve taşıma hattı boyunca hareket eden silindir gövdeleri."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG bitiş hattı",
+        "desc": "Paketlemeden önce baş üstü konveyördeki boyalı LPG tüpleri."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Bitkinin içinde",
+        "desc": "Üretim salonu — insanlar, makineler ve süreç içi stok."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Kaynaklı silindir gövdeleri",
+        "desc": "Kaplama ve vanalardan önce, çevresel kaynak sonrası kabuklar."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Boyamadan önce kabuklar",
+        "desc": "Bir sonraki proses adımı için zemine serilen boyasız gövdeler."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Süreç içi stok",
+        "desc": "Montaj için bekleyen tüp bölümleri ve kapaklı kabuklar."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Stoktaki silindir gövdeleri",
+        "desc": "Kaynaktan sonra, kafalar ve vanalardan önce istiflenen haddelenmiş kabuklar."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Temel halkalar",
+        "desc": "Silindir kabuklarına kaynak yapmak için hazırlanmış ayak halkaları."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Paketlenmiş bağlantı parçaları",
+        "desc": "İhracat sevkiyatı için köpükle kutulanmış vanalar ve bağlantı parçaları."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Asetilen jeneratörü",
+        "desc": "Hortum ve bağlantı parçalarıyla birlikte tesisten ayrılmaya hazır bir jeneratör ünitesi."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Yerdeki kabuklar",
+        "desc": "Kaynak sonrası açık boyunlu gövdeler — valf takılmasından önceki parti."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Fabrika videoları",
+    "videosSubtitle": "Fabrika katından yeni şortlar. Daha fazla görüntü istek üzerine özel olarak gönderilir."
   },
   "quality": {
     "title": "Kalite Kontrol",
     "subtitle": "Her parti aynı yolu izler: üretim, test, muayene ve son kalite kontrol.",
     "steps": [
       {
-        "title": "Üretme",
-        "desc": "Tesis proses kontrolü altında şekillendirme, kaynaklama ve montaj."
+        "title": "Hammadde",
+        "desc": "Gelen malzemeler sipariş ve süreç gereksinimlerine göre incelenir."
       },
       {
-        "title": "Test",
-        "desc": "Silindirler hattan ayrılmadan önce basınç ve sızıntı testleri."
+        "title": "Üretme",
+        "desc": "Tesis proses kontrolü altında şekillendirme, kaynaklama ve montaj."
       },
       {
         "title": "Denetleme",
         "desc": "Siparişe göre görsel, markalama ve boyutsal kontroller."
       },
       {
-        "title": "Nihai Kalite Kontrol",
-        "desc": "İhracat sevkiyatından önce ambalaj denetimi."
+        "title": "Test",
+        "desc": "Silindirler hattan ayrılmadan önce basınç ve sızıntı testleri."
+      },
+      {
+        "title": "Nihai kalite kontrol",
+        "desc": "Paketleme için piyasaya sürülmeden önce son kalite kontrolü."
+      },
+      {
+        "title": "Ambalajlama",
+        "desc": "Nakliye için hazırlanan ihracat ambalajı."
+      },
+      {
+        "title": "Sevkiyat",
+        "desc": "Giden siparişler için belgelerin yüklenmesi ve gönderilmesi."
       }
     ]
   },
   "faq": {
     "title": "Sıkça Sorulan Sorular",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Şirket, ürünler, OEM ve ihracat - siz fiyat teklifi istemeden önce yurt dışındaki alıcılar için yanıtlar.",
     "cta": "Sorunuzu bulamadınız mı? Ürünü, boyutunu, miktarını ve varış ülkesini gönderin; size ayrıntılı bir teklifle yanıt vereceğiz.",
     "ctaBtn": "Teklif Al",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videolar ve belgeler",
         "items": [
           {
             "q": "Sipariş vermeden önce fabrika videolarını izleyebilir miyim?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Evet. Bu sayfadaki Fabrika bölümündeki üretim videolarını izleyin. Ekstra görüntüler, paketleme klipleri ve sertifikalar istek üzerine özel olarak gönderilir."
           },
           {
             "q": "Özellikle asetilen tüpleri için ürün videoları sağlıyor musunuz?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Evet. Asetilen tüpleri ile ilgili video, fotoğraf ve detaylı bilgiler talebiniz doğrultusunda özel olarak gönderilir."
           },
           {
             "q": "Üretim ve kalite kontrol videolarını gösterebilir misiniz?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Evet. Üretim, kalite kontrol, paketleme ve depo depolamaya ilişkin mevcut videolar özel olarak gönderilir, böylece ürünlerin nasıl hazırlandığını görebilirsiniz."
           },
           {
             "q": "Belirli bir sipariş için hazırlanan ürün videosunu talep edebilir miyim?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Belirli bir sipariş veya ürün gereksinimleri için bizimle iletişime geçin; video desteğini görüşeceğiz ve malzemeleri özel olarak göndereceğiz."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Videoları, sertifikaları ve fiyat teklifini nasıl alabilirim?",
+            "a": "Talep formunda ürün türünü, silindir boyutunu, miktarını, varış ülkesini ve ne gönderileceğini belirtin: videolar, sertifikalar veya her ikisi. Bunları özel olarak gönderip teklif hazırlayacağız."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Ürün fotoğraflarını ve özelliklerini sağlayabilir misiniz?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Evet. Ürün fotoğrafları, teknik özellikleri ve veri sayfaları istek üzerine özel olarak gönderilir."
           },
           {
             "q": "Aksesuarlar için nasıl fiyat teklifi alabilirim?",
@@ -396,106 +408,168 @@
   },
   "articles": {
     "title": "Son Makaleler",
-    "subtitle": "Kaynak ve gaz tedarik profesyonelleri için uzman içerik.",
-    "readMore": "Devamını oku →",
-    "close": "Kapat",
+    "subtitle": "Kaynak ve gaz tedarik profesyonelleri için uzman içeriği.",
+    "readMore": "Daha fazlasını okuyun →",
+    "close": "Kapalı",
     "items": [
       {
-        "tag": "Ustalar",
+        "tag": "Zanaatkarlar",
         "title": "Komple Propan Tüpü Tedarik Çözümü",
-        "desc": "Ekipman stabilitesi, kaynak ve kesme iş verimliliğini doğrudan etkiler.",
+        "desc": "Ekipman stabilitesi kaynak ve kesme iş verimliliğini doğrudan etkiler.",
         "body": [
-          "Her gün metal kaynak, onarım ve imalat yapan ustalar için stabil gaz ekipmanı, iş kalitesini ve hızını doğrudan etkiler.",
-          "Wanda Group propan tüpleri, pazarınıza göre POL, CGA 510 veya GOST vanalarla 3L'den 50L'ye kadar mevcuttur — kaynak, kesme ve ısıtma için tek tedarikçi.",
-          "Tüpleri regülatörler, hortumlar ve torçlarla birlikte sipariş etmenizi öneririz. Paket tedarik lojistik maliyetini düşürür ve aksesuar uyumluluğunu sağlar.",
-          "Sipariş verirken hedef pazar, hacim, vana tipi ve rengi belirtin — markanız altında OEM işaretleme ve ihracat paketlemesi hazırlarız."
+          "Her gün metal kaynak yapan, tamir eden ve üreten ustalar için stabil gaz ekipmanları iş kalitesini ve hızını doğrudan etkiler.",
+          "Wanda Group propan silindirleri, pazarınıza bağlı olarak POL, CGA 510 veya GOST valfleriyle 3 L'den 50 L'ye kadar mevcuttur; kaynak, kesme ve ısıtma için tek tedarikçi.",
+          "Silindirleri regülatörler, hortumlar ve torçlarla birlikte sipariş etmenizi öneririz. Paket tedariği lojistik maliyetini azaltır ve aksesuar uyumluluğunu sağlar.",
+          "Sipariş verirken hedef pazarı, hacmi, vana tipini ve rengini belirtin; markanız altında OEM markalama ve ihracat ambalajları hazırlıyoruz."
         ]
       },
       {
-        "tag": "Depolama",
-        "title": "Uzun Süreli Asetilen Tüpü Depolama İpuçları",
-        "desc": "Kullanılmayan tüpler için depolama koşulları, yerleştirme yöntemleri ve düzenli kontroller.",
+        "tag": "Depolamak",
+        "title": "Uzun Süreli Asetilen Tüpünde Depolama İpuçları",
+        "desc": "Kullanılmayan silindirlerin saklama koşulları, yerleştirme yöntemleri ve düzenli muayeneleri.",
         "body": [
-          "Birçok şirket üretim duraklamalarında veya stok olarak asetilen ve propan tüpleri saklar. Kullanılmayan tüpler yine de doğru kullanım gerektirir.",
-          "Tüpleri ısı kaynaklarından ve doğrudan güneş ışığından uzak, iyi havalandırılmış bir alanda dik konumda saklayın. Depolama sıcaklığı genellikle 40–50°C'yi aşmamalıdır.",
-          "Vanaları, kapakları ve işaretlemeleri en az üç ayda bir kontrol edin. Uzun süreli asetilen depolamada tüpleri dik tutun ve asla eğilmesine izin vermeyin.",
-          "Wanda Group, güvenli taşıma ve depolama için tasarlanmış koruyucu kapaklar ve ihracat paketlemesiyle tüpleri sevk eder. Depolama kılavuzları talep üzerine dilinizde mevcuttur."
+          "Birçok şirket asetilen ve propan tüplerini üretim molalarında veya stok olarak depolar. Kullanılmayan silindirlerin yine de uygun şekilde işlenmesi gerekir.",
+          "Tüpleri iyi havalandırılan bir alanda, ısı kaynaklarından ve doğrudan güneş ışığından uzak, dik bir şekilde saklayın. Depolama sıcaklığı genellikle 40–50°C'yi aşmamalıdır.",
+          "Valfleri, kapakları ve işaretleri en az üç ayda bir kontrol edin. Uzun süreli asetilen depolaması için silindirleri dik tutun ve asla eğilmesine izin vermeyin.",
+          "Wanda Group, güvenli taşıma ve depolama için tasarlanmış koruyucu kapaklı ve ihracat ambalajlı silindirler gönderiyor. Depolama kılavuzları istek üzerine kendi dilinizde mevcuttur."
         ]
       },
       {
         "tag": "Fiyatlandırma",
-        "title": "Asetilen Tüpü Satın Alma Bütçe Rehberi",
-        "desc": "Maliyeti etkileyen faktörler ve en uygun teklifi nasıl seçersiniz.",
+        "title": "Asetilen Tüpü Satın Alımı İçin Bütçe Rehberi",
+        "desc": "Maliyeti etkileyen faktörler ve en uygun teklifin nasıl seçileceği.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "Daha büyük partiler (200–500+ adet) anlamlı indirimler alır. OEM boyama, logo ve özel paketleme taban fiyata %5–15 ekler ancak distribütörler için değeri artırır.",
-          "Ayrıca sevkiyatı (FOB/CIF), belgeleri ve MOQ'yu hesaba katın. Tam spesifikasyon, teslim süresi ve Incoterms ile 24 saat içinde yanıt veririz.",
-          "Kesin teklif için iletişim formuna model, miktar, hedef ülke ve vana gereksinimlerini ekleyin — veya sales@wandagroups.com adresine e-posta gönderin."
+          "Asetilen tüpü fiyatlandırması hacme, valf tipine, hedef pazarınız için gerekli standartlara ve sipariş miktarına bağlıdır. Web sitemizde sabit liste fiyatları yayınlamıyoruz.",
+          "Daha büyük partiler ve OEM seçenekleri (boyama, logo, paketleme), talebiniz incelendikten sonra ayrı ayrı fiyatlandırılır.",
+          "Gönderim koşulları (FOB/CIF ve benzeri), belgeler ve teslim süresi resmi teklifte teyit edilir.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Fiyat Teklifi İste",
-    "subtitle": "Boyut, miktar, hedef ülke ve uygulamayı bildirin — detaylı bir teklif hazırlayacağız.",
+    "title": "İhtiyaçlarınızı Tartışalım",
+    "subtitle": "Bize ürünü, boyutunu, miktarını, varış ülkesini ve özelliklerini söyleyin; satış ekibimiz ürün bilgileri ve fiyat teklifiyle yanıt verecektir.",
     "formTitle": "Fiyat Teklifi İste",
-    "formSubtitle": "Gereksinimlerinizi bırakın — satış ekibimiz ürün bilgisi, fiyat, MOQ ve teslim süresiyle yanıt verecektir.",
-    "name": "Ad",
+    "formSubtitle": "Ticari bir soruşturma için formu doldurun. Gerekli alanlar işaretlenmiştir.",
+    "name": "İsim",
+    "company": "Şirket",
     "phone": "Telefon / WhatsApp",
     "email": "E-posta",
     "product": "Ürün",
-    "quantity": "Miktar",
-    "country": "Hedef Ülke",
+    "quantity": "Miktar (isteğe bağlı)",
+    "country": "Hedef Ülke (isteğe bağlı)",
     "productOptions": [
-      "Asetilen Tüpü",
-      "Propan Tüpü",
+      "Asetilen Silindiri",
+      "Propan Silindiri",
       "Asetilen Jeneratörü",
       "Aksesuarlar",
-      "Cold storage / refrigeration",
-      "Paket Sipariş"
+      "Soğuk hava deposu/soğutma",
+      "Paket Siparişi"
     ],
+    "quantityPlaceholder": "örneğin 200 adet, 1 konteyner veya TBD",
+    "countryPlaceholder": "Malların nereye gönderileceği",
     "message": "Ek Gereksinimler",
-    "messagePlaceholder": "Ürün, boyut, miktar, hedef ülke...",
+    "messagePlaceholder": "Ürün, beden, miktar, varış ülkesi...",
     "submit": "Talep Gönder",
     "sending": "Gönderiliyor...",
-    "success": "Teşekkürler! En kısa sürede sizinle iletişime geçeceğiz.",
-    "sendAnother": "Başka bir sorgu gönder",
-    "errorGeneric": "Gönderilemedi. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
-    "errorNoForm": "Form yapılandırılmamış. Lütfen sales@wandagroups.com adresine e-posta gönderin",
+    "success": "Teşekkür ederim! Kısa süre içinde sizinle iletişime geçeceğiz.",
+    "sendAnother": "Başka bir soruşturma gönder",
+    "errorGeneric": "Gönderilemedi. Lütfen tekrar deneyin veya doğrudan bize e-posta gönderin.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "E-posta uygulamasıyla gönder",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
     "privacyPrefix": "katılıyorum",
     "privacySuffix": "ve bu soruşturmayı yürütmek için kişisel verilerimin işlenmesine.",
     "privacyLink": "Gizlilik Politikası",
-    "company": "Şirket",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "E-posta uygulamasıyla gönder",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "termsAnd": "ve",
+    "termsLink": "Kullanım Koşulları",
+    "requirements": "Gereksinimler / Özellikler",
+    "requirementsPlaceholder": "Vana tipi, rengi, standardı, ambalajı, OEM işareti, miktar notları..."
   },
   "footer": {
     "company": "Wanda Group Gaz Tüpü Üreticisi",
-    "tagline": "Profesyonel Gaz Tüpü Üretimi",
-    "rights": "© 2026 Wanda Group. Tüm hakları saklıdır.",
+    "tagline": "Profesyonel Gaz Tüpü İmalatı",
+    "rights": "© 2026 Wanda Grup. Her hakkı saklıdır.",
     "privacy": "Gizlilik Politikası",
-    "terms": "Terms of Use"
+    "terms": "Kullanım Koşulları"
+  },
+  "privacy": {
+    "label": "Yasal",
+    "title": "Gizlilik Politikası",
+    "updated": "Son güncelleme: 25 Ağustos 2026",
+    "intro": [
+      "Wanda Group (“biz”, “bize”) bu web sitesini gaz tüpleri, aksesuarları ve ilgili ihracat tedariklerini sunmak ve endüstriyel alıcılardan ticari sorular almak için işletiyor.",
+      "Bu politika, site aracılığıyla hangi kişisel verileri topladığımızı, bunları neden kullandığımızı ve bu konuda bizimle nasıl iletişime geçebileceğinizi açıklamaktadır. Bu web sitesinde fabrika üretim videoları gösterilmektedir. Sertifika dosyaları istek üzerine özel olarak gönderilir."
+    ],
+    "sections": [
+      {
+        "title": "Kim sorumlu?",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Hangi verileri topluyoruz?",
+        "body": [
+          "Talep formunu gönderdiğinizde girdiğiniz verileri alırız: ad, e-posta, telefon, varış ülkesi, ürün türü, miktar ve mesaj.",
+          "Site ayrıca dil seçiminizi tarayıcıda (localStorage) saklar. Reklam çerezleri çalıştırmıyoruz veya ziyaretçi listeleri satmıyoruz."
+        ]
+      },
+      {
+        "title": "Verileri neden kullanıyoruz?",
+        "body": [
+          "Sorgu verilerini yalnızca talebinize yanıt vermek, fiyat teklifi hazırlamak, talep ettiğiniz ürün bilgilerini, videoları veya sertifikaları göndermek ve birlikte çalışmaya başlarsak siparişi koordine etmek için kullanırız.",
+          "Yasal dayanak: formdaki onay kutusunu işaretlediğinizde onayınız ve B2B satış taleplerini yanıtlama konusundaki meşru menfaatimiz."
+        ]
+      },
+      {
+        "title": "Verileri kim alır?",
+        "body": [
+          "Mesajınız satış ekibimize e-posta yoluyla iletilmektedir. Form, mesajı bize ileten teknik sağlayıcı Web3Forms tarafından işlenir.",
+          "Kişisel verileri satmıyoruz. İhtiyaç duyulan şeyleri, yalnızca mutabakata varılan bir emrin yerine getirilmesi için gerekli olması halinde lojistik, denetim veya bankacılık ortaklarıyla paylaşabiliriz."
+        ]
+      },
+      {
+        "title": "Ne kadar süre saklayacağız",
+        "body": [
+          "Sorgu verileri, kanunun izin verdiği ölçüde daha önce silmemizi talep etmediğiniz sürece, talebin karşılanması için gereken süre boyunca ve sonrasında satış takibi ve muhasebe için makul bir süre boyunca saklanır."
+        ]
+      },
+      {
+        "title": "Haklarınız",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Güvenlik ve çocuklar",
+        "body": [
+          "Aktarım halindeki ve posta kutumuzdaki mesajları korumak için makul teknik ve organizasyonel adımlar atıyoruz. Bu web sitesi çocuklar için değil, ticari alıcılar için tasarlanmıştır."
+        ]
+      }
+    ],
+    "contactLead": "Bu politikayla ilgili sorular:"
   },
   "ui": {
     "catalog": "Katalog",
     "catalogTitle": "Detaylı Ürün Özellikleri",
-    "catalogSubtitle": "Her kategori için eksiksiz teknik veriler, modeller ve parametreler. Spec tablosunu görmek için bir ürün seçin.",
-    "requestPrice": "Bu Model İçin Fiyat İsteyin",
+    "catalogSubtitle": "Her kategori için eksiksiz teknik veriler, modeller ve parametreler. Teknik özellikler tablosunu görüntülemek için bir ürün seçin.",
+    "requestPrice": "Bu Model İçin Fiyat İste",
     "services": "Hizmetler",
     "pricing": "Fiyatlandırma",
-    "getExactQuote": "Kesin Teklif Alın",
+    "getExactQuote": "Tam Fiyat Teklifi Alın",
     "certifications": "Sertifikalar",
-    "order": "Sipariş",
+    "order": "Emir",
     "reviews": "Yorumlar",
-    "contact": "İletişim",
+    "contact": "Temas etmek",
     "phone": "Telefon",
     "location": "Konum",
-    "quoteResponse": "Teklif yanıtı",
+    "quoteResponse": "Alıntı yanıtı",
     "support": "Destek",
-    "exportReady": "İhracata hazır",
-    "years": "Yıl",
+    "countriesServed": "İhracat desteği",
+    "exportReady": "Dışa aktarıma hazır",
+    "years": "Yıllar",
     "acetylene": "Asetilen",
     "isoCertified": "ISO Sertifikalı",
     "globalExport": "Küresel İhracat",
@@ -508,17 +582,25 @@
     "quality": "Kalite",
     "faq": "SSS",
     "blog": "Blog",
-    "countriesServed": "Hizmet verilen ülkeler",
     "searchLanguage": "Dil ara...",
-    "noLanguagesFound": "Dil bulunamadı"
+    "noLanguagesFound": "Dil bulunamadı",
+    "breadcrumb": "Ekmek kırıntısı",
+    "primaryNav": "Öncelik",
+    "menu": "Menü",
+    "playVideo": "Videoyu oynat",
+    "productGallery": "Ürün galerisi",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Özel Etiket",
+    "Uluslararası İhracat",
+    "Kalite Kontrol",
+    "Talep Üzerine Piyasa Standartları",
+    "Toplu Siparişler"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Sertifikasyon",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Gümrük ve düzenleyiciler için belgeler. Kopyalar istek üzerine özel olarak gönderilir.",
         "points": [
           "ISO 9809, NOKTA, TPED",
           "MSDS ve kalite sertifikası",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Fiyatlandırma ve Tedarik Koşulları",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Ticari şartlar soruşturma başına onaylanır. Resmi bir teklif için ürün, miktar ve varış yeri ayrıntılarını gönderin.",
+    "note": "Bu web sitesinde sabit liste fiyatları, MOQ veya teslim süreleri yayınlamıyoruz. Gereksinimlerinizi inceledikten sonra, tam ticari şartlar bir teklifle onaylanır.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Fiyatlandırma",
+        "value": "Talep üzerine",
+        "desc": "Soruşturma incelemesinden sonra resmi teklif"
       },
       {
-        "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "label": "Adedi",
+        "value": "Sipariş başına onaylandı",
+        "desc": "Modele ve hedefe bağlıdır"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Kurşun zamanı",
+        "value": "Sipariş başına onaylandı",
+        "desc": "Alıntı ile paylaşıldı"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Ödeme",
+        "value": "Sözleşmede anlaşıldı",
+        "desc": "Üretimden önce onaylanan şartlar"
       }
     ],
     "factors": {
-      "title": "Fiyat Faktörleri",
+      "title": "Teklifi ne etkiler?",
       "items": [
-        "Silindir hacmi ve modeli (2L – 50L)",
-        "Vana tipi (CGA, GOST, DIN, POL)",
-        "Sertifikasyon standardı (ISO, DOT, TPED)",
-        "OEM: renk, işaretleme, paketleme",
+        "Silindir hacmi ve modeli",
+        "Vana tipi ve bağlantı standardı",
+        "Hedef pazar için gerekli standartlar",
+        "OEM renk, işaretleme ve paketleme",
         "Sipariş hacmi ve Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Asetilen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Asetilen silindirleri",
+        "moq": "Talep üzerine",
+        "price": "Sorgu başına alıntı yapıldı",
+        "lead": "Sipariş başına onaylandı"
       },
       {
-        "product": "Asetilen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propan / LPG tüpleri",
+        "moq": "Talep üzerine",
+        "price": "Sorgu başına alıntı yapıldı",
+        "lead": "Sipariş başına onaylandı"
       },
       {
-        "product": "Propan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Jeneratörler",
+        "moq": "Talep üzerine",
+        "price": "Sorgu başına alıntı yapıldı",
+        "lead": "Sipariş başına onaylandı"
       },
       {
-        "product": "Propan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Jeneratör WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Regülatör seti",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Aksesuarlar",
+        "moq": "Talep üzerine",
+        "price": "Sorgu başına alıntı yapıldı",
+        "lead": "Sipariş başına onaylandı"
       }
     ],
     "tableHeaders": [
       "Ürün",
       "Adedi",
-      "Fiyat (EXW)",
+      "Fiyat",
       "Kurşun zamanı"
     ]
   },
   "certifications": {
     "title": "Sertifikalar ve Standartlar",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Ürün ve hedef pazara göre standartlar ve sertifikasyon seçenekleri tartışılmaktadır. Sertifika kopyaları talep üzerine özel olarak gönderilir; dosyalar bu web sitesinde yayınlanmaz.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,19 +1043,19 @@
       },
       {
         "title": "Teklif Al",
-        "desc": "24 saat içinde fiyat, MOQ, teslimat süresi ve teknik özellikler sayfası"
+        "desc": "Satış ekibimiz tarafından incelendikten sonra fiyat, MOQ, teslim süresi ve teknik özellikler sayfası"
       },
       {
         "title": "Siparişi Onayla",
-        "desc": "Sözleşme imzalanması ve %30 depozito ödemesi"
+        "desc": "Üretim başlamadan önce anlaşmaya varılan sözleşme ve ödeme koşulları"
       },
       {
         "title": "Üretim ve Kalite Kontrol",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Üretim ve test. Talep üzerine videolar ve sertifikalar özel olarak gönderilir"
       },
       {
         "title": "Sevkiyat",
-        "desc": "Paketleme, belgeler, FOB/CIF/DDP teslimatı"
+        "desc": "Siparişte mutabakata varılan paketleme, belgeler ve teslimat şartları"
       }
     ]
   },
@@ -993,21 +1063,21 @@
     "title": "Alıcılar ne diyor",
     "items": [
       {
-        "quote": "Bu yıl 40 litrelik asetilen tüplerini üçüncü kez yeniden sipariş ettik. GOST vanalar, OEM renk ve ihracat ambalajı her seferinde ilk numuneyle uyumlu geldi.",
-        "author": "Rustam Yusupov",
-        "role": "Kaynak gazları distribütörü sahibi",
+        "quote": "Bu yıl 40L'lik asetilen tüplerini üç kez yeniden sipariş ettik. GOST valfleri, OEM rengi ve ihracat ambalajı her seferinde ilk numuneyle eşleşiyordu.",
+        "author": "Rüstem Yusupov",
+        "role": "Sahip, kaynak gazı distribütörü",
         "country": "Özbekistan"
       },
       {
-        "quote": "Teklif aynı gün geldi — net MOQ ve terminle. POL vanalı propan tüpleri ve eksiksiz packing list ile geldi, gümrükte sorun olmadı.",
-        "author": "Aigerim Bekova",
-        "role": "Endüstriyel tedarik satın alma müdürü",
+        "quote": "Teklif aynı gün net bir MOQ ve teslim süresiyle geldi. Propan şişeleri POL valfleri ve tam paketleme listesiyle birlikte geldi; bizim açımızdan gümrükte gecikme yaşanmadı.",
+        "author": "Aygerim Bekova",
+        "role": "Tedarik müdürü, endüstriyel tedarik",
         "country": "Kazakistan"
       },
       {
-        "quote": "Tüpleri regülatör ve hortumlarla tek konteynerde alıyoruz. İşaretleme ve belgeler pazarımıza hazır — yeniden satış kolaydı.",
-        "author": "Faisal Al-Harbi",
-        "role": "Gaz ekipmanı ithalat alıcısı",
+        "quote": "Regülatörlü ve hortumlu silindirleri tek konteyner siparişi olarak satın alıyoruz. Pazarımız için belgeler ve işaretlemeler hazır olduğundan yeniden satış kolaydı.",
+        "author": "Faysal El-Harbi",
+        "role": "İthalat alıcısı, gaz ekipmanı ticareti",
         "country": "Suudi Arabistan"
       }
     ]
@@ -1062,58 +1132,59 @@
         "id": "kalite",
         "eyebrow": "Kalite ve güvenlik",
         "title": "Fiyat teklifine ekleyebileceğiniz muayene",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Malzeme kontrolleri, sızıntı testleri, valf torku ve paketleme fotoğrafları. Talep üzerine sertifika paketleri ve fotoğraflı raporlar özel olarak gönderilir.",
         "points": [
           "Basınç ve sızıntı testleri",
-          "Certificate package",
+          "Talep üzerine sertifikalar",
           "Sevkiyat öncesi fotoğraflar"
         ]
       },
       {
         "id": "ihracat",
         "eyebrow": "Küresel ihracat",
-        "title": "Limanlar için paketlenmiş, 50'den fazla ülkeye hazır",
+        "title": "Limanlar için paketlendi, ihracat pazarlarına hazır",
         "text": "Hedef Incoterms'e göre koordine edilen ihracat paletleri, valf koruması, çok dilli etiketler ve nakliye belgeleri.",
         "points": [
           "FOB/CIF desteği",
           "Paletli paketleme",
           "Teslim süresi 15–25 gün"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Sarılmış gaz tüpleri sevkiyat için fabrika sahasına yerleştirildi",
+    "about": "Wanda Group fabrika katındaki işçiler",
+    "accessories": "Gaz silindiri aksesuar kiti — regülatörler, hortumlar, fenerler ve bağlantı parçaları",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Gözenekli kütleli ve pirinç valfli çözünmüş asetilen silindiri",
+      "Asetilen jeneratörünün tesiste fotoğraflanması",
+      "Çeşitli boyutlarda ve renklerde propan ve LPG tüpleri",
+      "Gaz tüpleri için kaynak ve kesme aksesuar seti"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Gece sevkiyatı: sarılmış ekipman bir römorka yüklendi",
+      "Sevkiyat için hazırlanan paletler ve metal parçalar",
+      "Depoda istiflenmiş paketlenmiş stok kartonları",
+      "Fabrika bahçesinde sahnelenen, filme sarılı silindirler",
+      "Tesis çatısı altında gaz tüpü üretim konveyörü",
+      "Baş üstü bitirme konveyöründe asılı LPG silindirleri",
+      "Wanda Group fabrika sahasında yürüyen işçiler",
+      "İki katlı istiflenmiş boyasız kaynaklı propan silindir gövdeleri",
+      "Beton zeminde boyanmamış silindir kabukları sıraları",
+      "Atölyede silindir tüpü stoğu ve kapaklı kabuklar",
+      "Fabrika duvarına istiflenmiş ham silindir gövdeleri",
+      "Montajdan önce istiflenen çelik taban halkaları",
+      "Köpüklü bir kartonda paketlenmiş pirinç bağlantı parçaları",
+      "Hortum ve kutulu aksesuarlarla birlikte asetilen jeneratörü",
+      "Kaynak sonrası açık boyunlu boyasız silindir kabukları"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Copeland yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi",
+      "Bitzer yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi",
+      "Kapalı dolap tarzı soğutma yoğunlaştırma ünitesi",
+      "Yüksek kapasiteli dört fanlı hava soğutmalı yoğuşma ünitesi"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Yasal",
-    "title": "Gizlilik Politikası",
-    "updated": "Son güncelleme: 25 Ağustos 2026",
-    "intro": [
-      "Wanda Group (“biz”, “bize”) bu web sitesini gaz tüpleri, aksesuarları ve ilgili ihracat tedariklerini sunmak ve endüstriyel alıcılardan ticari sorular almak için işletiyor.",
-      "Bu politika, site aracılığıyla hangi kişisel verileri topladığımızı, bunları neden kullandığımızı ve bu konuda bizimle nasıl iletişime geçebileceğinizi açıklamaktadır. Web sitemizde fabrika videoları veya sertifika dosyaları yayınlamıyoruz; bu materyaller talep üzerine özel olarak gönderilir."
-    ],
-    "sections": [
-      {
-        "title": "Kim sorumlu?",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Hangi verileri topluyoruz?",
-        "body": [
-          "Talep formunu gönderdiğinizde girdiğiniz verileri alırız: ad, e-posta, telefon, varış ülkesi, ürün türü, miktar ve mesaj.",
-          "Site ayrıca dil seçiminizi tarayıcıda (localStorage) saklar. Reklam çerezleri çalıştırmıyoruz veya ziyaretçi listeleri satmıyoruz."
-        ]
-      },
-      {
-        "title": "Verileri neden kullanıyoruz?",
-        "body": [
-          "Sorgu verilerini yalnızca talebinize yanıt vermek, fiyat teklifi hazırlamak, talep ettiğiniz ürün bilgilerini, videoları veya sertifikaları göndermek ve birlikte çalışmaya başlarsak siparişi koordine etmek için kullanırız.",
-          "Yasal dayanak: formdaki onay kutusunu işaretlediğinizde onayınız ve B2B satış taleplerini yanıtlama konusundaki meşru menfaatimiz."
-        ]
-      },
-      {
-        "title": "Verileri kim alır?",
-        "body": [
-          "Mesajınız satış ekibimize e-posta yoluyla iletilmektedir. Yapılandırmaya bağlı olarak form, mesajı bize ileten teknik sağlayıcı olarak Web3Forms tarafından işlenebilir.",
-          "Kişisel verileri satmıyoruz. İhtiyaç duyulan şeyleri, yalnızca mutabakata varılan bir emrin yerine getirilmesi için gerekli olması halinde lojistik, denetim veya bankacılık ortaklarıyla paylaşabiliriz."
-        ]
-      },
-      {
-        "title": "Ne kadar süre saklayacağız",
-        "body": [
-          "Sorgu verileri, kanunun izin verdiği ölçüde daha önce silmemizi talep etmediğiniz sürece, talebin karşılanması için gereken süre boyunca ve sonrasında satış takibi ve muhasebe için makul bir süre boyunca saklanır."
-        ]
-      },
-      {
-        "title": "Haklarınız",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Güvenlik ve çocuklar",
-        "body": [
-          "Aktarım halindeki ve posta kutumuzdaki mesajları korumak için makul teknik ve organizasyonel adımlar atıyoruz. Bu web sitesi çocuklar için değil, ticari alıcılar için tasarlanmıştır."
-        ]
-      }
-    ],
-    "contactLead": "Bu politikayla ilgili sorular:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Yasal",
+    "title": "Kullanım Koşulları",
+    "updated": "Son güncelleme: 27 Ağustos 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Bu şartlar, endüstriyel gaz silindirleri, jeneratörler ve aksesuarları alıcıları için Wanda Group tarafından işletilen wandagroups.com'un kullanımını düzenler.",
+      "Siteye göz atarak veya bir soru göndererek bu şartları ve Gizlilik Politikamızı kabul etmiş olursunuz. Kabul etmiyorsanız siteyi kullanmayınız."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Biz kimiz",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Web sitesi ne işe yarar?",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Site ürün bilgilerini sunar ve ticari sorular alır. Bireysel olarak alışveriş yapan tüketiciler ve çocuklar için değil, ticari alıcılar için tasarlanmıştır."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Teklifler, fiyatlar ve siparişler",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Sitedeki fiyatlar, MOQ, teslim süreleri ve teknik özellikler gösterge niteliğindedir. Form veya messenger aracılığıyla gönderilen mesaj bir emir değil, bir soruşturmadır.",
+          "Bir sözleşme, yalnızca her iki tarafın da teklifi yazılı olarak (e-posta veya imzalı belgeler) onaylaması ve üzerinde anlaşmaya varılan depozitonun alınması durumunda (bu onayda aksini belirtmediğimiz sürece) geçerli olur."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotoğraflar, videolar ve sertifikalar",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Sitedeki fabrika fotoğrafları ve videoları üretimi göstermektedir. Ekstra görüntüler ve sertifika dosyaları talep üzerine özel olarak gönderilir ve paylaşabileceğinizi söylemediğimiz sürece gizli materyallerimiz olarak kalır."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Fikri mülkiyet",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Bu web sitesindeki metinler, fotoğraflar, videolar, logolar ve düzen Wanda Group'a veya lisans verenlerimize aittir. Yazılı iznimiz olmadan kataloğu kendi ticari siteniz için kopyalayamazsınız."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Kabul edilebilir kullanım",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Sorgu formunu kötüye kullanmayın (spam, sahte kimlik veya siteyi bozma girişimleri). Kötüye kullanım amaçlı istekleri göz ardı edebilir veya silebiliriz."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Yükümlülük",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Bilgilerin doğru tutulmasına özen gösteriyoruz ancak site hatalar içerebilir veya geçici olarak kullanılamayabilir. Yasaların izin verdiği ölçüde, Wanda Group yalnızca web sitesinin kullanımından kaynaklanan dolaylı zararlardan sorumlu değildir.",
+          "Fiili bir tedarik sözleşmesine ilişkin sorumluluk, yalnızca bu web sitesi koşullarında değil, söz konusu sözleşmede ve ilgili yasada belirlenir."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Değişiklikler",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Bu şartları güncelleyebiliriz. Üstteki tarih geçerli sürümü gösterir. Değişiklik sonrasında siteyi kullanmaya devam etmeniz, güncellenen şartları kabul ettiğiniz anlamına gelir."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Bu terimlerle ilgili sorular:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Ürün yelpazemiz",
+    "title": "Soğutma üniteleri",
+    "subtitle": "Ayrı bir Wanda Group serisi; üçüncü taraf kataloğu değil. Yoğuşma üniteleri, soğuk odalar ve donanımlar tarafımızca silindirlerle birlikte veya tek başına sipariş olarak tedarik edilir.",
+    "moreLink": "Soğuk hava deposu ekipmanları →",
+    "cta": "Fiyat teklifi isteyin",
+    "alsoTitle": "Ayrıca istek üzerine mevcuttur",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Poliüretan soğuk oda panelleri (B1/B2) ve 304 paslanmaz paneller",
+      "Soğuk oda hava soğutucuları — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Alüminyum evaporatör bobinleri",
+      "Soğuk oda kapıları",
+      "Endüstriyel su soğutucuları",
+      "Araç soğutma üniteleri ve mobil soğuk odalar"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade, gaz tüpü hattının yanı sıra soğutma ekipmanları da tedarik ediyor: üniteler, paneller, soğutucular ve ilgili soğuk zincir donanımı. Copeland, Bitzer ve benzeri isimler, bu şirketlerin yeniden markasını değil, ünite içindeki kompresör markasını ifade etmektedir.",
+    "videoTitle": "Şirket videosu",
+    "videoSubtitle": "Soğutma ekipmanı hattına genel bakış. Daha fazla görüntü istek üzerine özel olarak gönderilir.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland yarı hermetik hava soğutmalı ünite",
+        "spec": "Yoğunlaştırma ünitesi · Copeland kompresörü",
+        "desc": "Soğuk odalar ve orta sıcaklıktaki işler için Copeland yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer yarı hermetik hava soğutmalı ünite",
+        "spec": "Yoğunlaştırma ünitesi · Bitzer kompresörü",
+        "desc": "Yüksek hizmet ve orta-düşük sıcaklıktaki odalar için Bitzer yarı hermetik kompresörlü hava soğutmalı yoğuşma ünitesi."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Kapalı kutu tipi ünite",
+        "spec": "Kabin yoğunlaştırma ünitesi",
+        "desc": "Açık kızak yerine muhafazalı bir makineye ihtiyaç duyan sahalar için kapalı kabin tarzı yoğunlaştırma ünitesi."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U tipi / yüksek kapasiteli yoğunlaştırma ünitesi",
+        "spec": "Çok fanlı hava soğutmalı",
+        "desc": "Daha büyük soğuk hava depoları ve proses soğutması için çok fanlı kondenserli daha büyük hava soğutmalı kondenser ünitesi."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Biz Kimiz",
+    "title": "B2B alıcılar için endüstriyel üretici",
+    "text": "Wanda Groups, denizaşırı distribütörler, OEM ortakları ve proje alıcıları için endüstriyel gaz tüpleri, jeneratörler ve kaynak aksesuarları üretmekte ve tedarik etmektedir.",
+    "text2": "Odak noktamız perakende tüketici satışları değil, fabrika bağlantılı tedarik, ürün seçimi desteği, toplu siparişler ve ihracat koordinasyonudur.",
+    "cta": "Hakkımızda Daha Fazla Bilgi Edinin"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Fiyat teklifi istemeye hazır mısınız?",
+      "quoteCta": "Fiyat Teklifi İste",
+      "relatedProducts": "İlgili ürünler",
+      "applications": "Uygulamalar",
+      "standardsTitle": "Standartlar ve sertifikasyon",
+      "oemTitle": "OEM / özelleştirme",
+      "packagingTitle": "Paketleme ve teslimat",
+      "placeholders": {
+        "standards": "Mevcut standartlar ve sertifikalar, siparişe ve hedef pazara göre onaylanır. Sertifika kopyaları talep üzerine özel olarak gönderilir; dosyalar web sitesinde yayınlanmaz.",
+        "oem": "Siparişe ve hedef pazara göre OEM renk, markalama, valf, kapak ve salmastra seçenekleri tartışılabilir.",
+        "packaging": "İhracat ambalajı ve dokümantasyonu sipariş ve sevkiyat şartlarına göre hazırlanır."
+      }
+    },
+    "home": {
+      "seoTitle": "Gaz Tüpü Üreticisi | Endüstriyel OEM ve İhracat | Wanda Grupları",
+      "seoDescription": "Wanda Groups, OEM, toptan ve uluslararası ihracat alıcıları için endüstriyel gaz tüpleri, jeneratörler ve kaynak aksesuarları üretmektedir."
+    },
+    "about": {
+      "label": "Hakkımızda",
+      "title": "Endüstriyel alıcılar için gaz tüpü üreticisi",
+      "subtitle": "Yurtdışındaki alıcıları ürün seçimi, OEM, muayene, paketleme ve nakliye konularında destekliyoruz.",
+      "seoTitle": "Wanda Grubu Hakkında",
+      "seoDescription": "Wanda Group kaynak, kesme ve endüstriyel gaz tedariğine yönelik asetilen tüpleri, propan tüpleri, jeneratörler ve aksesuarlar üretmektedir."
+    },
+    "products": {
+      "label": "Ürünler",
+      "title": "Ürünlerimiz",
+      "subtitle": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+      "seoTitle": "Gaz Tüpü Ürünleri",
+      "seoDescription": "Endüstriyel ve kaynak uygulamalarına yönelik asetilen silindirleri, jeneratörler, propan silindirleri ve aksesuarları.",
+      "refrigerationNote": "Wanda International Trade, gaz tüpü hattının yanı sıra soğutma ekipmanları da tedarik ediyor: üniteler, paneller, soğutucular ve ilgili soğuk zincir donanımı. Copeland, Bitzer ve benzeri isimler, bu şirketlerin yeniden markasını değil, ünite içindeki kompresör markasını ifade etmektedir.",
+      "catalog": {
+        "acetylene": {
+          "name": "Çözünmüş Asetilen Tüpleri",
+          "overview": "Asetilenin güvenli depolanması ve taşınması için gözenekli kütleye ve solvente sahip çelik silindirler. Kaynak, kesme, lehimleme ve metal imalatında kullanılır.",
+          "seoTitle": "Asetilen Gaz Tüpleri",
+          "seoDescription": "Asetilenin güvenli depolanması ve taşınması için gözenekli kütleye ve solvente sahip çelik silindirler. Kaynak, kesme, lehimleme ve metal imalatında kullanılır."
+        },
+        "propane": {
+          "name": "Propan Silindirleri",
+          "overview": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+          "seoTitle": "Propan Gaz Tüpleri",
+          "seoDescription": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır."
+        },
+        "lpg": {
+          "name": "LPG Tüpleri",
+          "overview": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır.",
+          "seoTitle": "LPG Gaz Tüpleri",
+          "seoDescription": "Propan, bütan ve LPG karışımları için silindirler. Isıtma, kesme, lehimleme, inşaat ve endüstriyel gaz temininde kullanılır."
+        },
+        "industrial": {
+          "name": "Endüstriyel Gaz Tüpleri",
+          "overview": "Pazarınıza uygun asetilen, propan ve LPG seçenekleri dahil, kaynak, kesme ve tesis tedariğine yönelik endüstriyel gaz tüpleri.",
+          "seoTitle": "Endüstriyel Gaz Tüpleri",
+          "seoDescription": "Wanda Group'tan kaynak, kesme ve tesis tedariğine yönelik endüstriyel gaz silindirleri."
+        },
+        "generators": {
+          "name": "Asetilen Jeneratörleri",
+          "overview": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği.",
+          "seoTitle": "Asetilen Jeneratörleri",
+          "seoDescription": "Kalsiyum karbürden asetilen üretimi için donatım. Merkezi gaz altyapısı olmadan kaynak ve endüstriyel ihtiyaçlar için istikrarlı gaz tedariği."
+        },
+        "accessories": {
+          "name": "Silindir Aksesuarları ve Bağlantı Parçaları",
+          "overview": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik.",
+          "seoTitle": "Kaynak Aksesuarları",
+          "seoDescription": "Güvenli gaz silindiri işletimi için eksiksiz ürün yelpazesi: göstergelerden kaynak torçlarına kadar. Silindirlerle tek elden tedarik."
+        },
+        "refrigeration": {
+          "name": "Soğutma üniteleri",
+          "overview": "Ayrı bir Wanda Group serisi; üçüncü taraf kataloğu değil. Yoğuşma üniteleri, soğuk odalar ve donanımlar tarafımızca silindirlerle birlikte veya tek başına sipariş olarak tedarik edilir.",
+          "seoTitle": "Soğutma Üniteleri",
+          "seoDescription": "Ayrı bir Wanda Group serisi; üçüncü taraf kataloğu değil. Yoğuşma üniteleri, soğuk odalar ve donanımlar tarafımızca silindirlerle birlikte veya tek başına sipariş olarak tedarik edilir."
+        }
+      }
+    },
+    "factory": {
+      "label": "Fabrika",
+      "title": "Fabrika ve İmalat",
+      "subtitle": "Üretim, inceleme, paketleme ve sevkiyat; gerçek tesis fotoğrafları ve fabrika videoları ile belgelenmiştir.",
+      "seoTitle": "Fabrika ve Üretim | Wanda Grupları",
+      "seoDescription": "Üretim alanından gerçek tesis fotoğrafları, canlı sevk çekimleri ve kısa videolar.",
+      "sections": [
+        {
+          "title": "Üretme",
+          "text": "Tesis üretim akışının bir parçası olarak silindir şekillendirme, kaynaklama ve bitirme."
+        },
+        {
+          "title": "Üretim Süreci",
+          "text": "Kabuk hazırlığından montaj ve son işlemlere kadar; süreç içi stok ve üretim alanı görüntülerine bakın."
+        },
+        {
+          "title": "Kalite Kontrolü",
+          "text": "Silindirleri sevkiyata hazırlayan görsel, işaretleme ve boyut kontrolleri."
+        },
+        {
+          "title": "Test",
+          "text": "Sipariş gereksinimlerine göre ürünler hattan çıkmadan önce uygulanan basınç ve sızıntı testleri."
+        },
+        {
+          "title": "Ambalajlama",
+          "text": "İhracat ambalajı, denizaşırı taşımalarda silindirleri ve bağlantı parçalarını korur."
+        },
+        {
+          "title": "Yükleme ve Dışa Aktarma",
+          "text": "Giden siparişler için depo hazırlama, kamyon yükleme ve sevkiyat belgeleri."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Sertifikalar",
+      "title": "Sertifikalar ve Standartlar",
+      "subtitle": "Alıcılar tarafından yaygın olarak talep edilen standartlar aşağıda listelenmiştir. Uygulanabilirlik ürüne ve hedef pazara bağlıdır. Sertifika kopyaları, numaraları ve geçerliliği talep üzerine özel olarak paylaşılır; doğrulanmamış iddialar olarak yayınlanmaz.",
+      "seoTitle": "Sertifikalar ve Standartlar | Wanda Grupları",
+      "seoDescription": "Wanda Group'un gaz tüpleri için pazara göre tartışılan standartlar. Sertifika kopyaları talep üzerine özel olarak sağlanır.",
+      "note": "Sertifika kopyaları talep üzerine özel olarak gönderilir. Sertifika dosyalarını web sitesinde yayınlamıyoruz."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM ve Toptan Satış",
+      "subtitle": "Distribütörler ve endüstriyel alıcılar için özel etiket ve toplu tedarik seçenekleri.",
+      "seoTitle": "OEM Gaz Tüpü Temini",
+      "seoDescription": "Yurtdışı marka ve distribütörlere OEM ve özel markalı gaz tüpü üretimi.",
+      "quoteTitle": "OEM gereksinimlerini tartışın",
+      "quoteCta": "OEM Teklifi İste",
+      "capabilities": [
+        {
+          "title": "Özel Logo",
+          "text": "Nitelikli OEM siparişleri için logo ve işaretleme seçenekleri tartışıldı."
+        },
+        {
+          "title": "Özel Renk",
+          "text": "Pazar veya marka gereksinimlerine göre silindir rengi."
+        },
+        {
+          "title": "Özel Paketleme",
+          "text": "Siparişe göre kartonları, paletleri ve ambalaj işaretlerini dışa aktarın."
+        },
+        {
+          "title": "Özel Etiket",
+          "text": "Distribütör kanallarına yönelik etiketleme ve marka sunumu."
+        },
+        {
+          "title": "Toplu Siparişler",
+          "text": "Proje ve distribütör alımı için toptan miktarlar."
+        },
+        {
+          "title": "OEM İmalatı",
+          "text": "Spesifikasyonlarınıza ve pazarınıza uygun ürün konfigürasyonu."
+        },
+        {
+          "title": "İhracat Desteği",
+          "text": "Yurtdışı teslimat için evraklar ve sevkiyat koordinasyonu."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Piyasalar",
+      "title": "Küresel Piyasalar",
+      "subtitle": "Uluslararası B2B alıcılarını destekliyoruz. Aşağıdaki bölgelerde ortak araştırma alanları açıklanmaktadır; belirli ülkeler ve projeler duruma göre onaylanmaktadır.",
+      "seoTitle": "Küresel Piyasalar | Wanda Grupları İhracatı",
+      "seoDescription": "Wanda Groups, Afrika, Orta Doğu, Orta Asya, Güneydoğu Asya, Latin Amerika ve diğer pazarlardaki uluslararası endüstriyel alıcılarla çalışmaktadır.",
+      "note": "Doğrulanmamış ülke sayılarını, müşteri adlarını veya proje referanslarını bu sayfada yayınlamıyoruz.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Afrika pazarlarından sanayi ve distribütör talepleri."
+        },
+        {
+          "title": "Orta Doğu",
+          "text": "Alıcılar bölgesel projeler için silindir ve ilgili ekipmanları tedarik ediyor."
+        },
+        {
+          "title": "Orta Asya",
+          "text": "Orta Asya pazarlarında toptan satış ve proje tedariki tartışmaları."
+        },
+        {
+          "title": "Güneydoğu Asya",
+          "text": "İhracat silindir tedarikini değerlendiren endüstriyel alıcılar."
+        },
+        {
+          "title": "Latin Amerika",
+          "text": "Endüstriyel gaz tüpü ve aksesuar temini için sorularınız."
+        },
+        {
+          "title": "Diğer Uluslararası Pazarlar",
+          "text": "Ek varış noktaları ürün standardına ve lojistiğe göre gözden geçirilir."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Uygulamalar",
+      "title": "Silindir Uygulamaları",
+      "subtitle": "Yaygın endüstriyel gaz görevleri ve yurtdışı alıcı gereksinimleri için tasarlanmış ürünler.",
+      "seoTitle": "Silindir Uygulamaları",
+      "seoDescription": "Yaygın endüstriyel gaz görevleri ve yurtdışı alıcı gereksinimleri için tasarlanmış ürünler.",
+      "items": [
+        {
+          "title": "Kaynak ve Lehimleme",
+          "text": "Atölye ve imalat kaynağı için çözünmüş asetilen ve ilgili ekipmanlar."
+        },
+        {
+          "title": "Metal Kesim",
+          "text": "Sahada ve tesiste oksi-yakıt kesimi için silindirler ve aksesuarlar."
+        },
+        {
+          "title": "Endüstriyel Gaz Temini",
+          "text": "Endüstriyel dağıtım ve tesis gaz sistemleri için tüp tedariği."
+        },
+        {
+          "title": "Yapı",
+          "text": "İnşaat ve bakım çalışmaları için taşınabilir gaz kaynağı."
+        },
+        {
+          "title": "Metal İmalatı",
+          "text": "Fabrikasyon atölyeleri ve tersaneler için silindirler ve aksesuarlar."
+        },
+        {
+          "title": "Gaz Depolama ve Dağıtımı",
+          "text": "Endüstriyel alıcılar için depolamaya ve dağıtıma hazır silindirler."
+        }
+      ]
+    },
+    "faq": {
+      "label": "SSS",
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Şirket, ürünler, OEM ve ihracat - siz fiyat teklifi istemeden önce yurt dışındaki alıcılar için yanıtlar.",
+      "seoTitle": "SSS",
+      "seoDescription": "Şirket, ürünler, OEM ve ihracat - siz fiyat teklifi istemeden önce yurt dışındaki alıcılar için yanıtlar."
+    },
+    "contactPage": {
+      "label": "Temas etmek",
+      "title": "İhtiyaçlarınızı Tartışalım",
+      "subtitle": "Satış ekibimize form, e-posta veya messenger yoluyla ulaşın. Daha hızlı teklif almak için ürünü, miktarı ve varış yerini paylaşın.",
+      "seoTitle": "Fiyat Teklifi İste",
+      "seoDescription": "Bize boyutunu, miktarını, varış ülkesini ve uygulamayı söyleyin; ayrıntılı bir teklif hazırlayacağız."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Son Makaleler",
+      "subtitle": "Kaynak ve gaz tedarik profesyonelleri için uzman içeriği.",
+      "seoTitle": "Makaleler ve Kılavuzlar",
+      "seoDescription": "Kaynak ve gaz tedarik profesyonelleri için uzman içeriği.",
+      "coming": "Buraya daha fazla alıcı kılavuzu ve ürün notu eklenecektir. Ürüne özel malzemeler için yukarıdaki makaleleri kullanın veya bizimle iletişime geçin."
+    },
+    "privacy": {
+      "seoTitle": "Gizlilik Politikası",
+      "seoDescription": "Wanda Group web sitesi sorguları ve kişisel veriler için gizlilik politikası."
+    },
+    "terms": {
+      "seoTitle": "Kullanım Koşulları",
+      "seoDescription": "Wanda Group web sitesinin kullanım koşulları."
+    },
+    "notFound": {
+      "seoTitle": "Sayfa bulunamadı",
+      "seoDescription": "İstediğiniz sayfa mevcut değil.",
+      "title": "Sayfa bulunamadı",
+      "text": "Aradığınız sayfa mevcut değil veya taşınmış.",
+      "home": "Ev",
+      "products": "Ürünler",
+      "contact": "İletişim / Teklif Al"
+    }
   }
 }

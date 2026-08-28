@@ -1,56 +1,56 @@
 {
   "nav": {
-    "products": "مصنوعات",
-    "specs": "تفصیلات",
-    "applications": "اطلاقات",
-    "about": "ہمارے بارے میں",
-    "gallery": "گیلری",
-    "quality": "معیار",
-    "faq": "عمومی سوالات",
-    "contact": "رابطہ",
-    "getQuote": "قیمت حاصل کریں",
-    "inquire": "استفسار →",
-    "services": "خدمات",
-    "pricing": "قیمتیں",
-    "accessories": "لوازمات",
     "home": "گھر",
+    "products": "مصنوعات",
+    "specs": "وضاحتیں",
+    "applications": "ایپلی کیشنز",
+    "about": "کے بارے میں",
+    "gallery": "گیلری",
     "factory": "کارخانہ",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "quality": "معیار",
+    "faq": "اکثر پوچھے گئے سوالات",
+    "contact": "رابطہ کریں۔",
+    "getQuote": "ایک اقتباس حاصل کریں۔",
+    "inquire": "پوچھ گچھ کریں →",
+    "services": "خدمات",
+    "pricing": "قیمتوں کا تعین",
+    "accessories": "لوازمات",
+    "refrigeration": "کولڈ اسٹوریج",
+    "cooling": "کولنگ",
+    "certifications": "سرٹیفیکیشنز",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "منڈیاں"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "صنعتی گیس سلنڈر بنانے والا",
+    "title": "صنعتی گیس سلنڈر اور آلات بنانے والا",
+    "subtitle": "بین الاقوامی برآمدی خریداروں کے لیے ایسٹیلین سلنڈر، پروپین/ایل پی جی سلنڈر، جنریٹرز اور ویلڈنگ کے لوازمات کی تیاری، OEM اور ہول سیل سپلائی۔",
+    "lineGas": "گیس سلنڈر",
+    "lineCold": "ریفریجریشن یونٹس",
+    "cta": "ایک اقتباس حاصل کریں۔",
+    "ctaSecondary": "مصنوعات دیکھیں",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "مینوفیکچرر پر مرکوز سپلائی"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "نجی لیبل اور حسب ضرورت"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "بین الاقوامی شپنگ سپورٹ"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "معائنہ اور جانچ کا عمل"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "درخواست پر مارکیٹ کے مخصوص اختیارات"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "قابل اعتماد گیس سلنڈر لوازمات",
@@ -59,219 +59,231 @@
   },
   "products": {
     "title": "ہماری مصنوعات",
-    "subtitle": "صنعتی اور ویلڈنگ اطلاقات کے لیے ایسٹیلین سلنڈر، جنریٹرز، پروپین سلنڈر اور لوازمات۔",
+    "subtitle": "صنعتی اور ویلڈنگ ایپلی کیشنز کے لیے ایسٹیلین سلنڈر، جنریٹر، پروپین سلنڈر اور لوازمات۔",
+    "viewDetails": "تفصیلات دیکھیں",
     "items": [
       {
         "title": "ایسٹیلین سلنڈر",
-        "desc": "ویلڈنگ، کٹنگ اور صنعتی گیسوں کے لیے ڈیزولوڈ ایسٹیلین سلنڈر۔ مختلف سائز اور والو کے اختیارات۔",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO/DOT/TPED"
+        "spec": "2L–40L · معیارات کی تصدیق فی مارکیٹ",
+        "desc": "ویلڈنگ، کاٹنے اور صنعتی گیس کی فراہمی کے لیے تحلیل شدہ ایسٹیلین سلنڈر۔",
+        "icon": "🔥"
       },
       {
-        "title": "ایسٹیلین جنریٹر",
-        "desc": "مستحکم گیس پیداوار، آسان آپریشن اور صنعتی اطلاقات کے لیے آلات۔",
-        "icon": "⚙️",
-        "spec": "صنعتی نسل کے نظام"
+        "title": "ایسیٹیلین جنریٹر",
+        "spec": "صنعتی نسل کے نظام",
+        "desc": "سائٹ پر اور پلانٹ میں ایسٹیلین کی مستحکم پیداوار کے لیے آلات۔",
+        "icon": "⚙️"
       },
       {
         "title": "پروپین سلنڈر",
-        "desc": "پروپین اور LPG کے لیے پائیدار سلنڈر — ذخیرہ، حرارت، کٹنگ اور صنعتی استعمال۔",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · والو کے اختیارات فی مارکیٹ",
+        "desc": "حرارتی، کاٹنے اور صنعتی استعمال کے لیے پائیدار ایل پی جی سلنڈر۔",
+        "icon": "🛢️"
       },
       {
         "title": "سلنڈر لوازمات",
-        "desc": "ہوزز، گیجز، کٹنگ ٹارچز، ویلڈنگ برنرز، سیفٹی والوز اور مزید۔",
-        "icon": "🔧",
-        "spec": "والوز · ریگولیٹرز · ہوزز · ٹارچز"
+        "spec": "والوز · ریگولیٹرز · ہوزز · ٹارچز",
+        "desc": "سلنڈر کے ساتھ یا الگ آرڈر کے طور پر فراہم کردہ میچنگ فٹنگز۔",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "تفصیلات دیکھیں"
+    ]
   },
   "specs": {
-    "title": "تکنیکی تفصیلات",
-    "subtitle": "استفسار بھیجنے سے پہلے سلنڈر کے اختیارات، تخصیص کی صلاحیتیں اور شپنگ کی تفصیلات دیکھیں۔",
+    "title": "تکنیکی وضاحتیں",
+    "subtitle": "انکوائری بھیجنے سے پہلے سلنڈر کے اختیارات، حسب ضرورت صلاحیتوں اور شپنگ کی تفصیلات دریافت کریں۔",
     "items": [
       {
         "title": "سلنڈر کی گنجائش",
-        "desc": "اطلاق اور مارکیٹ کی ضروریات کے مطابق مختلف گنجائش اور حجم کے اختیارات۔"
+        "desc": "درخواست اور مارکیٹ کی ضروریات پر منحصر مختلف صلاحیت اور حجم کے اختیارات۔"
       },
       {
         "title": "والوز اور کیپس",
-        "desc": "گاہک اور پروجیکٹ کی ضروریات کے مطابق فراہم کردہ والوز، کیپس اور فٹنگز۔"
+        "desc": "والوز، ٹوپیاں اور متعلقہ اشیاء کسٹمر اور پروجیکٹ کی ضروریات کے مطابق فراہم کی جاتی ہیں۔"
       },
       {
         "title": "سالوینٹ کے اختیارات",
-        "desc": "مستحکم ایسٹیلین ذخیرہ کے لیے پورس فلر سسٹم اور سالوینٹس۔"
+        "desc": "غیر محفوظ فلر سسٹم اور مستحکم ایسٹیلین اسٹوریج کے لیے سالوینٹس۔"
       },
       {
-        "title": "پیکجنگ اور شپنگ",
-        "desc": "ڈسٹری بیوٹرز اور پروجیکٹ گاہکوں کے لیے ایکسپورٹ پیکجنگ اور شپنگ سپورٹ۔"
+        "title": "پیکیجنگ اور شپنگ",
+        "desc": "ڈسٹری بیوٹرز اور پروجیکٹ صارفین کے لیے پیکیجنگ اور شپنگ سپورٹ برآمد کریں۔"
       }
     ]
   },
   "applications": {
-    "title": "سلنڈر کی اطلاقات",
-    "subtitle": "عام صنعتی گیس کاموں اور بیرونِ ملک خریداروں کی ضروریات کے لیے تیار کردہ مصنوعات۔",
+    "title": "سلنڈر ایپلی کیشنز",
+    "subtitle": "عام صنعتی گیس کے کاموں اور بیرون ملک خریدار کی ضروریات کے لیے تیار کردہ مصنوعات۔",
     "items": [
       "ویلڈنگ اور بریزنگ",
-      "میٹل کٹنگ",
-      "صنعتی گیس سپلائی",
-      "تعمیرات",
+      "دھاتی کٹنگ",
+      "صنعتی گیس کی فراہمی",
+      "تعمیر",
       "میٹل فیبریکیشن",
       "گیس ذخیرہ اور تقسیم"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "وانڈا گروپس کا انتخاب کیوں کریں۔",
+    "subtitle": "مینوفیکچرنگ پارٹنر کا جائزہ لینے والے صنعتی خریداروں کے لیے ٹھوس صلاحیتیں۔",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "مینوفیکچرر پر مرکوز سپلائی",
+        "desc": "مصنوعات کی فراہمی پیداوار کے ارد گرد مبنی ہے، نہ صرف تجارتی کیٹلاگ۔"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM کی حمایت",
+        "desc": "حسب ضرورت رنگ، مارکنگ، والو اور پیکنگ فی آرڈر پر بحث کی گئی۔"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "کوالٹی کنٹرول",
+        "desc": "شپمنٹ سے پہلے پیکنگ کے ذریعے مواد سے معائنہ۔"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "بین الاقوامی برآمد",
+        "desc": "بیرون ملک مقیم خریداروں کے لیے پیکنگ اور شپنگ کوآرڈینیشن برآمد کریں۔"
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "مصنوعات کی حسب ضرورت",
+        "desc": "مارکیٹ اور درخواست کی ضروریات کے مطابق تصریحات۔"
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "قبول سیلز سپورٹ",
+        "desc": "فارم، ای میل اور میسنجر کے ذریعے اقتباسات اور تکنیکی جوابات۔"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "بلک آرڈر کی صلاحیت",
+        "desc": "تقسیم کاروں اور پراجیکٹ کے خریداروں کے لیے تھوک مقدار میں معاونت۔"
       }
     ]
   },
   "about": {
-    "title": "پیشہ ورانہ گیس سلنڈر مینوفیکچرر",
-    "text": "Wanda Group Gas Cylinder Manufacturer صنعتی گیس سلنڈر اور متعلقہ لوازمات کی پیداوار اور سپلائی میں مہارت رکھتا ہے۔ ہماری مصنوعات ویلڈنگ، کٹنگ، گیس تقسیم، صنعتی ذخیرہ اور دیگر گیس سپلائی کے شعبوں میں وسیع پیمانے پر استعمال ہوتی ہیں۔",
-    "text2": "ہم بیرونِ ملک خریداروں کو مصنوعات کے انتخاب، تخصیص، کوالٹی معائنہ، پیکجنگ اور شپنگ کوآرڈینیشن میں مدد فراہم کرتے ہیں۔",
+    "title": "صنعتی خریداروں کے لیے گیس سلنڈر بنانے والا",
+    "text": "وانڈا گروپ ویلڈنگ، کٹنگ اور صنعتی گیس کی فراہمی کے لیے ایسٹیلین سلنڈر، پروپین سلنڈر، جنریٹر اور لوازمات تیار کرتا ہے۔",
+    "text2": "ہم مصنوعات کے انتخاب، OEM، معائنہ، پیکنگ اور شپنگ کے ساتھ بیرون ملک خریداروں کی حمایت کرتے ہیں۔",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "مینوفیکچرنگ",
+        "desc": "صنعتی گیس سلنڈروں کی تشکیل، ویلڈنگ، ٹیسٹنگ اور فنشنگ۔"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM سپورٹ",
+        "desc": "آرڈر کے لحاظ سے رنگ، مارکنگ، والو، ٹوپی اور پیکنگ کے اختیارات۔"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "معیار کے عمل",
+        "desc": "آرڈر اور مارکیٹ کی ضروریات کے مطابق معائنہ اور جانچ۔"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "بین الاقوامی برآمد",
+        "desc": "بیرون ملک صنعتی خریداروں کے لیے دستاویزات اور پیکنگ سپورٹ۔"
       }
     ]
   },
   "gallery": {
     "title": "ہماری فیکٹری کے اندر",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "پلانٹ کی اصلی تصاویر، لائیو ڈسپیچ شاٹس، اور پروڈکشن فلور سے مختصر ویڈیوز۔",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "نائٹ ڈسپیچ",
+        "desc": "لپیٹے ہوئے سامان کے ساتھ ایک بھرا ہوا ٹریلر نکل رہا ہے — وقت اور جگہ جس پر شاٹ کی مہر لگی ہوئی ہے۔"
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "کارگو شپمنٹ کے لیے پیش کیا گیا۔",
+        "desc": "پیلیٹ اور پرزے بھیجنے کے لیے جمع کیے گئے۔ ایک زندہ گودام کی تصویر، سٹوڈیو سیٹ نہیں۔"
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "پیک اسٹاک",
+        "desc": "گودام میں رکھے ہوئے کارٹن، اگلے آؤٹ گوئنگ آرڈر کے لیے تیار ہیں۔"
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "ڈسپیچ کے لیے پیک",
+        "desc": "سلنڈروں کو لپیٹ کر پلانٹ کے صحن میں کھیپ کے لیے رکھا گیا۔"
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "پیداوار کنویئر",
+        "desc": "سلنڈر باڈیز بنانے اور ہینڈلنگ لائن سے گزر رہی ہیں۔"
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "ایل پی جی فنشنگ لائن",
+        "desc": "پیکنگ سے پہلے اوور ہیڈ کنویئر پر پینٹ شدہ ایل پی جی سلنڈر۔"
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "پودے کے اندر",
+        "desc": "پروڈکشن ہال — لوگ، مشینیں اور ان پراسیس اسٹاک۔"
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "ویلڈڈ سلنڈر باڈیز",
+        "desc": "طواف کی ویلڈنگ کے بعد شیل، پینٹنگ اور والوز سے پہلے۔"
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "پینٹنگ سے پہلے گولے۔",
+        "desc": "اگلے عمل کے مرحلے کے لیے بغیر پینٹ شدہ لاشوں کو فرش پر بچھا دیا گیا۔"
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "ان پروسیس اسٹاک",
+        "desc": "ٹیوب کے حصے اور کیپڈ شیل اسمبلی کا انتظار کر رہے ہیں۔"
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "اسٹاک میں سلنڈر باڈیز",
+        "desc": "سروں اور والوز سے پہلے، ویلڈنگ کے بعد ڈھیرے ہوئے خول۔"
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "بیس بجتی ہے۔",
+        "desc": "سلنڈر کے خولوں پر ویلڈنگ کے لیے پاؤں کی انگوٹھیاں تیار کی جاتی ہیں۔"
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "پیکڈ فٹنگز",
+        "desc": "برآمدی کھیپ کے لیے جھاگ کے ساتھ باکس بند والوز اور فٹنگز۔"
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "ایسیٹیلین جنریٹر",
+        "desc": "نلی اور متعلقہ اشیاء کے ساتھ ایک جنریٹر یونٹ، پلانٹ چھوڑنے کے لیے تیار ہے۔"
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "فرش پر گولے۔",
+        "desc": "ویلڈنگ کے بعد کھلی گردن کی لاشیں - والو فٹمنٹ سے پہلے بیچ۔"
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "فیکٹری ویڈیوز",
+    "videosSubtitle": "پلانٹ کے فرش سے نئی شارٹس۔ مزید فوٹیج درخواست پر نجی طور پر بھیجی جاتی ہے۔"
   },
   "quality": {
     "title": "کوالٹی کنٹرول",
     "subtitle": "ہر بیچ ایک ہی راستے پر چلتا ہے: پیداوار، جانچ، معائنہ اور حتمی کوالٹی کنٹرول۔",
     "steps": [
       {
-        "title": "پیداوار",
-        "desc": "پلانٹ کے عمل کے کنٹرول کے تحت تشکیل، ویلڈنگ اور اسمبلی."
+        "title": "خام مال",
+        "desc": "آرڈر اور عمل کی ضروریات کے خلاف آنے والے مواد کا جائزہ لیا گیا۔"
       },
       {
-        "title": "ٹیسٹنگ",
-        "desc": "سلنڈر لائن چھوڑنے سے پہلے پریشر اور لیک ٹیسٹ کریں۔"
+        "title": "پیداوار",
+        "desc": "پلانٹ کے عمل کے کنٹرول کے تحت تشکیل، ویلڈنگ اور اسمبلی."
       },
       {
         "title": "معائنہ",
         "desc": "آرڈر کے خلاف بصری، مارکنگ اور جہتی چیک۔"
       },
       {
-        "title": "حتمی کوالٹی کنٹرول",
-        "desc": "برآمدی شپمنٹ سے پہلے پیکنگ کا معائنہ۔"
+        "title": "ٹیسٹنگ",
+        "desc": "سلنڈر لائن چھوڑنے سے پہلے پریشر اور لیک ٹیسٹ کریں۔"
+      },
+      {
+        "title": "فائنل QC",
+        "desc": "پیکنگ کے لیے ریلیز سے پہلے حتمی کوالٹی کنٹرول۔"
+      },
+      {
+        "title": "پیکجنگ",
+        "desc": "نقل و حمل کے لیے تیار پیکنگ برآمد کریں۔"
+      },
+      {
+        "title": "کھیپ",
+        "desc": "آؤٹ باؤنڈ آرڈرز کے لیے دستاویزات کو لوڈ اور ڈسپیچ کرنا۔"
       }
     ]
   },
   "faq": {
     "title": "اکثر پوچھے گئے سوالات",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "کمپنی، پروڈکٹس، OEM اور ایکسپورٹ — بیرون ملک خریداروں کے جوابات اس سے پہلے کہ آپ اقتباس کی درخواست کریں۔",
     "cta": "آپ کا سوال نہیں ملا؟ پروڈکٹ، سائز، مقدار اور منزل کا ملک بھیجیں - ہم تفصیلی پیشکش کے ساتھ جواب دیں گے۔",
     "ctaBtn": "ایک اقتباس حاصل کریں۔",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "ویڈیوز اور دستاویزات",
         "items": [
           {
             "q": "کیا میں آرڈر دینے سے پہلے فیکٹری ویڈیوز دیکھ سکتا ہوں؟",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "جی ہاں اس صفحہ پر فیکٹری سیکشن میں پروڈکشن ویڈیوز دیکھیں۔ اضافی فوٹیج، پیکنگ کلپس اور سرٹیفکیٹس درخواست پر نجی طور پر بھیجے جاتے ہیں۔"
           },
           {
             "q": "کیا آپ مصنوعات کی ویڈیوز فراہم کرتے ہیں، خاص طور پر ایسیٹیلین سلنڈروں کے لیے؟",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "جی ہاں ایسیٹیلین سلنڈروں پر ویڈیوز، تصاویر اور تفصیلی معلومات آپ کی درخواست کے مطابق نجی طور پر بھیجی جاتی ہیں۔"
           },
           {
             "q": "کیا آپ پروڈکشن اور کوالٹی کنٹرول کی ویڈیوز دکھا سکتے ہیں؟",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "جی ہاں پروڈکشن، کوالٹی انسپیکشن، پیکنگ اور گودام اسٹوریج کی دستیاب ویڈیوز نجی طور پر بھیجی جاتی ہیں تاکہ آپ دیکھ سکیں کہ پروڈکٹس کیسے تیار کیے جاتے ہیں۔"
           },
           {
             "q": "کیا میں کسی مخصوص آرڈر کے لیے بنائی گئی پروڈکٹ ویڈیو کی درخواست کر سکتا ہوں؟",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "کسی مخصوص آرڈر یا پروڈکٹ کی ضروریات کے لیے، ہم سے رابطہ کریں — ہم ویڈیو سپورٹ پر بات کریں گے اور مواد کو نجی طور پر بھیجیں گے۔"
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "میں ویڈیوز، سرٹیفکیٹ اور کوٹیشن کیسے حاصل کروں؟",
+            "a": "انکوائری فارم میں، پروڈکٹ کی قسم، سلنڈر کا سائز، مقدار، منزل کا ملک اور کیا بھیجنا ہے: ویڈیوز، سرٹیفکیٹس یا دونوں کی وضاحت کریں۔ ہم انہیں نجی طور پر بھیجیں گے اور پیشکش تیار کریں گے۔"
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "کیا آپ مصنوعات کی تصاویر اور وضاحتیں فراہم کر سکتے ہیں؟",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "جی ہاں مصنوعات کی تصاویر، وضاحتیں اور ڈیٹا شیٹس درخواست پر نجی طور پر بھیجی جاتی ہیں۔"
           },
           {
             "q": "میں لوازمات کے لیے اقتباس کیسے حاصل کر سکتا ہوں؟",
@@ -396,109 +408,171 @@
   },
   "articles": {
     "title": "تازہ ترین مضامین",
-    "subtitle": "ویلڈنگ اور گیس سپلائی کے پیشہ ور افراد کے لیے ماہر مواد۔",
+    "subtitle": "ویلڈنگ اور گیس کی فراہمی کے پیشہ ور افراد کے لیے ماہرانہ مواد۔",
     "readMore": "مزید پڑھیں →",
-    "close": "بند کریں",
+    "close": "بند",
     "items": [
       {
         "tag": "کاریگر",
-        "title": "مکمل پروپین سلنڈر سپلائی حل",
-        "desc": "آلات کی استحکام براہِ راست ویلڈنگ اور کٹنگ کے کام کی کارکردگی کو متاثر کرتی ہے۔",
+        "title": "مکمل پروپین سلنڈر سپلائی سلوشن",
+        "desc": "آلات کا استحکام براہ راست ویلڈنگ اور کاٹنے کے کام کی کارکردگی کو متاثر کرتا ہے۔",
         "body": [
-          "ان کاریگروں کے لیے جو روزانہ دھات ویلڈ، مرمت اور فیبریکیٹ کرتے ہیں، مستحکم گیس آلات براہِ راست کام کے معیار اور رفتار کو متاثر کرتے ہیں۔",
-          "Wanda Group پروپین سلنڈر آپ کی مارکیٹ کے مطابق POL، CGA 510 یا GOST والوز کے ساتھ 3L سے 50L تک دستیاب ہیں — ویلڈنگ، کٹنگ اور حرارت کے لیے ایک سپلائر۔",
-          "ہم سلنڈروں کو ریگولیٹرز، ہوزز اور ٹارچز کے ساتھ آرڈر کرنے کی سفارش کرتے ہیں۔ بنڈل سپلائی لاجسٹکس لاگت کم کرتی ہے اور لوازمات کی مطابقت یقینی بناتی ہے۔",
-          "آرڈر کرتے وقت ٹارگٹ مارکیٹ، والیوم، والو کی قسم اور رنگ بتائیں — ہم آپ کے برانڈ کے تحت OEM مارکنگ اور ایکسپورٹ پیکجنگ تیار کرتے ہیں۔"
+          "کاریگروں کے لیے جو ہر روز دھات کو ویلڈ، مرمت اور فیبریکیٹ کرتے ہیں، گیس کا مستحکم سامان کام کے معیار اور رفتار کو براہ راست متاثر کرتا ہے۔",
+          "وانڈا گروپ پروپین سلنڈر 3L سے 50L تک POL، CGA 510 یا GOST والوز کے ساتھ دستیاب ہیں جو آپ کی مارکیٹ کے لحاظ سے ہیں — ویلڈنگ، کٹنگ اور ہیٹنگ کے لیے ایک سپلائر۔",
+          "ہم سلنڈروں کو ریگولیٹرز، ہوزز اور ٹارچ کے ساتھ آرڈر کرنے کی تجویز کرتے ہیں۔ بنڈل کی فراہمی لاجسٹک لاگت کو کم کرتی ہے اور آلات کی مطابقت کو یقینی بناتی ہے۔",
+          "آرڈر کرتے وقت، ٹارگٹ مارکیٹ، حجم، والو کی قسم اور رنگ کی وضاحت کریں — ہم آپ کے برانڈ کے تحت OEM مارکنگ اور ایکسپورٹ پیکیجنگ تیار کرتے ہیں۔"
         ]
       },
       {
         "tag": "ذخیرہ",
-        "title": "طویل مدتی ایسٹیلین سلنڈر ذخیرہ کے مشورے",
-        "desc": "غیر استعمال شدہ سلنڈروں کے لیے ذخیرہ کی شرائط، رکھنے کے طریقے اور باقاعدہ معائنہ۔",
+        "title": "طویل مدتی Acetylene سلنڈر ذخیرہ کرنے کی تجاویز",
+        "desc": "ذخیرہ کرنے کے حالات، جگہ کا تعین کرنے کے طریقے اور غیر استعمال شدہ سلنڈروں کا باقاعدہ معائنہ۔",
         "body": [
-          "بہت سی کمپنیاں پیداوار کی تعطیلات کے دوران یا انوینٹری کے طور پر ایسٹیلین اور پروپین سلنڈر ذخیرہ کرتی ہیں۔ غیر استعمال شدہ سلنڈروں کو بھی درست طریقے سے سنبھالنا ضروری ہے۔",
-          "سلنڈروں کو حرارت کے ذرائع اور براہِ راست سورج کی روشنی سے دور، اچھی ہوا دار جگہ پر سیدھا رکھیں۔ ذخیرہ کا درجہ حرارت عام طور پر 40–50°C سے زیادہ نہیں ہونا چاہیے۔",
-          "والوز، کیپس اور مارکنگ کا کم از کم سہ ماہی معائنہ کریں۔ طویل مدتی ایسٹیلین ذخیرہ کے لیے سلنڈروں کو عمودی رکھیں اور کبھی جھکنے نہ دیں۔",
-          "Wanda Group محفوظ نقل و حمل اور گودام کے لیے ڈیزائن کردہ حفاظتی کیپس اور ایکسپورٹ پیکجنگ کے ساتھ سلنڈر بھیجتا ہے۔ ذخیرہ کے رہنما درخواست پر آپ کی زبان میں دستیاب ہیں۔"
+          "بہت سی کمپنیاں ایسٹیلین اور پروپین سلنڈر کو پروڈکشن وقفے کے دوران یا انوینٹری کے طور پر ذخیرہ کرتی ہیں۔ غیر استعمال شدہ سلنڈروں کو اب بھی مناسب ہینڈلنگ کی ضرورت ہے۔",
+          "گرمی کے ذرائع اور براہ راست سورج کی روشنی سے دور ایک اچھی ہوادار جگہ پر سلنڈر کو سیدھا رکھیں۔ ذخیرہ کرنے کا درجہ حرارت عام طور پر 40-50 ° C سے زیادہ نہیں ہونا چاہئے۔",
+          "کم از کم سہ ماہی میں والوز، کیپس اور نشانات کا معائنہ کریں۔ طویل مدتی ایسٹیلین ذخیرہ کرنے کے لیے، سلنڈر کو عمودی رکھیں اور کبھی جھکنے کی اجازت نہ دیں۔",
+          "وانڈا گروپ محفوظ نقل و حمل اور گودام کے لیے ڈیزائن کردہ حفاظتی ٹوپیوں اور برآمدی پیکیجنگ کے ساتھ سلنڈر بھیجتا ہے۔ سٹوریج گائیڈز درخواست پر آپ کی زبان میں دستیاب ہیں۔"
         ]
       },
       {
-        "tag": "قیمتیں",
-        "title": "ایسٹیلین سلنڈر خریداری کے لیے بجٹ گائیڈ",
-        "desc": "لاگت کو متاثر کرنے والے عوامل اور بہترین پیشکش کیسے منتخب کریں۔",
+        "tag": "قیمتوں کا تعین",
+        "title": "Acetylene سلنڈر کی خریداری کے لیے بجٹ گائیڈ",
+        "desc": "لاگت کو متاثر کرنے والے عوامل اور بہترین پیشکش کا انتخاب کیسے کریں۔",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "شپنگ (FOB/CIF)، دستاویزات اور MOQ کو بھی مدنظر رکھیں۔ ہم مکمل تفصیلات، لیڈ ٹائم اور Incoterms کے ساتھ 24 گھنٹوں میں جواب دیتے ہیں۔",
-          "درست کوٹ کے لیے رابطہ فارم میں ماڈل، مقدار، منزل کا ملک اور والو کی ضروریات شامل کریں — یا sales@wandagroups.com پر ای میل کریں۔"
+          "Acetylene سلنڈر کی قیمت کا انحصار حجم، والو کی قسم، آپ کی منزل کی مارکیٹ کے لیے مطلوبہ معیارات، اور آرڈر کی مقدار پر ہے۔ ہم ویب سائٹ پر مقررہ فہرست کی قیمتیں شائع نہیں کرتے ہیں۔",
+          "ہم آپ کی انکوائری کا جائزہ لینے کے بعد بڑے لاٹ اور OEM اختیارات (پینٹنگ، لوگو، پیکنگ) کو انفرادی طور پر حوالہ دیا جاتا ہے۔",
+          "شپنگ کی شرائط (FOB/CIF اور اسی طرح)، دستاویزات اور لیڈ ٹائم کی تصدیق رسمی کوٹیشن میں کی جاتی ہے۔",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "ایک اقتباس کی درخواست کریں۔",
-    "subtitle": "سائز، مقدار، منزل کا ملک اور اطلاق بتائیں — ہم تفصیلی کوٹ تیار کریں گے۔",
+    "title": "آئیے آپ کی ضروریات پر تبادلہ خیال کریں۔",
+    "subtitle": "ہمیں پروڈکٹ، سائز، مقدار، منزل کا ملک اور وضاحتیں بتائیں — ہماری سیلز ٹیم پروڈکٹ کی معلومات اور کوٹیشن کے ساتھ جواب دے گی۔",
     "formTitle": "ایک اقتباس کی درخواست کریں۔",
-    "formSubtitle": "اپنی ضروریات چھوڑیں — ہماری سیلز ٹیم مصنوعات کی معلومات، قیمتیں، MOQ اور لیڈ ٹائم کے ساتھ جواب دے گی۔",
+    "formSubtitle": "تجارتی انکوائری کے لیے فارم پُر کریں۔ مطلوبہ فیلڈز نشان زد ہیں۔",
     "name": "نام",
+    "company": "کمپنی",
     "phone": "فون/واٹس ایپ",
     "email": "ای میل",
-    "product": "مصنوعات",
-    "quantity": "مقدار",
-    "country": "منزل کا ملک",
+    "product": "پروڈکٹ",
+    "quantity": "مقدار (اختیاری)",
+    "country": "منزل کا ملک (اختیاری)",
     "productOptions": [
       "ایسٹیلین سلنڈر",
       "پروپین سلنڈر",
-      "ایسٹیلین جنریٹر",
+      "ایسیٹیلین جنریٹر",
       "لوازمات",
-      "بنڈل آرڈر",
-      "Cold storage / refrigeration"
+      "کولڈ اسٹوریج / ریفریجریشن",
+      "بنڈل آرڈر"
     ],
-    "message": "اضافی ضروریات",
-    "messagePlaceholder": "مصنوعات، سائز، مقدار، منزل کا ملک...",
-    "submit": "انکوائری بھیجیں۔",
-    "sending": "بھیجا جا رہا ہے...",
-    "success": "شکریہ! ہم جلد آپ سے رابطہ کریں گے۔",
-    "sendAnother": "ایک اور استفسار بھیجیں",
-    "errorGeneric": "بھیجنے میں ناکامی۔ براہِ کرم دوبارہ کوشش کریں یا ہمیں براہِ راست ای میل کریں۔",
-    "errorNoForm": "فارم کنفیگر نہیں ہے۔ براہِ کرم sales@wandagroups.com پر ای میل کریں",
-    "privacyPrefix": "میں اس سے اتفاق کرتا ہوں۔",
-    "privacySuffix": "اور اس انکوائری کو سنبھالنے کے لیے میرے ذاتی ڈیٹا کی پروسیسنگ کے لیے۔",
-    "privacyLink": "رازداری کی پالیسی",
-    "company": "کمپنی",
+    "quantityPlaceholder": "جیسے 200 پی سیز، 1 کنٹینر، یا ٹی بی ڈی",
+    "countryPlaceholder": "جہاں سامان بھیجا جائے گا۔",
+    "message": "اضافی تقاضے",
+    "messagePlaceholder": "پروڈکٹ، سائز، مقدار، منزل ملک...",
+    "submit": "انکوائری جمع کروائیں۔",
+    "sending": "بھیج رہا ہے...",
+    "success": "شکریہ! ہم جلد ہی آپ سے رابطہ کریں گے۔",
+    "sendAnother": "ایک اور انکوائری بھیجیں۔",
+    "errorGeneric": "بھیجنے میں ناکام۔ براہ کرم دوبارہ کوشش کریں یا ہمیں براہ راست ای میل کریں۔",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "ای میل ایپ کے ذریعے بھیجیں۔",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "میں اس سے اتفاق کرتا ہوں۔",
+    "privacySuffix": "اور اس انکوائری کو سنبھالنے کے لیے میرے ذاتی ڈیٹا کی پروسیسنگ تک۔",
+    "privacyLink": "رازداری کی پالیسی",
+    "termsAnd": "اور",
+    "termsLink": "استعمال کی شرائط",
+    "requirements": "ضروریات / نردجیکرن",
+    "requirementsPlaceholder": "والو کی قسم، رنگ، معیاری، پیکنگ، OEM مارکنگ، مقدار کے نوٹ..."
   },
   "footer": {
     "company": "وانڈا گروپ گیس سلنڈر بنانے والا",
     "tagline": "پیشہ ورانہ گیس سلنڈر مینوفیکچرنگ",
-    "rights": "© 2026 Wanda Group. جملہ حقوق محفوظ ہیں۔",
+    "rights": "© 2026 وانڈا گروپ۔ جملہ حقوق محفوظ ہیں۔",
     "privacy": "رازداری کی پالیسی",
-    "terms": "Terms of Use"
+    "terms": "استعمال کی شرائط"
+  },
+  "privacy": {
+    "label": "قانونی",
+    "title": "رازداری کی پالیسی",
+    "updated": "آخری بار اپ ڈیٹ کیا گیا: 25 اگست 2026",
+    "intro": [
+      "وانڈا گروپ (\"ہم\"، \"ہم\") اس ویب سائٹ کو گیس سلنڈر، لوازمات اور متعلقہ برآمدی سپلائی پیش کرنے اور صنعتی خریداروں سے تجارتی استفسارات حاصل کرنے کے لیے چلاتا ہے۔",
+      "یہ پالیسی بتاتی ہے کہ ہم سائٹ کے ذریعے کون سا ذاتی ڈیٹا اکٹھا کرتے ہیں، ہم اسے کیوں استعمال کرتے ہیں، اور آپ اس کے بارے میں ہم سے کیسے رابطہ کر سکتے ہیں۔ فیکٹری پروڈکشن ویڈیوز اس ویب سائٹ پر دکھائے گئے ہیں۔ درخواست پر سرٹیفکیٹ فائلیں نجی طور پر بھیجی جاتی ہیں۔"
+    ],
+    "sections": [
+      {
+        "title": "ذمہ دار کون ہے۔",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "ہم کون سا ڈیٹا اکٹھا کرتے ہیں۔",
+        "body": [
+          "جب آپ انکوائری فارم بھیجتے ہیں تو ہمیں آپ کا درج کردہ ڈیٹا موصول ہوتا ہے: نام، ای میل، فون، منزل کا ملک، پروڈکٹ کی قسم، مقدار اور پیغام۔",
+          "یہ سائٹ آپ کی زبان کے انتخاب کو براؤزر (localStorage) میں بھی اسٹور کرتی ہے۔ ہم اشتہاری کوکیز نہیں چلاتے اور نہ ہی وزیٹر کی فہرستیں فروخت کرتے ہیں۔"
+        ]
+      },
+      {
+        "title": "ہم ڈیٹا کیوں استعمال کرتے ہیں۔",
+        "body": [
+          "ہم انکوائری ڈیٹا کا استعمال صرف آپ کی درخواست کا جواب دینے، کوٹیشن تیار کرنے، پروڈکٹ کی معلومات، ویڈیوز یا سرٹیفکیٹ بھیجنے کے لیے کرتے ہیں جو آپ نے مانگے ہیں، اور اگر ہم مل کر کام کرنا شروع کریں تو آرڈر کو مربوط کرنے کے لیے۔",
+          "قانونی بنیاد: فارم پر چیک باکس پر نشان لگانے پر آپ کی رضامندی، اور B2B فروخت کی درخواستوں کا جواب دینے میں ہماری جائز دلچسپی۔"
+        ]
+      },
+      {
+        "title": "جو ڈیٹا وصول کرتا ہے۔",
+        "body": [
+          "آپ کا پیغام ہماری سیلز ٹیم کو ای میل کے ذریعے پہنچایا جاتا ہے۔ فارم پر کارروائی Web3Forms کے ذریعے کی جاتی ہے، ایک تکنیکی فراہم کنندہ جو پیغام کو ہم تک پہنچاتا ہے۔",
+          "ہم ذاتی ڈیٹا فروخت نہیں کرتے ہیں۔ ہم لاجسٹکس، انسپیکشن یا بینکنگ پارٹنرز کے ساتھ صرف اس صورت میں شیئر کر سکتے ہیں جب کسی متفقہ آرڈر کو پورا کرنے کی ضرورت ہو۔"
+        ]
+      },
+      {
+        "title": "ہم اسے کب تک رکھتے ہیں۔",
+        "body": [
+          "انکوائری ڈیٹا کو درخواست کو ہینڈل کرنے کے لیے اور اس کے بعد مناسب مدت کے لیے سیلز فالو اپ اور اکاؤنٹنگ کے لیے رکھا جاتا ہے، جب تک کہ آپ ہم سے اسے پہلے حذف کرنے کے لیے کہیں جہاں قانون اجازت دیتا ہے۔"
+        ]
+      },
+      {
+        "title": "آپ کے حقوق",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "سیکیورٹی اور بچے",
+        "body": [
+          "ہم ٹرانزٹ اور اپنے میل باکس میں پیغامات کی حفاظت کے لیے معقول تکنیکی اور تنظیمی اقدامات کرتے ہیں۔ یہ ویب سائٹ کاروباری خریداروں کے لیے ہے، بچوں کے لیے نہیں۔"
+        ]
+      }
+    ],
+    "contactLead": "اس پالیسی کے بارے میں سوالات:"
   },
   "ui": {
     "catalog": "کیٹلاگ",
-    "catalogTitle": "تفصیلی مصنوعات کی تفصیلات",
-    "catalogSubtitle": "ہر زمرے کے لیے مکمل تکنیکی ڈیٹا، ماڈلز اور پیرامیٹرز۔ سپیک ٹیبل دیکھنے کے لیے مصنوعات منتخب کریں۔",
-    "requestPrice": "اس ماڈل کی قیمت طلب کریں",
+    "catalogTitle": "مصنوعات کی تفصیلی وضاحتیں",
+    "catalogSubtitle": "ہر زمرے کے لیے تکنیکی ڈیٹا، ماڈلز اور پیرامیٹرز مکمل کریں۔ مخصوص جدول دیکھنے کے لیے ایک پروڈکٹ منتخب کریں۔",
+    "requestPrice": "اس ماڈل کے لیے قیمت کی درخواست کریں۔",
     "services": "خدمات",
-    "pricing": "قیمتیں",
-    "getExactQuote": "درست کوٹ حاصل کریں",
+    "pricing": "قیمتوں کا تعین",
+    "getExactQuote": "عین مطابق اقتباس حاصل کریں۔",
     "certifications": "سرٹیفیکیشنز",
     "order": "آرڈر",
     "reviews": "جائزے",
-    "contact": "رابطہ",
+    "contact": "رابطہ کریں۔",
     "phone": "فون",
     "location": "مقام",
-    "quoteResponse": "کوٹ جواب",
-    "support": "سپورٹ",
-    "exportReady": "ایکسپورٹ کے لیے تیار",
+    "quoteResponse": "اقتباس جواب",
+    "support": "حمایت",
+    "countriesServed": "ایکسپورٹ سپورٹ",
+    "exportReady": "ایکسپورٹ تیار ہے۔",
     "years": "سال",
-    "acetylene": "ایسٹیلین",
-    "isoCertified": "ISO تصدیق شدہ",
-    "globalExport": "عالمی ایکسپورٹ",
+    "acetylene": "ایسیٹیلین",
+    "isoCertified": "آئی ایس او مصدقہ",
+    "globalExport": "گلوبل ایکسپورٹ",
     "products": "مصنوعات",
     "specs": "وضاحتیں",
     "applications": "ایپلی کیشنز",
@@ -508,17 +582,25 @@
     "quality": "معیار",
     "faq": "اکثر پوچھے گئے سوالات",
     "blog": "بلاگ",
-    "countriesServed": "ممالک کی خدمت کی۔",
     "searchLanguage": "زبان تلاش کریں...",
-    "noLanguagesFound": "کوئی زبانیں نہیں ملی"
+    "noLanguagesFound": "کوئی زبانیں نہیں ملی",
+    "breadcrumb": "بریڈ کرمب",
+    "primaryNav": "پرائمری",
+    "menu": "مینو",
+    "playVideo": "ویڈیو چلائیں۔",
+    "productGallery": "پروڈکٹ گیلری",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM/نجی لیبل",
+    "بین الاقوامی برآمد",
+    "کوالٹی کنٹرول",
+    "درخواست پر مارکیٹ کے معیارات",
+    "بلک آرڈرز"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "سرٹیفیکیشن",
-        "desc": "Documents for customs and regulators.",
+        "desc": "کسٹم اور ریگولیٹرز کے لیے دستاویزات۔ کاپیاں درخواست پر نجی طور پر بھیجی جاتی ہیں۔",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS اور کوالٹی سرٹیفکیٹ",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "قیمت اور فراہمی کی شرائط",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "تجارتی شرائط فی انکوائری کی تصدیق کر رہے ہیں. رسمی کوٹیشن کے لیے پروڈکٹ، مقدار اور منزل کی تفصیلات بھیجیں۔",
+    "note": "ہم اس ویب سائٹ پر مقررہ فہرست کی قیمتیں، MOQ یا لیڈ ٹائم شائع نہیں کرتے ہیں۔ ہم آپ کی ضروریات کا جائزہ لینے کے بعد قطعی تجارتی شرائط کی تصدیق ایک کوٹیشن میں کی جاتی ہے۔",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "قیمتوں کا تعین",
+        "value": "درخواست پر",
+        "desc": "انکوائری کا جائزہ لینے کے بعد باضابطہ کوٹیشن"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "فی آرڈر کی تصدیق",
+        "desc": "ماڈل اور منزل پر منحصر ہے۔"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "لیڈ ٹائم",
+        "value": "فی آرڈر کی تصدیق",
+        "desc": "اقتباس کے ساتھ اشتراک کیا گیا۔"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "ادائیگی",
+        "value": "معاہدے پر اتفاق ہوا۔",
+        "desc": "پیداوار سے پہلے شرائط کی تصدیق"
       }
     ],
     "factors": {
-      "title": "قیمت کے عوامل",
+      "title": "کوٹیشن پر کیا اثر پڑتا ہے۔",
       "items": [
-        "سلنڈر والیوم اور ماڈل (2L - 50L)",
-        "والو کی قسم (CGA، GOST، DIN، POL)",
-        "سرٹیفیکیشن کا معیار (ISO, DOT, TPED)",
-        "OEM: رنگ، مارکنگ، پیکیجنگ",
+        "سلنڈر کا حجم اور ماڈل",
+        "والو کی قسم اور کنکشن کا معیار",
+        "منزل منڈی کے لیے مطلوبہ معیارات",
+        "OEM رنگ، مارکنگ اور پیکیجنگ",
         "آرڈر والیوم اور انکوٹرمز"
       ]
     },
     "samples": [
       {
-        "product": "Acetylene WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "ایسیٹیلین سلنڈر",
+        "moq": "درخواست پر",
+        "price": "اقتباس فی استفسار",
+        "lead": "فی آرڈر کی تصدیق"
       },
       {
-        "product": "Acetylene WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "پروپین / ایل پی جی سلنڈر",
+        "moq": "درخواست پر",
+        "price": "اقتباس فی استفسار",
+        "lead": "فی آرڈر کی تصدیق"
       },
       {
-        "product": "پروپین WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "جنریٹرز",
+        "moq": "درخواست پر",
+        "price": "اقتباس فی استفسار",
+        "lead": "فی آرڈر کی تصدیق"
       },
       {
-        "product": "پروپین WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "جنریٹر WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "ریگولیٹر سیٹ",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "لوازمات",
+        "moq": "درخواست پر",
+        "price": "اقتباس فی استفسار",
+        "lead": "فی آرڈر کی تصدیق"
       }
     ],
     "tableHeaders": [
       "پروڈکٹ",
       "MOQ",
-      "قیمت (EXW)",
+      "قیمت",
       "لیڈ ٹائم"
     ]
   },
   "certifications": {
     "title": "سرٹیفیکیشن اور معیارات",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "معیارات اور سرٹیفیکیشن کے اختیارات پر مصنوعات اور منزل کی منڈی کے مطابق بحث کی جاتی ہے۔ سرٹیفکیٹ کی کاپیاں درخواست پر نجی طور پر بھیجی جاتی ہیں — فائلیں اس ویب سائٹ پر شائع نہیں کی جاتی ہیں۔",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "کوٹیشن وصول کریں۔",
-        "desc": "قیمت، MOQ، لیڈ ٹائم اور 24 گھنٹے کے اندر اسپیک شیٹ"
+        "desc": "ہماری سیلز ٹیم کے جائزے کے بعد قیمت، MOQ، لیڈ ٹائم اور اسپیک شیٹ"
       },
       {
         "title": "آرڈر کی تصدیق کریں۔",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "پیداوار شروع ہونے سے پہلے معاہدہ اور ادائیگی کی شرائط پر اتفاق ہوا۔"
       },
       {
         "title": "پیداوار اور QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "مینوفیکچرنگ اور ٹیسٹنگ۔ ویڈیوز اور سرٹیفکیٹس درخواست پر نجی طور پر بھیجے جاتے ہیں۔"
       },
       {
         "title": "کھیپ",
-        "desc": "پیکیجنگ، دستاویزات، FOB/CIF/DDP کی ترسیل"
+        "desc": "پیکجنگ، دستاویزات اور ترسیل کی شرائط جیسا کہ آرڈر میں اتفاق کیا گیا ہے۔"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "خریدار کیا کہتے ہیں۔",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "ہم نے اس سال تین بار 40L ایسٹیلین سلنڈروں کو دوبارہ ترتیب دیا۔ GOST والوز، OEM رنگ اور برآمدی پیکنگ ہر بار پہلے نمونے سے مماثل ہے۔",
+        "author": "رستم یوسفوف",
+        "role": "مالک، ویلڈنگ گیس ڈسٹری بیوٹر",
+        "country": "ازبکستان"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "اقتباس اسی دن ایک واضح MOQ اور لیڈ ٹائم کے ساتھ آیا۔ پروپین کی بوتلیں POL والوز اور مکمل پیکنگ لسٹ کے ساتھ پہنچی ہیں - ہماری طرف سے کوئی کسٹم تاخیر نہیں ہے۔",
+        "author": "آئیجیریم بیکووا",
+        "role": "پروکیورمنٹ مینیجر، صنعتی سپلائی",
+        "country": "قازقستان"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "ہم ایک کنٹینر آرڈر کے طور پر ریگولیٹرز اور ہوزز کے ساتھ سلنڈر خریدتے ہیں۔ ہماری مارکیٹ کے لیے دستاویزات اور مارکنگ تیار تھی، اس لیے دوبارہ فروخت سیدھی تھی۔",
+        "author": "فیصل الحربی",
+        "role": "درآمد خریدار، گیس کا سامان ٹریڈنگ",
+        "country": "سعودی عرب"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "معیار",
         "eyebrow": "معیار اور حفاظت",
         "title": "معائنہ آپ کوٹ میں ڈال سکتے ہیں",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "مواد کی جانچ، لیک ٹیسٹ، والو ٹارک اور پیکنگ فوٹو۔ درخواست پر سرٹیفکیٹ پیک اور تصویری رپورٹیں نجی طور پر بھیجی جاتی ہیں۔",
         "points": [
           "پریشر اور لیک ٹیسٹ",
-          "Certificate package",
+          "درخواست پر سرٹیفکیٹ",
           "شپمنٹ سے پہلے کی تصاویر"
         ]
       },
       {
         "id": "برآمد",
         "eyebrow": "عالمی برآمد",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "بندرگاہوں کے لیے پیک، برآمدی منڈیوں کے لیے تیار",
         "text": "پیلیٹس، والو پروٹیکشن، کثیر لسانی لیبلز اور شپنگ ڈاکس برآمد کریں جو آپ کی منزل Incoterms کے لیے مربوط ہیں۔",
         "points": [
           "ایف او بی / سی آئی ایف سپورٹ",
           "پیلیٹائزڈ پیکنگ",
           "لیڈ ٹائم 15-25 دن"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "لپیٹے ہوئے گیس سلنڈر فیکٹری کے صحن میں ڈسپیچ کے لیے رکھے گئے۔",
+    "about": "وانڈا گروپ فیکٹری کے فرش پر کارکن",
+    "accessories": "گیس سلنڈر کی لوازماتی کٹ — ریگولیٹرز، ہوزز، ٹارچز اور فٹنگز",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "غیر محفوظ ماس اور پیتل والو کے ساتھ تحلیل شدہ ایسٹیلین سلنڈر",
+      "ایسٹیلین جنریٹر نے پلانٹ میں تصویر کھنچوائی",
+      "پروپین اور ایل پی جی سلنڈر متعدد سائز اور رنگوں میں",
+      "گیس سلنڈروں کے لیے ویلڈنگ اور کٹنگ لوازماتی کٹ"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "نائٹ ڈسپیچ: ٹریلر پر لپٹا ہوا سامان",
+      "پیلیٹ اور دھات کے پرزے شپمنٹ کے لیے رکھے گئے۔",
+      "گودام میں بھرے اسٹاک کے کارٹن",
+      "سلنڈر فلم میں لپٹے ہوئے، فیکٹری کے صحن میں کھڑے ہوئے۔",
+      "پلانٹ کی چھت کے نیچے گیس سلنڈر پروڈکشن کنویئر",
+      "ایل پی جی سلنڈر اوور ہیڈ فنشنگ کنویئر پر لٹک رہے ہیں۔",
+      "ورکرز وانڈا گروپ فیکٹری کے فرش پر چل رہے ہیں۔",
+      "غیر پینٹ شدہ ویلڈیڈ پروپین سلنڈر باڈیز دو اونچی اسٹیک ہیں۔",
+      "کنکریٹ کے فرش پر بغیر پینٹ شدہ سلنڈر گولوں کی قطاریں۔",
+      "ورکشاپ میں سلنڈر ٹیوب اسٹاک اور کیپڈ شیل",
+      "فیکٹری کی دیوار کے خلاف کچے سلنڈر کے ڈھیر لگے ہوئے ہیں۔",
+      "اسٹیل بیس کے حلقے اسمبلی سے پہلے ڈھیر ہو گئے۔",
+      "جھاگ کے ساتھ ایک کارٹن میں پیک پیتل کی متعلقہ اشیاء",
+      "نلی اور باکسڈ لوازمات کے ساتھ ایسٹیلین جنریٹر",
+      "ویلڈنگ کے بعد کھلی گردنوں کے ساتھ بغیر پینٹ شدہ سلنڈر کے خول"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "کوپ لینڈ نیم ہرمیٹک کمپریسر کے ساتھ ایئر کولڈ کنڈینسنگ یونٹ",
+      "بٹزر نیم ہرمیٹک کمپریسر کے ساتھ ایئر کولڈ کنڈینسنگ یونٹ",
+      "منسلک کابینہ طرز کا ریفریجریشن کنڈینسنگ یونٹ",
+      "اعلیٰ صلاحیت والا چار پنکھا ایئر کولڈ کنڈینسنگ یونٹ"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "قانونی",
-    "title": "رازداری کی پالیسی",
-    "updated": "آخری بار اپ ڈیٹ کیا گیا: 25 اگست 2026",
-    "intro": [
-      "وانڈا گروپ (\"ہم\"، \"ہم\") اس ویب سائٹ کو گیس سلنڈر، لوازمات اور متعلقہ برآمدی سپلائی پیش کرنے اور صنعتی خریداروں سے تجارتی استفسارات حاصل کرنے کے لیے چلاتا ہے۔",
-      "یہ پالیسی بتاتی ہے کہ ہم سائٹ کے ذریعے کون سا ذاتی ڈیٹا اکٹھا کرتے ہیں، ہم اسے کیوں استعمال کرتے ہیں، اور آپ اس کے بارے میں ہم سے کیسے رابطہ کر سکتے ہیں۔ ہم ویب سائٹ پر فیکٹری ویڈیوز یا سرٹیفکیٹ فائلیں شائع نہیں کرتے ہیں۔ وہ مواد درخواست پر نجی طور پر بھیجے جاتے ہیں۔"
-    ],
-    "sections": [
-      {
-        "title": "ذمہ دار کون ہے۔",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "ہم کون سا ڈیٹا اکٹھا کرتے ہیں۔",
-        "body": [
-          "جب آپ انکوائری فارم بھیجتے ہیں تو ہمیں آپ کا درج کردہ ڈیٹا موصول ہوتا ہے: نام، ای میل، فون، منزل کا ملک، پروڈکٹ کی قسم، مقدار اور پیغام۔",
-          "یہ سائٹ آپ کی زبان کے انتخاب کو براؤزر (localStorage) میں بھی اسٹور کرتی ہے۔ ہم اشتہاری کوکیز نہیں چلاتے اور نہ ہی وزیٹر کی فہرستیں فروخت کرتے ہیں۔"
-        ]
-      },
-      {
-        "title": "ہم ڈیٹا کیوں استعمال کرتے ہیں۔",
-        "body": [
-          "ہم انکوائری ڈیٹا کا استعمال صرف آپ کی درخواست کا جواب دینے، کوٹیشن تیار کرنے، پروڈکٹ کی معلومات، ویڈیوز یا سرٹیفکیٹ بھیجنے کے لیے کرتے ہیں جو آپ نے مانگے ہیں، اور اگر ہم مل کر کام کرنا شروع کریں تو آرڈر کو مربوط کرنے کے لیے۔",
-          "قانونی بنیاد: فارم پر چیک باکس پر نشان لگانے پر آپ کی رضامندی، اور B2B فروخت کی درخواستوں کا جواب دینے میں ہماری جائز دلچسپی۔"
-        ]
-      },
-      {
-        "title": "جو ڈیٹا وصول کرتا ہے۔",
-        "body": [
-          "آپ کا پیغام ہماری سیلز ٹیم کو ای میل کے ذریعے پہنچایا جاتا ہے۔ کنفیگریشن پر منحصر ہے، فارم پر فارمسبمٹ یا فارمسپری کے ذریعے ایک تکنیکی فراہم کنندہ کے طور پر کارروائی کی جا سکتی ہے جو ہمیں پیغام پہنچاتا ہے۔",
-          "ہم ذاتی ڈیٹا فروخت نہیں کرتے ہیں۔ ہم لاجسٹکس، انسپیکشن یا بینکنگ پارٹنرز کے ساتھ صرف اس صورت میں شیئر کر سکتے ہیں جب کسی متفقہ آرڈر کو پورا کرنے کی ضرورت ہو۔"
-        ]
-      },
-      {
-        "title": "ہم اسے کب تک رکھتے ہیں۔",
-        "body": [
-          "انکوائری ڈیٹا کو درخواست کو ہینڈل کرنے کے لیے اور اس کے بعد مناسب مدت کے لیے سیلز فالو اپ اور اکاؤنٹنگ کے لیے رکھا جاتا ہے، جب تک کہ آپ ہم سے اسے پہلے حذف کرنے کے لیے کہیں جہاں قانون اجازت دیتا ہے۔"
-        ]
-      },
-      {
-        "title": "آپ کے حقوق",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "سیکیورٹی اور بچے",
-        "body": [
-          "ہم ٹرانزٹ اور اپنے میل باکس میں پیغامات کی حفاظت کے لیے معقول تکنیکی اور تنظیمی اقدامات کرتے ہیں۔ یہ ویب سائٹ کاروباری خریداروں کے لیے ہے، بچوں کے لیے نہیں۔"
-        ]
-      }
-    ],
-    "contactLead": "اس پالیسی کے بارے میں سوالات:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "قانونی",
+    "title": "استعمال کی شرائط",
+    "updated": "آخری بار اپ ڈیٹ کیا گیا: 27 اگست 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "یہ شرائط wandagroups.com کے استعمال کو کنٹرول کرتی ہیں، جو وانڈا گروپ کے ذریعے گیس سلنڈر، جنریٹرز اور لوازمات کے صنعتی خریداروں کے لیے چلائی جاتی ہے۔",
+      "سائٹ کو براؤز کرکے یا انکوائری بھیج کر آپ ان شرائط اور ہماری رازداری کی پالیسی سے اتفاق کرتے ہیں۔ اگر آپ متفق نہیں ہیں تو سائٹ کا استعمال نہ کریں۔"
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "ہم کون ہیں۔",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "ویب سائٹ کس کے لیے ہے۔",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "سائٹ مصنوعات کی معلومات پیش کرتی ہے اور تجارتی استفسارات وصول کرتی ہے۔ اس کا مقصد کاروباری خریداروں کے لیے ہے، نجی افراد کے طور پر خریداری کرنے والے صارفین کے لیے نہیں اور بچوں کے لیے نہیں۔"
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "قیمتیں، قیمتیں اور آرڈر",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "سائٹ پر قیمتیں، MOQ، لیڈ ٹائم اور وضاحتیں اشارے ہیں۔ فارم یا میسنجر کے ذریعے پیغام ایک انکوائری ہے، آرڈر نہیں۔",
+          "معاہدہ صرف اس وقت موجود ہوتا ہے جب دونوں فریق تحریری طور پر پیشکش کی تصدیق کرتے ہیں (ای میل یا دستخط شدہ دستاویزات) اور متفقہ رقم موصول ہو جاتی ہے، جب تک کہ ہم اس تصدیق میں دوسری صورت بیان نہ کریں۔"
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "تصاویر، ویڈیوز اور سرٹیفکیٹ",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "سائٹ پر فیکٹری کی تصاویر اور ویڈیوز پیداوار کی عکاسی کرتے ہیں۔ اضافی فوٹیج اور سرٹیفکیٹ فائلیں درخواست پر نجی طور پر بھیجی جاتی ہیں اور ہمارے خفیہ مواد رہیں جب تک کہ ہم یہ نہ کہیں کہ آپ ان کا اشتراک کر سکتے ہیں۔"
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "دانشورانہ املاک",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "اس ویب سائٹ پر متن، تصاویر، ویڈیوز، لوگو اور لے آؤٹ کا تعلق وانڈا گروپ یا ہمارے لائسنس دہندگان سے ہے۔ آپ ہماری تحریری اجازت کے بغیر اپنی تجارتی سائٹ کے کیٹلاگ کو کاپی نہیں کر سکتے ہیں۔"
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "قابل قبول استعمال",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "انکوائری فارم کا غلط استعمال نہ کریں (اسپام، غلط شناخت، یا سائٹ میں خلل ڈالنے کی کوششیں)۔ ہم بدسلوکی کی درخواستوں کو نظر انداز یا حذف کر سکتے ہیں۔"
         ]
       },
       {
-        "title": "Liability",
+        "title": "ذمہ داری",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "ہم معلومات کو درست رکھنے کا خیال رکھتے ہیں، لیکن سائٹ میں غلطیاں ہوسکتی ہیں یا عارضی طور پر دستیاب نہیں ہوسکتی ہیں۔ قانون کی اجازت کی حد تک، وانڈا گروپ صرف ویب سائٹ کے استعمال سے ہونے والے بالواسطہ نقصان کے لیے ذمہ دار نہیں ہے۔",
+          "ایک حقیقی سپلائی کنٹریکٹ کی ذمہ داری اس معاہدے اور قابل اطلاق قانون میں مقرر کی گئی ہے، صرف ویب سائٹ کی ان شرائط میں نہیں۔"
         ]
       },
       {
-        "title": "Changes",
+        "title": "تبدیلیاں",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "ہم ان شرائط کو اپ ڈیٹ کر سکتے ہیں۔ اوپر کی تاریخ موجودہ ورژن کو ظاہر کرتی ہے۔ تبدیلی کے بعد سائٹ کے مسلسل استعمال کا مطلب ہے کہ آپ اپ ڈیٹ کردہ شرائط کو قبول کرتے ہیں۔"
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "ان شرائط کے بارے میں سوالات:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "ہماری پروڈکٹ لائن",
+    "title": "ریفریجریشن یونٹس",
+    "subtitle": "ایک علیحدہ وانڈا گروپ لائن — فریق ثالث کی کیٹلاگ نہیں۔ کنڈینسنگ یونٹس، کولڈ رومز اور ہارڈ ویئر، جو ہمارے ذریعہ سلنڈر کے ساتھ یا اسٹینڈ اکیلے آرڈر کے طور پر فراہم کیے جاتے ہیں۔",
+    "moreLink": "کولڈ اسٹوریج کا سامان →",
+    "cta": "ایک اقتباس کی درخواست کریں۔",
+    "alsoTitle": "درخواست پر بھی دستیاب ہے۔",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "پولی یوریتھین کولڈ روم پینلز (B1/B2) اور 304 سٹینلیس پینلز",
+      "ٹھنڈے کمرے کے ایئر کولر — DL (~0 °C)، DD (~−18 °C)، DJ (~−25 °C)",
+      "ایلومینیم evaporator کنڈلی",
+      "ٹھنڈے کمرے کے دروازے",
+      "صنعتی پانی کے چلرز",
+      "گاڑیوں کے ریفریجریشن یونٹس اور موبائل کولڈ روم"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "وانڈا انٹرنیشنل ٹریڈ گیس سلنڈر لائن کے ساتھ ریفریجریشن کا سامان فراہم کرتی ہے: یونٹ، پینل، کولر اور متعلقہ کولڈ چین ہارڈ ویئر۔ Copeland، Bitzer اور اسی طرح کے نام یونٹ کے اندر موجود کمپریسر برانڈ کا حوالہ دیتے ہیں، نہ کہ ان کمپنیوں کا ری برانڈ۔",
+    "videoTitle": "کمپنی کی ویڈیو",
+    "videoSubtitle": "ریفریجریشن کا سامان لائن کا جائزہ. مزید فوٹیج درخواست پر نجی طور پر بھیجی جاتی ہے۔",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "کوپ لینڈ نیم ہرمیٹک ایئر کولڈ یونٹ",
+        "spec": "کنڈینسنگ یونٹ · کوپلینڈ کمپریسر",
+        "desc": "ٹھنڈے کمروں اور درمیانے درجے کی ڈیوٹی کے لیے کوپ لینڈ نیم ہرمیٹک کمپریسر کے ساتھ ایئر کولڈ کنڈینسنگ یونٹ۔"
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "بٹزر نیم ہرمیٹک ایئر کولڈ یونٹ",
+        "spec": "کنڈینسنگ یونٹ · بٹزر کمپریسر",
+        "desc": "ہائی ڈیوٹی اور درمیانے سے کم درجہ حرارت والے کمروں کے لیے بٹزر نیم ہرمیٹک کمپریسر کے ساتھ ایئر کولڈ کنڈینسنگ یونٹ۔"
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "منسلک باکس قسم یونٹ",
+        "spec": "کیبنٹ کنڈینسنگ یونٹ",
+        "desc": "ان سائٹس کے لیے بند کیبنٹ طرز کا کنڈینسنگ یونٹ جن کو کھلی سکڈ کے بجائے ہاؤسڈ مشین کی ضرورت ہے۔"
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-قسم / اعلی صلاحیت کو کنڈینسنگ یونٹ",
+        "spec": "ملٹی فین ایئر کولڈ",
+        "desc": "بڑے کولڈ اسٹورز اور پروسیس کولنگ کے لیے ملٹی فین کنڈینسر کے ساتھ بڑا ایئر کولڈ کنڈینسنگ یونٹ۔"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "ہم کون ہیں۔",
+    "title": "B2B خریداروں کے لیے صنعتی کارخانہ دار",
+    "text": "وانڈا گروپ بیرون ملک تقسیم کاروں، OEM شراکت داروں اور پروجیکٹ کے خریداروں کے لیے صنعتی گیس سلنڈر، جنریٹر اور ویلڈنگ کے لوازمات تیار اور فراہم کرتا ہے۔",
+    "text2": "ہمارا فوکس فیکٹری سے منسلک سپلائی، پروڈکٹ سلیکشن سپورٹ، بلک آرڈرز اور ایکسپورٹ کوآرڈینیشن ہے - صارفین کی خوردہ فروخت نہیں۔",
+    "cta": "ہمارے بارے میں مزید جانیں۔"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "ایک اقتباس کی درخواست کرنے کے لیے تیار ہیں؟",
+      "quoteCta": "ایک اقتباس کی درخواست کریں۔",
+      "relatedProducts": "متعلقہ مصنوعات",
+      "applications": "ایپلی کیشنز",
+      "standardsTitle": "معیارات اور سرٹیفیکیشن",
+      "oemTitle": "OEM / حسب ضرورت",
+      "packagingTitle": "پیکیجنگ اور ترسیل",
+      "placeholders": {
+        "standards": "دستیاب معیارات اور سرٹیفکیٹس کی تصدیق فی آرڈر اور منزل منڈی میں ہوتی ہے۔ سرٹیفکیٹ کی کاپیاں درخواست پر نجی طور پر بھیجی جاتی ہیں — فائلیں ویب سائٹ پر شائع نہیں کی جاتی ہیں۔",
+        "oem": "آرڈر اور ٹارگٹ مارکیٹ کے مطابق OEM رنگ، مارکنگ، والو، ٹوپی اور پیکنگ کے اختیارات پر تبادلہ خیال کیا جا سکتا ہے۔",
+        "packaging": "برآمد پیکنگ اور دستاویزات آرڈر اور شپنگ کی شرائط کے مطابق تیار کی جاتی ہیں۔"
+      }
+    },
+    "home": {
+      "seoTitle": "گیس سلنڈر بنانے والا | صنعتی OEM اور برآمد | وانڈا گروپس",
+      "seoDescription": "وانڈا گروپ OEM، ہول سیل اور بین الاقوامی برآمدی خریداروں کے لیے صنعتی گیس سلنڈر، جنریٹر اور ویلڈنگ کے لوازمات تیار کرتا ہے۔"
+    },
+    "about": {
+      "label": "ہمارے بارے میں",
+      "title": "صنعتی خریداروں کے لیے گیس سلنڈر بنانے والا",
+      "subtitle": "ہم مصنوعات کے انتخاب، OEM، معائنہ، پیکنگ اور شپنگ کے ساتھ بیرون ملک خریداروں کی حمایت کرتے ہیں۔",
+      "seoTitle": "وانڈا گروپ کے بارے میں",
+      "seoDescription": "وانڈا گروپ ویلڈنگ، کٹنگ اور صنعتی گیس کی فراہمی کے لیے ایسٹیلین سلنڈر، پروپین سلنڈر، جنریٹر اور لوازمات تیار کرتا ہے۔"
+    },
+    "products": {
+      "label": "مصنوعات",
+      "title": "ہماری مصنوعات",
+      "subtitle": "صنعتی اور ویلڈنگ ایپلی کیشنز کے لیے ایسٹیلین سلنڈر، جنریٹر، پروپین سلنڈر اور لوازمات۔",
+      "seoTitle": "گیس سلنڈر کی مصنوعات",
+      "seoDescription": "صنعتی اور ویلڈنگ ایپلی کیشنز کے لیے ایسٹیلین سلنڈر، جنریٹر، پروپین سلنڈر اور لوازمات۔",
+      "refrigerationNote": "وانڈا انٹرنیشنل ٹریڈ گیس سلنڈر لائن کے ساتھ ریفریجریشن کا سامان فراہم کرتی ہے: یونٹ، پینل، کولر اور متعلقہ کولڈ چین ہارڈ ویئر۔ Copeland، Bitzer اور اسی طرح کے نام یونٹ کے اندر موجود کمپریسر برانڈ کا حوالہ دیتے ہیں، نہ کہ ان کمپنیوں کا ری برانڈ۔",
+      "catalog": {
+        "acetylene": {
+          "name": "تحلیل شدہ ایسٹیلین سلنڈر",
+          "overview": "محفوظ ایسٹیلین ذخیرہ کرنے اور نقل و حمل کے لیے غیر محفوظ ماس اور سالوینٹ کے ساتھ اسٹیل سلنڈر۔ ویلڈنگ، کاٹنے، بریزنگ اور میٹل فیبریکیشن میں استعمال کیا جاتا ہے۔",
+          "seoTitle": "ایسٹیلین گیس سلنڈر",
+          "seoDescription": "محفوظ ایسٹیلین ذخیرہ کرنے اور نقل و حمل کے لیے غیر محفوظ ماس اور سالوینٹ کے ساتھ اسٹیل سلنڈر۔ ویلڈنگ، کاٹنے، بریزنگ اور میٹل فیبریکیشن میں استعمال کیا جاتا ہے۔"
+        },
+        "propane": {
+          "name": "پروپین سلنڈر",
+          "overview": "پروپین، بیوٹین اور ایل پی جی مکسچر کے لیے سلنڈر۔ حرارتی، کاٹنے، بریزنگ، تعمیر اور صنعتی گیس کی فراہمی میں استعمال کیا جاتا ہے.",
+          "seoTitle": "پروپین گیس سلنڈر",
+          "seoDescription": "پروپین، بیوٹین اور ایل پی جی مکسچر کے لیے سلنڈر۔ حرارتی، کاٹنے، بریزنگ، تعمیر اور صنعتی گیس کی فراہمی میں استعمال کیا جاتا ہے."
+        },
+        "lpg": {
+          "name": "ایل پی جی سلنڈر",
+          "overview": "پروپین، بیوٹین اور ایل پی جی مکسچر کے لیے سلنڈر۔ حرارتی، کاٹنے، بریزنگ، تعمیر اور صنعتی گیس کی فراہمی میں استعمال کیا جاتا ہے.",
+          "seoTitle": "ایل پی جی گیس سلنڈر",
+          "seoDescription": "پروپین، بیوٹین اور ایل پی جی مکسچر کے لیے سلنڈر۔ حرارتی، کاٹنے، بریزنگ، تعمیر اور صنعتی گیس کی فراہمی میں استعمال کیا جاتا ہے."
+        },
+        "industrial": {
+          "name": "صنعتی گیس سلنڈر",
+          "overview": "ویلڈنگ، کٹنگ اور پلانٹ کی سپلائی کے لیے صنعتی گیس سلنڈر — بشمول ایسیٹیلین، پروپین اور ایل پی جی آپشنز جو آپ کی مارکیٹ سے مماثل ہیں۔",
+          "seoTitle": "صنعتی گیس سلنڈر",
+          "seoDescription": "وانڈا گروپ سے ویلڈنگ، کٹنگ اور پلانٹ کی فراہمی کے لیے صنعتی گیس سلنڈر۔"
+        },
+        "generators": {
+          "name": "ایسیٹیلین جنریٹرز",
+          "overview": "کیلشیم کاربائیڈ سے ایسٹیلین بنانے کا سامان۔ مرکزی گیس کے بنیادی ڈھانچے کے بغیر ویلڈنگ اور صنعتی ضروریات کے لیے مستحکم گیس کی فراہمی۔",
+          "seoTitle": "ایسیٹیلین جنریٹرز",
+          "seoDescription": "کیلشیم کاربائیڈ سے ایسٹیلین بنانے کا سامان۔ مرکزی گیس کے بنیادی ڈھانچے کے بغیر ویلڈنگ اور صنعتی ضروریات کے لیے مستحکم گیس کی فراہمی۔"
+        },
+        "accessories": {
+          "name": "سلنڈر کے لوازمات اور متعلقہ اشیاء",
+          "overview": "گیس سلنڈر کے محفوظ آپریشن کے لیے مکمل رینج: گیجز سے لے کر ویلڈنگ ٹارچ تک۔ سلنڈروں کے ساتھ ون سٹاپ پروکیورمنٹ۔",
+          "seoTitle": "ویلڈنگ کے لوازمات",
+          "seoDescription": "گیس سلنڈر کے محفوظ آپریشن کے لیے مکمل رینج: گیجز سے لے کر ویلڈنگ ٹارچ تک۔ سلنڈروں کے ساتھ ون سٹاپ پروکیورمنٹ۔"
+        },
+        "refrigeration": {
+          "name": "ریفریجریشن یونٹس",
+          "overview": "ایک علیحدہ وانڈا گروپ لائن — فریق ثالث کی کیٹلاگ نہیں۔ کنڈینسنگ یونٹس، کولڈ رومز اور ہارڈ ویئر، جو ہمارے ذریعہ سلنڈر کے ساتھ یا اسٹینڈ اکیلے آرڈر کے طور پر فراہم کیے جاتے ہیں۔",
+          "seoTitle": "ریفریجریشن یونٹس",
+          "seoDescription": "ایک علیحدہ وانڈا گروپ لائن — فریق ثالث کی کیٹلاگ نہیں۔ کنڈینسنگ یونٹس، کولڈ رومز اور ہارڈ ویئر، جو ہمارے ذریعہ سلنڈر کے ساتھ یا اسٹینڈ اکیلے آرڈر کے طور پر فراہم کیے جاتے ہیں۔"
+        }
+      }
+    },
+    "factory": {
+      "label": "کارخانہ",
+      "title": "فیکٹری اور مینوفیکچرنگ",
+      "subtitle": "پیداوار، معائنہ، پیکنگ اور ڈسپیچ — اصلی پلانٹ فوٹو گرافی اور فیکٹری ویڈیوز کے ساتھ دستاویزی۔",
+      "seoTitle": "فیکٹری اور پیداوار | وانڈا گروپس",
+      "seoDescription": "پلانٹ کی اصلی تصاویر، لائیو ڈسپیچ شاٹس، اور پروڈکشن فلور سے مختصر ویڈیوز۔",
+      "sections": [
+        {
+          "title": "مینوفیکچرنگ",
+          "text": "پلانٹ کی پیداوار کے بہاؤ کے حصے کے طور پر سلنڈر کی تشکیل، ویلڈنگ اور فنشنگ۔"
+        },
+        {
+          "title": "پیداواری عمل",
+          "text": "شیل کی تیاری سے لے کر اسمبلی اور فنشنگ تک — ان پروسیس اسٹاک اور پروڈکشن فلور فوٹیج دیکھیں۔"
+        },
+        {
+          "title": "معیار کا معائنہ",
+          "text": "بصری، مارکنگ اور جہتی چیک شپمنٹ کے لیے سلنڈروں کی تیاری۔"
+        },
+        {
+          "title": "ٹیسٹنگ",
+          "text": "آرڈر کی ضروریات کے مطابق، مصنوعات کی لائن چھوڑنے سے پہلے دباؤ اور لیک ٹیسٹنگ کا اطلاق ہوتا ہے۔"
+        },
+        {
+          "title": "پیکجنگ",
+          "text": "برآمدی پیکنگ بیرون ملک نقل و حمل کے لیے سلنڈروں اور متعلقہ اشیاء کی حفاظت کرتی ہے۔"
+        },
+        {
+          "title": "لوڈنگ اور ایکسپورٹ",
+          "text": "آؤٹ باؤنڈ آرڈرز کے لیے گودام سٹیجنگ، ٹرک لوڈنگ اور ڈسپیچ دستاویزات۔"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "سرٹیفیکیشنز",
+      "title": "سرٹیفیکیشن اور معیارات",
+      "subtitle": "عام طور پر خریداروں کے ذریعہ درخواست کردہ معیارات ذیل میں درج ہیں۔ قابل اطلاق مصنوعات اور منزل کی منڈی پر منحصر ہے۔ درخواست پر سرٹیفکیٹ کی کاپیاں، نمبرز اور درستگی کا اشتراک نجی طور پر کیا جاتا ہے - غیر تصدیق شدہ دعووں کے بطور شائع نہیں کیا جاتا۔",
+      "seoTitle": "سرٹیفیکیشن اور معیارات | وانڈا گروپس",
+      "seoDescription": "مارکیٹ کے لحاظ سے وانڈا گروپس کے گیس سلنڈرز کے معیارات پر تبادلہ خیال کیا گیا۔ درخواست پر سرٹیفکیٹ کی کاپیاں نجی طور پر فراہم کی جاتی ہیں۔",
+      "note": "درخواست پر سرٹیفکیٹ کی کاپیاں نجی طور پر بھیجی جاتی ہیں۔ ہم ویب سائٹ پر سرٹیفکیٹ فائلیں شائع نہیں کرتے ہیں۔"
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM اور تھوک",
+      "subtitle": "تقسیم کاروں اور صنعتی خریداروں کے لیے نجی لیبل اور بلک سپلائی کے اختیارات۔",
+      "seoTitle": "OEM گیس سلنڈر کی فراہمی",
+      "seoDescription": "بیرون ملک مقیم برانڈز اور تقسیم کاروں کے لیے OEM اور نجی لیبل گیس سلنڈر کی تیاری۔",
+      "quoteTitle": "OEM کی ضروریات پر تبادلہ خیال کریں۔",
+      "quoteCta": "OEM اقتباس کی درخواست کریں۔",
+      "capabilities": [
+        {
+          "title": "حسب ضرورت لوگو",
+          "text": "OEM آرڈرز کو اہل بنانے کے لیے لوگو اور مارکنگ کے اختیارات پر تبادلہ خیال کیا گیا۔"
+        },
+        {
+          "title": "حسب ضرورت رنگ",
+          "text": "مارکیٹ یا برانڈ کی ضروریات کے مطابق سلنڈر کا رنگ۔"
+        },
+        {
+          "title": "اپنی مرضی کے مطابق پیکیجنگ",
+          "text": "آرڈر کے مطابق کارٹن، پیلیٹ اور پیکنگ مارکس برآمد کریں۔"
+        },
+        {
+          "title": "پرائیویٹ لیبل",
+          "text": "تقسیم کار چینلز کے لیے لیبلنگ اور برانڈ پریزنٹیشن۔"
+        },
+        {
+          "title": "بلک آرڈرز",
+          "text": "پروجیکٹ اور ڈسٹری بیوٹر پروکیورمنٹ کے لیے تھوک مقدار۔"
+        },
+        {
+          "title": "OEM مینوفیکچرنگ",
+          "text": "مصنوعات کی ترتیب آپ کی تفصیلات اور مارکیٹ کے ساتھ منسلک ہے۔"
+        },
+        {
+          "title": "ایکسپورٹ سپورٹ",
+          "text": "بیرون ملک ترسیل کے لیے دستاویزات اور شپنگ کوآرڈینیشن۔"
+        }
+      ]
+    },
+    "markets": {
+      "label": "منڈیاں",
+      "title": "گلوبل مارکیٹس",
+      "subtitle": "ہم بین الاقوامی B2B خریداروں کی حمایت کرتے ہیں۔ ذیل کے علاقے عام انکوائری کے شعبوں کی وضاحت کرتے ہیں — مخصوص ممالک اور پروجیکٹس کیس کے حساب سے تصدیق شدہ ہیں۔",
+      "seoTitle": "عالمی منڈیاں | وانڈا گروپس ایکسپورٹ",
+      "seoDescription": "وانڈا گروپ افریقہ، مشرق وسطیٰ، وسطی ایشیا، جنوب مشرقی ایشیا، لاطینی امریکہ اور دیگر مارکیٹوں میں بین الاقوامی صنعتی خریداروں کے ساتھ کام کرتا ہے۔",
+      "note": "ہم اس صفحہ پر غیر تصدیق شدہ ممالک کی تعداد، گاہک کے نام یا پروجیکٹ کے حوالے شائع نہیں کرتے ہیں۔",
+      "regions": [
+        {
+          "title": "افریقہ",
+          "text": "افریقی منڈیوں سے صنعتی اور ڈسٹری بیوٹر کی پوچھ گچھ۔"
+        },
+        {
+          "title": "مشرق وسطیٰ",
+          "text": "ریجنل پراجیکٹس کے لیے سلنڈر اور متعلقہ سامان کی خریداری کرنے والے خریدار۔"
+        },
+        {
+          "title": "وسطی ایشیا",
+          "text": "وسطی ایشیائی منڈیوں میں تھوک اور پراجیکٹ سپلائی پر بات چیت۔"
+        },
+        {
+          "title": "جنوب مشرقی ایشیا",
+          "text": "صنعتی خریدار برآمدی سلنڈر کی فراہمی کا جائزہ لے رہے ہیں۔"
+        },
+        {
+          "title": "لاطینی امریکہ",
+          "text": "صنعتی گیس سلنڈر اور آلات کی فراہمی کے لیے پوچھ گچھ۔"
+        },
+        {
+          "title": "دیگر بین الاقوامی منڈیاں",
+          "text": "مصنوعات کے معیار اور لاجسٹکس کے مطابق اضافی منزلوں کا جائزہ لیا جاتا ہے۔"
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "ایپلی کیشنز",
+      "title": "سلنڈر ایپلی کیشنز",
+      "subtitle": "عام صنعتی گیس کے کاموں اور بیرون ملک خریدار کی ضروریات کے لیے تیار کردہ مصنوعات۔",
+      "seoTitle": "سلنڈر ایپلی کیشنز",
+      "seoDescription": "عام صنعتی گیس کے کاموں اور بیرون ملک خریدار کی ضروریات کے لیے تیار کردہ مصنوعات۔",
+      "items": [
+        {
+          "title": "ویلڈنگ اور بریزنگ",
+          "text": "ورکشاپ اور فیبریکیشن ویلڈنگ کے لیے تحلیل شدہ ایسٹیلین اور متعلقہ سامان۔"
+        },
+        {
+          "title": "دھاتی کٹنگ",
+          "text": "سائٹ پر اور پلانٹ میں آکسی ایندھن کی کٹائی کے لیے سلنڈر اور لوازمات۔"
+        },
+        {
+          "title": "صنعتی گیس کی فراہمی",
+          "text": "صنعتی تقسیم اور پلانٹ گیس کے نظام کے لیے سلنڈر کی فراہمی۔"
+        },
+        {
+          "title": "تعمیر",
+          "text": "تعمیراتی اور دیکھ بھال کے کام کے لیے پورٹیبل گیس کی فراہمی۔"
+        },
+        {
+          "title": "میٹل فیبریکیشن",
+          "text": "فیبریکیشن شاپس اور شپ یارڈز کے لیے سلنڈر اور لوازمات۔"
+        },
+        {
+          "title": "گیس ذخیرہ اور تقسیم",
+          "text": "صنعتی خریداروں کے لیے ذخیرہ اور تقسیم کے لیے تیار سلنڈر۔"
+        }
+      ]
+    },
+    "faq": {
+      "label": "اکثر پوچھے گئے سوالات",
+      "title": "اکثر پوچھے گئے سوالات",
+      "subtitle": "کمپنی، پروڈکٹس، OEM اور ایکسپورٹ — بیرون ملک خریداروں کے جوابات اس سے پہلے کہ آپ اقتباس کی درخواست کریں۔",
+      "seoTitle": "اکثر پوچھے گئے سوالات",
+      "seoDescription": "کمپنی، پروڈکٹس، OEM اور ایکسپورٹ — بیرون ملک خریداروں کے جوابات اس سے پہلے کہ آپ اقتباس کی درخواست کریں۔"
+    },
+    "contactPage": {
+      "label": "رابطہ کریں۔",
+      "title": "آئیے آپ کی ضروریات پر تبادلہ خیال کریں۔",
+      "subtitle": "فارم، ای میل یا میسنجر کے ذریعے ہماری سیلز ٹیم تک پہنچیں۔ تیز تر کوٹیشن کے لیے پروڈکٹ، مقدار اور منزل کا اشتراک کریں۔",
+      "seoTitle": "ایک اقتباس کی درخواست کریں۔",
+      "seoDescription": "ہمیں سائز، مقدار، منزل کا ملک اور درخواست بتائیں - ہم ایک تفصیلی اقتباس تیار کریں گے۔"
+    },
+    "blog": {
+      "label": "بلاگ",
+      "title": "تازہ ترین مضامین",
+      "subtitle": "ویلڈنگ اور گیس کی فراہمی کے پیشہ ور افراد کے لیے ماہرانہ مواد۔",
+      "seoTitle": "مضامین اور رہنما",
+      "seoDescription": "ویلڈنگ اور گیس کی فراہمی کے پیشہ ور افراد کے لیے ماہرانہ مواد۔",
+      "coming": "مزید خریدار گائیڈز اور پروڈکٹ نوٹ یہاں شامل کیے جائیں گے۔ اوپر دیے گئے مضامین کا استعمال کریں یا پروڈکٹ کے لیے مخصوص مواد کے لیے ہم سے رابطہ کریں۔"
+    },
+    "privacy": {
+      "seoTitle": "رازداری کی پالیسی",
+      "seoDescription": "وانڈا گروپ کی ویب سائٹ کی پوچھ گچھ اور ذاتی ڈیٹا کے لیے رازداری کی پالیسی۔"
+    },
+    "terms": {
+      "seoTitle": "استعمال کی شرائط",
+      "seoDescription": "وانڈا گروپ کی ویب سائٹ کے لیے استعمال کی شرائط۔"
+    },
+    "notFound": {
+      "seoTitle": "صفحہ نہیں ملا",
+      "seoDescription": "آپ کا درخواست کردہ صفحہ دستیاب نہیں ہے۔",
+      "title": "صفحہ نہیں ملا",
+      "text": "آپ جس صفحہ کی تلاش کر رہے ہیں وہ موجود نہیں ہے یا منتقل ہو گیا ہے۔",
+      "home": "گھر",
+      "products": "مصنوعات",
+      "contact": "رابطہ کریں / ایک اقتباس حاصل کریں۔"
+    }
   }
 }

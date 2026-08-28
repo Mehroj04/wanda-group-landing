@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Pradžia",
     "products": "Produktai",
     "specs": "Specifikacijos",
     "applications": "Programos",
     "about": "Apie",
     "gallery": "Galerija",
+    "factory": "Gamykla",
     "quality": "Kokybė",
     "faq": "DUK",
     "contact": "Susisiekite",
@@ -13,44 +15,42 @@
     "services": "Paslaugos",
     "pricing": "Kainodara",
     "accessories": "Priedai",
-    "home": "Pradžia",
-    "factory": "Gamykla",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Šaltas sandėliavimas",
+    "cooling": "Aušinimas",
+    "certifications": "Sertifikatai",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Rinkos"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Pramoninių dujų balionų gamintojas",
+    "title": "Pramoninių dujų balionų ir įrangos gamintojas",
+    "subtitle": "Acetileno balionų, propano/SND balionų, generatorių ir suvirinimo reikmenų gamyba, OEM ir didmeninis tiekimas tarptautiniams eksporto pirkėjams.",
+    "lineGas": "Dujų balionai",
+    "lineCold": "Šaldymo įrenginiai",
+    "cta": "Gaukite citatą",
+    "ctaSecondary": "Peržiūrėti produktus",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Į gamintoją orientuotas tiekimas"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Privati ​​etiketė ir pritaikymas"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Tarptautinio siuntimo palaikymas"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Patikrinimo ir testavimo procesas"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Konkrečios rinkos parinktys pagal pageidavimą"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Patikimi dujų balionų priedai",
@@ -59,34 +59,34 @@
   },
   "products": {
     "title": "Mūsų gaminiai",
-    "subtitle": "Acetileno balionai, generatoriai, propano cilindrai ir priedai, skirti pramoniniams ir suvirinimo darbams.",
+    "subtitle": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+    "viewDetails": "Peržiūrėti išsamią informaciją",
     "items": [
       {
         "title": "Acetileno cilindras",
-        "desc": "Ištirpusio acetileno balionai suvirinimui, pjovimui ir pramoninėms dujoms. Įvairių dydžių ir vožtuvų variantų.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · standartai patvirtinti kiekvienoje rinkoje",
+        "desc": "Ištirpusio acetileno balionai suvirinimui, pjovimui ir pramoninių dujų tiekimui.",
+        "icon": "🔥"
       },
       {
         "title": "Acetileno generatorius",
-        "desc": "Įranga stabiliai dujų gamybai, paprastam naudojimui ir pramoniniam naudojimui.",
-        "icon": "⚙️",
-        "spec": "Pramoninės gamybos sistemos"
+        "spec": "Pramoninės gamybos sistemos",
+        "desc": "Įranga stabiliai acetileno gamybai vietoje ir gamykloje.",
+        "icon": "⚙️"
       },
       {
         "title": "Propano cilindras",
-        "desc": "Patvarūs balionai propanui ir SND – saugojimui, šildymui, pjaustymui ir pramoniniam naudojimui.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · vožtuvų parinktys kiekvienai rinkai",
+        "desc": "Patvarūs SND balionai, skirti šildymui, pjovimui ir pramoniniam naudojimui.",
+        "icon": "🛢️"
       },
       {
         "title": "Cilindrų priedai",
-        "desc": "Žarnos, matuokliai, pjovimo degikliai, suvirinimo degikliai, apsauginiai vožtuvai ir kt.",
-        "icon": "🔧",
-        "spec": "Vožtuvai · reguliatoriai · žarnos · degikliai"
+        "spec": "Vožtuvai · reguliatoriai · žarnos · degikliai",
+        "desc": "Atitinkamos jungiamosios detalės tiekiamos su cilindrais arba pagal atskirą užsakymą.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Peržiūrėti išsamią informaciją"
+    ]
   },
   "specs": {
     "title": "Techninės specifikacijos",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Kodėl verta rinktis Wanda grupes",
+    "subtitle": "Konkrečios galimybės pramoniniams pirkėjams, vertinantiems gamybos partnerį.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Į gamintoją orientuotas tiekimas",
+        "desc": "Produktų pasiūla orientuota į gamybą, ne tik prekybą katalogais."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM palaikymas",
+        "desc": "Individuali spalva, žymėjimas, vožtuvas ir pakuotė aptariami pagal užsakymą."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kokybės kontrolė",
+        "desc": "Patikrinimas nuo medžiagų iki pakavimo prieš išsiunčiant."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Tarptautinis eksportas",
+        "desc": "Eksporto pakavimo ir siuntimo koordinavimas pirkėjams užsienyje."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Produkto pritaikymas",
+        "desc": "Specifikacijos pritaikytos rinkos ir taikymo reikalavimams."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Atsakingas pardavimų palaikymas",
+        "desc": "Citatos ir techniniai atsakymai per formą, el. paštą ir pasiuntinius."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Masinio užsakymo galimybė",
+        "desc": "Didmeniniai kiekiai remiami platintojams ir projektų pirkėjams."
       }
     ]
   },
   "about": {
-    "title": "Profesionalus dujų balionų gamintojas",
-    "text": "„Wanda Group“ dujų balionų gamintojas specializuojasi pramoninių dujų balionų ir susijusių priedų gamyboje ir tiekime. Mūsų gaminiai plačiai naudojami suvirinimo, pjovimo, dujų paskirstymo, pramoninio sandėliavimo ir kitose dujų tiekimo srityse.",
-    "text2": "Mes palaikome užsienio pirkėjus gaminių pasirinkimo, pritaikymo, kokybės tikrinimo, pakavimo ir pristatymo koordinavimo srityse.",
+    "title": "Dujų balionų gamintojas pramoniniams pirkėjams",
+    "text": "Wanda Group gamina acetileno balionus, propano balionus, generatorius ir priedus, skirtus suvirinimui, pjovimui ir pramoninių dujų tiekimui.",
+    "text2": "Mes palaikome užsienio pirkėjus su produktų pasirinkimu, OEM, tikrinimu, pakavimu ir pristatymu.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Gamyba",
+        "desc": "Pramoninių dujų balionų formavimas, suvirinimas, bandymas ir apdaila."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM palaikymas",
+        "desc": "Spalva, žymėjimas, vožtuvas, dangtelis ir pakavimo galimybės pagal užsakymą."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kokybės procesas",
+        "desc": "Patikra ir bandymai, atitinkantys užsakymo ir rinkos reikalavimus."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Tarptautinis eksportas",
+        "desc": "Dokumentacijos ir pakavimo palaikymas užsienio pramonės pirkėjams."
       }
     ]
   },
   "gallery": {
     "title": "Mūsų gamyklos viduje",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Tikros augalų nuotraukos, tiesioginės siuntimo nuotraukos ir trumpi vaizdo įrašai iš gamybos patalpos.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Naktinis išsiuntimas",
+        "desc": "Pakrauta priekaba, išvykstanti su apvyniota įranga – laikas ir vieta pažymėta ant kadro."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Krovinys paruoštas siuntimui",
+        "desc": "Padėklai ir dalys surinktos išsiuntimui. Gyva sandėlio nuotrauka, o ne studijos komplektas."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Supakuotos atsargos",
+        "desc": "Dėžutės sukrautos sandėlyje, paruoštos kitam išvežamam užsakymui."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Supakuota išsiuntimui",
+        "desc": "Cilindrai suvynioti ir pastatyti gamyklos kieme siuntimui."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Gamybos konvejeris",
+        "desc": "Cilindrų korpusai juda per formavimo ir tvarkymo liniją."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG apdailos linija",
+        "desc": "Prieš pakavimą ant viršutinio konvejerio dažyti SND balionai."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Augalo viduje",
+        "desc": "Gamybos salė – žmonės, mašinos ir gamybinės atsargos."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Suvirinti cilindrų korpusai",
+        "desc": "Korpusai po apskrito suvirinimo, prieš dažymą ir vožtuvai."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Lukštai prieš dažymą",
+        "desc": "Nedažyti kūnai ant grindų dedami kitam proceso etapui."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Apdorojamos atsargos",
+        "desc": "Vamzdžių sekcijos ir uždengti korpusai laukia surinkimo."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Cilindrų kėbulai sandėlyje",
+        "desc": "Valcuoti apvalkalai, sukrauti po suvirinimo, prieš galvutes ir vožtuvus."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Baziniai žiedai",
+        "desc": "Kojų žiedai, paruošti suvirinimui ant cilindrų korpusų."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Supakuota furnitūra",
+        "desc": "Vožtuvai ir jungiamosios detalės supakuotos su putplasčiu eksportui."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Acetileno generatorius",
+        "desc": "Generatoriaus blokas su žarna ir jungiamosiomis detalėmis, paruoštas palikti gamyklą."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Kriauklės ant grindų",
+        "desc": "Atviro kakliuko korpusai po suvirinimo – partija prieš sumontuojant vožtuvą."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Gamyklos vaizdo įrašai",
+    "videosSubtitle": "Nauji šortai iš gamyklos grindų. Daugiau filmuotos medžiagos siunčiame privačiai pagal pageidavimą."
   },
   "quality": {
     "title": "Kokybės kontrolė",
     "subtitle": "Kiekviena partija eina tuo pačiu keliu: gamyba, bandymai, tikrinimas ir galutinė kokybės kontrolė.",
     "steps": [
       {
-        "title": "Gamyba",
-        "desc": "Formavimas, suvirinimas ir surinkimas kontroliuojant gamyklos procesą."
+        "title": "Žaliava",
+        "desc": "Gaunamos medžiagos peržiūrimos pagal užsakymo ir proceso reikalavimus."
       },
       {
-        "title": "Testavimas",
-        "desc": "Slėgio ir nuotėkio bandymai prieš išleidžiant balionus iš linijos."
+        "title": "Gamyba",
+        "desc": "Formavimas, suvirinimas ir surinkimas kontroliuojant gamyklos procesą."
       },
       {
         "title": "Apžiūra",
         "desc": "Vizualinis, ženklinimo ir matmenų patikrinimas pagal užsakymą."
       },
       {
-        "title": "Galutinė kokybės kontrolė",
-        "desc": "Pakuotės patikrinimas prieš eksportuojant."
+        "title": "Testavimas",
+        "desc": "Slėgio ir nuotėkio bandymai prieš išleidžiant balionus iš linijos."
+      },
+      {
+        "title": "Galutinis QC",
+        "desc": "Galutinė kokybės kontrolė prieš išleidžiant pakuoti."
+      },
+      {
+        "title": "Pakuotė",
+        "desc": "Eksportinė pakuotė paruošta transportavimui."
+      },
+      {
+        "title": "Siuntimas",
+        "desc": "Išvežamų užsakymų dokumentų pakrovimas ir išsiuntimas."
       }
     ]
   },
   "faq": {
     "title": "Dažnai užduodami klausimai",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Įmonė, produktai, OĮG ir eksportas – atsakymai užsienio pirkėjams prieš pateikdami užklausą dėl kainos.",
     "cta": "Neradote savo klausimo? Atsiųskite prekę, dydį, kiekį ir paskirties šalį – atsakysime pateiksime išsamų pasiūlymą.",
     "ctaBtn": "Gaukite citatą",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Vaizdo įrašai ir dokumentai",
         "items": [
           {
             "q": "Ar galiu žiūrėti gamyklinius vaizdo įrašus prieš pateikdamas užsakymą?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Taip. Žiūrėkite gamybos vaizdo įrašus šio puslapio gamyklos skiltyje. Papildoma filmuota medžiaga, pakavimo klipai ir sertifikatai siunčiami privačiai pagal pageidavimą."
           },
           {
             "q": "Ar pateikiate produktų vaizdo įrašus, ypač apie acetileno balionus?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Taip. Vaizdo įrašai, nuotraukos ir išsami informacija apie acetileno balionus siunčiami privačiai pagal Jūsų pageidavimą."
           },
           {
             "q": "Ar galite parodyti gamybos ir kokybės kontrolės vaizdo įrašus?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Taip. Turimi vaizdo įrašai apie gamybą, kokybės patikrinimą, pakavimą ir sandėliavimą sandėlyje siunčiami privačiai, kad galėtumėte matyti kaip gaminami produktai."
           },
           {
             "q": "Ar galiu paprašyti produkto vaizdo įrašo, sukurto konkrečiam užsakymui?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Dėl konkretaus užsakymo ar gaminio reikalavimų susisiekite su mumis – aptarsime vaizdo palaikymą ir atsiųsime medžiagą privačiai."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Kaip gauti vaizdo įrašus, sertifikatus ir citatą?",
+            "a": "Užklausos formoje nurodykite prekės tipą, baliono dydį, kiekį, paskirties šalį ir ką siųsti: vaizdo įrašus, sertifikatus ar abu. Atsiųsime juos privačiai ir paruošime pasiūlymą."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Ar galite pateikti produkto nuotraukas ir specifikacijas?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Taip. Produkto nuotraukos, specifikacijos ir duomenų lapai siunčiami privačiai pagal pageidavimą."
           },
           {
             "q": "Kaip gauti aksesuarų kainą?",
@@ -427,56 +439,117 @@
         "title": "Acetileno balionų pirkimo biudžeto vadovas",
         "desc": "Veiksniai, įtakojantys išlaidas ir kaip pasirinkti optimalų pasiūlymą.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Taip pat atsižvelgiama į pristatymą (FOB / CIF), dokumentus ir MOQ. Mes atsakome per 24 valandas, pateikdami visas specifikacijas, pristatymo laiką ir „Incoterms“.",
+          "Acetileno baliono kaina priklauso nuo tūrio, vožtuvo tipo, reikiamų standartų jūsų paskirties rinkoje ir užsakymo kiekio. Svetainėje neskelbiame fiksuotų mažmeninių kainų.",
+          "Didesnės partijos ir OEM parinktys (dažymas, logotipas, pakavimas) pateikiamos atskirai, kai peržiūrime jūsų užklausą.",
+          "Pristatymo sąlygos (FOB/CIF ir panašiai), dokumentai ir pristatymo laikas patvirtinami oficialioje citatoje.",
           "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Prašyti kainos pasiūlymo",
-    "subtitle": "Nurodykite dydį, kiekį, paskirties šalį ir paraišką – mes parengsime išsamią pasiūlymą.",
+    "title": "Aptarsime jūsų reikalavimus",
+    "subtitle": "Nurodykite produktą, dydį, kiekį, paskirties šalį ir specifikacijas – mūsų pardavimo komanda atsakys pateikdama informaciją apie produktą ir pasiūlymą.",
     "formTitle": "Prašyti kainos pasiūlymo",
-    "formSubtitle": "Palikite savo reikalavimus – mūsų pardavimo komanda pateiks informaciją apie produktą, kainas, MOQ ir pristatymo laiką.",
+    "formSubtitle": "Užpildykite komercinės užklausos formą. Privalomi laukai pažymėti.",
     "name": "Vardas",
+    "company": "Įmonė",
     "phone": "Telefonas / WhatsApp",
     "email": "El. paštas",
     "product": "Produktas",
-    "quantity": "Kiekis",
-    "country": "Paskirties šalis",
+    "quantity": "Kiekis (neprivaloma)",
+    "country": "Paskirties šalis (neprivaloma)",
     "productOptions": [
       "Acetileno cilindras",
       "Propano cilindras",
       "Acetileno generatorius",
       "Priedai",
-      "Cold storage / refrigeration",
+      "Šaldymas/šaldymas",
       "Paketo užsakymas"
     ],
+    "quantityPlaceholder": "pvz. 200 vnt, 1 konteineris arba TBD",
+    "countryPlaceholder": "Kur bus siunčiamos prekės",
     "message": "Papildomi reikalavimai",
     "messagePlaceholder": "Produktas, dydis, kiekis, paskirties šalis...",
-    "submit": "Siųsti užklausą",
+    "submit": "Pateikti užklausą",
     "sending": "Siunčiama...",
     "success": "Ačiū! Netrukus su jumis susisieksime.",
     "sendAnother": "Siųsti kitą užklausą",
     "errorGeneric": "Nepavyko išsiųsti. Bandykite dar kartą arba parašykite mums tiesiogiai el. paštu.",
-    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
-    "privacyPrefix": "Sutinku su",
-    "privacySuffix": "ir mano asmens duomenų tvarkymui, kad būtų galima atlikti šį užklausą.",
-    "privacyLink": "Privatumo politika",
-    "company": "Įmonė",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Siųsti per el. pašto programą",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Sutinku su",
+    "privacySuffix": ", ir mano asmens duomenų tvarkymui, kad būtų galima atlikti šį užklausą.",
+    "privacyLink": "Privatumo politika",
+    "termsAnd": "ir",
+    "termsLink": "Naudojimo sąlygos",
+    "requirements": "Reikalavimai / Specifikacijos",
+    "requirementsPlaceholder": "Vožtuvo tipas, spalva, standartas, pakuotė, OEM žymėjimas, kiekio pastabos..."
   },
   "footer": {
     "company": "„Wanda Group“ dujų balionų gamintojas",
     "tagline": "Profesionali dujų balionų gamyba",
     "rights": "© „Wanda Group“, 2026 m. Visos teisės saugomos.",
     "privacy": "Privatumo politika",
-    "terms": "Terms of Use"
+    "terms": "Naudojimo sąlygos"
+  },
+  "privacy": {
+    "label": "Teisinė",
+    "title": "Privatumo politika",
+    "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 25 d",
+    "intro": [
+      "„Wanda Group“ („mes“, „mes“) valdo šią svetainę, siekdama pristatyti dujų balionus, priedus ir susijusius eksporto tiekimus bei gauti pramoninių pirkėjų komercinius užklausas.",
+      "Šioje politikoje paaiškinama, kokius asmens duomenis renkame per svetainę, kodėl juos naudojame ir kaip galite dėl to su mumis susisiekti. Gamyklos gamybos vaizdo įrašai rodomi šioje svetainėje. Paprašius sertifikatų failai siunčiami privačiai."
+    ],
+    "sections": [
+      {
+        "title": "Kas atsakingas",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Kokius duomenis renkame",
+        "body": [
+          "Kai siunčiate užklausos formą, gauname jūsų įvestus duomenis: vardą, pavardę, el. paštą, telefoną, paskirties šalį, prekės tipą, kiekį ir žinutę.",
+          "Svetainė taip pat išsaugo jūsų pasirinktą kalbą naršyklėje (localStorage). Mes nenaudojame reklaminių slapukų ir neparduodame lankytojų sąrašų."
+        ]
+      },
+      {
+        "title": "Kodėl mes naudojame duomenis",
+        "body": [
+          "Užklausos duomenis naudojame tik atsakydami į Jūsų užklausą, parengdami citatą, atsiųsdami informaciją apie produktą, vaizdo įrašus ar sertifikatus, kurių paprašėte, ir derindami užsakymą, jei pradėsime dirbti kartu.",
+          "Teisinis pagrindas: jūsų sutikimas, kai pažymite žymimąjį laukelį formoje, ir mūsų teisėtas interesas atsakyti į B2B pardavimo užklausas."
+        ]
+      },
+      {
+        "title": "Kas gauna duomenis",
+        "body": [
+          "Jūsų žinutė mūsų pardavimų komandai pristatoma el. paštu. Formą apdoroja Web3Forms, techninis tiekėjas, perduodantis mums pranešimą.",
+          "Mes neparduodame asmens duomenų. Su logistikos, tikrinimo ar bankininkystės partneriais galime dalytis tuo, ko reikia tik tuo atveju, jei to reikia sutartam užsakymui įvykdyti."
+        ]
+      },
+      {
+        "title": "Kiek laiko mes jį laikome",
+        "body": [
+          "Užklausos duomenys saugomi tiek, kiek reikia užklausai nagrinėti, o po to protingą laikotarpį pardavimų stebėjimui ir apskaitai, nebent paprašysite anksčiau juos ištrinti, kai tai leidžia įstatymai."
+        ]
+      },
+      {
+        "title": "Jūsų teisės",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Saugumas ir vaikai",
+        "body": [
+          "Mes imamės pagrįstų techninių ir organizacinių veiksmų, kad apsaugotume siunčiamus ir mūsų pašto dėžutės pranešimus. Ši svetainė skirta verslo pirkėjams, o ne vaikams."
+        ]
+      }
+    ],
+    "contactLead": "Klausimai apie šią politiką:"
   },
   "ui": {
     "catalog": "Katalogas",
@@ -494,6 +567,7 @@
     "location": "Vieta",
     "quoteResponse": "Citatos atsakymas",
     "support": "Palaikymas",
+    "countriesServed": "Eksporto palaikymas",
     "exportReady": "Paruošta eksportuoti",
     "years": "Metai",
     "acetylene": "Acetilenas",
@@ -508,17 +582,25 @@
     "quality": "Kokybė",
     "faq": "DUK",
     "blog": "Dienoraštis",
-    "countriesServed": "Aptarnaujamos šalys",
     "searchLanguage": "Ieškoti kalbos...",
-    "noLanguagesFound": "Kalbų nerasta"
+    "noLanguagesFound": "Kalbų nerasta",
+    "breadcrumb": "Duonos trupiniai",
+    "primaryNav": "Pirminis",
+    "menu": "Meniu",
+    "playVideo": "Leisti vaizdo įrašą",
+    "productGallery": "Produktų galerija",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / privati ​​etiketė",
+    "Tarptautinis eksportas",
+    "Kokybės kontrolė",
+    "Rinkos standartai pagal užsakymą",
+    "Masiniai užsakymai"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Sertifikavimas",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumentai muitinei ir reguliavimo institucijoms. Paprašius, kopijos siunčiamos privačiai.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS ir kokybės sertifikatas",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Kainos ir tiekimo sąlygos",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Komercinės sąlygos patvirtinamos pagal užklausą. Siųskite gaminio, kiekio ir paskirties informaciją, kad gautumėte oficialią citatą.",
+    "note": "Šioje svetainėje neskelbiame fiksuotų sąrašo kainų, MOQ ar pristatymo laiko. Tikslios komercinės sąlygos patvirtinamos citatoje, kai peržiūrime jūsų reikalavimus.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Kainodara",
+        "value": "Pagal pageidavimą",
+        "desc": "Oficiali citata po užklausos peržiūros"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Patvirtinta pagal užsakymą",
+        "desc": "Priklauso nuo modelio ir paskirties vietos"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Pristatymo laikas",
+        "value": "Patvirtinta pagal užsakymą",
+        "desc": "Pasidalinta su citata"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Mokėjimas",
+        "value": "Sutarta sutartyje",
+        "desc": "Sąlygos patvirtintos prieš gaminant"
       }
     ],
     "factors": {
-      "title": "Kainos veiksniai",
+      "title": "Kas turi įtakos citatai",
       "items": [
-        "Cilindro tūris ir modelis (2L – 50L)",
-        "Vožtuvo tipas (CGA, GOST, DIN, POL)",
-        "Sertifikavimo standartas (ISO, DOT, TPED)",
-        "OEM: spalva, žymėjimas, pakuotė",
-        "Užsakymų kiekis ir „Incoterms“."
+        "Cilindro tūris ir modelis",
+        "Vožtuvo tipas ir jungties standartas",
+        "Standartai, reikalingi paskirties rinkai",
+        "OEM spalva, ženklinimas ir pakuotė",
+        "Užsakymo apimtis ir Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetilenas WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetileno cilindrai",
+        "moq": "Pagal pageidavimą",
+        "price": "Cituojama pagal užklausą",
+        "lead": "Patvirtinta pagal užsakymą"
       },
       {
-        "product": "Acetilenas WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propano / LPG balionai",
+        "moq": "Pagal pageidavimą",
+        "price": "Cituojama pagal užklausą",
+        "lead": "Patvirtinta pagal užsakymą"
       },
       {
-        "product": "Propanas WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generatoriai",
+        "moq": "Pagal pageidavimą",
+        "price": "Cituojama pagal užklausą",
+        "lead": "Patvirtinta pagal užsakymą"
       },
       {
-        "product": "Propanas WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generatorius WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Reguliatoriaus rinkinys",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Priedai",
+        "moq": "Pagal pageidavimą",
+        "price": "Cituojama pagal užklausą",
+        "lead": "Patvirtinta pagal užsakymą"
       }
     ],
     "tableHeaders": [
       "Produktas",
       "MOQ",
-      "Kaina (EXW)",
+      "Kaina",
       "Pristatymo laikas"
     ]
   },
   "certifications": {
     "title": "Sertifikatai ir standartai",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standartai ir sertifikavimo galimybės aptariami atsižvelgiant į produkto ir paskirties rinką. Paprašius sertifikatų kopijos siunčiamos privačiai – failai šioje svetainėje neskelbiami.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Gaukite citatą",
-        "desc": "Kaina, MOQ, pristatymo laikas ir specifikacijų lapas per 24 valandas"
+        "desc": "Kaina, MOQ, pristatymo laikas ir specifikacijų lapas, peržiūrėję mūsų pardavimo komandos"
       },
       {
         "title": "Patvirtinti užsakymą",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Sutartis ir mokėjimo sąlygos sutartos prieš pradedant gamybą"
       },
       {
         "title": "Gamyba ir QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Gamyba ir bandymai. Vaizdo įrašai ir sertifikatai siunčiami privačiai pagal pageidavimą"
       },
       {
         "title": "Siuntimas",
-        "desc": "Pakavimas, dokumentai, FOB/CIF/DDP pristatymas"
+        "desc": "Įpakavimas, dokumentai ir pristatymo sąlygos sutartos užsakyme"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Ką sako pirkėjai",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Šiemet tris kartus persakinėjome 40L acetileno balionus. GOST vožtuvai, OEM spalva ir eksporto pakuotė kiekvieną kartą atitiko pirmąjį pavyzdį.",
+        "author": "Rustamas Jusupovas",
+        "role": "Savininkas, suvirinimo dujų skirstytuvas",
+        "country": "Uzbekistanas"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Citata buvo pateikta tą pačią dieną su aiškiu MOQ ir pristatymo laiku. Propano buteliai atkeliavo su POL vožtuvais ir pilnu pakavimo sąrašu – mūsų pusėje jokių muitinės vėlavimų.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "role": "Pirkimų vadovas, pramonės tiekimas",
+        "country": "Kazachstanas"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Cilindrus su reguliatoriais ir žarnomis perkame kaip vieną konteinerio užsakymą. Dokumentai ir žymėjimas buvo paruošti mūsų rinkai, todėl perparduoti buvo paprasta.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Importo pirkėjas, prekyba dujų įranga",
+        "country": "Saudo Arabija"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "kokybės",
         "eyebrow": "Kokybė ir saugumas",
         "title": "Apžiūrą galite įrašyti į citatą",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Medžiagų patikrinimai, sandarumo testai, vožtuvo sukimo momentas ir pakuotės nuotraukos. Paprašius, sertifikatų paketai ir fotoreportažai siunčiami privačiai.",
         "points": [
           "Slėgio ir nuotėkio bandymai",
-          "Certificate package",
+          "Sertifikatai pagal pageidavimą",
           "Nuotraukos prieš išsiuntimą"
         ]
       },
       {
         "id": "eksportuoti",
         "eyebrow": "Pasaulinis eksportas",
-        "title": "Supakuota uostams, paruošta daugiau nei 50 šalių",
+        "title": "Supakuota uostams, paruošta eksporto rinkoms",
         "text": "Eksportuokite padėklus, vožtuvų apsaugą, daugiakalbes etiketes ir siuntimo dokumentus, suderintus pagal jūsų paskirties Incoterms.",
         "points": [
           "FOB / CIF palaikymas",
           "Pakavimas ant padėklų",
           "Pristatymo laikas 15-25 dienos"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Suvynioti dujų balionai sustatyti gamyklos kieme išsiuntimui",
+    "about": "Darbuotojai Wanda Group gamyklos aukšte",
+    "accessories": "Dujų baliono priedų rinkinys – reguliatoriai, žarnos, degikliai ir jungiamosios detalės",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Ištirpusio acetileno cilindras su porėta mase ir žalvariniu vožtuvu",
+      "Acetileno generatorius nufotografuotas gamykloje",
+      "Įvairių dydžių ir spalvų propano ir SND balionai",
+      "Suvirinimo ir pjovimo priedų rinkinys dujų balionams"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Naktinis išsiuntimas: suvyniota įranga pakrauta ant priekabos",
+      "Padėklai ir metalinės detalės paruoštos siuntimui",
+      "Sandėlyje sukrautos supakuotų atsargų dėžutės",
+      "Cilindrai suvynioti į plėvelę, pastatyti gamyklos kieme",
+      "Dujų balionų gamybos konvejeris po gamyklos stogu",
+      "SND balionai kabantys ant viršutinio apdailos konvejerio",
+      "„Wanda Group“ gamyklos aukšte vaikštantys darbuotojai",
+      "Nedažyti suvirinti propano cilindrų korpusai, sukrauti dviejų aukštų",
+      "Nedažytų cilindrų korpusų eilės ant betoninių grindų",
+      "Cilindrų vamzdžių atsargos ir uždengti korpusai dirbtuvėse",
+      "Sukrauti neapdorotų cilindrų korpusai prie gamyklos sienos",
+      "Plieniniai pagrindo žiedai sukrauti prieš surinkimą",
+      "Žalvarinės jungiamosios detalės supakuotos į dėžutę su putplasčiu",
+      "Acetileno generatorius su žarna ir priedais",
+      "Po suvirinimo nedažyti cilindrų korpusai atvirais kakliukais"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Oru aušinamas kondensacinis įrenginys su Copeland pusiau hermetišku kompresoriumi",
+      "Oru aušinamas kondensacinis įrenginys su Bitzer pusiau hermetišku kompresoriumi",
+      "Uždaros spintos tipo šaldymo kondensacinis įrenginys",
+      "Didelės talpos keturių ventiliatorių oru aušinamas kondensacinis blokas"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Teisinė",
-    "title": "Privatumo politika",
-    "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 25 d",
-    "intro": [
-      "„Wanda Group“ („mes“, „mes“) valdo šią svetainę, siekdama pristatyti dujų balionus, priedus ir susijusius eksporto tiekimus bei gauti pramoninių pirkėjų komercinius užklausas.",
-      "Šioje politikoje paaiškinama, kokius asmens duomenis renkame per svetainę, kodėl juos naudojame ir kaip galite dėl to su mumis susisiekti. Svetainėje neskelbiame gamyklinių vaizdo įrašų ar sertifikatų failų; tos medžiagos siunčiamos privačiai paprašius."
-    ],
-    "sections": [
-      {
-        "title": "Kas atsakingas",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Kokius duomenis renkame",
-        "body": [
-          "Kai siunčiate užklausos formą, gauname jūsų įvestus duomenis: vardą, pavardę, el. paštą, telefoną, paskirties šalį, prekės tipą, kiekį ir žinutę.",
-          "Svetainė taip pat išsaugo jūsų pasirinktą kalbą naršyklėje (localStorage). Mes nenaudojame reklaminių slapukų ir neparduodame lankytojų sąrašų."
-        ]
-      },
-      {
-        "title": "Kodėl mes naudojame duomenis",
-        "body": [
-          "Užklausos duomenis naudojame tik atsakydami į Jūsų užklausą, parengdami citatą, atsiųsdami informaciją apie produktą, vaizdo įrašus ar sertifikatus, kurių paprašėte, ir derindami užsakymą, jei pradėsime dirbti kartu.",
-          "Teisinis pagrindas: jūsų sutikimas, kai pažymite žymimąjį laukelį formoje, ir mūsų teisėtas interesas atsakyti į B2B pardavimo užklausas."
-        ]
-      },
-      {
-        "title": "Kas gauna duomenis",
-        "body": [
-          "Jūsų žinutė mūsų pardavimų komandai pristatoma el. paštu. Priklausomai nuo konfigūracijos, formą gali apdoroti Web3Forms kaip techninis teikėjas, perduodantis mums pranešimą.",
-          "Mes neparduodame asmens duomenų. Su logistikos, tikrinimo ar bankininkystės partneriais galime dalytis tuo, ko reikia tik tuo atveju, jei to reikia sutartam užsakymui įvykdyti."
-        ]
-      },
-      {
-        "title": "Kiek laiko mes jį laikome",
-        "body": [
-          "Užklausos duomenys saugomi tiek, kiek reikia užklausai nagrinėti, o po to protingą laikotarpį pardavimų stebėjimui ir apskaitai, nebent paprašysite anksčiau juos ištrinti, kai tai leidžia įstatymai."
-        ]
-      },
-      {
-        "title": "Jūsų teisės",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Saugumas ir vaikai",
-        "body": [
-          "Mes imamės pagrįstų techninių ir organizacinių veiksmų, kad apsaugotume siunčiamus ir mūsų pašto dėžutės pranešimus. Ši svetainė skirta verslo pirkėjams, o ne vaikams."
-        ]
-      }
-    ],
-    "contactLead": "Klausimai apie šią politiką:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Teisinė",
+    "title": "Naudojimo sąlygos",
+    "updated": "Paskutinį kartą atnaujinta: 2026 m. rugpjūčio 27 d",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Šios sąlygos reglamentuoja „Wanda Group“ valdomos wandagroups.com naudojimą pramoniniams dujų balionų, generatorių ir priedų pirkėjams.",
+      "Naršydami svetainėje arba siųsdami užklausą sutinkate su šiomis sąlygomis ir mūsų privatumo politika. Jei nesutinkate, nesinaudokite svetaine."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Kas mes esame",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Kam skirta svetainė",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Svetainėje pateikiama informacija apie produktą ir gaunamos komercinės užklausos. Jis skirtas verslo pirkėjams, o ne privatiems asmenims perkantiems vartotojams ir ne vaikams."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Pasiūlymai, kainos ir užsakymai",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Kainos, MOQ, pristatymo laikas ir specifikacijos svetainėje yra orientaciniai. Pranešimas per formą arba „Messenger“ yra užklausa, o ne užsakymas.",
+          "Sutartis egzistuoja tik tada, kai abi šalys patvirtina pasiūlymą raštu (el. paštu arba pasirašytais dokumentais) ir gaunamas sutartas užstatas, nebent tame patvirtinime nurodome kitaip."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Nuotraukos, vaizdo įrašai ir sertifikatai",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Gamyklos nuotraukos ir vaizdo įrašai svetainėje iliustruoja gamybą. Papildoma filmuota medžiaga ir sertifikatų failai siunčiami privačiai pagal prašymą ir lieka mūsų konfidencialia medžiaga, nebent pasakysime, kad galite jais dalytis."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Intelektinė nuosavybė",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Tekstas, nuotraukos, vaizdo įrašai, logotipai ir maketas šioje svetainėje priklauso „Wanda Group“ arba mūsų licencijų išdavėjams. Negalite kopijuoti katalogo savo komercinei svetainei be mūsų raštiško sutikimo."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Priimtinas naudojimas",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Nepiktnaudžiaukite užklausos forma (spam, netikra tapatybė ar bandymai sutrikdyti svetainę). Galime nepaisyti arba ištrinti piktnaudžiavimo užklausas."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Atsakomybė",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Stengiamės, kad informacija būtų tiksli, tačiau svetainėje gali būti klaidų arba ji laikinai nepasiekiama. Tiek, kiek leidžia įstatymai, „Wanda Group“ nėra atsakinga už netiesioginius nuostolius, atsiradusius tik naudojant svetainę.",
+          "Atsakomybė už faktinę tiekimo sutartį nustatyta toje sutartyje ir taikomuose teisės aktuose, o ne tik šiose svetainės sąlygose."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Pakeitimai",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Galime atnaujinti šias sąlygas. Viršuje esanti data rodo dabartinę versiją. Tolesnis svetainės naudojimas po pakeitimo reiškia, kad sutinkate su atnaujintomis sąlygomis."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Klausimai apie šias sąlygas:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Mūsų produktų linija",
+    "title": "Šaldymo įrenginiai",
+    "subtitle": "Atskira Wanda Group linija – ne trečiosios šalies katalogas. Kondensaciniai įrenginiai, šaldymo patalpos ir techninė įranga, tiekiame su cilindrais arba atskirai.",
+    "moreLink": "Šaldymo įranga →",
+    "cta": "Prašyti kainos pasiūlymo",
+    "alsoTitle": "Taip pat galima užsisakyti",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Poliuretano šaltų patalpų plokštės (B1 / B2) ir 304 nerūdijančio plieno plokštės",
+      "Šaltojo kambario oro aušintuvai – DL (~0 °C), DD (~–18 °C), DJ (~–25 °C)",
+      "Aliuminio garintuvo ritės",
+      "Šaldytuvo durys",
+      "Pramoniniai vandens aušintuvai",
+      "Transporto priemonių šaldymo įrenginiai ir mobilios šaldymo patalpos"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "„Wanda International Trade“ tiekia šaldymo įrangą kartu su dujų balionų linija: blokais, skydais, aušintuvais ir susijusia šaltosios grandinės įranga. Copeland, Bitzer ir panašūs pavadinimai nurodo kompresoriaus prekės ženklą įrenginio viduje, o ne tų įmonių prekės ženklą.",
+    "videoTitle": "Įmonės vaizdo įrašas",
+    "videoSubtitle": "Šaldymo įrangos linijos apžvalga. Daugiau filmuotos medžiagos siunčiame privačiai pagal pageidavimą.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Pusiau hermetiškas Copeland oru aušinamas įrenginys",
+        "spec": "Kondensacinis blokas · Copeland kompresorius",
+        "desc": "Oru aušinamas kondensacinis blokas su Copeland pusiau hermetišku kompresoriumi, skirtas šaltoms patalpoms ir vidutinei temperatūrai."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer pusiau hermetiškas oru aušinamas įrenginys",
+        "spec": "Kondensacinis įrenginys · Bitzer kompresorius",
+        "desc": "Oru aušinamas kondensacinis įrenginys su Bitzer pusiau hermetišku kompresoriumi, skirtas didesnės apkrovos ir vidutinės iki žemos temperatūros patalpoms."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Uždaras dėžutės tipo įrenginys",
+        "spec": "Spintelės kondensacinis blokas",
+        "desc": "Uždaros spintos tipo kondensacinis įrenginys, skirtas svetainėms, kurioms reikia įtaisytos mašinos, o ne atviros slydimo."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U tipo / didelės talpos kondensacinis įrenginys",
+        "spec": "Oru aušinamas kelių ventiliatorių",
+        "desc": "Didesnis oru aušinamas kondensacinis įrenginys su kelių ventiliatorių kondensatoriumi, skirtas didesnėms šaldymo patalpoms ir proceso vėsinimui."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Kas Mes Esame",
+    "title": "Pramoninis gamintojas B2B pirkėjams",
+    "text": "Wanda Groups gamina ir tiekia pramoninius dujų balionus, generatorius ir suvirinimo priedus užsienio platintojams, OEM partneriams ir projektų pirkėjams.",
+    "text2": "Mūsų tikslas – su gamykla susietas tiekimas, produktų atrankos palaikymas, masiniai užsakymai ir eksporto koordinavimas, o ne mažmeninė prekyba vartotojams.",
+    "cta": "Sužinokite daugiau apie mus"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Pasiruošę prašyti kainos pasiūlymo?",
+      "quoteCta": "Prašyti kainos pasiūlymo",
+      "relatedProducts": "Susiję produktai",
+      "applications": "Programos",
+      "standardsTitle": "Standartai ir sertifikavimas",
+      "oemTitle": "OEM / pritaikymas",
+      "packagingTitle": "Pakavimas ir pristatymas",
+      "placeholders": {
+        "standards": "Galimi standartai ir sertifikatai patvirtinami pagal užsakymo ir paskirties rinką. Paprašius sertifikatų kopijos siunčiamos privačiai – failai svetainėje neskelbiami.",
+        "oem": "OEM spalva, žymėjimas, vožtuvas, dangtelis ir pakavimo galimybės gali būti aptariamos pagal užsakymą ir tikslinę rinką.",
+        "packaging": "Eksporto pakuotė ir dokumentacija rengiama pagal užsakymą ir siuntimo sąlygas."
+      }
+    },
+    "home": {
+      "seoTitle": "Dujų baliono gamintojas | Pramonės OEM ir eksportas | „Wanda“ grupės",
+      "seoDescription": "„Wanda Groups“ gamina pramoninius dujų balionus, generatorius ir suvirinimo priedus pirminės įrangos gamintojų, didmeniniams ir tarptautiniams eksporto pirkėjams."
+    },
+    "about": {
+      "label": "Apie mus",
+      "title": "Dujų balionų gamintojas pramoniniams pirkėjams",
+      "subtitle": "Mes palaikome užsienio pirkėjus su produktų pasirinkimu, OEM, tikrinimu, pakavimu ir pristatymu.",
+      "seoTitle": "Apie Wanda Group",
+      "seoDescription": "Wanda Group gamina acetileno balionus, propano balionus, generatorius ir priedus, skirtus suvirinimui, pjovimui ir pramoninių dujų tiekimui."
+    },
+    "products": {
+      "label": "Produktai",
+      "title": "Mūsų gaminiai",
+      "subtitle": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+      "seoTitle": "Dujų balionų gaminiai",
+      "seoDescription": "Acetileno balionai, generatoriai, propano balionai ir priedai pramoniniams ir suvirinimo darbams.",
+      "refrigerationNote": "„Wanda International Trade“ tiekia šaldymo įrangą kartu su dujų balionų linija: blokais, skydais, aušintuvais ir susijusia šaltosios grandinės įranga. Copeland, Bitzer ir panašūs pavadinimai nurodo kompresoriaus prekės ženklą įrenginio viduje, o ne tų įmonių prekės ženklą.",
+      "catalog": {
+        "acetylene": {
+          "name": "Ištirpusio acetileno cilindrai",
+          "overview": "Plieniniai cilindrai su porėta mase ir tirpikliu saugiam acetileno saugojimui ir transportavimui. Naudojamas suvirinimui, pjovimui, litavimui ir metalo gamyboje.",
+          "seoTitle": "Acetileno dujų balionai",
+          "seoDescription": "Plieniniai cilindrai su porėta mase ir tirpikliu saugiam acetileno saugojimui ir transportavimui. Naudojamas suvirinimui, pjovimui, litavimui ir metalo gamyboje."
+        },
+        "propane": {
+          "name": "Propano cilindrai",
+          "overview": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+          "seoTitle": "Propano dujų balionai",
+          "seoDescription": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse."
+        },
+        "lpg": {
+          "name": "LPG balionai",
+          "overview": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse.",
+          "seoTitle": "LPG dujų balionai",
+          "seoDescription": "Balionai propano, butano ir SND mišiniams. Naudojamas šildymo, pjovimo, litavimo, statybos ir pramoninių dujų tiekimo srityse."
+        },
+        "industrial": {
+          "name": "Pramoniniai dujų balionai",
+          "overview": "Pramoniniai dujų balionai suvirinimui, pjovimui ir įrenginių tiekimui – įskaitant acetileno, propano ir SND variantus, atitinkančius jūsų rinką.",
+          "seoTitle": "Pramoniniai dujų balionai",
+          "seoDescription": "Pramoniniai dujų balionai suvirinimui, pjovimui ir įrenginių tiekimui iš Wanda Group."
+        },
+        "generators": {
+          "name": "Acetileno generatoriai",
+          "overview": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros.",
+          "seoTitle": "Acetileno generatoriai",
+          "seoDescription": "Įranga acetilenui gaminti iš kalcio karbido. Stabilus dujų tiekimas suvirinimo ir pramonės reikmėms be centralizuotos dujų infrastruktūros."
+        },
+        "accessories": {
+          "name": "Cilindrų priedai ir jungiamosios detalės",
+          "overview": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais.",
+          "seoTitle": "Suvirinimo priedai",
+          "seoDescription": "Visas asortimentas saugiam dujų baliono veikimui: nuo matuoklių iki suvirinimo deglių. Vieno langelio pirkimas su cilindrais."
+        },
+        "refrigeration": {
+          "name": "Šaldymo įrenginiai",
+          "overview": "Atskira Wanda Group linija – ne trečiosios šalies katalogas. Kondensaciniai įrenginiai, šaldymo patalpos ir techninė įranga, tiekiame su cilindrais arba atskirai.",
+          "seoTitle": "Šaldymo įrenginiai",
+          "seoDescription": "Atskira Wanda Group linija – ne trečiosios šalies katalogas. Kondensaciniai įrenginiai, šaldymo patalpos ir techninė įranga, tiekiame su cilindrais arba atskirai."
+        }
+      }
+    },
+    "factory": {
+      "label": "Gamykla",
+      "title": "Gamykla ir gamyba",
+      "subtitle": "Gamyba, patikrinimas, pakavimas ir išsiuntimas – dokumentuota su tikromis gamyklos nuotraukomis ir gamyklos vaizdo įrašais.",
+      "seoTitle": "Gamykla ir gamyba | „Wanda“ grupės",
+      "seoDescription": "Tikros augalų nuotraukos, tiesioginės siuntimo nuotraukos ir trumpi vaizdo įrašai iš gamybos patalpos.",
+      "sections": [
+        {
+          "title": "Gamyba",
+          "text": "Cilindrų formavimas, suvirinimas ir apdaila kaip gamyklos produkcijos dalis."
+        },
+        {
+          "title": "Gamybos procesas",
+          "text": "Nuo korpuso paruošimo iki surinkimo ir apdailos – žr. gamybos metu ir gamybos grindų filmuotą medžiagą."
+        },
+        {
+          "title": "Kokybės patikra",
+          "text": "Vizuali, ženklinimo ir matmenų patikra ruošiant balionus išsiuntimui."
+        },
+        {
+          "title": "Testavimas",
+          "text": "Slėgio ir nuotėkio bandymas atliekamas prieš gaminiams išeinant iš linijos, pagal užsakymo reikalavimus."
+        },
+        {
+          "title": "Pakuotė",
+          "text": "Eksporto pakuotė apsaugo balionus ir jungiamąsias detales, skirtus transportuoti į užsienį."
+        },
+        {
+          "title": "Pakrovimas ir eksportas",
+          "text": "Sandėlio sustojimo, sunkvežimio pakrovimo ir išsiuntimo dokumentacija išvežamiems užsakymams."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Sertifikatai",
+      "title": "Sertifikatai ir standartai",
+      "subtitle": "Standartai, kurių dažniausiai prašo pirkėjai, išvardyti toliau. Taikymas priklauso nuo produkto ir paskirties rinkos. Sertifikatų kopijos, numeriai ir galiojimas dalijamasi privačiai paprašius – neskelbiami kaip nepatvirtinti reikalavimai.",
+      "seoTitle": "Sertifikatai ir standartai | „Wanda“ grupės",
+      "seoDescription": "„Wanda Groups“ dujų balionų standartai aptariami pagal rinką. Paprašius, sertifikatų kopijos pateikiamos privačiai.",
+      "note": "Paprašius sertifikatų kopijos siunčiamos privačiai. Mes neskelbiame sertifikatų failų svetainėje."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM ir didmeninė prekyba",
+      "subtitle": "Privačios prekės ženklo ir masinio tiekimo galimybės platintojams ir pramoniniams pirkėjams.",
+      "seoTitle": "OEM dujų balionų tiekimas",
+      "seoDescription": "OEM ir privačių prekių ženklų dujų balionų gamyba užsienio prekių ženklams ir platintojams.",
+      "quoteTitle": "Aptarkite OEM reikalavimus",
+      "quoteCta": "Prašyti OEM kainos pasiūlymo",
+      "capabilities": [
+        {
+          "title": "Individualus logotipas",
+          "text": "Aptartas logotipo ir žymėjimo parinktys, atitinkančios OĮG užsakymus."
+        },
+        {
+          "title": "Pasirinktinė spalva",
+          "text": "Cilindro spalva pagal rinkos ar prekės ženklo reikalavimus."
+        },
+        {
+          "title": "Individualizuota pakuotė",
+          "text": "Eksportuojame kartonines dėžes, padėklus ir pakavimo ženklus pagal užsakymą."
+        },
+        {
+          "title": "Privati ​​etiketė",
+          "text": "Ženklinimas ir prekės ženklo pristatymas platintojų kanalams."
+        },
+        {
+          "title": "Masiniai užsakymai",
+          "text": "Didmeniniai kiekiai projektiniams ir platintojų pirkimams."
+        },
+        {
+          "title": "OEM gamyba",
+          "text": "Produkto konfigūracija atitinka jūsų specifikacijas ir rinką."
+        },
+        {
+          "title": "Eksporto palaikymas",
+          "text": "Pristatymo į užsienį dokumentai ir siuntimo koordinavimas."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Rinkos",
+      "title": "Pasaulinės rinkos",
+      "subtitle": "Mes palaikome tarptautinius B2B pirkėjus. Toliau pateikiami regionai apibūdina bendras tyrimų sritis – konkrečios šalys ir projektai patvirtinami kiekvienu konkrečiu atveju.",
+      "seoTitle": "Pasaulinės rinkos | „Wanda“ grupių eksportas",
+      "seoDescription": "„Wanda Groups“ dirba su tarptautiniais pramonės pirkėjais Afrikoje, Viduriniuose Rytuose, Centrinėje Azijoje, Pietryčių Azijoje, Lotynų Amerikoje ir kitose rinkose.",
+      "note": "Šiame puslapyje neskelbiame nepatvirtintų šalių skaičiaus, klientų vardų ar projektų nuorodų.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Pramonės ir platintojų užklausos iš Afrikos rinkų."
+        },
+        {
+          "title": "Artimieji Rytai",
+          "text": "Pirkėjai, tiekiantys cilindrus ir susijusią įrangą regioniniams projektams."
+        },
+        {
+          "title": "Vidurinė Azija",
+          "text": "Didmeninės prekybos ir projektų tiekimo diskusijos Centrinės Azijos rinkose."
+        },
+        {
+          "title": "Pietryčių Azija",
+          "text": "Pramoniniai pirkėjai, vertinantys eksporto balionų tiekimą."
+        },
+        {
+          "title": "Lotynų Amerika",
+          "text": "Užklausos dėl pramoninių dujų balionų ir priedų tiekimo."
+        },
+        {
+          "title": "Kitos tarptautinės rinkos",
+          "text": "Papildomos paskirties vietos peržiūrimos pagal produkto standartą ir logistiką."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Programos",
+      "title": "Cilindrų programos",
+      "subtitle": "Produktai, sukurti įprastoms pramoninių dujų užduotims ir užsienio pirkėjų reikalavimams.",
+      "seoTitle": "Cilindrų programos",
+      "seoDescription": "Produktai, sukurti įprastoms pramoninių dujų užduotims ir užsienio pirkėjų reikalavimams.",
+      "items": [
+        {
+          "title": "Suvirinimas ir litavimas",
+          "text": "Ištirpęs acetilenas ir susijusi įranga dirbtuvėms ir gamybiniam suvirinimui."
+        },
+        {
+          "title": "Metalo pjovimas",
+          "text": "Cilindrai ir priedai deguonies pjovimui vietoje ir gamykloje."
+        },
+        {
+          "title": "Pramoninių dujų tiekimas",
+          "text": "Balionų tiekimas pramoninėms paskirstymo ir augalų dujų sistemoms."
+        },
+        {
+          "title": "Statyba",
+          "text": "Nešiojamasis dujų tiekimas statybos ir priežiūros darbams."
+        },
+        {
+          "title": "Metalo gamyba",
+          "text": "Balionai ir priedai gamybos dirbtuvėms ir laivų statykloms."
+        },
+        {
+          "title": "Dujų saugojimas ir paskirstymas",
+          "text": "Sandėliavimui ir platinimui paruošti balionai pramoniniams pirkėjams."
+        }
+      ]
+    },
+    "faq": {
+      "label": "DUK",
+      "title": "Dažnai užduodami klausimai",
+      "subtitle": "Įmonė, produktai, OĮG ir eksportas – atsakymai užsienio pirkėjams prieš pateikdami užklausą dėl kainos.",
+      "seoTitle": "DUK",
+      "seoDescription": "Įmonė, produktai, OĮG ir eksportas – atsakymai užsienio pirkėjams prieš pateikdami užklausą dėl kainos."
+    },
+    "contactPage": {
+      "label": "Susisiekite",
+      "title": "Aptarsime jūsų reikalavimus",
+      "subtitle": "Susisiekite su mūsų pardavimo komanda forma, el. paštu arba messenger. Pasidalykite produktu, kiekiu ir paskirties vieta, kad gautumėte greitesnę kainą.",
+      "seoTitle": "Prašyti kainos pasiūlymo",
+      "seoDescription": "Nurodykite dydį, kiekį, paskirties šalį ir paraišką – mes parengsime išsamią pasiūlymą."
+    },
+    "blog": {
+      "label": "Dienoraštis",
+      "title": "Naujausi straipsniai",
+      "subtitle": "Ekspertinis turinys suvirinimo ir dujų tiekimo specialistams.",
+      "seoTitle": "Straipsniai ir vadovai",
+      "seoDescription": "Ekspertinis turinys suvirinimo ir dujų tiekimo specialistams.",
+      "coming": "Čia bus pridėta daugiau pirkėjų vadovų ir produktų pastabų. Naudokite anksčiau pateiktus straipsnius arba susisiekite su mumis dėl konkrečių gaminių medžiagų."
+    },
+    "privacy": {
+      "seoTitle": "Privatumo politika",
+      "seoDescription": "„Wanda Group“ svetainės užklausų ir asmens duomenų privatumo politika."
+    },
+    "terms": {
+      "seoTitle": "Naudojimo sąlygos",
+      "seoDescription": "„Wanda Group“ svetainės naudojimo sąlygos."
+    },
+    "notFound": {
+      "seoTitle": "Puslapis nerastas",
+      "seoDescription": "Puslapis, kurio prašėte, nepasiekiamas.",
+      "title": "Puslapis nerastas",
+      "text": "Puslapis, kurio ieškote, neegzistuoja arba persikėlė.",
+      "home": "Pradžia",
+      "products": "Produktai",
+      "contact": "Susisiekite / gaukite pasiūlymą"
+    }
   }
 }

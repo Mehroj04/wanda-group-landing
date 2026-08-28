@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build && node scripts/prerender-products.mjs",
     "verify:prerender": "node scripts/verify-prerender.mjs",
     "preview": "vite preview",
-    "validate:jsonld": "node scripts/validate-jsonld.mjs"
+    "validate:jsonld": "node scripts/validate-jsonld.mjs",
+    "translate:locales": "node scripts/translate-locale-full.mjs",
+    "verify:locales": "node scripts/verify-locales.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

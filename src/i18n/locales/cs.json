@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Domov",
     "products": "Produkty",
     "specs": "Specifikace",
     "applications": "Aplikace",
     "about": "O",
     "gallery": "Galerie",
+    "factory": "Továrna",
     "quality": "Kvalitní",
     "faq": "FAQ",
     "contact": "Kontakt",
@@ -13,44 +15,42 @@
     "services": "Služby",
     "pricing": "Ceny",
     "accessories": "Příslušenství",
-    "home": "Domov",
-    "factory": "Továrna",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Skladování v chladu",
+    "cooling": "Chlazení",
+    "certifications": "Certifikace",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "trhy"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Výrobce průmyslových plynových lahví",
+    "title": "Výrobce průmyslových plynových lahví a zařízení",
+    "subtitle": "Výroba, OEM a velkoobchodní dodávky acetylenových lahví, propanových/LPG lahví, generátorů a svařovacího příslušenství pro mezinárodní exportní odběratele.",
+    "lineGas": "Plynové lahve",
+    "lineCold": "Chladicí jednotky",
+    "cta": "Získejte cenovou nabídku",
+    "ctaSecondary": "Zobrazit produkty",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Nabídka zaměřená na výrobce"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Soukromá značka a přizpůsobení"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Podpora mezinárodní přepravy"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Proces kontroly a testování"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Možnosti specifické pro daný trh na vyžádání"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Spolehlivé příslušenství k plynovým lahvím",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Naše produkty",
     "subtitle": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+    "viewDetails": "Zobrazit podrobnosti",
     "items": [
       {
         "title": "Acetylenový válec",
-        "desc": "Rozpuštěné acetylenové lahve pro svařování, řezání a průmyslové plyny. Různé velikosti a možnosti ventilů.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · normy potvrzené na trhu",
+        "desc": "Rozpuštěné acetylenové lahve pro svařování, řezání a zásobování průmyslovým plynem.",
+        "icon": "🔥"
       },
       {
         "title": "Generátor acetylenu",
-        "desc": "Zařízení pro stabilní produkci plynu, snadnou obsluhu a průmyslové aplikace.",
-        "icon": "⚙️",
-        "spec": "Průmyslové výrobní systémy"
+        "spec": "Průmyslové výrobní systémy",
+        "desc": "Zařízení pro stabilní výrobu acetylenu na místě a v závodě.",
+        "icon": "⚙️"
       },
       {
         "title": "Propanová láhev",
-        "desc": "Odolné lahve na propan a LPG – skladování, topení, řezání a průmyslové použití.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · možnosti ventilů na trhu",
+        "desc": "Odolné láhve na LPG pro vytápění, řezání a průmyslové použití.",
+        "icon": "🛢️"
       },
       {
         "title": "Příslušenství k válcům",
-        "desc": "Hadice, měřidla, řezací hořáky, svařovací hořáky, pojistné ventily a další.",
-        "icon": "🔧",
-        "spec": "Ventily · regulátory · hadice · svítilny"
+        "spec": "Ventily · regulátory · hadice · svítilny",
+        "desc": "Odpovídající armatury dodávané s cylindry nebo jako samostatná objednávka.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Zobrazit podrobnosti"
+    ]
   },
   "specs": {
     "title": "Technické specifikace",
@@ -98,7 +98,7 @@
       },
       {
         "title": "Ventily a uzávěry",
-        "desc": "Ventily, uzávěry a fitinky dodáváme dle potřeb zákazníka a projektu."
+        "desc": "Ventily, uzávěry a armatury dodáváme dle potřeb zákazníka a projektu."
       },
       {
         "title": "Možnosti rozpouštědel",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Proč si vybrat Wanda Groups",
+    "subtitle": "Konkrétní možnosti pro průmyslové nákupčí hodnotící výrobního partnera.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Nabídka zaměřená na výrobce",
+        "desc": "Dodávka produktů orientovaná na výrobu, nejen obchodní katalogy."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM podpora",
+        "desc": "Vlastní barva, značení, ventil a balení projednáno na základě objednávky."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kontrola kvality",
+        "desc": "Kontrola od materiálů přes balení před odesláním."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Mezinárodní export",
+        "desc": "Exportní balení a koordinace přepravy pro zahraniční kupující."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Přizpůsobení produktu",
+        "desc": "Specifikace přizpůsobené požadavkům trhu a aplikací."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Responzivní podpora prodeje",
+        "desc": "Citace a technické odpovědi prostřednictvím formuláře, e-mailu a poslů."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Možnost hromadné objednávky",
+        "desc": "Velkoobchodní množství podporované pro distributory a nákupčí projektů."
       }
     ]
   },
   "about": {
-    "title": "Profesionální výrobce plynových lahví",
-    "text": "Výrobce plynových lahví Wanda Group se specializuje na výrobu a dodávky průmyslových plynových lahví a souvisejícího příslušenství. Naše výrobky jsou široce používány ve svařování, řezání, distribuci plynu, průmyslovém skladování a dalších oblastech dodávek plynu.",
-    "text2": "Podporujeme zahraniční kupující při výběru produktů, přizpůsobení, kontrole kvality, balení a koordinaci dopravy.",
+    "title": "Výrobce plynových lahví pro průmyslové zákazníky",
+    "text": "Wanda Group vyrábí acetylenové lahve, propanové lahve, generátory a příslušenství pro svařování, řezání a zásobování průmyslovým plynem.",
+    "text2": "Podporujeme zahraniční kupující s výběrem produktů, OEM, kontrolou, balením a dopravou.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Výrobní",
+        "desc": "Tváření, svařování, testování a konečná úprava lahví na průmyslové plyny."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Podpora OEM",
+        "desc": "Barva, značení, ventil, uzávěr a možnosti balení dle objednávky."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Kvalitní proces",
+        "desc": "Inspekce a testování v souladu s objednávkou a požadavky trhu."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Mezinárodní export",
+        "desc": "Podpora dokumentace a balení pro zahraniční průmyslové nákupce."
       }
     ]
   },
   "gallery": {
     "title": "Uvnitř naší továrny",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Skutečné fotografie rostlin, živé záběry z expedice a krátká videa z výroby.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Noční expedice",
+        "desc": "Naložený přívěs odjíždí se zabaleným vybavením – čas a místo vyražené na záběru."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Náklad připraven k odeslání",
+        "desc": "Palety a díly odebrané k expedici. Živá fotografie ze skladu, ne studiová sada."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Balené zásoby",
+        "desc": "Kartony naskládané ve skladu, připravené na další odchozí objednávku."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Zabaleno k odeslání",
+        "desc": "Lahve zabalené a připravené k odeslání na dvoře závodu."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Výrobní dopravník",
+        "desc": "Tělesa válců pohybující se formovací a manipulační linkou."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Dokončovací linka LPG",
+        "desc": "Lakované lahve LPG na podvěsném dopravníku před balením."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Uvnitř rostliny",
+        "desc": "Výrobní hala — lidé, stroje a rozpracované zásoby."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Svařovaná těla válců",
+        "desc": "Skořepiny po obvodovém svařování, před lakováním a ventily."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Skořápky před malováním",
+        "desc": "Nelakovaná těla dávkovaná na podlaze pro další krok procesu."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Zásoby v procesu",
+        "desc": "Trubkové sekce a zakryté pláště čekají na montáž."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Tělesa válců skladem",
+        "desc": "Válcované skořepiny naskládané po svařování, před hlavami a ventily."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Základní kroužky",
+        "desc": "Patkové kroužky připravené pro navaření na pláště válců."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Balené armatury",
+        "desc": "Ventily a armatury zabalené s pěnou pro exportní zásilku."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Generátor acetylenu",
+        "desc": "Generátorová jednotka s hadicí a armaturami, připravená k opuštění závodu."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Mušle na podlaze",
+        "desc": "Tělesa s otevřeným hrdlem po svařování – šarže před montáží ventilů."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Tovární videa",
+    "videosSubtitle": "Nové šortky ze závodu. Další záběry zašlu na vyžádání soukromě."
   },
   "quality": {
     "title": "Kontrola kvality",
     "subtitle": "Každá šarže sleduje stejnou cestu: výroba, testování, kontrola a konečná kontrola kvality.",
     "steps": [
       {
-        "title": "Výroba",
-        "desc": "Tváření, svařování a montáž pod řízením výrobního procesu."
+        "title": "Surovina",
+        "desc": "Došlé materiály byly posouzeny podle požadavků objednávky a procesu."
       },
       {
-        "title": "Testování",
-        "desc": "Zkoušky tlaku a těsnosti předtím, než lahve opustí linku."
+        "title": "Výroba",
+        "desc": "Tváření, svařování a montáž pod řízením výrobního procesu."
       },
       {
         "title": "Inspekce",
         "desc": "Vizuální, značkovací a rozměrové kontroly oproti objednávce."
       },
       {
-        "title": "Finální kontrola kvality",
-        "desc": "Kontrola balení před exportní zásilkou."
+        "title": "Testování",
+        "desc": "Zkoušky tlaku a těsnosti předtím, než lahve opustí linku."
+      },
+      {
+        "title": "Konečná kontrola kvality",
+        "desc": "Závěrečná kontrola kvality před uvolněním k balení."
+      },
+      {
+        "title": "Obal",
+        "desc": "Exportní balení připravené k přepravě."
+      },
+      {
+        "title": "Zásilka",
+        "desc": "Načítání a expedice dokumentace pro odchozí objednávky."
       }
     ]
   },
   "faq": {
     "title": "Často kladené otázky",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Společnost, produkty, OEM a export – odpovědi pro zahraniční kupující, než požádáte o cenovou nabídku.",
     "cta": "Nenašli jste svůj dotaz? Pošlete produkt, velikost, množství a cílovou zemi - odpovíme s podrobnou nabídkou.",
     "ctaBtn": "Získejte cenovou nabídku",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videa a dokumenty",
         "items": [
           {
             "q": "Mohu před zadáním objednávky sledovat tovární videa?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ano. Podívejte se na produkční videa v sekci Factory na této stránce. Dodatečné záběry, balicí klipy a certifikáty zasíláme soukromě na vyžádání."
           },
           {
             "q": "Poskytujete produktová videa, zejména pro acetylenové lahve?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ano. Videa, fotografie a podrobné informace o acetylenových lahvích zasíláme soukromě dle vašeho požadavku."
           },
           {
             "q": "Můžete ukázat videa z výroby a kontroly kvality?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ano. Dostupné videozáznamy výroby, kontroly kvality, balení a skladování ve skladu jsou zasílány soukromě, takže můžete vidět, jak se produkty připravují."
           },
           {
             "q": "Mohu požádat o produktové video vytvořené pro konkrétní objednávku?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Pro konkrétní objednávku nebo požadavky na produkt nás kontaktujte — probereme video podporu a zašleme materiály soukromě."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Jak získám videa, certifikáty a cenovou nabídku?",
+            "a": "V poptávkovém formuláři uveďte typ produktu, velikost láhve, množství, cílovou zemi a co poslat: videa, certifikáty nebo obojí. Zašleme je soukromě a připravíme nabídku."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Můžete poskytnout fotografie produktů a specifikace?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ano. Fotografie produktů, specifikace a datové listy jsou zasílány soukromě na vyžádání."
           },
           {
             "q": "Jak mohu získat cenovou nabídku na příslušenství?",
@@ -406,7 +418,7 @@
         "desc": "Stabilita zařízení přímo ovlivňuje efektivitu práce svařování a řezání.",
         "body": [
           "Pro řemeslníky, kteří každý den svařují, opravují a vyrábějí kov, stabilní plynové zařízení přímo ovlivňuje kvalitu a rychlost práce.",
-          "Propanové láhve Wanda Group jsou k dispozici od 3 l do 50 l s ventily POL, CGA 510 nebo GOST v závislosti na vašem trhu — jeden dodavatel pro svařování, řezání a ohřev.",
+          "Propanové lahve Wanda Group jsou k dispozici od 3 l do 50 l s ventily POL, CGA 510 nebo GOST v závislosti na vašem trhu — jeden dodavatel pro svařování, řezání a ohřev.",
           "Válce doporučujeme objednávat společně s regulátory, hadicemi a hořáky. Dodávka svazků snižuje logistické náklady a zajišťuje kompatibilitu příslušenství.",
           "Při objednávce uveďte cílový trh, objem, typ ventilu a barvu — připravíme OEM značení a exportní balení pod vaší značkou."
         ]
@@ -427,33 +439,36 @@
         "title": "Průvodce rozpočtem pro nákup acetylenové láhve",
         "desc": "Faktory ovlivňující náklady a jak vybrat optimální nabídku.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "Větší šarže (200–500+ ks) získají významné slevy. OEM lakování, logo a speciální balení přidávají 5–15 % k základní ceně, ale zvyšují hodnotu pro distributory.",
-          "Zohledněte také dopravu (FOB/CIF), dokumenty a MOQ. Odpovídáme do 24 hodin s úplnou specifikací, dodací lhůtou a podmínkami Incoterms.",
-          "Pro přesnou cenovou nabídku uveďte model, množství, cílovou zemi a požadavky na ventil v kontaktním formuláři — nebo e-mailem na sales@wandagroups.com."
+          "Ceny acetylenových lahví závisí na objemu, typu ventilu, požadovaných normách pro váš cílový trh a na objednaném množství. Pevné ceníkové ceny na webu nezveřejňujeme.",
+          "Větší šarže a možnosti OEM (malba, logo, balení) jsou nabízeny individuálně poté, co zkontrolujeme váš dotaz.",
+          "Přepravní podmínky (FOB/CIF a podobně), dokumenty a dodací lhůty jsou potvrzeny ve formální nabídce.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Vyžádejte si cenovou nabídku",
-    "subtitle": "Sdělte nám velikost, množství, cílovou zemi a aplikaci — připravíme podrobnou cenovou nabídku.",
+    "title": "Pojďme probrat vaše požadavky",
+    "subtitle": "Sdělte nám produkt, velikost, množství, cílovou zemi a specifikace – náš prodejní tým vám odpoví informacemi o produktu a cenovou nabídkou.",
     "formTitle": "Vyžádejte si cenovou nabídku",
-    "formSubtitle": "Zanechte své požadavky – náš prodejní tým vám odpoví informacemi o produktu, cenou, MOQ a dodací lhůtou.",
+    "formSubtitle": "Vyplňte formulář pro obchodní dotaz. Povinná pole jsou označena.",
     "name": "Jméno",
+    "company": "Společnost",
     "phone": "Telefon / WhatsApp",
     "email": "E-mail",
     "product": "Produkt",
-    "quantity": "Množství",
-    "country": "Cílová země",
+    "quantity": "množství (volitelné)",
+    "country": "Cílová země (volitelné)",
     "productOptions": [
       "Acetylenový válec",
       "Propanová láhev",
       "Generátor acetylenu",
       "Příslušenství",
-      "Objednávka balíčku",
-      "Cold storage / refrigeration"
+      "Skladování v chladu / chlazení",
+      "Objednávka balíčku"
     ],
+    "quantityPlaceholder": "např. 200 ks, 1 nádoba nebo TBD",
+    "countryPlaceholder": "Kam bude zboží odesláno",
     "message": "Další požadavky",
     "messagePlaceholder": "Produkt, velikost, množství, země určení...",
     "submit": "Odeslat dotaz",
@@ -461,22 +476,80 @@
     "success": "Děkuju! Brzy vás budeme kontaktovat.",
     "sendAnother": "Pošlete další dotaz",
     "errorGeneric": "Odeslání se nezdařilo. Zkuste to znovu nebo nám napište přímo.",
-    "errorNoForm": "Formulář není nakonfigurován. Napište prosím e-mail na sales@wandagroups.com",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Odeslat přes e-mailovou aplikaci",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
     "privacyPrefix": "souhlasím s",
     "privacySuffix": "a na zpracování mých osobních údajů za účelem vyřízení tohoto dotazu.",
     "privacyLink": "Zásady ochrany osobních údajů",
-    "company": "Společnost",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "Odeslat přes e-mailovou aplikaci",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "termsAnd": "a",
+    "termsLink": "Podmínky použití",
+    "requirements": "Požadavky / Specifikace",
+    "requirementsPlaceholder": "Typ ventilu, barva, standardní, balení, označení OEM, poznámky k množství..."
   },
   "footer": {
     "company": "Výrobce plynových lahví Wanda Group",
     "tagline": "Profesionální výroba plynových lahví",
     "rights": "© 2026 Wanda Group. Všechna práva vyhrazena.",
     "privacy": "Zásady ochrany osobních údajů",
-    "terms": "Terms of Use"
+    "terms": "Podmínky použití"
+  },
+  "privacy": {
+    "label": "Právní",
+    "title": "Zásady ochrany osobních údajů",
+    "updated": "Poslední aktualizace: 25. srpna 2026",
+    "intro": [
+      "Wanda Group („my“, „nás“) provozuje tuto webovou stránku k prezentaci plynových lahví, příslušenství a souvisejících exportních dodávek a k přijímání obchodních dotazů od průmyslových kupujících.",
+      "Tyto zásady vysvětlují, jaké osobní údaje prostřednictvím webu shromažďujeme, proč je používáme a jak nás v této věci můžete kontaktovat. Na této webové stránce jsou uvedena videa z tovární výroby. Soubory certifikátů jsou zasílány soukromě na vyžádání."
+    ],
+    "sections": [
+      {
+        "title": "Kdo je zodpovědný",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Jaké údaje shromažďujeme",
+        "body": [
+          "Když odešlete poptávkový formulář, obdržíme údaje, které zadáte: jméno, e-mail, telefon, cílová země, typ produktu, množství a zpráva.",
+          "Stránky také ukládají vaši volbu jazyka v prohlížeči (localStorage). Neprodáváme reklamní soubory cookie ani neprodáváme seznamy návštěvníků."
+        ]
+      },
+      {
+        "title": "Proč data používáme",
+        "body": [
+          "Údaje z dotazu používáme pouze k tomu, abychom odpověděli na vaši žádost, připravili cenovou nabídku, zaslali informace o produktu, videa nebo certifikáty, o které jste požádali, a abychom koordinovali objednávku, pokud začneme spolupracovat.",
+          "Právní základ: váš souhlas, když zaškrtnete políčko ve formuláři, a náš oprávněný zájem odpovídat na žádosti o prodej B2B."
+        ]
+      },
+      {
+        "title": "Kdo přijímá data",
+        "body": [
+          "Vaše zpráva je doručena našemu prodejnímu týmu e-mailem. Formulář zpracovává Web3Forms, technický poskytovatel, který nám zprávu předává.",
+          "Osobní údaje neprodáváme. Můžeme sdílet to, co je potřeba, s logistickými, kontrolními nebo bankovními partnery pouze v případě, že je to nutné pro splnění dohodnuté objednávky."
+        ]
+      },
+      {
+        "title": "Jak dlouho to držíme",
+        "body": [
+          "Údaje z dotazu jsou uchovávány po dobu nezbytně nutnou k vyřízení žádosti a po přiměřenou dobu pro sledování prodeje a účetnictví, pokud nás nepožádáte o jejich vymazání dříve, pokud to zákon umožňuje."
+        ]
+      },
+      {
+        "title": "Vaše práva",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Bezpečnost a děti",
+        "body": [
+          "Podnikáme přiměřené technické a organizační kroky k ochraně zpráv při přenosu a v naší poštovní schránce. Tato webová stránka je určena pro obchodní kupující, nikoli pro děti."
+        ]
+      }
+    ],
+    "contactLead": "Otázky týkající se těchto zásad:"
   },
   "ui": {
     "catalog": "Katalog",
@@ -494,6 +567,7 @@
     "location": "Umístění",
     "quoteResponse": "Odpověď na nabídku",
     "support": "Podpora",
+    "countriesServed": "Podpora exportu",
     "exportReady": "Export připraven",
     "years": "let",
     "acetylene": "Acetylén",
@@ -508,17 +582,25 @@
     "quality": "Kvalitní",
     "faq": "FAQ",
     "blog": "Blog",
-    "countriesServed": "Obsluhované země",
     "searchLanguage": "Vyhledat jazyk...",
-    "noLanguagesFound": "Nebyly nalezeny žádné jazyky"
+    "noLanguagesFound": "Nebyly nalezeny žádné jazyky",
+    "breadcrumb": "Strouhanka",
+    "primaryNav": "Primární",
+    "menu": "Menu",
+    "playVideo": "Přehrát video",
+    "productGallery": "Galerie produktů",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
     "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "Mezinárodní export",
+    "Kontrola kvality",
+    "Tržní standardy na vyžádání",
+    "Hromadné objednávky"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Osvědčení",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumenty pro celníky a regulátory. Kopie jsou zasílány soukromě na vyžádání.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS a certifikát kvality",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Ceny a dodací podmínky",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Obchodní podmínky jsou potvrzeny na základě poptávky. Zašlete podrobnosti o produktu, množství a cíli pro formální cenovou nabídku.",
+    "note": "Na tomto webu nezveřejňujeme pevné ceníkové ceny, MOQ ani dodací lhůty. Přesné obchodní podmínky jsou potvrzeny v nabídce poté, co zkontrolujeme vaše požadavky.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Ceny",
+        "value": "NA ZNAMENÍ",
+        "desc": "Formální nabídka po přezkoumání dotazu"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Potvrzeno na objednávku",
+        "desc": "Záleží na modelu a destinaci"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Dodací lhůta",
+        "value": "Potvrzeno na objednávku",
+        "desc": "Sdíleno s citací"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Platba",
+        "value": "Dohodnuto ve smlouvě",
+        "desc": "Podmínky potvrzené před výrobou"
       }
     ],
     "factors": {
-      "title": "Cenové faktory",
+      "title": "Co ovlivňuje nabídku",
       "items": [
-        "Objem a model válce (2L – 50L)",
-        "Typ ventilu (CGA, GOST, DIN, POL)",
-        "Certifikační standard (ISO, DOT, TPED)",
-        "OEM: barva, značení, balení",
+        "Objem a model válce",
+        "Typ ventilu a standardní připojení",
+        "Normy požadované pro trh destinací",
+        "OEM barva, značení a balení",
         "Objem objednávky a Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetylen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetylenové lahve",
+        "moq": "NA ZNAMENÍ",
+        "price": "Citováno na dotaz",
+        "lead": "Potvrzeno na objednávku"
       },
       {
-        "product": "Acetylen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propan/LPG lahve",
+        "moq": "NA ZNAMENÍ",
+        "price": "Citováno na dotaz",
+        "lead": "Potvrzeno na objednávku"
       },
       {
-        "product": "Propan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generátory",
+        "moq": "NA ZNAMENÍ",
+        "price": "Citováno na dotaz",
+        "lead": "Potvrzeno na objednávku"
       },
       {
-        "product": "Propan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generátor WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Sada regulátoru",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Příslušenství",
+        "moq": "NA ZNAMENÍ",
+        "price": "Citováno na dotaz",
+        "lead": "Potvrzeno na objednávku"
       }
     ],
     "tableHeaders": [
       "Produkt",
       "MOQ",
-      "Cena (EXW)",
+      "Cena",
       "Dodací lhůta"
     ]
   },
   "certifications": {
     "title": "Certifikace a standardy",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Normy a možnosti certifikace jsou diskutovány podle produktu a cílového trhu. Kopie certifikátů jsou zasílány soukromě na vyžádání — soubory nejsou na tomto webu publikovány.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Obdržet nabídku",
-        "desc": "Cena, MOQ, dodací lhůta a specifikace do 24 hodin"
+        "desc": "Cena, MOQ, dodací lhůta a specifikace po kontrole naším prodejním týmem"
       },
       {
         "title": "Potvrdit objednávku",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Smluvní a platební podmínky dohodnuté před zahájením výroby"
       },
       {
         "title": "Výroba a kontrola kvality",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Výroba a testování. Videa a certifikáty jsou zasílány soukromě na vyžádání"
       },
       {
         "title": "Zásilka",
-        "desc": "Balení, dokumenty, doručení FOB/CIF/DDP"
+        "desc": "Balení, doklady a dodací podmínky dle dohody v objednávce"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Co říkají kupující",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Letos jsme třikrát přeobjednali 40L acetylenové lahve. Ventily GOST, barva OEM a exportní balení pokaždé odpovídaly prvnímu vzorku.",
+        "author": "Rustam Jusupov",
+        "role": "Majitel, distributor svařovacího plynu",
+        "country": "Uzbekistán"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "Nabídka přišla ve stejný den s jasným MOQ a dodací lhůtou. Propanové lahve dorazily s POL ventily a kompletním balicím seznamem – na naší straně žádné celní prodlevy.",
+        "author": "Aigerim Beková",
+        "role": "Manažer nákupu, průmyslové dodávky",
+        "country": "Kazachstán"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Lahve s regulátory a hadicemi nakupujeme jako jednu objednávku kontejneru. Dokumenty a značení byly připraveny pro náš trh, takže další prodej byl jednoduchý.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Import kupující, obchod s plynovými zařízeními",
+        "country": "Saúdská Arábie"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "kvalitní",
         "eyebrow": "Kvalita a bezpečnost",
         "title": "Inspekci můžete uvést v nabídce",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Kontroly materiálu, testy těsnosti, moment ventilu a fotky balení. Balíčky certifikátů a fotoreportáže zasíláme soukromě na vyžádání.",
         "points": [
           "Zkoušky tlaku a těsnosti",
-          "Certificate package",
+          "Certifikáty na vyžádání",
           "Fotky před odesláním"
         ]
       },
       {
         "id": "vývozní",
         "eyebrow": "Globální export",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Baleno pro přístavy, připraveno pro exportní trhy",
         "text": "Exportujte palety, ochranu ventilů, vícejazyčné štítky a přepravní dokumenty koordinované podle Incoterms vaší destinace.",
         "points": [
           "Podpora FOB / CIF",
           "Paletizované balení",
           "Dodací lhůta 15–25 dní"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Zabalené plynové lahve připravené na továrním dvoře k expedici",
+    "about": "Dělníci v továrně Wanda Group",
+    "accessories": "Sada příslušenství pro plynové láhve — regulátory, hadice, hořáky a armatury",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Láhev na rozpuštěný acetylen s porézní hmotou a mosazným ventilem",
+      "Generátor acetylenu vyfotografován v závodě",
+      "Propanové a LPG lahve v různých velikostech a barvách",
+      "Sada příslušenství pro svařování a řezání plynových lahví"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Noční expedice: zabalená technika naložená na přívěs",
+      "Palety a kovové díly připravené k odeslání",
+      "Kartony balených zásob naskládané ve skladu",
+      "Válce zabalené ve filmu, inscenované na továrním dvoře",
+      "Dopravník na výrobu plynových lahví pod střechou závodu",
+      "Lahve LPG zavěšené na horním dokončovacím dopravníku",
+      "Dělníci procházející výrobní halou Wanda Group",
+      "Nelakovaná svařovaná těla propanových válců naskládaná po dvou výškách",
+      "Řady nenatřených plášťů válců na betonové podlaze",
+      "Pažba válcových trubek a zakryté pláště v dílně",
+      "Složená surová těla válců u zdi továrny",
+      "Ocelové základní kroužky naskládané před montáží",
+      "Mosazné kování balené v kartonu s pěnou",
+      "Generátor acetylenu s hadicí a příslušenstvím v krabici",
+      "Nelakované pláště válců s otevřenými hrdly po svařování"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Vzduchem chlazená kondenzační jednotka s polohermetickým kompresorem Copeland",
+      "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Bitzer",
+      "Chladicí kondenzační jednotka ve stylu uzavřené skříně",
+      "Vysokokapacitní čtyřventilátorová vzduchem chlazená kondenzační jednotka"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Právní",
-    "title": "Zásady ochrany osobních údajů",
-    "updated": "Poslední aktualizace: 25. srpna 2026",
-    "intro": [
-      "Wanda Group („my“, „nás“) provozuje tuto webovou stránku k prezentaci plynových lahví, příslušenství a souvisejících exportních dodávek a k přijímání obchodních dotazů od průmyslových kupujících.",
-      "Tyto zásady vysvětlují, jaké osobní údaje prostřednictvím webu shromažďujeme, proč je používáme a jak nás v této věci můžete kontaktovat. Na webu nezveřejňujeme tovární videa ani soubory certifikátů; tyto materiály jsou zasílány soukromě na vyžádání."
-    ],
-    "sections": [
-      {
-        "title": "Kdo je zodpovědný",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Jaké údaje shromažďujeme",
-        "body": [
-          "Když odešlete poptávkový formulář, obdržíme údaje, které zadáte: jméno, e-mail, telefon, cílová země, typ produktu, množství a zpráva.",
-          "Stránky také ukládají vaši volbu jazyka v prohlížeči (localStorage). Neprodáváme reklamní soubory cookie ani neprodáváme seznamy návštěvníků."
-        ]
-      },
-      {
-        "title": "Proč data používáme",
-        "body": [
-          "Údaje z dotazu používáme pouze k tomu, abychom odpověděli na vaši žádost, připravili cenovou nabídku, zaslali informace o produktu, videa nebo certifikáty, o které jste požádali, a abychom koordinovali objednávku, pokud začneme spolupracovat.",
-          "Právní základ: váš souhlas, když zaškrtnete políčko ve formuláři, a náš oprávněný zájem odpovídat na žádosti o prodej B2B."
-        ]
-      },
-      {
-        "title": "Kdo přijímá data",
-        "body": [
-          "Vaše zpráva je doručena našemu prodejnímu týmu e-mailem. V závislosti na konfiguraci může formulář zpracovat Web3Forms jako technický poskytovatel, který nám zprávu předá.",
-          "Osobní údaje neprodáváme. Můžeme sdílet to, co je potřeba, s logistickými, kontrolními nebo bankovními partnery pouze v případě, že je to nutné pro splnění dohodnuté objednávky."
-        ]
-      },
-      {
-        "title": "Jak dlouho to držíme",
-        "body": [
-          "Údaje z dotazu jsou uchovávány po dobu nezbytně nutnou k vyřízení žádosti a po přiměřenou dobu pro sledování prodeje a účetnictví, pokud nás nepožádáte o jejich vymazání dříve, pokud to zákon umožňuje."
-        ]
-      },
-      {
-        "title": "Vaše práva",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Bezpečnost a děti",
-        "body": [
-          "Podnikáme přiměřené technické a organizační kroky k ochraně zpráv při přenosu a v naší poštovní schránce. Tato webová stránka je určena pro obchodní kupující, nikoli pro děti."
-        ]
-      }
-    ],
-    "contactLead": "Otázky týkající se těchto zásad:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Právní",
+    "title": "Podmínky použití",
+    "updated": "Poslední aktualizace: 27. srpna 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Tyto podmínky upravují používání webu wandagroups.com provozovaného společností Wanda Group pro průmyslové nákupčí lahví na plyn, generátorů a příslušenství.",
+      "Prohlížením stránek nebo odesláním dotazu souhlasíte s těmito podmínkami a našimi Zásadami ochrany osobních údajů. Pokud nesouhlasíte, stránky nepoužívejte."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "kdo jsme",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "K čemu web slouží",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Stránka představuje informace o produktech a přijímá obchodní dotazy. Je určen pro podnikatele, nikoli pro spotřebitele nakupující jako soukromé osoby a ne pro děti."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Nabídky, ceny a objednávky",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Ceny, MOQ, dodací lhůty a specifikace na webu jsou orientační. Zpráva přes formulář nebo messenger je dotaz, nikoli objednávka.",
+          "Smlouva vzniká pouze tehdy, když obě strany písemně potvrdí nabídku (e-mailem nebo podepsané dokumenty) a obdrží dohodnutou zálohu, pokud v tomto potvrzení neuvedeme jinak."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotografie, videa a certifikáty",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Tovární fotografie a videa na místě ilustrují výrobu. Extra záznamy a soubory certifikátů jsou zasílány soukromě na vyžádání a zůstávají našimi důvěrnými materiály, pokud neřekneme, že je můžete sdílet."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Duševní vlastnictví",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Text, fotografie, videa, loga a vzhled na této webové stránce patří společnosti Wanda Group nebo našim poskytovatelům licencí. Bez našeho písemného souhlasu nesmíte kopírovat katalog pro své vlastní komerční stránky."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Přijatelné použití",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Nezneužívejte poptávkový formulář (spam, falešná identita nebo pokusy o narušení webu). Urážlivé požadavky můžeme ignorovat nebo smazat."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Odpovědnost",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Dbáme na to, aby byly informace přesné, ale stránka může obsahovat chyby nebo být dočasně nedostupná. V rozsahu povoleném zákonem nenese společnost Wanda Group odpovědnost za nepřímé ztráty vyplývající pouze z používání webové stránky.",
+          "Odpovědnost za skutečnou smlouvu o dodávce je stanovena v této smlouvě a v platném právu, nikoli pouze v podmínkách těchto webových stránek."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Změny",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Tyto podmínky můžeme aktualizovat. Datum v horní části ukazuje aktuální verzi. Pokračování v používání webu po změně znamená, že přijímáte aktualizované podmínky."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Otázky k těmto termínům:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Naše produktová řada",
+    "title": "Chladicí jednotky",
+    "subtitle": "Samostatná řada Wanda Group — ne katalog třetí strany. Kondenzační jednotky, chladírny a kování námi dodávané s válci nebo jako samostatná zakázka.",
+    "moreLink": "Chladírenské zařízení →",
+    "cta": "Vyžádejte si cenovou nabídku",
+    "alsoTitle": "K dispozici také na vyžádání",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Polyuretanové panely pro chladírny (B1 / B2) a nerezové panely 304",
+      "Chladiče vzduchu pro chladírny — DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Hliníkové spirály výparníku",
+      "Dveře do chladíren",
+      "Průmyslové chladiče vody",
+      "Automobilové chladicí jednotky a mobilní chladírny"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Společnost Wanda International Trade dodává chladicí zařízení vedle řady plynových lahví: jednotky, panely, chladiče a související hardware pro chladicí řetězy. Copeland, Bitzer a podobná jména odkazují na značku kompresoru uvnitř jednotky, nikoli na rebrandu těchto společností.",
+    "videoTitle": "Firemní video",
+    "videoSubtitle": "Přehled řady chladicích zařízení. Další záběry zašlu na vyžádání soukromě.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Polohermetická vzduchem chlazená jednotka Copeland",
+        "spec": "Kondenzační jednotka · Kompresor Copeland",
+        "desc": "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Copeland pro chladírny a středněteplotní provoz."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Polohermetická vzduchem chlazená jednotka Bitzer",
+        "spec": "Kondenzační jednotka · Bitzer kompresor",
+        "desc": "Vzduchem chlazená kondenzační jednotka s semihermetickým kompresorem Bitzer pro místnosti s vyšší a střední až nízkou teplotou."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Uzavřená jednotka krabicového typu",
+        "spec": "Skříňová kondenzační jednotka",
+        "desc": "Kondenzační jednotka ve stylu uzavřené skříně pro místa, kde je potřeba spíše zabudovaný stroj než otevřený skluz."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-typ / vysokokapacitní kondenzační jednotka",
+        "spec": "Víceventilátor chlazený vzduchem",
+        "desc": "Větší vzduchem chlazená kondenzační jednotka s víceventilátorovým kondenzátorem pro větší chladírny a procesní chlazení."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Kdo jsme",
+    "title": "Průmyslový výrobce pro B2B kupující",
+    "text": "Wanda Groups vyrábí a dodává průmyslové plynové lahve, generátory a svařovací příslušenství pro zámořské distributory, OEM partnery a projektové nákupčí.",
+    "text2": "Zaměřujeme se na dodávky propojené s továrnou, podporu výběru produktů, hromadné objednávky a koordinaci exportu – nikoli maloobchodní spotřebitelský prodej.",
+    "cta": "Zjistěte o nás více"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Jste připraveni požádat o cenovou nabídku?",
+      "quoteCta": "Vyžádejte si cenovou nabídku",
+      "relatedProducts": "Související produkty",
+      "applications": "Aplikace",
+      "standardsTitle": "Normy a certifikace",
+      "oemTitle": "OEM / přizpůsobení",
+      "packagingTitle": "Balení a dodání",
+      "placeholders": {
+        "standards": "Dostupné standardy a certifikáty jsou potvrzeny podle objednávky a cílového trhu. Kopie certifikátů se zasílají soukromě na vyžádání — soubory se na webu nezveřejňují.",
+        "oem": "OEM barvu, značení, ventil, uzávěr a možnosti balení lze projednat podle objednávky a cílového trhu.",
+        "packaging": "Exportní balení a dokumentace jsou připraveny podle objednávky a dodacích podmínek."
+      }
+    },
+    "home": {
+      "seoTitle": "Výrobce plynových lahví | Průmyslový OEM a export | Skupiny Wanda",
+      "seoDescription": "Wanda Groups vyrábí průmyslové plynové lahve, generátory a svařovací příslušenství pro OEM, velkoobchody a mezinárodní exportní odběratele."
+    },
+    "about": {
+      "label": "O nás",
+      "title": "Výrobce plynových lahví pro průmyslové zákazníky",
+      "subtitle": "Podporujeme zahraniční kupující s výběrem produktů, OEM, kontrolou, balením a dopravou.",
+      "seoTitle": "O skupině Wanda",
+      "seoDescription": "Wanda Group vyrábí acetylenové lahve, propanové lahve, generátory a příslušenství pro svařování, řezání a zásobování průmyslovým plynem."
+    },
+    "products": {
+      "label": "Produkty",
+      "title": "Naše produkty",
+      "subtitle": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+      "seoTitle": "Produkty plynových lahví",
+      "seoDescription": "Acetylenové lahve, generátory, propanové lahve a příslušenství pro průmyslové a svařovací aplikace.",
+      "refrigerationNote": "Společnost Wanda International Trade dodává chladicí zařízení vedle řady plynových lahví: jednotky, panely, chladiče a související hardware pro chladicí řetězy. Copeland, Bitzer a podobná jména odkazují na značku kompresoru uvnitř jednotky, nikoli na rebrandu těchto společností.",
+      "catalog": {
+        "acetylene": {
+          "name": "Rozpuštěné acetylenové válce",
+          "overview": "Ocelové lahve s porézní hmotou a rozpouštědlem pro bezpečné skladování a přepravu acetylenu. Používá se při svařování, řezání, pájení a kovovýrobě.",
+          "seoTitle": "Acetylenové plynové lahve",
+          "seoDescription": "Ocelové lahve s porézní hmotou a rozpouštědlem pro bezpečné skladování a přepravu acetylenu. Používá se při svařování, řezání, pájení a kovovýrobě."
+        },
+        "propane": {
+          "name": "Propanové lahve",
+          "overview": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem.",
+          "seoTitle": "Propanové plynové lahve",
+          "seoDescription": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem."
+        },
+        "lpg": {
+          "name": "LPG válce",
+          "overview": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem.",
+          "seoTitle": "Plynové lahve LPG",
+          "seoDescription": "Lahve na směsi propanu, butanu a LPG. Používá se při vytápění, řezání, pájení, ve stavebnictví a v zásobování průmyslovým plynem."
+        },
+        "industrial": {
+          "name": "Průmyslové plynové lahve",
+          "overview": "Průmyslové plynové lahve pro svařování, řezání a zásobování provozem – včetně možností acetylenu, propanu a LPG přizpůsobených vašemu trhu.",
+          "seoTitle": "Průmyslové plynové lahve",
+          "seoDescription": "Průmyslové plynové lahve pro svařování, řezání a zásobování zařízení od Wanda Group."
+        },
+        "generators": {
+          "name": "Generátory acetylenu",
+          "overview": "Zařízení na výrobu acetylenu z karbidu vápníku. Stabilní dodávka plynu pro svařování a průmyslové potřeby bez centralizované plynárenské infrastruktury.",
+          "seoTitle": "Generátory acetylenu",
+          "seoDescription": "Zařízení na výrobu acetylenu z karbidu vápníku. Stabilní dodávka plynu pro svařování a průmyslové potřeby bez centralizované plynárenské infrastruktury."
+        },
+        "accessories": {
+          "name": "Příslušenství a armatury válců",
+          "overview": "Kompletní řada pro bezpečný provoz plynových lahví: od měřidel po svařovací hořáky. Jednorázové zásobování s lahvemi.",
+          "seoTitle": "Svařovací příslušenství",
+          "seoDescription": "Kompletní řada pro bezpečný provoz plynových lahví: od měřidel po svařovací hořáky. Jednorázové zásobování s lahvemi."
+        },
+        "refrigeration": {
+          "name": "Chladicí jednotky",
+          "overview": "Samostatná řada Wanda Group — ne katalog třetí strany. Kondenzační jednotky, chladírny a kování námi dodávané s válci nebo jako samostatná zakázka.",
+          "seoTitle": "Chladicí jednotky",
+          "seoDescription": "Samostatná řada Wanda Group — ne katalog třetí strany. Kondenzační jednotky, chladírny a kování námi dodávané s válci nebo jako samostatná zakázka."
+        }
+      }
+    },
+    "factory": {
+      "label": "Továrna",
+      "title": "Továrna a výroba",
+      "subtitle": "Výroba, kontrola, balení a expedice – dokumentováno skutečnými fotografiemi rostlin a továrními videi.",
+      "seoTitle": "Továrna a výroba | Skupiny Wanda",
+      "seoDescription": "Skutečné fotografie rostlin, živé záběry z expedice a krátká videa z výroby.",
+      "sections": [
+        {
+          "title": "Výrobní",
+          "text": "Tváření válců, svařování a dokončování jako součást výrobního toku závodu."
+        },
+        {
+          "title": "Výrobní proces",
+          "text": "Od přípravy skořepiny až po montáž a konečnou úpravu – podívejte se na záběry skladových zásob a výroby."
+        },
+        {
+          "title": "Kontrola kvality",
+          "text": "Vizuální, značkovací a rozměrové kontroly příprava lahví k expedici."
+        },
+        {
+          "title": "Testování",
+          "text": "Testování tlaku a těsnosti se provádí před tím, než produkty opustí linku, podle požadavků objednávky."
+        },
+        {
+          "title": "Obal",
+          "text": "Exportní balení chrání lahve a armatury pro zámořskou přepravu."
+        },
+        {
+          "title": "Načítání a export",
+          "text": "Uskladnění skladu, nakládka kamionů a expediční dokumentace pro odchozí objednávky."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Certifikace",
+      "title": "Certifikace a standardy",
+      "subtitle": "Normy běžně požadované kupujícími jsou uvedeny níže. Použitelnost závisí na produktu a cílovém trhu. Kopie, čísla a platnost certifikátů jsou sdíleny soukromě na vyžádání – nejsou publikovány jako neověřené nároky.",
+      "seoTitle": "Certifikace a standardy | Skupiny Wanda",
+      "seoDescription": "Normy diskutované pro plynové lahve skupiny Wanda podle trhu. Kopie certifikátů jsou poskytovány soukromě na vyžádání.",
+      "note": "Kopie certifikátů jsou zasílány soukromě na vyžádání. Soubory certifikátů na webu nezveřejňujeme."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM a velkoobchod",
+      "subtitle": "Možnosti soukromých značek a hromadné dodávky pro distributory a průmyslové nákupčí.",
+      "seoTitle": "OEM dodávka plynových lahví",
+      "seoDescription": "Výroba OEM a soukromých plynových lahví pro zámořské značky a distributory.",
+      "quoteTitle": "Diskutujte o požadavcích OEM",
+      "quoteCta": "Vyžádejte si nabídku OEM",
+      "capabilities": [
+        {
+          "title": "Vlastní logo",
+          "text": "Možnosti loga a označení diskutované pro oprávněné objednávky OEM."
+        },
+        {
+          "title": "Vlastní barva",
+          "text": "Barva válce podle požadavků trhu nebo značky."
+        },
+        {
+          "title": "Balení na zakázku",
+          "text": "Export kartonů, palet a obalových značek na objednávku."
+        },
+        {
+          "title": "Soukromá značka",
+          "text": "Označování a prezentace značek pro distribuční kanály."
+        },
+        {
+          "title": "Hromadné objednávky",
+          "text": "Velkoobchodní množství pro projekt a nákup distributorů."
+        },
+        {
+          "title": "OEM výroba",
+          "text": "Konfigurace produktu v souladu s vaší specifikací a trhem."
+        },
+        {
+          "title": "Podpora exportu",
+          "text": "Koordinace dokumentů a přepravy pro zámořské doručení."
+        }
+      ]
+    },
+    "markets": {
+      "label": "trhy",
+      "title": "Globální trhy",
+      "subtitle": "Podporujeme mezinárodní B2B kupující. Níže uvedené regiony popisují společné oblasti dotazování – konkrétní země a projekty jsou potvrzeny případ od případu.",
+      "seoTitle": "Globální trhy | Export skupin Wanda",
+      "seoDescription": "Wanda Groups spolupracuje s mezinárodními průmyslovými odběrateli napříč Afrikou, Středním východem, Střední Asií, jihovýchodní Asií, Latinskou Amerikou a dalšími trhy.",
+      "note": "Na této stránce nezveřejňujeme neověřené počty zemí, jména zákazníků ani reference projektů.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Průmyslové a distributorské dotazy z afrických trhů."
+        },
+        {
+          "title": "Střední východ",
+          "text": "Kupující získávají tlakové láhve a související vybavení pro regionální projekty."
+        },
+        {
+          "title": "Střední Asie",
+          "text": "Diskuse o velkoobchodu a dodávkách projektů na trzích střední Asie."
+        },
+        {
+          "title": "Jihovýchodní Asie",
+          "text": "Průmysloví nákupčí hodnotící exportní dodávky lahví."
+        },
+        {
+          "title": "Latinská Amerika",
+          "text": "Dotazy na průmyslové plynové láhve a příslušenství."
+        },
+        {
+          "title": "Ostatní mezinárodní trhy",
+          "text": "Další destinace jsou posuzovány podle standardu produktu a logistiky."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Aplikace",
+      "title": "Aplikace válců",
+      "subtitle": "Produkty navržené pro běžné úlohy průmyslového plynu a požadavky zahraničních kupujících.",
+      "seoTitle": "Aplikace válců",
+      "seoDescription": "Produkty navržené pro běžné úlohy průmyslového plynu a požadavky zahraničních kupujících.",
+      "items": [
+        {
+          "title": "Svařování a pájení",
+          "text": "Rozpuštěný acetylén a související vybavení pro dílenské a výrobní svařování."
+        },
+        {
+          "title": "Řezání kovů",
+          "text": "Válce a příslušenství pro kyslíko-palivové řezání na místě a v závodě."
+        },
+        {
+          "title": "Zásobování průmyslovým plynem",
+          "text": "Dodávka tlakových lahví pro průmyslové rozvody a plynové systémy závodů."
+        },
+        {
+          "title": "Konstrukce",
+          "text": "Přenosná dodávka plynu pro stavební a údržbářské práce."
+        },
+        {
+          "title": "Kovová výroba",
+          "text": "Válce a příslušenství pro výrobní obchody a loděnice."
+        },
+        {
+          "title": "Skladování a distribuce plynu",
+          "text": "Skladovací a distribuční lahve pro průmyslové nákupčí."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Často kladené otázky",
+      "subtitle": "Společnost, produkty, OEM a export – odpovědi pro zahraniční kupující, než požádáte o cenovou nabídku.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Společnost, produkty, OEM a export – odpovědi pro zahraniční kupující, než požádáte o cenovou nabídku."
+    },
+    "contactPage": {
+      "label": "Kontakt",
+      "title": "Pojďme probrat vaše požadavky",
+      "subtitle": "Kontaktujte náš prodejní tým prostřednictvím formuláře, e-mailu nebo messengeru. Sdílejte produkt, množství a místo určení pro rychlejší cenovou nabídku.",
+      "seoTitle": "Vyžádejte si cenovou nabídku",
+      "seoDescription": "Sdělte nám velikost, množství, cílovou zemi a aplikaci — připravíme podrobnou cenovou nabídku."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Nejnovější články",
+      "subtitle": "Odborný obsah pro odborníky na svařování a dodávky plynu.",
+      "seoTitle": "Články a průvodce",
+      "seoDescription": "Odborný obsah pro odborníky na svařování a dodávky plynu.",
+      "coming": "Zde budou přidány další návody pro kupující a poznámky k produktu. Použijte výše uvedené články nebo nás kontaktujte pro materiály specifické pro produkt."
+    },
+    "privacy": {
+      "seoTitle": "Zásady ochrany osobních údajů",
+      "seoDescription": "Zásady ochrany osobních údajů pro dotazy na webové stránky Wanda Group a osobní údaje."
+    },
+    "terms": {
+      "seoTitle": "Podmínky použití",
+      "seoDescription": "Podmínky použití webu Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Stránka nenalezena",
+      "seoDescription": "Požadovaná stránka není dostupná.",
+      "title": "Stránka nenalezena",
+      "text": "Stránka, kterou hledáte, neexistuje nebo se přesunula.",
+      "home": "Domov",
+      "products": "Produkty",
+      "contact": "Kontakt / Získejte cenovou nabídku"
+    }
   }
 }

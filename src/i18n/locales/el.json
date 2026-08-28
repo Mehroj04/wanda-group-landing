@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Σπίτι",
     "products": "Προϊόντα",
     "specs": "Προδιαγραφές",
     "applications": "Εφαρμογές",
     "about": "Για",
     "gallery": "Στοά",
+    "factory": "Εργοστάσιο",
     "quality": "Ποιότητα",
     "faq": "FAQ",
     "contact": "Επαφή",
@@ -13,44 +15,42 @@
     "services": "Υπηρεσίες",
     "pricing": "Τιμολόγηση",
     "accessories": "Αξεσουάρ",
-    "home": "Σπίτι",
-    "factory": "Εργοστάσιο",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Ψυκτική αποθήκευση",
+    "cooling": "Ψύξη",
+    "certifications": "Πιστοποιήσεις",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Αγορές"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Κατασκευαστής βιομηχανικών κυλίνδρων αερίου",
+    "title": "Κατασκευαστής βιομηχανικών κυλίνδρων και εξοπλισμού αερίου",
+    "subtitle": "Κατασκευή, OEM και χονδρική προμήθεια κυλίνδρων ασετυλίνης, φιαλών προπανίου/LPG, γεννητριών και εξαρτημάτων συγκόλλησης για διεθνείς αγοραστές εξαγωγών.",
+    "lineGas": "Φιάλες αερίου",
+    "lineCold": "Ψυκτικές μονάδες",
+    "cta": "Λάβετε μια προσφορά",
+    "ctaSecondary": "Προβολή προϊόντων",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Προμήθεια εστιασμένη στον κατασκευαστή"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Ιδιωτική ετικέτα και προσαρμογή"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Υποστήριξη διεθνούς αποστολής"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Διαδικασία επιθεώρησης και δοκιμής"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Επιλογές για συγκεκριμένες αγορές κατόπιν αιτήματος"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Αξιόπιστα εξαρτήματα κυλίνδρων αερίου",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Τα προϊόντα μας",
     "subtitle": "Φιάλες ακετυλενίου, γεννήτριες, φιάλες προπανίου και εξαρτήματα για βιομηχανικές εφαρμογές και εφαρμογές συγκόλλησης.",
+    "viewDetails": "Προβολή λεπτομερειών",
     "items": [
       {
         "title": "Κύλινδρος Ακετυλενίου",
-        "desc": "Διαλυμένες φιάλες ασετυλίνης για συγκόλληση, κοπή και βιομηχανικά αέρια. Διάφορα μεγέθη και επιλογές βαλβίδων.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · πρότυπα επιβεβαιωμένα ανά αγορά",
+        "desc": "Φιάλες διαλυμένης ασετυλίνης για συγκόλληση, κοπή και παροχή βιομηχανικού αερίου.",
+        "icon": "🔥"
       },
       {
         "title": "Γεννήτρια Ακετυλενίου",
-        "desc": "Εξοπλισμός για σταθερή παραγωγή αερίου, εύκολη λειτουργία και βιομηχανικές εφαρμογές.",
-        "icon": "⚙️",
-        "spec": "Βιομηχανικά συστήματα παραγωγής"
+        "spec": "Βιομηχανικά συστήματα παραγωγής",
+        "desc": "Εξοπλισμός για σταθερή παραγωγή ακετυλενίου στο εργοτάξιο και στο εργοστάσιο.",
+        "icon": "⚙️"
       },
       {
         "title": "Κύλινδρος προπανίου",
-        "desc": "Ανθεκτικοί κύλινδροι για προπάνιο και υγραέριο — αποθήκευση, θέρμανση, κοπή και βιομηχανική χρήση.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · επιλογές βαλβίδων ανά αγορά",
+        "desc": "Ανθεκτικοί κύλινδροι υγραερίου για θέρμανση, κοπή και βιομηχανική χρήση.",
+        "icon": "🛢️"
       },
       {
         "title": "Εξαρτήματα κυλίνδρων",
-        "desc": "Σωλήνες, μετρητές, φακοί κοπής, καυστήρες συγκόλλησης, βαλβίδες ασφαλείας και άλλα.",
-        "icon": "🔧",
-        "spec": "Βαλβίδες · ρυθμιστές · σωλήνες · φακοί"
+        "spec": "Βαλβίδες · ρυθμιστές · σωλήνες · φακοί",
+        "desc": "Ταιριαστά εξαρτήματα που παρέχονται με κυλίνδρους ή ως ξεχωριστή παραγγελία.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Προβολή λεπτομερειών"
+    ]
   },
   "specs": {
     "title": "Τεχνικές Προδιαγραφές",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Γιατί να επιλέξετε ομάδες Wanda",
+    "subtitle": "Συγκεκριμένες δυνατότητες για βιομηχανικούς αγοραστές που αξιολογούν έναν κατασκευαστικό εταίρο.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Προμήθεια εστιασμένη στον κατασκευαστή",
+        "desc": "Η προσφορά προϊόντων προσανατολίζεται στην παραγωγή, όχι μόνο στους καταλόγους εμπορίας."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Υποστήριξη OEM",
+        "desc": "Το προσαρμοσμένο χρώμα, η σήμανση, η βαλβίδα και η συσκευασία συζητούνται ανά παραγγελία."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Ποιοτικός έλεγχος",
+        "desc": "Επιθεώρηση από υλικά μέσω συσκευασίας πριν από την αποστολή."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Διεθνείς εξαγωγές",
+        "desc": "Εξαγωγή συσκευασίας και συντονισμός αποστολής για αγοραστές από το εξωτερικό."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Προσαρμογή προϊόντος",
+        "desc": "Προδιαγραφές προσαρμοσμένες στις απαιτήσεις της αγοράς και των εφαρμογών."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Υποστήριξη απόκρισης πωλήσεων",
+        "desc": "Προσφορές και τεχνικές απαντήσεις μέσω φόρμας, email και messenger."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Δυνατότητα μαζικής παραγγελίας",
+        "desc": "Ποσότητες χονδρικής που υποστηρίζονται για διανομείς και αγοραστές έργων."
       }
     ]
   },
   "about": {
-    "title": "Επαγγελματικός κατασκευαστής κυλίνδρων αερίου",
-    "text": "Η Wanda Group Gas Cylinder Manufacturer ειδικεύεται στην παραγωγή και προμήθεια βιομηχανικών κυλίνδρων αερίου και συναφών εξαρτημάτων. Τα προϊόντα μας χρησιμοποιούνται ευρέως στη συγκόλληση, την κοπή, τη διανομή αερίου, τη βιομηχανική αποθήκευση και άλλους τομείς παροχής αερίου.",
-    "text2": "Υποστηρίζουμε τους ξένους αγοραστές στην επιλογή προϊόντων, την προσαρμογή, τον ποιοτικό έλεγχο, τη συσκευασία και τον συντονισμό αποστολής.",
+    "title": "Κατασκευαστής φιαλών αερίου για βιομηχανικούς αγοραστές",
+    "text": "Η Wanda Group κατασκευάζει φιάλες ασετυλίνης, φιάλες προπανίου, γεννήτριες και εξαρτήματα για συγκόλληση, κοπή και βιομηχανική παροχή αερίου.",
+    "text2": "Υποστηρίζουμε αγοραστές από το εξωτερικό με επιλογή προϊόντων, OEM, επιθεώρηση, συσκευασία και αποστολή.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Βιομηχανοποίηση",
+        "desc": "Μορφοποίηση, συγκόλληση, δοκιμή και φινίρισμα για βιομηχανικούς κυλίνδρους αερίου."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Υποστήριξη OEM",
+        "desc": "Χρώμα, σήμανση, βαλβίδα, καπάκι και επιλογές συσκευασίας κατά παραγγελία."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Ποιοτική Διαδικασία",
+        "desc": "Επιθεώρηση και δοκιμή ευθυγραμμισμένη με τις απαιτήσεις της παραγγελίας και της αγοράς."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Διεθνής Εξαγωγή",
+        "desc": "Υποστήριξη τεκμηρίωσης και συσκευασίας για βιομηχανικούς αγοραστές στο εξωτερικό."
       }
     ]
   },
   "gallery": {
     "title": "Μέσα στο εργοστάσιό μας",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Πραγματικές φωτογραφίες φυτών, ζωντανές λήψεις αποστολής και σύντομα βίντεο από το χώρο παραγωγής.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Νυχτερινή αποστολή",
+        "desc": "Ένα φορτωμένο τρέιλερ φεύγει με τυλιγμένο εξοπλισμό — ο χρόνος και ο τόπος σημειώνονται στο πλάνο."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Το φορτίο τοποθετήθηκε για αποστολή",
+        "desc": "Παλέτες και εξαρτήματα που συλλέγονται για αποστολή. Μια ζωντανή φωτογραφία αποθήκης, όχι ένα σετ στούντιο."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Συσκευασμένο απόθεμα",
+        "desc": "Χαρτοκιβώτια στοιβαγμένα στην αποθήκη, έτοιμα για την επόμενη εξερχόμενη παραγγελία."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Συσκευασμένο για αποστολή",
+        "desc": "Κύλινδροι τυλιγμένοι και τοποθετημένοι στην αυλή του εργοστασίου για αποστολή."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Μεταφορέας παραγωγής",
+        "desc": "Σώματα κυλίνδρων που κινούνται μέσω της γραμμής διαμόρφωσης και χειρισμού."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Γραμμή φινιρίσματος LPG",
+        "desc": "Βαμμένες φιάλες υγραερίου στον εναέριο μεταφορέα πριν από τη συσκευασία."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Μέσα στο φυτό",
+        "desc": "Η αίθουσα παραγωγής — άνθρωποι, μηχανές και απόθεμα υπό επεξεργασία."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Συγκολλημένα σώματα κυλίνδρων",
+        "desc": "Κοχύλια μετά από περιφερειακή συγκόλληση, πριν το βάψιμο και βαλβίδες."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Κοχύλια πριν το βάψιμο",
+        "desc": "Άβαφα σώματα παρτίδες στο πάτωμα για το επόμενο βήμα της διαδικασίας."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Απόθεμα υπό επεξεργασία",
+        "desc": "Τμήματα σωλήνων και καλυμμένα κελύφη που περιμένουν τη συναρμολόγηση."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Σώματα κυλίνδρων σε απόθεμα",
+        "desc": "Ελασμένα κοχύλια στοιβαγμένα μετά τη συγκόλληση, πριν από τις κεφαλές και τις βαλβίδες."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Δακτύλιοι βάσης",
+        "desc": "Δακτύλιοι ποδιών προετοιμασμένοι για συγκόλληση σε κελύφη κυλίνδρων."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Συσκευασμένα εξαρτήματα",
+        "desc": "Βαλβίδες και εξαρτήματα συσκευασμένα με αφρό για αποστολή εξαγωγής."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Γεννήτρια ακετυλενίου",
+        "desc": "Μια μονάδα γεννήτριας με σωλήνα και εξαρτήματα, έτοιμη να εγκαταλείψει το εργοστάσιο."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Κοχύλια στο πάτωμα",
+        "desc": "Σώματα με ανοιχτό λαιμό μετά τη συγκόλληση — η παρτίδα πριν από την τοποθέτηση της βαλβίδας."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Εργοστασιακά βίντεο",
+    "videosSubtitle": "Νέο σορτς από το πάτωμα του φυτού. Περισσότερα βίντεο αποστέλλονται ιδιωτικά κατόπιν αιτήματος."
   },
   "quality": {
     "title": "Ποιοτικός έλεγχος",
     "subtitle": "Κάθε παρτίδα ακολουθεί την ίδια διαδρομή: παραγωγή, δοκιμή, επιθεώρηση και τελικός ποιοτικός έλεγχος.",
     "steps": [
       {
-        "title": "Παραγωγή",
-        "desc": "Μορφοποίηση, συγκόλληση και συναρμολόγηση υπό έλεγχο διαδικασίας εγκατάστασης."
+        "title": "Πρώτη ύλη",
+        "desc": "Τα εισερχόμενα υλικά εξετάζονται σύμφωνα με τις απαιτήσεις παραγγελίας και διαδικασίας."
       },
       {
-        "title": "Δοκιμές",
-        "desc": "Δοκιμές πίεσης και διαρροής πριν οι κύλινδροι φύγουν από τη γραμμή."
+        "title": "Παραγωγή",
+        "desc": "Μορφοποίηση, συγκόλληση και συναρμολόγηση υπό έλεγχο διαδικασίας εγκατάστασης."
       },
       {
         "title": "Επιθεώρηση",
         "desc": "Οπτικοί έλεγχοι, σήμανση και διαστάσεις έναντι της παραγγελίας."
       },
       {
-        "title": "Τελικός Ποιοτικός Έλεγχος",
-        "desc": "Επιθεώρηση συσκευασίας πριν από την αποστολή εξαγωγής."
+        "title": "Δοκιμές",
+        "desc": "Δοκιμές πίεσης και διαρροής πριν οι κύλινδροι φύγουν από τη γραμμή."
+      },
+      {
+        "title": "Τελικό QC",
+        "desc": "Τελικός ποιοτικός έλεγχος πριν από την απελευθέρωση για συσκευασία."
+      },
+      {
+        "title": "Συσκευασία",
+        "desc": "Συσκευασία εξαγωγής προετοιμασμένη για μεταφορά."
+      },
+      {
+        "title": "Αποστολή",
+        "desc": "Τεκμηρίωση φόρτωσης και αποστολής για εξερχόμενες παραγγελίες."
       }
     ]
   },
   "faq": {
     "title": "Συχνές Ερωτήσεις",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Εταιρεία, προϊόντα, OEM και εξαγωγές — απαντήσεις για αγοραστές από το εξωτερικό προτού ζητήσετε προσφορά.",
     "cta": "Δεν βρήκατε την ερώτησή σας; Στείλτε το προϊόν, το μέγεθος, την ποσότητα και τη χώρα προορισμού — θα σας απαντήσουμε με μια λεπτομερή προσφορά.",
     "ctaBtn": "Λάβετε μια προσφορά",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Βίντεο και έγγραφα",
         "items": [
           {
             "q": "Μπορώ να δω εργοστασιακά βίντεο πριν κάνω μια παραγγελία;",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ναί. Παρακολουθήστε βίντεο παραγωγής στην ενότητα Factory σε αυτήν τη σελίδα. Επιπλέον υλικό, κλιπ συσκευασίας και πιστοποιητικά αποστέλλονται ιδιωτικά κατόπιν αιτήματος."
           },
           {
             "q": "Παρέχετε βίντεο προϊόντων, ειδικά για κυλίνδρους ασετυλίνης;",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ναί. Βίντεο, φωτογραφίες και λεπτομερείς πληροφορίες για φιάλες ασετυλίνης αποστέλλονται ιδιωτικά σύμφωνα με το αίτημά σας."
           },
           {
             "q": "Μπορείτε να προβάλετε βίντεο παραγωγής και ποιοτικού ελέγχου;",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ναί. Τα διαθέσιμα βίντεο παραγωγής, ελέγχου ποιότητας, συσκευασίας και αποθήκευσης αποθήκης αποστέλλονται ιδιωτικά, ώστε να μπορείτε να δείτε πώς παρασκευάζονται τα προϊόντα."
           },
           {
             "q": "Μπορώ να ζητήσω ένα βίντεο προϊόντος για μια συγκεκριμένη παραγγελία;",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Για μια συγκεκριμένη παραγγελία ή απαιτήσεις προϊόντος, επικοινωνήστε μαζί μας — θα συζητήσουμε την υποστήριξη βίντεο και θα στείλουμε τα υλικά ιδιωτικά."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Πώς μπορώ να λάβω βίντεο, πιστοποιητικά και προσφορά;",
+            "a": "Στη φόρμα ερωτήματος, καθορίστε τον τύπο προϊόντος, το μέγεθος του κυλίνδρου, την ποσότητα, τη χώρα προορισμού και τι να στείλετε: βίντεο, πιστοποιητικά ή και τα δύο. Θα τους στείλουμε ιδιωτικά και θα ετοιμάσουμε μια προσφορά."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Μπορείτε να δώσετε φωτογραφίες και προδιαγραφές προϊόντων;",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ναί. Οι φωτογραφίες προϊόντων, οι προδιαγραφές και τα δελτία δεδομένων αποστέλλονται ιδιωτικά κατόπιν αιτήματος."
           },
           {
             "q": "Πώς μπορώ να λάβω προσφορά για αξεσουάρ;",
@@ -427,56 +439,117 @@
         "title": "Οδηγός προϋπολογισμού για αγορά κυλίνδρων ασετυλίνης",
         "desc": "Παράγοντες που επηρεάζουν το κόστος και πώς να επιλέξετε τη βέλτιστη προσφορά.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Επίσης, λάβετε υπόψη τη ναυτιλία (FOB/CIF), τα έγγραφα και το MOQ. Απαντάμε εντός 24 ωρών με πλήρεις προδιαγραφές, χρόνο παράδοσης και Incoterms.",
-          "Για ακριβή προσφορά, συμπεριλάβετε τις απαιτήσεις μοντέλου, ποσότητας, χώρας προορισμού και βαλβίδας στη φόρμα επικοινωνίας — ή στείλτε email στο sales@wandagroups.com."
+          "Η τιμολόγηση των κυλίνδρων ασετυλενίου εξαρτάται από τον όγκο, τον τύπο βαλβίδας, τα απαιτούμενα πρότυπα για την αγορά προορισμού σας και την ποσότητα παραγγελίας. Δεν δημοσιεύουμε σταθερές τιμές καταλόγου στον ιστότοπο.",
+          "Οι μεγαλύτερες παρτίδες και οι επιλογές OEM (ζωγραφική, λογότυπο, συσκευασία) αναφέρονται ξεχωριστά αφού εξετάσουμε το ερώτημά σας.",
+          "Οι όροι αποστολής (FOB/CIF και παρόμοια), τα έγγραφα και ο χρόνος παράδοσης επιβεβαιώνονται στην επίσημη προσφορά.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Ζητήστε προσφορά",
-    "subtitle": "Πείτε μας το μέγεθος, την ποσότητα, τη χώρα προορισμού και την εφαρμογή — θα ετοιμάσουμε μια λεπτομερή προσφορά.",
+    "title": "Ας συζητήσουμε τις απαιτήσεις σας",
+    "subtitle": "Πείτε μας το προϊόν, το μέγεθος, την ποσότητα, τη χώρα προορισμού και τις προδιαγραφές — η ομάδα πωλήσεών μας θα απαντήσει με πληροφορίες προϊόντος και προσφορά.",
     "formTitle": "Ζητήστε προσφορά",
-    "formSubtitle": "Αφήστε τις απαιτήσεις σας — η ομάδα πωλήσεών μας θα απαντήσει με πληροφορίες προϊόντος, τιμές, MOQ και χρόνο παράδοσης.",
+    "formSubtitle": "Συμπληρώστε τη φόρμα για μια εμπορική έρευνα. Τα υποχρεωτικά πεδία επισημαίνονται.",
     "name": "Ονομα",
+    "company": "Εταιρεία",
     "phone": "Τηλέφωνο / WhatsApp",
     "email": "E-mail",
     "product": "Προϊόν",
-    "quantity": "Ποσότητα",
-    "country": "Χώρα προορισμού",
+    "quantity": "Ποσότητα (προαιρετικό)",
+    "country": "Χώρα προορισμού (προαιρετικό)",
     "productOptions": [
       "Κύλινδρος Ακετυλενίου",
       "Κύλινδρος προπανίου",
       "Γεννήτρια Ακετυλενίου",
       "Αξεσουάρ",
-      "Παραγγελία δέσμης",
-      "Cold storage / refrigeration"
+      "Ψυκτική αποθήκευση/ψύξη",
+      "Παραγγελία δέσμης"
     ],
+    "quantityPlaceholder": "π.χ. 200 τεμ, 1 δοχείο ή TBD",
+    "countryPlaceholder": "Πού θα αποσταλούν τα εμπορεύματα",
     "message": "Πρόσθετες Απαιτήσεις",
     "messagePlaceholder": "Προϊόν, μέγεθος, ποσότητα, χώρα προορισμού...",
-    "submit": "Αποστολή Ερώτησης",
+    "submit": "Υποβολή ερωτήματος",
     "sending": "Αποστολή...",
     "success": "Σας ευχαριστώ! Θα επικοινωνήσουμε μαζί σας σύντομα.",
     "sendAnother": "Στείλτε άλλη ερώτηση",
     "errorGeneric": "Αποτυχία αποστολής. Δοκιμάστε ξανά ή στείλτε μας email απευθείας.",
-    "errorNoForm": "Η φόρμα δεν έχει διαμορφωθεί. Παρακαλούμε στείλτε email στο sales@wandagroups.com",
-    "privacyPrefix": "συμφωνώ με το",
-    "privacySuffix": "και στην επεξεργασία των προσωπικών μου δεδομένων για τη διεκπεραίωση αυτής της έρευνας.",
-    "privacyLink": "Πολιτική Απορρήτου",
-    "company": "Εταιρεία",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Αποστολή μέσω εφαρμογής email",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "συμφωνώ με το",
+    "privacySuffix": ", και στην επεξεργασία των προσωπικών μου δεδομένων για τη διεκπεραίωση αυτής της έρευνας.",
+    "privacyLink": "Πολιτική Απορρήτου",
+    "termsAnd": "και το",
+    "termsLink": "Όροι Χρήσης",
+    "requirements": "Απαιτήσεις / Προδιαγραφές",
+    "requirementsPlaceholder": "Τύπος βαλβίδας, χρώμα, στάνταρ, συσκευασία, σήμανση OEM, σημειώσεις ποσότητας..."
   },
   "footer": {
     "company": "Κατασκευαστής κυλίνδρων αερίου Wanda Group",
     "tagline": "Επαγγελματική κατασκευή κυλίνδρων αερίου",
     "rights": "© 2026 Wanda Group. Με την επιφύλαξη παντός δικαιώματος.",
     "privacy": "Πολιτική Απορρήτου",
-    "terms": "Terms of Use"
+    "terms": "Όροι Χρήσης"
+  },
+  "privacy": {
+    "label": "Νομικός",
+    "title": "Πολιτική Απορρήτου",
+    "updated": "Τελευταία ενημέρωση: 25 Αυγούστου 2026",
+    "intro": [
+      "Ο Όμιλος Wanda («εμείς», «εμάς») λειτουργεί αυτόν τον ιστότοπο για να παρουσιάζει φιάλες αερίου, αξεσουάρ και σχετικό προμήθεια εξαγωγών και να λαμβάνει εμπορικά ερωτήματα από βιομηχανικούς αγοραστές.",
+      "Αυτή η πολιτική εξηγεί ποια προσωπικά δεδομένα συλλέγουμε μέσω του ιστότοπου, γιατί τα χρησιμοποιούμε και πώς μπορείτε να επικοινωνήσετε μαζί μας σχετικά. Σε αυτόν τον ιστότοπο εμφανίζονται βίντεο εργοστασιακής παραγωγής. Τα αρχεία πιστοποιητικών αποστέλλονται ιδιωτικά κατόπιν αιτήματος."
+    ],
+    "sections": [
+      {
+        "title": "Ποιος είναι υπεύθυνος",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Τι δεδομένα συλλέγουμε",
+        "body": [
+          "Όταν στέλνετε τη φόρμα ερωτήματος, λαμβάνουμε τα δεδομένα που εισάγετε: όνομα, email, τηλέφωνο, χώρα προορισμού, τύπος προϊόντος, ποσότητα και μήνυμα.",
+          "Ο ιστότοπος αποθηκεύει επίσης την επιλογή της γλώσσας σας στο πρόγραμμα περιήγησης (localStorage). Δεν εκτελούμε διαφημιστικά cookies ούτε πουλάμε λίστες επισκεπτών."
+        ]
+      },
+      {
+        "title": "Γιατί χρησιμοποιούμε τα δεδομένα",
+        "body": [
+          "Χρησιμοποιούμε δεδομένα ερωτήσεων μόνο για να απαντήσουμε στο αίτημά σας, να προετοιμάσουμε μια προσφορά, να στείλουμε πληροφορίες προϊόντος, βίντεο ή πιστοποιητικά που ζητήσατε και για να συντονίσουμε μια παραγγελία εάν αρχίσουμε να συνεργαζόμαστε.",
+          "Νομική βάση: η συγκατάθεσή σας όταν επιλέγετε το πλαίσιο ελέγχου στη φόρμα και το έννομο συμφέρον μας να απαντήσουμε σε αιτήματα πωλήσεων B2B."
+        ]
+      },
+      {
+        "title": "Ποιος λαμβάνει τα δεδομένα",
+        "body": [
+          "Το μήνυμά σας παραδίδεται στην ομάδα πωλήσεών μας μέσω email. Η επεξεργασία της φόρμας γίνεται από την Web3Forms, έναν τεχνικό πάροχο που μας μεταδίδει το μήνυμα.",
+          "Δεν πουλάμε προσωπικά δεδομένα. Μπορούμε να μοιραστούμε ό,τι χρειάζεται με τους εταίρους εφοδιαστικής, επιθεώρησης ή τραπεζικούς συνεργάτες μόνο εάν αυτό απαιτείται για την εκπλήρωση μιας συμφωνημένης παραγγελίας."
+        ]
+      },
+      {
+        "title": "Πόσο καιρό το κρατάμε",
+        "body": [
+          "Τα δεδομένα διερεύνησης διατηρούνται για όσο χρονικό διάστημα απαιτείται για τη διεκπεραίωση του αιτήματος και για εύλογο χρονικό διάστημα στη συνέχεια για παρακολούθηση και λογιστική παρακολούθηση των πωλήσεων, εκτός εάν μας ζητήσετε να τα διαγράψουμε νωρίτερα όπου το επιτρέπει ο νόμος."
+        ]
+      },
+      {
+        "title": "Τα δικαιώματά σας",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Ασφάλεια και παιδιά",
+        "body": [
+          "Λαμβάνουμε εύλογα τεχνικά και οργανωτικά μέτρα για την προστασία των μηνυμάτων κατά τη μεταφορά και στο γραμματοκιβώτιό μας. Αυτός ο ιστότοπος προορίζεται για επαγγελματίες αγοραστές και όχι για παιδιά."
+        ]
+      }
+    ],
+    "contactLead": "Ερωτήσεις σχετικά με αυτήν την πολιτική:"
   },
   "ui": {
     "catalog": "Κατάλογος",
@@ -494,6 +567,7 @@
     "location": "Τοποθεσία",
     "quoteResponse": "Παράθεση απάντησης",
     "support": "Υποστήριξη",
+    "countriesServed": "Υποστήριξη εξαγωγών",
     "exportReady": "Έτοιμο για εξαγωγή",
     "years": "Χρόνια",
     "acetylene": "Ασετυλίνη",
@@ -508,17 +582,25 @@
     "quality": "Ποιότητα",
     "faq": "FAQ",
     "blog": "Ιστολόγιο",
-    "countriesServed": "Χώρες που εξυπηρετούνται",
     "searchLanguage": "Αναζήτηση γλώσσας...",
-    "noLanguagesFound": "Δεν βρέθηκαν γλώσσες"
+    "noLanguagesFound": "Δεν βρέθηκαν γλώσσες",
+    "breadcrumb": "Φρυγανιά",
+    "primaryNav": "Πρωταρχικός",
+    "menu": "Μενού",
+    "playVideo": "Αναπαραγωγή βίντεο",
+    "productGallery": "Συλλογή προϊόντων",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Ιδιωτική ετικέτα",
+    "Διεθνής Εξαγωγή",
+    "Ποιοτικός έλεγχος",
+    "Πρότυπα αγοράς κατόπιν αιτήματος",
+    "Μαζικές παραγγελίες"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Πιστοποίηση",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Έγγραφα για τελωνεία και ρυθμιστικές αρχές. Τα αντίγραφα αποστέλλονται ιδιωτικά κατόπιν αιτήματος.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & πιστοποιητικό ποιότητας",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Τιμολόγηση & Όροι Προμήθειας",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Οι εμπορικοί όροι επιβεβαιώνονται ανά ερώτηση. Στείλτε στοιχεία προϊόντος, ποσότητας και προορισμού για επίσημη προσφορά.",
+    "note": "Δεν δημοσιεύουμε σταθερές τιμές καταλόγου, MOQ ή χρόνους παράδοσης σε αυτόν τον ιστότοπο. Οι ακριβείς εμπορικοί όροι επιβεβαιώνονται σε μια προσφορά αφού εξετάσουμε τις απαιτήσεις σας.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Τιμολόγηση",
+        "value": "Κατόπιν αιτήματος",
+        "desc": "Επίσημη προσφορά μετά από έλεγχο έρευνας"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Επιβεβαιώθηκε ανά παραγγελία",
+        "desc": "Εξαρτάται από το μοντέλο και τον προορισμό"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Χρόνος ανοχής",
+        "value": "Επιβεβαιώθηκε ανά παραγγελία",
+        "desc": "Κοινή χρήση με την προσφορά"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Πληρωμή",
+        "value": "Συμφωνημένο στη σύμβαση",
+        "desc": "Οι όροι επιβεβαιώθηκαν πριν από την παραγωγή"
       }
     ],
     "factors": {
-      "title": "Παράγοντες Τιμής",
+      "title": "Τι επηρεάζει την προσφορά",
       "items": [
-        "Όγκος κυλίνδρου και μοντέλο (2L – 50L)",
-        "Τύπος βαλβίδας (CGA, GOST, DIN, POL)",
-        "Πρότυπο πιστοποίησης (ISO, DOT, TPED)",
-        "OEM: χρώμα, σήμανση, συσκευασία",
-        "Όγκος παραγγελιών & Incoterms"
+        "Όγκος κυλίνδρου και μοντέλο",
+        "Τύπος βαλβίδας και πρότυπο σύνδεσης",
+        "Απαιτούμενα πρότυπα για την αγορά προορισμού",
+        "Χρώμα OEM, σήμανση και συσκευασία",
+        "Όγκος παραγγελιών και Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Ακετυλένιο WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Κύλινδροι ασετυλενίου",
+        "moq": "Κατόπιν αιτήματος",
+        "price": "Αναφέρεται ανά έρευνα",
+        "lead": "Επιβεβαιώθηκε ανά παραγγελία"
       },
       {
-        "product": "Ακετυλένιο WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Φιάλες προπανίου / υγραερίου",
+        "moq": "Κατόπιν αιτήματος",
+        "price": "Αναφέρεται ανά έρευνα",
+        "lead": "Επιβεβαιώθηκε ανά παραγγελία"
       },
       {
-        "product": "Προπάνιο WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Γεννήτριες",
+        "moq": "Κατόπιν αιτήματος",
+        "price": "Αναφέρεται ανά έρευνα",
+        "lead": "Επιβεβαιώθηκε ανά παραγγελία"
       },
       {
-        "product": "Προπάνιο WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Γεννήτρια WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Σετ ρυθμιστή",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Αξεσουάρ",
+        "moq": "Κατόπιν αιτήματος",
+        "price": "Αναφέρεται ανά έρευνα",
+        "lead": "Επιβεβαιώθηκε ανά παραγγελία"
       }
     ],
     "tableHeaders": [
       "Προϊόν",
       "MOQ",
-      "Τιμή (EXW)",
+      "Τιμή",
       "Χρόνος ανοχής"
     ]
   },
   "certifications": {
     "title": "Πιστοποιήσεις & Πρότυπα",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Τα πρότυπα και οι επιλογές πιστοποίησης συζητούνται ανάλογα με την αγορά προϊόντος και προορισμού. Τα αντίγραφα των πιστοποιητικών αποστέλλονται ιδιωτικά κατόπιν αιτήματος — τα αρχεία δεν δημοσιεύονται σε αυτόν τον ιστότοπο.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Λήψη προσφοράς",
-        "desc": "Τιμή, MOQ, χρόνος παράδοσης και φύλλο προδιαγραφών εντός 24 ωρών"
+        "desc": "Τιμή, MOQ, χρόνος παράδοσης και φύλλο προδιαγραφών μετά από έλεγχο από την ομάδα πωλήσεών μας"
       },
       {
         "title": "Επιβεβαίωση παραγγελίας",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Συμφωνημένοι όροι σύμβασης και πληρωμής πριν από την έναρξη της παραγωγής"
       },
       {
         "title": "Παραγωγή & QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Κατασκευή και δοκιμή. Τα βίντεο και τα πιστοποιητικά αποστέλλονται ιδιωτικά κατόπιν αιτήματος"
       },
       {
         "title": "Αποστολή",
-        "desc": "Συσκευασία, έγγραφα, παράδοση FOB/CIF/DDP"
+        "desc": "Συσκευασία, έγγραφα και όροι παράδοσης όπως έχουν συμφωνηθεί στην παραγγελία"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Τι λένε οι αγοραστές",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Ξαναπαραγγείλαμε φιάλες ασετυλίνης 40L τρεις φορές φέτος. Οι βαλβίδες GOST, το χρώμα OEM και η συσκευασία εξαγωγής ταίριαζαν με το πρώτο δείγμα κάθε φορά.",
+        "author": "Ρουστάμ Γιουσούποφ",
+        "role": "Ιδιοκτήτης, διανομέας αερίου συγκόλλησης",
+        "country": "Ουζμπεκιστάν"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "Η προσφορά ήρθε την ίδια μέρα με σαφές MOQ και χρόνο παράδοσης. Οι φιάλες προπανίου έφτασαν με βαλβίδες POL και πλήρη λίστα συσκευασίας — χωρίς τελωνειακές καθυστερήσεις από την πλευρά μας.",
+        "author": "Αιγκερίμ Μπέκοβα",
+        "role": "Υπεύθυνος προμηθειών, βιομηχανική προμήθεια",
+        "country": "Καζακστάν"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Αγοράζουμε κυλίνδρους με ρυθμιστές και εύκαμπτους σωλήνες ως μία παραγγελία κοντέινερ. Τα έγγραφα και η σήμανση ήταν έτοιμα για την αγορά μας, επομένως η μεταπώληση ήταν απλή.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Εισαγωγικός αγοραστής, εμπορία εξοπλισμού αερίου",
+        "country": "Σαουδική Αραβία"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "ποιότητα",
         "eyebrow": "Ποιότητα & ασφάλεια",
         "title": "Επιθεώρηση μπορείτε να βάλετε στο απόσπασμα",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Έλεγχοι υλικού, δοκιμές διαρροής, ροπή βαλβίδας και φωτογραφίες συσκευασίας. Τα πακέτα πιστοποιητικών και οι αναφορές φωτογραφιών αποστέλλονται ιδιωτικά κατόπιν αιτήματος.",
         "points": [
           "Δοκιμές πίεσης και διαρροής",
-          "Certificate package",
+          "Πιστοποιητικά κατόπιν αιτήματος",
           "Φωτογραφίες πριν την αποστολή"
         ]
       },
       {
         "id": "εξαγωγή",
         "eyebrow": "Παγκόσμια εξαγωγή",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Συσκευασμένο για λιμάνια, έτοιμο για εξαγωγικές αγορές",
         "text": "Εξάγετε παλέτες, προστασία βαλβίδων, πολύγλωσσες ετικέτες και έγγραφα αποστολής που συντονίζονται για τον προορισμό σας Incoterms.",
         "points": [
           "Υποστήριξη FOB / CIF",
           "Συσκευασία σε παλέτα",
           "Χρόνος παράδοσης 15-25 ημέρες"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Τυλιγμένες φιάλες αερίου τοποθετημένες στην αυλή του εργοστασίου για αποστολή",
+    "about": "Εργαζόμενοι στο εργοστάσιο του Wanda Group",
+    "accessories": "Κιτ αξεσουάρ κυλίνδρων αερίου — ρυθμιστές, εύκαμπτοι σωλήνες, φακοί και εξαρτήματα",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Κύλινδρος διαλυμένης ακετυλίνης με πορώδη μάζα και ορειχάλκινη βαλβίδα",
+      "Γεννήτρια ακετυλενίου φωτογραφημένη στο εργοστάσιο",
+      "Φιάλες προπανίου και υγραερίου σε πολλά μεγέθη και χρώματα",
+      "Κιτ εξαρτημάτων συγκόλλησης και κοπής για φιάλες αερίου"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Νυχτερινή αποστολή: τυλιγμένος εξοπλισμός φορτωμένος σε ρυμουλκούμενο",
+      "Παλέτες και μεταλλικά μέρη τοποθετημένα για αποστολή",
+      "Κουτιά συσκευασμένων αποθεμάτων που στοιβάζονται στην αποθήκη",
+      "Κύλινδροι τυλιγμένοι σε φιλμ, σκηνοθετημένοι στην αυλή του εργοστασίου",
+      "Μεταφορέας παραγωγής κυλίνδρων αερίου κάτω από τη στέγη του εργοστασίου",
+      "Φιάλες υγραερίου που κρέμονται στον εναέριο μεταφορέα φινιρίσματος",
+      "Εργαζόμενοι που περπατούν στο πάτωμα του εργοστασίου του Wanda Group",
+      "Άβαφα συγκολλημένα σώματα κυλίνδρων προπανίου στοιβαγμένα δύο ψηλά",
+      "Σειρές από άβαφα κοχύλια κυλίνδρων στο τσιμεντένιο πάτωμα",
+      "Απόθεμα σωλήνα κυλίνδρου και καλυμμένα κελύφη στο εργαστήριο",
+      "Στοιβάζονται ακατέργαστα σώματα κυλίνδρων στον τοίχο του εργοστασίου",
+      "Δακτύλιοι βάσης από χάλυβα στοιβάζονται πριν από τη συναρμολόγηση",
+      "Ορειχάλκινα εξαρτήματα συσκευασμένα σε χαρτοκιβώτιο με αφρό",
+      "Γεννήτρια ασετυλενίου με λάστιχο και εξαρτήματα σε κουτί",
+      "Άβαφα κελύφη κυλίνδρων με ανοιχτό λαιμό μετά τη συγκόλληση"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Αερόψυκτη μονάδα συμπύκνωσης με ημιερμητικό συμπιεστή Copeland",
+      "Αερόψυκτη μονάδα συμπύκνωσης με ημιερμητικό συμπιεστή Bitzer",
+      "Κλειστή μονάδα συμπύκνωσης ψύξης τύπου ντουλαπιού",
+      "Αερόψυκτη μονάδα συμπύκνωσης τεσσάρων ανεμιστήρων υψηλής χωρητικότητας"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Νομικός",
-    "title": "Πολιτική Απορρήτου",
-    "updated": "Τελευταία ενημέρωση: 25 Αυγούστου 2026",
-    "intro": [
-      "Ο Όμιλος Wanda («εμείς», «εμάς») λειτουργεί αυτόν τον ιστότοπο για να παρουσιάζει φιάλες αερίου, αξεσουάρ και σχετικό προμήθεια εξαγωγών και να λαμβάνει εμπορικά ερωτήματα από βιομηχανικούς αγοραστές.",
-      "Αυτή η πολιτική εξηγεί ποια προσωπικά δεδομένα συλλέγουμε μέσω του ιστότοπου, γιατί τα χρησιμοποιούμε και πώς μπορείτε να επικοινωνήσετε μαζί μας σχετικά. Δεν δημοσιεύουμε εργοστασιακά βίντεο ή αρχεία πιστοποιητικών στον ιστότοπο. αυτά τα υλικά αποστέλλονται ιδιωτικά κατόπιν αιτήματος."
-    ],
-    "sections": [
-      {
-        "title": "Ποιος είναι υπεύθυνος",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Τι δεδομένα συλλέγουμε",
-        "body": [
-          "Όταν στέλνετε τη φόρμα ερωτήματος, λαμβάνουμε τα δεδομένα που εισάγετε: όνομα, email, τηλέφωνο, χώρα προορισμού, τύπος προϊόντος, ποσότητα και μήνυμα.",
-          "Ο ιστότοπος αποθηκεύει επίσης την επιλογή της γλώσσας σας στο πρόγραμμα περιήγησης (localStorage). Δεν εκτελούμε διαφημιστικά cookies ούτε πουλάμε λίστες επισκεπτών."
-        ]
-      },
-      {
-        "title": "Γιατί χρησιμοποιούμε τα δεδομένα",
-        "body": [
-          "Χρησιμοποιούμε δεδομένα ερωτήσεων μόνο για να απαντήσουμε στο αίτημά σας, να προετοιμάσουμε μια προσφορά, να στείλουμε πληροφορίες προϊόντος, βίντεο ή πιστοποιητικά που ζητήσατε και για να συντονίσουμε μια παραγγελία εάν αρχίσουμε να συνεργαζόμαστε.",
-          "Νομική βάση: η συγκατάθεσή σας όταν επιλέγετε το πλαίσιο ελέγχου στη φόρμα και το έννομο συμφέρον μας να απαντήσουμε σε αιτήματα πωλήσεων B2B."
-        ]
-      },
-      {
-        "title": "Ποιος λαμβάνει τα δεδομένα",
-        "body": [
-          "Το μήνυμά σας παραδίδεται στην ομάδα πωλήσεών μας μέσω email. Ανάλογα με τη διαμόρφωση, η φόρμα μπορεί να υποβληθεί σε επεξεργασία από το Web3Forms ως τεχνικό πάροχο που μεταδίδει το μήνυμα σε εμάς.",
-          "Δεν πουλάμε προσωπικά δεδομένα. Μπορούμε να μοιραστούμε ό,τι χρειάζεται με τους εταίρους εφοδιαστικής, επιθεώρησης ή τραπεζικούς συνεργάτες μόνο εάν αυτό απαιτείται για την εκπλήρωση μιας συμφωνημένης παραγγελίας."
-        ]
-      },
-      {
-        "title": "Πόσο καιρό το κρατάμε",
-        "body": [
-          "Τα δεδομένα διερεύνησης διατηρούνται για όσο χρονικό διάστημα απαιτείται για τη διεκπεραίωση του αιτήματος και για εύλογο χρονικό διάστημα στη συνέχεια για παρακολούθηση και λογιστική παρακολούθηση των πωλήσεων, εκτός εάν μας ζητήσετε να τα διαγράψουμε νωρίτερα όπου το επιτρέπει ο νόμος."
-        ]
-      },
-      {
-        "title": "Τα δικαιώματά σας",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Ασφάλεια και παιδιά",
-        "body": [
-          "Λαμβάνουμε εύλογα τεχνικά και οργανωτικά μέτρα για την προστασία των μηνυμάτων κατά τη μεταφορά και στο γραμματοκιβώτιό μας. Αυτός ο ιστότοπος προορίζεται για επαγγελματίες αγοραστές και όχι για παιδιά."
-        ]
-      }
-    ],
-    "contactLead": "Ερωτήσεις σχετικά με αυτήν την πολιτική:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Νομικός",
+    "title": "Όροι Χρήσης",
+    "updated": "Τελευταία ενημέρωση: 27 Αυγούστου 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Αυτοί οι όροι διέπουν τη χρήση του wandagroups.com, που διαχειρίζεται η Wanda Group για βιομηχανικούς αγοραστές φιάλων αερίου, γεννητριών και αξεσουάρ.",
+      "Με την περιήγηση στον ιστότοπο ή την αποστολή ερωτήματος, συμφωνείτε με αυτούς τους όρους και την Πολιτική Απορρήτου μας. Εάν δεν συμφωνείτε, μην χρησιμοποιήσετε τον ιστότοπο."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Ποιοι είμαστε",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Για ποιο σκοπό είναι ο ιστότοπος",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Ο ιστότοπος παρουσιάζει πληροφορίες προϊόντων και λαμβάνει εμπορικά ερωτήματα. Προορίζεται για αγοραστές επιχειρήσεων, όχι για καταναλωτές που ψωνίζουν ως ιδιώτες και όχι για παιδιά."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Προσφορές, τιμές και παραγγελίες",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Οι τιμές, το MOQ, οι χρόνοι παράδοσης και οι προδιαγραφές στον ιστότοπο είναι ενδεικτικά. Ένα μήνυμα μέσω της φόρμας ή του messenger είναι μια ερώτηση, όχι μια παραγγελία.",
+          "Σύμβαση υπάρχει μόνο όταν και οι δύο πλευρές επιβεβαιώσουν την προσφορά εγγράφως (email ή υπογεγραμμένα έγγραφα) και ληφθεί η συμφωνηθείσα κατάθεση, εκτός εάν δηλώνουμε διαφορετικά σε αυτήν την επιβεβαίωση."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Φωτογραφίες, βίντεο και πιστοποιητικά",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Οι φωτογραφίες και τα βίντεο του εργοστασίου στον ιστότοπο απεικονίζουν την παραγωγή. Επιπλέον αρχεία βίντεο και πιστοποιητικών αποστέλλονται ιδιωτικά κατόπιν αιτήματος και παραμένουν εμπιστευτικά τα υλικά μας εκτός και αν σας πούμε ότι μπορείτε να τα μοιραστείτε."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Διανοητική ιδιοκτησία",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Το κείμενο, οι φωτογραφίες, τα βίντεο, τα λογότυπα και η διάταξη σε αυτόν τον ιστότοπο ανήκουν στον Όμιλο Wanda ή στους δικαιοπαρόχους μας. Δεν μπορείτε να αντιγράψετε τον κατάλογο για τη δική σας εμπορική τοποθεσία χωρίς τη γραπτή συγκατάθεσή μας."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Αποδεκτή χρήση",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Μην κάνετε κακή χρήση της φόρμας ερωτήματος (spam, ψευδής ταυτότητα ή απόπειρες διακοπής του ιστότοπου). Ενδέχεται να αγνοήσουμε ή να διαγράψουμε καταχρηστικά αιτήματα."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Ευθύνη",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Φροντίζουμε να διατηρούμε τις πληροφορίες ακριβείς, αλλά ο ιστότοπος μπορεί να περιέχει σφάλματα ή να μην είναι προσωρινά διαθέσιμος. Στο βαθμό που επιτρέπεται από το νόμο, η Wanda Group δεν ευθύνεται για έμμεση ζημία που προκύπτει μόνο από τη χρήση του ιστότοπου.",
+          "Η ευθύνη για μια πραγματική σύμβαση προμήθειας ορίζεται στη σύμβαση και στην ισχύουσα νομοθεσία, όχι μόνο στους παρόντες όρους του ιστότοπου."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Αλλαγές",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Ενδέχεται να ενημερώσουμε αυτούς τους όρους. Η ημερομηνία στο επάνω μέρος δείχνει την τρέχουσα έκδοση. Η συνέχιση της χρήσης του ιστότοπου μετά από μια αλλαγή σημαίνει ότι αποδέχεστε τους ενημερωμένους όρους."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Ερωτήσεις σχετικά με αυτούς τους όρους:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Η σειρά προϊόντων μας",
+    "title": "Ψυκτικές μονάδες",
+    "subtitle": "Μια ξεχωριστή σειρά Wanda Group — όχι κατάλογος τρίτου μέρους. Μονάδες συμπύκνωσης, ψυκτικοί θάλαμοι και εξοπλισμός, που παρέχονται από εμάς με κυλίνδρους ή ως αυτόνομη παραγγελία.",
+    "moreLink": "Ψυκτικός εξοπλισμός αποθήκευσης →",
+    "cta": "Ζητήστε μια προσφορά",
+    "alsoTitle": "Διατίθεται επίσης κατόπιν αιτήματος",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Πάνελ ψυκτικού θαλάμου πολυουρεθάνης (B1 / B2) και 304 ανοξείδωτα πάνελ",
+      "Ψύκτες αέρα κρύου χώρου — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Πηνία εξατμιστή αλουμινίου",
+      "Πόρτες ψυκτικού χώρου",
+      "Βιομηχανικοί ψύκτες νερού",
+      "Ψυκτικές μονάδες οχημάτων και κινητοί ψυκτικοί θάλαμοι"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Η Wanda International Trade προμηθεύει ψυκτικό εξοπλισμό παράλληλα με τη γραμμή κυλίνδρων αερίου: μονάδες, πάνελ, ψύκτες και σχετικό υλικό ψυχρής αλυσίδας. Οι ονομασίες Copeland, Bitzer και παρόμοια ονόματα αναφέρονται στη μάρκα συμπιεστή μέσα στη μονάδα και όχι σε αλλαγή επωνυμίας αυτών των εταιρειών.",
+    "videoTitle": "Βίντεο της εταιρείας",
+    "videoSubtitle": "Επισκόπηση της γραμμής ψυκτικού εξοπλισμού. Περισσότερα βίντεο αποστέλλονται ιδιωτικά κατόπιν αιτήματος.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Ημιερμητική αερόψυκτη μονάδα Copeland",
+        "spec": "Μονάδα συμπύκνωσης · ​​Συμπιεστής Copeland",
+        "desc": "Αερόψυκτη μονάδα συμπύκνωσης με ημιερμητικό συμπιεστή Copeland για ψυκτικούς θαλάμους και λειτουργία μεσαίας θερμοκρασίας."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Ημιερμητική αερόψυκτη μονάδα Bitzer",
+        "spec": "Μονάδα συμπύκνωσης · ​​Συμπιεστής Bitzer",
+        "desc": "Αερόψυκτη μονάδα συμπύκνωσης με ημιερμητικό συμπιεστή Bitzer για χώρους υψηλότερης λειτουργίας και μεσαίας έως χαμηλής θερμοκρασίας."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Κλειστή μονάδα τύπου κουτιού",
+        "spec": "Μονάδα συμπύκνωσης ντουλαπιού",
+        "desc": "Κλειστή μονάδα συμπύκνωσης τύπου ντουλαπιού για τοποθεσίες που χρειάζονται ένα στεγασμένο μηχάνημα αντί για μια ανοιχτή ολίσθηση."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Μονάδα συμπύκνωσης τύπου U / υψηλής χωρητικότητας",
+        "spec": "Αερόψυκτος με πολλαπλούς ανεμιστήρες",
+        "desc": "Μεγαλύτερη αερόψυκτη μονάδα συμπύκνωσης με συμπυκνωτή πολλαπλών ανεμιστήρων για μεγαλύτερες ψυκτικές αποθήκες και ψύξη διεργασιών."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Ποιοι Είμαστε",
+    "title": "Βιομηχανικός κατασκευαστής για αγοραστές B2B",
+    "text": "Η Wanda Groups κατασκευάζει και προμηθεύει βιομηχανικούς κυλίνδρους αερίου, γεννήτριες και εξαρτήματα συγκόλλησης για διανομείς στο εξωτερικό, συνεργάτες OEM και αγοραστές έργων.",
+    "text2": "Η εστίασή μας είναι η προμήθεια που συνδέεται με το εργοστάσιο, η υποστήριξη επιλογής προϊόντων, οι μαζικές παραγγελίες και ο συντονισμός των εξαγωγών — όχι οι λιανικές πωλήσεις καταναλωτών.",
+    "cta": "Μάθετε περισσότερα για εμάς"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Είστε έτοιμοι να ζητήσετε μια προσφορά;",
+      "quoteCta": "Ζητήστε προσφορά",
+      "relatedProducts": "Σχετικά προϊόντα",
+      "applications": "Εφαρμογές",
+      "standardsTitle": "Πρότυπα & πιστοποίηση",
+      "oemTitle": "OEM / προσαρμογή",
+      "packagingTitle": "Συσκευασία & παράδοση",
+      "placeholders": {
+        "standards": "Τα διαθέσιμα πρότυπα και πιστοποιητικά επιβεβαιώνονται ανά παραγγελία και αγορά προορισμού. Τα αντίγραφα των πιστοποιητικών αποστέλλονται ιδιωτικά κατόπιν αιτήματος — τα αρχεία δεν δημοσιεύονται στον ιστότοπο.",
+        "oem": "Οι επιλογές χρώματος, σήμανσης, βαλβίδας, καπακιού και συσκευασίας OEM μπορούν να συζητηθούν ανάλογα με την παραγγελία και την αγορά-στόχο.",
+        "packaging": "Η συσκευασία και η τεκμηρίωση εξαγωγής προετοιμάζονται σύμφωνα με τους όρους παραγγελίας και αποστολής."
+      }
+    },
+    "home": {
+      "seoTitle": "Κατασκευαστής κυλίνδρων αερίου | Βιομηχανική ΚΑΕ και εξαγωγές | Ομάδες Wanda",
+      "seoDescription": "Η Wanda Groups κατασκευάζει βιομηχανικούς κυλίνδρους αερίου, γεννήτριες και εξαρτήματα συγκόλλησης για OEM, χονδρικούς και διεθνείς αγοραστές εξαγωγών."
+    },
+    "about": {
+      "label": "Σχετικά με εμάς",
+      "title": "Κατασκευαστής φιαλών αερίου για βιομηχανικούς αγοραστές",
+      "subtitle": "Υποστηρίζουμε αγοραστές από το εξωτερικό με επιλογή προϊόντων, OEM, επιθεώρηση, συσκευασία και αποστολή.",
+      "seoTitle": "Σχετικά με την Wanda Group",
+      "seoDescription": "Η Wanda Group κατασκευάζει φιάλες ασετυλίνης, φιάλες προπανίου, γεννήτριες και εξαρτήματα για συγκόλληση, κοπή και βιομηχανική παροχή αερίου."
+    },
+    "products": {
+      "label": "Προϊόντα",
+      "title": "Τα προϊόντα μας",
+      "subtitle": "Φιάλες ακετυλενίου, γεννήτριες, φιάλες προπανίου και εξαρτήματα για βιομηχανικές εφαρμογές και εφαρμογές συγκόλλησης.",
+      "seoTitle": "Προϊόντα κυλίνδρων αερίου",
+      "seoDescription": "Φιάλες ακετυλενίου, γεννήτριες, φιάλες προπανίου και εξαρτήματα για βιομηχανικές εφαρμογές και εφαρμογές συγκόλλησης.",
+      "refrigerationNote": "Η Wanda International Trade προμηθεύει ψυκτικό εξοπλισμό παράλληλα με τη γραμμή κυλίνδρων αερίου: μονάδες, πάνελ, ψύκτες και σχετικό υλικό ψυχρής αλυσίδας. Οι ονομασίες Copeland, Bitzer και παρόμοια ονόματα αναφέρονται στη μάρκα συμπιεστή μέσα στη μονάδα και όχι σε αλλαγή επωνυμίας αυτών των εταιρειών.",
+      "catalog": {
+        "acetylene": {
+          "name": "Κύλινδροι διαλυμένου ασετυλενίου",
+          "overview": "Χαλύβδινοι κύλινδροι με πορώδη μάζα και διαλύτη για ασφαλή αποθήκευση και μεταφορά ασετυλίνης. Χρησιμοποιείται στη συγκόλληση, την κοπή, τη συγκόλληση και την κατασκευή μετάλλων.",
+          "seoTitle": "Κύλινδροι αερίου ασετυλενίου",
+          "seoDescription": "Χαλύβδινοι κύλινδροι με πορώδη μάζα και διαλύτη για ασφαλή αποθήκευση και μεταφορά ασετυλίνης. Χρησιμοποιείται στη συγκόλληση, την κοπή, τη συγκόλληση και την κατασκευή μετάλλων."
+        },
+        "propane": {
+          "name": "Κύλινδροι προπανίου",
+          "overview": "Φιάλες για μείγματα προπανίου, βουτανίου και υγραερίου. Χρησιμοποιείται στη θέρμανση, την κοπή, τη συγκόλληση, τις κατασκευές και τη βιομηχανική παροχή αερίου.",
+          "seoTitle": "Κύλινδροι αερίου προπανίου",
+          "seoDescription": "Φιάλες για μείγματα προπανίου, βουτανίου και υγραερίου. Χρησιμοποιείται στη θέρμανση, την κοπή, τη συγκόλληση, τις κατασκευές και τη βιομηχανική παροχή αερίου."
+        },
+        "lpg": {
+          "name": "Φιάλες υγραερίου",
+          "overview": "Φιάλες για μείγματα προπανίου, βουτανίου και υγραερίου. Χρησιμοποιείται στη θέρμανση, την κοπή, τη συγκόλληση, τις κατασκευές και τη βιομηχανική παροχή αερίου.",
+          "seoTitle": "Φιάλες υγραερίου υγραερίου",
+          "seoDescription": "Φιάλες για μείγματα προπανίου, βουτανίου και υγραερίου. Χρησιμοποιείται στη θέρμανση, την κοπή, τη συγκόλληση, τις κατασκευές και τη βιομηχανική παροχή αερίου."
+        },
+        "industrial": {
+          "name": "Βιομηχανικές φιάλες αερίου",
+          "overview": "Βιομηχανικές φιάλες αερίου για συγκόλληση, κοπή και προμήθεια εγκαταστάσεων — συμπεριλαμβανομένων των επιλογών ασετυλενίου, προπανίου και υγραερίου που ταιριάζουν στην αγορά σας.",
+          "seoTitle": "Βιομηχανικές φιάλες αερίου",
+          "seoDescription": "Βιομηχανικές φιάλες αερίου για συγκόλληση, κοπή και προμήθεια εγκαταστάσεων από τον Όμιλο Wanda."
+        },
+        "generators": {
+          "name": "Γεννήτριες Ακετυλενίου",
+          "overview": "Εξοπλισμός για την παραγωγή ακετυλενίου από καρβίδιο του ασβεστίου. Σταθερή παροχή αερίου για συγκολλήσεις και βιομηχανικές ανάγκες χωρίς κεντρική υποδομή αερίου.",
+          "seoTitle": "Γεννήτριες Ακετυλενίου",
+          "seoDescription": "Εξοπλισμός για την παραγωγή ακετυλενίου από καρβίδιο του ασβεστίου. Σταθερή παροχή αερίου για συγκολλήσεις και βιομηχανικές ανάγκες χωρίς κεντρική υποδομή αερίου."
+        },
+        "accessories": {
+          "name": "Αξεσουάρ και εξαρτήματα κυλίνδρων",
+          "overview": "Πλήρης σειρά για ασφαλή λειτουργία κυλίνδρων αερίου: από μετρητές έως φακούς συγκόλλησης. Προμήθεια μίας στάσης με κυλίνδρους.",
+          "seoTitle": "Εξαρτήματα συγκόλλησης",
+          "seoDescription": "Πλήρης σειρά για ασφαλή λειτουργία κυλίνδρων αερίου: από μετρητές έως φακούς συγκόλλησης. Προμήθεια μίας στάσης με κυλίνδρους."
+        },
+        "refrigeration": {
+          "name": "Ψυκτικές μονάδες",
+          "overview": "Μια ξεχωριστή σειρά Wanda Group — όχι κατάλογος τρίτου μέρους. Μονάδες συμπύκνωσης, ψυκτικοί θάλαμοι και εξοπλισμός, που παρέχονται από εμάς με κυλίνδρους ή ως αυτόνομη παραγγελία.",
+          "seoTitle": "Ψυκτικές Μονάδες",
+          "seoDescription": "Μια ξεχωριστή σειρά Wanda Group — όχι κατάλογος τρίτου μέρους. Μονάδες συμπύκνωσης, ψυκτικοί θάλαμοι και εξοπλισμός, που παρέχονται από εμάς με κυλίνδρους ή ως αυτόνομη παραγγελία."
+        }
+      }
+    },
+    "factory": {
+      "label": "Εργοστάσιο",
+      "title": "Εργοστάσιο και Βιομηχανία",
+      "subtitle": "Παραγωγή, επιθεώρηση, συσκευασία και αποστολή — τεκμηριωμένη με πραγματικές φωτογραφίες φυτών και βίντεο εργοστασίων.",
+      "seoTitle": "Εργοστάσιο και Παραγωγή | Ομάδες Wanda",
+      "seoDescription": "Πραγματικές φωτογραφίες φυτών, ζωντανές λήψεις αποστολής και σύντομα βίντεο από το χώρο παραγωγής.",
+      "sections": [
+        {
+          "title": "Βιομηχανοποίηση",
+          "text": "Διαμόρφωση κυλίνδρων, συγκόλληση και φινίρισμα ως μέρος της ροής παραγωγής της μονάδας."
+        },
+        {
+          "title": "Διαδικασία Παραγωγής",
+          "text": "Από την προετοιμασία του κελύφους έως τη συναρμολόγηση και το φινίρισμα — βλέπε πλάνα αποθέματος και παραγωγής κατά τη διάρκεια της διαδικασίας."
+        },
+        {
+          "title": "Επιθεώρηση Ποιότητας",
+          "text": "Οπτικοί έλεγχοι σήμανσης και διαστάσεων προετοιμασίας κυλίνδρων για αποστολή."
+        },
+        {
+          "title": "Δοκιμές",
+          "text": "Έλεγχος πίεσης και διαρροής που εφαρμόζεται πριν τα προϊόντα φύγουν από τη γραμμή, σύμφωνα με τις απαιτήσεις παραγγελίας."
+        },
+        {
+          "title": "Συσκευασία",
+          "text": "Η συσκευασία εξαγωγής προστατεύει τους κυλίνδρους και τα εξαρτήματα για μεταφορά στο εξωτερικό."
+        },
+        {
+          "title": "Φόρτωση και εξαγωγή",
+          "text": "Τεκμηρίωση αποθήκης, φόρτωσης και αποστολής φορτηγών για εξερχόμενες παραγγελίες."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Πιστοποιήσεις",
+      "title": "Πιστοποιήσεις & Πρότυπα",
+      "subtitle": "Τα πρότυπα που συνήθως ζητούνται από τους αγοραστές παρατίθενται παρακάτω. Η δυνατότητα εφαρμογής εξαρτάται από την αγορά προϊόντος και προορισμού. Τα αντίγραφα, οι αριθμοί και η εγκυρότητα των πιστοποιητικών κοινοποιούνται ιδιωτικά κατόπιν αιτήματος — δεν δημοσιεύονται ως μη επαληθευμένες αξιώσεις.",
+      "seoTitle": "Πιστοποιήσεις και Πρότυπα | Ομάδες Wanda",
+      "seoDescription": "Τα πρότυπα που συζητούνται για τις φιάλες αερίου της Wanda Groups ανά αγορά. Αντίγραφα πιστοποιητικού παρέχονται ιδιωτικά κατόπιν αιτήματος.",
+      "note": "Τα αντίγραφα του πιστοποιητικού αποστέλλονται ιδιωτικά κατόπιν αιτήματος. Δεν δημοσιεύουμε αρχεία πιστοποιητικών στον ιστότοπο."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM και χονδρικής",
+      "subtitle": "Ιδιωτική ετικέτα και επιλογές προμήθειας χύδην για διανομείς και βιομηχανικούς αγοραστές.",
+      "seoTitle": "Προμήθεια κυλίνδρων αερίου OEM",
+      "seoDescription": "Κατασκευή φιαλών αερίου OEM και ιδιωτικής ετικέτας για μάρκες και διανομείς στο εξωτερικό.",
+      "quoteTitle": "Συζητήστε τις απαιτήσεις OEM",
+      "quoteCta": "Ζητήστε προσφορά OEM",
+      "capabilities": [
+        {
+          "title": "Προσαρμοσμένο λογότυπο",
+          "text": "Συζητήθηκαν επιλογές λογότυπου και σήμανσης για τις κατάλληλες παραγγελίες OEM."
+        },
+        {
+          "title": "Προσαρμοσμένο χρώμα",
+          "text": "Χρώμα κυλίνδρου σύμφωνα με τις απαιτήσεις της αγοράς ή της μάρκας."
+        },
+        {
+          "title": "Προσαρμοσμένη συσκευασία",
+          "text": "Εξαγωγή χαρτοκιβωτίων, παλετών και σημάτων συσκευασίας κατά παραγγελία."
+        },
+        {
+          "title": "Ιδιωτική ετικέτα",
+          "text": "Σήμανση και παρουσίαση επωνυμίας για κανάλια διανομέων."
+        },
+        {
+          "title": "Μαζικές παραγγελίες",
+          "text": "Ποσότητες χονδρικής για προμήθεια έργου και διανομέα."
+        },
+        {
+          "title": "Κατασκευή OEM",
+          "text": "Η διαμόρφωση προϊόντος ευθυγραμμίζεται με τις προδιαγραφές και την αγορά σας."
+        },
+        {
+          "title": "Υποστήριξη εξαγωγής",
+          "text": "Έγγραφα και συντονισμός αποστολής για παράδοση στο εξωτερικό."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Αγορές",
+      "title": "Παγκόσμιες Αγορές",
+      "subtitle": "Υποστηρίζουμε διεθνείς αγοραστές B2B. Οι παρακάτω περιοχές περιγράφουν τους κοινούς τομείς έρευνας — συγκεκριμένες χώρες και έργα επιβεβαιώνονται κατά περίπτωση.",
+      "seoTitle": "Παγκόσμιες Αγορές | Εξαγωγή ομάδων Wanda",
+      "seoDescription": "Η Wanda Groups συνεργάζεται με διεθνείς βιομηχανικούς αγοραστές σε όλη την Αφρική, τη Μέση Ανατολή, την Κεντρική Ασία, τη Νοτιοανατολική Ασία, τη Λατινική Αμερική και άλλες αγορές.",
+      "note": "Δεν δημοσιεύουμε μη επαληθευμένους αριθμούς χωρών, ονόματα πελατών ή αναφορές έργων σε αυτήν τη σελίδα.",
+      "regions": [
+        {
+          "title": "Αφρική",
+          "text": "Ερωτήσεις βιομηχανικών και διανομέων από αφρικανικές αγορές."
+        },
+        {
+          "title": "Μέση Ανατολή",
+          "text": "Αγοραστές προμηθεύονται κυλίνδρους και σχετικό εξοπλισμό για περιφερειακά έργα."
+        },
+        {
+          "title": "Κεντρική Ασία",
+          "text": "Συζητήσεις χονδρικής και προμήθειας έργων σε όλες τις αγορές της Κεντρικής Ασίας."
+        },
+        {
+          "title": "Νοτιοανατολική Ασία",
+          "text": "Βιομηχανικοί αγοραστές που αξιολογούν την προσφορά κυλίνδρων εξαγωγής."
+        },
+        {
+          "title": "Λατινική Αμερική",
+          "text": "Ερωτήσεις για βιομηχανική προμήθεια φιαλών αερίου και αξεσουάρ."
+        },
+        {
+          "title": "Άλλες διεθνείς αγορές",
+          "text": "Οι πρόσθετοι προορισμοί ελέγχονται σύμφωνα με τα πρότυπα του προϊόντος και τα logistics."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Εφαρμογές",
+      "title": "Εφαρμογές κυλίνδρων",
+      "subtitle": "Προϊόντα σχεδιασμένα για κοινές εργασίες βιομηχανικού αερίου και απαιτήσεις αγοραστών στο εξωτερικό.",
+      "seoTitle": "Εφαρμογές κυλίνδρων",
+      "seoDescription": "Προϊόντα σχεδιασμένα για κοινές εργασίες βιομηχανικού αερίου και απαιτήσεις αγοραστών στο εξωτερικό.",
+      "items": [
+        {
+          "title": "Συγκόλληση & Συγκόλληση",
+          "text": "Διαλυμένη ακετυλίνη και σχετικός εξοπλισμός για συγκόλληση εργαστηρίου και κατασκευής."
+        },
+        {
+          "title": "Κοπή μετάλλων",
+          "text": "Κύλινδροι και εξαρτήματα για κοπή με οξυγόνο στο εργοτάξιο και στο εργοστάσιο."
+        },
+        {
+          "title": "Βιομηχανική Παροχή Αερίου",
+          "text": "Προμήθεια κυλίνδρων για συστήματα βιομηχανικής διανομής και φυσικού αερίου."
+        },
+        {
+          "title": "Κατασκευή",
+          "text": "Φορητή παροχή αερίου για εργασίες κατασκευής και συντήρησης."
+        },
+        {
+          "title": "Κατασκευή μετάλλων",
+          "text": "Κύλινδροι και αξεσουάρ για καταστήματα κατασκευής και ναυπηγεία."
+        },
+        {
+          "title": "Αποθήκευση & Διανομή Αερίου",
+          "text": "Κύλινδροι έτοιμοι για αποθήκευση και διανομή για βιομηχανικούς αγοραστές."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Συχνές Ερωτήσεις",
+      "subtitle": "Εταιρεία, προϊόντα, OEM και εξαγωγές — απαντήσεις για αγοραστές από το εξωτερικό προτού ζητήσετε προσφορά.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Εταιρεία, προϊόντα, OEM και εξαγωγές — απαντήσεις για αγοραστές από το εξωτερικό προτού ζητήσετε προσφορά."
+    },
+    "contactPage": {
+      "label": "Επαφή",
+      "title": "Ας συζητήσουμε τις απαιτήσεις σας",
+      "subtitle": "Επικοινωνήστε με την ομάδα πωλήσεών μας μέσω φόρμας, email ή messenger. Μοιραστείτε προϊόν, ποσότητα και προορισμό για ταχύτερη προσφορά.",
+      "seoTitle": "Ζητήστε προσφορά",
+      "seoDescription": "Πείτε μας το μέγεθος, την ποσότητα, τη χώρα προορισμού και την εφαρμογή — θα ετοιμάσουμε μια λεπτομερή προσφορά."
+    },
+    "blog": {
+      "label": "Ιστολόγιο",
+      "title": "Τελευταία άρθρα",
+      "subtitle": "Εξειδικευμένο περιεχόμενο για επαγγελματίες ηλεκτροσυγκόλλησης και παροχής αερίου.",
+      "seoTitle": "Άρθρα & Οδηγοί",
+      "seoDescription": "Εξειδικευμένο περιεχόμενο για επαγγελματίες ηλεκτροσυγκόλλησης και παροχής αερίου.",
+      "coming": "Περισσότεροι οδηγοί αγοραστών και σημειώσεις προϊόντων θα προστεθούν εδώ. Χρησιμοποιήστε τα παραπάνω άρθρα ή επικοινωνήστε μαζί μας για υλικά ειδικά για το προϊόν."
+    },
+    "privacy": {
+      "seoTitle": "Πολιτική Απορρήτου",
+      "seoDescription": "Πολιτική απορρήτου για ερωτήματα και προσωπικά δεδομένα στον ιστότοπο του Ομίλου Wanda."
+    },
+    "terms": {
+      "seoTitle": "Όροι Χρήσης",
+      "seoDescription": "Όροι χρήσης για τον ιστότοπο του Ομίλου Wanda."
+    },
+    "notFound": {
+      "seoTitle": "Η σελίδα δεν βρέθηκε",
+      "seoDescription": "Η σελίδα που ζητήσατε δεν είναι διαθέσιμη.",
+      "title": "Η σελίδα δεν βρέθηκε",
+      "text": "Η σελίδα που αναζητάτε δεν υπάρχει ή έχει μετακινηθεί.",
+      "home": "Σπίτι",
+      "products": "Προϊόντα",
+      "contact": "Επικοινωνία / Λάβετε προσφορά"
+    }
   }
 }

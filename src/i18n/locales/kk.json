@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Үй",
     "products": "Өнімдер",
     "specs": "Техникалық сипаттамалар",
     "applications": "Қолданбалар",
     "about": "туралы",
     "gallery": "Галерея",
+    "factory": "Зауыт",
     "quality": "Сапасы",
     "faq": "Жиі қойылатын сұрақтар",
     "contact": "Байланыс",
@@ -13,44 +15,42 @@
     "services": "Қызметтер",
     "pricing": "Баға белгілеу",
     "accessories": "Аксессуарлар",
-    "home": "Басты бет",
-    "factory": "Зауыт",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Суық қойма",
+    "cooling": "Салқындату",
+    "certifications": "Сертификаттар",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Нарықтар"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Өнеркәсіптік газ баллондарын өндіруші",
+    "title": "Өнеркәсіптік газ баллондары мен жабдықтарын өндіруші",
+    "subtitle": "Халықаралық экспорттық сатып алушылар үшін ацетилен цилиндрлерін, пропан/СКГ баллондарын, генераторлар мен дәнекерлеу керек-жарақтарын өндіру, OEM және көтерме жеткізу.",
+    "lineGas": "Газ баллондары",
+    "lineCold": "Тоңазытқыш қондырғылары",
+    "cta": "Баға алу",
+    "ctaSecondary": "Өнімдерді көру",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Өндірушіге бағытталған жабдықтау"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Жеке белгі және теңшеу"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Халықаралық тасымалдауды қолдау"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Тексеру және сынау процесі"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Сұраныс бойынша нарыққа тән опциялар"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Сенімді газ баллондарының керек-жарақтары",
@@ -59,34 +59,34 @@
   },
   "products": {
     "title": "Біздің өнімдер",
-    "subtitle": "Ацетилен цилиндрлері, генераторлар, пропан цилиндрлері және өнеркәсіптік және дәнекерлеу жұмыстарына арналған керек-жарақтар.",
+    "subtitle": "Ацетилен цилиндрлері, генераторлар, пропан цилиндрлері және өнеркәсіптік және дәнекерлеуге арналған керек-жарақтар.",
+    "viewDetails": "Мәліметтерді көру",
     "items": [
       {
         "title": "Ацетилен цилиндрі",
-        "desc": "Дәнекерлеуге, кесуге және өнеркәсіптік газдарға арналған ерітілген ацетилен цилиндрлері. Әр түрлі өлшемдер мен клапан опциялары.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · нарықта расталған стандарттар",
+        "desc": "Дәнекерлеуге, кесуге және өнеркәсіптік газбен жабдықтауға арналған ерітілген ацетилен цилиндрлері.",
+        "icon": "🔥"
       },
       {
         "title": "Ацетилен генераторы",
-        "desc": "Тұрақты газ өндіруге, оңай жұмыс істеуге және өнеркәсіптік қолдануға арналған жабдық.",
-        "icon": "⚙️",
-        "spec": "Өнеркәсіптік генерациялау жүйелері"
+        "spec": "Өнеркәсіптік генерациялау жүйелері",
+        "desc": "Ацетиленді өндіріс орнында және зауытта тұрақты өндіруге арналған жабдық.",
+        "icon": "⚙️"
       },
       {
         "title": "Пропан цилиндрі",
-        "desc": "Пропан және СКГ үшін ұзақ мерзімді цилиндрлер — сақтау, жылыту, кесу және өнеркәсіптік пайдалану.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / ГОСТ"
+        "spec": "Әр нарықта 3L–50L · клапан опциялары",
+        "desc": "Жылытуға, кесуге және өнеркәсіпте қолдануға арналған төзімді СКГ баллондары.",
+        "icon": "🛢️"
       },
       {
         "title": "Цилиндрдің керек-жарақтары",
-        "desc": "Түтіктер, калибрлер, кескіш алаулар, дәнекерлеу оттықтары, сақтандыру клапандары және т.б.",
-        "icon": "🔧",
-        "spec": "Клапандар · реттегіштер · шлангтар · шамдар"
+        "spec": "Клапандар · реттегіштер · шлангтар · шамдар",
+        "desc": "Сәйкес фитингтер цилиндрлермен немесе бөлек тапсырыспен жеткізіледі.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Мәліметтерді көру"
+    ]
   },
   "specs": {
     "title": "Техникалық сипаттамалар",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Неліктен Wanda топтарын таңдау керек",
+    "subtitle": "Өндірістік серіктесті бағалайтын өнеркәсіптік сатып алушылар үшін нақты мүмкіндіктер.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Өндірушіге бағытталған жабдықтау",
+        "desc": "Өнімді жеткізу тек сауда каталогтарына ғана емес, өндіріске бағытталған."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM қолдауы",
+        "desc": "Арнайы түс, таңбалау, клапан және орау тапсырыс бойынша талқыланады."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Сапаны бақылау",
+        "desc": "Материалдарды жөнелту алдында орау арқылы тексеру."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Халықаралық экспорт",
+        "desc": "Шетелдік сатып алушылар үшін экспорттық орау және тасымалдауды үйлестіру."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Өнімді теңшеу",
+        "desc": "Нарық пен қолдану талаптарына бейімделген спецификациялар."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Жауапты сатуды қолдау",
+        "desc": "Пішін, электрондық пошта және мессенджерлер арқылы дәйексөздер мен техникалық жауаптар."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Жаппай тапсырыс беру мүмкіндігі",
+        "desc": "Дистрибьюторлар мен жобаны сатып алушылар үшін қолдау көрсетілетін көтерме көлемдер."
       }
     ]
   },
   "about": {
-    "title": "Кәсіби газ баллон өндірушісі",
-    "text": "Wanda Group газ баллон өндірушісі өнеркәсіптік газ баллондары мен оларға қатысты керек-жарақтарды өндіруге және жеткізуге маманданған. Біздің өнімдер дәнекерлеу, кесу, газ тарату, өнеркәсіптік қойма және басқа да газбен жабдықтау салаларында кеңінен қолданылады.",
-    "text2": "Біз шетелдік сатып алушыларға өнімді таңдауда, теңшеуде, сапаны тексеруде, орау және тасымалдауды үйлестіруде қолдау көрсетеміз.",
+    "title": "Өнеркәсіптік сатып алушылар үшін газ баллондарын өндіруші",
+    "text": "Wanda Group дәнекерлеуге, кесуге және өнеркәсіптік газбен жабдықтауға арналған ацетилен цилиндрлерін, пропан цилиндрлерін, генераторлар мен керек-жарақтарды шығарады.",
+    "text2": "Біз шетелдік сатып алушыларға өнімді таңдау, OEM, тексеру, орау және жөнелту арқылы қолдау көрсетеміз.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Өндіріс",
+        "desc": "Өнеркәсіптік газ баллондарын қалыптау, дәнекерлеу, сынау және өңдеу."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM қолдауы",
+        "desc": "Түс, таңбалау, клапан, қақпақ және орау опциялары тапсырыс бойынша."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Сапа процесі",
+        "desc": "Тапсырыс пен нарық талаптарына сәйкес тексеру және тестілеу."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Халықаралық экспорт",
+        "desc": "Шетелдік өнеркәсіптік сатып алушылар үшін құжаттама және орауыш қолдау."
       }
     ]
   },
   "gallery": {
     "title": "Біздің зауыттың ішінде",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Өндіріс алаңынан нақты зауыт фотосуреттері, тікелей жіберу кадрлары және қысқа бейнелер.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Түнгі жөнелтілім",
+        "desc": "Оралған жабдықпен кетіп бара жатқан жүк тиелген тіркеме — түсірілімге уақыт пен орын таңбаланған."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Жүк жөнелтуге дайындалды",
+        "desc": "Жөнелту үшін жиналған паллет пен бөлшектер. Студия жиынтығы емес, тікелей қойма фотосы."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Қапталған қор",
+        "desc": "Қоймада жинақталған картондар келесі шығыс тапсырысқа дайын."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Жіберу үшін оралған",
+        "desc": "Цилиндрлер жөнелту үшін зауыт ауласында оралып, қойылады."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Өндірістік конвейер",
+        "desc": "Қалыптау және өңдеу сызығы арқылы қозғалатын цилиндр корпустары."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "СКГ аяқтау сызығы",
+        "desc": "Буып-түю алдында үстіңгі конвейердегі СКГ баллондары боялған."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Зауыт ішінде",
+        "desc": "Өндіріс залы — адамдар, машиналар және өндірістік қор."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Дәнекерленген цилиндр корпустары",
+        "desc": "Айналмалы дәнекерлеуден кейінгі қабықтар, бояу алдында және клапандар."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Бояу алдында раковиналар",
+        "desc": "Боялмаған денелер келесі процестің қадамы үшін еденге жиналады."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Өңдеудегі қор",
+        "desc": "Түтік бөліктері мен қақпақтары бар қабықтар құрастыруды күтуде."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Цилиндр корпустары қоймада",
+        "desc": "Дәнекерлеуден кейін, бастар мен клапандардың алдында қабатталған орамдық қабықтар."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Негізгі сақиналар",
+        "desc": "Цилиндр қабықшаларына дәнекерлеуге дайындалған аяқ сақиналары."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Қапталған фитингтер",
+        "desc": "Экспортқа жөнелту үшін көбікпен қорапталған клапандар мен фитингтер."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Ацетилен генераторы",
+        "desc": "Шланг пен фитингтері бар генератор блогы зауыттан шығуға дайын."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Едендегі снарядтар",
+        "desc": "Ашық мойынды корпустар дәнекерлеуден кейін - клапанды орнатуға дейінгі партия."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Зауыттық бейнелер",
+    "videosSubtitle": "Зауыт еденінен жаңа шорт. Қосымша кадрлар сұрау бойынша жеке жіберіледі."
   },
   "quality": {
     "title": "Сапаны бақылау",
     "subtitle": "Әрбір партия бірдей жолмен жүреді: өндіру, сынау, тексеру және соңғы сапаны бақылау.",
     "steps": [
       {
-        "title": "Өндіріс",
-        "desc": "Зауыттың технологиялық бақылауымен қалыптау, дәнекерлеу және құрастыру."
+        "title": "Шикізат",
+        "desc": "Кіріс материалдар тапсырыс пен процесс талаптарына сәйкес қаралды."
       },
       {
-        "title": "Тестілеу",
-        "desc": "Цилиндрлер желіден шықпас бұрын қысым мен ағу сынақтары."
+        "title": "Өндіріс",
+        "desc": "Зауыттың технологиялық бақылауымен қалыптау, дәнекерлеу және құрастыру."
       },
       {
         "title": "Тексеру",
         "desc": "Тапсырысты визуалды, таңбалау және өлшемді тексеру."
       },
       {
-        "title": "Соңғы сапаны бақылау",
-        "desc": "Экспортқа жөнелту алдында қаптаманы тексеру."
+        "title": "Тестілеу",
+        "desc": "Цилиндрлер желіден шықпас бұрын қысым мен ағу сынақтары."
+      },
+      {
+        "title": "Соңғы QC",
+        "desc": "Қаптамаға шығарар алдында соңғы сапаны бақылау."
+      },
+      {
+        "title": "Қаптама",
+        "desc": "Тасымалдауға дайындалған экспорттық қаптама."
+      },
+      {
+        "title": "жөнелту",
+        "desc": "Шығыс тапсырыстар үшін құжаттаманы тиеу және жөнелту."
       }
     ]
   },
   "faq": {
     "title": "Жиі қойылатын сұрақтар",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Компания, өнімдер, OEM және экспорт — баға ұсынысын сұрамас бұрын шетелдік сатып алушыларға жауаптар.",
     "cta": "Сұрағыңызды таппадыңыз ба? Өнімді, өлшемін, санын және тағайындалған елді жіберіңіз — біз егжей-тегжейлі ұсыныспен жауап береміз.",
     "ctaBtn": "Баға алу",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Бейнелер мен құжаттар",
         "items": [
           {
             "q": "Тапсырыс бермес бұрын зауыттық бейнелерді көре аламын ба?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Иә. Осы беттегі «Зауыт» бөліміндегі өндіріс бейнелерін қараңыз. Қосымша кадрлар, орауыш клиптер және сертификаттар сұрау бойынша жеке жіберіледі."
           },
           {
             "q": "Сіз әсіресе ацетилен цилиндрлері үшін өнім бейнелерін бересіз бе?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Иә. Ацетилен баллондары туралы бейне, фото және толық ақпарат сіздің сұранысыңыз бойынша жеке жіберіледі."
           },
           {
             "q": "Өндіріс және сапаны бақылау бейнелерін көрсете аласыз ба?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Иә. Өндіріс, сапаны тексеру, орау және қойманы сақтау туралы қолжетімді бейнелер жеке жіберіледі, осылайша өнімнің қалай дайындалғанын көре аласыз."
           },
           {
             "q": "Белгілі бір тапсырыс үшін жасалған өнім бейнесін сұрауға болады ма?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Белгілі бір тапсырыс немесе өнім талаптары үшін бізге хабарласыңыз — біз бейне қолдауын талқылаймыз және материалдарды жеке жібереміз."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Бейнелерді, сертификаттарды және баға ұсыныстарын қалай алуға болады?",
+            "a": "Сұрау пішінінде өнім түрін, цилиндр өлшемін, санын, тағайындалған елді және не жіберу керектігін көрсетіңіз: бейнелер, сертификаттар немесе екеуі де. Оларды жеке жіберіп, ұсыныс дайындаймыз."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Өнімнің фотосуреттері мен техникалық сипаттамаларын бере аласыз ба?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Иә. Өнім фотосуреттері, техникалық сипаттамалары және деректер парағы сұрау бойынша жеке жіберіледі."
           },
           {
             "q": "Аксессуарларға бағаны қалай алуға болады?",
@@ -427,33 +439,36 @@
         "title": "Ацетилен цилиндрін сатып алуға арналған бюджеттік нұсқаулық",
         "desc": "Құнға әсер ететін факторлар және оңтайлы ұсынысты қалай таңдау керек.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Сондай-ақ жеткізу факторы (FOB/CIF), құжаттар мен MOQ. Біз 24 сағат ішінде толық спецификация, жеткізу уақыты және Incoterms арқылы жауап береміз.",
-          "Нақты баға белгілеу үшін байланыс пішініне үлгіні, мөлшерді, тағайындалған елді және клапан талаптарын қосыңыз — немесе sales@wandagroups.com электрондық поштасына жіберіңіз."
+          "Ацетилен цилиндрінің бағасы көлемге, клапан түріне, тағайындалған нарыққа қажетті стандарттарға және тапсырыс көлеміне байланысты. Біз веб-сайтта тіркелген бағаларды жарияламаймыз.",
+          "Үлкен лоттар мен OEM опциялары (сурет, логотип, орау) сұрауыңызды қарап шыққаннан кейін жеке бағаланады.",
+          "Жеткізу шарттары (FOB/CIF және ұқсас), құжаттар мен жеткізу уақыты ресми баға ұсынысында расталады.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Баға сұрау",
-    "subtitle": "Өлшемін, санын, тағайындалған елді және өтінімді айтыңыз — біз егжей-тегжейлі баға белгілеуін дайындаймыз.",
+    "title": "Сіздің талаптарыңызды талқылайық",
+    "subtitle": "Бізге өнімді, өлшемін, санын, тағайындалған елін және техникалық сипаттамаларын айтыңыз — біздің сату тобы өнім туралы ақпарат пен баға ұсынысымен жауап береді.",
     "formTitle": "Баға сұрау",
-    "formSubtitle": "Талаптарыңызды қалдырыңыз - біздің сату тобы өнім туралы ақпарат, баға, MOQ және жеткізу уақыты туралы жауап береді.",
+    "formSubtitle": "Коммерциялық сұрау салу үшін пішінді толтырыңыз. Міндетті өрістер белгіленген.",
     "name": "Аты",
+    "company": "Компания",
     "phone": "Телефон / WhatsApp",
     "email": "Электрондық пошта",
     "product": "Өнім",
-    "quantity": "Саны",
-    "country": "Баратын ел",
+    "quantity": "Саны (міндетті емес)",
+    "country": "Баратын ел (міндетті емес)",
     "productOptions": [
       "Ацетилен цилиндрі",
       "Пропан цилиндрі",
       "Ацетилен генераторы",
       "Аксессуарлар",
-      "Топтамаға тапсырыс",
-      "Cold storage / refrigeration"
+      "Салқын сақтау / тоңазытқыш",
+      "Топтамаға тапсырыс"
     ],
+    "quantityPlaceholder": "мысалы 200 дана, 1 контейнер немесе TBD",
+    "countryPlaceholder": "Тауарлар қайда жөнелтіледі",
     "message": "Қосымша талаптар",
     "messagePlaceholder": "Өнім, мөлшері, саны, тағайындалған ел...",
     "submit": "Сұрау жіберу",
@@ -461,22 +476,80 @@
     "success": "Рақмет сізге! Біз сізге жақын арада хабарласамыз.",
     "sendAnother": "Басқа сұрау жіберіңіз",
     "errorGeneric": "Жіберілмеді. Қайталап көріңіз немесе бізге тікелей электрондық хат жіберіңіз.",
-    "errorNoForm": "Пішін конфигурацияланбаған. sales@wandagroups.com электрондық поштасын жіберіңіз",
-    "privacyPrefix": "мен келісемін",
-    "privacySuffix": "және осы сұрауды өңдеу үшін менің жеке деректерімді өңдеуге.",
-    "privacyLink": "Құпиялылық саясаты",
-    "company": "Компания",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Электрондық пошта қолданбасы арқылы жіберу",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "мен келісемін",
+    "privacySuffix": ", және осы сұрауды өңдеу үшін менің жеке деректерімді өңдеу.",
+    "privacyLink": "Құпиялылық саясаты",
+    "termsAnd": "және",
+    "termsLink": "Пайдалану шарттары",
+    "requirements": "Талаптар / Техникалық шарттар",
+    "requirementsPlaceholder": "Клапан түрі, түсі, стандарты, орауыш, OEM белгісі, сандық ескертулер..."
   },
   "footer": {
     "company": "Wanda Group газ баллондарын өндіруші",
     "tagline": "Кәсіби газ баллондарын жасау",
     "rights": "© 2026 Wanda Group. Барлық құқықтар қорғалған.",
     "privacy": "Құпиялылық саясаты",
-    "terms": "Terms of Use"
+    "terms": "Пайдалану шарттары"
+  },
+  "privacy": {
+    "label": "Заңды",
+    "title": "Құпиялылық саясаты",
+    "updated": "Соңғы жаңартылған күні: 25 тамыз 2026 ж",
+    "intro": [
+      "Wanda Group («біз», «біз») бұл веб-сайтты газ баллондарын, керек-жарақтарды және тиісті экспорттық жеткізілімдерді ұсыну және өнеркәсіптік сатып алушылардан коммерциялық сұрауларды алу үшін басқарады.",
+      "Бұл саясат сайт арқылы қандай жеке деректерді жинайтынымызды, оны не үшін қолданатынымызды және ол туралы бізбен қалай байланысуға болатынын түсіндіреді. Бұл веб-сайтта зауыт өндірісінің бейнелері көрсетілген. Сертификат файлдары сұрау бойынша жеке жіберіледі."
+    ],
+    "sections": [
+      {
+        "title": "Кім жауапты",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Біз қандай деректерді жинаймыз",
+        "body": [
+          "Сұрау пішінін жіберген кезде біз сіз енгізген деректерді аламыз: аты, электрондық поштасы, телефоны, тағайындалған ел, өнім түрі, саны және хабарлама.",
+          "Сайт сонымен қатар тіл таңдауыңызды браузерде (localStorage) сақтайды. Біз жарнамалық cookie файлдарын іске қоспаймыз немесе келушілер тізімін сатпаймыз."
+        ]
+      },
+      {
+        "title": "Деректерді не үшін пайдаланамыз",
+        "body": [
+          "Біз сұрау деректерін сұрауыңызға жауап беру, баға ұсынысын дайындау, сіз сұраған өнім туралы ақпаратты, бейнелерді немесе сертификаттарды жіберу және бірлесіп жұмыс істей бастасақ, тапсырысты үйлестіру үшін ғана пайдаланамыз.",
+          "Құқықтық негіз: пішіндегі құсбелгіні қойған кезде сіздің келісіміңіз және B2B сату сұрауларына жауап беруге заңды мүдделілігіміз."
+        ]
+      },
+      {
+        "title": "Деректерді кім алады",
+        "body": [
+          "Сіздің хабарламаңыз біздің сату тобына электрондық пошта арқылы жеткізіледі. Пішінді бізге хабарды жіберетін техникалық провайдер Web3Forms өңдейді.",
+          "Біз жеке деректерді сатпаймыз. Біз логистика, инспекция немесе банк серіктестерімен келісілген тапсырысты орындау үшін қажет болған жағдайда ғана қажет нәрсені бөлісе аламыз."
+        ]
+      },
+      {
+        "title": "Қанша уақыт сақтаймыз",
+        "body": [
+          "Сауалнама деректері сұрауды өңдеу үшін қажет болғанша және одан кейін сатуды бақылау және есепке алу үшін ақылға қонымды кезең ішінде сақталады, егер сіз заң рұқсат еткенде оны ертерек жоюды сұрамасаңыз."
+        ]
+      },
+      {
+        "title": "Сіздің құқықтарыңыз",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Қауіпсіздік және балалар",
+        "body": [
+          "Біз жолдағы және пошта жәшігіміздегі хабарларды қорғау үшін ақылға қонымды техникалық және ұйымдастыру шараларын қабылдаймыз. Бұл веб-сайт балаларға емес, бизнесті сатып алушыларға арналған."
+        ]
+      }
+    ],
+    "contactLead": "Осы саясатқа қатысты сұрақтар:"
   },
   "ui": {
     "catalog": "Каталог",
@@ -485,7 +558,7 @@
     "requestPrice": "Осы үлгінің бағасын сұраңыз",
     "services": "Қызметтер",
     "pricing": "Баға белгілеу",
-    "getExactQuote": "Нақты бағаны алыңыз",
+    "getExactQuote": "Нақты баға ұсынысын алыңыз",
     "certifications": "Сертификаттар",
     "order": "Тапсырыс беру",
     "reviews": "Пікірлер",
@@ -494,6 +567,7 @@
     "location": "Орналасқан жері",
     "quoteResponse": "Цитата жауап",
     "support": "Қолдау",
+    "countriesServed": "Экспортты қолдау",
     "exportReady": "Экспорт дайын",
     "years": "Жылдар",
     "acetylene": "Ацетилен",
@@ -508,17 +582,25 @@
     "quality": "Сапасы",
     "faq": "Жиі қойылатын сұрақтар",
     "blog": "Блог",
-    "countriesServed": "Қызмет көрсететін елдер",
     "searchLanguage": "Тіл іздеу...",
-    "noLanguagesFound": "Тілдер табылмады"
+    "noLanguagesFound": "Тілдер табылмады",
+    "breadcrumb": "Нан үгіндісі",
+    "primaryNav": "Негізгі",
+    "menu": "Мәзір",
+    "playVideo": "Бейнені ойнату",
+    "productGallery": "Өнім галереясы",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Жеке жапсырма",
+    "Халықаралық экспорт",
+    "Сапаны бақылау",
+    "Сұраныс бойынша нарықтық стандарттар",
+    "Жаппай тапсырыстар"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Сертификаттау",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Кедендік және реттеуші органдарға арналған құжаттар. Көшірмелер сұрау бойынша жеке жіберіледі.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS және сапа сертификаты",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Баға және жеткізу шарттары",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Коммерциялық шарттар сұрау бойынша расталады. Ресми баға ұсынысы үшін өнім, мөлшер және тағайындау мәліметтерін жіберіңіз.",
+    "note": "Біз осы веб-сайтта тіркелген бағалар тізімін, MOQ немесе жеткізу уақытын жарияламаймыз. Нақты коммерциялық шарттар сіздің талаптарыңызды қарастырғаннан кейін баға ұсынысында расталады.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Баға белгілеу",
+        "value": "Сұраныс бойынша",
+        "desc": "Сұрауды қараудан кейін ресми баға белгілеу"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Тапсырыс бойынша расталады",
+        "desc": "Үлгіге және тағайындалған жерге байланысты"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Тоқтау",
+        "value": "Тапсырыс бойынша расталады",
+        "desc": "Дәйексөзбен бөлісті"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Төлем",
+        "value": "Келісімшарт бойынша келісілген",
+        "desc": "Өндіріс алдында расталған шарттар"
       }
     ],
     "factors": {
-      "title": "Баға факторлары",
+      "title": "Дәйексөзге не әсер етеді",
       "items": [
-        "Цилиндр көлемі және үлгісі (2л – 50л)",
-        "Клапан түрі (CGA, GOST, DIN, POL)",
-        "Сертификаттау стандарты (ISO, DOT, TPED)",
-        "OEM: түс, таңбалау, орау",
+        "Цилиндр көлемі және моделі",
+        "Клапан түрі және қосылу стандарты",
+        "Баратын нарыққа қажетті стандарттар",
+        "OEM түсі, таңбалау және орау",
         "Тапсырыс көлемі және Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Ацетилен WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Ацетилен цилиндрлері",
+        "moq": "Сұраныс бойынша",
+        "price": "Сұрау бойынша келтірілген",
+        "lead": "Тапсырыс бойынша расталады"
       },
       {
-        "product": "Ацетилен WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Пропан / LPG баллондары",
+        "moq": "Сұраныс бойынша",
+        "price": "Сұрау бойынша келтірілген",
+        "lead": "Тапсырыс бойынша расталады"
       },
       {
-        "product": "Пропан WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Генераторлар",
+        "moq": "Сұраныс бойынша",
+        "price": "Сұрау бойынша келтірілген",
+        "lead": "Тапсырыс бойынша расталады"
       },
       {
-        "product": "Пропан WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "WG-G20 генераторы",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Реттегіш жиынтығы",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Аксессуарлар",
+        "moq": "Сұраныс бойынша",
+        "price": "Сұрау бойынша келтірілген",
+        "lead": "Тапсырыс бойынша расталады"
       }
     ],
     "tableHeaders": [
       "Өнім",
       "MOQ",
-      "Бағасы (EXW)",
+      "Бағасы",
       "Тоқтау"
     ]
   },
   "certifications": {
     "title": "Сертификаттар мен стандарттар",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Стандарттар мен сертификаттау нұсқалары өнім мен тағайындалған нарыққа сәйкес талқыланады. Куәлік көшірмелері сұрау бойынша жеке жіберіледі — файлдар бұл веб-сайтта жарияланбайды.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,41 +1043,41 @@
       },
       {
         "title": "Баға ұсыныстарын алу",
-        "desc": "Бағасы, MOQ, жеткізу уақыты және техникалық сипаттамалар парағы 24 сағат ішінде"
+        "desc": "Бағасы, MOQ, жеткізу уақыты және техникалық сипаттамалар парағы біздің сату тобының қарауынан кейін"
       },
       {
         "title": "Тапсырысты растау",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Өндіріс басталғанға дейін келісім-шарт және төлем шарттары"
       },
       {
         "title": "Өндіріс және сапалық бақылау",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Өндіріс және сынау. Бейнелер мен сертификаттар сұрау бойынша жеке жіберіледі"
       },
       {
         "title": "жөнелту",
-        "desc": "Қаптама, құжаттар, FOB/CIF/DDP жеткізу"
+        "desc": "Қаптама, құжаттар және жеткізу шарттары тапсырыста келісілгендей"
       }
     ]
   },
   "testimonials": {
-    "title": "Сатып алушылар пікірі",
+    "title": "Сатып алушылар не дейді",
     "items": [
       {
-        "quote": "Биыл 40 литрлік ацетилен баллондарын үшінші рет қайта тапсырыс бердік. GOST клапандары, OEM түсі және экспорттық қаптама әр жолы алғашқы үлгіге сәйкес келді.",
-        "author": "Rustam Yusupov",
-        "role": "Дәнекерлеу газы дистрибьюторының иесі",
+        "quote": "Біз биылғы жылы 40 л ацетилен цилиндрлеріне үш рет тапсырыс бердік. ГОСТ клапандары, OEM түсі және экспорттық орау әрқашан бірінші үлгіге сәйкес келді.",
+        "author": "Рустам Юсупов",
+        "role": "Меншік иесі, дәнекерлеуші ​​газ таратушы",
         "country": "Өзбекстан"
       },
       {
-        "quote": "Ұсыныс сол күні келді — MOQ пен мерзім анық. POL клапанды пропан баллондары мен толық packing list бар, кеденде сұрақ болмады.",
-        "author": "Aigerim Bekova",
-        "role": "Өнеркәсіптік жеткізілім сатып алу менеджері",
+        "quote": "Дәйексөз сол күні нақты MOQ және жеткізу уақытымен келді. Пропан бөтелкелері POL клапандарымен және толық орау тізімімен келді - бізде кедендік кешіктірулер жоқ.",
+        "author": "Әйгерім Бекова",
+        "role": "Сатып алу жөніндегі менеджер, өнеркәсіптік жабдықтау",
         "country": "Қазақстан"
       },
       {
-        "quote": "Баллондарды редукторлар мен шлангтармен бір контейнерде аламыз. Таңбалау мен құжаттар нарығымызға сай — қайта сату оңай.",
-        "author": "Faisal Al-Harbi",
-        "role": "Газ жабдығы импорт сатып алушысы",
+        "quote": "Бір контейнерлік тапсырыс ретінде реттегіштері мен шлангілері бар цилиндрлерді сатып аламыз. Құжаттар мен таңбалау біздің нарыққа дайын болды, сондықтан қайта сату оңай болды.",
+        "author": "Фейсал әл-Харби",
+        "role": "Импорттық сатып алушы, газ жабдықтарын саудалау",
         "country": "Сауд Арабиясы"
       }
     ]
@@ -1062,58 +1132,59 @@
         "id": "сапасы",
         "eyebrow": "Сапа және қауіпсіздік",
         "title": "Тексеруді бағаға қоюға болады",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Материалды тексеру, ағып кету сынақтары, клапан моменті және орау фотосуреттері. Сертификаттар пакеттері мен фото есептер сұрау бойынша жеке жіберіледі.",
         "points": [
           "Қысым және ағып кету сынақтары",
-          "Certificate package",
+          "Сұраныс бойынша сертификаттар",
           "Жеткізу алдындағы фотосуреттер"
         ]
       },
       {
         "id": "экспорт",
         "eyebrow": "Жаһандық экспорт",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Порттарға оралған, экспорттық нарықтарға дайын",
         "text": "Тағайындалған Incoterms үшін келісілген паллеттерді, клапандарды қорғауды, көп тілді белгілерді және тасымалдау құжаттарын экспорттау.",
         "points": [
           "FOB / CIF қолдауы",
           "Паллеттелген орау",
           "Жеткізу уақыты 15-25 күн"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Оралған газ баллондары жөнелту үшін зауыт ауласына қойылды",
+    "about": "Wanda Group зауытының қабатындағы жұмысшылар",
+    "accessories": "Газ баллондарының керек-жарақтары жинағы — реттегіштер, шлангілер, шамдар және фитингтер",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Кеуекті массасы және жез клапаны бар ерітілген ацетилен цилиндрі",
+      "Зауытта суретке түсірілген ацетилен генераторы",
+      "Пропан және LPG цилиндрлері әртүрлі өлшемдер мен түстерде",
+      "Газ баллондарына арналған дәнекерлеу және кесу керек-жарақтары жинағы"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Түнгі жөнелту: тіркемеге тиелген оралған жабдық",
+      "Паллеттер мен металл бөлшектер жөнелтуге арналған",
+      "Қоймада жинақталған қораптардың картондары",
+      "Цилиндрлер пленкаға оралған, зауыт ауласында қойылған",
+      "Зауыт шатырының астындағы газ баллондарын өндіру конвейері",
+      "Жоғары өңдеу конвейерінде ілулі тұрған СКГ баллондары",
+      "Wanda Group зауытының қабатында серуендеп жүрген жұмысшылар",
+      "Боялмаған дәнекерленген пропан цилиндр корпустары екі биіктікте қабаттастырылған",
+      "Бетон едендегі боялмаған цилиндр қабықтарының қатарлары",
+      "Цилиндр түтіктерінің қоры және тығындармен жабылған снарядтар шеберханада",
+      "Зауыт қабырғасына қапталған шикі цилиндр корпустары",
+      "Құрастыру алдында үйілген болат негіз сақиналары",
+      "Жезден жасалған арматура көбікпен қорапқа салынған",
+      "Шланг және қораптағы керек-жарақтары бар ацетилен генераторы",
+      "Дәнекерлеуден кейін ашық мойындары бар боялмаған цилиндр қабықтары"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Copeland жартылай герметикалық компрессоры бар ауамен салқындатылған конденсаторлық қондырғы",
+      "Bitzer жартылай герметикалық компрессоры бар ауамен салқындатылған конденсаторлық қондырғы",
+      "Шкаф үлгісіндегі жабық тоңазытқыш конденсатор қондырғысы",
+      "Сыйымдылығы жоғары төрт желдеткіш ауамен салқындатылатын конденсатор қондырғысы"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Заңды",
-    "title": "Құпиялылық саясаты",
-    "updated": "Соңғы жаңартылған күні: 25 тамыз 2026 ж",
-    "intro": [
-      "Wanda Group («біз», «біз») бұл веб-сайтты газ баллондарын, керек-жарақтарды және тиісті экспорттық жеткізілімдерді ұсыну және өнеркәсіптік сатып алушылардан коммерциялық сұрауларды алу үшін басқарады.",
-      "Бұл саясат сайт арқылы қандай жеке деректерді жинайтынымызды, оны не үшін қолданатынымызды және ол туралы бізбен қалай байланысуға болатынын түсіндіреді. Біз веб-сайтта зауыттық бейнелерді немесе сертификат файлдарын жарияламаймыз; бұл материалдар сұрау бойынша жеке жіберіледі."
-    ],
-    "sections": [
-      {
-        "title": "Кім жауапты",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Біз қандай деректерді жинаймыз",
-        "body": [
-          "Сұрау пішінін жіберген кезде біз сіз енгізген деректерді аламыз: аты, электрондық поштасы, телефоны, тағайындалған ел, өнім түрі, саны және хабарлама.",
-          "Сайт сонымен қатар тіл таңдауыңызды браузерде (localStorage) сақтайды. Біз жарнамалық cookie файлдарын іске қоспаймыз немесе келушілер тізімін сатпаймыз."
-        ]
-      },
-      {
-        "title": "Деректерді не үшін пайдаланамыз",
-        "body": [
-          "Біз сұрау деректерін сұрауыңызға жауап беру, баға ұсынысын дайындау, сіз сұраған өнім туралы ақпаратты, бейнелерді немесе сертификаттарды жіберу және бірлесіп жұмыс істей бастасақ, тапсырысты үйлестіру үшін ғана пайдаланамыз.",
-          "Құқықтық негіз: пішіндегі құсбелгіні қойған кезде сіздің келісіміңіз және B2B сату сұрауларына жауап беруге заңды мүдделілігіміз."
-        ]
-      },
-      {
-        "title": "Деректерді кім алады",
-        "body": [
-          "Сіздің хабарламаңыз біздің сату тобына электрондық пошта арқылы жеткізіледі. Конфигурацияға байланысты пішін бізге хабарлама жіберетін техникалық провайдер ретінде Web3Forms арқылы өңделуі мүмкін.",
-          "Біз жеке деректерді сатпаймыз. Біз логистика, инспекция немесе банк серіктестерімен келісілген тапсырысты орындау үшін қажет болған жағдайда ғана қажет нәрсені бөлісе аламыз."
-        ]
-      },
-      {
-        "title": "Қанша уақыт сақтаймыз",
-        "body": [
-          "Сауалнама деректері сұрауды өңдеу үшін қажет болғанша және одан кейін сатуды бақылау және есепке алу үшін ақылға қонымды кезең ішінде сақталады, егер сіз заң рұқсат еткенде оны ертерек жоюды сұрамасаңыз."
-        ]
-      },
-      {
-        "title": "Сіздің құқықтарыңыз",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Қауіпсіздік және балалар",
-        "body": [
-          "Біз жолдағы және пошта жәшігіміздегі хабарларды қорғау үшін ақылға қонымды техникалық және ұйымдастыру шараларын қабылдаймыз. Бұл веб-сайт балаларға емес, бизнесті сатып алушыларға арналған."
-        ]
-      }
-    ],
-    "contactLead": "Осы саясатқа қатысты сұрақтар:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Заңды",
+    "title": "Пайдалану шарттары",
+    "updated": "Соңғы жаңартылған күні: 27 тамыз 2026 ж",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Бұл шарттар газ баллондарын, генераторларды және керек-жарақтарды өнеркәсіптік сатып алушылар үшін Wanda Group басқаратын wandagroups.com сайтын пайдалануды реттейді.",
+      "Сайтты шолу немесе сұрау жіберу арқылы сіз осы шарттармен және Құпиялық саясатымызбен келісесіз. Егер келіспесеңіз, сайтты пайдаланбаңыз."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Біз кімбіз",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Веб-сайт не үшін",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Сайт өнім туралы ақпаратты ұсынады және коммерциялық сұрауларды алады. Ол жеке тұлғалар ретінде сатып алатын тұтынушыларға және балаларға емес, іскери сатып алушыларға арналған."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Бағалар, бағалар және тапсырыстар",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Сайттағы бағалар, MOQ, жеткізу уақыты және техникалық сипаттамалар индикативті болып табылады. Пішін немесе мессенджер арқылы хабарлама тапсырыс емес, сұрау болып табылады.",
+          "Шарт тек екі тарап ұсынысты жазбаша растаған кезде (электрондық пошта немесе қол қойылған құжаттар) және келісілген депозитті алған кезде ғана, егер біз бұл растауда басқаша айтылмаса."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Фотосуреттер, бейнелер және сертификаттар",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Сайттағы зауыттық фотосуреттер мен бейнелер өндірісті көрсетеді. Қосымша кадрлар мен сертификат файлдары сұрау бойынша жеке жіберіледі және біз оларды бөлісуге болатынын айтпасақ, біздің құпия материалдарымыз болып қала береді."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Зияттық меншік",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Осы веб-сайттағы мәтін, фотосуреттер, бейнелер, логотиптер және макет Wanda Group немесе біздің лицензия берушілерге тиесілі. Сіз өзіңіздің коммерциялық сайтыңыздың каталогын біздің жазбаша келісімімізсіз көшіре алмайсыз."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Қолайлы пайдалану",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Сұрау формасын теріс пайдаланбаңыз (спам, жалған сәйкестік немесе сайтты бұзу әрекеттері). Біз өрескел сұрауларды елемеуіміз немесе жоюымыз мүмкін."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Жауапкершілік",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Біз ақпараттың дәл болуын қамтамасыз етеміз, бірақ сайтта қателер болуы немесе уақытша қолжетімсіз болуы мүмкін. Заңмен рұқсат етілген көлемде Wanda Group тек веб-сайтты пайдаланудан туындайтын жанама шығындарға жауапты емес.",
+          "Нақты жеткізу келісімшарты үшін жауапкершілік тек осы веб-сайт шарттарында емес, осы келісімшартта және қолданыстағы заңда белгіленеді."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Өзгерістер",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Біз бұл шарттарды жаңартуымыз мүмкін. Жоғарғы жағындағы күн ағымдағы нұсқаны көрсетеді. Өзгерістерден кейін сайтты пайдалануды жалғастыру жаңартылған шарттарды қабылдайтыныңызды білдіреді."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Осы терминдерге қатысты сұрақтар:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Біздің өнім желісі",
+    "title": "Тоңазытқыш қондырғылары",
+    "subtitle": "Wanda Group компаниясының жеке желісі — үшінші тарап каталогы емес. Конденсациялау қондырғылары, салқындатқыш бөлмелер және біз цилиндрлермен немесе жеке тапсырыспен жеткізілетін жабдықтар.",
+    "moreLink": "Тоңазытқыш қондырғылары →",
+    "cta": "Баға сұрау",
+    "alsoTitle": "Сондай-ақ сұраныс бойынша қол жетімді",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Полиуретанды суық бөлме панельдері (B1 / B2) және 304 тот баспайтын панельдер",
+      "Салқын бөлмедегі ауа салқындатқыштары — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Алюминий буландырғыш катушкалар",
+      "Суық бөлменің есіктері",
+      "Өнеркәсіптік су салқындатқыштары",
+      "Көлік тоңазытқыш қондырғылары және жылжымалы салқындатқыш бөлмелер"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade тоңазытқыш жабдығын газ баллондарымен қатар жеткізеді: блоктар, панельдер, салқындатқыштар және оларға қатысты суық тізбекті жабдық. Copeland, Bitzer және ұқсас атаулар бұл компаниялардың ребрендіне емес, құрылғының ішіндегі компрессор брендіне сілтеме жасайды.",
+    "videoTitle": "Компания бейне",
+    "videoSubtitle": "Тоңазытқыш қондырғылар желісін шолу. Қосымша кадрлар сұрау бойынша жеке жіберіледі.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland жартылай герметикалық ауамен салқындатылатын қондырғы",
+        "spec": "Конденсациялық қондырғы · Копленд компрессоры",
+        "desc": "Салқын бөлмелерге және орташа температураға арналған Copeland жартылай герметикалық компрессоры бар ауамен салқындатылған конденсаторлық қондырғы."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Битцер жартылай герметикалық ауамен салқындатылатын қондырғы",
+        "spec": "Конденсациялық қондырғы · Битцер компрессоры",
+        "desc": "Битцер жартылай герметикалық компрессоры бар ауамен салқындатылған конденсатор қондырғысы жоғары жүктемелі және орташадан төмен температураға дейінгі бөлмелерге арналған."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Қорап түріндегі блок",
+        "spec": "Шкафты конденсациялау қондырғысы",
+        "desc": "Ашық сырғанақ емес, орналастырылған машинаны қажет ететін тораптар үшін жабық шкаф үлгісіндегі конденсатор қондырғысы."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-типті / жоғары өнімді конденсаторлық қондырғы",
+        "spec": "Ауа салқындатылған көп желдеткіш",
+        "desc": "Үлкен салқындатқыш қоймалар мен технологиялық процестерді салқындату үшін көп желдеткіш конденсаторы бар үлкенірек ауамен салқындатылған конденсатор қондырғысы."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Біз кімбіз",
+    "title": "B2B сатып алушыларына арналған өнеркәсіптік өндіруші",
+    "text": "Wanda Groups шетелдік дистрибьюторларға, OEM серіктестеріне және жоба сатып алушыларына өнеркәсіптік газ баллондарын, генераторлар мен дәнекерлеу керек-жарақтарын шығарады және жеткізеді.",
+    "text2": "Біздің басты назарымыз – бөлшек сауда емес, зауытпен байланысты жеткізу, өнімді таңдауды қолдау, жаппай тапсырыстар және экспортты үйлестіру.",
+    "cta": "Біз туралы көбірек біліңіз"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Баға сұрауға дайынсыз ба?",
+      "quoteCta": "Баға сұрау",
+      "relatedProducts": "Қатысты өнімдер",
+      "applications": "Қолданбалар",
+      "standardsTitle": "Стандарттар және сертификаттау",
+      "oemTitle": "OEM / теңшеу",
+      "packagingTitle": "Қаптама және жеткізу",
+      "placeholders": {
+        "standards": "Қолжетімді стандарттар мен сертификаттар тапсырыс пен тағайындалған нарыққа сәйкес расталады. Сертификат көшірмелері сұрау бойынша жеке жіберіледі — файлдар веб-сайтта жарияланбайды.",
+        "oem": "OEM түсі, таңбалау, клапан, қақпақ және орау опциялары тапсырыс пен мақсатты нарыққа сәйкес талқылануы мүмкін.",
+        "packaging": "Экспорттық қаптама мен құжаттама тапсырыс пен жеткізу шарттарына сәйкес дайындалады."
+      }
+    },
+    "home": {
+      "seoTitle": "Газ баллондарын өндіруші | Өнеркәсіптік OEM және экспорт | Ванда топтары",
+      "seoDescription": "Wanda Groups OEM, көтерме және халықаралық экспорттық сатып алушылар үшін өнеркәсіптік газ баллондарын, генераторлар мен дәнекерлеу керек-жарақтарын шығарады."
+    },
+    "about": {
+      "label": "Біз туралы",
+      "title": "Өнеркәсіптік сатып алушылар үшін газ баллондарын өндіруші",
+      "subtitle": "Біз шетелдік сатып алушыларға өнімді таңдау, OEM, тексеру, орау және жөнелту арқылы қолдау көрсетеміз.",
+      "seoTitle": "Wanda Group туралы",
+      "seoDescription": "Wanda Group дәнекерлеуге, кесуге және өнеркәсіптік газбен жабдықтауға арналған ацетилен цилиндрлерін, пропан цилиндрлерін, генераторлар мен керек-жарақтарды шығарады."
+    },
+    "products": {
+      "label": "Өнімдер",
+      "title": "Біздің өнімдер",
+      "subtitle": "Ацетилен цилиндрлері, генераторлар, пропан цилиндрлері және өнеркәсіптік және дәнекерлеуге арналған керек-жарақтар.",
+      "seoTitle": "Газ баллондарының өнімдері",
+      "seoDescription": "Ацетилен цилиндрлері, генераторлар, пропан цилиндрлері және өнеркәсіптік және дәнекерлеуге арналған керек-жарақтар.",
+      "refrigerationNote": "Wanda International Trade тоңазытқыш жабдығын газ баллондарымен қатар жеткізеді: блоктар, панельдер, салқындатқыштар және оларға қатысты суық тізбекті жабдық. Copeland, Bitzer және ұқсас атаулар бұл компаниялардың ребрендіне емес, құрылғының ішіндегі компрессор брендіне сілтеме жасайды.",
+      "catalog": {
+        "acetylene": {
+          "name": "Ерітілген ацетилен цилиндрлері",
+          "overview": "Ацетиленді қауіпсіз сақтау және тасымалдау үшін кеуекті массасы мен еріткіші бар болат цилиндрлер. Дәнекерлеуде, кесуде, дәнекерлеуде және металды дайындауда қолданылады.",
+          "seoTitle": "Ацетилен газ баллондары",
+          "seoDescription": "Ацетиленді қауіпсіз сақтау және тасымалдау үшін кеуекті массасы мен еріткіші бар болат цилиндрлер. Дәнекерлеуде, кесуде, дәнекерлеуде және металды дайындауда қолданылады."
+        },
+        "propane": {
+          "name": "Пропан цилиндрлері",
+          "overview": "Пропан, бутан және СКГ қоспаларына арналған цилиндрлер. Жылыту, кесу, дәнекерлеу, құрылыс және өнеркәсіптік газбен жабдықтауда қолданылады.",
+          "seoTitle": "Пропан газ баллондары",
+          "seoDescription": "Пропан, бутан және СКГ қоспаларына арналған цилиндрлер. Жылыту, кесу, дәнекерлеу, құрылыс және өнеркәсіптік газбен жабдықтауда қолданылады."
+        },
+        "lpg": {
+          "name": "СКГ цилиндрлері",
+          "overview": "Пропан, бутан және СКГ қоспаларына арналған цилиндрлер. Жылыту, кесу, дәнекерлеу, құрылыс және өнеркәсіптік газбен жабдықтауда қолданылады.",
+          "seoTitle": "СКГ газ баллондары",
+          "seoDescription": "Пропан, бутан және СКГ қоспаларына арналған цилиндрлер. Жылыту, кесу, дәнекерлеу, құрылыс және өнеркәсіптік газбен жабдықтауда қолданылады."
+        },
+        "industrial": {
+          "name": "Өнеркәсіптік газ баллондары",
+          "overview": "Дәнекерлеуге, кесуге және зауытты жеткізуге арналған өнеркәсіптік газ баллондары, соның ішінде ацетилен, пропан және СКГ опциялары сіздің нарыққа сәйкес келеді.",
+          "seoTitle": "Өнеркәсіптік газ баллондары",
+          "seoDescription": "Ванда тобынан дәнекерлеуге, кесуге және зауытты жеткізуге арналған өнеркәсіптік газ баллондары."
+        },
+        "generators": {
+          "name": "Ацетилен генераторлары",
+          "overview": "Кальций карбидінен ацетилен алуға арналған жабдық. Орталықтандырылған газ инфрақұрылымынсыз дәнекерлеу және өндірістік қажеттіліктерді тұрақты газбен қамтамасыз ету.",
+          "seoTitle": "Ацетилен генераторлары",
+          "seoDescription": "Кальций карбидінен ацетилен алуға арналған жабдық. Орталықтандырылған газ инфрақұрылымынсыз дәнекерлеу және өндірістік қажеттіліктерді тұрақты газбен қамтамасыз ету."
+        },
+        "accessories": {
+          "name": "Цилиндрге арналған керек-жарақтар мен фитингтер",
+          "overview": "Газ баллондарының қауіпсіз жұмысы үшін толық ауқым: өлшеуіштерден дәнекерлеу шамдарына дейін. Цилиндрлермен бір терезеден сатып алу.",
+          "seoTitle": "Дәнекерлеуге арналған керек-жарақтар",
+          "seoDescription": "Газ баллондарының қауіпсіз жұмысы үшін толық ауқым: өлшеуіштерден дәнекерлеу шамдарына дейін. Цилиндрлермен бір терезеден сатып алу."
+        },
+        "refrigeration": {
+          "name": "Тоңазытқыш қондырғылары",
+          "overview": "Wanda Group компаниясының жеке желісі — үшінші тарап каталогы емес. Конденсациялау қондырғылары, салқындатқыш бөлмелер және біз цилиндрлермен немесе жеке тапсырыспен жеткізілетін жабдықтар.",
+          "seoTitle": "Тоңазытқыш қондырғылары",
+          "seoDescription": "Wanda Group компаниясының жеке желісі — үшінші тарап каталогы емес. Конденсациялау қондырғылары, салқындатқыш бөлмелер және біз цилиндрлермен немесе жеке тапсырыспен жеткізілетін жабдықтар."
+        }
+      }
+    },
+    "factory": {
+      "label": "Зауыт",
+      "title": "Зауыт және өндіріс",
+      "subtitle": "Өндіріс, тексеру, орау және жөнелту — нақты зауыттық фотосуреттермен және зауыттық бейнелермен құжатталған.",
+      "seoTitle": "Зауыт және өндіріс | Ванда топтары",
+      "seoDescription": "Өндіріс алаңынан нақты зауыт фотосуреттері, тікелей жіберу кадрлары және қысқа бейнелер.",
+      "sections": [
+        {
+          "title": "Өндіріс",
+          "text": "Цилиндрлерді қалыптау, дәнекерлеу және өңдеу зауыт өндірісінің бөлігі ретінде."
+        },
+        {
+          "title": "Өндіріс процесі",
+          "text": "Қабықшаны дайындаудан бастап құрастыру мен өңдеуге дейін — технологиялық қорды және өндіріс қабатының кадрларын қараңыз."
+        },
+        {
+          "title": "Сапаны тексеру",
+          "text": "Цилиндрлерді жөнелтуге дайындайтын визуалды, таңбалау және өлшемдік тексерулер."
+        },
+        {
+          "title": "Тестілеу",
+          "text": "Тапсырыс талаптарына сәйкес өнімдер желіден шықпас бұрын қысым мен ағып кету сынағы қолданылады."
+        },
+        {
+          "title": "Қаптама",
+          "text": "Экспорттық қаптама цилиндрлер мен фитингтерді шетелге тасымалдау үшін қорғайды."
+        },
+        {
+          "title": "Жүктеу және экспорттау",
+          "text": "Қойманы орналастыру, жүк көлігіне тиеу және шығыс тапсырыстар үшін жөнелту құжаттамасы."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Сертификаттар",
+      "title": "Сертификаттар мен стандарттар",
+      "subtitle": "Сатып алушылар жиі сұрайтын стандарттар төменде келтірілген. Қолдану мүмкіндігі өнім мен тағайындалған нарыққа байланысты. Куәлік көшірмелері, нөмірлері және жарамдылық мерзімі сұрау бойынша жеке бөлісіледі — тексерілмеген шағымдар ретінде жарияланбайды.",
+      "seoTitle": "Сертификаттар мен стандарттар | Ванда топтары",
+      "seoDescription": "Wanda Groups газ баллондары үшін нарық бойынша талқыланған стандарттар. Куәлік көшірмелері сұрау бойынша жеке беріледі.",
+      "note": "Куәлік көшірмелері сұрау бойынша жеке жіберіледі. Біз веб-сайтта сертификат файлдарын жарияламаймыз."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM және көтерме",
+      "subtitle": "Дистрибьюторлар мен өнеркәсіптік сатып алушылар үшін жеке жапсырма және жаппай жеткізу опциялары.",
+      "seoTitle": "OEM газ баллондарын жеткізу",
+      "seoDescription": "Шетелдік брендтер мен дистрибьюторлар үшін OEM және жеке маркалы газ баллондарын өндіру.",
+      "quoteTitle": "OEM талаптарын талқылаңыз",
+      "quoteCta": "OEM бағасын сұрау",
+      "capabilities": [
+        {
+          "title": "Арнаулы логотип",
+          "text": "Логотип және таңбалау опциялары білікті OEM тапсырыстары үшін талқыланады."
+        },
+        {
+          "title": "Таңдамалы түс",
+          "text": "Нарық немесе бренд талаптарына сәйкес цилиндр түсі."
+        },
+        {
+          "title": "Арнайы қаптама",
+          "text": "Тапсырыс бойынша картондарды, паллеттерді және қаптама белгілерін экспорттаңыз."
+        },
+        {
+          "title": "Жеке белгі",
+          "text": "Дистрибьюторлық арналар үшін таңбалау және брендті көрсету."
+        },
+        {
+          "title": "Жаппай тапсырыстар",
+          "text": "Жобалық және дистрибьюторлық сатып алулар үшін көтерме көлемдер."
+        },
+        {
+          "title": "OEM өндірісі",
+          "text": "Өнім конфигурациясы спецификацияға және нарыққа сәйкес келеді."
+        },
+        {
+          "title": "Экспортты қолдау",
+          "text": "Шетелге жеткізу үшін құжаттар мен тасымалдауды үйлестіру."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Нарықтар",
+      "title": "Жаһандық нарықтар",
+      "subtitle": "Біз халықаралық B2B сатып алушыларын қолдаймыз. Төмендегі аймақтар жалпы сұрау салаларын сипаттайды — нақты елдер мен жобалар әр жағдайда расталады.",
+      "seoTitle": "Жаһандық нарықтар | Wanda Groups экспорты",
+      "seoDescription": "Wanda Groups Африка, Таяу Шығыс, Орталық Азия, Оңтүстік-Шығыс Азия, Латын Америкасы және басқа нарықтардағы халықаралық өнеркәсіптік сатып алушылармен жұмыс істейді.",
+      "note": "Біз бұл бетте расталмаған елдер санын, тұтынушы атын немесе жоба сілтемелерін жарияламаймыз.",
+      "regions": [
+        {
+          "title": "Африка",
+          "text": "Африкалық нарықтардағы өнеркәсіптік және дистрибьюторлық сұраулар."
+        },
+        {
+          "title": "Таяу шығыс",
+          "text": "Өңірлік жобалар үшін цилиндрлер мен тиісті жабдықты сатып алушылар."
+        },
+        {
+          "title": "Орталық Азия",
+          "text": "Орталық Азия нарықтары бойынша көтерме және жобалық жеткізуді талқылау."
+        },
+        {
+          "title": "Оңтүстік-Шығыс Азия",
+          "text": "Экспорттық цилиндр жеткізілімін бағалайтын өнеркәсіптік сатып алушылар."
+        },
+        {
+          "title": "Латын америка",
+          "text": "Өнеркәсіптік газ баллондары мен керек-жарақтармен қамтамасыз ету бойынша сұраныстар."
+        },
+        {
+          "title": "Басқа халықаралық нарықтар",
+          "text": "Қосымша бағыттар өнім стандартына және логистикаға сәйкес қарастырылады."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Қолданбалар",
+      "title": "Цилиндрлерді қолдану",
+      "subtitle": "Жалпы өнеркәсіптік газ тапсырмалары мен шетелдік сатып алушылардың талаптарына арналған өнімдер.",
+      "seoTitle": "Цилиндрлерді қолдану",
+      "seoDescription": "Жалпы өнеркәсіптік газ тапсырмалары мен шетелдік сатып алушылардың талаптарына арналған өнімдер.",
+      "items": [
+        {
+          "title": "Дәнекерлеу және дәнекерлеу",
+          "text": "Ерітілген ацетилен және олармен байланысты цехтар мен өндірістік дәнекерлеуге арналған жабдықтар."
+        },
+        {
+          "title": "Металл кесу",
+          "text": "Цилиндрлер мен қондырғыларда оттегімен кесуге арналған керек-жарақтар."
+        },
+        {
+          "title": "Өнеркәсіптік газбен жабдықтау",
+          "text": "Өнеркәсіптік тарату және зауыттық газ жүйелерін баллонмен жабдықтау."
+        },
+        {
+          "title": "Құрылыс",
+          "text": "Құрылыс және жөндеу жұмыстарына арналған тасымалданатын газбен жабдықтау."
+        },
+        {
+          "title": "Металл өндірісі",
+          "text": "Цехтер мен кеме жөндеу зауыттарына арналған цилиндрлер мен керек-жарақтар."
+        },
+        {
+          "title": "Газды сақтау және тарату",
+          "text": "Өнеркәсіптік сатып алушылар үшін сақтауға және таратуға дайын цилиндрлер."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Жиі қойылатын сұрақтар",
+      "title": "Жиі қойылатын сұрақтар",
+      "subtitle": "Компания, өнімдер, OEM және экспорт — баға ұсынысын сұрамас бұрын шетелдік сатып алушыларға жауаптар.",
+      "seoTitle": "Жиі қойылатын сұрақтар",
+      "seoDescription": "Компания, өнімдер, OEM және экспорт — баға ұсынысын сұрамас бұрын шетелдік сатып алушыларға жауаптар."
+    },
+    "contactPage": {
+      "label": "Байланыс",
+      "title": "Сіздің талаптарыңызды талқылайық",
+      "subtitle": "Пішін, электрондық пошта немесе мессенджер арқылы біздің сату тобына хабарласыңыз. Жылдам баға белгілеу үшін өнімді, санын және тағайындалған жерін бөлісіңіз.",
+      "seoTitle": "Баға сұрау",
+      "seoDescription": "Өлшемін, санын, тағайындалған елді және өтінімді айтыңыз — біз егжей-тегжейлі баға белгілеуін дайындаймыз."
+    },
+    "blog": {
+      "label": "Блог",
+      "title": "Соңғы мақалалар",
+      "subtitle": "Дәнекерлеу және газбен жабдықтау мамандарына арналған сараптамалық мазмұн.",
+      "seoTitle": "Мақалалар мен нұсқаулықтар",
+      "seoDescription": "Дәнекерлеу және газбен жабдықтау мамандарына арналған сараптамалық мазмұн.",
+      "coming": "Қосымша сатып алушыларға арналған нұсқаулықтар мен өнім ескертулері осында қосылады. Жоғарыдағы мақалаларды пайдаланыңыз немесе өнімге қатысты материалдар үшін бізге хабарласыңыз."
+    },
+    "privacy": {
+      "seoTitle": "Құпиялылық саясаты",
+      "seoDescription": "Wanda Group веб-сайтына қатысты сұраулар мен жеке деректерге арналған құпиялылық саясаты."
+    },
+    "terms": {
+      "seoTitle": "Пайдалану шарттары",
+      "seoDescription": "Wanda Group веб-сайтының пайдалану шарттары."
+    },
+    "notFound": {
+      "seoTitle": "Бет табылмады",
+      "seoDescription": "Сіз сұраған бет қолжетімді емес.",
+      "title": "Бет табылмады",
+      "text": "Сіз іздеген бет жоқ немесе жылжытылды.",
+      "home": "Үй",
+      "products": "Өнімдер",
+      "contact": "Байланыс / Баға алу"
+    }
   }
 }

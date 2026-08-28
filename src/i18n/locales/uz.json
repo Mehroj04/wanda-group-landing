@@ -1,277 +1,289 @@
 {
   "nav": {
+    "home": "Uy",
     "products": "Mahsulotlar",
-    "specs": "Texnik xususiyatlar",
-    "applications": "Qoʻllanish sohalari",
-    "about": "Biz haqimizda",
+    "specs": "Texnik xususiyatlari",
+    "applications": "Ilovalar",
+    "about": "Haqida",
     "gallery": "Galereya",
-    "quality": "Sifat",
-    "faq": "Savol-javob",
-    "contact": "Aloqa",
-    "getQuote": "Narx soʻrash",
-    "inquire": "Soʻrov →",
-    "services": "Xizmatlar",
-    "pricing": "Narxlar",
-    "accessories": "Aksessuarlar",
-    "home": "Bosh sahifa",
     "factory": "Zavod",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "quality": "Sifat",
+    "faq": "TSS",
+    "contact": "Aloqa",
+    "getQuote": "Iqtibos olish",
+    "inquire": "So'rov →",
+    "services": "Xizmatlar",
+    "pricing": "Narxlash",
+    "accessories": "Aksessuarlar",
+    "refrigeration": "Sovuq saqlash",
+    "cooling": "Sovutish",
+    "certifications": "Sertifikatlar",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Bozorlar"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Sanoat gaz ballonlari ishlab chiqaruvchisi",
+    "title": "Sanoat gaz ballonlari va uskunalari ishlab chiqaruvchisi",
+    "subtitle": "Xalqaro eksport xaridorlari uchun asetilen tsilindrlari, propan/LPG tsilindrlari, generatorlar va payvandlash aksessuarlarini ishlab chiqarish, OEM va ulgurji yetkazib berish.",
+    "lineGas": "Gaz ballonlari",
+    "lineCold": "Sovutgich qurilmalari",
+    "cta": "Iqtibos olish",
+    "ctaSecondary": "Mahsulotlarni ko'rish",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Ishlab chiqaruvchiga yo'naltirilgan ta'minot"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Shaxsiy yorliq va moslashtirish"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Xalqaro yuk tashishni qo'llab-quvvatlash"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Tekshirish va sinov jarayoni"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "So'rov bo'yicha bozorga xos variantlar"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Ishonchli gaz ballonlari aksessuarlari",
-    "text": "O'lchagichlar, klapanlar, shlanglar, mash'alalar va xavfsizlik armaturalari - silindrlar bilan birga yoki alohida buyurtma sifatida etkazib beriladi.",
+    "text": "O'lchagichlar, klapanlar, shlanglar, mash'allar va xavfsizlik armaturalari - silindrlar bilan birga yoki alohida buyurtma sifatida etkazib beriladi.",
     "cta": "Aksessuarlarni ko'rish"
   },
   "products": {
     "title": "Mahsulotlarimiz",
-    "subtitle": "Sanoat va payvandlash uchun atsetilen ballonlari, generatorlar, propan ballonlari va aksessuarlar.",
+    "subtitle": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+    "viewDetails": "Tafsilotlarni ko'rish",
     "items": [
       {
-        "title": "Atsetilen balloni",
-        "desc": "Payvandlash, kesish va sanoat gazlari uchun erigan atsetilen ballonlari. Turli oʻlchamlar va ventil variantlari.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / NOKTA / TPED"
+        "title": "Asetilen tsilindr",
+        "spec": "2L–40L · bozorda tasdiqlangan standartlar",
+        "desc": "Payvandlash, kesish va sanoat gaz bilan ta'minlash uchun erigan asetilen tsilindrlari.",
+        "icon": "🔥"
       },
       {
-        "title": "Atsetilen generatori",
-        "desc": "Barqaror gaz ishlab chiqarish, qulay boshqaruv va sanoat qoʻllanishi uchun uskunalar.",
-        "icon": "⚙️",
-        "spec": "Sanoat ishlab chiqarish tizimlari"
+        "title": "Asetilen generatori",
+        "spec": "Sanoat ishlab chiqarish tizimlari",
+        "desc": "Saytda va zavodda barqaror asetilen ishlab chiqarish uchun uskunalar.",
+        "icon": "⚙️"
       },
       {
-        "title": "Propan balloni",
-        "desc": "Propan va LPG uchun mustahkam ballonlar — saqlash, isitish, kesish va sanoat foydalanishi.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "title": "Propan tsilindri",
+        "spec": "Bozor uchun 3L–50L · valf variantlari",
+        "desc": "Isitish, kesish va sanoatda foydalanish uchun bardoshli LPG tsilindrlari.",
+        "icon": "🛢️"
       },
       {
-        "title": "Ballon aksessuarlari",
-        "desc": "Shlanglar, manometrlar, kesish mashʼallari, payvandlash gorelkalar, xavfsizlik ventililari va boshqalar.",
-        "icon": "🔧",
-        "spec": "Vanalar · regulyatorlar · shlanglar · mash'allar"
+        "title": "Silindr aksessuarlari",
+        "spec": "Vanalar · regulyatorlar · shlanglar · mash'allar",
+        "desc": "Silindrlar bilan yoki alohida buyurtma sifatida ta'minlangan mos keladigan armatura.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Tafsilotlarni ko'rish"
+    ]
   },
   "specs": {
-    "title": "Texnik xususiyatlar",
-    "subtitle": "Soʻrov yuborishdan oldin ballon variantlari, moslashtirish imkoniyatlari va yetkazib berish tafsilotlarini oʻrganing.",
+    "title": "Texnik spetsifikatsiyalar",
+    "subtitle": "So'rov yuborishdan oldin silindr variantlari, moslashtirish imkoniyatlari va jo'natish tafsilotlarini o'rganing.",
     "items": [
       {
-        "title": "Ballon sigʻimi",
-        "desc": "Qoʻllanish va bozor talablariga qarab turli sigʻim va hajm variantlari."
+        "title": "Silindr hajmi",
+        "desc": "Ilova va bozor talablariga qarab turli sig'im va hajm variantlari."
       },
       {
-        "title": "Ventillar va qopqoqlar",
-        "desc": "Mijoz va loyiha ehtiyojlariga mos ventililar, qopqoqlar va fitinglar."
+        "title": "Vanalar va qopqoqlar",
+        "desc": "Mijoz va loyiha ehtiyojlariga ko'ra etkazib beriladigan klapanlar, qopqoqlar va armatura."
       },
       {
-        "title": "Erituvchi variantlari",
-        "desc": "Barqaror atsetilen saqlash uchun gʻovakli toʻldiruvchi tizim va erituvchilar."
+        "title": "Solvent variantlari",
+        "desc": "Asetilenni barqaror saqlash uchun gözenekli plomba tizimi va erituvchilar."
       },
       {
-        "title": "Qadoqlash va yetkazib berish",
-        "desc": "Distribyutorlar va loyiha mijozlari uchun eksport qadoqlash va yetkazib berish qoʻllab-quvvatlash."
+        "title": "Qadoqlash va jo'natish",
+        "desc": "Distribyutorlar va loyiha mijozlari uchun eksportni qadoqlash va jo'natish bo'yicha yordam."
       }
     ]
   },
   "applications": {
-    "title": "Ballon qoʻllanish sohalari",
-    "subtitle": "Oddiy sanoat gaz vazifalari va xorijiy xaridorlar talablari uchun moʻljallangan mahsulotlar.",
+    "title": "Silindrlarni qo'llash",
+    "subtitle": "Umumiy sanoat gaz vazifalari va xorijdagi xaridorlarning talablari uchun mo'ljallangan mahsulotlar.",
     "items": [
-      "Payvandlash va qattiq payvandlash",
+      "Payvandlash va payvandlash",
       "Metall kesish",
-      "Sanoat gaz taʼminoti",
+      "Sanoat gaz ta'minoti",
       "Qurilish",
-      "Metall ishlov berish",
-      "Gaz saqlash va taqsimlash"
+      "Metall ishlab chiqarish",
+      "Gazni saqlash va taqsimlash"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Nima uchun Wanda guruhlarini tanlash kerak",
+    "subtitle": "Ishlab chiqarish hamkorini baholaydigan sanoat xaridorlari uchun aniq imkoniyatlar.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Ishlab chiqaruvchiga yo'naltirilgan ta'minot",
+        "desc": "Mahsulot ta'minoti nafaqat savdo kataloglari, balki ishlab chiqarishga yo'naltirilgan."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM qo'llab-quvvatlash",
+        "desc": "Maxsus rang, markalash, valf va qadoqlash buyurtma bo'yicha muhokama qilinadi."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Sifat nazorati",
+        "desc": "Yuk tashishdan oldin qadoqlash orqali materiallardan tekshirish."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Xalqaro eksport",
+        "desc": "Chet ellik xaridorlar uchun eksportni qadoqlash va jo'natishni muvofiqlashtirish."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Mahsulotni moslashtirish",
+        "desc": "Bozor va dastur talablariga moslashtirilgan spetsifikatsiyalar."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Javobgar savdoni qo'llab-quvvatlash",
+        "desc": "Shakl, elektron pochta va messenjerlar orqali takliflar va texnik javoblar."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Ommaviy buyurtma berish imkoniyati",
+        "desc": "Distribyutorlar va loyiha xaridorlari uchun qo'llab-quvvatlanadigan ulgurji miqdorlar."
       }
     ]
   },
   "about": {
-    "title": "Professional gaz ballonlari ishlab chiqaruvchisi",
-    "text": "Wanda Group Gas Cylinder Manufacturer sanoat gaz ballonlari va tegishli aksessuarlarni ishlab chiqarish va yetkazib berishga ixtisoslashgan. Mahsulotlarimiz payvandlash, kesish, gaz taqsimlash, sanoat saqlash va boshqa gaz taʼminoti sohalarida keng qoʻllaniladi.",
-    "text2": "Biz xorijiy xaridorlarga mahsulot tanlash, moslashtirish, sifat nazorati, qadoqlash va yetkazib berishni muvofiqlashtirishda yordam beramiz.",
+    "title": "Sanoat xaridorlari uchun gaz ballon ishlab chiqaruvchisi",
+    "text": "Wanda Group asetilen tsilindrlari, propan tsilindrlari, generatorlar va payvandlash, kesish va sanoat gaz ta'minoti uchun aksessuarlar ishlab chiqaradi.",
+    "text2": "Biz chet ellik xaridorlarni mahsulot tanlash, OEM, tekshirish, qadoqlash va jo'natish bilan qo'llab-quvvatlaymiz.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Ishlab chiqarish",
+        "desc": "Sanoat gaz ballonlarini shakllantirish, payvandlash, sinovdan o'tkazish va tugatish."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM qo'llab-quvvatlash",
+        "desc": "Buyurtma bo'yicha rang, markalash, valf, qopqoq va qadoqlash variantlari."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Sifat jarayoni",
+        "desc": "Buyurtma va bozor talablariga muvofiq tekshirish va sinov."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Xalqaro eksport",
+        "desc": "Chet ellik sanoat xaridorlari uchun hujjatlar va qadoqlash yordami."
       }
     ]
   },
   "gallery": {
     "title": "Fabrikamiz ichida",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Haqiqiy zavod fotosuratlari, jonli jo'natuvchi kadrlar va ishlab chiqarish maydonchasidan qisqa videolar.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Tungi jo'natish",
+        "desc": "O'ralgan asbob-uskunalar bilan ketayotgan yuklangan treyler - kadrga vaqt va joy muhrlangan."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Yuk jo'natishga tayyorlandi",
+        "desc": "Paletalar va ehtiyot qismlar jo'natish uchun yig'ilgan. Studiya to'plami emas, balki jonli ombor fotosurati."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Qadoqlangan zaxira",
+        "desc": "Omborga yig'ilgan kartonlar keyingi buyurtmaga tayyor."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Jo'natish uchun qadoqlangan",
+        "desc": "Shilinglar o'ralgan va jo'natish uchun zavod hovlisiga joylashtirilgan."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Ishlab chiqarish konveyeri",
+        "desc": "Silindr jismlari shakllantirish va ishlov berish liniyasi bo'ylab harakatlanadi."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG tugatish liniyasi",
+        "desc": "Qadoqlashdan oldin yuqori konveyerda bo'yalgan LPG tsilindrlari."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Zavod ichida",
+        "desc": "Ishlab chiqarish zali - odamlar, mashinalar va ishlab chiqarish zaxiralari."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Payvandlangan silindrli korpuslar",
+        "desc": "Chig'anoqlar aylana payvandlashdan keyin, bo'yashdan oldin va vanalar."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Bo'yashdan oldin qobiqlar",
+        "desc": "Bo'yalmagan jismlar keyingi jarayon uchun polga to'planadi."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Jarayondagi zaxira",
+        "desc": "Quvur qismlari va qopqoqli qobiqlar yig'ishni kutmoqda."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Stokda silindrli korpuslar",
+        "desc": "Payvandlangandan so'ng, boshlar va klapanlardan oldin o'ralgan qobiqlar."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Asosiy halqalar",
+        "desc": "Silindrli qobiqlarga payvandlash uchun tayyorlangan oyoq halqalari."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Qadoqlangan armatura",
+        "desc": "Eksport jo'natish uchun ko'pik bilan qutiga solingan klapanlar va armatura."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Asetilen generatori",
+        "desc": "Shlangi va armatura bilan generator bloki, zavodni tark etishga tayyor."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Erdagi qobiqlar",
+        "desc": "Payvandlashdan keyin ochiq bo'yinli jismlar - vana o'rnatishdan oldin partiya."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Zavod video",
+    "videosSubtitle": "Zavod tagidan yangi shortilar. Qo'shimcha tasvirlar so'rov bo'yicha shaxsiy yuboriladi."
   },
   "quality": {
     "title": "Sifat nazorati",
     "subtitle": "Har bir partiya bir xil yo'ldan boradi: ishlab chiqarish, sinov, tekshirish va yakuniy sifat nazorati.",
     "steps": [
       {
-        "title": "Ishlab chiqarish",
-        "desc": "Zavod jarayoni nazorati ostida shakllantirish, payvandlash va yig'ish."
+        "title": "Xom ashyo",
+        "desc": "Kiruvchi materiallar buyurtma va jarayon talablariga muvofiq ko'rib chiqiladi."
       },
       {
-        "title": "Sinov",
-        "desc": "Silindrlar chiziqni tark etishdan oldin bosim va oqish sinovlari."
+        "title": "Ishlab chiqarish",
+        "desc": "Zavod jarayoni nazorati ostida shakllantirish, payvandlash va yig'ish."
       },
       {
         "title": "Tekshirish",
         "desc": "Buyurtmaga nisbatan vizual, markalash va o'lchovli tekshiruvlar."
       },
       {
-        "title": "Yakuniy sifat nazorati",
-        "desc": "Eksport jo'natishdan oldin qadoqlash tekshiruvi."
+        "title": "Sinov",
+        "desc": "Silindrlar chiziqni tark etishdan oldin bosim va oqish sinovlari."
+      },
+      {
+        "title": "Yakuniy QC",
+        "desc": "Qadoqlash uchun chiqarishdan oldin yakuniy sifat nazorati."
+      },
+      {
+        "title": "Qadoqlash",
+        "desc": "Tashish uchun tayyorlangan eksport qadoqlari."
+      },
+      {
+        "title": "Yuk tashish",
+        "desc": "Chiquvchi buyurtmalar uchun hujjatlarni yuklash va jo'natish."
       }
     ]
   },
   "faq": {
     "title": "Tez-tez so'raladigan savollar",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Kompaniya, mahsulotlar, OEM va eksport - siz taklif so'rashdan oldin chet ellik xaridorlar uchun javoblar.",
     "cta": "Savolingizni topa olmadingizmi? Mahsulotni, hajmini, miqdorini va boradigan mamlakatni yuboring - biz batafsil taklif bilan javob beramiz.",
     "ctaBtn": "Iqtibos olish",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video va hujjatlar",
         "items": [
           {
             "q": "Buyurtma berishdan oldin zavod videolarini ko'rishim mumkinmi?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Ha. Ushbu sahifadagi Zavod bo'limida ishlab chiqarish videolarini tomosha qiling. Qo'shimcha tasvirlar, qadoqlash kliplari va sertifikatlar so'rov bo'yicha shaxsiy yuboriladi."
           },
           {
             "q": "Ayniqsa, asetilen tsilindrlari uchun mahsulot videolarini taqdim qilasizmi?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Ha. Asetilen tsilindrlari bo'yicha videolar, fotosuratlar va batafsil ma'lumotlar sizning so'rovingiz bo'yicha shaxsiy yuboriladi."
           },
           {
             "q": "Ishlab chiqarish va sifat nazorati videolarini ko'rsata olasizmi?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Ha. Ishlab chiqarish, sifatni tekshirish, qadoqlash va omborni saqlash bo'yicha mavjud videolar shaxsiy ravishda yuboriladi, shuning uchun mahsulotlar qanday tayyorlanishini ko'rishingiz mumkin."
           },
           {
             "q": "Muayyan buyurtma uchun tayyorlangan mahsulot videosini so'rashim mumkinmi?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Muayyan buyurtma yoki mahsulot talablari uchun biz bilan bog'laning — biz video ko'makni muhokama qilamiz va materiallarni shaxsiy yuboramiz."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Videolar, sertifikatlar va kotirovkalarni qanday olish mumkin?",
+            "a": "So'rov shaklida mahsulot turini, silindr o'lchamini, miqdorini, boradigan mamlakatni va nima yuborish kerakligini ko'rsating: videolar, sertifikatlar yoki ikkalasi. Biz ularni shaxsiy yuboramiz va taklif tayyorlaymiz."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Mahsulot fotosuratlari va texnik xususiyatlarini bera olasizmi?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Ha. Mahsulot fotosuratlari, texnik tavsiflari va ma'lumotlar jadvallari so'rov bo'yicha shaxsiy yuboriladi."
           },
           {
             "q": "Aksessuarlar uchun narxni qanday olishim mumkin?",
@@ -395,109 +407,171 @@
     ]
   },
   "articles": {
-    "title": "Soʻnggi maqolalar",
-    "subtitle": "Payvandlash va gaz taʼminoti mutaxassislari uchun ekspert kontent.",
+    "title": "Eng so'nggi maqolalar",
+    "subtitle": "Payvandlash va gaz ta'minoti bo'yicha mutaxassislar uchun ekspert tarkibi.",
     "readMore": "Batafsil →",
     "close": "Yopish",
     "items": [
       {
         "tag": "Hunarmandlar",
-        "title": "Propan balloni uchun toʻliq yetkazib berish yechimi",
-        "desc": "Uskuna barqarorligi payvandlash va kesish ishlarining samaradorligiga bevosita taʼsir qiladi.",
+        "title": "To'liq propan tsilindrni ta'minlash yechimi",
+        "desc": "Uskunaning barqarorligi payvandlash va kesish ishining samaradorligiga bevosita ta'sir qiladi.",
         "body": [
-          "Har kuni metall payvandlaydigan, taʼmirlaydigan va ishlab chiqaradigan hunarmandlar uchun barqaror gaz uskunasi ish sifati va tezligiga bevosita taʼsir qiladi.",
-          "Wanda Group propan ballonlari 3L dan 50L gacha mavjud — bozoringizga qarab POL, CGA 510 yoki GOST ventililar bilan: payvandlash, kesish va isitish uchun bitta yetkazib beruvchi.",
-          "Ballonlarni reduktorlar, shlanglar va mashʼallar bilan birga buyurtma qilishni tavsiya qilamiz. Toʻplam yetkazib berish logistika xarajatini kamaytiradi va aksessuarlar mosligini taʼminlaydi.",
-          "Buyurtma berishda maqsadli bozor, hajm, ventil turi va rangni koʻrsating — brendingiz ostida OEM belgilash va eksport qadoqlashni tayyorlaymiz."
+          "Har kuni metallni payvandlash, ta'mirlash va ishlab chiqarish bilan shug'ullanadigan ustalar uchun barqaror gaz uskunalari ish sifati va tezligiga bevosita ta'sir qiladi.",
+          "Wanda Group propan tsilindrlari sizning bozoringizga qarab POL, CGA 510 yoki GOST klapanlari bilan 3L dan 50L gacha mavjud - payvandlash, kesish va isitish uchun bitta yetkazib beruvchi.",
+          "Tsilindrlarni regulyatorlar, shlanglar va mash'allar bilan birgalikda buyurtma qilishni tavsiya etamiz. To'plam ta'minoti logistika xarajatlarini kamaytiradi va aksessuarlarning mosligini ta'minlaydi.",
+          "Buyurtma berishda maqsadli bozorni, hajmni, vana turini va rangini belgilang - biz OEM markasini tayyorlaymiz va sizning brendingiz ostida eksport qadoqlarini tayyorlaymiz."
         ]
       },
       {
         "tag": "Saqlash",
-        "title": "Atsetilen ballonlarini uzoq muddat saqlash boʻyicha maslahatlar",
-        "desc": "Ishlatilmayotgan ballonlar uchun saqlash sharoitlari, joylashtirish usullari va muntazam tekshiruvlar.",
+        "title": "Uzoq muddatli asetilen tsilindrni saqlash bo'yicha maslahatlar",
+        "desc": "Foydalanilmayotgan tsilindrlarni saqlash sharoitlari, joylashtirish usullari va muntazam tekshiruvlar.",
         "body": [
-          "Koʻplab kompaniyalar ishlab chiqarish tanaffuslarida yoki zaxira sifatida atsetilen va propan ballonlarini saqlaydi. Ishlatilmayotgan ballonlar ham toʻgʻri muomalani talab qiladi.",
-          "Ballonlarni tik holatda, yaxshi shamollatiladigan joyda, issiqlik manbalari va toʻgʻridan-toʻgʻri quyosh nuridan uzoqda saqlang. Saqlash harorati odatda 40–50°C dan oshmasligi kerak.",
-          "Ventillar, qopqoqlar va belgilarni kamida chorakda bir marta tekshiring. Atsetilenni uzoq muddat saqlashda ballonlarni tik ushlang va hech qachon egilishiga yoʻl qoʻymang.",
-          "Wanda Group ballonlarni xavfsiz transport va omborlash uchun himoya qopqoqlari va eksport qadoqlashi bilan joʻnatadi. Soʻrov boʻyicha saqlash qoʻllanmalari tilingizda mavjud."
+          "Ko'pgina kompaniyalar asetilen va propan tsilindrlarini ishlab chiqarish tanaffuslari paytida yoki inventar sifatida saqlaydi. Foydalanilmayotgan tsilindrlar hali ham to'g'ri ishlov berishni talab qiladi.",
+          "Tsilindrlarni to'g'ridan-to'g'ri quyosh nuri va issiqlik manbalaridan uzoqroq joyda yaxshi gazlangan joyda saqlang. Saqlash harorati odatda 40-50 ° C dan oshmasligi kerak.",
+          "Har chorakda kamida bir marta klapanlar, qopqoqlar va belgilarni tekshiring. Asetilenni uzoq muddatli saqlash uchun silindrlarni vertikal holda saqlang va hech qachon egilishga yo'l qo'ymang.",
+          "Wanda Group xavfsiz tashish va saqlash uchun mo'ljallangan himoya qopqoqlari va eksport qadoqlari bilan silindrlarni jo'natadi. Saqlash qoʻllanmalari soʻrov boʻyicha sizning tilingizda mavjud."
         ]
       },
       {
-        "tag": "Narxlar",
-        "title": "Atsetilen balloni xarid qilish uchun byudjet qoʻllanmasi",
-        "desc": "Narxga taʼsir qiluvchi omillar va optimal taklifni qanday tanlash.",
+        "tag": "Narxlash",
+        "title": "Asetilen tsilindrni sotib olish uchun byudjet qo'llanmasi",
+        "desc": "Narxga ta'sir qiluvchi omillar va optimal taklifni qanday tanlash kerak.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Shuningdek, yetkazib berish (FOB/CIF), hujjatlar va MOQ ni hisobga oling. Biz 24 soat ichida toʻliq spesifikasiya, yetkazib berish muddati va Incoterms bilan javob beramiz.",
-          "Aniq narx uchun aloqa formasiga model, miqdor, maqsad mamlakat va ventil talablarini kiriting — yoki sales@wandagroups.com ga yozing."
+          "Asetilen tsilindrining narxi hajmiga, vana turiga, maqsadli bozoringiz uchun talab qilinadigan standartlarga va buyurtma miqdoriga bog'liq. Biz veb-saytda qat'iy ro'yxat narxlarini e'lon qilmaymiz.",
+          "Kattaroq lotlar va OEM variantlari (bo'yash, logotip, qadoqlash) sizning so'rovingizni ko'rib chiqqanimizdan so'ng alohida ko'rsatiladi.",
+          "Yetkazib berish shartlari (FOB/CIF va shunga o'xshash), hujjatlar va yetkazib berish muddati rasmiy kotirovkada tasdiqlangan.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Narx so'rash",
-    "subtitle": "Oʻlcham, miqdor, maqsad mamlakat va qoʻllanishni ayting — batafsil narx tayyorlaymiz.",
+    "title": "Keling, sizning talablaringizni muhokama qilaylik",
+    "subtitle": "Bizga mahsulot, o'lcham, miqdor, belgilangan mamlakat va texnik xususiyatlarni ayting - bizning savdo guruhimiz mahsulot haqida ma'lumot va kotirovka bilan javob beradi.",
     "formTitle": "Narx so'rash",
-    "formSubtitle": "Talablaringizni qoldiring — savdo jamoamiz mahsulot maʼlumoti, narx, MOQ va yetkazib berish muddati bilan javob beradi.",
+    "formSubtitle": "Tijorat so'rovi uchun shaklni to'ldiring. Majburiy maydonlar belgilangan.",
     "name": "Ism",
+    "company": "Kompaniya",
     "phone": "Telefon / WhatsApp",
     "email": "Elektron pochta",
     "product": "Mahsulot",
-    "quantity": "Miqdor",
-    "country": "Maqsad mamlakat",
+    "quantity": "Miqdori (ixtiyoriy)",
+    "country": "Belgilangan mamlakat (ixtiyoriy)",
     "productOptions": [
-      "Atsetilen balloni",
-      "Propan balloni",
-      "Atsetilen generatori",
+      "Asetilen tsilindr",
+      "Propan tsilindri",
+      "Asetilen generatori",
       "Aksessuarlar",
-      "Toʻplam buyurtma",
-      "Cold storage / refrigeration"
+      "Sovuq saqlash / sovutish",
+      "To'plam buyurtmasi"
     ],
-    "message": "Qoʻshimcha talablar",
-    "messagePlaceholder": "Mahsulot, oʻlcham, miqdor, maqsad mamlakat...",
+    "quantityPlaceholder": "masalan 200 dona, 1 konteyner yoki TBD",
+    "countryPlaceholder": "Tovarlar qayerga jo'natiladi",
+    "message": "Qo'shimcha talablar",
+    "messagePlaceholder": "Mahsulot, hajmi, miqdori, mo'ljallangan mamlakat...",
     "submit": "So'rov yuborish",
     "sending": "Yuborilmoqda...",
-    "success": "Rahmat! Tez orada siz bilan bogʻlanamiz.",
-    "sendAnother": "Yana soʻrov yuborish",
-    "errorGeneric": "Yuborib boʻlmadi. Qayta urinib koʻring yoki toʻgʻridan-toʻgʻri email yuboring.",
-    "errorNoForm": "Forma sozlanmagan. Iltimos, sales@wandagroups.com ga yozing",
-    "privacyPrefix": "ga roziman",
-    "privacySuffix": "va ushbu so'rovni ko'rib chiqish uchun shaxsiy ma'lumotlarimni qayta ishlash.",
-    "privacyLink": "Maxfiylik siyosati",
-    "company": "Kompaniya",
+    "success": "Rahmat! Tez orada siz bilan bog'lanamiz.",
+    "sendAnother": "Boshqa so'rov yuboring",
+    "errorGeneric": "Yuborilmadi. Iltimos, qayta urinib ko'ring yoki bizga to'g'ridan-to'g'ri elektron pochta orqali yuboring.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Elektron pochta ilovasi orqali yuboring",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "ga roziman",
+    "privacySuffix": ", va ushbu so'rovni ko'rib chiqish uchun shaxsiy ma'lumotlarimni qayta ishlash.",
+    "privacyLink": "Maxfiylik siyosati",
+    "termsAnd": "va",
+    "termsLink": "Foydalanish shartlari",
+    "requirements": "Talablar / Texnik shartlar",
+    "requirementsPlaceholder": "Valf turi, rangi, standarti, qadoqlash, OEM belgisi, miqdor ko'rsatkichlari ..."
   },
   "footer": {
     "company": "Wanda Group gaz ballonlari ishlab chiqaruvchisi",
-    "tagline": "Professional gaz ballonlari ishlab chiqarish",
+    "tagline": "Professional gaz ballonlarini ishlab chiqarish",
     "rights": "© 2026 Wanda Group. Barcha huquqlar himoyalangan.",
     "privacy": "Maxfiylik siyosati",
-    "terms": "Terms of Use"
+    "terms": "Foydalanish shartlari"
+  },
+  "privacy": {
+    "label": "Huquqiy",
+    "title": "Maxfiylik siyosati",
+    "updated": "Oxirgi yangilangan: 2026 yil 25-avgust",
+    "intro": [
+      "Wanda Group (\"biz\", \"biz\") ushbu veb-saytni gaz ballonlari, aksessuarlar va tegishli eksport ta'minotini taqdim etish va sanoat xaridorlaridan tijorat so'rovlarini olish uchun boshqaradi.",
+      "Ushbu siyosat biz sayt orqali qanday shaxsiy ma'lumotlarni to'plashimiz, ulardan nima uchun foydalanamiz va bu haqda biz bilan qanday bog'lanishingiz mumkinligini tushuntiradi. Ushbu veb-saytda zavod ishlab chiqarish videolari ko'rsatilgan. Sertifikat fayllari so'rov bo'yicha shaxsiy yuboriladi."
+    ],
+    "sections": [
+      {
+        "title": "Kim javobgar",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Biz qanday ma'lumotlarni yig'amiz",
+        "body": [
+          "So'rov formasini yuborganingizda biz siz kiritgan ma'lumotlarni olamiz: ism, elektron pochta, telefon, boradigan mamlakat, mahsulot turi, miqdori va xabar.",
+          "Sayt shuningdek, sizning til tanlaganingizni brauzerda (localStorage) saqlaydi. Biz reklama kukilarini ishlatmaymiz yoki tashrif buyuruvchilar ro'yxatini sotmaymiz."
+        ]
+      },
+      {
+        "title": "Nima uchun biz ma'lumotlardan foydalanamiz",
+        "body": [
+          "Biz so'rov ma'lumotlaridan faqat so'rovingizga javob berish, kotirovka tayyorlash, siz so'ragan mahsulot ma'lumotlari, videolar yoki sertifikatlarni jo'natish va birgalikda ishlay boshlasak, buyurtmani muvofiqlashtirish uchun foydalanamiz.",
+          "Yuridik asos: shakldagi katakchani belgilaganingizda sizning roziligingiz va B2B savdo so'rovlariga javob berishdan qonuniy manfaatdorligimiz."
+        ]
+      },
+      {
+        "title": "Ma'lumotlarni kim oladi",
+        "body": [
+          "Sizning xabaringiz bizning savdo guruhimizga elektron pochta orqali yuboriladi. Shakl bizga xabarni uzatuvchi texnik provayder Web3Forms tomonidan qayta ishlanadi.",
+          "Biz shaxsiy ma'lumotlarni sotmaymiz. Biz logistika, inspeksiya yoki bank hamkorlari bilan faqat kelishilgan buyurtmani bajarish uchun zarur bo'lgan narsalarni baham ko'rishimiz mumkin."
+        ]
+      },
+      {
+        "title": "Qancha vaqt saqlaymiz",
+        "body": [
+          "Soʻrov maʼlumotlari soʻrovni koʻrib chiqish uchun zarur boʻlgan vaqt va undan soʻng sotishni kuzatish va buxgalteriya hisobi uchun tegishli muddat davomida saqlanadi, agar siz qonun ruxsat bergan joyda ularni avvalroq oʻchirib tashlashimizni soʻramasangiz."
+        ]
+      },
+      {
+        "title": "Sizning huquqlaringiz",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Xavfsizlik va bolalar",
+        "body": [
+          "Tranzit va pochta qutimizdagi xabarlarni himoya qilish uchun oqilona texnik va tashkiliy choralar ko'ramiz. Ushbu veb-sayt bolalar uchun emas, balki biznes xaridorlari uchun mo'ljallangan."
+        ]
+      }
+    ],
+    "contactLead": "Ushbu siyosat bo'yicha savollar:"
   },
   "ui": {
     "catalog": "Katalog",
-    "catalogTitle": "Batafsil mahsulot xususiyatlari",
-    "catalogSubtitle": "Har bir kategoriya uchun toʻliq texnik maʼlumotlar, modellar va parametrlar. Spec jadvalini koʻrish uchun mahsulotni tanlang.",
-    "requestPrice": "Ushbu model uchun narx soʻrash",
+    "catalogTitle": "Batafsil mahsulot spetsifikatsiyalari",
+    "catalogSubtitle": "Har bir toifa uchun to'liq texnik ma'lumotlar, modellar va parametrlar. Xususiyatlar jadvalini ko'rish uchun mahsulotni tanlang.",
+    "requestPrice": "Ushbu model uchun narxni so'rang",
     "services": "Xizmatlar",
-    "pricing": "Narxlar",
-    "getExactQuote": "Aniq narx olish",
+    "pricing": "Narxlash",
+    "getExactQuote": "Aniq taklifni oling",
     "certifications": "Sertifikatlar",
     "order": "Buyurtma",
     "reviews": "Sharhlar",
     "contact": "Aloqa",
     "phone": "Telefon",
     "location": "Joylashuv",
-    "quoteResponse": "Narx javobi",
-    "support": "Qoʻllab-quvvatlash",
-    "exportReady": "Eksportga tayyor",
-    "years": "Yil",
-    "acetylene": "Atsetilen",
-    "isoCertified": "ISO sertifikatlangan",
+    "quoteResponse": "Iqtibos javobi",
+    "support": "Qo'llab-quvvatlash",
+    "countriesServed": "Eksportni qo'llab-quvvatlash",
+    "exportReady": "Eksport tayyor",
+    "years": "Yillar",
+    "acetylene": "Asetilen",
+    "isoCertified": "ISO sertifikati",
     "globalExport": "Global eksport",
     "products": "Mahsulotlar",
     "specs": "Texnik xususiyatlari",
@@ -508,17 +582,25 @@
     "quality": "Sifat",
     "faq": "TSS",
     "blog": "Blog",
-    "countriesServed": "Xizmat ko'rsatgan davlatlar",
     "searchLanguage": "Til qidirish...",
-    "noLanguagesFound": "Hech qanday til topilmadi"
+    "noLanguagesFound": "Hech qanday til topilmadi",
+    "breadcrumb": "Non bo'laklari",
+    "primaryNav": "Asosiy",
+    "menu": "Menyu",
+    "playVideo": "Videoni ijro etish",
+    "productGallery": "Mahsulotlar galereyasi",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
     "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "Xalqaro eksport",
+    "Sifat nazorati",
+    "So'rov bo'yicha bozor standartlari",
+    "Ommaviy buyurtmalar"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Sertifikatlash",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Bojxona va nazorat organlari uchun hujjatlar. Nusxalar so'rov bo'yicha shaxsiy yuboriladi.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS va sifat sertifikati",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Narxlar va yetkazib berish shartlari",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Tijorat shartlari so'rov bo'yicha tasdiqlanadi. Rasmiy kotirovka uchun mahsulot, miqdor va maqsad ma'lumotlarini yuboring.",
+    "note": "Biz ushbu veb-saytda qat'iy ro'yxat narxlari, MOQ yoki etkazib berish vaqtlarini nashr etmaymiz. Sizning talablaringizni ko'rib chiqqanimizdan so'ng, aniq tijorat shartlari kotirovkada tasdiqlanadi.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Narxlash",
+        "value": "Talab bo'yicha",
+        "desc": "So'rovni ko'rib chiqqandan keyin rasmiy kotirovka"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Buyurtma bo'yicha tasdiqlangan",
+        "desc": "Modelga va manzilga bog'liq"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Bajarish vaqti",
+        "value": "Buyurtma bo'yicha tasdiqlangan",
+        "desc": "Iqtibos bilan baham ko'rildi"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "To'lov",
+        "value": "Shartnomada kelishilgan",
+        "desc": "Shartlar ishlab chiqarishdan oldin tasdiqlangan"
       }
     ],
     "factors": {
-      "title": "Narx omillari",
+      "title": "Kotirovkaga nima ta'sir qiladi",
       "items": [
-        "Silindr hajmi va modeli (2L - 50L)",
-        "Valf turi (CGA, GOST, DIN, POL)",
-        "Sertifikatlash standarti (ISO, DOT, TPED)",
-        "OEM: rang, markalash, qadoqlash",
-        "Buyurtma hajmi va Incoterms"
+        "Silindr hajmi va modeli",
+        "Valf turi va ulanish standarti",
+        "Belgilangan bozor uchun talab qilinadigan standartlar",
+        "OEM rangi, markalash va qadoqlash",
+        "Buyurtma hajmi va Inkoterms"
       ]
     },
     "samples": [
       {
-        "product": "Asetilen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Asetilen tsilindrlari",
+        "moq": "Talab bo'yicha",
+        "price": "So'rov bo'yicha keltirilgan",
+        "lead": "Buyurtma bo'yicha tasdiqlangan"
       },
       {
-        "product": "Asetilen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propan / LPG tsilindrlari",
+        "moq": "Talab bo'yicha",
+        "price": "So'rov bo'yicha keltirilgan",
+        "lead": "Buyurtma bo'yicha tasdiqlangan"
       },
       {
-        "product": "Propan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generatorlar",
+        "moq": "Talab bo'yicha",
+        "price": "So'rov bo'yicha keltirilgan",
+        "lead": "Buyurtma bo'yicha tasdiqlangan"
       },
       {
-        "product": "Propan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generator WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Regulyatorlar to'plami",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Aksessuarlar",
+        "moq": "Talab bo'yicha",
+        "price": "So'rov bo'yicha keltirilgan",
+        "lead": "Buyurtma bo'yicha tasdiqlangan"
       }
     ],
     "tableHeaders": [
       "Mahsulot",
       "MOQ",
-      "Narxi (EXW)",
+      "Narxi",
       "Bajarish vaqti"
     ]
   },
   "certifications": {
     "title": "Sertifikatlar va standartlar",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standartlar va sertifikatlash variantlari mahsulot va maqsad bozoriga qarab muhokama qilinadi. Sertifikat nusxalari so'rov bo'yicha shaxsiy yuboriladi - fayllar ushbu veb-saytda nashr etilmaydi.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,41 +1043,41 @@
       },
       {
         "title": "Kotirovkani qabul qilish",
-        "desc": "24 soat ichida narx, MOQ, yetkazib berish muddati va texnik varaq"
+        "desc": "Savdo guruhimiz tomonidan ko'rib chiqilgandan so'ng narx, MOQ, etkazib berish muddati va texnik varaq"
       },
       {
         "title": "Buyurtmani tasdiqlang",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Ishlab chiqarish boshlanishidan oldin kelishilgan shartnoma va to'lov shartlari"
       },
       {
         "title": "Ishlab chiqarish va QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Ishlab chiqarish va sinov. Videolar va sertifikatlar so'rov bo'yicha shaxsiy yuboriladi"
       },
       {
         "title": "Yuk tashish",
-        "desc": "Qadoqlash, hujjatlar, FOB/CIF/DDP yetkazib berish"
+        "desc": "Buyurtmada kelishilgan holda qadoqlash, hujjatlar va yetkazib berish shartlari"
       }
     ]
   },
   "testimonials": {
-    "title": "Xaridorlar fikri",
+    "title": "Xaridorlar nima deyishadi",
     "items": [
       {
-        "quote": "Bu yil 40 litrlik atsetilen ballonlarini uchinchi marta qayta buyurtma qildik. GOST klapanlari, OEM rangi va eksport qadoqlash har safar birinchi namuna bilan mos keldi.",
+        "quote": "Bu yil biz 40 litrlik asetilen tsilindrlarini uch marta qayta buyurtma qildik. GOST klapanlari, OEM rangi va eksport qadoqlash har safar birinchi namunaga mos keldi.",
         "author": "Rustam Yusupov",
-        "role": "Payvandlash gazlari distribyutori egasi",
+        "role": "Egasi, payvandlash gaz taqsimlovchisi",
         "country": "O'zbekiston"
       },
       {
-        "quote": "Taklif shu kuni keldi — MOQ va muddat aniq. POL klapanli propan ballonlari va to'liq packing list bilan keldi, bojxonada savol bo'lmadi.",
-        "author": "Aigerim Bekova",
-        "role": "Sanoat ta'minoti xarid menejeri",
+        "quote": "Iqtibos o'sha kuni aniq MOQ va yetkazib berish vaqti bilan keldi. Propan idishlari POL klapanlari va to'liq qadoqlash ro'yxati bilan keldi - biz tomonda bojxona kechikishlari yo'q.",
+        "author": "Aygerim Bekova",
+        "role": "Xarid bo'yicha menejer, sanoat ta'minoti",
         "country": "Qozog'iston"
       },
       {
-        "quote": "Ballonlarni reduktor va shlanglar bilan bir konteynerda olamiz. Belgilash va hujjatlar bozorimizga mos — qayta sotish oson.",
-        "author": "Faisal Al-Harbi",
-        "role": "Gaz uskunalari import xaridori",
+        "quote": "Biz bitta konteyner buyurtmasi sifatida regulyatorlar va shlanglar bilan silindrlarni sotib olamiz. Hujjatlar va markalash bozorimiz uchun tayyor edi, shuning uchun qayta sotish oson edi.",
+        "author": "Faysal Al-Harbi",
+        "role": "Import xaridor, gaz uskunalari savdosi",
         "country": "Saudiya Arabistoni"
       }
     ]
@@ -1062,58 +1132,59 @@
         "id": "sifat",
         "eyebrow": "Sifat va xavfsizlik",
         "title": "Tekshiruvni siz taklifga qo'yishingiz mumkin",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Materiallarni tekshirish, oqish testlari, valf momenti va qadoqlash fotosuratlari. Sertifikat paketlari va fotosuratlar hisobotlari so'rov bo'yicha shaxsiy yuboriladi.",
         "points": [
           "Bosim va oqish sinovlari",
-          "Certificate package",
+          "So'rov bo'yicha sertifikatlar",
           "Yuk tashishdan oldingi fotosuratlar"
         ]
       },
       {
         "id": "eksport",
         "eyebrow": "Global eksport",
-        "title": "Portlar uchun qadoqlangan, 50 dan ortiq mamlakatlar uchun tayyor",
+        "title": "Portlar uchun qadoqlangan, eksport bozorlariga tayyor",
         "text": "Incoterms manzilingiz uchun muvofiqlashtirilgan palletlar, vana himoyasi, ko'p tilli teglar va yuk hujjatlarini eksport qiling.",
         "points": [
           "FOB / CIF qo'llab-quvvatlash",
           "Paletli qadoqlash",
           "Yetkazib berish muddati 15-25 kun"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "O'ralgan gaz ballonlari jo'natish uchun zavod hovlisiga joylashtirilgan",
+    "about": "Wanda Group fabrikasidagi ishchilar",
+    "accessories": "Gaz ballonlari uchun aksessuarlar to'plami - regulyatorlar, shlanglar, mash'alalar va armatura",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Gözenekli massa va guruch valfli erigan asetilen silindr",
+      "Zavodda suratga olingan asetilen generatori",
+      "Bir nechta o'lcham va rangdagi propan va LPG tsilindrlari",
+      "Gaz ballonlari uchun payvandlash va kesish uchun aksessuarlar to'plami"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Tungi jo'natish: treylerga yuklangan o'ralgan uskunalar",
+      "Paletalar va metall qismlar jo'natish uchun tayyorlangan",
+      "Omborda qadoqlangan zaxiralarning kartonlari",
+      "Shilinglar plyonkaga o'ralgan, zavod hovlisida sahnalashtirilgan",
+      "Zavod tomi ostidagi gaz ballonlarini ishlab chiqarish konveyeri",
+      "Yuqori tugatish konveyerida osilgan LPG tsilindrlari",
+      "Wanda Group zavod qavatida sayr qilayotgan ishchilar",
+      "Bo'yalmagan payvandlangan propan tsilindrli korpuslar ikki balandlikda joylashgan",
+      "Beton zaminda bo'yalmagan silindrli qobiqlarning qatorlari",
+      "Ustaxonada silindrli trubka zaxirasi va qopqoqli qobiqlar",
+      "Xom silindrli korpuslar zavod devoriga qo'yilgan",
+      "Yig'ishdan oldin po'lat taglik halqalari qoziq",
+      "Ko'pikli karton qutiga qadoqlangan guruch armatura",
+      "Shlangi va qutidagi aksessuarlari bilan asetilen generatori",
+      "Payvandlashdan keyin ochiq bo'yinli bo'yalmagan silindrli qobiqlar"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Copeland yarim germetik kompressorli havo sovutgichli kondensator",
+      "Bitzer yarim germetik kompressorli havo sovutgichli kondensator",
+      "Yopiq shkaf uslubidagi sovutish kondensatori",
+      "Yuqori quvvatli to'rt fanli havo sovutgichli kondensatsiya moslamasi"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Huquqiy",
-    "title": "Maxfiylik siyosati",
-    "updated": "Oxirgi yangilangan: 2026 yil 25-avgust",
-    "intro": [
-      "Wanda Group (\"biz\", \"biz\") ushbu veb-saytni gaz ballonlari, aksessuarlar va tegishli eksport ta'minotini taqdim etish va sanoat xaridorlaridan tijorat so'rovlarini olish uchun boshqaradi.",
-      "Ushbu siyosat biz sayt orqali qanday shaxsiy ma'lumotlarni to'plashimiz, ulardan nima uchun foydalanamiz va bu haqda biz bilan qanday bog'lanishingiz mumkinligini tushuntiradi. Biz veb-saytda zavod videolari yoki sertifikat fayllarini nashr etmaymiz; ushbu materiallar so'rov bo'yicha shaxsiy yuboriladi."
-    ],
-    "sections": [
-      {
-        "title": "Kim javobgar",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Biz qanday ma'lumotlarni yig'amiz",
-        "body": [
-          "So'rov formasini yuborganingizda biz siz kiritgan ma'lumotlarni olamiz: ism, elektron pochta, telefon, boradigan mamlakat, mahsulot turi, miqdori va xabar.",
-          "Sayt shuningdek, sizning til tanlaganingizni brauzerda (localStorage) saqlaydi. Biz reklama kukilarini ishlatmaymiz yoki tashrif buyuruvchilar ro'yxatini sotmaymiz."
-        ]
-      },
-      {
-        "title": "Nima uchun biz ma'lumotlardan foydalanamiz",
-        "body": [
-          "Biz so'rov ma'lumotlaridan faqat so'rovingizga javob berish, kotirovka tayyorlash, siz so'ragan mahsulot ma'lumotlari, videolar yoki sertifikatlarni jo'natish va birgalikda ishlay boshlasak, buyurtmani muvofiqlashtirish uchun foydalanamiz.",
-          "Yuridik asos: shakldagi katakchani belgilaganingizda sizning roziligingiz va B2B savdo so'rovlariga javob berishdan qonuniy manfaatdorligimiz."
-        ]
-      },
-      {
-        "title": "Ma'lumotlarni kim oladi",
-        "body": [
-          "Sizning xabaringiz bizning savdo guruhimizga elektron pochta orqali yuboriladi. Konfiguratsiyaga qarab, shakl Web3Forms tomonidan xabarni bizga uzatuvchi texnik provayder sifatida qayta ishlanishi mumkin.",
-          "Biz shaxsiy ma'lumotlarni sotmaymiz. Biz logistika, inspeksiya yoki bank hamkorlari bilan faqat kelishilgan buyurtmani bajarish uchun zarur bo'lgan narsalarni baham ko'rishimiz mumkin."
-        ]
-      },
-      {
-        "title": "Qancha vaqt saqlaymiz",
-        "body": [
-          "Soʻrov maʼlumotlari soʻrovni koʻrib chiqish uchun zarur boʻlgan vaqt va undan soʻng sotishni kuzatish va buxgalteriya hisobi uchun tegishli muddat davomida saqlanadi, agar siz qonun ruxsat bergan joyda ularni avvalroq oʻchirib tashlashimizni soʻramasangiz."
-        ]
-      },
-      {
-        "title": "Sizning huquqlaringiz",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Xavfsizlik va bolalar",
-        "body": [
-          "Tranzit va pochta qutimizdagi xabarlarni himoya qilish uchun oqilona texnik va tashkiliy choralar ko'ramiz. Ushbu veb-sayt bolalar uchun emas, balki biznes xaridorlari uchun mo'ljallangan."
-        ]
-      }
-    ],
-    "contactLead": "Ushbu siyosat bo'yicha savollar:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Huquqiy",
+    "title": "Foydalanish shartlari",
+    "updated": "Oxirgi yangilangan: 2026 yil 27-avgust",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Ushbu shartlar Wanda Group tomonidan gaz ballonlari, generatorlar va aksessuarlarning sanoat xaridorlari uchun boshqariladigan wandagroups.com saytidan foydalanishni tartibga soladi.",
+      "Saytni ko'rib chiqish yoki so'rov yuborish orqali siz ushbu shartlarga va Maxfiylik siyosatimizga rozilik bildirasiz. Agar rozi bo'lmasangiz, saytdan foydalanmang."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Biz kimmiz",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Veb-sayt nima uchun",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Sayt mahsulot ma'lumotlarini taqdim etadi va tijorat so'rovlarini oladi. Bu xususiy shaxslar sifatida xarid qiladigan iste'molchilar uchun emas, balki bolalar uchun emas, balki biznes xaridorlari uchun mo'ljallangan."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Narxlar, narxlar va buyurtmalar",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Narxlar, MOQ, etkazib berish muddati va saytdagi texnik xususiyatlar ko'rsatkichdir. Shakl yoki messenjer orqali yuborilgan xabar buyurtma emas, so'rovdir.",
+          "Shartnoma har ikki tomon taklifni yozma ravishda tasdiqlagandagina (elektron pochta yoki imzolangan hujjatlar) va kelishilgan depozit olingan taqdirdagina mavjud bo'ladi, agar biz bu tasdiqda boshqacha qoida nazarda tutilgan bo'lmasa."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Rasmlar, videolar va sertifikatlar",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Saytdagi zavod fotosuratlari va videolari ishlab chiqarishni tasvirlaydi. Qo'shimcha tasvirlar va sertifikat fayllari so'rov bo'yicha shaxsiy yuboriladi va biz ularni baham ko'rishingiz mumkinligini aytmagunimizcha, maxfiy materiallarimiz bo'lib qoladi."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Intellektual mulk",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Ushbu veb-saytdagi matn, fotosuratlar, videolar, logotiplar va tartib Wanda Group yoki bizning litsenziya beruvchilarimizga tegishli. Bizning yozma roziligimizsiz o'zingizning tijorat saytingiz uchun katalogdan nusxa ko'chira olmaysiz."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Qabul qilinadigan foydalanish",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "So'rov formasidan noto'g'ri foydalanmang (spam, noto'g'ri identifikatsiya yoki saytni buzishga urinishlar). Biz haqoratli so'rovlarni e'tiborsiz qoldirishimiz yoki o'chirib tashlashimiz mumkin."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Mas'uliyat",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Biz maʼlumotlarning toʻgʻriligiga eʼtibor qaratamiz, lekin saytda xatolar boʻlishi yoki vaqtincha ishlamasligi mumkin. Qonun tomonidan ruxsat etilgan darajada, Wanda Group faqat veb-saytdan foydalanish natijasida yuzaga keladigan bilvosita yo'qotishlar uchun javobgar emas.",
+          "Haqiqiy ta'minot shartnomasi uchun javobgarlik faqat ushbu veb-sayt shartlarida emas, balki ushbu shartnomada va amaldagi qonunchilikda belgilanadi."
         ]
       },
       {
-        "title": "Changes",
+        "title": "O'zgarishlar",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Biz ushbu shartlarni yangilashimiz mumkin. Yuqoridagi sana joriy versiyani ko'rsatadi. O'zgartirishdan keyin saytdan foydalanishni davom ettirish yangilangan shartlarni qabul qilganingizni anglatadi."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Ushbu shartlar bo'yicha savollar:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Bizning mahsulot qatorimiz",
+    "title": "Sovutgich qurilmalari",
+    "subtitle": "Alohida Wanda Group liniyasi - uchinchi tomon katalogi emas. Kondensatsiya moslamalari, sovuq xonalar va jihozlar, biz tomondan silindrlar bilan yoki mustaqil buyurtma sifatida etkazib beriladi.",
+    "moreLink": "Sovuq saqlash uskunalari →",
+    "cta": "Narx so'rang",
+    "alsoTitle": "So'rov bo'yicha ham mavjud",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Poliuretan sovuq xona panellari (B1 / B2) va 304 zanglamaydigan panellar",
+      "Sovuq xona havo sovutgichlari - DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Alyuminiy evaporatator rulonlari",
+      "Sovuq xona eshiklari",
+      "Sanoat suv sovutgichlari",
+      "Avtomobil sovutish moslamalari va mobil sovuq xonalari"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade gaz ballon liniyasi bilan bir qatorda sovutish uskunalarini yetkazib beradi: bloklar, panellar, sovutgichlar va tegishli sovuq zanjirli uskunalar. Copeland, Bitzer va shunga o'xshash nomlar ushbu kompaniyalarning rebrendini emas, balki jihoz ichidagi kompressor brendini anglatadi.",
+    "videoTitle": "Kompaniya video",
+    "videoSubtitle": "Sovutgich uskunalari liniyasining umumiy ko'rinishi. Qo'shimcha tasvirlar so'rov bo'yicha shaxsiy yuboriladi.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland yarim germetik havo sovutgichli qurilma",
+        "spec": "Kondensatsiya qurilmasi · Kopeland kompressori",
+        "desc": "Sovuq xonalar va o'rtacha haroratli navbatchilik uchun Copeland yarim germetik kompressorli havo sovutgichli kondensatsiya moslamasi."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer yarim germetik havo sovutgichli qurilma",
+        "spec": "Kondensatsiya bloki · Bitzerli kompressor",
+        "desc": "Yuqori va o'rta va past haroratli xonalar uchun Bitzer yarim germetik kompressorli havo sovutgichli kondensatsiya moslamasi."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Yopiq quti tipidagi birlik",
+        "spec": "Shkafni kondensatsiyalash moslamasi",
+        "desc": "Ochiq skid emas, balki joylashtirilgan mashinaga muhtoj bo'lgan saytlar uchun yopiq shkaf uslubidagi kondensatsiya bloki."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U tipidagi / yuqori quvvatli kondensatsiya bloki",
+        "spec": "Ko'p fanli havo sovutgichli",
+        "desc": "Kattaroq sovuqxonalar va texnologik sovutish uchun ko'p fanli kondensatorga ega bo'lgan kattaroq havo sovutgichli kondensator."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Biz kimmiz",
+    "title": "B2B xaridorlari uchun sanoat ishlab chiqaruvchisi",
+    "text": "Wanda Groups xorijdagi distribyutorlar, OEM hamkorlari va loyiha xaridorlari uchun sanoat gaz ballonlari, generatorlar va payvandlash aksessuarlarini ishlab chiqaradi va yetkazib beradi.",
+    "text2": "Bizning e'tiborimiz chakana iste'molchi sotish emas, balki zavod bilan bog'liq ta'minot, mahsulot tanlashni qo'llab-quvvatlash, ommaviy buyurtmalar va eksportni muvofiqlashtirishdir.",
+    "cta": "Biz haqimizda ko'proq ma'lumot oling"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Narx so'rashga tayyormisiz?",
+      "quoteCta": "Narx so'rash",
+      "relatedProducts": "Tegishli mahsulotlar",
+      "applications": "Ilovalar",
+      "standardsTitle": "Standartlar va sertifikatlash",
+      "oemTitle": "OEM / moslashtirish",
+      "packagingTitle": "Qadoqlash va yetkazib berish",
+      "placeholders": {
+        "standards": "Mavjud standartlar va sertifikatlar buyurtma va belgilangan bozor bo'yicha tasdiqlangan. Sertifikat nusxalari so'rov bo'yicha shaxsiy yuboriladi - fayllar veb-saytda nashr etilmaydi.",
+        "oem": "OEM rangi, markalash, valf, qopqoq va qadoqlash variantlari buyurtma va maqsadli bozorga muvofiq muhokama qilinishi mumkin.",
+        "packaging": "Eksport qadoqlash va hujjatlar buyurtma va jo'natish shartlariga muvofiq tayyorlanadi."
+      }
+    },
+    "home": {
+      "seoTitle": "Gaz ballon ishlab chiqaruvchisi | Sanoat OEM va eksport | Wanda guruhlari",
+      "seoDescription": "Wanda Groups OEM, ulgurji va xalqaro eksport xaridorlari uchun sanoat gaz ballonlari, generatorlar va payvandlash aksessuarlar ishlab chiqaradi."
+    },
+    "about": {
+      "label": "Biz haqimizda",
+      "title": "Sanoat xaridorlari uchun gaz ballon ishlab chiqaruvchisi",
+      "subtitle": "Biz chet ellik xaridorlarni mahsulot tanlash, OEM, tekshirish, qadoqlash va jo'natish bilan qo'llab-quvvatlaymiz.",
+      "seoTitle": "Wanda Group haqida",
+      "seoDescription": "Wanda Group asetilen tsilindrlari, propan tsilindrlari, generatorlar va payvandlash, kesish va sanoat gaz ta'minoti uchun aksessuarlar ishlab chiqaradi."
+    },
+    "products": {
+      "label": "Mahsulotlar",
+      "title": "Mahsulotlarimiz",
+      "subtitle": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+      "seoTitle": "Gaz ballonli mahsulotlar",
+      "seoDescription": "Sanoat va payvandlash uchun ishlatiladigan asetilen tsilindrlari, generatorlar, propan tsilindrlari va aksessuarlari.",
+      "refrigerationNote": "Wanda International Trade gaz ballon liniyasi bilan bir qatorda sovutish uskunalarini yetkazib beradi: bloklar, panellar, sovutgichlar va tegishli sovuq zanjirli uskunalar. Copeland, Bitzer va shunga o'xshash nomlar ushbu kompaniyalarning rebrendini emas, balki jihoz ichidagi kompressor brendini anglatadi.",
+      "catalog": {
+        "acetylene": {
+          "name": "Eritilgan asetilen tsilindrlari",
+          "overview": "Asetilenni xavfsiz saqlash va tashish uchun gözenekli massa va erituvchiga ega po'lat tsilindrlar. Payvandlash, kesish, payvandlash va metall ishlab chiqarishda qo'llaniladi.",
+          "seoTitle": "Asetilen gaz ballonlari",
+          "seoDescription": "Asetilenni xavfsiz saqlash va tashish uchun gözenekli massa va erituvchiga ega po'lat tsilindrlar. Payvandlash, kesish, payvandlash va metall ishlab chiqarishda qo'llaniladi."
+        },
+        "propane": {
+          "name": "Propan tsilindrlari",
+          "overview": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi.",
+          "seoTitle": "Propan gaz ballonlari",
+          "seoDescription": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi."
+        },
+        "lpg": {
+          "name": "LPG tsilindrlari",
+          "overview": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi.",
+          "seoTitle": "LPG gaz ballonlari",
+          "seoDescription": "Propan, butan va LPG aralashmalari uchun tsilindrlar. Isitish, kesish, lehimlash, qurilish va sanoat gaz ta'minotida qo'llaniladi."
+        },
+        "industrial": {
+          "name": "Sanoat gaz ballonlari",
+          "overview": "Payvandlash, kesish va o'simliklarni etkazib berish uchun sanoat gaz ballonlari - bozoringizga mos keladigan asetilen, propan va LPG variantlari.",
+          "seoTitle": "Sanoat gaz ballonlari",
+          "seoDescription": "Wanda Group kompaniyasidan payvandlash, kesish va o'simliklarni etkazib berish uchun sanoat gaz ballonlari."
+        },
+        "generators": {
+          "name": "Asetilen generatorlari",
+          "overview": "Kaltsiy karbididan asetilen ishlab chiqarish uchun uskunalar. Markazlashtirilgan gaz infratuzilmasisiz payvandlash va sanoat ehtiyojlari uchun barqaror gaz ta'minoti.",
+          "seoTitle": "Asetilen generatorlari",
+          "seoDescription": "Kaltsiy karbididan asetilen ishlab chiqarish uchun uskunalar. Markazlashtirilgan gaz infratuzilmasisiz payvandlash va sanoat ehtiyojlari uchun barqaror gaz ta'minoti."
+        },
+        "accessories": {
+          "name": "Silindr aksessuarlari va armaturalari",
+          "overview": "Gaz ballonlarining xavfsiz ishlashi uchun to'liq assortiment: o'lchagichlardan tortib payvandlash mash'allarigacha. Silindrlar bilan bir martalik xaridlar.",
+          "seoTitle": "Payvandlash uchun aksessuarlar",
+          "seoDescription": "Gaz ballonlarining xavfsiz ishlashi uchun to'liq assortiment: o'lchagichlardan tortib payvandlash mash'allarigacha. Silindrlar bilan bir martalik xaridlar."
+        },
+        "refrigeration": {
+          "name": "Sovutgich qurilmalari",
+          "overview": "Alohida Wanda Group liniyasi - uchinchi tomon katalogi emas. Kondensatsiya moslamalari, sovuq xonalar va jihozlar, biz tomondan silindrlar bilan yoki mustaqil buyurtma sifatida etkazib beriladi.",
+          "seoTitle": "Sovutgich qurilmalari",
+          "seoDescription": "Alohida Wanda Group liniyasi - uchinchi tomon katalogi emas. Kondensatsiya moslamalari, sovuq xonalar va jihozlar, biz tomondan silindrlar bilan yoki mustaqil buyurtma sifatida etkazib beriladi."
+        }
+      }
+    },
+    "factory": {
+      "label": "Zavod",
+      "title": "Zavod va ishlab chiqarish",
+      "subtitle": "Ishlab chiqarish, tekshirish, qadoqlash va jo'natish - haqiqiy zavod fotosuratlari va zavod videolari bilan hujjatlashtirilgan.",
+      "seoTitle": "Zavod va ishlab chiqarish | Wanda guruhlari",
+      "seoDescription": "Haqiqiy zavod fotosuratlari, jonli jo'natuvchi kadrlar va ishlab chiqarish maydonchasidan qisqa videolar.",
+      "sections": [
+        {
+          "title": "Ishlab chiqarish",
+          "text": "Zavod ishlab chiqarish oqimining bir qismi sifatida silindrlarni shakllantirish, payvandlash va tugatish."
+        },
+        {
+          "title": "Ishlab chiqarish jarayoni",
+          "text": "Qobiqni tayyorlashdan yig'ish va pardozlashgacha - jarayondagi zaxira va ishlab chiqarish zaminining rasmlarini ko'ring."
+        },
+        {
+          "title": "Sifat nazorati",
+          "text": "Vizual, markalash va o'lchovli tekshiruvlar silindrlarni jo'natishga tayyorlash."
+        },
+        {
+          "title": "Sinov",
+          "text": "Buyurtma talablariga muvofiq mahsulotlar liniyani tark etishdan oldin qo'llaniladigan bosim va oqish sinovi."
+        },
+        {
+          "title": "Qadoqlash",
+          "text": "Eksport o'rami chet elga tashish uchun silindrlar va armaturalarni himoya qiladi."
+        },
+        {
+          "title": "Yuklash va eksport qilish",
+          "text": "Omborlarni joylashtirish, chiquvchi buyurtmalar uchun yuk mashinasini yuklash va jo'natish hujjatlari."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Sertifikatlar",
+      "title": "Sertifikatlar va standartlar",
+      "subtitle": "Odatda xaridorlar tomonidan talab qilinadigan standartlar quyida keltirilgan. Qo'llanilishi mahsulot va maqsadli bozorga bog'liq. Sertifikat nusxalari, raqamlari va amal qilish muddati so'rov bo'yicha shaxsiy ravishda taqsimlanadi - tasdiqlanmagan da'volar sifatida nashr etilmaydi.",
+      "seoTitle": "Sertifikatlash va standartlar | Wanda guruhlari",
+      "seoDescription": "Wanda Groups gaz ballonlari uchun bozor bo'yicha muhokama qilingan standartlar. Sertifikat nusxalari so'rov bo'yicha shaxsiy taqdim etiladi.",
+      "note": "Sertifikat nusxalari so'rov bo'yicha shaxsiy yuboriladi. Biz sertifikat fayllarini veb-saytda nashr etmaymiz."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM va ulgurji",
+      "subtitle": "Distribyutorlar va sanoat xaridorlari uchun xususiy yorliq va ommaviy yetkazib berish imkoniyatlari.",
+      "seoTitle": "OEM gaz ballonlari ta'minoti",
+      "seoDescription": "Chet el brendlari va distribyutorlari uchun OEM va xususiy yorliqli gaz ballonlarini ishlab chiqarish.",
+      "quoteTitle": "OEM talablarini muhokama qiling",
+      "quoteCta": "OEM taklifini so'rang",
+      "capabilities": [
+        {
+          "title": "Shaxsiy logotip",
+          "text": "OEM buyurtmalariga mos keladigan logotip va markalash variantlari muhokama qilinadi."
+        },
+        {
+          "title": "Maxsus rang",
+          "text": "Bozor yoki brend talablariga muvofiq silindr rangi."
+        },
+        {
+          "title": "Maxsus qadoqlash",
+          "text": "Buyurtma bo'yicha karton, palletlar va qadoqlash belgilarini eksport qiling."
+        },
+        {
+          "title": "Shaxsiy yorliq",
+          "text": "Distribyutor kanallari uchun yorliqlash va brend taqdimoti."
+        },
+        {
+          "title": "Ommaviy buyurtmalar",
+          "text": "Loyiha va distribyutor xaridlari uchun ulgurji miqdorlar."
+        },
+        {
+          "title": "OEM ishlab chiqarish",
+          "text": "Mahsulot konfiguratsiyasi spetsifikatsiya va bozoringizga mos keladi."
+        },
+        {
+          "title": "Eksportni qo'llab-quvvatlash",
+          "text": "Hujjatlar va xorijga yetkazib berishni muvofiqlashtirish."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Bozorlar",
+      "title": "Global bozorlar",
+      "subtitle": "Biz xalqaro B2B xaridorlarini qo'llab-quvvatlaymiz. Quyidagi hududlarda umumiy so‘rov sohalari tasvirlangan — alohida mamlakatlar va loyihalar har bir holatda tasdiqlangan.",
+      "seoTitle": "Global bozorlar | Wanda guruhlari eksporti",
+      "seoDescription": "Wanda Groups Afrika, Yaqin Sharq, Markaziy Osiyo, Janubi-Sharqiy Osiyo, Lotin Amerikasi va boshqa bozorlardagi xalqaro sanoat xaridorlari bilan ishlaydi.",
+      "note": "Biz ushbu sahifada tasdiqlanmagan mamlakatlar raqamlari, mijozlar nomlari yoki loyiha havolalarini nashr etmaymiz.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Afrika bozorlaridan sanoat va distribyutor so'rovlari."
+        },
+        {
+          "title": "Yaqin Sharq",
+          "text": "Mintaqaviy loyihalar uchun tsilindrlarni va tegishli uskunalarni xarid qiluvchi xaridorlar."
+        },
+        {
+          "title": "Markaziy Osiyo",
+          "text": "Markaziy Osiyo bozorlari bo'ylab ulgurji va loyiha ta'minoti muhokamalari."
+        },
+        {
+          "title": "Janubi-Sharqiy Osiyo",
+          "text": "Eksport tsilindrni yetkazib berishni baholash sanoat xaridorlari."
+        },
+        {
+          "title": "lotin Amerikasi",
+          "text": "Sanoat gaz ballonlari va aksessuarlari uchun so'rovlar."
+        },
+        {
+          "title": "Boshqa xalqaro bozorlar",
+          "text": "Qo'shimcha yo'nalishlar mahsulot standarti va logistikaga muvofiq ko'rib chiqiladi."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Ilovalar",
+      "title": "Silindrlarni qo'llash",
+      "subtitle": "Umumiy sanoat gaz vazifalari va xorijdagi xaridorlarning talablari uchun mo'ljallangan mahsulotlar.",
+      "seoTitle": "Silindrlarni qo'llash",
+      "seoDescription": "Umumiy sanoat gaz vazifalari va xorijdagi xaridorlarning talablari uchun mo'ljallangan mahsulotlar.",
+      "items": [
+        {
+          "title": "Payvandlash va payvandlash",
+          "text": "Eritilgan asetilen va ustaxona va ishlab chiqarish payvandlash uchun tegishli uskunalar."
+        },
+        {
+          "title": "Metall kesish",
+          "text": "Saytda va zavodda kislorodli yoqilg'ini kesish uchun silindrlar va aksessuarlar."
+        },
+        {
+          "title": "Sanoat gaz ta'minoti",
+          "text": "Sanoat tarqatish va o'simlik gaz tizimlari uchun ballon ta'minoti."
+        },
+        {
+          "title": "Qurilish",
+          "text": "Qurilish va ta'mirlash ishlari uchun portativ gaz ta'minoti."
+        },
+        {
+          "title": "Metall ishlab chiqarish",
+          "text": "Ishlab chiqarish sexlari va kemasozlik korxonalari uchun silindrlar va aksessuarlar."
+        },
+        {
+          "title": "Gazni saqlash va taqsimlash",
+          "text": "Sanoat xaridorlari uchun saqlash va tarqatishga tayyor tsilindrlar."
+        }
+      ]
+    },
+    "faq": {
+      "label": "TSS",
+      "title": "Tez-tez so'raladigan savollar",
+      "subtitle": "Kompaniya, mahsulotlar, OEM va eksport - siz taklif so'rashdan oldin chet ellik xaridorlar uchun javoblar.",
+      "seoTitle": "TSS",
+      "seoDescription": "Kompaniya, mahsulotlar, OEM va eksport - siz taklif so'rashdan oldin chet ellik xaridorlar uchun javoblar."
+    },
+    "contactPage": {
+      "label": "Aloqa",
+      "title": "Keling, sizning talablaringizni muhokama qilaylik",
+      "subtitle": "Savdo guruhimizga shakl, elektron pochta yoki messenjer orqali murojaat qiling. Tezroq taklif qilish uchun mahsulot, miqdor va manzilni baham ko'ring.",
+      "seoTitle": "Narx so'rash",
+      "seoDescription": "Bizga hajmi, miqdori, boradigan mamlakat va arizani ayting - biz batafsil taklif tayyorlaymiz."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Eng so'nggi maqolalar",
+      "subtitle": "Payvandlash va gaz ta'minoti bo'yicha mutaxassislar uchun ekspert tarkibi.",
+      "seoTitle": "Maqolalar va qoʻllanmalar",
+      "seoDescription": "Payvandlash va gaz ta'minoti bo'yicha mutaxassislar uchun ekspert tarkibi.",
+      "coming": "Bu yerga ko'proq xaridor qo'llanmalari va mahsulot eslatmalari qo'shiladi. Yuqoridagi maqolalardan foydalaning yoki mahsulotga xos materiallar uchun biz bilan bog'laning."
+    },
+    "privacy": {
+      "seoTitle": "Maxfiylik siyosati",
+      "seoDescription": "Wanda Group veb-sayti so'rovlari va shaxsiy ma'lumotlar uchun maxfiylik siyosati."
+    },
+    "terms": {
+      "seoTitle": "Foydalanish shartlari",
+      "seoDescription": "Wanda Group veb-saytidan foydalanish shartlari."
+    },
+    "notFound": {
+      "seoTitle": "Sahifa topilmadi",
+      "seoDescription": "Siz soʻragan sahifa mavjud emas.",
+      "title": "Sahifa topilmadi",
+      "text": "Siz qidirayotgan sahifa mavjud emas yoki ko'chirilgan.",
+      "home": "Uy",
+      "products": "Mahsulotlar",
+      "contact": "Aloqa / Narx olish"
+    }
   }
 }

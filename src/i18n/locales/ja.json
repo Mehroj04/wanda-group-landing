@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "家",
     "products": "製品",
     "specs": "仕様",
     "applications": "アプリケーション",
     "about": "について",
     "gallery": "ギャラリー",
+    "factory": "工場",
     "quality": "品質",
     "faq": "よくある質問",
     "contact": "接触",
@@ -13,44 +15,42 @@
     "services": "サービス",
     "pricing": "価格設定",
     "accessories": "付属品",
-    "home": "家",
-    "factory": "工場",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "冷蔵",
+    "cooling": "冷却",
+    "certifications": "認証",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "市場"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "産業用ガスシリンダーメーカー",
+    "title": "産業用ガスシリンダーおよび機器メーカー",
+    "subtitle": "国際輸出バイヤー向けに、アセチレンシリンダー、プロパン/LPGシリンダー、発電機、溶接付属品の製造、OEM、卸売供給を行っています。",
+    "lineGas": "ガスシリンダー",
+    "lineCold": "冷凍ユニット",
+    "cta": "見積もりを取得する",
+    "ctaSecondary": "製品を見る",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "メーカー重視の供給"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "プライベートラベルとカスタマイズ"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "国際配送サポート"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "検査および試験のプロセス"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "ご要望に応じて市場固有のオプションを提供します"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "信頼性の高いガスシリンダーアクセサリ",
@@ -59,34 +59,34 @@
   },
   "products": {
     "title": "当社の製品",
-    "subtitle": "産業用途および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
+    "subtitle": "工業用および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
+    "viewDetails": "詳細を見る",
     "items": [
       {
         "title": "アセチレンシリンダー",
-        "desc": "溶接、切断、工業用ガス用の溶解アセチレンボンベ。 さまざまなサイズとバルブのオプション。",
-        "icon": "🔥",
-        "spec": "2L～40L・ISO/DOT/TPED"
+        "spec": "2L～40L · 市場ごとに規格を確認",
+        "desc": "溶接、切断、工業用ガス供給用の溶解アセチレンシリンダー。",
+        "icon": "🔥"
       },
       {
         "title": "アセチレン発生器",
-        "desc": "安定したガス生産、簡単な操作、産業用途向けの装置。",
-        "icon": "⚙️",
-        "spec": "産業用発電システム"
+        "spec": "産業用発電システム",
+        "desc": "現場および工場内で安定してアセチレンを生産するための設備。",
+        "icon": "⚙️"
       },
       {
         "title": "プロパンボンベ",
-        "desc": "プロパンおよび LPG 用の耐久性のあるシリンダー - 保管、加熱、切断、産業用。",
-        "icon": "🛢️",
-        "spec": "3L～50L・POL / CGA / GOST"
+        "spec": "3L ～ 50L · 市場ごとのバルブ オプション",
+        "desc": "加熱、切断、工業用の耐久性のあるLPGシリンダー。",
+        "icon": "🛢️"
       },
       {
         "title": "シリンダー付属品",
-        "desc": "ホース、ゲージ、切断トーチ、溶接バーナー、安全弁など。",
-        "icon": "🔧",
-        "spec": "バルブ・レギュレーター・ホース・トーチ"
+        "spec": "バルブ・レギュレーター・ホース・トーチ",
+        "desc": "適合する継手はシリンダーに付属、または別注文として提供されます。",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "詳細を見る"
+    ]
   },
   "specs": {
     "title": "技術仕様",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "ワンダグループを選ぶ理由",
+    "subtitle": "産業バイヤーが製造パートナーを評価するための具体的な機能。",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "メーカー重視の供給",
+        "desc": "カタログを取引するだけではなく、生産を中心とした製品供給を行っています。"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEMサポート",
+        "desc": "カスタムカラー、マーキング、バルブ、パッキンは注文ごとに相談します。"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "品質管理",
+        "desc": "出荷前に材料から梱包まで検査します。"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "国際輸出",
+        "desc": "海外バイヤー向けに輸出梱包・発送調整を行います。"
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "製品のカスタマイズ",
+        "desc": "市場およびアプリケーションの要件に適合した仕様。"
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "即応性のある販売サポート",
+        "desc": "見積もりや技術的な返信は、フォーム、電子メール、メッセンジャーを通じて受け付けます。"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "大量注文機能",
+        "desc": "卸売数量はディストリビューターおよびプロジェクトバイヤー向けにサポートされています。"
       }
     ]
   },
   "about": {
-    "title": "ガスシリンダー専門メーカー",
-    "text": "ワンダグループガスシリンダーメーカーは、産業用ガスシリンダーと関連アクセサリーの生産と供給を専門としています。 当社の製品は、溶接、切断、ガス供給、産業用貯蔵、その他のガス供給分野で広く使用されています。",
-    "text2": "海外バイヤーの商品選定、カスタマイズ、品質検査、梱包、出荷調整をサポートいたします。",
+    "title": "産業用バイヤー向けガスシリンダーメーカー",
+    "text": "ワンダ グループは、アセチレン シリンダー、プロパン シリンダー、溶接、切断、工業用ガス供給用の発電機および付属品を製造しています。",
+    "text2": "海外バイヤーの商品選定、OEM、検品、梱包、発送までサポートいたします。",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "製造業",
+        "desc": "工業用ガスシリンダーの成形、溶接、検査、仕上げ。"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEMサポート",
+        "desc": "色、マーキング、バルブ、キャップ、パッキンのオプションはご注文に応じて承ります。"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "品質プロセス",
+        "desc": "注文と市場の要件に合わせた検査とテスト。"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "国際輸出",
+        "desc": "海外の産業バイヤー向けの文書作成と梱包のサポート。"
       }
     ]
   },
   "gallery": {
     "title": "工場内",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "生産現場からの実際のプラントの写真、ライブの発送ショット、短いビデオ。",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "夜間派遣",
+        "desc": "梱包された機材を積んで出発するトレーラー – 時間と場所がショットに刻まれています。"
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "出荷のために段階的に準備された貨物",
+        "desc": "発送のために集められたパレットと部品。 スタジオセットではなく、倉庫のライブ写真です。"
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "梱包された在庫",
+        "desc": "カートンは倉庫に積み上げられ、次の出荷注文に備えています。"
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "発送用に梱包しました",
+        "desc": "シリンダーは出荷のために工場ヤードで包装され、ステージングされます。"
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "生産コンベヤ",
+        "desc": "成形およびハンドリングラインを通過するシリンダー本体。"
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG仕上げライン",
+        "desc": "梱包前にオーバーヘッドコンベア上で塗装された LPG シリンダー。"
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "工場内",
+        "desc": "生産現場 - 人、機械、仕掛品。"
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "溶接シリンダーボディ",
+        "desc": "外周溶接後、塗装前のシェルとバルブ。"
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "塗装前の貝殻",
+        "desc": "次のプロセスステップのために床にバッチ化された未塗装のボディ。"
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "仕掛在庫",
+        "desc": "組み立てを待つチューブセクションとキャップ付きシェル。"
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "シリンダーボディ在庫あり",
+        "desc": "溶接後、ヘッドとバルブの前に重ねられたロールシェル。"
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "ベースリング",
+        "desc": "シリンダーシェルに溶接するために準備されたフートリング。"
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "梱包された継手",
+        "desc": "バルブと継手は輸出用に発泡材で箱詰めされています。"
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "アセチレン発生装置",
+        "desc": "ホースと付属品を備えた発電機ユニット。すぐに工場から出荷できます。"
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "床に貝殻が落ちている",
+        "desc": "溶接後のオープンネックボディ - バルブ取り付け前のバッチ。"
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "工場ビデオ",
+    "videosSubtitle": "工場現場から届いた新しいショーツ。 リクエストに応じて、さらに多くの映像を非公開で送信します。"
   },
   "quality": {
     "title": "品質管理",
     "subtitle": "すべてのバッチは、生産、テスト、検査、最終品質管理という同じ経路をたどります。",
     "steps": [
       {
-        "title": "生産",
-        "desc": "工場のプロセス管理のもとで成形、溶接、組立を行います。"
+        "title": "原材料",
+        "desc": "入荷した材料は注文とプロセスの要件に照らしてレビューされます。"
       },
       {
-        "title": "テスト",
-        "desc": "シリンダーがラインから出る前に圧力と漏れのテストを行います。"
+        "title": "生産",
+        "desc": "工場のプロセス管理のもとで成形、溶接、組立を行います。"
       },
       {
         "title": "検査",
         "desc": "注文に対する目視、マーキング、寸法のチェック。"
       },
       {
-        "title": "最終的な品質管理",
-        "desc": "輸出出荷前の梱包検査。"
+        "title": "テスト",
+        "desc": "シリンダーがラインから出る前に圧力と漏れのテストを行います。"
+      },
+      {
+        "title": "最終QC",
+        "desc": "リリース前の最終的な品質管理を梱包します。"
+      },
+      {
+        "title": "包装",
+        "desc": "輸送のために準備された輸出梱包。"
+      },
+      {
+        "title": "出荷",
+        "desc": "アウトバウンド注文の書類を積み込んで発送します。"
       }
     ]
   },
   "faq": {
     "title": "よくある質問",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "会社、製品、OEM、輸出 - 見積もりをリクエストする前に、海外のバイヤー向けの回答を得ることができます。",
     "cta": "質問が見つかりませんでしたか? 製品、サイズ、数量、送り先の国をお送りください。詳細なオファーを返信させていただきます。",
     "ctaBtn": "見積もりを取得する",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "ビデオとドキュメント",
         "items": [
           {
             "q": "注文する前に工場のビデオを見ることはできますか?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "はい。 このページの「工場」セクションで生産ビデオをご覧ください。 追加の映像、梱包クリップ、証明書はご要望に応じて非公開でお送りします。"
           },
           {
             "q": "特にアセチレンシリンダーの製品ビデオを提供していますか?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "はい。 ご要望に応じて、アセチレンボンベの動画、写真、詳細情報を非公開でお送りいたします。"
           },
           {
             "q": "生産や品質管理のビデオを見せてもらえますか？",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "はい。 生産、品質検査、梱包、倉庫保管のビデオが非公開で送信されるので、製品がどのように準備されるかを確認できます。"
           },
           {
             "q": "特定の注文に応じて作成された製品ビデオをリクエストできますか?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "特定の注文または製品要件については、お問い合わせください。ビデオ サポートについて話し合い、資料を非公開で送信します。"
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "ビデオ、証明書、見積書を入手するにはどうすればよいですか?",
+            "a": "お問い合わせフォームには、製品の種類、シリンダーのサイズ、数量、送り先の国、送付するも​​の（ビデオ、証明書、またはその両方）を指定してください。 個別にお送りし、オファーを準備させていただきます。"
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "製品の写真と仕様を提供していただけますか?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "はい。 製品の写真、仕様、データシートは、ご要望に応じて非公開で送信されます。"
           },
           {
             "q": "アクセサリの見積もりを取得するにはどうすればよいですか?",
@@ -397,7 +409,7 @@
   "articles": {
     "title": "最新の記事",
     "subtitle": "溶接およびガス供給の専門家向けの専門的なコンテンツ。",
-    "readMore": "続きを読む→",
+    "readMore": "続きを読む →",
     "close": "近い",
     "items": [
       {
@@ -427,33 +439,36 @@
         "title": "アセチレンボンベ購入の予算目安",
         "desc": "コストに影響を与える要因と、最適なオファーを選択する方法。",
         "body": [
-          "アセチレンシリンダーの価格は、容量（2L～40L）、バルブタイプ、認証（ISO、DOT、TPED）、注文数量によって異なります。 EXW の目安価格: WG-10 は 1 ユニットあたり 28 ～ 35 ドル、WG-25 は 45 ～ 58 ドル。",
-          "より大きなロット (200 ～ 500 個以上) には大幅な割引が適用されます。 OEM ペイント、ロゴ、特別なパッケージは基本価格に 5 ～ 15% 追加されますが、販売代理店にとっての価値は高まります。",
-          "出荷 (FOB/CIF)、書類、MOQ も考慮に入れます。 完全な仕様、納期、インコタームズについては 24 時間以内に返信いたします。",
-          "正確な見積もりが必要な場合は、お問い合わせフォームにモデル、数量、仕向国、バルブの要件を記載するか、電子メールで sales@wandagroups.com までお問い合わせください。"
+          "アセチレン シリンダーの価格は、容量、バルブの種類、目的地市場で必要な規格、および注文数量によって異なります。 当社はウェブサイト上で固定の定価を公開しておりません。",
+          "大ロットやOEMオプション（塗装、ロゴ、梱包）につきましては、お問い合わせ内容を確認の上、個別にお見積りさせていただきます。",
+          "出荷条件（FOB/CIFなど）、書類、リードタイムは正式な見積書で確認されます。",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "見積もりを依頼する",
-    "subtitle": "サイズ、数量、送り先の国、用途をお知らせください。詳細なお見積りを作成させていただきます。",
+    "title": "要件について話し合いましょう",
+    "subtitle": "製品、サイズ、数量、仕向国、仕様をお知らせください。当社の営業チームが製品情報と見積もりを返信いたします。",
     "formTitle": "見積もりを依頼する",
-    "formSubtitle": "ご要望をお聞かせください。当社の営業チームが製品情報、価格、MOQ、リードタイムをお知らせします。",
+    "formSubtitle": "商用に関するお問い合わせのフォームに記入してください。 必須フィールドはマークされています。",
     "name": "名前",
+    "company": "会社",
     "phone": "電話 / WhatsApp",
     "email": "電子メール",
     "product": "製品",
-    "quantity": "量",
-    "country": "目的地の国",
+    "quantity": "数量（オプション）",
+    "country": "目的地の国 (オプション)",
     "productOptions": [
       "アセチレンシリンダー",
       "プロパンボンベ",
       "アセチレン発生器",
       "付属品",
-      "バンドル注文",
-      "Cold storage / refrigeration"
+      "冷蔵・冷凍",
+      "バンドル注文"
     ],
+    "quantityPlaceholder": "例えば 200個、1コンテナ、または未定",
+    "countryPlaceholder": "商品の発送先は",
     "message": "追加の要件",
     "messagePlaceholder": "商品、サイズ、数量、仕向国...",
     "submit": "お問い合わせを送信",
@@ -461,22 +476,80 @@
     "success": "ありがとう！ すぐにご連絡させていただきます。",
     "sendAnother": "別の問い合わせを送信する",
     "errorGeneric": "送信に失敗しました。 もう一度お試しいただくか、直接メールでご連絡ください。",
-    "errorNoForm": "フォームが設​​定されていません。 sales@wandagroups.com に電子メールを送信してください",
-    "privacyPrefix": "に同意します",
-    "privacySuffix": "そして、この問い合わせに対処するための私の個人データの処理。",
-    "privacyLink": "プライバシーポリシー",
-    "company": "会社",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "メールアプリ経由で送信",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "に同意します",
+    "privacySuffix": "、そしてこの問い合わせに対処するための私の個人データの処理について。",
+    "privacyLink": "プライバシーポリシー",
+    "termsAnd": "そして",
+    "termsLink": "利用規約",
+    "requirements": "要件/仕様",
+    "requirementsPlaceholder": "バルブのタイプ、色、規格、パッキン、OEM マーキング、数量メモ..."
   },
   "footer": {
     "company": "ワンダグループガスシリンダーメーカー",
     "tagline": "専門的なガスシリンダー製造",
     "rights": "© 2026 ワンダグループ。 無断転載を禁じます。",
     "privacy": "プライバシーポリシー",
-    "terms": "Terms of Use"
+    "terms": "利用規約"
+  },
+  "privacy": {
+    "label": "法律上の",
+    "title": "プライバシーポリシー",
+    "updated": "最終更新日: 2026 年 8 月 25 日",
+    "intro": [
+      "ワンダ グループ (「当社」、「当社」) は、ガスシリンダー、付属品、および関連する輸出供給品を紹介し、工業用バイヤーから商業的な問い合わせを受けるためにこの Web サイトを運営しています。",
+      "このポリシーでは、サイトを通じて当社がどのような個人データを収集するか、それを使用する理由、およびそれについて当社に連絡する方法について説明します。 このサイトでは工場の製作動画を公開しています。 証明書ファイルはリクエストに応じて非公開で送信されます。"
+    ],
+    "sections": [
+      {
+        "title": "責任者は誰ですか",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "私たちが収集するデータ",
+        "body": [
+          "お問い合わせフォームを送信すると、名前、電子メール、電話番号、仕向国、製品タイプ、数量、メッセージなどのデータが入力されます。",
+          "このサイトでは、選択した言語もブラウザー (localStorage) に保存されます。 当社は広告 Cookie を実行したり、訪問者リストを販売したりすることはありません。"
+        ]
+      },
+      {
+        "title": "データを使用する理由",
+        "body": [
+          "当社は、お問い合わせデータを、お客様からのリクエストへの返信、見積書の作成、お客様が要求した製品情報、ビデオまたは証明書の送信、および共同作業を開始する場合の注文の調整のためにのみ使用します。",
+          "法的根拠: フォーム上のチェックボックスにチェックを入れたときのお客様の同意、および B2B 販売リクエストに応えるための当社の正当な利益。"
+        ]
+      },
+      {
+        "title": "データを受け取る人",
+        "body": [
+          "あなたのメッセージは電子メールで当社の営業チームに配信されます。 フォームは、メッセージを当社に送信する技術プロバイダーである Web3Forms によって処理されます。",
+          "当社は個人データを販売しません。 当社は、合意された注文を履行するために必要な場合にのみ、物流、検査、または銀行のパートナーと必要なものを共有する場合があります。"
+        ]
+      },
+      {
+        "title": "どれくらいの期間保管しますか",
+        "body": [
+          "問い合わせデータは、法律で認められている場合により早期に削除するようお客様から当社に依頼されない限り、リクエストの処理に必要な期間、およびその後の営業フォローアップと会計処理のために合理的な期間保存されます。"
+        ]
+      },
+      {
+        "title": "あなたの権利",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "セキュリティと子供たち",
+        "body": [
+          "当社は、転送中およびメールボックス内のメッセージを保護するために、合理的な技術的および組織的な措置を講じています。 このウェブサイトはビジネスバイヤーを対象としたものであり、子供を対象としたものではありません。"
+        ]
+      }
+    ],
+    "contactLead": "このポリシーに関する質問:"
   },
   "ui": {
     "catalog": "カタログ",
@@ -494,6 +567,7 @@
     "location": "位置",
     "quoteResponse": "見積回答",
     "support": "サポート",
+    "countriesServed": "輸出サポート",
     "exportReady": "輸出準備完了",
     "years": "年",
     "acetylene": "アセチレン",
@@ -508,17 +582,25 @@
     "quality": "品質",
     "faq": "よくある質問",
     "blog": "ブログ",
-    "countriesServed": "サービスを提供している国",
     "searchLanguage": "言語を検索...",
-    "noLanguagesFound": "言語が見つかりません"
+    "noLanguagesFound": "言語が見つかりません",
+    "breadcrumb": "ブレッドクラム",
+    "primaryNav": "主要な",
+    "menu": "メニュー",
+    "playVideo": "ビデオを再生する",
+    "productGallery": "製品ギャラリー",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / プライベートブランド",
+    "国際輸出",
+    "品質管理",
+    "ご要望に応じた市場標準",
+    "大量注文"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "認証",
-        "desc": "Documents for customs and regulators.",
+        "desc": "税関および規制当局向けの文書。 コピーはご要望に応じて個人的に送信されます。",
         "points": [
           "ISO 9809、DOT、TPED",
           "MSDSと品質証明書",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "価格と供給条件",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "商業条件は問い合わせごとに確認されます。 正式な見積りのために製品、数量、送付先の詳細を送信してください。",
+    "note": "このウェブサイトでは、固定の定価、MOQ、またはリードタイムを公開していません。 正確な商業条件は、お客様の要件を確認した後、見積書で確認されます。",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "価格設定",
+        "value": "リクエストに応じて",
+        "desc": "お問い合わせ内容確認後、正式お見積り"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "注文ごとに確認済み",
+        "desc": "モデルと目的地によって異なります"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "リードタイム",
+        "value": "注文ごとに確認済み",
+        "desc": "見積書と共有"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "支払い",
+        "value": "契約に同意しました",
+        "desc": "制作前に条件を確認"
       }
     ],
     "factors": {
-      "title": "価格要因",
+      "title": "見積もりに影響するもの",
       "items": [
-        "シリンダー容量と型式（2L～50L）",
-        "バルブタイプ（CGA、GOST、DIN、POL）",
-        "認証規格（ISO、DOT、TPED）",
-        "OEM: 色、マーキング、パッケージング",
+        "シリンダーの容量とモデル",
+        "バルブの種類と接続規格",
+        "目的地市場に必要な基準",
+        "OEMの色、マーキング、パッケージング",
         "注文量とインコタームズ"
       ]
     },
     "samples": [
       {
-        "product": "アセチレンWG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "アセチレンシリンダー",
+        "moq": "リクエストに応じて",
+        "price": "お問い合わせごとにお見積り",
+        "lead": "注文ごとに確認済み"
       },
       {
-        "product": "アセチレンWG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "プロパン・LPGボンベ",
+        "moq": "リクエストに応じて",
+        "price": "お問い合わせごとにお見積り",
+        "lead": "注文ごとに確認済み"
       },
       {
-        "product": "プロパン WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "発電機",
+        "moq": "リクエストに応じて",
+        "price": "お問い合わせごとにお見積り",
+        "lead": "注文ごとに確認済み"
       },
       {
-        "product": "プロパン WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "ジェネレーター WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "レギュレーターセット",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "付属品",
+        "moq": "リクエストに応じて",
+        "price": "お問い合わせごとにお見積り",
+        "lead": "注文ごとに確認済み"
       }
     ],
     "tableHeaders": [
       "製品",
       "MOQ",
-      "価格（EXW）",
+      "価格",
       "リードタイム"
     ]
   },
   "certifications": {
     "title": "認証と規格",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "規格と認証のオプションについては、製品と目的市場に応じて説明します。 証明書のコピーはリクエストに応じて非公開で送信されます。ファイルはこの Web サイトでは公開されません。",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "見積もりを受け取る",
-        "desc": "価格、MOQ、リードタイム、スペックシートは24時間以内"
+        "desc": "当社の営業チームによるレビュー後の価格、MOQ、リードタイム、スペックシート"
       },
       {
         "title": "注文の確認",
-        "desc": "契約書への署名と30％のデポジット支払い"
+        "desc": "生産開始前に合意された契約および支払い条件"
       },
       {
         "title": "生産と品質管理",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "製造とテスト。 ビデオと証明書はリクエストに応じて非公開で送信されます"
       },
       {
         "title": "出荷",
-        "desc": "梱包、書類、FOB/CIF/DDP配送"
+        "desc": "注文時に合意された梱包、書類、および配送条件"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "購入者の意見",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "今年は40Lアセチレンボンベを3回再注文しました。 GOST バルブ、OEM 色、輸出用梱包は毎回最初のサンプルと一致しました。",
+        "author": "ルスタム・ユスポフ",
+        "role": "溶接ガス販売会社のオーナー",
+        "country": "ウズベキスタン"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "見積もりは同日に届き、MOQとリードタイムが明確でした。 プロパン ボトルは POL バルブと完全な梱包リストとともに到着しました。当社側では税関での遅延はありませんでした。",
+        "author": "アイゲリム・ベコバ",
+        "role": "調達マネージャー、産業用供給",
+        "country": "カザフスタン"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "当社では、レギュレーターとホースを備えたシリンダーを 1 つのコンテナーの注文として購入します。 書類とマーキングは市場向けに準備されていたため、再販は簡単でした。",
+        "author": "ファイサル・アル・ハルビ",
+        "role": "輸入バイヤー、ガス機器売買",
+        "country": "サウジアラビア"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "品質",
         "eyebrow": "品質と安全性",
         "title": "見積もりに入れることができる検査",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "材料のチェック、リークテスト、バルブのトルク、パッキンの写真。 証明書パックと写真レポートは、ご要望に応じて非公開でお送りいたします。",
         "points": [
           "圧力と漏れのテスト",
-          "Certificate package",
+          "証明書はリクエストに応じて発行します",
           "出荷前の写真"
         ]
       },
       {
         "id": "輸出",
         "eyebrow": "世界への輸出",
-        "title": "港向けに梱包され、50 か国以上に対応可能",
+        "title": "港向けに梱包され、輸出市場に向けて準備完了",
         "text": "目的地のインコタームズに合わせて調整されたパレット、バルブ保護、多言語ラベル、出荷書類を輸出します。",
         "points": [
           "FOB/CIFサポート",
           "パレット梱包",
           "リードタイム 15 ～ 25 日"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "発送のために工場ヤードに置かれた包装済みガスシリンダー",
+    "about": "ワンダグループの工場現場で働く従業員たち",
+    "accessories": "ガスシリンダーアクセサリーキット – レギュレーター、ホース、トーチ、フィッティング",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "多孔質体と真鍮製バルブを備えた溶解アセチレンシリンダー",
+      "工場内で撮影されたアセチレン発生装置",
+      "複数のサイズと色のプロパンおよび LPG シリンダー",
+      "ガスシリンダー用の溶接および切断アクセサリーキット"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "夜間派遣: ラッピングされた機器をトレーラーに積み込む",
+      "出荷のために準備されたパレットと金属部品",
+      "倉庫に積み上げられた梱包済み在庫のカートン",
+      "工場ヤードに設置されたフィルムに包まれたシリンダー",
+      "工場屋根下のガスボンベ製造コンベア",
+      "オーバーヘッド仕上げコンベアにぶら下がっている LPG シリンダー",
+      "万達グループの工場現場を歩く労働者",
+      "未塗装の溶接プロパンシリンダー本体を 2 段に積み上げたもの",
+      "コンクリートの床に無塗装のシリンダーシェルが並んでいる",
+      "作業場内のシリンダー チューブ ストックとキャップ付きシェル",
+      "工場の壁に積み上げられた生のシリンダー本体",
+      "組み立て前に積み重ねられたスチールベースリング",
+      "真鍮製の継手はフォームの入ったカートンに梱包されています",
+      "アセチレン発生器、ホースおよび箱入りアクセサリ付き",
+      "溶接後のオープンネックの未塗装シリンダーシェル"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "コープランド半密閉型コンプレッサーを備えた空冷式凝縮ユニット",
+      "Bitzer 半密閉コンプレッサーを備えた空冷式凝縮ユニット",
+      "密閉キャビネット型冷凍凝縮ユニット",
+      "大容量4ファン空冷凝縮ユニット"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "法律上の",
-    "title": "プライバシーポリシー",
-    "updated": "最終更新日: 2026 年 8 月 25 日",
-    "intro": [
-      "ワンダ グループ (「当社」、「当社」) は、ガスシリンダー、付属品、および関連する輸出供給品を紹介し、工業用バイヤーから商業的な問い合わせを受けるためにこの Web サイトを運営しています。",
-      "このポリシーでは、サイトを通じて当社がどのような個人データを収集するか、それを使用する理由、およびそれについて当社に連絡する方法について説明します。 当社は工場のビデオや証明書ファイルを Web サイトに公開しません。 これらの資料はリクエストに応じて個人的に送信されます。"
-    ],
-    "sections": [
-      {
-        "title": "責任者は誰ですか",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "私たちが収集するデータ",
-        "body": [
-          "お問い合わせフォームを送信すると、名前、電子メール、電話番号、仕向国、製品タイプ、数量、メッセージなどのデータが入力されます。",
-          "このサイトでは、選択した言語もブラウザー (localStorage) に保存されます。 当社は広告 Cookie を実行したり、訪問者リストを販売したりすることはありません。"
-        ]
-      },
-      {
-        "title": "データを使用する理由",
-        "body": [
-          "当社は、お問い合わせデータを、お客様からのリクエストへの返信、見積書の作成、お客様が要求した製品情報、ビデオまたは証明書の送信、および共同作業を開始する場合の注文の調整のためにのみ使用します。",
-          "法的根拠: フォーム上のチェックボックスにチェックを入れたときのお客様の同意、および B2B 販売リクエストに応えるための当社の正当な利益。"
-        ]
-      },
-      {
-        "title": "データを受け取る人",
-        "body": [
-          "あなたのメッセージは電子メールで当社の営業チームに配信されます。 構成に応じて、フォームは、メッセージを送信する技術プロバイダーとして Web3Forms によって処理される場合があります。",
-          "当社は個人データを販売しません。 当社は、合意された注文を履行するために必要な場合にのみ、物流、検査、または銀行のパートナーと必要なものを共有する場合があります。"
-        ]
-      },
-      {
-        "title": "どれくらいの期間保管しますか",
-        "body": [
-          "問い合わせデータは、法律で認められている場合により早期に削除するようお客様から当社に依頼されない限り、リクエストの処理に必要な期間、およびその後の営業フォローアップと会計処理のために合理的な期間保存されます。"
-        ]
-      },
-      {
-        "title": "あなたの権利",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "セキュリティと子供たち",
-        "body": [
-          "当社は、転送中およびメールボックス内のメッセージを保護するために、合理的な技術的および組織的な措置を講じています。 このウェブサイトはビジネスバイヤーを対象としたものであり、子供を対象としたものではありません。"
-        ]
-      }
-    ],
-    "contactLead": "このポリシーに関する質問:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "法律上の",
+    "title": "利用規約",
+    "updated": "最終更新日: 2026 年 8 月 27 日",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "これらの規約は、ガスシリンダー、発電機、付属品の産業用バイヤー向けに Wanda Group が運営する wandagroups.com の使用に適用されます。",
+      "サイトを閲覧したり、お問い合わせを送信したりすると、これらの条件と当社のプライバシー ポリシーに同意したことになります。 同意できない場合は、サイトを使用しないでください。"
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "私たちは誰なのか",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "ウェブサイトの目的",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "製品情報の紹介や商業に関するお問い合わせを受け付けております。 これは法人購入者を対象としており、個人として買い物をする消費者や子供を対象としたものではありません。"
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "見積もり、価格、注文",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "サイト上の価格、MOQ、納期、仕様は目安です。 フォームやメッセンジャーからのメッセージはご注文ではなくお問い合わせとなります。",
+          "契約は、当社がその確認書に別段の記載をしない限り、双方が書面（電子メールまたは署名入り文書）でオファーを確認し、合意された手付金を受領した場合にのみ成立します。"
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "写真、ビデオ、証明書",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "サイト上の工場の写真とビデオでは、生産状況が説明されています。 追加の映像と証明書ファイルはリクエストに応じて非公開で送信され、共有してもよいと当社が指示しない限り、当社の機密資料として扱われます。"
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "知的財産",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "このウェブサイト上のテキスト、写真、ビデオ、ロゴおよびレイアウトは、Wanda Group または当社のライセンサーに属します。 当社の書面による同意がない限り、カタログを独自の商用サイトにコピーすることはできません。"
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "許容される使用方法",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "お問い合わせフォームを悪用（スパム、偽名、サイトを妨害する試みなど）しないでください。 不正なリクエストは無視または削除する場合があります。"
         ]
       },
       {
-        "title": "Liability",
+        "title": "責任",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "情報を正確に保つよう注意を払っておりますが、サイトに誤りが含まれたり、一時的にサイトが利用できなくなる場合があります。 法律で認められる範囲において、ワンダ グループはウェブサイトの使用のみから生じる間接的な損失に対して責任を負いません。",
+          "実際の供給契約に対する責任は、本ウェブサイトの規約だけではなく、その契約と適用法によって定められます。"
         ]
       },
       {
-        "title": "Changes",
+        "title": "変更点",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "これらの規約は更新される場合があります。 上部の日付は現在のバージョンを示します。 変更後もサイトを継続して使用することは、更新された規約に同意することを意味します。"
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "これらの用語に関する質問:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "当社の製品ライン",
+    "title": "冷凍ユニット",
+    "subtitle": "サードパーティのカタログではなく、独立した Wanda Group ラインです。 凝縮ユニット、冷蔵室、およびハードウェアは、シリンダーと一緒に、または単独の注文として当社から供給されます。",
+    "moreLink": "冷蔵設備 →",
+    "cta": "見積もりを依頼する",
+    "alsoTitle": "ご要望に応じてご利用も可能です",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "ポリウレタン冷蔵室パネル (B1 / B2) および 304 ステンレスパネル",
+      "冷蔵室用空気冷却器 — DL (~0 °C)、DD (~−18 °C)、DJ (~−25 °C)",
+      "アルミニウム蒸発器コイル",
+      "冷蔵室ドア",
+      "工業用冷水器",
+      "車両用冷凍ユニットと移動式冷蔵室"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "ワンダ インターナショナル トレードは、ガス シリンダー ラインに加えて、ユニット、パネル、クーラー、および関連するコールド チェーン ハードウェアなどの冷凍機器も供給しています。 Copeland、Bitzer、および同様の名前は、ユニット内のコンプレッサーのブランドを指しており、これらの会社のリブランドではありません。",
+    "videoTitle": "会社ビデオ",
+    "videoSubtitle": "冷凍機器ラインの概要です。 リクエストに応じて、さらに多くの映像を非公開で送信します。",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "コープランド半密閉空冷ユニット",
+        "spec": "コンデンシングユニット・コープランドコンプレッサー",
+        "desc": "冷蔵室および中温作業用のコープランド半密閉コンプレッサーを備えた空冷式凝縮ユニット。"
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer 半密閉空冷ユニット",
+        "spec": "コンデンシングユニット・ビッツァーコンプレッサー",
+        "desc": "Bitzer 半密閉コンプレッサーを備えた空冷式凝縮ユニットで、高負荷および中低温の部屋向けです。"
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "密閉ボックス型ユニット",
+        "spec": "キャビネット凝縮ユニット",
+        "desc": "オープンスキッドではなく収容された機械を必要とする現場向けの密閉型キャビネットスタイルの凝縮ユニット。"
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U型・大容量凝縮ユニット",
+        "spec": "マルチファン空冷",
+        "desc": "大型の冷蔵倉庫とプロセス冷却用のマルチファン凝縮器を備えた大型の空冷凝縮ユニット。"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "私たちは誰なのか",
+    "title": "B2Bバイヤー向けの工業メーカー",
+    "text": "Wanda Groups は、海外の代理店、OEM パートナー、プロジェクトバイヤー向けに工業用ガスシリンダー、発電機、溶接付属品を製造および供給しています。",
+    "text2": "当社は消費者への小売販売ではなく、工場と連携した供給、製品選択のサポート、大量注文、輸出調整に重点を置いています。",
+    "cta": "私たちについてもっと詳しく知る"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "見積もりを依頼する準備はできていますか?",
+      "quoteCta": "見積もりを依頼する",
+      "relatedProducts": "関連商品",
+      "applications": "アプリケーション",
+      "standardsTitle": "規格と認証",
+      "oemTitle": "OEM/カスタマイズ",
+      "packagingTitle": "梱包と配送",
+      "placeholders": {
+        "standards": "利用可能な規格と証明書は、注文および仕向地市場ごとに確認されます。 証明書のコピーはリクエストに応じて非公開で送信されます。ファイルは Web サイトで公開されません。",
+        "oem": "OEM の色、マーキング、バルブ、キャップ、パッキンのオプションについては、注文と対象市場に応じて相談できます。",
+        "packaging": "輸出梱包と書類は注文と出荷条件に従って準備されます。"
+      }
+    },
+    "home": {
+      "seoTitle": "ガスシリンダーメーカー | 産業用OEMと輸出 | ワンダグループ",
+      "seoDescription": "Wanda Groups は、OEM、卸売および国際輸出バイヤー向けに工業用ガスシリンダー、発電機、溶接付属品を製造しています。"
+    },
+    "about": {
+      "label": "私たちについて",
+      "title": "産業用バイヤー向けガスシリンダーメーカー",
+      "subtitle": "海外バイヤーの商品選定、OEM、検品、梱包、発送までサポートいたします。",
+      "seoTitle": "ワンダグループについて",
+      "seoDescription": "ワンダ グループは、アセチレン シリンダー、プロパン シリンダー、溶接、切断、工業用ガス供給用の発電機および付属品を製造しています。"
+    },
+    "products": {
+      "label": "製品",
+      "title": "当社の製品",
+      "subtitle": "工業用および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
+      "seoTitle": "ガスシリンダー製品",
+      "seoDescription": "工業用および溶接用途向けのアセチレン シリンダー、発電機、プロパン シリンダーおよび付属品。",
+      "refrigerationNote": "ワンダ インターナショナル トレードは、ガス シリンダー ラインに加えて、ユニット、パネル、クーラー、および関連するコールド チェーン ハードウェアなどの冷凍機器も供給しています。 Copeland、Bitzer、および同様の名前は、ユニット内のコンプレッサーのブランドを指しており、これらの会社のリブランドではありません。",
+      "catalog": {
+        "acetylene": {
+          "name": "溶解アセチレンシリンダー",
+          "overview": "アセチレンの安全な保管と輸送のための多孔質物質と溶剤を備えたスチール製シリンダー。 溶接、切断、ろう付け、金属加工に使用されます。",
+          "seoTitle": "アセチレンガスボンベ",
+          "seoDescription": "アセチレンの安全な保管と輸送のための多孔質物質と溶剤を備えたスチール製シリンダー。 溶接、切断、ろう付け、金属加工に使用されます。"
+        },
+        "propane": {
+          "name": "プロパンボンベ",
+          "overview": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。",
+          "seoTitle": "プロパンガスボンベ",
+          "seoDescription": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。"
+        },
+        "lpg": {
+          "name": "LPGシリンダー",
+          "overview": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。",
+          "seoTitle": "LPGガスボンベ",
+          "seoDescription": "プロパン、ブタン、LPG 混合物用のシリンダー。 加熱、切断、ろう付け、建設、工業用ガスの供給に使用されます。"
+        },
+        "industrial": {
+          "name": "工業用ガスシリンダー",
+          "overview": "溶接、切断、プラント供給用の工業用ガスシリンダー - 市場に合わせたアセチレン、プロパン、LPG オプションを含みます。",
+          "seoTitle": "工業用ガスシリンダー",
+          "seoDescription": "ワンダグループの溶接、切断、プラント供給用の工業用ガスシリンダー。"
+        },
+        "generators": {
+          "name": "アセチレン発生器",
+          "overview": "炭化カルシウムからアセチレンを製造する装置。 集中化されたガスインフラストラクチャを必要とせずに、溶接や産業のニーズに安定したガスを供給します。",
+          "seoTitle": "アセチレン発生器",
+          "seoDescription": "炭化カルシウムからアセチレンを製造する装置。 集中化されたガスインフラストラクチャを必要とせずに、溶接や産業のニーズに安定したガスを供給します。"
+        },
+        "accessories": {
+          "name": "シリンダーの付属品と付属品",
+          "overview": "ゲージから溶接トーチまで、安全なガスシリンダー操作のための完全な製品群。 シリンダーをワンストップで調達。",
+          "seoTitle": "溶接アクセサリ",
+          "seoDescription": "ゲージから溶接トーチまで、安全なガスシリンダー操作のための完全な製品群。 シリンダーをワンストップで調達。"
+        },
+        "refrigeration": {
+          "name": "冷凍ユニット",
+          "overview": "サードパーティのカタログではなく、独立した Wanda Group ラインです。 凝縮ユニット、冷蔵室、およびハードウェアは、シリンダーと一緒に、または単独の注文として当社から供給されます。",
+          "seoTitle": "冷凍ユニット",
+          "seoDescription": "サードパーティのカタログではなく、独立した Wanda Group ラインです。 凝縮ユニット、冷蔵室、およびハードウェアは、シリンダーと一緒に、または単独の注文として当社から供給されます。"
+        }
+      }
+    },
+    "factory": {
+      "label": "工場",
+      "title": "工場と製造",
+      "subtitle": "生産、検査、梱包、発送 — 実際の工場の写真と工場のビデオで文書化されています。",
+      "seoTitle": "工場と生産 | ワンダグループ",
+      "seoDescription": "生産現場からの実際のプラントの写真、ライブの発送ショット、短いビデオ。",
+      "sections": [
+        {
+          "title": "製造業",
+          "text": "工場の生産フローの一部として、シリンダーの成形、溶接、仕上げを行います。"
+        },
+        {
+          "title": "製造工程",
+          "text": "シェルの準備から組み立て、仕上げまで - 工程中の在庫と生産現場の映像をご覧ください。"
+        },
+        {
+          "title": "品質検査",
+          "text": "目視検査、マーキング検査、寸法検査を行い、シリンダーの出荷準備を行います。"
+        },
+        {
+          "title": "テスト",
+          "text": "注文要件に応じて、製品がラインを出る前に圧力テストと漏れテストが適用されます。"
+        },
+        {
+          "title": "包装",
+          "text": "輸出用パッキンは海外輸送用にシリンダーと継手を保護します。"
+        },
+        {
+          "title": "ロードとエクスポート",
+          "text": "倉庫でのステージング、トラックへの積み込み、アウトバウンド注文の発送文書。"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "認証",
+      "title": "認証と規格",
+      "subtitle": "バイヤーがよく要求する基準を以下に示します。 適用可能かどうかは、製品と目的市場によって異なります。 証明書のコピー、番号、有効性はリクエストに応じて非公開で共有され、未検証の主張として公開されることはありません。",
+      "seoTitle": "認証と規格 | ワンダグループ",
+      "seoDescription": "ワンダグループのガスシリンダーについて市場ごとに議論された基準。 証明書のコピーは、ご要望に応じて非公開で提供されます。",
+      "note": "証明書のコピーは、ご要望に応じて非公開でお送りします。 Web サイトでは証明書ファイルを公開しません。"
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEMと卸売",
+      "subtitle": "流通業者および産業バイヤー向けのプライベート ラベルおよびバルク供給オプション。",
+      "seoTitle": "OEMガスシリンダー供給",
+      "seoDescription": "海外ブランドや代理店向けのOEMおよびプライベートブランドのガスシリンダーの製造。",
+      "quoteTitle": "OEM 要件について話し合う",
+      "quoteCta": "OEM 見積もりをリクエストする",
+      "capabilities": [
+        {
+          "title": "カスタムロゴ",
+          "text": "対象となる OEM 注文に関して、ロゴとマーキングのオプションについて説明します。"
+        },
+        {
+          "title": "カスタムカラー",
+          "text": "市場またはブランドの要件に応じたシリンダーの色。"
+        },
+        {
+          "title": "カスタムパッケージ",
+          "text": "カートン、パレット、梱包マークを注文に応じて輸出します。"
+        },
+        {
+          "title": "プライベートブランド",
+          "text": "販売代理店チャネル向けのラベル付けとブランドのプレゼンテーション。"
+        },
+        {
+          "title": "大量注文",
+          "text": "プロジェクトおよび代理店の調達のための卸売数量。"
+        },
+        {
+          "title": "OEM製造",
+          "text": "お客様の仕様と市場に合わせた製品構成。"
+        },
+        {
+          "title": "輸出サポート",
+          "text": "海外配送の書類作成や発送調整。"
+        }
+      ]
+    },
+    "markets": {
+      "label": "市場",
+      "title": "世界市場",
+      "subtitle": "私たちは国際的な B2B バイヤーをサポートします。 以下の地域は一般的な調査分野について説明しています。特定の国とプロジェクトはケースバイケースで確認されています。",
+      "seoTitle": "グローバル市場 | ワンダグループのエクスポート",
+      "seoDescription": "ワンダ グループは、アフリカ、中東、中央アジア、東南アジア、ラテンアメリカ、その他の市場にわたる国際的な産業バイヤーと協力しています。",
+      "note": "このページでは、未確認の国数、顧客名、またはプロジェクト参照を公開しません。",
+      "regions": [
+        {
+          "title": "アフリカ",
+          "text": "アフリカ市場からの産業および流通業者からの問い合わせ。"
+        },
+        {
+          "title": "中東",
+          "text": "地域プロジェクト向けにシリンダーと関連機器を調達するバイヤー。"
+        },
+        {
+          "title": "中央アジア",
+          "text": "中央アジア市場全体での卸売およびプロジェクト供給に関するディスカッション。"
+        },
+        {
+          "title": "東南アジア",
+          "text": "産業用バイヤーが輸出用シリンダーの供給を評価しています。"
+        },
+        {
+          "title": "ラテンアメリカ",
+          "text": "工業用ガスシリンダーおよび付属品に関するお問い合わせ。"
+        },
+        {
+          "title": "その他の国際市場",
+          "text": "追加の仕向地は、製品規格と物流に応じて検討されます。"
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "アプリケーション",
+      "title": "シリンダーの用途",
+      "subtitle": "一般的な産業用ガス業務および海外バイヤーの要件に合わせて設計された製品。",
+      "seoTitle": "シリンダーの用途",
+      "seoDescription": "一般的な産業用ガス業務および海外バイヤーの要件に合わせて設計された製品。",
+      "items": [
+        {
+          "title": "溶接とろう付け",
+          "text": "溶解アセチレンおよびワークショップおよび製造溶接用の関連機器。"
+        },
+        {
+          "title": "金属切断",
+          "text": "現場および工場での酸素燃料切断用のシリンダーと付属品。"
+        },
+        {
+          "title": "産業用ガス供給",
+          "text": "産業用流通およびプラントガスシステム用のシリンダー供給。"
+        },
+        {
+          "title": "工事",
+          "text": "建設およびメンテナンス作業用のポータブルガス供給装置。"
+        },
+        {
+          "title": "金属加工",
+          "text": "製造工場や造船所向けのシリンダーと付属品。"
+        },
+        {
+          "title": "ガスの貯蔵と供給",
+          "text": "産業用バイヤー向けの保管および流通対応シリンダー。"
+        }
+      ]
+    },
+    "faq": {
+      "label": "よくある質問",
+      "title": "よくある質問",
+      "subtitle": "会社、製品、OEM、輸出 - 見積もりをリクエストする前に、海外のバイヤー向けの回答を得ることができます。",
+      "seoTitle": "よくある質問",
+      "seoDescription": "会社、製品、OEM、輸出 - 見積もりをリクエストする前に、海外のバイヤー向けの回答を得ることができます。"
+    },
+    "contactPage": {
+      "label": "接触",
+      "title": "要件について話し合いましょう",
+      "subtitle": "フォーム、電子メール、またはメッセンジャーで当社の営業チームにご連絡ください。 製品、数量、目的地を共有すると、より迅速な見積もりが可能になります。",
+      "seoTitle": "見積もりを依頼する",
+      "seoDescription": "サイズ、数量、送り先の国、用途をお知らせください。詳細なお見積りを作成させていただきます。"
+    },
+    "blog": {
+      "label": "ブログ",
+      "title": "最新の記事",
+      "subtitle": "溶接およびガス供給の専門家向けの専門的なコンテンツ。",
+      "seoTitle": "記事とガイド",
+      "seoDescription": "溶接およびガス供給の専門家向けの専門的なコンテンツ。",
+      "coming": "さらに多くの購入者ガイドと製品ノートがここに追加されます。 上記の記事を使用するか、製品固有の資料についてはお問い合わせください。"
+    },
+    "privacy": {
+      "seoTitle": "プライバシーポリシー",
+      "seoDescription": "ワンダグループのウェブサイトに関するお問い合わせと個人データに関するプライバシーポリシー。"
+    },
+    "terms": {
+      "seoTitle": "利用規約",
+      "seoDescription": "ワンダグループウェブサイトの利用規約。"
+    },
+    "notFound": {
+      "seoTitle": "ページが見つかりません",
+      "seoDescription": "要求したページは利用できません。",
+      "title": "ページが見つかりません",
+      "text": "お探しのページは存在しないか、移動されました。",
+      "home": "家",
+      "products": "製品",
+      "contact": "お問い合わせ・お見積り"
+    }
   }
 }

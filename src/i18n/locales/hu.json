@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Otthon",
     "products": "Termékek",
     "specs": "Műszaki adatok",
     "applications": "Alkalmazások",
     "about": "Körülbelül",
     "gallery": "Galéria",
+    "factory": "Gyár",
     "quality": "Minőség",
     "faq": "GYIK",
     "contact": "Érintkezés",
@@ -13,44 +15,42 @@
     "services": "Szolgáltatások",
     "pricing": "Árképzés",
     "accessories": "Kiegészítők",
-    "home": "Otthon",
-    "factory": "Gyár",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Hűtőszekrény",
+    "cooling": "Hűtés",
+    "certifications": "Tanúsítványok",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Piacok"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Ipari gázpalack gyártó",
+    "title": "Ipari gázpalackok és berendezések gyártója",
+    "subtitle": "Acetilénpalackok, propán/LPG-palackok, generátorok és hegesztési tartozékok gyártása, OEM- és nagykereskedelmi értékesítése nemzetközi exportfelvevők számára.",
+    "lineGas": "Gázpalackok",
+    "lineCold": "Hűtőegységek",
+    "cta": "Kérjen árajánlatot",
+    "ctaSecondary": "Termékek megtekintése",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Gyártóközpontú ellátás"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Saját márka és testreszabás"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Nemzetközi szállítási támogatás"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Ellenőrzési és tesztelési folyamat"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Igény szerint piacspecifikus opciók"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Megbízható gázpalack-tartozékok",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Termékeink",
     "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+    "viewDetails": "Részletek megtekintése",
     "items": [
       {
         "title": "Acetilén henger",
-        "desc": "Oldott acetilén palackok hegesztéshez, vágáshoz és ipari gázokhoz. Különféle méretek és szelep opciók.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · piaconként megerősített szabványok",
+        "desc": "Oldott acetilén palackok hegesztéshez, vágáshoz és ipari gázellátáshoz.",
+        "icon": "🔥"
       },
       {
         "title": "Acetilén generátor",
-        "desc": "Berendezések stabil gáztermeléshez, könnyű kezelhetőséghez és ipari alkalmazásokhoz.",
-        "icon": "⚙️",
-        "spec": "Ipari termelési rendszerek"
+        "spec": "Ipari termelési rendszerek",
+        "desc": "Berendezések stabil acetiléngyártáshoz a helyszínen és az üzemben.",
+        "icon": "⚙️"
       },
       {
         "title": "Propán henger",
-        "desc": "Tartós palackok propánhoz és PB-gázhoz – tároláshoz, fűtéshez, vágáshoz és ipari használatra.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · szelep opciók piaconként",
+        "desc": "Tartós PB-gázpalackok fűtéshez, vágáshoz és ipari használatra.",
+        "icon": "🛢️"
       },
       {
         "title": "Henger tartozékok",
-        "desc": "Tömlők, mérők, vágópisztolyok, hegesztőégők, biztonsági szelepek és egyebek.",
-        "icon": "🔧",
-        "spec": "Szelepek · szabályozók · tömlők · pisztolyok"
+        "spec": "Szelepek · szabályozók · tömlők · pisztolyok",
+        "desc": "Hozzáillő szerelvények hengerrel együtt vagy külön megrendelésre.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Részletek megtekintése"
+    ]
   },
   "specs": {
     "title": "Műszaki előírások",
@@ -106,7 +106,7 @@
       },
       {
         "title": "Csomagolás és Szállítás",
-        "desc": "Exportcsomagolási és szállítási támogatás a forgalmazók és a projekt ügyfelek számára."
+        "desc": "Exportcsomagolás és szállítás támogatása a forgalmazóknak és a projekt ügyfeleknek."
       }
     ]
   },
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Miért válassza a Wanda csoportokat?",
+    "subtitle": "Konkrét lehetőségek a gyártó partnert értékelő ipari vásárlók számára.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Gyártóközpontú ellátás",
+        "desc": "A termelésre orientált termékkínálat, nem csak a katalógusok kereskedelme."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM támogatás",
+        "desc": "Egyedi szín, jelölés, szelep és csomagolás megbeszélés szerint."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Minőségellenőrzés",
+        "desc": "Szállítás előtti ellenőrzés az anyagoktól a csomagolásig."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Nemzetközi export",
+        "desc": "Export-csomagolás és szállítás koordinálása tengerentúli vásárlók számára."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Termék testreszabása",
+        "desc": "A piaci és alkalmazási követelményekhez igazított specifikációk."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Reszponzív értékesítési támogatás",
+        "desc": "Idézetek és technikai válaszok űrlapon, e-mailen és üzenetküldőn keresztül."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Tömeges rendelési lehetőség",
+        "desc": "Támogatott nagykereskedelmi mennyiségek forgalmazók és projektvásárlók számára."
       }
     ]
   },
   "about": {
-    "title": "Professzionális gázpalack-gyártó",
-    "text": "A Wanda Group gázpalackgyártó ipari gázpalackok és kapcsolódó tartozékok gyártására és szállítására specializálódott. Termékeinket széles körben használják hegesztésben, vágásban, gázelosztásban, ipari tárolásban és egyéb gázellátási területeken.",
-    "text2": "Támogatjuk a tengerentúli vásárlókat a termékválasztásban, a testreszabásban, a minőségellenőrzésben, a csomagolásban és a szállítás koordinálásában.",
+    "title": "Gázpalack gyártó ipari vásárlóknak",
+    "text": "A Wanda Group acetilénpalackokat, propánpalackokat, generátorokat és tartozékokat gyárt hegesztéshez, vágáshoz és ipari gázellátáshoz.",
+    "text2": "Támogatjuk a tengerentúli vásárlókat termékválasztással, OEM-ekkel, ellenőrzéssel, csomagolással és szállítással.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Gyártás",
+        "desc": "Ipari gázpalackok alakítása, hegesztése, tesztelése és kikészítése."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM támogatás",
+        "desc": "Szín, jelölés, szelep, kupak és csomagolási lehetőségek rendelésre."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Minőségi folyamat",
+        "desc": "Ellenőrzés és tesztelés a rendelési és piaci követelményekhez igazodva."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Nemzetközi export",
+        "desc": "Dokumentáció és csomagolás támogatása tengerentúli ipari vásárlók számára."
       }
     ]
   },
   "gallery": {
     "title": "Gyárunk belsejében",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Valódi növényfotók, élő feladási felvételek és rövid videók a termelési területről.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Éjszakai kiszállítás",
+        "desc": "Egy megrakott utánfutó becsomagolt felszereléssel távozik – az idő és a hely a felvételen."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "A rakomány szállításra előkészítve",
+        "desc": "Kiszállításra összegyűjtött raklapok és alkatrészek. Élő raktári fotó, nem stúdiószett."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Csomagolt készlet",
+        "desc": "A raktárban egymásra rakott kartondobozok, készen állnak a következő kimenő rendelésre."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Kiszállításra csomagolva",
+        "desc": "A hengerek becsomagolva és az üzem udvarán elhelyezve szállítás céljából."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Termelési szállítószalag",
+        "desc": "A hengertestek áthaladnak az alakító- és kezelővonalon."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "LPG befejező vonal",
+        "desc": "Csomagolás előtt festett PB-palackok a felső szállítószalagon."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "A növény belsejében",
+        "desc": "A gyártócsarnok – emberek, gépek és gyártás közbeni készlet."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Hegesztett hengertestek",
+        "desc": "Köpenyek körhegesztés után, festés előtt és szelepek."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Kagylók festés előtt",
+        "desc": "A festetlen testek a padlóra rakva a következő folyamatlépéshez."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Folyamatban lévő készlet",
+        "desc": "Összeszerelésre váró csőszakaszok és kupakkal ellátott héjak."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Hengertestek raktáron",
+        "desc": "Hengerelt héjak egymásra hegesztés után, fejek és szelepek előtt."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Alapgyűrűk",
+        "desc": "Hengerhéjra hegesztésre előkészített lábgyűrűk."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Csomagolt szerelvények",
+        "desc": "Szelepek és szerelvények habszivaccsal dobozos kivitelhez."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Acetilén generátor",
+        "desc": "Generátor egység tömlővel és szerelvényekkel, készen áll az üzem elhagyására."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Kagylók a padlón",
+        "desc": "Nyitott nyakú testek hegesztés után – a tétel a szelep felszerelése előtt."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Gyári videók",
+    "videosSubtitle": "Új rövidnadrág az üzem padlójáról. További felvételeket kérésre privátban küldünk."
   },
   "quality": {
     "title": "Minőségellenőrzés",
     "subtitle": "Minden tétel ugyanazt az utat követi: gyártás, tesztelés, ellenőrzés és végső minőségellenőrzés.",
     "steps": [
       {
-        "title": "Termelés",
-        "desc": "Alakítás, hegesztés és összeszerelés üzemi folyamatirányítás mellett."
+        "title": "Nyersanyag",
+        "desc": "A beérkező anyagokat a rendelési és folyamatkövetelmények alapján felülvizsgáljuk."
       },
       {
-        "title": "Tesztelés",
-        "desc": "Nyomás- és szivárgástesztek, mielőtt a hengerek elhagyják a vezetéket."
+        "title": "Termelés",
+        "desc": "Alakítás, hegesztés és összeszerelés üzemi folyamatirányítás mellett."
       },
       {
         "title": "Ellenőrzés",
         "desc": "Megrendelés szerinti szemrevételezés, jelölés és méretellenőrzés."
       },
       {
+        "title": "Tesztelés",
+        "desc": "Nyomás- és szivárgástesztek, mielőtt a hengerek elhagyják a vezetéket."
+      },
+      {
         "title": "Végső minőségellenőrzés",
-        "desc": "Csomagolás ellenőrzése az exportszállítás előtt."
+        "desc": "Végső minőségellenőrzés a csomagoláshoz való kibocsátás előtt."
+      },
+      {
+        "title": "Csomagolás",
+        "desc": "Szállításra előkészített exportcsomagolás."
+      },
+      {
+        "title": "Szállítás",
+        "desc": "Kimenő rendelések dokumentációjának be- és kiszállítása."
       }
     ]
   },
   "faq": {
     "title": "Gyakran Ismételt Kérdések",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Vállalat, termékek, OEM és export – válaszok a tengerentúli vásárlóknak, mielőtt árajánlatot kérne.",
     "cta": "Nem találta meg a kérdést? Küldje el a terméket, méretet, mennyiséget és célországot – részletes ajánlattal válaszolunk.",
     "ctaBtn": "Kérjen árajánlatot",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videók és dokumentumok",
         "items": [
           {
             "q": "Megnézhetek gyári videókat rendelés előtt?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Igen. Tekintse meg a gyártási videókat ezen az oldalon a Gyár részében. További felvételeket, csomagoló klipeket és tanúsítványokat kérésre privátban küldünk."
           },
           {
             "q": "Biztosítasz termékvideókat, különösen az acetilénpalackokról?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Igen. Az acetilén palackokról videókat, fényképeket és részletes információkat kérése szerint privátban küldünk."
           },
           {
             "q": "Tudsz videókat mutatni a gyártásról és a minőségellenőrzésről?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Igen. A gyártásról, minőségellenőrzésről, csomagolásról és raktári tárolásról elérhető videókat privátban küldjük el, így láthatja, hogyan készülnek a termékek."
           },
           {
             "q": "Kérhetek termékvideót egy konkrét megrendeléshez?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Konkrét megrendeléssel vagy termékkövetelményekkel kapcsolatban forduljon hozzánk – megbeszéljük a videós támogatást, és privátban elküldjük az anyagokat."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Hogyan szerezhetek videókat, tanúsítványokat és árajánlatot?",
+            "a": "A kérdőívben adja meg a termék típusát, hengerméretét, mennyiségét, célországát és azt, hogy mit küldjön: videókat, tanúsítványokat vagy mindkettőt. Privátban elküldjük és árajánlatot készítünk."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Tudsz adni termékfotókat és specifikációkat?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Igen. A termékfotókat, specifikációkat és adatlapokat kérésre privátban küldjük."
           },
           {
             "q": "Hogyan kérhetek árajánlatot kiegészítőkre?",
@@ -427,56 +439,117 @@
         "title": "Költségvetési útmutató az acetilénpalack vásárlásához",
         "desc": "A költségeket befolyásoló tényezők és az optimális ajánlat kiválasztásának módja.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Szintén figyelembe kell venni a szállítást (FOB/CIF), a dokumentumokat és a MOQ-t. 24 órán belül válaszolunk a teljes specifikációval, az átfutási idővel és az Incoterms-szel.",
-          "Pontos árajánlatért adja meg a modellt, a mennyiséget, a rendeltetési országot és a szelepre vonatkozó követelményeket a kapcsolatfelvételi űrlapon – vagy írjon a sales@wandagroups.com címre."
+          "Az acetilén palackok ára függ a térfogattól, a szelep típusától, a célpiacon előírt szabványoktól és a rendelési mennyiségtől. Fix listaárakat nem teszünk közzé a weboldalon.",
+          "A nagyobb tételeket és az OEM opciókat (festés, logó, csomagolás) egyedileg ajánljuk, miután megvizsgáltuk az Ön érdeklődését.",
+          "A szállítási feltételeket (FOB/CIF és hasonlók), a dokumentumokat és az átfutási időt a hivatalos árajánlat erősíti meg.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Kérjen árajánlatot",
-    "subtitle": "Mondja el nekünk a méretet, a mennyiséget, a célországot és az alkalmazást – részletes árajánlatot készítünk.",
+    "title": "Beszéljük meg igényeit",
+    "subtitle": "Mondja el nekünk a terméket, a méretet, a mennyiséget, a célországot és a specifikációkat – értékesítési csapatunk termékinformációkkal és árajánlattal válaszol.",
     "formTitle": "Kérjen árajánlatot",
-    "formSubtitle": "Hagyja el igényeit – értékesítési csapatunk válaszol a termékinformációkkal, az árakkal, a MOQ-val és az átfutási idővel.",
+    "formSubtitle": "Kereskedelmi megkereséshez töltse ki az űrlapot. A kötelező mezők meg vannak jelölve.",
     "name": "Név",
+    "company": "Vállalat",
     "phone": "Telefon / WhatsApp",
     "email": "Email",
     "product": "Termék",
-    "quantity": "Mennyiség",
-    "country": "Célország",
+    "quantity": "Mennyiség (opcionális)",
+    "country": "Célország (nem kötelező)",
     "productOptions": [
       "Acetilén henger",
       "Propán henger",
       "Acetilén generátor",
       "Kiegészítők",
-      "Csomag rendelés",
-      "Cold storage / refrigeration"
+      "Hűtőszekrény/hűtés",
+      "Csomag rendelés"
     ],
+    "quantityPlaceholder": "például 200 db, 1 konténer vagy TBD",
+    "countryPlaceholder": "Ahová az árut szállítják",
     "message": "További követelmények",
     "messagePlaceholder": "Termék, méret, mennyiség, célország...",
-    "submit": "Kérdés küldése",
+    "submit": "Kérdőív benyújtása",
     "sending": "Küldés...",
     "success": "Köszönöm! Hamarosan felvesszük Önnel a kapcsolatot.",
     "sendAnother": "Újabb megkeresés küldése",
     "errorGeneric": "Nem sikerült elküldeni. Kérjük, próbálja újra, vagy írjon nekünk közvetlenül.",
-    "errorNoForm": "Az űrlap nincs konfigurálva. Írjon nekünk a sales@wandagroups.com címre",
-    "privacyPrefix": "Egyetértek a",
-    "privacySuffix": "valamint személyes adataim e megkeresés kezelése érdekében történő feldolgozására.",
-    "privacyLink": "Adatvédelmi szabályzat",
-    "company": "Vállalat",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Küldés e-mail alkalmazáson keresztül",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Egyetértek a",
+    "privacySuffix": ", valamint személyes adataim e megkeresés kezelése érdekében történő feldolgozására.",
+    "privacyLink": "Adatvédelmi szabályzat",
+    "termsAnd": "és a",
+    "termsLink": "Felhasználási feltételek",
+    "requirements": "Követelmények / Előírások",
+    "requirementsPlaceholder": "Szelep típusa, színe, szabvány, csomagolás, OEM jelölés, mennyiségi megjegyzés..."
   },
   "footer": {
     "company": "Wanda Group gázpalack gyártó",
     "tagline": "Professzionális gázpalack gyártás",
     "rights": "© 2026 Wanda Group. Minden jog fenntartva.",
     "privacy": "Adatvédelmi szabályzat",
-    "terms": "Terms of Use"
+    "terms": "Felhasználási feltételek"
+  },
+  "privacy": {
+    "label": "Jogi",
+    "title": "Adatvédelmi szabályzat",
+    "updated": "Utolsó frissítés: 2026. augusztus 25",
+    "intro": [
+      "A Wanda Group (\"mi\", \"mi\") üzemelteti ezt a weboldalt a gázpalackok, tartozékok és a kapcsolódó exportellátás bemutatására, valamint az ipari vásárlók kereskedelmi megkereséseinek fogadására.",
+      "Ez a szabályzat elmagyarázza, hogy milyen személyes adatokat gyűjtünk az oldalon keresztül, miért használjuk azokat, és hogyan léphet velünk kapcsolatba ezzel kapcsolatban. Ezen a weboldalon a gyári gyártási videók láthatók. A tanúsítványfájlokat kérésre privát módon küldjük el."
+    ],
+    "sections": [
+      {
+        "title": "Ki a felelős",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Milyen adatokat gyűjtünk",
+        "body": [
+          "A kérdőív elküldésekor megkapjuk az Ön által megadott adatokat: név, e-mail cím, telefonszám, célország, terméktípus, mennyiség és üzenet.",
+          "A webhely a választott nyelvet a böngészőben is tárolja (localStorage). Nem futtatunk reklámsütiket és nem adunk el látogatólistákat."
+        ]
+      },
+      {
+        "title": "Miért használjuk az adatokat",
+        "body": [
+          "A lekérdezési adatokat kizárólag az Ön kérésének megválaszolására, árajánlat elkészítésére, termékinformációk, videók vagy tanúsítványok küldésére használjuk fel, amelyeket Ön kért, valamint a rendelés koordinálására, ha elkezdjük a közös munkát.",
+          "Jogalap: az Ön hozzájárulása, amikor bejelöli a jelölőnégyzetet az űrlapon, és jogos érdekünk a B2B értékesítési kérések megválaszolásához."
+        ]
+      },
+      {
+        "title": "Ki kapja meg az adatokat",
+        "body": [
+          "Üzenetét e-mailben kézbesítjük értékesítési csapatunknak. Az űrlapot a Web3Forms, az üzenetet számunkra továbbító műszaki szolgáltató dolgozza fel.",
+          "Személyes adatokat nem adunk el. A logisztikai, vizsgálati vagy banki partnerekkel csak akkor oszthatjuk meg a szükséges dolgokat, ha ez egy egyeztetett megrendelés teljesítéséhez szükséges."
+        ]
+      },
+      {
+        "title": "Meddig tartjuk",
+        "body": [
+          "A megkeresési adatokat a kérelem kezeléséhez szükséges ideig, majd ezt követően az értékesítés nyomon követéséhez és elszámolásához szükséges ésszerű ideig tároljuk, kivéve, ha Ön korábban kéri törlését, ha azt jogszabály lehetővé teszi."
+        ]
+      },
+      {
+        "title": "Az Ön jogai",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Biztonság és gyerekek",
+        "body": [
+          "Ésszerű technikai és szervezési lépéseket teszünk az átvitel során és a postafiókunkban lévő üzenetek védelme érdekében. Ez a weboldal üzleti vásárlóknak készült, nem gyermekeknek."
+        ]
+      }
+    ],
+    "contactLead": "Kérdések a szabályzattal kapcsolatban:"
   },
   "ui": {
     "catalog": "Katalógus",
@@ -494,6 +567,7 @@
     "location": "Elhelyezkedés",
     "quoteResponse": "Idézet válasz",
     "support": "Támogatás",
+    "countriesServed": "Export támogatás",
     "exportReady": "Exportálás kész",
     "years": "Évek",
     "acetylene": "Acetilén",
@@ -508,17 +582,25 @@
     "quality": "Minőség",
     "faq": "GYIK",
     "blog": "Blog",
-    "countriesServed": "Kiszolgált országok",
     "searchLanguage": "Nyelv keresése...",
-    "noLanguagesFound": "Nem található nyelv"
+    "noLanguagesFound": "Nem található nyelv",
+    "breadcrumb": "Zsemlemorzsa",
+    "primaryNav": "Elsődleges",
+    "menu": "Menü",
+    "playVideo": "Videó lejátszása",
+    "productGallery": "Termékgaléria",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
     "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "Nemzetközi export",
+    "Minőségellenőrzés",
+    "Piaci szabványok kérésre",
+    "Tömeges megrendelések"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Tanúsítvány",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Dokumentumok a vám- és szabályozó hatóságok számára. A másolatokat kérésre privátban küldjük.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS és minőségi tanúsítvány",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Árképzés és szállítási feltételek",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "A kereskedelmi feltételek megkeresésenként visszaigazolásra kerülnek. Küldje el a termék, a mennyiség és a rendeltetési hely adatait hivatalos árajánlatért.",
+    "note": "Fix listaárakat, MOQ-kat vagy átfutási időket nem teszünk közzé ezen a weboldalon. A pontos kereskedelmi feltételeket egy árajánlatban erősítjük meg, miután megvizsgáltuk az Ön igényeit.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Árképzés",
+        "value": "Kérésre",
+        "desc": "Hivatalos árajánlat a vizsgálat áttekintése után"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Megrendelés alapján megerősítve",
+        "desc": "Modelltől és rendeltetési helytől függ"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Átfutási idő",
+        "value": "Megrendelés alapján megerősítve",
+        "desc": "Megosztva az idézettel"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Fizetés",
+        "value": "Szerződésben megállapodtak",
+        "desc": "A feltételek a gyártás előtt megerősítve"
       }
     ],
     "factors": {
-      "title": "Ártényezők",
+      "title": "Mi befolyásolja az árajánlatot",
       "items": [
-        "Hengertérfogat és modell (2L – 50L)",
-        "Szelep típusa (CGA, GOST, DIN, POL)",
-        "Tanúsítási szabvány (ISO, DOT, TPED)",
-        "OEM: szín, jelölés, csomagolás",
-        "Rendelési mennyiség és Incotermek"
+        "Henger térfogata és modellje",
+        "Szelep típusa és csatlakozási szabványa",
+        "A célpiachoz szükséges szabványok",
+        "OEM szín, jelölés és csomagolás",
+        "Rendelési mennyiség és Incoterm"
       ]
     },
     "samples": [
       {
-        "product": "Acetilén WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Acetilén hengerek",
+        "moq": "Kérésre",
+        "price": "Érdeklődésenként idézve",
+        "lead": "Megrendelés alapján megerősítve"
       },
       {
-        "product": "Acetilén WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Propán/LPG palackok",
+        "moq": "Kérésre",
+        "price": "Érdeklődésenként idézve",
+        "lead": "Megrendelés alapján megerősítve"
       },
       {
-        "product": "Propán WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generátorok",
+        "moq": "Kérésre",
+        "price": "Érdeklődésenként idézve",
+        "lead": "Megrendelés alapján megerősítve"
       },
       {
-        "product": "Propán WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "WG-G20 generátor",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Szabályozó készlet",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Kiegészítők",
+        "moq": "Kérésre",
+        "price": "Érdeklődésenként idézve",
+        "lead": "Megrendelés alapján megerősítve"
       }
     ],
     "tableHeaders": [
       "Termék",
       "MOQ",
-      "Ár (EXW)",
+      "Ár",
       "Átfutási idő"
     ]
   },
   "certifications": {
     "title": "Tanúsítványok és szabványok",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "A szabványokat és a tanúsítási lehetőségeket termék- és célpiaconként tárgyaljuk. A tanúsítvány másolatait kérésre privát módon küldjük el – a fájlokat nem teszik közzé ezen a weboldalon.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Árajánlat fogadása",
-        "desc": "Ár, MOQ, átfutási idő és adatlap 24 órán belül"
+        "desc": "Ár, MOQ, átfutási idő és műszaki adatlap értékesítési csapatunk általi felülvizsgálat után"
       },
       {
         "title": "Megrendelés megerősítése",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "A gyártás megkezdése előtt megállapodott szerződéses és fizetési feltételekről"
       },
       {
         "title": "Gyártás és minőségellenőrzés",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Gyártás és tesztelés. A videókat és a tanúsítványokat kérésre privátban küldjük el"
       },
       {
         "title": "Szállítás",
-        "desc": "Csomagolás, dokumentumok, FOB/CIF/DDP szállítás"
+        "desc": "Csomagolás, dokumentumok és szállítási feltételek a megrendelésben megegyezés szerint"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Amit a vásárlók mondanak",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Idén háromszor rendeltünk újra 40 literes acetilén palackot. A GOST szelepek, az OEM színek és az export csomagolás minden alkalommal megfelelt az első mintának.",
+        "author": "Rusztam Jusupov",
+        "role": "Tulajdonos, hegesztőgáz elosztó",
+        "country": "Üzbegisztán"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Az árajánlat ugyanazon a napon érkezett egyértelmű MOQ-val és átfutási idővel. A propánpalackok POL szelepekkel és teljes csomagolási listával érkeztek – a mi oldalunkon nincs vámkésés.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "role": "Beszerzési vezető, ipari ellátás",
+        "country": "Kazahsztán"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Szabályozóval és tömlővel ellátott palackokat egy konténeres megrendelésként vásárolunk. A dokumentumok és a jelölés készen állt a piacunkra, így a továbbértékesítés egyszerű volt.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Import vevő, gázkészülék kereskedés",
+        "country": "Szaúd-Arábia"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "minőség",
         "eyebrow": "Minőség és biztonság",
         "title": "Az árajánlatba beírható ellenőrzés",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Anyagellenőrzések, szivárgástesztek, szelepnyomaték- és csomagolásfotók. A tanúsítványcsomagokat és a fényképes jelentéseket kérésre privátban küldjük.",
         "points": [
           "Nyomás- és szivárgástesztek",
-          "Certificate package",
+          "Tanúsítványok kérésre",
           "Szállítás előtti fotók"
         ]
       },
       {
         "id": "export",
         "eyebrow": "Globális export",
-        "title": "Kikötőkbe csomagolva, több mint 50 ország számára készen",
+        "title": "Kikötőkbe csomagolva, exportpiacra készen",
         "text": "Exportáljon raklapokat, szelepvédelmet, többnyelvű címkéket és szállítási dokumentumokat az Ön Incotermshez egyeztetve.",
         "points": [
           "FOB / CIF támogatás",
           "Raklapos csomagolás",
           "Átfutási idő 15-25 nap"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Csomagolt gázpalackok a gyár udvarán kiszállításra",
+    "about": "Munkások a Wanda Group gyárában",
+    "accessories": "Gázpalack-tartozékkészlet – szabályozók, tömlők, égők és szerelvények",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Oldott acetilén henger porózus masszával és sárgaréz szeleppel",
+      "Az üzemben fényképezett acetilén generátor",
+      "Propán és LPG palackok többféle méretben és színben",
+      "Hegesztő és vágó tartozékkészlet gázpalackokhoz"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Éjszakai kiszállítás: trélerre rakott csomagolt berendezés",
+      "Raklapok és fém alkatrészek kiszállításhoz",
+      "A raktárban egymásra rakott csomagolt készlet kartondobozok",
+      "Fóliába csomagolt hengerek, a gyár udvarán rendezve",
+      "Gázpalack gyártó szállítószalag az üzem teteje alatt",
+      "LPG-palackok lógnak a felső befejező szállítószalagon",
+      "Munkások sétálnak a Wanda Group gyárában",
+      "Festetlen hegesztett propán hengertestek kétmagasan egymásra rakva",
+      "Festetlen hengerhéjak sora a betonpadlón",
+      "Hengercsőkészlet és kupakos héjak a műhelyben",
+      "Nyers hengertestek egymásra rakva a gyár falához",
+      "Az összeszerelés előtt felhalmozódott acél alapgyűrűk",
+      "Sárgaréz szerelvények kartondobozba csomagolva habbal",
+      "Acetilén generátor tömlővel és dobozos tartozékokkal",
+      "Festetlen hengerhéj hegesztés után nyitott nyakkal"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Léghűtéses kondenzációs egység Copeland félhermetikus kompresszorral",
+      "Léghűtéses kondenzációs egység Bitzer félhermetikus kompresszorral",
+      "Zárt szekrényes hűtőkondenzációs egység",
+      "Nagy teljesítményű, négy ventilátoros léghűtéses kondenzációs egység"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Jogi",
-    "title": "Adatvédelmi szabályzat",
-    "updated": "Utolsó frissítés: 2026. augusztus 25",
-    "intro": [
-      "A Wanda Group (\"mi\", \"mi\") üzemelteti ezt a weboldalt a gázpalackok, tartozékok és a kapcsolódó exportellátás bemutatására, valamint az ipari vásárlók kereskedelmi megkereséseinek fogadására.",
-      "Ez a szabályzat elmagyarázza, hogy milyen személyes adatokat gyűjtünk az oldalon keresztül, miért használjuk azokat, és hogyan léphet velünk kapcsolatba ezzel kapcsolatban. A weboldalon nem teszünk közzé gyári videókat vagy tanúsítványfájlokat; ezeket az anyagokat kérésre privátban küldjük el."
-    ],
-    "sections": [
-      {
-        "title": "Ki a felelős",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Milyen adatokat gyűjtünk",
-        "body": [
-          "A kérdőív elküldésekor megkapjuk az Ön által megadott adatokat: név, e-mail cím, telefonszám, célország, terméktípus, mennyiség és üzenet.",
-          "A webhely a választott nyelvet a böngészőben is tárolja (localStorage). Nem futtatunk reklámsütiket és nem adunk el látogatólistákat."
-        ]
-      },
-      {
-        "title": "Miért használjuk az adatokat",
-        "body": [
-          "A lekérdezési adatokat kizárólag az Ön kérésének megválaszolására, árajánlat elkészítésére, termékinformációk, videók vagy tanúsítványok küldésére használjuk fel, amelyeket Ön kért, valamint a rendelés koordinálására, ha elkezdjük a közös munkát.",
-          "Jogalap: az Ön hozzájárulása, amikor bejelöli a jelölőnégyzetet az űrlapon, és jogos érdekünk a B2B értékesítési kérések megválaszolásához."
-        ]
-      },
-      {
-        "title": "Ki kapja meg az adatokat",
-        "body": [
-          "Üzenetét e-mailben kézbesítjük értékesítési csapatunknak. A konfigurációtól függően az űrlapot a Web3Forms dolgozhatja fel, mint műszaki szolgáltató, amely továbbítja az üzenetet számunkra.",
-          "Személyes adatokat nem adunk el. A logisztikai, vizsgálati vagy banki partnerekkel csak akkor oszthatjuk meg a szükséges dolgokat, ha ez egy egyeztetett megrendelés teljesítéséhez szükséges."
-        ]
-      },
-      {
-        "title": "Meddig tartjuk",
-        "body": [
-          "A megkeresési adatokat a kérelem kezeléséhez szükséges ideig, majd ezt követően az értékesítés nyomon követéséhez és elszámolásához szükséges ésszerű ideig tároljuk, kivéve, ha Ön korábban kéri törlését, ha azt jogszabály lehetővé teszi."
-        ]
-      },
-      {
-        "title": "Az Ön jogai",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Biztonság és gyerekek",
-        "body": [
-          "Ésszerű technikai és szervezési lépéseket teszünk az átvitel során és a postafiókunkban lévő üzenetek védelme érdekében. Ez a weboldal üzleti vásárlóknak készült, nem gyermekeknek."
-        ]
-      }
-    ],
-    "contactLead": "Kérdések a szabályzattal kapcsolatban:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Jogi",
+    "title": "Felhasználási feltételek",
+    "updated": "Utolsó frissítés: 2026. augusztus 27",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Ezek a feltételek szabályozzák a wandagroups.com webhely használatát, amelyet a Wanda Group üzemeltet gázpalackok, generátorok és tartozékok ipari vásárlói számára.",
+      "Az oldal böngészésével vagy kérdés elküldésével elfogadja ezeket a feltételeket és adatvédelmi szabályzatunkat. Ha nem ért egyet, ne használja az oldalt."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Kik vagyunk",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Mire való a weboldal",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Az oldal termékinformációkat mutat be és kereskedelmi megkereséseket fogad. Üzleti vásárlóknak készült, nem magánszemélyként vásárló fogyasztóknak és nem gyermekeknek."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Ajánlatok, árak és rendelések",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Az oldalon feltüntetett árak, MOQ, átfutási idők és specifikációk tájékoztató jellegűek. Az űrlapon vagy a messengeren keresztül érkező üzenet megkeresés, nem megrendelés.",
+          "Szerződés csak akkor jön létre, ha mindkét fél írásban (e-mailben vagy aláírt dokumentumokban) visszaigazolja az ajánlatot, és a megállapodás szerinti letét megérkezik, hacsak a visszaigazolásban másként nem jelezzük."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotók, videók és tanúsítványok",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Az oldalon található gyári fotók és videók illusztrálják a gyártást. A további felvételeket és tanúsítványfájlokat kérésre privát módon küldjük el, és továbbra is bizalmas anyagaink maradnak, hacsak nem mondjuk meg, hogy megoszthatja azokat."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Szellemi tulajdon",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Az ezen a weboldalon található szövegek, fotók, videók, logók és elrendezés a Wanda Group vagy a licencadóink tulajdona. Írásbeli hozzájárulásunk nélkül nem másolhatja a katalógust saját kereskedelmi webhelyére."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Elfogadható használat",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Ne használja vissza a kérdőívet (spam, hamis személyazonosság vagy a webhely megzavarásának kísérlete). Figyelmen kívül hagyhatjuk vagy törölhetjük a visszaélésszerű kéréseket."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Felelősség",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Gondoskodunk az információk pontosságáról, de előfordulhat, hogy az oldal hibákat tartalmaz, vagy átmenetileg nem elérhető. A törvény által megengedett mértékig a Wanda Group nem vállal felelősséget a kizárólag a weboldal használatából eredő közvetett károkért.",
+          "A tényleges szállítási szerződésre vonatkozó felelősséget az adott szerződés és az alkalmazandó jog határozza meg, nem pedig kizárólag a webhely jelen feltételei."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Változások",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Frissíthetjük ezeket a feltételeket. A felül lévő dátum az aktuális verziót mutatja. Az oldal további használata a változtatás után azt jelenti, hogy elfogadja a frissített feltételeket."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Kérdések a kifejezésekkel kapcsolatban:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Termékcsaládunk",
+    "title": "Hűtőegységek",
+    "subtitle": "Különálló Wanda Group termékcsalád – nem harmadik fél katalógusa. Kondenzációs egységek, hűtőkamrák és vasalatok, amelyeket hengerrel vagy önálló rendelésként szállítunk.",
+    "moreLink": "Hűtőtároló berendezések →",
+    "cta": "Kérjen árajánlatot",
+    "alsoTitle": "Igény szerint is elérhető",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Poliuretán hűtőkamra panelek (B1 / B2) és 304 rozsdamentes panelek",
+      "Hidegkamra léghűtők — DL (~0 °C), DD (~-18 °C), DJ (~-25 °C)",
+      "Alumínium elpárologtató tekercsek",
+      "Hűtőkamra ajtók",
+      "Ipari vízhűtők",
+      "Jármű hűtőegységek és mobil hűtőkamrák"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "A Wanda International Trade a gázpalacksor mellett hűtőberendezéseket is szállít: egységeket, paneleket, hűtőket és a kapcsolódó hideglánc-hardvereket. A Copeland, Bitzer és hasonló nevek az egységen belüli kompresszor márkára utalnak, nem pedig ezeknek a cégeknek a márkájára.",
+    "videoTitle": "Céges videó",
+    "videoSubtitle": "A hűtőberendezések sorának áttekintése. További felvételeket kérésre privátban küldünk.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Copeland félhermetikus léghűtéses egység",
+        "spec": "Kondenzációs egység · Copeland kompresszor",
+        "desc": "Léghűtéses kondenzációs egység Copeland félhermetikus kompresszorral hideg helyiségekhez és közepes hőmérsékletű használatra."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bitzer félhermetikus léghűtéses egység",
+        "spec": "Kondenzációs egység · Bitzer kompresszor",
+        "desc": "Léghűtéses kondenzációs egység Bitzer félhermetikus kompresszorral nagyobb igénybevételű és közepes és alacsony hőmérsékletű helyiségekhez."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Zárt doboz típusú egység",
+        "spec": "Szekrény kondenzációs egység",
+        "desc": "Zárt, szekrényes kondenzációs egység olyan helyekhez, ahol nyitott csúszótalp helyett beépített gépre van szükség."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "U-típusú / nagy teljesítményű kondenzációs egység",
+        "spec": "Több ventilátoros léghűtéses",
+        "desc": "Nagyobb léghűtéses kondenzációs egység többventilátoros kondenzátorral nagyobb hűtőházakhoz és folyamathűtéshez."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Kik vagyunk",
+    "title": "Ipari gyártó B2B vásárlók számára",
+    "text": "A Wanda Groups ipari gázpalackokat, generátorokat és hegesztési tartozékokat gyárt és szállít tengerentúli forgalmazók, OEM-partnerek és projektvásárlók számára.",
+    "text2": "Célunk a gyárilag kötött ellátás, a termékválasztás támogatása, a tömeges rendelések és az exportkoordináció – nem a kiskereskedelmi fogyasztói értékesítés.",
+    "cta": "Tudjon meg többet rólunk"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Készen áll árajánlat kérésére?",
+      "quoteCta": "Kérjen árajánlatot",
+      "relatedProducts": "Kapcsolódó termékek",
+      "applications": "Alkalmazások",
+      "standardsTitle": "Szabványok és tanúsítás",
+      "oemTitle": "OEM / testreszabás",
+      "packagingTitle": "Csomagolás és szállítás",
+      "placeholders": {
+        "standards": "A rendelkezésre álló szabványok és tanúsítványok megrendelésenként és rendeltetési piaconként kerülnek megerősítésre. A tanúsítványmásolatokat kérésre privát módon küldik el – a fájlokat nem teszik közzé a weboldalon.",
+        "oem": "Az OEM színek, jelölések, szelepek, kupakok és csomagolási lehetőségek a megrendelésnek és a célpiacnak megfelelően megbeszélhetők.",
+        "packaging": "Az exportcsomagolás és a dokumentáció a rendelési és szállítási feltételek szerint készül."
+      }
+    },
+    "home": {
+      "seoTitle": "Gázpalack gyártó | Ipari OEM és export | Wanda csoportok",
+      "seoDescription": "A Wanda Groups ipari gázpalackokat, generátorokat és hegesztési tartozékokat gyárt OEM-, nagykereskedelmi és nemzetközi exportvásárlók számára."
+    },
+    "about": {
+      "label": "Rólunk",
+      "title": "Gázpalack gyártó ipari vásárlóknak",
+      "subtitle": "Támogatjuk a tengerentúli vásárlókat termékválasztással, OEM-ekkel, ellenőrzéssel, csomagolással és szállítással.",
+      "seoTitle": "A Wanda csoportról",
+      "seoDescription": "A Wanda Group acetilénpalackokat, propánpalackokat, generátorokat és tartozékokat gyárt hegesztéshez, vágáshoz és ipari gázellátáshoz."
+    },
+    "products": {
+      "label": "Termékek",
+      "title": "Termékeink",
+      "subtitle": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+      "seoTitle": "Gázpalack termékek",
+      "seoDescription": "Acetilén hengerek, generátorok, propán hengerek és tartozékok ipari és hegesztési alkalmazásokhoz.",
+      "refrigerationNote": "A Wanda International Trade a gázpalacksor mellett hűtőberendezéseket is szállít: egységeket, paneleket, hűtőket és a kapcsolódó hideglánc-hardvereket. A Copeland, Bitzer és hasonló nevek az egységen belüli kompresszor márkára utalnak, nem pedig ezeknek a cégeknek a márkájára.",
+      "catalog": {
+        "acetylene": {
+          "name": "Oldott acetilén palackok",
+          "overview": "Porózus tömegű és oldószeres acélhengerek az acetilén biztonságos tárolására és szállítására. Hegesztéshez, vágáshoz, keményforrasztáshoz és fémgyártáshoz használják.",
+          "seoTitle": "Acetilén gázpalackok",
+          "seoDescription": "Porózus tömegű és oldószeres acélhengerek az acetilén biztonságos tárolására és szállítására. Hegesztéshez, vágáshoz, keményforrasztáshoz és fémgyártáshoz használják."
+        },
+        "propane": {
+          "name": "Propán hengerek",
+          "overview": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+          "seoTitle": "Propán gázpalackok",
+          "seoDescription": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják."
+        },
+        "lpg": {
+          "name": "LPG hengerek",
+          "overview": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják.",
+          "seoTitle": "LPG gázpalackok",
+          "seoDescription": "Hengerek propán, bután és LPG keverékekhez. Fűtéshez, vágáshoz, keményforrasztáshoz, építőipari és ipari gázellátáshoz használják."
+        },
+        "industrial": {
+          "name": "Ipari gázpalackok",
+          "overview": "Ipari gázpalackok hegesztéshez, vágáshoz és berendezések ellátásához – beleértve az acetilén, propán és LPG opciókat az Ön piacához igazodva.",
+          "seoTitle": "Ipari gázpalackok",
+          "seoDescription": "Ipari gázpalackok hegesztéshez, vágáshoz és berendezések ellátásához a Wanda csoporttól."
+        },
+        "generators": {
+          "name": "Acetilén generátorok",
+          "overview": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül.",
+          "seoTitle": "Acetilén generátorok",
+          "seoDescription": "Berendezés acetilén kalcium-karbidból történő előállításához. Stabil gázellátás hegesztési és ipari igényekhez központi gázinfrastruktúra nélkül."
+        },
+        "accessories": {
+          "name": "Hengertartozékok és szerelvények",
+          "overview": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel.",
+          "seoTitle": "Hegesztési tartozékok",
+          "seoDescription": "Teljes választék a gázpalack biztonságos működéséhez: a mérőeszközöktől a hegesztőpisztolyokig. Egyablakos beszerzés hengerekkel."
+        },
+        "refrigeration": {
+          "name": "Hűtőegységek",
+          "overview": "Különálló Wanda Group termékcsalád – nem harmadik fél katalógusa. Kondenzációs egységek, hűtőkamrák és vasalatok, amelyeket hengerrel vagy önálló rendelésként szállítunk.",
+          "seoTitle": "Hűtőegységek",
+          "seoDescription": "Különálló Wanda Group termékcsalád – nem harmadik fél katalógusa. Kondenzációs egységek, hűtőkamrák és vasalatok, amelyeket hengerrel vagy önálló rendelésként szállítunk."
+        }
+      }
+    },
+    "factory": {
+      "label": "Gyár",
+      "title": "Gyár és gyártás",
+      "subtitle": "Gyártás, ellenőrzés, csomagolás és kiszállítás – valódi üzemfotókkal és gyári videókkal dokumentálva.",
+      "seoTitle": "Gyár és gyártás | Wanda csoportok",
+      "seoDescription": "Valódi növényfotók, élő feladási felvételek és rövid videók a termelési területről.",
+      "sections": [
+        {
+          "title": "Gyártás",
+          "text": "Hengeralakítás, hegesztés és kikészítés az üzemi termelési folyamat részeként."
+        },
+        {
+          "title": "Gyártási folyamat",
+          "text": "A héj előkészítésétől az összeszerelésig és a befejezésig – tekintse meg a folyamat közbeni raktárról és a gyártási padlóról készült felvételeket."
+        },
+        {
+          "title": "Minőségellenőrzés",
+          "text": "Szemrevételezéses, jelölési és méretellenőrzések a palackok szállításra előkészítéséhez."
+        },
+        {
+          "title": "Tesztelés",
+          "text": "Nyomás- és szivárgástesztet alkalmaznak, mielőtt a termékek elhagyják a vonalat, a rendelési követelményeknek megfelelően."
+        },
+        {
+          "title": "Csomagolás",
+          "text": "Az exportcsomagolás védi a hengereket és a szerelvényeket a tengerentúli szállításhoz."
+        },
+        {
+          "title": "Betöltés és exportálás",
+          "text": "Raktári állomásozás, kamionos berakodás és kiszállítási dokumentáció a kimenő rendelésekhez."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Tanúsítványok",
+      "title": "Tanúsítványok és szabványok",
+      "subtitle": "Az alábbiakban felsoroljuk a vásárlók által gyakran kért szabványokat. Az alkalmazhatóság a terméktől és a célpiactól függ. A tanúsítványok másolatait, számait és érvényességét kérésre privát módon megosztjuk – nem teszik közzé ellenőrizetlen állításként.",
+      "seoTitle": "Tanúsítványok és szabványok | Wanda csoportok",
+      "seoDescription": "A Wanda Groups gázpalackokra vonatkozó szabványok piacok szerint. Az igazolás másolatát kérésre privátban biztosítjuk.",
+      "note": "Az igazolás másolatait kérésre privátban küldjük. Nem teszünk közzé tanúsítványfájlokat a weboldalon."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM és nagykereskedelem",
+      "subtitle": "Saját márkás és tömeges szállítási lehetőségek forgalmazók és ipari vásárlók számára.",
+      "seoTitle": "OEM gázpalack ellátás",
+      "seoDescription": "OEM és saját márkás gázpalackok gyártása tengerentúli márkák és forgalmazók számára.",
+      "quoteTitle": "Beszélje meg az OEM követelményeket",
+      "quoteCta": "Kérjen OEM árajánlatot",
+      "capabilities": [
+        {
+          "title": "Egyedi logó",
+          "text": "Embléma és jelölési lehetőségek a megfelelő OEM-megrendelésekhez."
+        },
+        {
+          "title": "Egyedi szín",
+          "text": "A henger színe a piac vagy a márka követelményei szerint."
+        },
+        {
+          "title": "Egyedi csomagolás",
+          "text": "Kartonok, raklapok és csomagolási jelek kivitele rendelésre."
+        },
+        {
+          "title": "Private Label",
+          "text": "Címkézés és márkabemutató a forgalmazói csatornáknak."
+        },
+        {
+          "title": "Tömeges megrendelések",
+          "text": "Nagykereskedelmi mennyiségek projekt- és forgalmazói beszerzésekhez."
+        },
+        {
+          "title": "OEM gyártás",
+          "text": "A termék konfigurációja összhangban van az Ön specifikációjával és piacával."
+        },
+        {
+          "title": "Export támogatás",
+          "text": "Dokumentumok és szállítási koordináció a tengerentúli szállításhoz."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Piacok",
+      "title": "Globális piacok",
+      "subtitle": "Támogatjuk a nemzetközi B2B vásárlókat. Az alábbi régiók a közös kutatási területeket írják le – az egyes országok és projektek esetenkénti megerősítése.",
+      "seoTitle": "Globális piacok | Wanda csoportok exportálása",
+      "seoDescription": "A Wanda Groups nemzetközi ipari vásárlókkal dolgozik Afrikában, Közel-Keleten, Közép-Ázsiában, Délkelet-Ázsiában, Latin-Amerikában és más piacokon.",
+      "note": "Ezen az oldalon nem teszünk közzé ellenőrizetlen országok számát, vásárlók nevét vagy projektreferenciákat.",
+      "regions": [
+        {
+          "title": "Afrika",
+          "text": "Ipari és forgalmazói megkeresések afrikai piacokról."
+        },
+        {
+          "title": "Közel-Kelet",
+          "text": "A vevők hengereket és kapcsolódó berendezéseket szereznek be regionális projektekhez."
+        },
+        {
+          "title": "Közép-Ázsia",
+          "text": "Nagykereskedelmi és projektellátási megbeszélések a közép-ázsiai piacokon."
+        },
+        {
+          "title": "Délkelet-Ázsia",
+          "text": "Ipari vásárlók értékelik az exportpalack-ellátást."
+        },
+        {
+          "title": "Latin-Amerika",
+          "text": "Érdeklődés ipari gázpalack és tartozék szállítással kapcsolatban."
+        },
+        {
+          "title": "Egyéb nemzetközi piacok",
+          "text": "A további célállomásokat a termékszabvány és a logisztika alapján felülvizsgálják."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Alkalmazások",
+      "title": "Hengeres alkalmazások",
+      "subtitle": "Általános ipari gázfeladatokra és tengerentúli vásárlói igényekre tervezett termékek.",
+      "seoTitle": "Hengeres alkalmazások",
+      "seoDescription": "Általános ipari gázfeladatokra és tengerentúli vásárlói igényekre tervezett termékek.",
+      "items": [
+        {
+          "title": "Hegesztés és keményforrasztás",
+          "text": "Oldott acetilén és kapcsolódó berendezések műhely- és gyártási hegesztéshez."
+        },
+        {
+          "title": "Fémvágás",
+          "text": "Hengerek és tartozékok oxigén-üzemanyag-vágáshoz a helyszínen és az üzemben."
+        },
+        {
+          "title": "Ipari gázellátás",
+          "text": "Ipari elosztó és üzemi gázrendszerek palackellátása."
+        },
+        {
+          "title": "Építés",
+          "text": "Hordozható gázellátás építési és karbantartási munkákhoz."
+        },
+        {
+          "title": "Fém gyártás",
+          "text": "Hengerek és tartozékok gyártóüzletek és hajógyárak számára."
+        },
+        {
+          "title": "Gáztárolás és -elosztás",
+          "text": "Tároló és forgalmazásra kész palackok ipari vásárlóknak."
+        }
+      ]
+    },
+    "faq": {
+      "label": "GYIK",
+      "title": "Gyakran Ismételt Kérdések",
+      "subtitle": "Vállalat, termékek, OEM és export – válaszok a tengerentúli vásárlóknak, mielőtt árajánlatot kérne.",
+      "seoTitle": "GYIK",
+      "seoDescription": "Vállalat, termékek, OEM és export – válaszok a tengerentúli vásárlóknak, mielőtt árajánlatot kérne."
+    },
+    "contactPage": {
+      "label": "Érintkezés",
+      "title": "Beszéljük meg igényeit",
+      "subtitle": "Forduljon értékesítési csapatunkhoz űrlapon, e-mailben vagy messengeren. Ossza meg termékét, mennyiségét és rendeltetési helyét a gyorsabb árajánlatért.",
+      "seoTitle": "Kérjen árajánlatot",
+      "seoDescription": "Mondja el nekünk a méretet, a mennyiséget, a célországot és az alkalmazást – részletes árajánlatot készítünk."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Legújabb cikkek",
+      "subtitle": "Szakértői tartalom hegesztési és gázellátási szakemberek számára.",
+      "seoTitle": "Cikkek és útmutatók",
+      "seoDescription": "Szakértői tartalom hegesztési és gázellátási szakemberek számára.",
+      "coming": "További vásárlói útmutatók és termékleírások kerülnek ide. Használja a fenti cikkeket, vagy vegye fel velünk a kapcsolatot a termékspecifikus anyagokkal kapcsolatban."
+    },
+    "privacy": {
+      "seoTitle": "Adatvédelmi szabályzat",
+      "seoDescription": "A Wanda Group webhelyének megkereséseire és személyes adataira vonatkozó adatvédelmi szabályzat."
+    },
+    "terms": {
+      "seoTitle": "Felhasználási feltételek",
+      "seoDescription": "A Wanda Group webhely használati feltételei."
+    },
+    "notFound": {
+      "seoTitle": "Az oldal nem található",
+      "seoDescription": "Az Ön által kért oldal nem érhető el.",
+      "title": "Az oldal nem található",
+      "text": "A keresett oldal nem létezik, vagy elköltözött.",
+      "home": "Otthon",
+      "products": "Termékek",
+      "contact": "Lépjen kapcsolatba / kérjen árajánlatot"
+    }
   }
 }

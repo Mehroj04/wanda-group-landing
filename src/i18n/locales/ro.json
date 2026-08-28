@@ -1,56 +1,56 @@
 {
   "nav": {
+    "home": "Acasă",
     "products": "Produse",
-    "specs": "armonizate",
-    "applications": "Utilizări",
+    "specs": "Specificații",
+    "applications": "Aplicații",
     "about": "Despre",
     "gallery": "Galerie",
-    "quality": "Calitatea",
-    "faq": "Întrebări frecvente",
+    "factory": "Fabrică",
+    "quality": "Calitate",
+    "faq": "FAQ",
     "contact": "Contact",
-    "getQuote": "CEREȚI O OFERTĂ",
-    "inquire": "Cerere pret",
+    "getQuote": "Obțineți o cotație",
+    "inquire": "Întrebați →",
     "services": "Servicii",
     "pricing": "Prețuri",
     "accessories": "Accesorii",
-    "home": "Acasă",
-    "factory": "Fabrică",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Depozitare la rece",
+    "cooling": "Răcire",
+    "certifications": "Certificari",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Piețele"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Producator de butelii industriale de gaz",
+    "title": "Producator de butelii si echipamente industriale",
+    "subtitle": "Producerea, furnizarea OEM și en-gros de butelii de acetilenă, butelii de propan/GPL, generatoare și accesorii de sudură pentru cumpărătorii internaționali de export.",
+    "lineGas": "Butelii de gaz",
+    "lineCold": "Unități frigorifice",
+    "cta": "Obțineți o cotație",
+    "ctaSecondary": "Vezi Produse",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Aprovizionare axată pe producător"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Etichetă privată și personalizare"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Asistență pentru transport internațional"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Proces de inspecție și testare"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Opțiuni specifice pieței la cerere"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Accesorii de încredere pentru butelii de gaz",
@@ -59,42 +59,42 @@
   },
   "products": {
     "title": "Produsele noastre",
-    "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudură.",
+    "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+    "viewDetails": "Vedeți detalii",
     "items": [
       {
-        "title": "Cilindru acetilenă",
-        "desc": "Butelii de acetilenă dizolvate pentru sudare, tăiere și gaze industriale. Diferite dimensiuni și opțiuni de supape.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "title": "Cilindru de acetilenă",
+        "spec": "2L–40L · standarde confirmate pe piață",
+        "desc": "Butelii de acetilenă dizolvată pentru sudare, tăiere și alimentare cu gaz industrial.",
+        "icon": "🔥"
       },
       {
         "title": "Generator de acetilenă",
-        "desc": "Echipamente pentru producția stabilă de gaze, operare ușoară și aplicații industriale.",
-        "icon": "⚙️",
-        "spec": "Sisteme industriale de generare"
+        "spec": "Sisteme industriale de generare",
+        "desc": "Echipamente pentru producția stabilă de acetilenă pe șantier și în fabrică.",
+        "icon": "⚙️"
       },
       {
         "title": "Cilindru de propan",
-        "desc": "Butelii durabile pentru propan și GPL — depozitare, încălzire, tăiere și utilizare industrială.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · opțiuni de supapă pe piață",
+        "desc": "Butelii GPL durabile pentru încălzire, tăiere și uz industrial.",
+        "icon": "🛢️"
       },
       {
-        "title": "Accesorii cilindru",
-        "desc": "Furtunuri, manometre, pistolete de tăiere, arzătoare de sudură, supape de siguranță și multe altele.",
-        "icon": "🔧",
-        "spec": "Supape · regulatoare · furtunuri · pistolete"
+        "title": "Accesorii pentru cilindri",
+        "spec": "Supape · regulatoare · furtunuri · pistolete",
+        "desc": "Fitinguri potrivite furnizate cu cilindri sau la comandă separată.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Vedeți detalii"
+    ]
   },
   "specs": {
-    "title": "Specificații tehnice",
-    "subtitle": "Explorați opțiunile buteliei, capacitățile de personalizare și detaliile de expediere înainte de a trimite o solicitare.",
+    "title": "Specificatii tehnice",
+    "subtitle": "Explorați opțiunile de cilindru, capabilitățile de personalizare și detaliile de expediere înainte de a trimite o întrebare.",
     "items": [
       {
-        "title": "Capacitate cilindrică",
-        "desc": "Diverse opțiuni de capacitate și volum în funcție de cerințele aplicației și ale pieței."
+        "title": "Capacitatea cilindrului",
+        "desc": "Diverse opțiuni de capacitate și volum în funcție de aplicație și cerințele pieței."
       },
       {
         "title": "Supape și capace",
@@ -105,14 +105,14 @@
         "desc": "Sistem de umplere poros și solvenți pentru depozitarea stabilă a acetilenei."
       },
       {
-        "title": "Ambalare și expediere",
-        "desc": "Suport pentru ambalare și expediere la export pentru distribuitori și clienții proiectului."
+        "title": "Ambalare și transport",
+        "desc": "Asistență pentru ambalaje de export și livrare pentru distribuitori și clienți de proiect."
       }
     ]
   },
   "applications": {
-    "title": "Aplicații cilindru",
-    "subtitle": "Produse concepute pentru sarcini comune de gaze industriale și cerințe ale cumpărătorilor de peste mări.",
+    "title": "Aplicații pentru cilindri",
+    "subtitle": "Produse concepute pentru sarcini industriale obișnuite privind gazele și cerințele cumpărătorilor de peste mări.",
     "items": [
       "Sudare și lipire",
       "Tăierea metalelor",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "De ce să alegeți Wanda Groups",
+    "subtitle": "Capacități concrete pentru cumpărătorii industriali care evaluează un partener de producție.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Aprovizionare axată pe producător",
+        "desc": "Aprovizionarea cu produse orientată spre producție, nu numai cataloage comerciale."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Suport OEM",
+        "desc": "Culoarea personalizată, marcarea, supapa și ambalajul discutate pe comandă."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Controlul calității",
+        "desc": "Inspecție de la materiale până la ambalare înainte de expediere."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Export internațional",
+        "desc": "Coordonarea ambalării și transporturilor la export pentru cumpărătorii de peste mări."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Personalizarea produsului",
+        "desc": "Specificații adaptate cerințelor pieței și aplicațiilor."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Suport de vânzări receptiv",
+        "desc": "Citate și răspunsuri tehnice prin formular, e-mail și mesageri."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Capacitate de comandă în vrac",
+        "desc": "Cantități angro acceptate pentru distribuitori și cumpărători de proiecte."
       }
     ]
   },
   "about": {
-    "title": "Producător profesionist de butelii cu gaz",
-    "text": "Producătorul de butelii de gaz Wanda Group este specializat în producerea și furnizarea buteliilor de gaz industriale și a accesoriilor aferente. Produsele noastre sunt utilizate pe scară largă în sudare, tăiere, distribuție de gaze, depozitare industrială și alte domenii de aprovizionare cu gaze.",
-    "text2": "Sprijinim cumpărătorii din străinătate în selectarea produselor, personalizarea, inspecția calității, ambalarea și coordonarea transportului.",
+    "title": "Producator de butelii de gaz pentru cumparatori industriali",
+    "text": "Wanda Group produce butelii de acetilenă, butelii de propan, generatoare și accesorii pentru sudare, tăiere și alimentare cu gaz industrial.",
+    "text2": "Sprijinim cumpărătorii de peste mări cu selecția de produse, OEM, inspecție, ambalare și expediere.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Fabricarea",
+        "desc": "Formare, sudare, testare și finisare pentru butelii de gaz industriale."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Suport OEM",
+        "desc": "Opțiuni de culoare, marcare, supapă, capac și ambalare la comandă."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Proces de calitate",
+        "desc": "Inspecție și testare aliniate cu cerințele comenzii și pieței."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Export Internațional",
+        "desc": "Documentare și suport pentru ambalare pentru cumpărătorii industriali de peste mări."
       }
     ]
   },
   "gallery": {
     "title": "În interiorul fabricii noastre",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Fotografii reale ale plantelor, fotografii live de expediere și videoclipuri scurte de la nivelul producției.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Expediere de noapte",
+        "desc": "O remorcă încărcată care pleacă cu echipamentul împachetat - timpul și locul ștampilați pe fotografie."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Marfa pregătită pentru expediere",
+        "desc": "Paleți și piese colectate pentru expediere. O fotografie live din depozit, nu un set de studio."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Stoc ambalat",
+        "desc": "Cutii stivuite în depozit, gata pentru următoarea comandă de ieșire."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Ambalat pentru expediere",
+        "desc": "Cilindri înfășurați și așezați în curtea fabricii pentru expediere."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Transportor de producție",
+        "desc": "Corpuri de cilindru care se deplasează prin linia de formare și manipulare."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Linie de finisare GPL",
+        "desc": "Butelii GPL vopsite pe transportorul deasupra capului înainte de ambalare."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "În interiorul plantei",
+        "desc": "Sala de producție — oameni, mașini și stoc în proces."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Corpuri cilindrice sudate",
+        "desc": "Înveliș după sudarea circumferențială, înainte de vopsire și supape."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Scoici înainte de vopsire",
+        "desc": "Corpuri nevopsite grupate pe podea pentru următoarea etapă a procesului."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Stoc în proces",
+        "desc": "Secțiuni de tub și carcase acoperite în așteptare pentru asamblare."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Corpuri cilindrice pe stoc",
+        "desc": "Coji laminate stivuite după sudare, înainte de capete și supape."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Inele de bază",
+        "desc": "Inele de picior pregătite pentru sudare pe carcasa cilindrului."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Fitinguri ambalate",
+        "desc": "Supape și fitinguri în cutie cu spumă pentru expediere la export."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Generator de acetilenă",
+        "desc": "Un generator cu furtun și fitinguri, gata să părăsească instalația."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Scoici pe podea",
+        "desc": "Corpuri cu gât deschis după sudare — lotul înainte de montarea supapei."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Videoclipuri din fabrică",
+    "videosSubtitle": "Pantaloni scurți noi de la etajul fabricii. Mai multe imagini sunt trimise în privat la cerere."
   },
   "quality": {
     "title": "Controlul calității",
     "subtitle": "Fiecare lot urmează aceeași cale: producție, testare, inspecție și control final al calității.",
     "steps": [
       {
-        "title": "Productie",
-        "desc": "Formare, sudare și asamblare sub controlul procesului din fabrică."
+        "title": "Materii prime",
+        "desc": "Materialele primite sunt revizuite în funcție de cerințele comenzii și ale procesului."
       },
       {
-        "title": "Testare",
-        "desc": "Teste de presiune și de scurgere înainte ca cilindrii să părăsească linia."
+        "title": "Productie",
+        "desc": "Formare, sudare și asamblare sub controlul procesului din fabrică."
       },
       {
         "title": "Inspecţie",
         "desc": "Verificări vizuale, de marcare și dimensionale în funcție de comandă."
       },
       {
-        "title": "Controlul final al calității",
-        "desc": "Inspecția ambalajului înainte de expedierea la export."
+        "title": "Testare",
+        "desc": "Teste de presiune și de scurgere înainte ca cilindrii să părăsească linia."
+      },
+      {
+        "title": "QC final",
+        "desc": "Controlul final al calității înainte de eliberarea pentru ambalare."
+      },
+      {
+        "title": "Ambalare",
+        "desc": "Ambalaj de export pregatit pentru transport."
+      },
+      {
+        "title": "Expediere",
+        "desc": "Încărcarea și expedierea documentației pentru comenzile de ieșire."
       }
     ]
   },
   "faq": {
     "title": "Întrebări frecvente",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Companie, produse, OEM și export - răspunsuri pentru cumpărătorii de peste mări înainte de a solicita o ofertă.",
     "cta": "Nu ți-ai găsit întrebarea? Trimiteți produsul, mărimea, cantitatea și țara de destinație - vă vom răspunde cu o ofertă detaliată.",
     "ctaBtn": "Obțineți o cotație",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Videoclipuri și documente",
         "items": [
           {
             "q": "Pot viziona videoclipuri din fabrică înainte de a plasa o comandă?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Da. Urmăriți videoclipuri de producție în secțiunea Fabrică de pe această pagină. Filmările suplimentare, clipurile de ambalare și certificatele sunt trimise privat la cerere."
           },
           {
             "q": "Oferiți videoclipuri despre produse, în special pentru butelii de acetilenă?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Da. Videoclipurile, fotografiile și informațiile detaliate despre butelii de acetilenă sunt trimise în privat conform solicitării dvs."
           },
           {
             "q": "Puteți afișa videoclipuri cu producția și controlul calității?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Da. Videoclipurile disponibile despre producție, inspecție de calitate, ambalare și depozitare sunt trimise în mod privat, astfel încât să puteți vedea cum sunt pregătite produsele."
           },
           {
             "q": "Pot solicita un videoclip al produsului realizat pentru o anumită comandă?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Pentru o anumită comandă sau cerințe de produs, contactați-ne - vom discuta despre suport video și vom trimite materialele în privat."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Cum obțin videoclipuri, certificate și o cotație?",
+            "a": "În formularul de solicitare, specificați tipul de produs, dimensiunea cilindrului, cantitatea, țara de destinație și ce să trimiteți: videoclipuri, certificate sau ambele. Le vom trimite in privat si vom pregati o oferta."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Puteți furniza fotografii și specificații ale produselor?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Da. Fotografiile produsului, specificațiile și fișele tehnice sunt trimise privat la cerere."
           },
           {
             "q": "Cum pot obține o cotație pentru accesorii?",
@@ -396,106 +408,168 @@
   },
   "articles": {
     "title": "Ultimele articole",
-    "subtitle": "Conținut expert pentru profesioniștii din domeniul sudării și alimentării cu gaz.",
-    "readMore": "Detalii",
-    "close": "Închideți",
+    "subtitle": "Conținut de experți pentru profesioniștii în sudare și furnizare de gaz.",
+    "readMore": "Citește mai mult →",
+    "close": "Aproape",
     "items": [
       {
-        "tag": "MEȘTEȘUGARI",
+        "tag": "Meșteri",
         "title": "Soluție completă de alimentare cu butelie de propan",
-        "desc": "Stabilitatea echipamentului afectează în mod direct eficiența lucrărilor de sudare și tăiere.",
+        "desc": "Stabilitatea echipamentului afectează direct eficiența muncii de sudare și tăiere.",
         "body": [
-          "Pentru meșterii care sudează, repară și fabrică metale în fiecare zi, echipamentele stabile pe gaz afectează în mod direct calitatea și viteza lucrărilor.",
-          "Buteliile de propan Wanda Group sunt disponibile de la 3L la 50L cu supape POL, CGA 510 sau GOST în funcție de piața dvs. — un singur furnizor pentru sudare, tăiere și încălzire.",
-          "Vă recomandăm să comandați cilindri împreună cu regulatoare, furtunuri și pistolete. Pachetul de aprovizionare reduce costurile logistice și asigură compatibilitatea accesoriilor.",
-          "Când comandați, specificați piața țintă, volumul, tipul și culoarea supapei — pregătim marcajul OEM și exportăm ambalajele sub marca dvs."
+          "Pentru meșterii care sudează, repară și fabrică metal în fiecare zi, echipamentul stabil de gaz afectează direct calitatea și viteza muncii.",
+          "Buteliile de propan Wanda Group sunt disponibile de la 3L la 50L cu supape POL, CGA 510 sau GOST, în funcție de piața dvs. - un singur furnizor pentru sudare, tăiere și încălzire.",
+          "Vă recomandăm să comandați cilindri împreună cu regulatoare, furtunuri și torțe. Furnizarea pachetului reduce costurile logistice și asigură compatibilitatea accesoriilor.",
+          "Când comandați, specificați piața țintă, volumul, tipul de supapă și culoarea - pregătim marcarea OEM și ambalajul de export sub marca dvs."
         ]
       },
       {
         "tag": "Depozitare",
-        "title": "Sfaturi pentru depozitarea cilindrului de acetilenă pe termen lung",
-        "desc": "Condiții de depozitare, metode de amplasare și inspecții periodice pentru buteliile neutilizate.",
+        "title": "Sfaturi pentru depozitarea pe termen lung a cilindrului de acetilenă",
+        "desc": "Condiții de depozitare, metode de amplasare și inspecții regulate pentru butelii neutilizați.",
         "body": [
-          "Multe companii depozitează butelii de acetilenă și propan în timpul pauzelor de producție sau ca inventar. Buteliile neutilizate necesită în continuare o manipulare corespunzătoare.",
-          "Depozitați buteliile în poziție verticală într-o zonă bine ventilată, departe de sursele de căldură și de lumina directă a soarelui. Temperatura de depozitare nu trebuie să depășească, de obicei, 40–50°C.",
-          "Verificați supapele, capacele și marcajele cel puțin trimestrial. Pentru depozitarea pe termen lung a acetilenei, păstrați buteliile în poziție verticală și nu permiteți niciodată înclinarea.",
-          "Grupul Wanda livrează butelii cu capace de protecție și ambalaje de export concepute pentru transport și depozitare în condiții de siguranță. Ghidurile de stocare sunt disponibile în limba dvs. la cerere."
+          "Multe companii stochează butelii de acetilenă și propan în timpul pauzelor de producție sau ca stoc. Cilindrii neutilizați necesită încă o manipulare adecvată.",
+          "Depozitați cilindrii în poziție verticală, într-o zonă bine ventilată, departe de sursele de căldură și lumina directă a soarelui. Temperatura de depozitare nu trebuie de obicei să depășească 40-50°C.",
+          "Inspectați supapele, capacele și marcajele cel puțin trimestrial. Pentru depozitarea pe termen lung a acetilenei, mențineți cilindrii verticale și nu permiteți niciodată înclinarea.",
+          "Wanda Group livrează cilindri cu capace de protecție și ambalaje de export concepute pentru transport și depozitare în siguranță. Ghidurile de depozitare sunt disponibile în limba dvs. la cerere."
         ]
       },
       {
         "tag": "Prețuri",
-        "title": "Ghid bugetar pentru achiziționarea cilindrului de acetilenă",
-        "desc": "Factorii care afectează costul și modul de alegere a ofertei optime.",
+        "title": "Ghid de buget pentru achiziționarea buteliilor de acetilenă",
+        "desc": "Factorii care afectează costul și modul de a alege oferta optimă.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "De asemenea, luați în considerare transportul maritim (FOB/CIF), documentele și MOQ. Răspundem în termen de 24 de ore cu specificații complete, timp de execuție și Incoterms.",
-          "Pentru o ofertă exactă, includeți modelul, cantitatea, țara de destinație și cerințele supapei în formularul de contact — sau e-mail sales@wandagroups.com."
+          "Prețul cilindrului de acetilenă depinde de volum, tip de supapă, standardele necesare pentru piața de destinație și cantitatea comenzii. Nu publicăm prețuri fixe pe site.",
+          "Loturile mai mari și opțiunile OEM (vopsire, logo, ambalare) sunt cotate individual după ce examinăm cererea dumneavoastră.",
+          "Termenii de livrare (FOB/CIF și similar), documentele și termenul de livrare sunt confirmați în oferta oficială.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Solicitați o cotație",
-    "subtitle": "Spuneți-ne dimensiunea, cantitatea, țara de destinație și aplicația — vom pregăti o ofertă detaliată.",
+    "title": "Să discutăm despre cerințele dvs",
+    "subtitle": "Spuneți-ne produsul, dimensiunea, cantitatea, țara de destinație și specificațiile - echipa noastră de vânzări va răspunde cu informații despre produs și o ofertă.",
     "formTitle": "Solicitați o cotație",
-    "formSubtitle": "Lăsați cerințele dvs. — echipa noastră de vânzări va răspunde cu informații despre produs, prețuri, MOQ și timp de execuție.",
+    "formSubtitle": "Completați formularul pentru o anchetă comercială. Câmpurile obligatorii sunt marcate.",
     "name": "Nume",
+    "company": "Companie",
     "phone": "Telefon / WhatsApp",
     "email": "E-mail",
     "product": "Produs",
-    "quantity": "Cantitate",
-    "country": "Țara de destinație",
+    "quantity": "Cantitate (optional)",
+    "country": "Țara de destinație (opțional)",
     "productOptions": [
       "Cilindru de acetilenă",
       "Cilindru de propan",
       "Generator de acetilenă",
       "Accesorii",
-      "Comanda pachetului",
-      "Cold storage / refrigeration"
+      "Depozitare la rece/refrigerare",
+      "Comandă pachet"
     ],
+    "quantityPlaceholder": "de ex. 200 buc, 1 container sau TBD",
+    "countryPlaceholder": "Unde vor fi expediate mărfurile",
     "message": "Cerințe suplimentare",
     "messagePlaceholder": "Produs, dimensiune, cantitate, țara de destinație...",
     "submit": "Trimiteți întrebarea",
-    "sending": "Se trimite…",
-    "success": "Vă mulțumim! Vă vom contacta în scurt timp.",
-    "sendAnother": "Trimite o altă solicitare",
-    "errorGeneric": "Trimiterea nu a reușit. Te rugăm să încerci din nou sau să ne trimiți un e-mail direct.",
-    "errorNoForm": "Formularul nu este configurat. Vă rugăm să trimiteți un e-mail la sales@wandagroups.com",
-    "privacyPrefix": "Sunt de acord cu",
-    "privacySuffix": "și la prelucrarea datelor mele personale pentru a gestiona această solicitare.",
-    "privacyLink": "Politica de confidențialitate",
-    "company": "Companie",
+    "sending": "Se trimite...",
+    "success": "Multumesc! Vă vom contacta în scurt timp.",
+    "sendAnother": "Trimite o altă întrebare",
+    "errorGeneric": "Trimiterea eșuată. Vă rugăm să încercați din nou sau să ne trimiteți un e-mail direct.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Trimiteți prin aplicația de e-mail",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Sunt de acord cu",
+    "privacySuffix": ", și la prelucrarea datelor mele personale pentru a gestiona această solicitare.",
+    "privacyLink": "Politica de confidențialitate",
+    "termsAnd": "iar cel",
+    "termsLink": "Termeni de utilizare",
+    "requirements": "Cerințe / Specificații",
+    "requirementsPlaceholder": "Tip supapă, culoare, standard, ambalaj, marcare OEM, note de cantitate..."
   },
   "footer": {
-    "company": "Producător cilindru de gaz Wanda Group",
-    "tagline": "Producție profesională de butelii cu gaz",
+    "company": "Producator de butelii de gaz Wanda Group",
+    "tagline": "Producție profesională de butelii de gaz",
     "rights": "© 2026 Wanda Group. Toate drepturile rezervate.",
     "privacy": "Politica de confidențialitate",
-    "terms": "Terms of Use"
+    "terms": "Termeni de utilizare"
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Politica de confidențialitate",
+    "updated": "Ultima actualizare: 25 august 2026",
+    "intro": [
+      "Wanda Group („noi”, „noi”) operează acest site web pentru a prezenta butelii de gaz, accesorii și furnizarea de export aferentă și pentru a primi întrebări comerciale de la cumpărători industriali.",
+      "Această politică explică ce date personale colectăm prin intermediul site-ului, de ce le folosim și cum ne puteți contacta în legătură cu aceasta. Videoclipurile de producție din fabrică sunt afișate pe acest site web. Fișierele certificatelor sunt trimise în mod privat la cerere."
+    ],
+    "sections": [
+      {
+        "title": "Cine este responsabil",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Ce date colectăm",
+        "body": [
+          "Când trimiteți formularul de întrebare primim datele pe care le introduceți: nume, e-mail, telefon, țara de destinație, tip de produs, cantitate și mesaj.",
+          "Site-ul stochează, de asemenea, limba selectată în browser (localStorage). Nu rulăm cookie-uri de publicitate și nu vindem liste de vizitatori."
+        ]
+      },
+      {
+        "title": "De ce folosim datele",
+        "body": [
+          "Folosim datele de solicitare doar pentru a răspunde la cererea dumneavoastră, a pregăti o ofertă, a trimite informații despre produse, videoclipuri sau certificate pe care le-ați solicitat și pentru a coordona o comandă dacă începem să lucrăm împreună.",
+          "Temei juridic: consimțământul dvs. atunci când bifați caseta de selectare din formular și interesul nostru legitim de a răspunde solicitărilor de vânzări B2B."
+        ]
+      },
+      {
+        "title": "Cine primește datele",
+        "body": [
+          "Mesajul dumneavoastră este livrat echipei noastre de vânzări prin e-mail. Formularul este procesat de Web3Forms, un furnizor tehnic care ne transmite mesajul.",
+          "Nu vindem date personale. Putem împărtăși ceea ce este necesar cu partenerii de logistică, de inspecție sau bancar numai dacă acest lucru este necesar pentru a îndeplini o comandă convenită."
+        ]
+      },
+      {
+        "title": "Cât timp îl păstrăm",
+        "body": [
+          "Datele de anchetă sunt păstrate atât timp cât este necesar pentru a gestiona cererea și pentru o perioadă rezonabilă ulterior pentru urmărirea vânzărilor și contabilitate, cu excepția cazului în care ne solicitați să le ștergem mai devreme, acolo unde legea permite."
+        ]
+      },
+      {
+        "title": "Drepturile tale",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Securitate și copii",
+        "body": [
+          "Luăm măsuri tehnice și organizatorice rezonabile pentru a proteja mesajele în tranzit și în căsuța noastră poștală. Acest site este destinat cumpărătorilor de afaceri, nu copiilor."
+        ]
+      }
+    ],
+    "contactLead": "Întrebări despre această politică:"
   },
   "ui": {
     "catalog": "Catalog",
     "catalogTitle": "Specificații detaliate ale produsului",
     "catalogSubtitle": "Date tehnice complete, modele și parametri pentru fiecare categorie. Selectați un produs pentru a vizualiza tabelul cu specificații.",
-    "requestPrice": "Solicitați prețul pentru acest model",
+    "requestPrice": "Solicitați preț pentru acest model",
     "services": "Servicii",
     "pricing": "Prețuri",
-    "getExactQuote": "Obține o ofertă exactă",
-    "certifications": "Certificări",
-    "order": "Comandă",
+    "getExactQuote": "Obțineți o cotație exactă",
+    "certifications": "Certificari",
+    "order": "Comanda",
     "reviews": "Recenzii",
     "contact": "Contact",
     "phone": "Telefon",
-    "location": "Locație",
-    "quoteResponse": "Răspuns la ofertă",
-    "support": "Suport",
-    "exportReady": "Exportul este gata.",
-    "years": "Ani",
+    "location": "Locaţie",
+    "quoteResponse": "Răspuns citat",
+    "support": "Sprijin",
+    "countriesServed": "Suport pentru export",
+    "exportReady": "Export gata",
+    "years": "ani",
     "acetylene": "Acetilenă",
     "isoCertified": "Certificat ISO",
     "globalExport": "Export global",
@@ -508,17 +582,25 @@
     "quality": "Calitate",
     "faq": "FAQ",
     "blog": "Blog",
-    "countriesServed": "Țările deservite",
     "searchLanguage": "Căutați limba...",
-    "noLanguagesFound": "Nu s-au găsit limbi"
+    "noLanguagesFound": "Nu s-au găsit limbi",
+    "breadcrumb": "Pesmet",
+    "primaryNav": "Primar",
+    "menu": "Meniu",
+    "playVideo": "Redați videoclipul",
+    "productGallery": "Galerie de produse",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Etichetă privată",
+    "Export Internațional",
+    "Controlul calității",
+    "Standarde de piață la cerere",
+    "Comenzi în vrac"
   ],
   "productDetails": {
     "tabs": {
@@ -532,7 +614,7 @@
       "intro": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor.",
       "features": [
         "Masă poroasă + acetonă pentru depozitare stabilă",
-        "Vane CGA 510 / GOST / DIN la cerere",
+        "Supape CGA 510 / GOST / DIN la cerere",
         "Presiune de încercare hidraulică 5,2 MPa",
         "Vopsire RAL, ștanțare și etichete OEM",
         "Ambalaje pentru paleți de export"
@@ -551,7 +633,7 @@
         [
           "WG-2",
           "2",
-          "0,3",
+          "0.3",
           "1.5",
           "5.2",
           "4.5",
@@ -560,7 +642,7 @@
         [
           "WG-5",
           "5",
-          "0,8",
+          "0.8",
           "1.5",
           "5.2",
           "7.2",
@@ -590,7 +672,7 @@
           "6.5",
           "1.5",
           "5.2",
-          "38,0",
+          "38.0",
           "1250"
         ]
       ],
@@ -656,10 +738,10 @@
         [
           "WG-P50",
           "50",
-          "20,0",
+          "20.0",
           "1.8",
           "5.2",
-          "42,0",
+          "42.0",
           "1180"
         ]
       ],
@@ -689,15 +771,15 @@
           "WG-G3",
           "3",
           "12",
-          "1,5–5",
-          "0,5",
+          "1.5–5",
+          "0.5",
           "180"
         ],
         [
           "WG-G5",
           "5",
           "20",
-          "1,5–5",
+          "1.5–5",
           "1.0",
           "280"
         ],
@@ -705,7 +787,7 @@
           "WG-G20",
           "20",
           "80",
-          "1,5–5",
+          "1.5–5",
           "3.5",
           "850"
         ],
@@ -713,7 +795,7 @@
           "WG-G50",
           "50",
           "200",
-          "1,5–5",
+          "1.5–5",
           "7.5",
           "1800"
         ],
@@ -721,7 +803,7 @@
           "WG-G100",
           "100",
           "400",
-          "1,5–5",
+          "1.5–5",
           "15",
           "3200"
         ]
@@ -765,7 +847,7 @@
           "Sudare, tăiere"
         ],
         [
-          "Torte",
+          "torțe",
           "WG-C100, WG-C300",
           "—",
           "Tăiere cu plasmă/oxi"
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Certificare",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Documente pentru autoritățile vamale și de reglementare. Copiile se trimit privat la cerere.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS și certificat de calitate",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Condiții de preț și aprovizionare",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Termenii comerciali sunt confirmați prin solicitare. Trimiteți detalii despre produs, cantitate și destinație pentru o cotație oficială.",
+    "note": "Nu publicăm prețuri de listă fixe, MOQ sau termene de livrare pe acest site web. Termenii comerciali exacti sunt confirmați într-o ofertă după ce examinăm cerințele dumneavoastră.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Prețuri",
+        "value": "La cerere",
+        "desc": "Ofertă oficială după revizuirea anchetei"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Confirmat pe comanda",
+        "desc": "Depinde de model si destinatie"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Perioada de graţie",
+        "value": "Confirmat pe comanda",
+        "desc": "Partajat cu citatul"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Plată",
+        "value": "De acord in contract",
+        "desc": "Condiții confirmate înainte de producție"
       }
     ],
     "factors": {
-      "title": "Factori de preț",
+      "title": "Ce afectează cotația",
       "items": [
-        "Volumul și modelul cilindrului (2L – 50L)",
-        "Tip supapă (CGA, GOST, DIN, POL)",
-        "Standard de certificare (ISO, DOT, TPED)",
-        "OEM: culoare, marcaj, ambalare",
-        "Volumul comenzii și Incoterms"
+        "Volumul și modelul cilindrului",
+        "Tip de supapă și standard de conectare",
+        "Standarde cerute pentru piața de destinație",
+        "Culoarea, marcarea și ambalajul OEM",
+        "Volumul comenzilor și Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acetilenă WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Cilindri de acetilenă",
+        "moq": "La cerere",
+        "price": "Cotat la cerere",
+        "lead": "Confirmat pe comanda"
       },
       {
-        "product": "Acetilenă WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Butelii de propan / GPL",
+        "moq": "La cerere",
+        "price": "Cotat la cerere",
+        "lead": "Confirmat pe comanda"
       },
       {
-        "product": "Propan WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Generatoare",
+        "moq": "La cerere",
+        "price": "Cotat la cerere",
+        "lead": "Confirmat pe comanda"
       },
       {
-        "product": "Propan WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Generator WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Set regulator",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Accesorii",
+        "moq": "La cerere",
+        "price": "Cotat la cerere",
+        "lead": "Confirmat pe comanda"
       }
     ],
     "tableHeaders": [
       "Produs",
       "MOQ",
-      "Preț (EXW)",
+      "Preţ",
       "Perioada de graţie"
     ]
   },
   "certifications": {
     "title": "Certificari si standarde",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Standardele și opțiunile de certificare sunt discutate în funcție de produs și piața de destinație. Copiile certificatelor sunt trimise în mod privat la cerere - fișierele nu sunt publicate pe acest site web.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Primiți cotația",
-        "desc": "Preț, MOQ, termen de livrare și fișă de specificații în 24 de ore"
+        "desc": "Preț, MOQ, termen de livrare și fișă cu specificații după revizuirea de către echipa noastră de vânzări"
       },
       {
         "title": "Confirmați comanda",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Contractul și termenele de plată convenite înainte de începerea producției"
       },
       {
         "title": "Producție și QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Fabricare și testare. Videoclipurile și certificatele sunt trimise privat la cerere"
       },
       {
         "title": "Expediere",
-        "desc": "Ambalare, documente, livrare FOB/CIF/DDP"
+        "desc": "Ambalare, documente și termene de livrare conform comenzii"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Ce spun cumpărătorii",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "quote": "Am recomandat butelii de acetilenă de 40 L de trei ori anul acesta. Supapele GOST, culoarea OEM și ambalajul de export s-au potrivit de fiecare dată cu primul eșantion.",
         "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "role": "Proprietar, distribuitor gaz de sudura",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Cotația a venit în aceeași zi cu un MOQ clar și un termen de livrare. Sticlele de propan au sosit cu supape POL și o listă completă de ambalare - fără întârzieri vamale din partea noastră.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "role": "Manager achizitii, aprovizionare industriala",
+        "country": "Kazahstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Cumpărăm butelii cu regulatoare și furtunuri ca o comandă de container. Documentele și marcarea erau gata pentru piața noastră, așa că revânzarea a fost simplă.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Cumpărător import, comercializare echipamente gaz",
+        "country": "Arabia Saudită"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "calitate",
         "eyebrow": "Calitate și siguranță",
         "title": "Inspecție puteți pune în cotație",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Verificări materiale, teste de scurgere, cuplul supapelor și fotografiile ambalajului. Pachetele de certificate și rapoartele foto sunt trimise în mod privat la cerere.",
         "points": [
           "Teste de presiune și de scurgere",
-          "Certificate package",
+          "Certificate la cerere",
           "Fotografii înainte de expediere"
         ]
       },
       {
         "id": "export",
         "eyebrow": "Export global",
-        "title": "Ambalat pentru porturi, gata pentru peste 50 de țări",
+        "title": "Ambalate pentru porturi, gata pentru piețele de export",
         "text": "Exportați paleți, protecție pentru supape, etichete multilingve și documente de expediere coordonate pentru Incoterms de destinație.",
         "points": [
           "Suport FOB/CIF",
           "Ambalaj paletizat",
           "Timp de livrare 15-25 zile"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Butelii de gaz împachetate puse în scenă în curtea fabricii pentru expediere",
+    "about": "Muncitori la etajul fabricii Wanda Group",
+    "accessories": "Kit de accesorii pentru butelie de gaz — regulatoare, furtunuri, pistolețe și fitinguri",
     "products": [
       "Cilindru de acetilenă dizolvată cu masă poroasă și supapă de alamă",
-      "Acetylene generator photographed at the plant",
+      "Generator de acetilenă fotografiat la fabrică",
       "Butelii de propan și GPL în mai multe dimensiuni și culori",
       "Kit accesorii pentru sudura si taiere pentru butelii de gaz"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Expediere de noapte: echipament împachetat încărcat pe o remorcă",
+      "Paleți și piese metalice pregătite pentru expediere",
+      "Cutii de stoc stivuite în depozit",
+      "Cilindri învelite în peliculă, montați în curtea fabricii",
+      "Transportor de producție de butelii de gaz sub acoperișul fabricii",
+      "Butelii GPL atârnate pe transportorul de finisare superior",
+      "Muncitori care merg pe podeaua fabricii Wanda Group",
+      "Corpuri de butelii de propan sudate, nevopsite, stivuite la două înălțime",
+      "Rânduri de carcase cilindrice nevopsite pe podeaua de beton",
+      "Stoc de tuburi cilindrice și carcase cu capac în atelier",
+      "Corpuri cilindrice brute stivuite pe peretele fabricii",
+      "Inele de bază din oțel stivuite înainte de asamblare",
+      "Fitinguri din alamă ambalate într-o cutie de carton cu spumă",
+      "Generator de acetilenă cu furtun și accesorii în cutie",
+      "Carcase cilindrice nevopsite cu gâturile deschise după sudare"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Unitate de condensare răcită cu aer cu compresor semi-ermetic Copeland",
+      "Unitate de condensare răcită cu aer cu compresor semiermetic Bitzer",
+      "Unitate de condensare frigorifică închisă în stil dulap",
+      "Unitate de condensare cu patru ventilatoare de mare capacitate, răcită cu aer"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Legal",
-    "title": "Politica de confidențialitate",
-    "updated": "Ultima actualizare: 25 august 2026",
-    "intro": [
-      "Wanda Group („noi”, „noi”) operează acest site web pentru a prezenta butelii de gaz, accesorii și furnizarea de export aferentă și pentru a primi întrebări comerciale de la cumpărători industriali.",
-      "Această politică explică ce date personale colectăm prin intermediul site-ului, de ce le folosim și cum ne puteți contacta în legătură cu aceasta. Nu publicăm videoclipuri din fabrică sau fișiere de certificat pe site; acele materiale sunt trimise privat la cerere."
-    ],
-    "sections": [
-      {
-        "title": "Cine este responsabil",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Ce date colectăm",
-        "body": [
-          "Când trimiteți formularul de întrebare primim datele pe care le introduceți: nume, e-mail, telefon, țara de destinație, tip de produs, cantitate și mesaj.",
-          "Site-ul stochează, de asemenea, limba selectată în browser (localStorage). Nu rulăm cookie-uri de publicitate și nu vindem liste de vizitatori."
-        ]
-      },
-      {
-        "title": "De ce folosim datele",
-        "body": [
-          "Folosim datele de solicitare doar pentru a răspunde la cererea dumneavoastră, a pregăti o ofertă, a trimite informații despre produse, videoclipuri sau certificate pe care le-ați solicitat și pentru a coordona o comandă dacă începem să lucrăm împreună.",
-          "Temei juridic: consimțământul dvs. atunci când bifați caseta de selectare din formular și interesul nostru legitim de a răspunde solicitărilor de vânzări B2B."
-        ]
-      },
-      {
-        "title": "Cine primește datele",
-        "body": [
-          "Mesajul dumneavoastră este livrat echipei noastre de vânzări prin e-mail. În funcție de configurație, formularul poate fi procesat de Web3Forms ca furnizor tehnic care ne transmite mesajul.",
-          "Nu vindem date personale. Putem împărtăși ceea ce este necesar cu partenerii de logistică, de inspecție sau bancar numai dacă acest lucru este necesar pentru a îndeplini o comandă convenită."
-        ]
-      },
-      {
-        "title": "Cât timp îl păstrăm",
-        "body": [
-          "Datele de anchetă sunt păstrate atât timp cât este necesar pentru a gestiona cererea și pentru o perioadă rezonabilă ulterior pentru urmărirea vânzărilor și contabilitate, cu excepția cazului în care ne solicitați să le ștergem mai devreme, acolo unde legea permite."
-        ]
-      },
-      {
-        "title": "Drepturile tale",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Securitate și copii",
-        "body": [
-          "Luăm măsuri tehnice și organizatorice rezonabile pentru a proteja mesajele în tranzit și în căsuța noastră poștală. Acest site este destinat cumpărătorilor de afaceri, nu copiilor."
-        ]
-      }
-    ],
-    "contactLead": "Întrebări despre această politică:"
-  },
   "terms": {
     "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "title": "Termeni de utilizare",
+    "updated": "Ultima actualizare: 27 august 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Acești termeni guvernează utilizarea wandagroups.com, operat de Wanda Group pentru cumpărătorii industriali de butelii de gaz, generatoare și accesorii.",
+      "Prin navigarea pe site sau prin trimiterea unei întrebări, sunteți de acord cu acești termeni și cu Politica noastră de confidențialitate. Dacă nu sunteți de acord, nu utilizați site-ul."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Cine suntem",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Pentru ce este site-ul",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Site-ul prezintă informații despre produse și primește întrebări comerciale. Este destinat cumpărătorilor de afaceri, nu consumatorilor care fac cumpărături ca persoane fizice și nu copiilor."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Cotații, prețuri și comenzi",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Prețurile, MOQ, termenele de livrare și specificațiile de pe site sunt orientative. Un mesaj prin formular sau prin messenger este o întrebare, nu o comandă.",
+          "Un contract există doar atunci când ambele părți confirmă oferta în scris (e-mail sau documente semnate) și se primește depozitul convenit, cu excepția cazului în care menționăm altfel în acea confirmare."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Fotografii, videoclipuri și certificate",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Fotografiile și videoclipurile din fabrică de pe site ilustrează producția. Filmările suplimentare și fișierele certificate sunt trimise în mod privat la cerere și rămân materialele noastre confidențiale, cu excepția cazului în care spunem că le puteți partaja."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Proprietate intelectuală",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Textele, fotografiile, videoclipurile, siglele și aspectul de pe acest site aparțin Wanda Group sau licențiatorilor noștri. Nu puteți copia catalogul pentru propriul site comercial fără acordul nostru scris."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Utilizare acceptabilă",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Nu folosiți greșit formularul de întrebare (spam, identitate falsă sau încercări de a perturba site-ul). Este posibil să ignorăm sau să ștergem solicitările abuzive."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Răspundere",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Avem grijă să păstrăm informațiile exacte, dar site-ul poate conține erori sau poate fi temporar indisponibil. În măsura permisă de lege, Wanda Group nu este responsabil pentru pierderile indirecte care decurg numai din utilizarea site-ului web.",
+          "Răspunderea pentru un contract de furnizare real este stabilită în contractul respectiv și în legea aplicabilă, nu numai în termenii acestor site-uri web."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Schimbări",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Este posibil să actualizăm acești termeni. Data din partea de sus arată versiunea curentă. Utilizarea în continuare a site-ului după o modificare înseamnă că acceptați termenii actualizați."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Întrebări despre acești termeni:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Linia noastră de produse",
+    "title": "Unități frigorifice",
+    "subtitle": "O linie separată Wanda Group - nu un catalog terță parte. Unități de condensare, camere frigorifice și feronerie, furnizate de noi cu cilindri sau ca comandă autonomă.",
+    "moreLink": "Echipamente frigorifice →",
+    "cta": "Solicitați o cotație",
+    "alsoTitle": "De asemenea, disponibil la cerere",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Panouri din poliuretan pentru camere frigorifice (B1 / B2) si panouri din inox 304",
+      "Răcitoare de aer pentru camere frigorifice — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Baterii evaporator din aluminiu",
+      "Uși pentru camere frigorifice",
+      "Răcitoare industriale de apă",
+      "Unități frigorifice pentru vehicule și camere frigorifice mobile"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade furnizează echipamente de refrigerare pe lângă linia de butelii de gaz: unități, panouri, răcitoare și hardware aferente lanțului de frig. Copeland, Bitzer și nume similare se referă la marca compresorului din interiorul unității, nu o rebrand-ul acelor companii.",
+    "videoTitle": "Video companie",
+    "videoSubtitle": "Prezentare generală a liniei de echipamente frigorifice. Mai multe imagini sunt trimise în privat la cerere.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Unitate copeland semi-ermetică răcită cu aer",
+        "spec": "Unitate de condensare · Compresor Copeland",
+        "desc": "Unitate de condensare răcită cu aer cu compresor semi-ermetic Copeland pentru camere frigorifice și funcționare la temperatură medie."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Unitate de răcire cu aer semiermetică Bitzer",
+        "spec": "Unitate de condensare · Compresor Bitzer",
+        "desc": "Unitate de condensare răcită cu aer cu un compresor semi-ermetic Bitzer pentru încăperi cu sarcini mai mari și temperaturi medii până la joase."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Unitate de tip cutie închisă",
+        "spec": "Unitate de condensare a cabinetului",
+        "desc": "Unitate de condensare în stil dulap închis pentru locații care au nevoie de o mașină găzduită, mai degrabă decât de un skid deschis."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Unitate de condensare tip U / de mare capacitate",
+        "spec": "Multi-ventilator racit cu aer",
+        "desc": "Unitate de condensare mai mare, răcită cu aer, cu un condensator cu mai multe ventilatoare, pentru depozite frigorifice mai mari și răcirea procesului."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Cine suntem",
+    "title": "Producător industrial pentru cumpărători B2B",
+    "text": "Wanda Groups produce și furnizează butelii industriale de gaz, generatoare și accesorii de sudură pentru distribuitori de peste mări, parteneri OEM și cumpărători de proiecte.",
+    "text2": "Accentul nostru este aprovizionarea legată de fabrică, asistența pentru selecția produselor, comenzile în vrac și coordonarea exporturilor - nu vânzările consumatorilor cu amănuntul.",
+    "cta": "Aflați mai multe despre noi"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Sunteți gata să solicitați o cotație?",
+      "quoteCta": "Solicitați o cotație",
+      "relatedProducts": "Produse înrudite",
+      "applications": "Aplicații",
+      "standardsTitle": "Standarde și certificare",
+      "oemTitle": "OEM / personalizare",
+      "packagingTitle": "Ambalare și livrare",
+      "placeholders": {
+        "standards": "Standardele și certificatele disponibile sunt confirmate pe comandă și pe piața de destinație. Copiile certificatelor sunt trimise în mod privat la cerere - fișierele nu sunt publicate pe site.",
+        "oem": "Culoarea OEM, marcajul, supapa, capacul și opțiunile de ambalare pot fi discutate în funcție de comandă și de piața țintă.",
+        "packaging": "Ambalarea și documentația de export sunt pregătite conform comenzii și termenilor de livrare."
+      }
+    },
+    "home": {
+      "seoTitle": "Producator de butelii de gaz | OEM industrial și export | Grupuri Wanda",
+      "seoDescription": "Wanda Groups produce butelii industriale de gaz, generatoare și accesorii de sudură pentru cumpărători OEM, angro și internaționali de export."
+    },
+    "about": {
+      "label": "Despre noi",
+      "title": "Producator de butelii de gaz pentru cumparatori industriali",
+      "subtitle": "Sprijinim cumpărătorii de peste mări cu selecția de produse, OEM, inspecție, ambalare și expediere.",
+      "seoTitle": "Despre Wanda Group",
+      "seoDescription": "Wanda Group produce butelii de acetilenă, butelii de propan, generatoare și accesorii pentru sudare, tăiere și alimentare cu gaz industrial."
+    },
+    "products": {
+      "label": "Produse",
+      "title": "Produsele noastre",
+      "subtitle": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+      "seoTitle": "Produse pentru butelii de gaz",
+      "seoDescription": "Butelii de acetilenă, generatoare, butelii de propan și accesorii pentru aplicații industriale și de sudare.",
+      "refrigerationNote": "Wanda International Trade furnizează echipamente de refrigerare pe lângă linia de butelii de gaz: unități, panouri, răcitoare și hardware aferente lanțului de frig. Copeland, Bitzer și nume similare se referă la marca compresorului din interiorul unității, nu o rebrand-ul acelor companii.",
+      "catalog": {
+        "acetylene": {
+          "name": "Cilindri de acetilenă dizolvați",
+          "overview": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor.",
+          "seoTitle": "Butelii cu gaz acetilenă",
+          "seoDescription": "Cilindri de oțel cu masă poroasă și solvent pentru depozitarea și transportul în siguranță a acetilenei. Folosit la sudare, tăiere, lipire și fabricarea metalelor."
+        },
+        "propane": {
+          "name": "Butelii de propan",
+          "overview": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+          "seoTitle": "Butelii de gaz propan",
+          "seoDescription": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial."
+        },
+        "lpg": {
+          "name": "Butelii GPL",
+          "overview": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial.",
+          "seoTitle": "Butelii de gaz GPL",
+          "seoDescription": "Butelii pentru propan, butan și amestecuri GPL. Folosit la încălzire, tăiere, lipire, construcții și alimentare cu gaz industrial."
+        },
+        "industrial": {
+          "name": "Butelii de gaz industriale",
+          "overview": "Butelii industriale de gaz pentru sudare, tăiere și alimentarea instalațiilor — inclusiv opțiuni de acetilenă, propan și GPL potrivite pieței dumneavoastră.",
+          "seoTitle": "Butelii de gaz industriale",
+          "seoDescription": "Butelii industriale de gaz pentru sudare, tăiere și furnizare instalații de la Wanda Group."
+        },
+        "generators": {
+          "name": "Generatoare de acetilenă",
+          "overview": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz.",
+          "seoTitle": "Generatoare de acetilenă",
+          "seoDescription": "Echipament pentru producerea acetilenei din carbură de calciu. Alimentare stabilă cu gaz pentru sudare și nevoi industriale fără infrastructură centralizată de gaz."
+        },
+        "accessories": {
+          "name": "Accesorii și fitinguri pentru cilindri",
+          "overview": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri.",
+          "seoTitle": "Accesorii pentru sudare",
+          "seoDescription": "Gamă completă pentru funcționarea sigură a cilindrului de gaz: de la manometre la pistole de sudură. Aprovizionare unică cu cilindri."
+        },
+        "refrigeration": {
+          "name": "Unități frigorifice",
+          "overview": "O linie separată Wanda Group - nu un catalog terță parte. Unități de condensare, camere frigorifice și feronerie, furnizate de noi cu cilindri sau ca comandă autonomă.",
+          "seoTitle": "Unități frigorifice",
+          "seoDescription": "O linie separată Wanda Group - nu un catalog terță parte. Unități de condensare, camere frigorifice și feronerie, furnizate de noi cu cilindri sau ca comandă autonomă."
+        }
+      }
+    },
+    "factory": {
+      "label": "Fabrică",
+      "title": "Fabrică și producție",
+      "subtitle": "Producție, inspecție, ambalare și expediere — documentate cu fotografii reale ale fabricii și videoclipuri din fabrică.",
+      "seoTitle": "Fabrică și producție | Grupuri Wanda",
+      "seoDescription": "Fotografii reale ale plantelor, fotografii live de expediere și videoclipuri scurte de la nivelul producției.",
+      "sections": [
+        {
+          "title": "Fabricarea",
+          "text": "Formarea cilindrilor, sudarea și finisarea ca parte a fluxului de producție a instalației."
+        },
+        {
+          "title": "Procesul de producție",
+          "text": "De la pregătirea carcasei până la asamblare și finisare - vedeți stocul în proces și filmarea etajului de producție."
+        },
+        {
+          "title": "Inspecție de calitate",
+          "text": "Verificări vizuale, de marcare și dimensionale pentru pregătirea cilindrilor pentru expediere."
+        },
+        {
+          "title": "Testare",
+          "text": "Testarea presiunii și a scurgerilor aplicată înainte ca produsele să părăsească linia, conform cerințelor comenzii."
+        },
+        {
+          "title": "Ambalare",
+          "text": "Ambalajul de export protejează cilindrii și fitingurile pentru transportul peste mări."
+        },
+        {
+          "title": "Încărcare și export",
+          "text": "Organizarea depozitului, încărcarea camioanelor și documentația de expediere pentru comenzile de ieșire."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Certificari",
+      "title": "Certificari si standarde",
+      "subtitle": "Standardele solicitate în mod obișnuit de cumpărători sunt enumerate mai jos. Aplicabilitatea depinde de produs și de piața de destinație. Copiile certificatelor, numerele și valabilitatea sunt partajate în mod privat la cerere - nu sunt publicate ca revendicări neverificate.",
+      "seoTitle": "Certificari si standarde | Grupuri Wanda",
+      "seoDescription": "Standarde discutate pentru buteliile de gaz Wanda Groups pe piață. Copiile certificatelor sunt furnizate în mod privat la cerere.",
+      "note": "Copiile certificatelor se trimit privat la cerere. Nu publicăm fișiere de certificat pe site."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM și comerț cu ridicata",
+      "subtitle": "Etichetă privată și opțiuni de aprovizionare în vrac pentru distribuitori și cumpărători industriali.",
+      "seoTitle": "Aprovizionare cu cilindru de gaz OEM",
+      "seoDescription": "Producție de butelii de gaz OEM și private label pentru mărci și distribuitori de peste mări.",
+      "quoteTitle": "Discutați cerințele OEM",
+      "quoteCta": "Solicitați cotație OEM",
+      "capabilities": [
+        {
+          "title": "Logo personalizat",
+          "text": "Logo-ul și opțiunile de marcare discutate pentru comenzile OEM eligibile."
+        },
+        {
+          "title": "Culoare personalizată",
+          "text": "Culoarea cilindrului în funcție de cerințele pieței sau ale mărcii."
+        },
+        {
+          "title": "Ambalaj personalizat",
+          "text": "Exportați cutii de carton, paleți și mărci de ambalare la comandă."
+        },
+        {
+          "title": "Etichetă privată",
+          "text": "Etichetare și prezentare a mărcii pentru canalele de distribuție."
+        },
+        {
+          "title": "Comenzi în vrac",
+          "text": "Cantități angro pentru achiziție de proiect și distribuitor."
+        },
+        {
+          "title": "Producție OEM",
+          "text": "Configurația produsului aliniată cu specificațiile și piața dvs."
+        },
+        {
+          "title": "Suport pentru export",
+          "text": "Coordonare documente și expediere pentru livrare în străinătate."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Piețele",
+      "title": "Piețele globale",
+      "subtitle": "Sprijinim cumpărătorii internaționali B2B. Regiunile de mai jos descriu zone comune de anchetă — țări și proiecte specifice sunt confirmate de la caz la caz.",
+      "seoTitle": "Piețe globale | Wanda Groups Export",
+      "seoDescription": "Wanda Groups lucrează cu cumpărători industriali internaționali din Africa, Orientul Mijlociu, Asia Centrală, Asia de Sud-Est, America Latină și alte piețe.",
+      "note": "Nu publicăm numărul de țări neverificate, numele clienților sau referințele la proiecte pe această pagină.",
+      "regions": [
+        {
+          "title": "Africa",
+          "text": "Cereri industriale și distribuitori de pe piețele africane."
+        },
+        {
+          "title": "Orientul Mijlociu",
+          "text": "Cumpărători care se aprovizionează cu cilindri și echipamente aferente pentru proiecte regionale."
+        },
+        {
+          "title": "Asia Centrală",
+          "text": "Discuții privind aprovizionarea cu ridicata și proiecte pe piețele din Asia Centrală."
+        },
+        {
+          "title": "Asia de Sud-Est",
+          "text": "Cumpărători industriali care evaluează furnizarea de cilindri de export."
+        },
+        {
+          "title": "America Latină",
+          "text": "Întrebări pentru aprovizionare cu butelie de gaz industrial și accesorii."
+        },
+        {
+          "title": "Alte piețe internaționale",
+          "text": "Destinațiile suplimentare sunt revizuite în funcție de standardul de produs și logistică."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Aplicații",
+      "title": "Aplicații pentru cilindri",
+      "subtitle": "Produse concepute pentru sarcini industriale obișnuite privind gazele și cerințele cumpărătorilor de peste mări.",
+      "seoTitle": "Aplicații pentru cilindri",
+      "seoDescription": "Produse concepute pentru sarcini industriale obișnuite privind gazele și cerințele cumpărătorilor de peste mări.",
+      "items": [
+        {
+          "title": "Sudare și lipire",
+          "text": "Acetilenă dizolvată și echipamente aferente pentru sudarea în atelier și fabricație."
+        },
+        {
+          "title": "Tăierea metalelor",
+          "text": "Cilindri si accesorii pentru debitare oxicombustibil la fata locului si in fabrica."
+        },
+        {
+          "title": "Alimentare cu gaz industrial",
+          "text": "Furnizare de butelii pentru distribuție industrială și sisteme de gaze a instalațiilor."
+        },
+        {
+          "title": "Constructii",
+          "text": "Alimentare portabila cu gaz pentru lucrari de constructii si intretinere."
+        },
+        {
+          "title": "Fabricarea metalelor",
+          "text": "Cilindri si accesorii pentru ateliere de fabricatie si santiere navale."
+        },
+        {
+          "title": "Depozitare și distribuție gaze",
+          "text": "Butelii pregătiți pentru depozitare și distribuție pentru cumpărători industriali."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Întrebări frecvente",
+      "subtitle": "Companie, produse, OEM și export - răspunsuri pentru cumpărătorii de peste mări înainte de a solicita o ofertă.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Companie, produse, OEM și export - răspunsuri pentru cumpărătorii de peste mări înainte de a solicita o ofertă."
+    },
+    "contactPage": {
+      "label": "Contact",
+      "title": "Să discutăm despre cerințele dvs",
+      "subtitle": "Ajungeți la echipa noastră de vânzări prin formular, e-mail sau messenger. Distribuiți produsul, cantitatea și destinația pentru o cotație mai rapidă.",
+      "seoTitle": "Solicitați o cotație",
+      "seoDescription": "Spuneți-ne mărimea, cantitatea, țara de destinație și aplicația — vom pregăti o ofertă detaliată."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Ultimele articole",
+      "subtitle": "Conținut de experți pentru profesioniștii în sudare și furnizare de gaz.",
+      "seoTitle": "Articole și ghiduri",
+      "seoDescription": "Conținut de experți pentru profesioniștii în sudare și furnizare de gaz.",
+      "coming": "Mai multe ghiduri pentru cumpărători și note despre produse vor fi adăugate aici. Utilizați articolele de mai sus sau contactați-ne pentru materiale specifice produsului."
+    },
+    "privacy": {
+      "seoTitle": "Politica de confidențialitate",
+      "seoDescription": "Politica de confidențialitate pentru întrebările site-ului Wanda Group și datele personale."
+    },
+    "terms": {
+      "seoTitle": "Termeni de utilizare",
+      "seoDescription": "Condiții de utilizare pentru site-ul web Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Pagina nu a fost găsită",
+      "seoDescription": "Pagina pe care ați solicitat-o ​​nu este disponibilă.",
+      "title": "Pagina nu a fost găsită",
+      "text": "Pagina pe care o cauți nu există sau s-a mutat.",
+      "home": "Acasă",
+      "products": "Produse",
+      "contact": "Contact / Obțineți o cotație"
+    }
   }
 }

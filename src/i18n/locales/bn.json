@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "বাড়ি",
     "products": "পণ্য",
     "specs": "স্পেসিফিকেশন",
     "applications": "অ্যাপ্লিকেশন",
     "about": "সম্পর্কে",
     "gallery": "গ্যালারি",
+    "factory": "কারখানা",
     "quality": "গুণমান",
     "faq": "FAQ",
     "contact": "যোগাযোগ",
@@ -13,44 +15,42 @@
     "services": "সেবা",
     "pricing": "মূল্য নির্ধারণ",
     "accessories": "আনুষাঙ্গিক",
-    "home": "বাড়ি",
-    "factory": "কারখানা",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "কোল্ড স্টোরেজ",
+    "cooling": "কুলিং",
+    "certifications": "সার্টিফিকেশন",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "বাজার"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "শিল্প গ্যাস সিলিন্ডার প্রস্তুতকারক",
+    "title": "শিল্প গ্যাস সিলিন্ডার এবং সরঞ্জাম প্রস্তুতকারক",
+    "subtitle": "আন্তর্জাতিক রপ্তানি ক্রেতাদের জন্য অ্যাসিটিলিন সিলিন্ডার, প্রোপেন/এলপিজি সিলিন্ডার, জেনারেটর এবং ওয়েল্ডিং আনুষাঙ্গিকগুলির উত্পাদন, OEM এবং পাইকারি সরবরাহ।",
+    "lineGas": "গ্যাস সিলিন্ডার",
+    "lineCold": "হিমায়ন ইউনিট",
+    "cta": "একটি উদ্ধৃতি পান",
+    "ctaSecondary": "পণ্য দেখুন",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "প্রস্তুতকারক-কেন্দ্রিক সরবরাহ"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "ব্যক্তিগত লেবেল এবং কাস্টমাইজেশন"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "আন্তর্জাতিক শিপিং সমর্থন"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "পরিদর্শন এবং পরীক্ষার প্রক্রিয়া"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "অনুরোধে বাজার-নির্দিষ্ট বিকল্প"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "নির্ভরযোগ্য গ্যাস সিলিন্ডার আনুষাঙ্গিক",
@@ -60,33 +60,33 @@
   "products": {
     "title": "আমাদের পণ্য",
     "subtitle": "অ্যাসিটিলিন সিলিন্ডার, জেনারেটর, প্রোপেন সিলিন্ডার এবং শিল্প ও ঢালাই অ্যাপ্লিকেশনের জন্য আনুষাঙ্গিক।",
+    "viewDetails": "বিস্তারিত দেখুন",
     "items": [
       {
         "title": "অ্যাসিটিলিন সিলিন্ডার",
-        "desc": "ঢালাই, কাটা এবং শিল্প গ্যাসের জন্য দ্রবীভূত অ্যাসিটিলিন সিলিন্ডার। বিভিন্ন মাপ এবং ভালভ বিকল্প.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "spec": "2L–40L · বাজার প্রতি মান নিশ্চিত করা হয়েছে",
+        "desc": "ঢালাই, কাটিং এবং শিল্প গ্যাস সরবরাহের জন্য দ্রবীভূত অ্যাসিটিলিন সিলিন্ডার।",
+        "icon": "🔥"
       },
       {
         "title": "অ্যাসিটিলিন জেনারেটর",
-        "desc": "স্থিতিশীল গ্যাস উত্পাদন, সহজ অপারেশন এবং শিল্প অ্যাপ্লিকেশনের জন্য সরঞ্জাম।",
-        "icon": "⚙️",
-        "spec": "শিল্প প্রজন্মের সিস্টেম"
+        "spec": "শিল্প প্রজন্মের সিস্টেম",
+        "desc": "সাইটে এবং উদ্ভিদে স্থিতিশীল অ্যাসিটিলিন উত্পাদনের জন্য সরঞ্জাম।",
+        "icon": "⚙️"
       },
       {
         "title": "প্রোপেন সিলিন্ডার",
-        "desc": "প্রোপেন এবং এলপিজির জন্য টেকসই সিলিন্ডার — স্টোরেজ, হিটিং, কাটিং এবং শিল্প ব্যবহার।",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · বাজার প্রতি ভালভ বিকল্প",
+        "desc": "গরম, কাটা এবং শিল্প ব্যবহারের জন্য টেকসই এলপিজি সিলিন্ডার।",
+        "icon": "🛢️"
       },
       {
         "title": "সিলিন্ডার আনুষাঙ্গিক",
-        "desc": "পায়ের পাতার মোজাবিশেষ, গেজ, কাটিং টর্চ, ওয়েল্ডিং বার্নার, নিরাপত্তা ভালভ এবং আরও অনেক কিছু।",
-        "icon": "🔧",
-        "spec": "ভালভ · নিয়ন্ত্রক · পায়ের পাতার মোজাবিশেষ · টর্চ"
+        "spec": "ভালভ · নিয়ন্ত্রক · পায়ের পাতার মোজাবিশেষ · টর্চ",
+        "desc": "ম্যাচিং ফিটিং সিলিন্ডারের সাথে বা আলাদা অর্ডার হিসাবে সরবরাহ করা হয়।",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "বিস্তারিত দেখুন"
+    ]
   },
   "specs": {
     "title": "প্রযুক্তিগত বিশেষ উল্লেখ",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "কেন ওয়ান্ডা গ্রুপগুলি বেছে নিন",
+    "subtitle": "শিল্প ক্রেতাদের জন্য কংক্রিট ক্ষমতা একটি উত্পাদন অংশীদার মূল্যায়ন.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "প্রস্তুতকারক-কেন্দ্রিক সরবরাহ",
+        "desc": "পণ্য সরবরাহ উৎপাদনের চারপাশে ভিত্তিক, শুধুমাত্র ট্রেডিং ক্যাটালগ নয়।"
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "OEM সমর্থন",
+        "desc": "কাস্টম রঙ, চিহ্নিতকরণ, ভালভ এবং প্যাকিং প্রতি অর্ডার নিয়ে আলোচনা করা হয়েছে।"
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "মান নিয়ন্ত্রণ",
+        "desc": "চালানের আগে প্যাকিংয়ের মাধ্যমে উপকরণ থেকে পরিদর্শন।"
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "আন্তর্জাতিক রপ্তানি",
+        "desc": "বিদেশী ক্রেতাদের জন্য রপ্তানি প্যাকিং এবং শিপিং সমন্বয়."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "পণ্য কাস্টমাইজেশন",
+        "desc": "বাজার এবং অ্যাপ্লিকেশন প্রয়োজনীয়তা অভিযোজিত স্পেসিফিকেশন."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "প্রতিক্রিয়াশীল বিক্রয় সমর্থন",
+        "desc": "ফর্ম, ইমেল এবং মেসেঞ্জারগুলির মাধ্যমে উদ্ধৃতি এবং প্রযুক্তিগত উত্তর।"
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "বাল্ক অর্ডার ক্ষমতা",
+        "desc": "পরিবেশক এবং প্রকল্প ক্রেতাদের জন্য সমর্থিত পাইকারি পরিমাণ।"
       }
     ]
   },
   "about": {
-    "title": "পেশাদার গ্যাস সিলিন্ডার প্রস্তুতকারক",
-    "text": "ওয়ান্ডা গ্রুপ গ্যাস সিলিন্ডার প্রস্তুতকারক শিল্প গ্যাস সিলিন্ডার এবং সম্পর্কিত আনুষাঙ্গিক উত্পাদন এবং সরবরাহে বিশেষজ্ঞ। আমাদের পণ্য ব্যাপকভাবে ঢালাই, কাটিং, গ্যাস বিতরণ, শিল্প স্টোরেজ এবং অন্যান্য গ্যাস সরবরাহ ক্ষেত্রে ব্যবহৃত হয়।",
-    "text2": "আমরা পণ্য নির্বাচন, কাস্টমাইজেশন, গুণমান পরিদর্শন, প্যাকেজিং এবং শিপিং সমন্বয়ে বিদেশী ক্রেতাদের সমর্থন করি।",
+    "title": "শিল্প ক্রেতাদের জন্য গ্যাস সিলিন্ডার প্রস্তুতকারক",
+    "text": "ওয়ান্ডা গ্রুপ ওয়েল্ডিং, কাটিং এবং শিল্প গ্যাস সরবরাহের জন্য অ্যাসিটিলিন সিলিন্ডার, প্রোপেন সিলিন্ডার, জেনারেটর এবং আনুষাঙ্গিক তৈরি করে।",
+    "text2": "আমরা পণ্য নির্বাচন, OEM, পরিদর্শন, প্যাকিং এবং শিপিং সহ বিদেশী ক্রেতাদের সমর্থন করি।",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "ম্যানুফ্যাকচারিং",
+        "desc": "শিল্প গ্যাস সিলিন্ডারের গঠন, ঢালাই, পরীক্ষা এবং সমাপ্তি।"
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "OEM সমর্থন",
+        "desc": "অর্ডার অনুসারে রঙ, চিহ্নিতকরণ, ভালভ, ক্যাপ এবং প্যাকিং বিকল্প।"
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "গুণমান প্রক্রিয়া",
+        "desc": "পরিদর্শন এবং পরীক্ষা অর্ডার এবং বাজারের প্রয়োজনীয়তার সাথে সংযুক্ত।"
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "আন্তর্জাতিক রপ্তানি",
+        "desc": "বিদেশী শিল্প ক্রেতাদের জন্য ডকুমেন্টেশন এবং প্যাকিং সমর্থন।"
       }
     ]
   },
   "gallery": {
     "title": "আমাদের কারখানার ভিতরে",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "বাস্তব গাছের ছবি, লাইভ ডিসপ্যাচ শট এবং প্রোডাকশন ফ্লোর থেকে ছোট ভিডিও।",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "রাতের প্রেরণ",
+        "desc": "মোড়ানো সরঞ্জাম সহ একটি লোড করা ট্রেলার চলে যাচ্ছে — সময় এবং স্থান শটে স্ট্যাম্প করা হয়েছে।"
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "মালপত্র চালানের জন্য মঞ্চস্থ",
+        "desc": "প্যালেট এবং যন্ত্রাংশ প্রেরণের জন্য সংগ্রহ করা হয়েছে। একটি লাইভ গুদামের ছবি, স্টুডিও সেট নয়।"
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "বস্তাবন্দী স্টক",
+        "desc": "কার্টন গুদামে স্তুপীকৃত, পরবর্তী বহির্গামী আদেশের জন্য প্রস্তুত।"
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "প্রেরণের জন্য বস্তাবন্দী",
+        "desc": "সিলিন্ডারগুলি মোড়ানো এবং চালানের জন্য প্ল্যান্ট ইয়ার্ডে মঞ্চস্থ করা হয়েছে।"
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "উৎপাদন পরিবাহক",
+        "desc": "সিলিন্ডারের দেহগুলি গঠন এবং পরিচালনার লাইনের মধ্য দিয়ে চলছে।"
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "এলপিজি ফিনিশিং লাইন",
+        "desc": "প্যাক করার আগে ওভারহেড কনভেয়ারে আঁকা এলপিজি সিলিন্ডার।"
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "গাছের ভিতরে",
+        "desc": "প্রোডাকশন হল - মানুষ, মেশিন এবং ইন-প্রসেস স্টক।"
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "ঢালাই সিলিন্ডার মৃতদেহ",
+        "desc": "পরিধি ঢালাই পরে শেল, পেইন্টিং এবং ভালভ আগে."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "পেইন্টিং আগে শেল",
+        "desc": "পেইন্ট না করা মৃতদেহ পরবর্তী প্রক্রিয়া পদক্ষেপের জন্য মেঝেতে রাখা হয়েছে।"
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "ইন-প্রসেস স্টক",
+        "desc": "টিউব বিভাগ এবং ক্যাপড শেল সমাবেশের জন্য অপেক্ষা করছে।"
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "স্টকে সিলিন্ডার বডি",
+        "desc": "ঘূর্ণিত শাঁস ঢালাই পরে, মাথা এবং ভালভ আগে স্তুপীকৃত."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "বেস রিং",
+        "desc": "সিলিন্ডারের খোসায় ঢালাইয়ের জন্য পায়ের রিং প্রস্তুত।"
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "বস্তাবন্দী জিনিসপত্র",
+        "desc": "ভালভ এবং জিনিসপত্র রপ্তানি চালানের জন্য ফেনা সঙ্গে বক্স করা."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "অ্যাসিটিলিন জেনারেটর",
+        "desc": "পায়ের পাতার মোজাবিশেষ এবং জিনিসপত্র সহ একটি জেনারেটর ইউনিট, উদ্ভিদ ছেড়ে যেতে প্রস্তুত।"
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "মেঝেতে শাঁস",
+        "desc": "ঢালাইয়ের পরে ওপেন-নেক বডি - ভালভ ফিটমেন্টের আগে ব্যাচ।"
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "কারখানার ভিডিও",
+    "videosSubtitle": "উদ্ভিদ মেঝে থেকে নতুন শর্টস. অনুরোধে ব্যক্তিগতভাবে আরও ফুটেজ পাঠানো হয়।"
   },
   "quality": {
     "title": "মান নিয়ন্ত্রণ",
     "subtitle": "প্রতিটি ব্যাচ একই পথ অনুসরণ করে: উত্পাদন, পরীক্ষা, পরিদর্শন এবং চূড়ান্ত মান নিয়ন্ত্রণ।",
     "steps": [
       {
-        "title": "উৎপাদন",
-        "desc": "উদ্ভিদ প্রক্রিয়া নিয়ন্ত্রণের অধীনে গঠন, ঢালাই এবং সমাবেশ।"
+        "title": "কাঁচামাল",
+        "desc": "অর্ডার এবং প্রক্রিয়া প্রয়োজনীয়তার বিরুদ্ধে আগত উপকরণ পর্যালোচনা."
       },
       {
-        "title": "টেস্টিং",
-        "desc": "সিলিন্ডার লাইন ছেড়ে যাওয়ার আগে চাপ এবং লিক পরীক্ষা।"
+        "title": "উৎপাদন",
+        "desc": "উদ্ভিদ প্রক্রিয়া নিয়ন্ত্রণের অধীনে গঠন, ঢালাই এবং সমাবেশ।"
       },
       {
         "title": "পরিদর্শন",
         "desc": "আদেশের বিপরীতে ভিজ্যুয়াল, মার্কিং এবং ডাইমেনশনাল চেক।"
       },
       {
-        "title": "চূড়ান্ত মান নিয়ন্ত্রণ",
-        "desc": "রপ্তানি চালানের আগে প্যাকিং পরিদর্শন।"
+        "title": "টেস্টিং",
+        "desc": "সিলিন্ডার লাইন ছেড়ে যাওয়ার আগে চাপ এবং লিক পরীক্ষা।"
+      },
+      {
+        "title": "চূড়ান্ত QC",
+        "desc": "প্যাকিংয়ের জন্য মুক্তির আগে চূড়ান্ত মান নিয়ন্ত্রণ।"
+      },
+      {
+        "title": "প্যাকেজিং",
+        "desc": "পরিবহন জন্য প্রস্তুত রপ্তানি প্যাকিং."
+      },
+      {
+        "title": "চালান",
+        "desc": "বহির্গামী আদেশের জন্য ডকুমেন্টেশন লোড এবং প্রেরণ করা হচ্ছে।"
       }
     ]
   },
   "faq": {
     "title": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "কোম্পানি, পণ্য, OEM এবং রপ্তানি — আপনি একটি উদ্ধৃতি অনুরোধ করার আগে বিদেশী ক্রেতাদের জন্য উত্তর।",
     "cta": "আপনার প্রশ্ন খুঁজে পাননি? পণ্য, আকার, পরিমাণ এবং গন্তব্য দেশ পাঠান - আমরা একটি বিস্তারিত অফার সহ উত্তর দেব।",
     "ctaBtn": "একটি উদ্ধৃতি পান",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "ভিডিও এবং নথি",
         "items": [
           {
             "q": "অর্ডার দেওয়ার আগে আমি কি ফ্যাক্টরি ভিডিও দেখতে পারি?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "হ্যাঁ। এই পৃষ্ঠায় কারখানা বিভাগে উত্পাদন ভিডিও দেখুন. অতিরিক্ত ফুটেজ, প্যাকিং ক্লিপ এবং সার্টিফিকেট ব্যক্তিগতভাবে অনুরোধে পাঠানো হয়।"
           },
           {
             "q": "আপনি কি পণ্যের ভিডিও প্রদান করেন, বিশেষ করে অ্যাসিটিলিন সিলিন্ডারের জন্য?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "হ্যাঁ। ভিডিও, ফটো এবং অ্যাসিটিলিন সিলিন্ডারের বিস্তারিত তথ্য আপনার অনুরোধ অনুযায়ী ব্যক্তিগতভাবে পাঠানো হয়।"
           },
           {
             "q": "আপনি উত্পাদন এবং মান নিয়ন্ত্রণ ভিডিও দেখাতে পারেন?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "হ্যাঁ। উত্পাদন, গুণমান পরিদর্শন, প্যাকিং এবং গুদাম সঞ্চয়ের উপলব্ধ ভিডিওগুলি ব্যক্তিগতভাবে পাঠানো হয় যাতে আপনি দেখতে পারেন কীভাবে পণ্যগুলি প্রস্তুত করা হয়।"
           },
           {
             "q": "আমি একটি নির্দিষ্ট অর্ডারের জন্য তৈরি একটি পণ্য ভিডিও অনুরোধ করতে পারি?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "একটি নির্দিষ্ট অর্ডার বা পণ্যের প্রয়োজনীয়তার জন্য, আমাদের সাথে যোগাযোগ করুন — আমরা ভিডিও সমর্থন নিয়ে আলোচনা করব এবং সামগ্রীগুলি ব্যক্তিগতভাবে পাঠাব।"
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "আমি কিভাবে ভিডিও, সার্টিফিকেট এবং একটি উদ্ধৃতি পেতে পারি?",
+            "a": "তদন্ত ফর্মে, পণ্যের ধরন, সিলিন্ডারের আকার, পরিমাণ, গন্তব্য দেশ এবং কী পাঠাতে হবে তা উল্লেখ করুন: ভিডিও, শংসাপত্র বা উভয়ই। আমরা তাদের ব্যক্তিগতভাবে পাঠাব এবং একটি অফার প্রস্তুত করব।"
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "আপনি পণ্য ফটো এবং স্পেসিফিকেশন প্রদান করতে পারেন?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "হ্যাঁ। পণ্যের ফটো, স্পেসিফিকেশন এবং ডেটাশীট অনুরোধে ব্যক্তিগতভাবে পাঠানো হয়।"
           },
           {
             "q": "আমি কিভাবে আনুষাঙ্গিক জন্য একটি উদ্ধৃতি পেতে পারি?",
@@ -427,56 +439,117 @@
         "title": "অ্যাসিটিলিন সিলিন্ডার ক্রয়ের জন্য বাজেট নির্দেশিকা",
         "desc": "খরচ প্রভাবিত করার কারণগুলি এবং কীভাবে সর্বোত্তম অফারটি বেছে নেওয়া যায়।",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "শিপিং (এফওবি/সিআইএফ), নথি এবং এমওকিউতেও ফ্যাক্টর। আমরা সম্পূর্ণ স্পেসিফিকেশন, লিড টাইম এবং ইনকোটার্ম সহ 24 ঘন্টার মধ্যে উত্তর দিই।",
-          "একটি সঠিক উদ্ধৃতির জন্য, যোগাযোগ ফর্মে মডেল, পরিমাণ, গন্তব্য দেশ এবং ভালভের প্রয়োজনীয়তা অন্তর্ভুক্ত করুন — অথবা sales@wandagroups.com ইমেল করুন৷"
+          "অ্যাসিটিলিন সিলিন্ডারের দাম নির্ভর করে ভলিউম, ভালভের ধরন, আপনার গন্তব্য বাজারের জন্য প্রয়োজনীয় মান এবং অর্ডারের পরিমাণের উপর। আমরা ওয়েবসাইটে নির্দিষ্ট তালিকার মূল্য প্রকাশ করি না।",
+          "আমরা আপনার অনুসন্ধান পর্যালোচনা করার পরে বড় লট এবং OEM বিকল্পগুলি (পেইন্টিং, লোগো, প্যাকিং) পৃথকভাবে উদ্ধৃত করা হয়।",
+          "শিপিং শর্তাবলী (FOB/CIF এবং অনুরূপ), নথি এবং লিড টাইম আনুষ্ঠানিক উদ্ধৃতিতে নিশ্চিত করা হয়।",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "একটি উদ্ধৃতি অনুরোধ",
-    "subtitle": "আমাদের আকার, পরিমাণ, গন্তব্য দেশ এবং অ্যাপ্লিকেশন বলুন - আমরা একটি বিশদ উদ্ধৃতি প্রস্তুত করব।",
+    "title": "আসুন আপনার প্রয়োজনীয়তা নিয়ে আলোচনা করি",
+    "subtitle": "আমাদের পণ্য, আকার, পরিমাণ, গন্তব্য দেশ এবং স্পেসিফিকেশন বলুন — আমাদের বিক্রয় দল পণ্যের তথ্য এবং একটি উদ্ধৃতি সহ উত্তর দেবে।",
     "formTitle": "একটি উদ্ধৃতি অনুরোধ",
-    "formSubtitle": "আপনার প্রয়োজনীয়তাগুলি ছেড়ে দিন - আমাদের বিক্রয় দল পণ্যের তথ্য, মূল্য, MOQ এবং লিড টাইম সহ প্রতিক্রিয়া জানাবে।",
+    "formSubtitle": "বাণিজ্যিক অনুসন্ধানের জন্য ফর্মটি পূরণ করুন। প্রয়োজনীয় ক্ষেত্রগুলি চিহ্নিত করা হয়েছে।",
     "name": "নাম",
+    "company": "কোম্পানি",
     "phone": "ফোন/হোয়াটসঅ্যাপ",
     "email": "ইমেইল",
     "product": "পণ্য",
-    "quantity": "পরিমাণ",
-    "country": "গন্তব্য দেশ",
+    "quantity": "পরিমাণ (ঐচ্ছিক)",
+    "country": "গন্তব্য দেশ (ঐচ্ছিক)",
     "productOptions": [
       "অ্যাসিটিলিন সিলিন্ডার",
       "প্রোপেন সিলিন্ডার",
       "অ্যাসিটিলিন জেনারেটর",
       "আনুষাঙ্গিক",
-      "বান্ডিল অর্ডার",
-      "Cold storage / refrigeration"
+      "কোল্ড স্টোরেজ / রেফ্রিজারেশন",
+      "বান্ডিল অর্ডার"
     ],
+    "quantityPlaceholder": "যেমন 200 পিসি, 1 ধারক, বা TBD",
+    "countryPlaceholder": "যেখানে পণ্য পাঠানো হবে",
     "message": "অতিরিক্ত প্রয়োজনীয়তা",
     "messagePlaceholder": "পণ্য, আকার, পরিমাণ, গন্তব্য দেশ...",
-    "submit": "তদন্ত পাঠান",
+    "submit": "তদন্ত জমা দিন",
     "sending": "পাঠানো হচ্ছে...",
     "success": "ধন্যবাদ! আমরা শীঘ্রই আপনার সাথে যোগাযোগ করব.",
     "sendAnother": "অন্য তদন্ত পাঠান",
     "errorGeneric": "পাঠাতে ব্যর্থ হয়েছে। আবার চেষ্টা করুন বা সরাসরি আমাদের ইমেল করুন.",
-    "errorNoForm": "ফর্ম কনফিগার করা হয়নি। অনুগ্রহ করে sales@wandagroups.com ইমেল করুন",
-    "privacyPrefix": "আমি রাজি",
-    "privacySuffix": "এবং এই তদন্ত পরিচালনা করার জন্য আমার ব্যক্তিগত ডেটা প্রক্রিয়াকরণের জন্য।",
-    "privacyLink": "গোপনীয়তা নীতি",
-    "company": "কোম্পানি",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "ইমেইল অ্যাপের মাধ্যমে পাঠান",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "আমি রাজি",
+    "privacySuffix": ", এবং এই তদন্ত পরিচালনা করার জন্য আমার ব্যক্তিগত ডেটা প্রক্রিয়াকরণের জন্য।",
+    "privacyLink": "গোপনীয়তা নীতি",
+    "termsAnd": "এবং",
+    "termsLink": "ব্যবহারের শর্তাবলী",
+    "requirements": "প্রয়োজনীয়তা / বিশেষ উল্লেখ",
+    "requirementsPlaceholder": "ভালভ প্রকার, রঙ, মান, প্যাকিং, OEM চিহ্নিতকরণ, পরিমাণ নোট..."
   },
   "footer": {
     "company": "ওয়ান্ডা গ্রুপ গ্যাস সিলিন্ডার প্রস্তুতকারক",
     "tagline": "পেশাদার গ্যাস সিলিন্ডার উত্পাদন",
     "rights": "© 2026 ওয়ান্ডা গ্রুপ। সর্বস্বত্ব সংরক্ষিত",
     "privacy": "গোপনীয়তা নীতি",
-    "terms": "Terms of Use"
+    "terms": "ব্যবহারের শর্তাবলী"
+  },
+  "privacy": {
+    "label": "আইনি",
+    "title": "গোপনীয়তা নীতি",
+    "updated": "সর্বশেষ আপডেট: 25 আগস্ট 2026",
+    "intro": [
+      "ওয়ান্ডা গ্রুপ (\"আমরা\", \"আমাদের\") গ্যাস সিলিন্ডার, আনুষাঙ্গিক এবং সংশ্লিষ্ট রপ্তানি সরবরাহ উপস্থাপন করতে এবং শিল্প ক্রেতাদের কাছ থেকে বাণিজ্যিক অনুসন্ধানগুলি পেতে এই ওয়েবসাইটটি পরিচালনা করে।",
+      "এই নীতিটি ব্যাখ্যা করে যে আমরা সাইটের মাধ্যমে কোন ব্যক্তিগত ডেটা সংগ্রহ করি, কেন আমরা এটি ব্যবহার করি এবং আপনি কীভাবে এটি সম্পর্কে আমাদের সাথে যোগাযোগ করতে পারেন। কারখানা উত্পাদন ভিডিও এই ওয়েবসাইটে দেখানো হয়. সার্টিফিকেট ফাইল অনুরোধে ব্যক্তিগতভাবে পাঠানো হয়."
+    ],
+    "sections": [
+      {
+        "title": "কে দায়ী",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "আমরা কি তথ্য সংগ্রহ করি",
+        "body": [
+          "আপনি যখন অনুসন্ধানের ফর্ম পাঠান তখন আমরা আপনার প্রবেশ করা ডেটা পাই: নাম, ইমেল, ফোন, গন্তব্য দেশ, পণ্যের ধরন, পরিমাণ এবং বার্তা।",
+          "সাইটটি ব্রাউজারে আপনার ভাষা পছন্দ সঞ্চয় করে (স্থানীয় স্টোরেজ)। আমরা বিজ্ঞাপন কুকি চালাই না বা দর্শক তালিকা বিক্রি করি না।"
+        ]
+      },
+      {
+        "title": "কেন আমরা ডেটা ব্যবহার করি",
+        "body": [
+          "আমরা অনুসন্ধানের ডেটা ব্যবহার করি শুধুমাত্র আপনার অনুরোধের উত্তর দিতে, একটি উদ্ধৃতি প্রস্তুত করতে, পণ্যের তথ্য, ভিডিও বা শংসাপত্র যা আপনি চেয়েছেন পাঠাতে এবং যদি আমরা একসাথে কাজ শুরু করি তাহলে একটি অর্ডার সমন্বয় করতে।",
+          "আইনি ভিত্তি: আপনি যখন ফর্মের চেকবক্সে টিক দেন তখন আপনার সম্মতি এবং B2B বিক্রয় অনুরোধের উত্তর দেওয়ার জন্য আমাদের বৈধ আগ্রহ।"
+        ]
+      },
+      {
+        "title": "কে ডেটা গ্রহণ করে",
+        "body": [
+          "আপনার বার্তা আমাদের বিক্রয় দলের কাছে ইমেল দ্বারা বিতরণ করা হয়. ফর্মটি Web3Forms দ্বারা প্রক্রিয়া করা হয়, একটি প্রযুক্তিগত প্রদানকারী যা আমাদের কাছে বার্তা প্রেরণ করে৷",
+          "আমরা ব্যক্তিগত তথ্য বিক্রি করি না। আমরা লজিস্টিক, পরিদর্শন বা ব্যাঙ্কিং অংশীদারদের সাথে যা প্রয়োজন তা শেয়ার করতে পারি শুধুমাত্র যদি এটি একটি সম্মত আদেশ পূরণের জন্য প্রয়োজন হয়।"
+        ]
+      },
+      {
+        "title": "আমরা কতক্ষণ রাখি",
+        "body": [
+          "অনুসন্ধানের ডেটা অনুরোধটি পরিচালনা করার জন্য যতক্ষণ প্রয়োজন ততক্ষণ এবং বিক্রয় ফলো-আপ এবং অ্যাকাউন্টিংয়ের জন্য যুক্তিসঙ্গত সময়ের জন্য রাখা হয়, যদি না আপনি আইন যেখানে অনুমতি দেয় সেখানে আগে এটি মুছে ফেলতে বলেন।"
+        ]
+      },
+      {
+        "title": "আপনার অধিকার",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "নিরাপত্তা এবং শিশু",
+        "body": [
+          "ট্রানজিট এবং আমাদের মেলবক্সে বার্তাগুলিকে সুরক্ষিত করার জন্য আমরা যুক্তিসঙ্গত প্রযুক্তিগত এবং সাংগঠনিক পদক্ষেপ নিই৷ এই ওয়েবসাইটটি ব্যবসায়িক ক্রেতাদের জন্য, শিশুদের জন্য নয়।"
+        ]
+      }
+    ],
+    "contactLead": "এই নীতি সম্পর্কে প্রশ্ন:"
   },
   "ui": {
     "catalog": "ক্যাটালগ",
@@ -494,6 +567,7 @@
     "location": "অবস্থান",
     "quoteResponse": "উদ্ধৃতি প্রতিক্রিয়া",
     "support": "সমর্থন",
+    "countriesServed": "রপ্তানি সমর্থন",
     "exportReady": "রপ্তানি প্রস্তুত",
     "years": "বছর",
     "acetylene": "অ্যাসিটিলিন",
@@ -508,17 +582,25 @@
     "quality": "গুণমান",
     "faq": "FAQ",
     "blog": "ব্লগ",
-    "countriesServed": "দেশ পরিবেশিত",
     "searchLanguage": "ভাষা অনুসন্ধান করুন...",
-    "noLanguagesFound": "কোনো ভাষা পাওয়া যায়নি"
+    "noLanguagesFound": "কোনো ভাষা পাওয়া যায়নি",
+    "breadcrumb": "ব্রেডক্রাম্ব",
+    "primaryNav": "প্রাথমিক",
+    "menu": "মেনু",
+    "playVideo": "ভিডিও চালান",
+    "productGallery": "পণ্য গ্যালারি",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / ব্যক্তিগত লেবেল",
+    "আন্তর্জাতিক রপ্তানি",
+    "মান নিয়ন্ত্রণ",
+    "অনুরোধে বাজার মান",
+    "বাল্ক অর্ডার"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "সার্টিফিকেশন",
-        "desc": "Documents for customs and regulators.",
+        "desc": "কাস্টমস এবং নিয়ন্ত্রকদের জন্য নথি। অনুলিপি ব্যক্তিগতভাবে অনুরোধে পাঠানো হয়.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS এবং মানের শংসাপত্র",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "মূল্য এবং সরবরাহের শর্তাবলী",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "বাণিজ্যিক শর্তাবলী তদন্ত প্রতি নিশ্চিত করা হয়. একটি আনুষ্ঠানিক উদ্ধৃতির জন্য পণ্য, পরিমাণ এবং গন্তব্য বিবরণ পাঠান.",
+    "note": "আমরা এই ওয়েবসাইটে নির্দিষ্ট তালিকা মূল্য, MOQ বা লিড টাইম প্রকাশ করি না। আমরা আপনার প্রয়োজনীয়তা পর্যালোচনা করার পরে সঠিক বাণিজ্যিক শর্তাবলী একটি উদ্ধৃতিতে নিশ্চিত করা হয়।",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "মূল্য নির্ধারণ",
+        "value": "অনুরোধে",
+        "desc": "তদন্ত পর্যালোচনার পর আনুষ্ঠানিক উদ্ধৃতি"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "অর্ডার প্রতি নিশ্চিত",
+        "desc": "মডেল এবং গন্তব্যের উপর নির্ভর করে"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "সীসা সময়",
+        "value": "অর্ডার প্রতি নিশ্চিত",
+        "desc": "উদ্ধৃতি সহ শেয়ার করা হয়েছে"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "পেমেন্ট",
+        "value": "চুক্তিতে রাজি",
+        "desc": "শর্তাবলী উত্পাদন আগে নিশ্চিত"
       }
     ],
     "factors": {
-      "title": "মূল্য ফ্যাক্টর",
+      "title": "কি উদ্ধৃতি প্রভাবিত করে",
       "items": [
-        "সিলিন্ডার ভলিউম এবং মডেল (2L - 50L)",
-        "ভালভ প্রকার (CGA, GOST, DIN, POL)",
-        "সার্টিফিকেশন স্ট্যান্ডার্ড (ISO, DOT, TPED)",
-        "OEM: রঙ, চিহ্নিতকরণ, প্যাকেজিং",
+        "সিলিন্ডার ভলিউম এবং মডেল",
+        "ভালভ প্রকার এবং সংযোগ মান",
+        "গন্তব্য বাজারের জন্য প্রয়োজনীয় মান",
+        "OEM রঙ, চিহ্নিতকরণ এবং প্যাকেজিং",
         "অর্ডার ভলিউম এবং ইনকোটার্ম"
       ]
     },
     "samples": [
       {
-        "product": "অ্যাসিটিলিন WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "অ্যাসিটিলিন সিলিন্ডার",
+        "moq": "অনুরোধে",
+        "price": "তদন্ত প্রতি উদ্ধৃত",
+        "lead": "অর্ডার প্রতি নিশ্চিত"
       },
       {
-        "product": "অ্যাসিটিলিন WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "প্রোপেন / এলপিজি সিলিন্ডার",
+        "moq": "অনুরোধে",
+        "price": "তদন্ত প্রতি উদ্ধৃত",
+        "lead": "অর্ডার প্রতি নিশ্চিত"
       },
       {
-        "product": "প্রোপেন WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "জেনারেটর",
+        "moq": "অনুরোধে",
+        "price": "তদন্ত প্রতি উদ্ধৃত",
+        "lead": "অর্ডার প্রতি নিশ্চিত"
       },
       {
-        "product": "প্রোপেন WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "জেনারেটর WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "রেগুলেটর সেট",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "আনুষাঙ্গিক",
+        "moq": "অনুরোধে",
+        "price": "তদন্ত প্রতি উদ্ধৃত",
+        "lead": "অর্ডার প্রতি নিশ্চিত"
       }
     ],
     "tableHeaders": [
       "পণ্য",
       "MOQ",
-      "মূল্য (EXW)",
+      "দাম",
       "সীসা সময়"
     ]
   },
   "certifications": {
     "title": "সার্টিফিকেশন এবং মান",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "মান এবং সার্টিফিকেশন বিকল্প পণ্য এবং গন্তব্য বাজার অনুযায়ী আলোচনা করা হয়. সার্টিফিকেট কপি ব্যক্তিগতভাবে অনুরোধে পাঠানো হয় — ফাইল এই ওয়েবসাইটে প্রকাশিত হয় না.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "উদ্ধৃতি গ্রহণ করুন",
-        "desc": "24 ঘন্টার মধ্যে মূল্য, MOQ, লিড টাইম এবং স্পেক শীট"
+        "desc": "মূল্য, MOQ, লিড টাইম এবং আমাদের বিক্রয় দলের দ্বারা পর্যালোচনার পরে স্পেক শীট"
       },
       {
         "title": "অর্ডার নিশ্চিত করুন",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "উৎপাদন শুরু হওয়ার আগে চুক্তি এবং অর্থপ্রদানের শর্তাবলী সম্মত হয়"
       },
       {
         "title": "উত্পাদন এবং QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "উত্পাদন এবং পরীক্ষা. ভিডিও এবং সার্টিফিকেট অনুরোধে ব্যক্তিগতভাবে পাঠানো হয়"
       },
       {
         "title": "চালান",
-        "desc": "প্যাকেজিং, নথি, FOB/CIF/DDP ডেলিভারি"
+        "desc": "অর্ডারে সম্মত হিসাবে প্যাকেজিং, নথি এবং বিতরণ শর্তাবলী"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "ক্রেতারা কি বলেন",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "আমরা এই বছর তিনবার 40L অ্যাসিটিলিন সিলিন্ডার পুনরায় সাজিয়েছি। GOST ভালভ, OEM রঙ এবং রপ্তানি প্যাকিং প্রতিবার প্রথম নমুনার সাথে মিলেছে।",
+        "author": "রুস্তম ইউসুপভ",
+        "role": "মালিক, ওয়েল্ডিং গ্যাস ডিস্ট্রিবিউটর",
+        "country": "উজবেকিস্তান"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "উদ্ধৃতি একই দিনে একটি পরিষ্কার MOQ এবং লিড টাইম সহ এসেছিল। প্রোপেন বোতলগুলি POL ভালভ এবং সম্পূর্ণ প্যাকিং তালিকা সহ পৌঁছেছে — আমাদের পক্ষে কোনও কাস্টমস বিলম্ব নেই।",
+        "author": "আইগেরিম বেকোভা",
+        "role": "প্রকিউরমেন্ট ম্যানেজার, শিল্প সরবরাহ",
+        "country": "কাজাখস্তান"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "আমরা একটি কন্টেইনার অর্ডার হিসাবে নিয়ন্ত্রক এবং পায়ের পাতার মোজাবিশেষ সঙ্গে সিলিন্ডার কিনতে. আমাদের বাজারের জন্য নথি এবং চিহ্নিতকরণ প্রস্তুত ছিল, তাই পুনরায় বিক্রয় করা সহজ ছিল।",
+        "author": "ফয়সাল আল-হারবি",
+        "role": "আমদানি ক্রেতা, গ্যাস সরঞ্জাম ট্রেডিং",
+        "country": "সৌদি আরব"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "গুণমান",
         "eyebrow": "গুণমান এবং নিরাপত্তা",
         "title": "পরিদর্শন আপনি উদ্ধৃতি লাগাতে পারেন",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "উপাদান পরীক্ষা, লিক পরীক্ষা, ভালভ টর্ক এবং প্যাকিং ফটো। সার্টিফিকেট প্যাক এবং ফটো রিপোর্ট ব্যক্তিগতভাবে অনুরোধে পাঠানো হয়.",
         "points": [
           "চাপ এবং ফাঁস পরীক্ষা",
-          "Certificate package",
+          "অনুরোধে সার্টিফিকেট",
           "প্রি-শিপমেন্ট ছবি"
         ]
       },
       {
         "id": "রপ্তানি",
         "eyebrow": "বিশ্বব্যাপী রপ্তানি",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "বন্দরের জন্য বস্তাবন্দী, রপ্তানি বাজারের জন্য প্রস্তুত",
         "text": "আপনার গন্তব্য ইনকোটার্মের জন্য সমন্বিত প্যালেট, ভালভ সুরক্ষা, বহুভাষিক লেবেল এবং শিপিং ডক্স রপ্তানি করুন।",
         "points": [
           "FOB/CIF সমর্থন",
           "প্যালেটাইজড প্যাকিং",
           "লিড টাইম 15-25 দিন"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "মোড়ানো গ্যাস সিলিন্ডার পাঠানোর জন্য কারখানার উঠানে মঞ্চস্থ করা হয়েছে",
+    "about": "ওয়ান্ডা গ্রুপের কারখানার মেঝেতে শ্রমিকরা",
+    "accessories": "গ্যাস সিলিন্ডার আনুষঙ্গিক কিট — নিয়ন্ত্রক, পায়ের পাতার মোজাবিশেষ, টর্চ এবং জিনিসপত্র",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "ছিদ্রযুক্ত ভর এবং পিতল ভালভ সহ দ্রবীভূত অ্যাসিটিলিন সিলিন্ডার",
+      "প্ল্যান্টে অ্যাসিটিলিন জেনারেটরের ছবি তোলা",
+      "একাধিক আকার এবং রঙে প্রোপেন এবং এলপিজি সিলিন্ডার",
+      "গ্যাস সিলিন্ডারের জন্য ঢালাই এবং কাটিং আনুষঙ্গিক কিট"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "রাতের প্রেরণ: একটি ট্রেলারে লোড করা মোড়ানো সরঞ্জাম",
+      "চালানের জন্য প্যালেট এবং ধাতু অংশ মঞ্চস্থ",
+      "গুদামে স্তূপ করা বস্তাবন্দী স্টকের কার্টন",
+      "ফিল্মে মোড়ানো সিলিন্ডার, কারখানার উঠানে মঞ্চস্থ করা হয়েছে",
+      "প্ল্যান্টের ছাদের নিচে গ্যাস সিলিন্ডার উৎপাদন পরিবাহক",
+      "ওভারহেড ফিনিশিং কনভেয়ারে ঝুলছে এলপিজি সিলিন্ডার",
+      "ওয়ান্ডা গ্রুপ কারখানার মেঝেতে হাঁটছেন শ্রমিকরা",
+      "পেইন্টেড ঢালাই প্রোপেন সিলিন্ডার মৃতদেহ দুই-উচ্চ স্তুপীকৃত",
+      "কংক্রিটের মেঝেতে রংবিহীন সিলিন্ডারের খোসার সারি",
+      "ওয়ার্কশপে সিলিন্ডার টিউব স্টক এবং ক্যাপড শেল",
+      "কারখানার দেয়ালে স্তূপ করা কাঁচা সিলিন্ডারের লাশ",
+      "ইস্পাত বেস রিং সমাবেশ আগে গাদা",
+      "ফেনা সঙ্গে একটি শক্ত কাগজে বস্তাবন্দী পিতল জিনিসপত্র",
+      "পায়ের পাতার মোজাবিশেষ এবং বাক্সযুক্ত আনুষাঙ্গিক সঙ্গে অ্যাসিটিলিন জেনারেটর",
+      "ঢালাই পরে খোলা ঘাড় সঙ্গে unpainted সিলিন্ডার শেল"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "কোপল্যান্ড আধা-হারমেটিক কম্প্রেসার সহ এয়ার-কুলড কনডেন্সিং ইউনিট",
+      "বিটজার আধা-হারমেটিক কম্প্রেসার সহ এয়ার-কুলড কনডেন্সিং ইউনিট",
+      "আবদ্ধ ক্যাবিনেট-শৈলী রেফ্রিজারেশন ঘনীভূত ইউনিট",
+      "উচ্চ-ক্ষমতার চার-পাখার এয়ার-কুলড কনডেন্সিং ইউনিট"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "আইনি",
-    "title": "গোপনীয়তা নীতি",
-    "updated": "সর্বশেষ আপডেট: 25 আগস্ট 2026",
-    "intro": [
-      "ওয়ান্ডা গ্রুপ (\"আমরা\", \"আমাদের\") গ্যাস সিলিন্ডার, আনুষাঙ্গিক এবং সংশ্লিষ্ট রপ্তানি সরবরাহ উপস্থাপন করতে এবং শিল্প ক্রেতাদের কাছ থেকে বাণিজ্যিক অনুসন্ধানগুলি পেতে এই ওয়েবসাইটটি পরিচালনা করে।",
-      "এই নীতিটি ব্যাখ্যা করে যে আমরা সাইটের মাধ্যমে কোন ব্যক্তিগত ডেটা সংগ্রহ করি, কেন আমরা এটি ব্যবহার করি এবং আপনি কীভাবে এটি সম্পর্কে আমাদের সাথে যোগাযোগ করতে পারেন। আমরা ওয়েবসাইটে কারখানার ভিডিও বা সার্টিফিকেট ফাইল প্রকাশ করি না; এই উপকরণ অনুরোধ ব্যক্তিগতভাবে পাঠানো হয়."
-    ],
-    "sections": [
-      {
-        "title": "কে দায়ী",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "আমরা কি তথ্য সংগ্রহ করি",
-        "body": [
-          "আপনি যখন অনুসন্ধানের ফর্ম পাঠান তখন আমরা আপনার প্রবেশ করা ডেটা পাই: নাম, ইমেল, ফোন, গন্তব্য দেশ, পণ্যের ধরন, পরিমাণ এবং বার্তা।",
-          "সাইটটি ব্রাউজারে আপনার ভাষা পছন্দ সঞ্চয় করে (স্থানীয় স্টোরেজ)। আমরা বিজ্ঞাপন কুকি চালাই না বা দর্শক তালিকা বিক্রি করি না।"
-        ]
-      },
-      {
-        "title": "কেন আমরা ডেটা ব্যবহার করি",
-        "body": [
-          "আমরা অনুসন্ধানের ডেটা ব্যবহার করি শুধুমাত্র আপনার অনুরোধের উত্তর দিতে, একটি উদ্ধৃতি প্রস্তুত করতে, পণ্যের তথ্য, ভিডিও বা শংসাপত্র যা আপনি চেয়েছেন পাঠাতে এবং যদি আমরা একসাথে কাজ শুরু করি তাহলে একটি অর্ডার সমন্বয় করতে।",
-          "আইনি ভিত্তি: আপনি যখন ফর্মের চেকবক্সে টিক দেন তখন আপনার সম্মতি এবং B2B বিক্রয় অনুরোধের উত্তর দেওয়ার জন্য আমাদের বৈধ আগ্রহ।"
-        ]
-      },
-      {
-        "title": "কে ডেটা গ্রহণ করে",
-        "body": [
-          "আপনার বার্তা আমাদের বিক্রয় দলের কাছে ইমেল দ্বারা বিতরণ করা হয়. কনফিগারেশনের উপর নির্ভর করে, ফর্মটি Web3Forms দ্বারা একটি প্রযুক্তিগত প্রদানকারী হিসাবে প্রক্রিয়া করা হতে পারে যা আমাদের কাছে বার্তা প্রেরণ করে।",
-          "আমরা ব্যক্তিগত তথ্য বিক্রি করি না। আমরা লজিস্টিক, পরিদর্শন বা ব্যাঙ্কিং অংশীদারদের সাথে যা প্রয়োজন তা শেয়ার করতে পারি শুধুমাত্র যদি এটি একটি সম্মত আদেশ পূরণের জন্য প্রয়োজন হয়।"
-        ]
-      },
-      {
-        "title": "আমরা কতক্ষণ রাখি",
-        "body": [
-          "অনুসন্ধানের ডেটা অনুরোধটি পরিচালনা করার জন্য যতক্ষণ প্রয়োজন ততক্ষণ এবং বিক্রয় ফলো-আপ এবং অ্যাকাউন্টিংয়ের জন্য যুক্তিসঙ্গত সময়ের জন্য রাখা হয়, যদি না আপনি আইন যেখানে অনুমতি দেয় সেখানে আগে এটি মুছে ফেলতে বলেন।"
-        ]
-      },
-      {
-        "title": "আপনার অধিকার",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "নিরাপত্তা এবং শিশু",
-        "body": [
-          "ট্রানজিট এবং আমাদের মেলবক্সে বার্তাগুলিকে সুরক্ষিত করার জন্য আমরা যুক্তিসঙ্গত প্রযুক্তিগত এবং সাংগঠনিক পদক্ষেপ নিই৷ এই ওয়েবসাইটটি ব্যবসায়িক ক্রেতাদের জন্য, শিশুদের জন্য নয়।"
-        ]
-      }
-    ],
-    "contactLead": "এই নীতি সম্পর্কে প্রশ্ন:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "আইনি",
+    "title": "ব্যবহারের শর্তাবলী",
+    "updated": "সর্বশেষ আপডেট: 27 আগস্ট 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "এই শর্তগুলি গ্যাস সিলিন্ডার, জেনারেটর এবং আনুষাঙ্গিকগুলির শিল্প ক্রেতাদের জন্য ওয়ান্ডা গ্রুপ দ্বারা পরিচালিত wandagroups.com-এর ব্যবহার নিয়ন্ত্রণ করে৷",
+      "সাইট ব্রাউজ করে বা একটি তদন্ত পাঠিয়ে আপনি এই শর্তাবলী এবং আমাদের গোপনীয়তা নীতিতে সম্মত হন। আপনি একমত না হলে, সাইট ব্যবহার করবেন না."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "আমরা যারা",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "ওয়েবসাইট কি জন্য",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "সাইটটি পণ্যের তথ্য উপস্থাপন করে এবং বাণিজ্যিক অনুসন্ধানগুলি গ্রহণ করে। এটি ব্যবসায়িক ক্রেতাদের জন্য, ব্যক্তিগত ব্যক্তি হিসাবে কেনাকাটা করা গ্রাহকদের জন্য নয় এবং শিশুদের জন্য নয়।"
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "উদ্ধৃতি, মূল্য এবং আদেশ",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "সাইটের দাম, MOQ, লিড টাইম এবং স্পেসিফিকেশন নির্দেশক। ফর্ম বা মেসেঞ্জারের মাধ্যমে একটি বার্তা একটি তদন্ত, একটি আদেশ নয়।",
+          "একটি চুক্তি তখনই বিদ্যমান থাকে যখন উভয় পক্ষই লিখিতভাবে অফারটি নিশ্চিত করে (ইমেল বা স্বাক্ষরিত নথি) এবং সম্মত আমানত গ্রহণ করা হয়, যদি না আমরা সেই নিশ্চিতকরণে অন্যথা বলি।"
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "ছবি, ভিডিও এবং সার্টিফিকেট",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "সাইটে কারখানার ফটো এবং ভিডিওগুলি উত্পাদনকে চিত্রিত করে। অতিরিক্ত ফুটেজ এবং শংসাপত্র ফাইলগুলি অনুরোধের ভিত্তিতে ব্যক্তিগতভাবে পাঠানো হয় এবং আমাদের গোপনীয় উপাদান থাকে যদি না আমরা বলি যে আপনি সেগুলি ভাগ করতে পারেন।"
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "বুদ্ধিবৃত্তিক সম্পত্তি",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "এই ওয়েবসাইটের পাঠ্য, ফটো, ভিডিও, লোগো এবং বিন্যাস Wanda গ্রুপ বা আমাদের লাইসেন্সকারীদের অন্তর্গত। আপনি আমাদের লিখিত সম্মতি ছাড়া আপনার নিজস্ব বাণিজ্যিক সাইটের জন্য ক্যাটালগ অনুলিপি করতে পারেন না."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "গ্রহণযোগ্য ব্যবহার",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "তদন্ত ফর্মের অপব্যবহার করবেন না (স্প্যাম, মিথ্যা পরিচয়, বা সাইটটি ব্যাহত করার চেষ্টা)। আমরা অপমানজনক অনুরোধ উপেক্ষা বা মুছে ফেলতে পারি।"
         ]
       },
       {
-        "title": "Liability",
+        "title": "দায়",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "আমরা তথ্য সঠিক রাখার যত্ন নিই, তবে সাইটে ত্রুটি থাকতে পারে বা সাময়িকভাবে অনুপলব্ধ হতে পারে। আইন দ্বারা অনুমোদিত পরিমাণে, Wanda গ্রুপ শুধুমাত্র ওয়েবসাইট ব্যবহার করার ফলে উদ্ভূত পরোক্ষ ক্ষতির জন্য দায়ী নয়।",
+          "একটি প্রকৃত সরবরাহ চুক্তির জন্য দায়বদ্ধতা সেই চুক্তিতে এবং প্রযোজ্য আইনে সেট করা হয়, শুধুমাত্র এই ওয়েবসাইটের শর্তাবলীতে নয়।"
         ]
       },
       {
-        "title": "Changes",
+        "title": "পরিবর্তন",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "আমরা এই শর্তাবলী আপডেট করতে পারেন. উপরের তারিখ বর্তমান সংস্করণ দেখায়. একটি পরিবর্তনের পরে সাইটটির ক্রমাগত ব্যবহার মানে আপনি আপডেট করা শর্তাদি স্বীকার করছেন৷"
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "এই শর্তাবলী সম্পর্কে প্রশ্ন:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "আমাদের পণ্য লাইন",
+    "title": "হিমায়ন ইউনিট",
+    "subtitle": "একটি পৃথক ওয়ান্ডা গ্রুপ লাইন — তৃতীয় পক্ষের ক্যাটালগ নয়। কনডেন্সিং ইউনিট, কোল্ড রুম এবং হার্ডওয়্যার, আমাদের দ্বারা সিলিন্ডার সহ বা একটি স্বতন্ত্র অর্ডার হিসাবে সরবরাহ করা হয়।",
+    "moreLink": "কোল্ড স্টোরেজ সরঞ্জাম →",
+    "cta": "একটি উদ্ধৃতি অনুরোধ",
+    "alsoTitle": "এছাড়াও অনুরোধে উপলব্ধ",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "পলিউরেথেন কোল্ড-রুম প্যানেল (B1 / B2) এবং 304 স্টেইনলেস প্যানেল",
+      "কোল্ড-রুম এয়ার কুলার — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "অ্যালুমিনিয়াম বাষ্পীভবন কয়েল",
+      "ঠান্ডা ঘরের দরজা",
+      "শিল্প জল চিলার",
+      "যানবাহন রেফ্রিজারেশন ইউনিট এবং মোবাইল কোল্ড রুম"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "ওয়ান্ডা ইন্টারন্যাশনাল ট্রেড গ্যাস-সিলিন্ডার লাইনের পাশাপাশি রেফ্রিজারেশন সরঞ্জাম সরবরাহ করে: ইউনিট, প্যানেল, কুলার এবং সম্পর্কিত কোল্ড-চেইন হার্ডওয়্যার। Copeland, Bitzer এবং অনুরূপ নামগুলি ইউনিটের ভিতরের কম্প্রেসার ব্র্যান্ডকে নির্দেশ করে, সেই কোম্পানিগুলির একটি রিব্র্যান্ড নয়।",
+    "videoTitle": "কোম্পানির ভিডিও",
+    "videoSubtitle": "রেফ্রিজারেশন সরঞ্জাম লাইনের ওভারভিউ। অনুরোধে ব্যক্তিগতভাবে আরও ফুটেজ পাঠানো হয়।",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "কোপল্যান্ড আধা-হারমেটিক এয়ার-কুলড ইউনিট",
+        "spec": "কনডেনসিং ইউনিট · কোপল্যান্ড কম্প্রেসার",
+        "desc": "ঠান্ডা ঘর এবং মাঝারি-তাপমাত্রার দায়িত্বের জন্য একটি কোপল্যান্ড আধা-হারমেটিক কম্প্রেসার সহ এয়ার-কুলড কনডেন্সিং ইউনিট।"
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "বিটজার আধা-হারমেটিক এয়ার-কুলড ইউনিট",
+        "spec": "ঘনীভূত ইউনিট · বিটজার কম্প্রেসার",
+        "desc": "উচ্চ-শুল্ক এবং মধ্য-থেকে-নিম্ন তাপমাত্রার কক্ষগুলির জন্য একটি বিটজার আধা-হারমেটিক কম্প্রেসার সহ এয়ার-কুলড কনডেন্সিং ইউনিট।"
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "আবদ্ধ বক্স-টাইপ ইউনিট",
+        "spec": "ক্যাবিনেট কনডেনসিং ইউনিট",
+        "desc": "খোলা স্কিডের পরিবর্তে একটি হাউজড মেশিনের প্রয়োজন এমন সাইটগুলির জন্য আবদ্ধ ক্যাবিনেট-স্টাইলের ঘনীভূত ইউনিট।"
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "ইউ-টাইপ / উচ্চ-ক্ষমতা ঘনীভূত ইউনিট",
+        "spec": "মাল্টি-ফ্যান এয়ার-কুলড",
+        "desc": "বড় কোল্ড স্টোর এবং প্রক্রিয়া শীতল করার জন্য একটি মাল্টি-ফ্যান কনডেন্সার সহ বৃহত্তর এয়ার-কুলড কনডেন্সিং ইউনিট।"
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "আমরা যারা",
+    "title": "B2B ক্রেতাদের জন্য শিল্প প্রস্তুতকারক",
+    "text": "Wanda Groups বিদেশী পরিবেশক, OEM অংশীদার এবং প্রকল্প ক্রেতাদের জন্য শিল্প গ্যাস সিলিন্ডার, জেনারেটর এবং ওয়েল্ডিং আনুষাঙ্গিক উত্পাদন এবং সরবরাহ করে।",
+    "text2": "আমাদের ফোকাস কারখানা-সংযুক্ত সরবরাহ, পণ্য নির্বাচন সমর্থন, বাল্ক অর্ডার এবং রপ্তানি সমন্বয় - খুচরা ভোক্তা বিক্রয় নয়।",
+    "cta": "আমাদের সম্পর্কে আরও জানুন"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "একটি উদ্ধৃতি অনুরোধ করতে প্রস্তুত?",
+      "quoteCta": "একটি উদ্ধৃতি অনুরোধ",
+      "relatedProducts": "সম্পর্কিত পণ্য",
+      "applications": "অ্যাপ্লিকেশন",
+      "standardsTitle": "মান এবং সার্টিফিকেশন",
+      "oemTitle": "OEM / কাস্টমাইজেশন",
+      "packagingTitle": "প্যাকেজিং এবং ডেলিভারি",
+      "placeholders": {
+        "standards": "উপলব্ধ মান এবং সার্টিফিকেট অর্ডার এবং গন্তব্য বাজার প্রতি নিশ্চিত করা হয়. সার্টিফিকেট কপি ব্যক্তিগতভাবে অনুরোধে পাঠানো হয় — ফাইল ওয়েবসাইটে প্রকাশিত হয় না.",
+        "oem": "অর্ডার এবং লক্ষ্য বাজার অনুযায়ী OEM রঙ, চিহ্নিতকরণ, ভালভ, ক্যাপ এবং প্যাকিং বিকল্পগুলি নিয়ে আলোচনা করা যেতে পারে।",
+        "packaging": "রপ্তানি প্যাকিং এবং ডকুমেন্টেশন অর্ডার এবং শিপিং শর্তাবলী অনুযায়ী প্রস্তুত করা হয়."
+      }
+    },
+    "home": {
+      "seoTitle": "গ্যাস সিলিন্ডার প্রস্তুতকারক | শিল্প OEM এবং রপ্তানি | ওয়ান্ডা গ্রুপ",
+      "seoDescription": "Wanda Groups OEM, পাইকারি এবং আন্তর্জাতিক রপ্তানি ক্রেতাদের জন্য শিল্প গ্যাস সিলিন্ডার, জেনারেটর এবং ওয়েল্ডিং আনুষাঙ্গিক উত্পাদন করে।"
+    },
+    "about": {
+      "label": "আমাদের সম্পর্কে",
+      "title": "শিল্প ক্রেতাদের জন্য গ্যাস সিলিন্ডার প্রস্তুতকারক",
+      "subtitle": "আমরা পণ্য নির্বাচন, OEM, পরিদর্শন, প্যাকিং এবং শিপিং সহ বিদেশী ক্রেতাদের সমর্থন করি।",
+      "seoTitle": "ওয়ান্ডা গ্রুপ সম্পর্কে",
+      "seoDescription": "ওয়ান্ডা গ্রুপ ওয়েল্ডিং, কাটিং এবং শিল্প গ্যাস সরবরাহের জন্য অ্যাসিটিলিন সিলিন্ডার, প্রোপেন সিলিন্ডার, জেনারেটর এবং আনুষাঙ্গিক তৈরি করে।"
+    },
+    "products": {
+      "label": "পণ্য",
+      "title": "আমাদের পণ্য",
+      "subtitle": "অ্যাসিটিলিন সিলিন্ডার, জেনারেটর, প্রোপেন সিলিন্ডার এবং শিল্প ও ঢালাই অ্যাপ্লিকেশনের জন্য আনুষাঙ্গিক।",
+      "seoTitle": "গ্যাস সিলিন্ডার পণ্য",
+      "seoDescription": "অ্যাসিটিলিন সিলিন্ডার, জেনারেটর, প্রোপেন সিলিন্ডার এবং শিল্প ও ঢালাই অ্যাপ্লিকেশনের জন্য আনুষাঙ্গিক।",
+      "refrigerationNote": "ওয়ান্ডা ইন্টারন্যাশনাল ট্রেড গ্যাস-সিলিন্ডার লাইনের পাশাপাশি রেফ্রিজারেশন সরঞ্জাম সরবরাহ করে: ইউনিট, প্যানেল, কুলার এবং সম্পর্কিত কোল্ড-চেইন হার্ডওয়্যার। Copeland, Bitzer এবং অনুরূপ নামগুলি ইউনিটের ভিতরের কম্প্রেসার ব্র্যান্ডকে নির্দেশ করে, সেই কোম্পানিগুলির একটি রিব্র্যান্ড নয়।",
+      "catalog": {
+        "acetylene": {
+          "name": "দ্রবীভূত অ্যাসিটিলিন সিলিন্ডার",
+          "overview": "নিরাপদ অ্যাসিটিলিন স্টোরেজ এবং পরিবহনের জন্য ছিদ্রযুক্ত ভর এবং দ্রাবক সহ ইস্পাত সিলিন্ডার। ঢালাই, কাটিং, ব্রেজিং এবং ধাতু তৈরিতে ব্যবহৃত হয়।",
+          "seoTitle": "অ্যাসিটিলিন গ্যাস সিলিন্ডার",
+          "seoDescription": "নিরাপদ অ্যাসিটিলিন স্টোরেজ এবং পরিবহনের জন্য ছিদ্রযুক্ত ভর এবং দ্রাবক সহ ইস্পাত সিলিন্ডার। ঢালাই, কাটিং, ব্রেজিং এবং ধাতু তৈরিতে ব্যবহৃত হয়।"
+        },
+        "propane": {
+          "name": "প্রোপেন সিলিন্ডার",
+          "overview": "প্রোপেন, বিউটেন এবং এলপিজি মিশ্রণের জন্য সিলিন্ডার। গরম, কাটিং, ব্রেজিং, নির্মাণ এবং শিল্প গ্যাস সরবরাহে ব্যবহৃত হয়।",
+          "seoTitle": "প্রোপেন গ্যাস সিলিন্ডার",
+          "seoDescription": "প্রোপেন, বিউটেন এবং এলপিজি মিশ্রণের জন্য সিলিন্ডার। গরম, কাটিং, ব্রেজিং, নির্মাণ এবং শিল্প গ্যাস সরবরাহে ব্যবহৃত হয়।"
+        },
+        "lpg": {
+          "name": "এলপিজি সিলিন্ডার",
+          "overview": "প্রোপেন, বিউটেন এবং এলপিজি মিশ্রণের জন্য সিলিন্ডার। গরম, কাটিং, ব্রেজিং, নির্মাণ এবং শিল্প গ্যাস সরবরাহে ব্যবহৃত হয়।",
+          "seoTitle": "এলপিজি গ্যাস সিলিন্ডার",
+          "seoDescription": "প্রোপেন, বিউটেন এবং এলপিজি মিশ্রণের জন্য সিলিন্ডার। গরম, কাটিং, ব্রেজিং, নির্মাণ এবং শিল্প গ্যাস সরবরাহে ব্যবহৃত হয়।"
+        },
+        "industrial": {
+          "name": "শিল্প গ্যাস সিলিন্ডার",
+          "overview": "ঢালাই, কাটিং এবং উদ্ভিদ সরবরাহের জন্য শিল্প গ্যাস সিলিন্ডার — আপনার বাজারের সাথে মিলে যাওয়া অ্যাসিটিলিন, প্রোপেন এবং এলপিজি বিকল্পগুলি সহ।",
+          "seoTitle": "শিল্প গ্যাস সিলিন্ডার",
+          "seoDescription": "ওয়ান্ডা গ্রুপ থেকে ঢালাই, কাটা এবং উদ্ভিদ সরবরাহের জন্য শিল্প গ্যাস সিলিন্ডার।"
+        },
+        "generators": {
+          "name": "অ্যাসিটিলিন জেনারেটর",
+          "overview": "ক্যালসিয়াম কার্বাইড থেকে অ্যাসিটিলিন তৈরির সরঞ্জাম। কেন্দ্রীভূত গ্যাস পরিকাঠামো ছাড়া ঢালাই এবং শিল্প চাহিদার জন্য স্থিতিশীল গ্যাস সরবরাহ।",
+          "seoTitle": "অ্যাসিটিলিন জেনারেটর",
+          "seoDescription": "ক্যালসিয়াম কার্বাইড থেকে অ্যাসিটিলিন তৈরির সরঞ্জাম। কেন্দ্রীভূত গ্যাস পরিকাঠামো ছাড়া ঢালাই এবং শিল্প চাহিদার জন্য স্থিতিশীল গ্যাস সরবরাহ।"
+        },
+        "accessories": {
+          "name": "সিলিন্ডার আনুষাঙ্গিক এবং জিনিসপত্র",
+          "overview": "নিরাপদ গ্যাস সিলিন্ডার অপারেশনের জন্য সম্পূর্ণ পরিসীমা: গেজ থেকে ওয়েল্ডিং টর্চ পর্যন্ত। সিলিন্ডার সহ ওয়ান স্টপ ক্রয়।",
+          "seoTitle": "ঢালাই আনুষাঙ্গিক",
+          "seoDescription": "নিরাপদ গ্যাস সিলিন্ডার অপারেশনের জন্য সম্পূর্ণ পরিসীমা: গেজ থেকে ওয়েল্ডিং টর্চ পর্যন্ত। সিলিন্ডার সহ ওয়ান স্টপ ক্রয়।"
+        },
+        "refrigeration": {
+          "name": "হিমায়ন ইউনিট",
+          "overview": "একটি পৃথক ওয়ান্ডা গ্রুপ লাইন — তৃতীয় পক্ষের ক্যাটালগ নয়। কনডেন্সিং ইউনিট, কোল্ড রুম এবং হার্ডওয়্যার, আমাদের দ্বারা সিলিন্ডার সহ বা একটি স্বতন্ত্র অর্ডার হিসাবে সরবরাহ করা হয়।",
+          "seoTitle": "হিমায়ন ইউনিট",
+          "seoDescription": "একটি পৃথক ওয়ান্ডা গ্রুপ লাইন — তৃতীয় পক্ষের ক্যাটালগ নয়। কনডেন্সিং ইউনিট, কোল্ড রুম এবং হার্ডওয়্যার, আমাদের দ্বারা সিলিন্ডার সহ বা একটি স্বতন্ত্র অর্ডার হিসাবে সরবরাহ করা হয়।"
+        }
+      }
+    },
+    "factory": {
+      "label": "কারখানা",
+      "title": "কারখানা এবং উত্পাদন",
+      "subtitle": "উত্পাদন, পরিদর্শন, প্যাকিং এবং প্রেরণ — বাস্তব উদ্ভিদ ফটোগ্রাফি এবং কারখানা ভিডিও সহ নথিভুক্ত।",
+      "seoTitle": "কারখানা ও উৎপাদন | ওয়ান্ডা গ্রুপ",
+      "seoDescription": "বাস্তব গাছের ছবি, লাইভ ডিসপ্যাচ শট এবং প্রোডাকশন ফ্লোর থেকে ছোট ভিডিও।",
+      "sections": [
+        {
+          "title": "ম্যানুফ্যাকচারিং",
+          "text": "উদ্ভিদ উৎপাদন প্রবাহের অংশ হিসাবে সিলিন্ডার গঠন, ঢালাই এবং সমাপ্তি।"
+        },
+        {
+          "title": "উৎপাদন প্রক্রিয়া",
+          "text": "শেল প্রস্তুতি থেকে সমাবেশ এবং সমাপ্তি — প্রক্রিয়াধীন স্টক এবং উত্পাদন ফ্লোর ফুটেজ দেখুন।"
+        },
+        {
+          "title": "গুণমান পরিদর্শন",
+          "text": "চালানের জন্য সিলিন্ডার প্রস্তুত করার ভিজ্যুয়াল, মার্কিং এবং ডাইমেনশনাল চেক।"
+        },
+        {
+          "title": "টেস্টিং",
+          "text": "অর্ডারের প্রয়োজনীয়তা অনুসারে পণ্যগুলি লাইন ছেড়ে যাওয়ার আগে চাপ এবং ফুটো পরীক্ষা প্রয়োগ করা হয়।"
+        },
+        {
+          "title": "প্যাকেজিং",
+          "text": "রপ্তানি প্যাকিং বিদেশী পরিবহনের জন্য সিলিন্ডার এবং জিনিসপত্র রক্ষা করে।"
+        },
+        {
+          "title": "লোড এবং রপ্তানি",
+          "text": "বহির্গামী আদেশের জন্য গুদাম মঞ্চায়ন, ট্রাক লোডিং এবং প্রেরণ ডকুমেন্টেশন।"
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "সার্টিফিকেশন",
+      "title": "সার্টিফিকেশন এবং মান",
+      "subtitle": "সাধারণত ক্রেতাদের দ্বারা অনুরোধ করা মান নীচে তালিকাভুক্ত করা হয়. প্রযোজ্যতা পণ্য এবং গন্তব্য বাজারের উপর নির্ভর করে। শংসাপত্রের অনুলিপি, নম্বর এবং বৈধতা অনুরোধের ভিত্তিতে ব্যক্তিগতভাবে ভাগ করা হয় — যাচাইকৃত দাবি হিসাবে প্রকাশ করা হয় না।",
+      "seoTitle": "সার্টিফিকেশন এবং স্ট্যান্ডার্ড | ওয়ান্ডা গ্রুপ",
+      "seoDescription": "বাজার অনুসারে ওয়ান্ডা গ্রুপের গ্যাস সিলিন্ডারের জন্য আলোচিত মান। সার্টিফিকেট কপি ব্যক্তিগতভাবে অনুরোধে প্রদান করা হয়.",
+      "note": "সার্টিফিকেট কপি ব্যক্তিগতভাবে অনুরোধে পাঠানো হয়. আমরা ওয়েবসাইটে সার্টিফিকেট ফাইল প্রকাশ করি না।"
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "ই এম এবং পাইকারি",
+      "subtitle": "পরিবেশক এবং শিল্প ক্রেতাদের জন্য ব্যক্তিগত লেবেল এবং বাল্ক সরবরাহের বিকল্প।",
+      "seoTitle": "OEM গ্যাস সিলিন্ডার সরবরাহ",
+      "seoDescription": "বিদেশী ব্র্যান্ড এবং পরিবেশকদের জন্য OEM এবং ব্যক্তিগত-লেবেল গ্যাস সিলিন্ডার উত্পাদন।",
+      "quoteTitle": "OEM প্রয়োজনীয়তা আলোচনা",
+      "quoteCta": "OEM উদ্ধৃতি অনুরোধ করুন",
+      "capabilities": [
+        {
+          "title": "কাস্টম লোগো",
+          "text": "যোগ্যতাসম্পন্ন OEM আদেশের জন্য লোগো এবং চিহ্নিত করার বিকল্পগুলি আলোচনা করা হয়েছে৷"
+        },
+        {
+          "title": "কাস্টম রঙ",
+          "text": "বাজার বা ব্র্যান্ডের চাহিদা অনুযায়ী সিলিন্ডারের রঙ।"
+        },
+        {
+          "title": "কাস্টম প্যাকেজিং",
+          "text": "অর্ডার দ্বারা কার্টন, প্যালেট এবং প্যাকিং চিহ্ন রপ্তানি করুন।"
+        },
+        {
+          "title": "ব্যক্তিগত লেবেল",
+          "text": "পরিবেশক চ্যানেলের জন্য লেবেলিং এবং ব্র্যান্ড উপস্থাপনা।"
+        },
+        {
+          "title": "বাল্ক অর্ডার",
+          "text": "প্রকল্প এবং পরিবেশক সংগ্রহের জন্য পাইকারি পরিমাণ।"
+        },
+        {
+          "title": "OEM উত্পাদন",
+          "text": "পণ্য কনফিগারেশন আপনার স্পেসিফিকেশন এবং বাজারের সাথে সারিবদ্ধ।"
+        },
+        {
+          "title": "রপ্তানি সমর্থন",
+          "text": "বিদেশী ডেলিভারির জন্য নথি এবং শিপিং সমন্বয়."
+        }
+      ]
+    },
+    "markets": {
+      "label": "বাজার",
+      "title": "গ্লোবাল মার্কেটস",
+      "subtitle": "আমরা আন্তর্জাতিক B2B ক্রেতাদের সমর্থন করি। নীচের অঞ্চলগুলি সাধারণ অনুসন্ধানের ক্ষেত্রগুলি বর্ণনা করে — নির্দিষ্ট দেশ এবং প্রকল্পগুলি ক্ষেত্রে ক্ষেত্রে নিশ্চিত করা হয়৷",
+      "seoTitle": "গ্লোবাল মার্কেট | ওয়ান্ডা গ্রুপ এক্সপোর্ট",
+      "seoDescription": "ওয়ান্ডা গ্রুপ আফ্রিকা, মধ্যপ্রাচ্য, মধ্য এশিয়া, দক্ষিণ-পূর্ব এশিয়া, ল্যাটিন আমেরিকা এবং অন্যান্য বাজার জুড়ে আন্তর্জাতিক শিল্প ক্রেতাদের সাথে কাজ করে।",
+      "note": "আমরা এই পৃষ্ঠায় অযাচাইকৃত দেশের সংখ্যা, গ্রাহকের নাম বা প্রকল্পের উল্লেখ প্রকাশ করি না।",
+      "regions": [
+        {
+          "title": "আফ্রিকা",
+          "text": "আফ্রিকান বাজার থেকে শিল্প এবং পরিবেশক অনুসন্ধান."
+        },
+        {
+          "title": "মধ্যপ্রাচ্য",
+          "text": "আঞ্চলিক প্রকল্পের জন্য ক্রেতারা সিলিন্ডার এবং সম্পর্কিত সরঞ্জাম সোর্সিং।"
+        },
+        {
+          "title": "মধ্য এশিয়া",
+          "text": "মধ্য এশিয়ার বাজার জুড়ে পাইকারি এবং প্রকল্প সরবরাহ আলোচনা।"
+        },
+        {
+          "title": "দক্ষিণ-পূর্ব এশিয়া",
+          "text": "রপ্তানি সিলিন্ডার সরবরাহ মূল্যায়ন শিল্প ক্রেতারা."
+        },
+        {
+          "title": "ল্যাটিন আমেরিকা",
+          "text": "শিল্প গ্যাস সিলিন্ডার এবং আনুষঙ্গিক সরবরাহের জন্য অনুসন্ধান।"
+        },
+        {
+          "title": "অন্যান্য আন্তর্জাতিক বাজার",
+          "text": "অতিরিক্ত গন্তব্য পণ্য মান এবং রসদ অনুযায়ী পর্যালোচনা করা হয়."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "অ্যাপ্লিকেশন",
+      "title": "সিলিন্ডার অ্যাপ্লিকেশন",
+      "subtitle": "সাধারণ শিল্প গ্যাসের কাজ এবং বিদেশী ক্রেতার প্রয়োজনীয়তার জন্য ডিজাইন করা পণ্য।",
+      "seoTitle": "সিলিন্ডার অ্যাপ্লিকেশন",
+      "seoDescription": "সাধারণ শিল্প গ্যাসের কাজ এবং বিদেশী ক্রেতার প্রয়োজনীয়তার জন্য ডিজাইন করা পণ্য।",
+      "items": [
+        {
+          "title": "ঢালাই এবং ব্রেজিং",
+          "text": "ওয়ার্কশপ এবং ফ্যাব্রিকেশন ওয়েল্ডিংয়ের জন্য দ্রবীভূত অ্যাসিটিলিন এবং সম্পর্কিত সরঞ্জাম।"
+        },
+        {
+          "title": "মেটাল কাটিং",
+          "text": "সাইট এবং প্ল্যান্টে অক্সি-ফুয়েল কাটার জন্য সিলিন্ডার এবং আনুষাঙ্গিক।"
+        },
+        {
+          "title": "শিল্প গ্যাস সরবরাহ",
+          "text": "শিল্প বিতরণ এবং উদ্ভিদ গ্যাস সিস্টেমের জন্য সিলিন্ডার সরবরাহ।"
+        },
+        {
+          "title": "নির্মাণ",
+          "text": "নির্মাণ এবং রক্ষণাবেক্ষণ কাজের জন্য পোর্টেবল গ্যাস সরবরাহ।"
+        },
+        {
+          "title": "মেটাল ফ্যাব্রিকেশন",
+          "text": "ফ্যাব্রিকেশনের দোকান এবং শিপইয়ার্ডের জন্য সিলিন্ডার এবং আনুষাঙ্গিক।"
+        },
+        {
+          "title": "গ্যাস স্টোরেজ ও ডিস্ট্রিবিউশন",
+          "text": "শিল্প ক্রেতাদের জন্য স্টোরেজ এবং বিতরণ-প্রস্তুত সিলিন্ডার।"
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী",
+      "subtitle": "কোম্পানি, পণ্য, OEM এবং রপ্তানি — আপনি একটি উদ্ধৃতি অনুরোধ করার আগে বিদেশী ক্রেতাদের জন্য উত্তর।",
+      "seoTitle": "FAQ",
+      "seoDescription": "কোম্পানি, পণ্য, OEM এবং রপ্তানি — আপনি একটি উদ্ধৃতি অনুরোধ করার আগে বিদেশী ক্রেতাদের জন্য উত্তর।"
+    },
+    "contactPage": {
+      "label": "যোগাযোগ",
+      "title": "আসুন আপনার প্রয়োজনীয়তা নিয়ে আলোচনা করি",
+      "subtitle": "ফর্ম, ইমেল বা মেসেঞ্জারের মাধ্যমে আমাদের বিক্রয় দলের সাথে যোগাযোগ করুন। একটি দ্রুত উদ্ধৃতি জন্য পণ্য, পরিমাণ এবং গন্তব্য শেয়ার করুন.",
+      "seoTitle": "একটি উদ্ধৃতি অনুরোধ",
+      "seoDescription": "আমাদের আকার, পরিমাণ, গন্তব্য দেশ এবং অ্যাপ্লিকেশন বলুন - আমরা একটি বিশদ উদ্ধৃতি প্রস্তুত করব।"
+    },
+    "blog": {
+      "label": "ব্লগ",
+      "title": "সর্বশেষ নিবন্ধ",
+      "subtitle": "ঢালাই এবং গ্যাস সরবরাহ পেশাদারদের জন্য বিশেষজ্ঞ বিষয়বস্তু।",
+      "seoTitle": "প্রবন্ধ ও নির্দেশিকা",
+      "seoDescription": "ঢালাই এবং গ্যাস সরবরাহ পেশাদারদের জন্য বিশেষজ্ঞ বিষয়বস্তু।",
+      "coming": "আরো ক্রেতা গাইড এবং পণ্য নোট এখানে যোগ করা হবে. উপরের নিবন্ধগুলি ব্যবহার করুন বা পণ্য-নির্দিষ্ট উপকরণের জন্য আমাদের সাথে যোগাযোগ করুন।"
+    },
+    "privacy": {
+      "seoTitle": "গোপনীয়তা নীতি",
+      "seoDescription": "ওয়ান্ডা গ্রুপ ওয়েবসাইট অনুসন্ধান এবং ব্যক্তিগত তথ্য জন্য গোপনীয়তা নীতি."
+    },
+    "terms": {
+      "seoTitle": "ব্যবহারের শর্তাবলী",
+      "seoDescription": "ওয়ান্ডা গ্রুপ ওয়েবসাইটের ব্যবহারের শর্তাবলী।"
+    },
+    "notFound": {
+      "seoTitle": "পেজ পাওয়া যায়নি",
+      "seoDescription": "আপনার অনুরোধ করা পৃষ্ঠাটি উপলব্ধ নয়।",
+      "title": "পেজ পাওয়া যায়নি",
+      "text": "আপনি যে পৃষ্ঠাটি খুঁজছেন সেটি বিদ্যমান নেই বা সরানো হয়েছে।",
+      "home": "বাড়ি",
+      "products": "পণ্য",
+      "contact": "যোগাযোগ / একটি উদ্ধৃতি পান"
+    }
   }
 }

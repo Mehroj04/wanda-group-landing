@@ -1,56 +1,56 @@
 {
   "nav": {
-    "products": "Sản phẩm",
+    "home": "Trang chủ",
+    "products": "Các sản phẩm",
     "specs": "Thông số kỹ thuật",
     "applications": "Ứng dụng",
-    "about": "Giới thiệu",
-    "gallery": "Thư viện ảnh",
+    "about": "Về",
+    "gallery": "Phòng trưng bày",
+    "factory": "Nhà máy",
     "quality": "Chất lượng",
-    "faq": "Hỏi đáp",
+    "faq": "Câu hỏi thường gặp",
     "contact": "Liên hệ",
     "getQuote": "Nhận báo giá",
-    "inquire": "Gửi yêu cầu →",
+    "inquire": "Hỏi →",
     "services": "Dịch vụ",
-    "pricing": "Bảng giá",
+    "pricing": "Định giá",
     "accessories": "Phụ kiện",
-    "home": "Trang chủ",
-    "factory": "Nhà máy",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "refrigeration": "Kho lạnh",
+    "cooling": "làm mát",
+    "certifications": "Chứng chỉ",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Thị trường"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Nhà sản xuất xi lanh khí công nghiệp",
+    "title": "Nhà sản xuất thiết bị và bình gas công nghiệp",
+    "subtitle": "Sản xuất, OEM và cung cấp bán buôn xi lanh axetylen, xi lanh propan/LPG, máy phát điện và phụ kiện hàn cho khách hàng xuất khẩu quốc tế.",
+    "lineGas": "Bình gas",
+    "lineCold": "Đơn vị làm lạnh",
+    "cta": "Nhận báo giá",
+    "ctaSecondary": "Xem sản phẩm",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Cung cấp tập trung vào nhà sản xuất"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Nhãn hiệu riêng và tùy biến"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Hỗ trợ vận chuyển quốc tế"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Quá trình kiểm tra và thử nghiệm"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Tùy chọn dành riêng cho thị trường theo yêu cầu"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Phụ kiện xi lanh khí đáng tin cậy",
@@ -59,219 +59,231 @@
   },
   "products": {
     "title": "Sản phẩm của chúng tôi",
-    "subtitle": "Bình axetylen, máy phát, bình propan và phụ kiện cho ứng dụng công nghiệp và hàn.",
+    "subtitle": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+    "viewDetails": "Xem chi tiết",
     "items": [
       {
-        "title": "Bình axetylen",
-        "desc": "Bình axetylen hòa tan cho hàn, cắt và khí công nghiệp. Nhiều kích thước và tùy chọn van.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO / DOT / TPED"
+        "title": "Xi lanh axetylen",
+        "spec": "2L–40L · tiêu chuẩn được xác nhận trên mỗi thị trường",
+        "desc": "Xi lanh axetylen hòa tan dùng cho hàn, cắt và cung cấp khí công nghiệp.",
+        "icon": "🔥"
       },
       {
-        "title": "Máy phát axetylen",
-        "desc": "Thiết bị sản xuất khí ổn định, dễ vận hành và phù hợp ứng dụng công nghiệp.",
-        "icon": "⚙️",
-        "spec": "Hệ thống phát điện công nghiệp"
+        "title": "Máy phát điện axetylen",
+        "spec": "Hệ thống phát điện công nghiệp",
+        "desc": "Thiết bị sản xuất axetylen ổn định tại chỗ và trong nhà máy.",
+        "icon": "⚙️"
       },
       {
-        "title": "Bình propan",
-        "desc": "Bình bền chắc cho propan và LPG — lưu trữ, sưởi, cắt và sử dụng công nghiệp.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "title": "Xi lanh propan",
+        "spec": "3L–50L · tùy chọn van cho mỗi thị trường",
+        "desc": "Xi lanh LPG bền dùng để sưởi ấm, cắt và sử dụng trong công nghiệp.",
+        "icon": "🛢️"
       },
       {
-        "title": "Phụ kiện bình khí",
-        "desc": "Ống mềm, đồng hồ đo, mỏ cắt, đầu đốt hàn, van an toàn và nhiều hơn nữa.",
-        "icon": "🔧",
-        "spec": "Van · bộ điều chỉnh · ống · đèn pin"
+        "title": "Phụ kiện xi lanh",
+        "spec": "Van · bộ điều chỉnh · ống · đèn pin",
+        "desc": "Các phụ kiện phù hợp được cung cấp cùng với xi lanh hoặc theo đơn đặt hàng riêng.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Xem chi tiết"
+    ]
   },
   "specs": {
     "title": "Thông số kỹ thuật",
-    "subtitle": "Tìm hiểu tùy chọn bình, khả năng tùy chỉnh và chi tiết vận chuyển trước khi gửi yêu cầu.",
+    "subtitle": "Khám phá các tùy chọn xi lanh, khả năng tùy chỉnh và chi tiết vận chuyển trước khi gửi yêu cầu.",
     "items": [
       {
-        "title": "Dung tích bình",
-        "desc": "Nhiều tùy chọn dung tích và thể tích tùy theo ứng dụng và yêu cầu thị trường."
+        "title": "Dung tích xi lanh",
+        "desc": "Tùy chọn dung lượng và âm lượng khác nhau tùy thuộc vào yêu cầu ứng dụng và thị trường."
       },
       {
-        "title": "Van và nắp",
-        "desc": "Van, nắp và khớp nối được cung cấp theo nhu cầu khách hàng và dự án."
+        "title": "Van & Nắp",
+        "desc": "Van, nắp và phụ kiện được cung cấp theo nhu cầu của khách hàng và dự án."
       },
       {
         "title": "Tùy chọn dung môi",
-        "desc": "Hệ thống vật liệu xốp và dung môi để lưu trữ axetylen ổn định."
+        "desc": "Hệ thống chất độn xốp và dung môi để lưu trữ axetylen ổn định."
       },
       {
-        "title": "Đóng gói và vận chuyển",
+        "title": "Đóng gói & Vận chuyển",
         "desc": "Hỗ trợ đóng gói xuất khẩu và vận chuyển cho nhà phân phối và khách hàng dự án."
       }
     ]
   },
   "applications": {
-    "title": "Ứng dụng của bình khí",
-    "subtitle": "Sản phẩm thiết kế cho các tác vụ khí công nghiệp phổ biến và yêu cầu của người mua nước ngoài.",
+    "title": "Ứng dụng xi lanh",
+    "subtitle": "Sản phẩm được thiết kế cho các nhiệm vụ khí công nghiệp thông thường và yêu cầu của người mua ở nước ngoài.",
     "items": [
-      "Hàn và hàn cứng",
+      "Hàn & Hàn đồng",
       "Cắt kim loại",
       "Cung cấp khí công nghiệp",
-      "Xây dựng",
-      "Gia công kim loại",
-      "Lưu trữ và phân phối khí"
+      "Sự thi công",
+      "Chế tạo kim loại",
+      "Lưu trữ và phân phối khí đốt"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Tại sao chọn nhóm Wanda",
+    "subtitle": "Khả năng cụ thể để người mua công nghiệp đánh giá đối tác sản xuất.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Cung cấp tập trung vào nhà sản xuất",
+        "desc": "Cung cấp sản phẩm theo định hướng sản xuất, không chỉ kinh doanh danh mục sản phẩm."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Hỗ trợ OEM",
+        "desc": "Tùy chỉnh màu sắc, đánh dấu, van và đóng gói được thảo luận theo đơn đặt hàng."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Kiểm soát chất lượng",
+        "desc": "Kiểm tra từ vật liệu đến đóng gói trước khi vận chuyển."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Xuất khẩu quốc tế",
+        "desc": "Phối hợp đóng gói và vận chuyển xuất khẩu cho người mua ở nước ngoài."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Tùy chỉnh sản phẩm",
+        "desc": "Thông số kỹ thuật phù hợp với yêu cầu của thị trường và ứng dụng."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Hỗ trợ bán hàng đáp ứng",
+        "desc": "Báo giá và trả lời kỹ thuật thông qua biểu mẫu, email và tin nhắn."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Khả năng đặt hàng số lượng lớn",
+        "desc": "Hỗ trợ số lượng sỉ cho nhà phân phối và người mua dự án."
       }
     ]
   },
   "about": {
-    "title": "Nhà sản xuất bình khí chuyên nghiệp",
-    "text": "Wanda Group Gas Cylinder Manufacturer chuyên sản xuất và cung cấp bình khí công nghiệp cùng phụ kiện liên quan. Sản phẩm của chúng tôi được sử dụng rộng rãi trong hàn, cắt, phân phối khí, lưu trữ công nghiệp và các lĩnh vực cung cấp khí khác.",
-    "text2": "Chúng tôi hỗ trợ người mua nước ngoài trong việc chọn sản phẩm, tùy chỉnh, kiểm tra chất lượng, đóng gói và phối hợp vận chuyển.",
+    "title": "Nhà sản xuất bình gas cho người mua công nghiệp",
+    "text": "Tập đoàn Wanda sản xuất xi lanh axetylen, xi lanh propan, máy phát điện và phụ kiện để hàn, cắt và cung cấp khí công nghiệp.",
+    "text2": "Chúng tôi hỗ trợ người mua ở nước ngoài trong việc lựa chọn sản phẩm, OEM, kiểm tra, đóng gói và vận chuyển.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Chế tạo",
+        "desc": "Tạo hình, hàn, kiểm tra và hoàn thiện bình gas công nghiệp."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Hỗ trợ OEM",
+        "desc": "Tùy chọn màu sắc, đánh dấu, van, nắp và đóng gói theo đơn đặt hàng."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Quy trình chất lượng",
+        "desc": "Công tác thanh tra, kiểm tra phù hợp với yêu cầu đặt hàng và thị trường."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Xuất khẩu quốc tế",
+        "desc": "Hỗ trợ tài liệu và đóng gói cho người mua hàng công nghiệp ở nước ngoài."
       }
     ]
   },
   "gallery": {
     "title": "Bên trong nhà máy của chúng tôi",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Ảnh thực tế của nhà máy, ảnh chụp trực tiếp và video ngắn từ xưởng sản xuất.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Gửi đêm",
+        "desc": "Một chiếc xe moóc chở đầy đồ rời đi với thiết bị được bọc kín - thời gian và địa điểm được ghi trên cảnh quay."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Hàng hóa được dàn dựng để vận chuyển",
+        "desc": "Pallet và các bộ phận được thu thập để gửi đi. Ảnh kho trực tiếp, không phải ảnh studio."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Hàng đóng gói",
+        "desc": "Thùng carton xếp chồng lên nhau trong kho, sẵn sàng cho đơn hàng tiếp theo."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Đóng gói để gửi đi",
+        "desc": "Xi lanh được bọc và dàn dựng tại bãi nhà máy để vận chuyển."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Băng tải sản xuất",
+        "desc": "Thân xi lanh di chuyển qua dây chuyền tạo hình và xử lý."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Dây chuyền hoàn thiện LPG",
+        "desc": "Sơn chai LPG lên băng tải trên cao trước khi đóng gói."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Bên trong nhà máy",
+        "desc": "Phòng sản xuất - con người, máy móc và hàng hóa đang trong quá trình sản xuất."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Thân xi lanh hàn",
+        "desc": "Vỏ sau khi hàn chu vi, trước khi sơn và van."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Vỏ trước khi sơn",
+        "desc": "Các vật thể chưa sơn được xếp thành từng mẻ trên sàn cho bước quy trình tiếp theo."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Hàng đang trong quá trình",
+        "desc": "Phần ống và vỏ có nắp chờ lắp ráp."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Thân xi lanh trong kho",
+        "desc": "Vỏ cuộn xếp chồng lên nhau sau khi hàn, trước đầu và van."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Vòng đế",
+        "desc": "Vòng chân được chuẩn bị để hàn vào vỏ xi lanh."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Phụ kiện đóng gói",
+        "desc": "Van và phụ kiện đóng hộp xốp xuất khẩu."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Máy phát điện axetylen",
+        "desc": "Một máy phát điện với ống mềm và các phụ kiện đã sẵn sàng rời khỏi nhà máy."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Vỏ trên sàn",
+        "desc": "Thân cổ hở sau khi hàn - lô trước khi lắp van."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Video nhà máy",
+    "videosSubtitle": "Quần short mới từ sàn nhà máy. Nhiều cảnh quay hơn được gửi riêng theo yêu cầu."
   },
   "quality": {
     "title": "Kiểm soát chất lượng",
     "subtitle": "Mỗi lô đều đi theo cùng một lộ trình: sản xuất, thử nghiệm, kiểm tra và kiểm soát chất lượng cuối cùng.",
     "steps": [
       {
-        "title": "Sản xuất",
-        "desc": "Hình thành, hàn và lắp ráp dưới sự kiểm soát quá trình của nhà máy."
+        "title": "Nguyên liệu thô",
+        "desc": "Các tài liệu đến được xem xét theo yêu cầu về đơn hàng và quy trình."
       },
       {
-        "title": "Kiểm tra",
-        "desc": "Kiểm tra áp suất và rò rỉ trước khi xi lanh rời khỏi dây chuyền."
+        "title": "Sản xuất",
+        "desc": "Hình thành, hàn và lắp ráp dưới sự kiểm soát quá trình của nhà máy."
       },
       {
         "title": "Điều tra",
         "desc": "Kiểm tra trực quan, đánh dấu và kích thước theo đơn đặt hàng."
       },
       {
+        "title": "Kiểm tra",
+        "desc": "Kiểm tra áp suất và rò rỉ trước khi xi lanh rời khỏi dây chuyền."
+      },
+      {
         "title": "Kiểm soát chất lượng cuối cùng",
-        "desc": "Kiểm tra đóng gói trước khi xuất khẩu."
+        "desc": "Kiểm soát chất lượng cuối cùng trước khi xuất xưởng để đóng gói."
+      },
+      {
+        "title": "Bao bì",
+        "desc": "Đóng gói xuất khẩu chuẩn bị cho vận chuyển."
+      },
+      {
+        "title": "Lô hàng",
+        "desc": "Tải và gửi tài liệu cho các đơn đặt hàng gửi đi."
       }
     ]
   },
   "faq": {
     "title": "Câu hỏi thường gặp",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Công ty, sản phẩm, OEM và xuất khẩu — câu trả lời cho người mua ở nước ngoài trước khi bạn yêu cầu báo giá.",
     "cta": "Không tìm thấy câu hỏi của bạn? Gửi sản phẩm, kích thước, số lượng và quốc gia nơi đến - chúng tôi sẽ trả lời kèm theo ưu đãi chi tiết.",
     "ctaBtn": "Nhận báo giá",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Video và tài liệu",
         "items": [
           {
             "q": "Tôi có thể xem video của nhà máy trước khi đặt hàng không?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Đúng. Xem video sản xuất trong phần Nhà máy trên trang này. Các cảnh quay bổ sung, clip đóng gói và chứng chỉ được gửi riêng theo yêu cầu."
           },
           {
             "q": "Bạn có cung cấp video sản phẩm, đặc biệt là xi lanh axetylen không?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Đúng. Video, hình ảnh và thông tin chi tiết về bình axetylen được gửi riêng theo yêu cầu của bạn."
           },
           {
             "q": "Bạn có thể chiếu video về quá trình sản xuất và kiểm soát chất lượng được không?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Đúng. Các video có sẵn về quá trình sản xuất, kiểm tra chất lượng, đóng gói và lưu kho được gửi riêng để bạn có thể xem sản phẩm được chuẩn bị như thế nào."
           },
           {
             "q": "Tôi có thể yêu cầu một video sản phẩm được thực hiện cho một đơn hàng cụ thể không?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Đối với một đơn đặt hàng hoặc yêu cầu sản phẩm cụ thể, hãy liên hệ với chúng tôi - chúng tôi sẽ thảo luận về việc hỗ trợ qua video và gửi tài liệu riêng."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Làm cách nào để nhận được video, chứng chỉ và báo giá?",
+            "a": "Trong biểu mẫu yêu cầu, hãy nêu rõ loại sản phẩm, kích thước xi lanh, số lượng, quốc gia nơi đến và nội dung cần gửi: video, chứng chỉ hoặc cả hai. Chúng tôi sẽ gửi chúng một cách riêng tư và chuẩn bị một lời đề nghị."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Bạn có thể cung cấp hình ảnh sản phẩm và thông số kỹ thuật?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Đúng. Hình ảnh sản phẩm, thông số kỹ thuật và bảng dữ liệu được gửi riêng theo yêu cầu."
           },
           {
             "q": "Làm thế nào tôi có thể nhận được báo giá cho các phụ kiện?",
@@ -396,105 +408,167 @@
   },
   "articles": {
     "title": "Bài viết mới nhất",
-    "subtitle": "Nội dung chuyên sâu dành cho chuyên gia hàn và cung cấp khí.",
+    "subtitle": "Nội dung chuyên môn dành cho các chuyên gia hàn và cung cấp khí đốt.",
     "readMore": "Đọc thêm →",
     "close": "Đóng",
     "items": [
       {
         "tag": "Thợ thủ công",
-        "title": "Giải pháp cung cấp bình propan hoàn chỉnh",
+        "title": "Giải pháp cung cấp xi lanh propan hoàn chỉnh",
         "desc": "Độ ổn định của thiết bị ảnh hưởng trực tiếp đến hiệu quả công việc hàn và cắt.",
         "body": [
-          "Đối với thợ thủ công hàn, sửa chữa và gia công kim loại mỗi ngày, thiết bị khí ổn định ảnh hưởng trực tiếp đến chất lượng và tốc độ làm việc.",
-          "Bình propan Wanda Group có sẵn từ 3L đến 50L với van POL, CGA 510 hoặc GOST tùy theo thị trường của bạn — một nhà cung cấp cho hàn, cắt và sưởi.",
-          "Chúng tôi khuyên nên đặt bình kèm van giảm áp, ống mềm và mỏ hàn. Cung cấp theo bộ giảm chi phí logistics và đảm bảo tương thích phụ kiện.",
-          "Khi đặt hàng, hãy nêu thị trường mục tiêu, dung tích, loại van và màu sắc — chúng tôi chuẩn bị nhãn OEM và đóng gói xuất khẩu dưới thương hiệu của bạn."
+          "Đối với những người thợ thủ công hàn, sửa chữa, chế tạo kim loại hàng ngày, thiết bị gas ổn định ảnh hưởng trực tiếp đến chất lượng và tốc độ làm việc.",
+          "Bình chứa khí propan của Tập đoàn Wanda có sẵn từ 3L đến 50L với van POL, CGA 510 hoặc GOST tùy thuộc vào thị trường của bạn - một nhà cung cấp hàn, cắt và sưởi ấm.",
+          "Chúng tôi khuyên bạn nên đặt hàng xi lanh cùng với bộ điều chỉnh, ống mềm và đèn khò. Cung cấp gói giúp giảm chi phí hậu cần và đảm bảo khả năng tương thích của phụ kiện.",
+          "Khi đặt hàng, hãy chỉ định thị trường mục tiêu, khối lượng, loại van và màu sắc - chúng tôi chuẩn bị đánh dấu OEM và đóng gói xuất khẩu mang thương hiệu của bạn."
         ]
       },
       {
-        "tag": "Lưu trữ",
-        "title": "Mẹo lưu trữ bình axetylen dài hạn",
-        "desc": "Điều kiện lưu trữ, cách đặt và kiểm tra định kỳ cho bình không sử dụng.",
+        "tag": "Kho",
+        "title": "Mẹo lưu trữ xi lanh axetylen dài hạn",
+        "desc": "Điều kiện bảo quản, phương pháp bố trí và kiểm tra thường xuyên đối với các chai chưa sử dụng.",
         "body": [
-          "Nhiều công ty lưu trữ bình axetylen và propan trong thời gian ngừng sản xuất hoặc làm hàng tồn. Bình không sử dụng vẫn cần xử lý đúng cách.",
-          "Lưu trữ bình đứng thẳng ở nơi thông gió tốt, tránh nguồn nhiệt và ánh nắng trực tiếp. Nhiệt độ lưu trữ thường không nên vượt quá 40–50°C.",
-          "Kiểm tra van, nắp và nhãn ít nhất mỗi quý. Với lưu trữ axetylen dài hạn, giữ bình thẳng đứng và không bao giờ để nghiêng.",
-          "Wanda Group vận chuyển bình kèm nắp bảo vệ và đóng gói xuất khẩu thiết kế cho vận tải và kho bãi an toàn. Hướng dẫn lưu trữ có sẵn bằng ngôn ngữ của bạn theo yêu cầu."
+          "Nhiều công ty lưu trữ xi lanh axetylen và propan trong thời gian nghỉ sản xuất hoặc dưới dạng hàng tồn kho. Xi lanh không sử dụng vẫn cần được xử lý thích hợp.",
+          "Bảo quản bình thẳng đứng ở khu vực thông gió tốt, tránh xa nguồn nhiệt và ánh nắng trực tiếp. Nhiệt độ bảo quản thường không được vượt quá 40–50°C.",
+          "Kiểm tra van, nắp và dấu hiệu ít nhất mỗi quý một lần. Để bảo quản axetylen lâu dài, hãy giữ bình thẳng đứng và không bao giờ để nghiêng.",
+          "Tập đoàn Wanda vận chuyển các bình chứa có nắp bảo vệ và bao bì xuất khẩu được thiết kế để vận chuyển và lưu kho an toàn. Hướng dẫn lưu trữ có sẵn bằng ngôn ngữ của bạn theo yêu cầu."
         ]
       },
       {
-        "tag": "Bảng giá",
-        "title": "Hướng dẫn ngân sách mua bình axetylen",
-        "desc": "Các yếu tố ảnh hưởng đến chi phí và cách chọn báo giá tối ưu.",
+        "tag": "Định giá",
+        "title": "Hướng dẫn ngân sách cho việc mua xi lanh axetylen",
+        "desc": "Các yếu tố ảnh hưởng đến chi phí và cách lựa chọn ưu đãi tối ưu.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Cũng cần tính chi phí vận chuyển (FOB/CIF), chứng từ và MOQ. Chúng tôi phản hồi trong 24 giờ với đầy đủ thông số, thời gian giao hàng và Incoterms.",
-          "Để nhận báo giá chính xác, hãy ghi model, số lượng, quốc gia đích và yêu cầu van vào form liên hệ — hoặc email sales@wandagroups.com."
+          "Giá xi lanh axetylen phụ thuộc vào khối lượng, loại van, tiêu chuẩn bắt buộc cho thị trường đích của bạn và số lượng đặt hàng. Chúng tôi không công bố giá niêm yết cố định trên trang web.",
+          "Các lô lớn hơn và các tùy chọn OEM (sơn, logo, bao bì) được trích dẫn riêng sau khi chúng tôi xem xét yêu cầu của bạn.",
+          "Các điều kiện vận chuyển (FOB/CIF và tương tự), chứng từ và thời gian giao hàng được xác nhận trong báo giá chính thức.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Yêu cầu báo giá",
-    "subtitle": "Cho chúng tôi biết kích thước, số lượng, quốc gia đích và ứng dụng — chúng tôi sẽ chuẩn bị báo giá chi tiết.",
+    "title": "Hãy thảo luận về yêu cầu của bạn",
+    "subtitle": "Hãy cho chúng tôi biết sản phẩm, kích thước, số lượng, quốc gia nơi đến và thông số kỹ thuật — đội ngũ bán hàng của chúng tôi sẽ trả lời kèm theo thông tin sản phẩm và báo giá.",
     "formTitle": "Yêu cầu báo giá",
-    "formSubtitle": "Để lại yêu cầu của bạn — đội ngũ bán hàng sẽ phản hồi với thông tin sản phẩm, giá, MOQ và thời gian giao hàng.",
-    "name": "Họ tên",
+    "formSubtitle": "Hoàn thành biểu mẫu cho một cuộc điều tra thương mại. Các trường bắt buộc được đánh dấu.",
+    "name": "Tên",
+    "company": "Công ty",
     "phone": "Điện thoại / WhatsApp",
     "email": "E-mail",
     "product": "Sản phẩm",
-    "quantity": "Số lượng",
-    "country": "Quốc gia đích",
+    "quantity": "Số lượng (tùy chọn)",
+    "country": "Quốc gia đích đến (tùy chọn)",
     "productOptions": [
-      "Bình axetylen",
-      "Bình propan",
-      "Máy phát axetylen",
+      "Xi lanh axetylen",
+      "Xi lanh propan",
+      "Máy phát điện axetylen",
       "Phụ kiện",
-      "Đơn hàng theo bộ",
-      "Cold storage / refrigeration"
+      "Kho lạnh/làm lạnh",
+      "Đặt hàng theo gói"
     ],
+    "quantityPlaceholder": "ví dụ. 200 chiếc, 1 thùng hoặc TBD",
+    "countryPlaceholder": "Hàng hóa sẽ được vận chuyển tới đâu",
     "message": "Yêu cầu bổ sung",
-    "messagePlaceholder": "Sản phẩm, kích thước, số lượng, quốc gia đích...",
+    "messagePlaceholder": "Sản phẩm, kích thước, số lượng, quốc gia nơi đến...",
     "submit": "Gửi yêu cầu",
     "sending": "Đang gửi...",
-    "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ sớm.",
+    "success": "Cảm ơn! Chúng tôi sẽ liên lạc với bạn trong thời gian ngắn.",
     "sendAnother": "Gửi yêu cầu khác",
-    "errorGeneric": "Gửi thất bại. Vui lòng thử lại hoặc email trực tiếp cho chúng tôi.",
-    "errorNoForm": "Form chưa được cấu hình. Vui lòng email sales@wandagroups.com",
+    "errorGeneric": "Không gửi được. Vui lòng thử lại hoặc gửi email trực tiếp cho chúng tôi.",
+    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
+    "emailAppButton": "Gửi qua ứng dụng email",
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
     "privacyPrefix": "Tôi đồng ý với",
     "privacySuffix": "và việc xử lý dữ liệu cá nhân của tôi để xử lý yêu cầu này.",
     "privacyLink": "Chính sách bảo mật",
-    "company": "Công ty",
-    "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
-    "emailAppButton": "Gửi qua ứng dụng email",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "termsAnd": "và",
+    "termsLink": "Điều khoản sử dụng",
+    "requirements": "Yêu cầu/Thông số kỹ thuật",
+    "requirementsPlaceholder": "Loại van, màu sắc, tiêu chuẩn, bao bì, nhãn hiệu OEM, ghi chú số lượng..."
   },
   "footer": {
     "company": "Nhà sản xuất xi lanh khí Wanda Group",
-    "tagline": "Sản xuất bình khí chuyên nghiệp",
-    "rights": "© 2026 Wanda Group. Bảo lưu mọi quyền.",
+    "tagline": "Sản xuất bình gas chuyên nghiệp",
+    "rights": "© 2026 Tập đoàn Wanda. Mọi quyền được bảo lưu.",
     "privacy": "Chính sách bảo mật",
-    "terms": "Terms of Use"
+    "terms": "Điều khoản sử dụng"
+  },
+  "privacy": {
+    "label": "Hợp pháp",
+    "title": "Chính sách bảo mật",
+    "updated": "Cập nhật lần cuối: ngày 25 tháng 8 năm 2026",
+    "intro": [
+      "Tập đoàn Wanda (“chúng tôi”) vận hành trang web này để giới thiệu bình gas, phụ kiện và nguồn cung cấp xuất khẩu có liên quan, đồng thời nhận các yêu cầu thương mại từ người mua công nghiệp.",
+      "Chính sách này giải thích dữ liệu cá nhân nào chúng tôi thu thập thông qua trang web, lý do chúng tôi sử dụng dữ liệu đó và cách bạn có thể liên hệ với chúng tôi về dữ liệu đó. Video sản xuất của nhà máy được hiển thị trên trang web này. Tệp chứng chỉ được gửi riêng theo yêu cầu."
+    ],
+    "sections": [
+      {
+        "title": "Ai chịu trách nhiệm",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Dữ liệu nào chúng tôi thu thập",
+        "body": [
+          "Khi bạn gửi biểu mẫu yêu cầu, chúng tôi sẽ nhận được dữ liệu bạn nhập: tên, email, số điện thoại, quốc gia đến, loại sản phẩm, số lượng và tin nhắn.",
+          "Trang web cũng lưu trữ lựa chọn ngôn ngữ của bạn trong trình duyệt (localStorage). Chúng tôi không chạy cookie quảng cáo hoặc bán danh sách khách truy cập."
+        ]
+      },
+      {
+        "title": "Tại sao chúng tôi sử dụng dữ liệu",
+        "body": [
+          "Chúng tôi chỉ sử dụng dữ liệu yêu cầu để trả lời yêu cầu của bạn, chuẩn bị báo giá, gửi thông tin sản phẩm, video hoặc chứng chỉ mà bạn yêu cầu và để điều phối đơn đặt hàng nếu chúng ta bắt đầu làm việc cùng nhau.",
+          "Cơ sở pháp lý: sự đồng ý của bạn khi bạn đánh dấu vào hộp kiểm trên biểu mẫu và lợi ích chính đáng của chúng tôi trong việc trả lời các yêu cầu bán hàng B2B."
+        ]
+      },
+      {
+        "title": "Ai nhận được dữ liệu",
+        "body": [
+          "Tin nhắn của bạn sẽ được gửi đến đội ngũ bán hàng của chúng tôi qua email. Biểu mẫu được xử lý bởi Web3Forms, nhà cung cấp kỹ thuật truyền thông báo cho chúng tôi.",
+          "Chúng tôi không bán dữ liệu cá nhân. Chúng tôi chỉ có thể chia sẻ những gì cần thiết với các đối tác hậu cần, kiểm tra hoặc ngân hàng nếu điều đó là cần thiết để thực hiện đơn đặt hàng đã thỏa thuận."
+        ]
+      },
+      {
+        "title": "Chúng ta giữ nó trong bao lâu",
+        "body": [
+          "Dữ liệu yêu cầu được lưu giữ trong khoảng thời gian cần thiết để xử lý yêu cầu và trong khoảng thời gian hợp lý sau đó để theo dõi và hạch toán doanh số bán hàng, trừ khi bạn yêu cầu chúng tôi xóa dữ liệu đó sớm hơn nếu luật pháp cho phép."
+        ]
+      },
+      {
+        "title": "Quyền của bạn",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "An ninh và trẻ em",
+        "body": [
+          "Chúng tôi thực hiện các bước tổ chức và kỹ thuật hợp lý để bảo vệ thư được chuyển tiếp và trong hộp thư của chúng tôi. Trang web này dành cho người mua doanh nghiệp, không dành cho trẻ em."
+        ]
+      }
+    ],
+    "contactLead": "Các câu hỏi về chính sách này:"
   },
   "ui": {
     "catalog": "Danh mục",
-    "catalogTitle": "Thông số sản phẩm chi tiết",
-    "catalogSubtitle": "Dữ liệu kỹ thuật đầy đủ, model và thông số cho từng danh mục. Chọn sản phẩm để xem bảng thông số.",
-    "requestPrice": "Yêu cầu giá cho model này",
+    "catalogTitle": "Thông số kỹ thuật chi tiết sản phẩm",
+    "catalogSubtitle": "Đầy đủ dữ liệu kỹ thuật, model và thông số cho từng chủng loại. Chọn một sản phẩm để xem bảng thông số kỹ thuật.",
+    "requestPrice": "Yêu cầu giá cho mẫu này",
     "services": "Dịch vụ",
-    "pricing": "Bảng giá",
+    "pricing": "Định giá",
     "getExactQuote": "Nhận báo giá chính xác",
-    "certifications": "Chứng nhận",
+    "certifications": "Chứng chỉ",
     "order": "Đặt hàng",
     "reviews": "Đánh giá",
     "contact": "Liên hệ",
     "phone": "Điện thoại",
     "location": "Vị trí",
-    "quoteResponse": "Phản hồi báo giá",
-    "support": "Hỗ trợ",
-    "exportReady": "Sẵn sàng xuất khẩu",
+    "quoteResponse": "Phản hồi trích dẫn",
+    "support": "Ủng hộ",
+    "countriesServed": "Hỗ trợ xuất khẩu",
+    "exportReady": "Xuất sẵn sàng",
     "years": "Năm",
     "acetylene": "Axetylen",
     "isoCertified": "Chứng nhận ISO",
@@ -508,17 +582,25 @@
     "quality": "Chất lượng",
     "faq": "Câu hỏi thường gặp",
     "blog": "Blog",
-    "countriesServed": "Các quốc gia phục vụ",
     "searchLanguage": "Tìm kiếm ngôn ngữ...",
-    "noLanguagesFound": "Không tìm thấy ngôn ngữ nào"
+    "noLanguagesFound": "Không tìm thấy ngôn ngữ nào",
+    "breadcrumb": "vụn bánh mì",
+    "primaryNav": "Sơ đẳng",
+    "menu": "Thực đơn",
+    "playVideo": "Phát video",
+    "productGallery": "Thư viện sản phẩm",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM / Nhãn hiệu riêng",
+    "Xuất khẩu quốc tế",
+    "Kiểm soát chất lượng",
+    "Tiêu chuẩn thị trường theo yêu cầu",
+    "Đơn đặt hàng số lượng lớn"
   ],
   "productDetails": {
     "tabs": {
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Chứng nhận",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Tài liệu dành cho hải quan và cơ quan quản lý. Bản sao được gửi riêng theo yêu cầu.",
         "points": [
           "ISO 9809, DOT, TPED",
           "MSDS & giấy chứng nhận chất lượng",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Điều khoản về giá và cung cấp",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Các điều khoản thương mại được xác nhận theo yêu cầu. Gửi chi tiết sản phẩm, số lượng và điểm đến để báo giá chính thức.",
+    "note": "Chúng tôi không công bố giá niêm yết cố định, MOQ hoặc thời gian giao hàng trên trang web này. Các điều khoản thương mại chính xác được xác nhận trong báo giá sau khi chúng tôi xem xét yêu cầu của bạn.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Định giá",
+        "value": "Theo yêu cầu",
+        "desc": "Báo giá chính thức sau khi xem xét yêu cầu"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Xác nhận mỗi đơn hàng",
+        "desc": "Phụ thuộc vào mô hình và điểm đến"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "thời gian dẫn",
+        "value": "Xác nhận mỗi đơn hàng",
+        "desc": "Được chia sẻ với báo giá"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Sự chi trả",
+        "value": "Đã thỏa thuận trong hợp đồng",
+        "desc": "Điều khoản được xác nhận trước khi sản xuất"
       }
     ],
     "factors": {
-      "title": "Yếu tố giá",
+      "title": "Điều gì ảnh hưởng đến báo giá",
       "items": [
-        "Dung tích & model xi lanh (2L – 50L)",
-        "Loại van (CGA, GOST, DIN, POL)",
-        "Tiêu chuẩn chứng nhận (ISO, DOT, TPED)",
-        "OEM: màu sắc, đánh dấu, đóng gói",
-        "Khối lượng đặt hàng & Incoterms"
+        "Khối lượng và mô hình xi lanh",
+        "Loại van và tiêu chuẩn kết nối",
+        "Tiêu chuẩn cần thiết cho thị trường đích",
+        "Màu sắc, đánh dấu và đóng gói OEM",
+        "Khối lượng đặt hàng và Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Axetylen WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Xi lanh axetylen",
+        "moq": "Theo yêu cầu",
+        "price": "Trích dẫn theo yêu cầu",
+        "lead": "Xác nhận mỗi đơn hàng"
       },
       {
-        "product": "Axetylen WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Bình chứa propan/LPG",
+        "moq": "Theo yêu cầu",
+        "price": "Trích dẫn theo yêu cầu",
+        "lead": "Xác nhận mỗi đơn hàng"
       },
       {
-        "product": "Propane WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Máy phát điện",
+        "moq": "Theo yêu cầu",
+        "price": "Trích dẫn theo yêu cầu",
+        "lead": "Xác nhận mỗi đơn hàng"
       },
       {
-        "product": "Propane WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Máy phát điện WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Bộ điều chỉnh",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Phụ kiện",
+        "moq": "Theo yêu cầu",
+        "price": "Trích dẫn theo yêu cầu",
+        "lead": "Xác nhận mỗi đơn hàng"
       }
     ],
     "tableHeaders": [
       "Sản phẩm",
       "MOQ",
-      "Giá (EXW)",
+      "Giá",
       "Thời gian dẫn"
     ]
   },
   "certifications": {
     "title": "Chứng nhận & Tiêu chuẩn",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Các tiêu chuẩn và lựa chọn chứng nhận được thảo luận tùy theo sản phẩm và thị trường đích. Bản sao chứng chỉ được gửi riêng theo yêu cầu - các tập tin không được xuất bản trên trang web này.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Nhận báo giá",
-        "desc": "Giá, MOQ, thời gian giao hàng và bảng thông số kỹ thuật trong vòng 24 giờ"
+        "desc": "Giá, MOQ, thời gian giao hàng và bảng thông số kỹ thuật sau khi được đội ngũ bán hàng của chúng tôi xem xét"
       },
       {
         "title": "Xác nhận đơn hàng",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Hợp đồng và điều khoản thanh toán đã được thống nhất trước khi bắt đầu sản xuất"
       },
       {
         "title": "Sản xuất & QC",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Sản xuất và thử nghiệm. Video và chứng chỉ được gửi riêng theo yêu cầu"
       },
       {
         "title": "Lô hàng",
-        "desc": "Đóng gói, chứng từ, giao hàng FOB/CIF/DDP"
+        "desc": "Đóng gói, chứng từ và điều kiện giao hàng theo thỏa thuận trong đơn hàng"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Người mua nói gì",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
+        "quote": "Chúng tôi đã đặt hàng lại bình axetylen 40L ba lần trong năm nay. Van GOST, màu OEM và bao bì xuất khẩu luôn khớp với mẫu đầu tiên.",
         "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
+        "role": "Chủ sở hữu, nhà phân phối khí hàn",
         "country": "Uzbekistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Báo giá đến cùng ngày với moq và thời gian giao hàng rõ ràng. Chai propan được giao đến với van POL và danh sách đóng gói đầy đủ - phía chúng tôi không có sự chậm trễ hải quan nào.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
+        "role": "Giám đốc mua sắm, cung ứng công nghiệp",
         "country": "Kazakhstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Chúng tôi mua xi lanh có bộ điều chỉnh và ống mềm theo đơn đặt hàng container. Các tài liệu và nhãn hiệu đã sẵn sàng cho thị trường của chúng tôi nên việc bán lại rất đơn giản.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Mua bán nhập khẩu, kinh doanh thiết bị gas",
+        "country": "Ả Rập Saudi"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "chất lượng",
         "eyebrow": "Chất lượng & an toàn",
         "title": "Kiểm tra bạn có thể đưa vào báo giá",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Kiểm tra vật liệu, kiểm tra rò rỉ, mô-men xoắn van và hình ảnh đóng gói. Gói chứng chỉ và báo cáo ảnh được gửi riêng theo yêu cầu.",
         "points": [
           "Kiểm tra áp suất và rò rỉ",
-          "Certificate package",
+          "Giấy chứng nhận theo yêu cầu",
           "Hình ảnh trước khi giao hàng"
         ]
       },
       {
         "id": "xuất khẩu",
         "eyebrow": "Xuất khẩu toàn cầu",
-        "title": "Được đóng gói cho các cảng, sẵn sàng cho hơn 50 quốc gia",
+        "title": "Đóng gói cho các cảng, sẵn sàng cho thị trường xuất khẩu",
         "text": "Xuất khẩu pallet, van bảo vệ, nhãn đa ngôn ngữ và tài liệu vận chuyển được điều phối cho Incoterms điểm đến của bạn.",
         "points": [
           "Hỗ trợ FOB/CIF",
           "Đóng gói bằng pallet",
           "Thời gian thực hiện 15–25 ngày"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Bọc bình gas dàn dựng tại sân nhà máy để xuất đi",
+    "about": "Công nhân trên sàn nhà máy của Wanda Group",
+    "accessories": "Bộ phụ kiện bình gas - bộ điều chỉnh, ống mềm, đèn khò và phụ kiện",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Bình chứa axetylen hòa tan có khối xốp và van bằng đồng",
+      "Hình ảnh máy phát điện axetylen tại nhà máy",
+      "Bình propan và LPG có nhiều kích cỡ và màu sắc",
+      "Bộ phụ kiện hàn cắt bình gas"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Điều động ban đêm: thiết bị được bọc trên xe moóc",
+      "Pallet và các bộ phận kim loại được dàn dựng để vận chuyển",
+      "Thùng giấy đóng gói xếp chồng lên nhau trong kho",
+      "Xi lanh bọc màng, dàn dựng tại sân nhà máy",
+      "Băng tải sản xuất bình gas dưới mái nhà máy",
+      "Xi lanh LPG treo trên băng tải hoàn thiện trên cao",
+      "Công nhân đi dạo trên sàn nhà máy của Wanda Group",
+      "Thân xi lanh propan hàn không sơn xếp chồng lên nhau hai chiều cao",
+      "Hàng vỏ trụ không sơn trên sàn bê tông",
+      "Cổ ống xi lanh và vỏ nắp tại xưởng",
+      "Thân xi lanh thô xếp chồng lên tường nhà máy",
+      "Các vòng đế thép được xếp chồng lên nhau trước khi lắp ráp",
+      "Phụ kiện bằng đồng được đóng gói trong thùng carton có bọt",
+      "Máy tạo axetylen kèm ống mềm và phụ kiện đi kèm",
+      "Vỏ xi lanh không sơn có cổ hở sau khi hàn"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Copeland",
+      "Thiết bị ngưng tụ làm mát bằng không khí với máy nén nửa kín Bitzer",
+      "Thiết bị ngưng tụ làm lạnh kiểu tủ kín",
+      "Thiết bị ngưng tụ làm mát bằng không khí bốn quạt công suất cao"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Hợp pháp",
-    "title": "Chính sách bảo mật",
-    "updated": "Cập nhật lần cuối: ngày 25 tháng 8 năm 2026",
-    "intro": [
-      "Tập đoàn Wanda (“chúng tôi”) vận hành trang web này để giới thiệu bình gas, phụ kiện và nguồn cung cấp xuất khẩu có liên quan, đồng thời nhận các yêu cầu thương mại từ người mua công nghiệp.",
-      "Chính sách này giải thích dữ liệu cá nhân nào chúng tôi thu thập thông qua trang web, lý do chúng tôi sử dụng dữ liệu đó và cách bạn có thể liên hệ với chúng tôi về dữ liệu đó. Chúng tôi không xuất bản video nhà máy hoặc tệp chứng chỉ trên trang web; những tài liệu đó được gửi riêng theo yêu cầu."
-    ],
-    "sections": [
-      {
-        "title": "Ai chịu trách nhiệm",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Dữ liệu nào chúng tôi thu thập",
-        "body": [
-          "Khi bạn gửi biểu mẫu yêu cầu, chúng tôi sẽ nhận được dữ liệu bạn nhập: tên, email, số điện thoại, quốc gia đến, loại sản phẩm, số lượng và tin nhắn.",
-          "Trang web cũng lưu trữ lựa chọn ngôn ngữ của bạn trong trình duyệt (localStorage). Chúng tôi không chạy cookie quảng cáo hoặc bán danh sách khách truy cập."
-        ]
-      },
-      {
-        "title": "Tại sao chúng tôi sử dụng dữ liệu",
-        "body": [
-          "Chúng tôi chỉ sử dụng dữ liệu yêu cầu để trả lời yêu cầu của bạn, chuẩn bị báo giá, gửi thông tin sản phẩm, video hoặc chứng chỉ mà bạn yêu cầu và để điều phối đơn đặt hàng nếu chúng ta bắt đầu làm việc cùng nhau.",
-          "Cơ sở pháp lý: sự đồng ý của bạn khi bạn đánh dấu vào hộp kiểm trên biểu mẫu và lợi ích chính đáng của chúng tôi trong việc trả lời các yêu cầu bán hàng B2B."
-        ]
-      },
-      {
-        "title": "Ai nhận được dữ liệu",
-        "body": [
-          "Tin nhắn của bạn sẽ được gửi đến đội ngũ bán hàng của chúng tôi qua email. Tùy thuộc vào cấu hình, biểu mẫu có thể được Web3Forms xử lý với tư cách là nhà cung cấp kỹ thuật truyền thông báo cho chúng tôi.",
-          "Chúng tôi không bán dữ liệu cá nhân. Chúng tôi chỉ có thể chia sẻ những gì cần thiết với các đối tác hậu cần, kiểm tra hoặc ngân hàng nếu điều đó là cần thiết để thực hiện đơn đặt hàng đã thỏa thuận."
-        ]
-      },
-      {
-        "title": "Chúng ta giữ nó trong bao lâu",
-        "body": [
-          "Dữ liệu yêu cầu được lưu giữ trong khoảng thời gian cần thiết để xử lý yêu cầu và trong khoảng thời gian hợp lý sau đó để theo dõi và hạch toán doanh số bán hàng, trừ khi bạn yêu cầu chúng tôi xóa dữ liệu đó sớm hơn nếu luật pháp cho phép."
-        ]
-      },
-      {
-        "title": "Quyền của bạn",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "An ninh và trẻ em",
-        "body": [
-          "Chúng tôi thực hiện các bước tổ chức và kỹ thuật hợp lý để bảo vệ thư được chuyển tiếp và trong hộp thư của chúng tôi. Trang web này dành cho người mua doanh nghiệp, không dành cho trẻ em."
-        ]
-      }
-    ],
-    "contactLead": "Các câu hỏi về chính sách này:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Hợp pháp",
+    "title": "Điều khoản sử dụng",
+    "updated": "Cập nhật lần cuối: ngày 27 tháng 8 năm 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Các điều khoản này chi phối việc sử dụng trang Wandagroups.com do Tập đoàn Wanda điều hành dành cho những người mua bình gas, máy phát điện và phụ kiện công nghiệp.",
+      "Bằng cách duyệt trang web hoặc gửi yêu cầu, bạn đồng ý với các điều khoản này và Chính sách quyền riêng tư của chúng tôi. Nếu bạn không đồng ý, không sử dụng trang web."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Chúng tôi là ai",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "Trang web này dùng để làm gì",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Trang web trình bày thông tin sản phẩm và nhận được yêu cầu thương mại. Nó dành cho người mua doanh nghiệp, không dành cho người tiêu dùng mua sắm với tư cách cá nhân và không dành cho trẻ em."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Báo giá, giá cả và đơn đặt hàng",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Giá cả, MOQ, thời gian giao hàng và thông số kỹ thuật trên trang web chỉ mang tính chất tham khảo. Tin nhắn thông qua biểu mẫu hoặc tin nhắn là một câu hỏi, không phải là một mệnh lệnh.",
+          "Hợp đồng chỉ tồn tại khi cả hai bên xác nhận lời đề nghị bằng văn bản (email hoặc tài liệu đã ký) và nhận được khoản đặt cọc đã thỏa thuận, trừ khi chúng tôi có quy định khác trong xác nhận đó."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Hình ảnh, video và chứng chỉ",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Hình ảnh và video nhà máy trên trang web minh họa quá trình sản xuất. Các tệp cảnh quay và chứng chỉ bổ sung được gửi riêng theo yêu cầu và vẫn là tài liệu bí mật của chúng tôi trừ khi chúng tôi cho phép bạn chia sẻ chúng."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Sở hữu trí tuệ",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Văn bản, hình ảnh, video, logo và bố cục trên trang web này thuộc về Wanda Group hoặc người cấp phép của chúng tôi. Bạn không được sao chép danh mục cho trang web thương mại của riêng mình mà không có sự đồng ý bằng văn bản của chúng tôi."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Sử dụng chấp nhận được",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Không sử dụng sai biểu mẫu yêu cầu (thư rác, nhận dạng sai hoặc cố gắng phá hoại trang web). Chúng tôi có thể bỏ qua hoặc xóa các yêu cầu lạm dụng."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Trách nhiệm pháp lý",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Chúng tôi chú ý giữ thông tin chính xác nhưng trang web có thể có lỗi hoặc tạm thời không khả dụng. Trong phạm vi được pháp luật cho phép, Tập đoàn Wanda không chịu trách nhiệm về tổn thất gián tiếp chỉ phát sinh từ việc sử dụng trang web.",
+          "Trách nhiệm pháp lý đối với hợp đồng cung cấp thực tế được quy định trong hợp đồng đó và trong luật hiện hành, không chỉ trong các điều khoản của trang web này."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Thay đổi",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Chúng tôi có thể cập nhật các điều khoản này. Ngày ở trên cùng hiển thị phiên bản hiện tại. Việc tiếp tục sử dụng trang web sau khi thay đổi có nghĩa là bạn chấp nhận các điều khoản được cập nhật."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Câu hỏi về các điều khoản này:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Dòng sản phẩm của chúng tôi",
+    "title": "Đơn vị làm lạnh",
+    "subtitle": "Một dòng sản phẩm riêng của Wanda Group — không phải danh mục của bên thứ ba. Thiết bị ngưng tụ, phòng lạnh và phần cứng, được chúng tôi cung cấp kèm theo xi lanh hoặc theo đơn đặt hàng độc lập.",
+    "moreLink": "Thiết bị kho lạnh →",
+    "cta": "Yêu cầu báo giá",
+    "alsoTitle": "Cũng có sẵn theo yêu cầu",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Tấm ngăn lạnh Polyurethane (B1/B2) và tấm inox 304",
+      "Máy làm mát không khí trong phòng lạnh — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Cuộn dây bay hơi bằng nhôm",
+      "Cửa phòng lạnh",
+      "Máy làm lạnh nước công nghiệp",
+      "Đơn vị làm lạnh xe và phòng lạnh di động"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade cung cấp thiết bị làm lạnh cùng với dây chuyền bình gas: các bộ phận, bảng điều khiển, bộ làm mát và phần cứng dây chuyền lạnh liên quan. Copeland, Bitzer và những cái tên tương tự đề cập đến thương hiệu máy nén bên trong thiết bị, không phải là thương hiệu đổi tên của các công ty đó.",
+    "videoTitle": "Video công ty",
+    "videoSubtitle": "Tổng quan về dây chuyền thiết bị lạnh. Nhiều cảnh quay hơn được gửi riêng theo yêu cầu.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Đơn vị làm mát bằng không khí bán kín Copeland",
+        "spec": "Bộ ngưng tụ · Máy nén Copeland",
+        "desc": "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Copeland dành cho phòng lạnh và hoạt động ở nhiệt độ trung bình."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Bộ làm mát bằng không khí bán kín Bitzer",
+        "spec": "Bộ ngưng tụ · Máy nén Bitzer",
+        "desc": "Thiết bị ngưng tụ làm mát bằng không khí với máy nén bán kín Bitzer dành cho các phòng có công suất cao hơn và nhiệt độ từ trung bình đến thấp."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Đơn vị dạng hộp kèm theo",
+        "spec": "Bộ ngưng tụ tủ",
+        "desc": "Thiết bị ngưng tụ kiểu tủ kín dành cho những nơi cần máy đặt trong nhà thay vì bệ trượt mở."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Thiết bị ngưng tụ loại U / công suất cao",
+        "spec": "Làm mát bằng không khí nhiều quạt",
+        "desc": "Thiết bị ngưng tụ làm mát bằng không khí lớn hơn với thiết bị ngưng tụ nhiều quạt dành cho kho lạnh lớn hơn và làm mát quy trình."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Chúng tôi là ai",
+    "title": "Nhà sản xuất công nghiệp dành cho người mua B2B",
+    "text": "Wanda Groups sản xuất và cung cấp bình gas công nghiệp, máy phát điện và phụ kiện hàn cho các nhà phân phối ở nước ngoài, đối tác OEM và người mua dự án.",
+    "text2": "Trọng tâm của chúng tôi là cung cấp liên kết với nhà máy, hỗ trợ lựa chọn sản phẩm, đặt hàng số lượng lớn và điều phối xuất khẩu - chứ không phải doanh số bán lẻ cho người tiêu dùng.",
+    "cta": "Tìm hiểu thêm về chúng tôi"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Sẵn sàng để yêu cầu báo giá?",
+      "quoteCta": "Yêu cầu báo giá",
+      "relatedProducts": "Sản phẩm liên quan",
+      "applications": "Ứng dụng",
+      "standardsTitle": "Tiêu chuẩn & chứng nhận",
+      "oemTitle": "OEM/tùy biến",
+      "packagingTitle": "Đóng gói & giao hàng",
+      "placeholders": {
+        "standards": "Các tiêu chuẩn và chứng chỉ có sẵn được xác nhận theo đơn đặt hàng và thị trường đích. Bản sao chứng chỉ được gửi riêng theo yêu cầu - các tập tin không được công bố trên trang web.",
+        "oem": "Các tùy chọn màu sắc, nhãn hiệu, van, nắp và đóng gói OEM có thể được thảo luận theo đơn đặt hàng và thị trường mục tiêu.",
+        "packaging": "Việc đóng gói và chứng từ xuất khẩu được chuẩn bị theo đơn đặt hàng và điều kiện vận chuyển."
+      }
+    },
+    "home": {
+      "seoTitle": "Nhà sản xuất xi lanh khí | OEM công nghiệp và xuất khẩu | Nhóm Wanda",
+      "seoDescription": "Wanda Groups sản xuất bình gas công nghiệp, máy phát điện và phụ kiện hàn cho OEM, người mua bán buôn và xuất khẩu quốc tế."
+    },
+    "about": {
+      "label": "Về chúng tôi",
+      "title": "Nhà sản xuất bình gas cho người mua công nghiệp",
+      "subtitle": "Chúng tôi hỗ trợ người mua ở nước ngoài trong việc lựa chọn sản phẩm, OEM, kiểm tra, đóng gói và vận chuyển.",
+      "seoTitle": "Giới thiệu về tập đoàn Wanda",
+      "seoDescription": "Tập đoàn Wanda sản xuất xi lanh axetylen, xi lanh propan, máy phát điện và phụ kiện để hàn, cắt và cung cấp khí công nghiệp."
+    },
+    "products": {
+      "label": "Các sản phẩm",
+      "title": "Sản phẩm của chúng tôi",
+      "subtitle": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+      "seoTitle": "Sản phẩm xi lanh khí",
+      "seoDescription": "Xi lanh axetylen, máy phát điện, xi lanh propan và các phụ kiện dùng trong công nghiệp và hàn.",
+      "refrigerationNote": "Wanda International Trade cung cấp thiết bị làm lạnh cùng với dây chuyền bình gas: các bộ phận, bảng điều khiển, bộ làm mát và phần cứng dây chuyền lạnh liên quan. Copeland, Bitzer và những cái tên tương tự đề cập đến thương hiệu máy nén bên trong thiết bị, không phải là thương hiệu đổi tên của các công ty đó.",
+      "catalog": {
+        "acetylene": {
+          "name": "Xi lanh axetylen hòa tan",
+          "overview": "Bình thép có khối xốp và dung môi để bảo quản và vận chuyển axetylen an toàn. Được sử dụng trong hàn, cắt, hàn và chế tạo kim loại.",
+          "seoTitle": "Xi lanh khí axetylen",
+          "seoDescription": "Bình thép có khối xốp và dung môi để bảo quản và vận chuyển axetylen an toàn. Được sử dụng trong hàn, cắt, hàn và chế tạo kim loại."
+        },
+        "propane": {
+          "name": "Xi lanh propan",
+          "overview": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+          "seoTitle": "Xi lanh khí propan",
+          "seoDescription": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp."
+        },
+        "lpg": {
+          "name": "Xi lanh LPG",
+          "overview": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp.",
+          "seoTitle": "Xi lanh khí LPG",
+          "seoDescription": "Xi lanh cho hỗn hợp propan, butan và LPG. Được sử dụng trong sưởi ấm, cắt, hàn, xây dựng và cung cấp khí công nghiệp."
+        },
+        "industrial": {
+          "name": "Xi lanh khí công nghiệp",
+          "overview": "Bình khí công nghiệp dùng cho hàn, cắt và cung cấp cho nhà máy — bao gồm các tùy chọn axetylen, propan và LPG phù hợp với thị trường của bạn.",
+          "seoTitle": "Xi lanh khí công nghiệp",
+          "seoDescription": "Bình gas công nghiệp phục vụ hàn, cắt và cung cấp cho nhà máy của Tập đoàn Wanda."
+        },
+        "generators": {
+          "name": "Máy phát điện axetylen",
+          "overview": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung.",
+          "seoTitle": "Máy phát điện axetylen",
+          "seoDescription": "Thiết bị sản xuất axetylen từ canxi cacbua. Cung cấp khí ổn định cho nhu cầu hàn và công nghiệp mà không cần cơ sở hạ tầng khí tập trung."
+        },
+        "accessories": {
+          "name": "Phụ kiện & phụ kiện xi lanh",
+          "overview": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh.",
+          "seoTitle": "Phụ kiện hàn",
+          "seoDescription": "Phạm vi hoàn chỉnh để vận hành bình gas an toàn: từ đồng hồ đo đến mỏ hàn. Mua sắm một cửa với xi lanh."
+        },
+        "refrigeration": {
+          "name": "Đơn vị làm lạnh",
+          "overview": "Một dòng sản phẩm riêng của Wanda Group — không phải danh mục của bên thứ ba. Thiết bị ngưng tụ, phòng lạnh và phần cứng, được chúng tôi cung cấp kèm theo xi lanh hoặc theo đơn đặt hàng độc lập.",
+          "seoTitle": "Đơn vị làm lạnh",
+          "seoDescription": "Một dòng sản phẩm riêng của Wanda Group — không phải danh mục của bên thứ ba. Thiết bị ngưng tụ, phòng lạnh và phần cứng, được chúng tôi cung cấp kèm theo xi lanh hoặc theo đơn đặt hàng độc lập."
+        }
+      }
+    },
+    "factory": {
+      "label": "Nhà máy",
+      "title": "Nhà máy và Sản xuất",
+      "subtitle": "Sản xuất, kiểm tra, đóng gói và gửi đi - được ghi lại bằng hình ảnh thực tế và video về nhà máy.",
+      "seoTitle": "Nhà máy và Sản xuất | Nhóm Wanda",
+      "seoDescription": "Ảnh thực tế của nhà máy, ảnh chụp trực tiếp và video ngắn từ xưởng sản xuất.",
+      "sections": [
+        {
+          "title": "Chế tạo",
+          "text": "Tạo hình, hàn và hoàn thiện xi lanh là một phần của quy trình sản xuất của nhà máy."
+        },
+        {
+          "title": "Quy trình sản xuất",
+          "text": "Từ khâu chuẩn bị vỏ đến lắp ráp và hoàn thiện - xem cảnh quay kho hàng và sàn sản xuất trong quá trình sản xuất."
+        },
+        {
+          "title": "Kiểm tra chất lượng",
+          "text": "Kiểm tra trực quan, đánh dấu và kích thước chuẩn bị xi lanh cho lô hàng."
+        },
+        {
+          "title": "Kiểm tra",
+          "text": "Kiểm tra áp suất và rò rỉ được áp dụng trước khi sản phẩm rời khỏi dây chuyền, theo yêu cầu đặt hàng."
+        },
+        {
+          "title": "Bao bì",
+          "text": "Đóng gói xuất khẩu bảo vệ xi lanh và phụ kiện để vận chuyển ra nước ngoài."
+        },
+        {
+          "title": "Đang tải và xuất",
+          "text": "Sắp xếp kho, tải tài liệu lên xe tải và gửi đi cho các đơn hàng xuất đi."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Chứng chỉ",
+      "title": "Chứng nhận & Tiêu chuẩn",
+      "subtitle": "Các tiêu chuẩn thường được người mua yêu cầu được liệt kê dưới đây. Khả năng áp dụng phụ thuộc vào sản phẩm và thị trường đích. Bản sao, số và hiệu lực của chứng chỉ được chia sẻ riêng tư theo yêu cầu — không được xuất bản dưới dạng khiếu nại chưa được xác minh.",
+      "seoTitle": "Chứng nhận và Tiêu chuẩn | Nhóm Wanda",
+      "seoDescription": "Các tiêu chuẩn được thảo luận về bình gas của Tập đoàn Wanda theo thị trường. Bản sao chứng chỉ được cung cấp riêng theo yêu cầu.",
+      "note": "Bản sao chứng chỉ được gửi riêng theo yêu cầu. Chúng tôi không xuất bản các tập tin chứng chỉ trên trang web."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM và bán buôn",
+      "subtitle": "Tùy chọn nhãn hiệu riêng và cung cấp số lượng lớn cho nhà phân phối và người mua công nghiệp.",
+      "seoTitle": "Cung cấp xi lanh khí OEM",
+      "seoDescription": "Sản xuất bình gas OEM và nhãn hiệu riêng cho các thương hiệu và nhà phân phối ở nước ngoài.",
+      "quoteTitle": "Thảo luận về các yêu cầu của OEM",
+      "quoteCta": "Yêu cầu báo giá OEM",
+      "capabilities": [
+        {
+          "title": "Logo tùy chỉnh",
+          "text": "Các tùy chọn logo và đánh dấu được thảo luận cho các đơn đặt hàng OEM đủ điều kiện."
+        },
+        {
+          "title": "Màu tùy chỉnh",
+          "text": "Màu xi lanh theo yêu cầu của thị trường hoặc thương hiệu."
+        },
+        {
+          "title": "Bao bì tùy chỉnh",
+          "text": "Xuất thùng carton, pallet, mác đóng gói theo đơn đặt hàng."
+        },
+        {
+          "title": "Nhãn riêng",
+          "text": "Dán nhãn và giới thiệu thương hiệu cho các kênh phân phối."
+        },
+        {
+          "title": "Đơn đặt hàng số lượng lớn",
+          "text": "Bán buôn số lượng lớn cho dự án và nhà phân phối."
+        },
+        {
+          "title": "Sản xuất OEM",
+          "text": "Cấu hình sản phẩm phù hợp với đặc điểm kỹ thuật và thị trường của bạn."
+        },
+        {
+          "title": "Hỗ trợ xuất khẩu",
+          "text": "Điều phối tài liệu và vận chuyển để giao hàng ở nước ngoài."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Thị trường",
+      "title": "Thị trường toàn cầu",
+      "subtitle": "Chúng tôi hỗ trợ người mua B2B quốc tế. Các khu vực bên dưới mô tả các khu vực yêu cầu chung - các quốc gia và dự án cụ thể được xác nhận theo từng trường hợp.",
+      "seoTitle": "Thị trường toàn cầu | Nhóm Wanda xuất khẩu",
+      "seoDescription": "Tập đoàn Wanda làm việc với các khách hàng công nghiệp quốc tế trên khắp Châu Phi, Trung Đông, Trung Á, Đông Nam Á, Châu Mỹ Latinh và các thị trường khác.",
+      "note": "Chúng tôi không công bố số lượng quốc gia, tên khách hàng hoặc tài liệu tham khảo dự án chưa được xác minh trên trang này.",
+      "regions": [
+        {
+          "title": "Châu phi",
+          "text": "Yêu cầu công nghiệp và nhà phân phối từ thị trường châu Phi."
+        },
+        {
+          "title": "Trung Đông",
+          "text": "Người mua tìm nguồn cung ứng xi lanh và thiết bị liên quan cho các dự án trong khu vực."
+        },
+        {
+          "title": "Trung Á",
+          "text": "Thảo luận về cung cấp bán buôn và dự án trên khắp các thị trường Trung Á."
+        },
+        {
+          "title": "Đông Nam Á",
+          "text": "Người mua công nghiệp đánh giá nguồn cung xi lanh xuất khẩu."
+        },
+        {
+          "title": "Mỹ Latinh",
+          "text": "Thắc mắc về bình gas công nghiệp và cung cấp phụ kiện."
+        },
+        {
+          "title": "Các thị trường quốc tế khác",
+          "text": "Các điểm đến bổ sung được xem xét theo tiêu chuẩn sản phẩm và hậu cần."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Ứng dụng",
+      "title": "Ứng dụng xi lanh",
+      "subtitle": "Sản phẩm được thiết kế cho các nhiệm vụ khí công nghiệp thông thường và yêu cầu của người mua ở nước ngoài.",
+      "seoTitle": "Ứng dụng xi lanh",
+      "seoDescription": "Sản phẩm được thiết kế cho các nhiệm vụ khí công nghiệp thông thường và yêu cầu của người mua ở nước ngoài.",
+      "items": [
+        {
+          "title": "Hàn & Hàn đồng",
+          "text": "Axetylen hòa tan và các thiết bị liên quan dùng cho hàn xưởng và chế tạo."
+        },
+        {
+          "title": "Cắt kim loại",
+          "text": "Xi lanh và phụ kiện để cắt nhiên liệu oxy tại chỗ và trong nhà máy."
+        },
+        {
+          "title": "Cung cấp khí công nghiệp",
+          "text": "Cung cấp xi lanh cho hệ thống phân phối khí công nghiệp và nhà máy."
+        },
+        {
+          "title": "Sự thi công",
+          "text": "Cung cấp khí đốt di động cho công trình xây dựng và bảo trì."
+        },
+        {
+          "title": "Chế tạo kim loại",
+          "text": "Xi lanh và phụ kiện cho các xưởng chế tạo và nhà máy đóng tàu."
+        },
+        {
+          "title": "Lưu trữ và phân phối khí đốt",
+          "text": "Xi lanh sẵn sàng lưu trữ và phân phối cho người mua công nghiệp."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Câu hỏi thường gặp",
+      "title": "Câu hỏi thường gặp",
+      "subtitle": "Công ty, sản phẩm, OEM và xuất khẩu — câu trả lời cho người mua ở nước ngoài trước khi bạn yêu cầu báo giá.",
+      "seoTitle": "Câu hỏi thường gặp",
+      "seoDescription": "Công ty, sản phẩm, OEM và xuất khẩu — câu trả lời cho người mua ở nước ngoài trước khi bạn yêu cầu báo giá."
+    },
+    "contactPage": {
+      "label": "Liên hệ",
+      "title": "Hãy thảo luận về yêu cầu của bạn",
+      "subtitle": "Tiếp cận đội ngũ bán hàng của chúng tôi bằng biểu mẫu, email hoặc tin nhắn. Chia sẻ sản phẩm, số lượng và điểm đến để báo giá nhanh hơn.",
+      "seoTitle": "Yêu cầu báo giá",
+      "seoDescription": "Hãy cho chúng tôi biết kích thước, số lượng, quốc gia đến và ứng dụng - chúng tôi sẽ chuẩn bị báo giá chi tiết."
+    },
+    "blog": {
+      "label": "Blog",
+      "title": "Bài viết mới nhất",
+      "subtitle": "Nội dung chuyên môn dành cho các chuyên gia hàn và cung cấp khí đốt.",
+      "seoTitle": "Bài viết & Hướng dẫn",
+      "seoDescription": "Nội dung chuyên môn dành cho các chuyên gia hàn và cung cấp khí đốt.",
+      "coming": "Nhiều hướng dẫn người mua và ghi chú sản phẩm sẽ được thêm vào đây. Sử dụng các bài viết trên hoặc liên hệ với chúng tôi để có tài liệu dành riêng cho sản phẩm."
+    },
+    "privacy": {
+      "seoTitle": "Chính sách bảo mật",
+      "seoDescription": "Chính sách quyền riêng tư đối với các câu hỏi và dữ liệu cá nhân trên trang web của Tập đoàn Wanda."
+    },
+    "terms": {
+      "seoTitle": "Điều khoản sử dụng",
+      "seoDescription": "Điều khoản sử dụng trang web của Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Không tìm thấy trang",
+      "seoDescription": "Trang bạn yêu cầu không có sẵn.",
+      "title": "Không tìm thấy trang",
+      "text": "Trang bạn đang tìm kiếm không tồn tại hoặc đã di chuyển.",
+      "home": "Trang chủ",
+      "products": "Các sản phẩm",
+      "contact": "Liên hệ / Nhận báo giá"
+    }
   }
 }

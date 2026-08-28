@@ -1,6 +1,6 @@
 /**
- * Translate locale JSON files from en.json.
- * Skips en, ru, zh by default (SKIP=ru,zh).
+ * Full locale translation from en.json (structure clone + translate all strings).
+ * Skips en, ru, zh by default.
  * Usage: npm run translate:locales
  */
 import fs from 'fs'
@@ -11,10 +11,8 @@ import {
   readJson,
   collect,
   setByPath,
-  getByPath,
   shouldKeepEnglish,
   TARGETS,
-  SKIP_TRANSLATE,
 } from './i18n-shared.mjs'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -82,46 +80,25 @@ async function translateUnique(texts, to, cache, code) {
       })
       saveCache(code, cache)
     }
-    process.stdout.write(`    ${Math.min(i + size, pending.length)}/${pending.length} new\r`)
+    process.stdout.write(`    ${Math.min(i + size, pending.length)}/${pending.length} cached\r`)
     await sleep(700)
   }
   if (pending.length) console.log('')
 }
 
-async function fillOne(code, api) {
+async function translateFull(code, api) {
   const file = path.join(localesDir, `${code}.json`)
-  const locale = readJson(file)
+  const locale = structuredClone(en)
   const cache = loadCache(code)
   const toTranslate = []
 
   for (const { path: p, value } of slots) {
-    let current = getByPath(locale, p)
-    if (typeof current !== 'string') {
-      setByPath(locale, p, value)
-      current = value
-    }
-    if (shouldKeepEnglish(p, value)) {
-      if (
-        p.endsWith('.icon') ||
-        /\.stats\[\d+\]\.value$/.test(p) ||
-        /^[\d+$%°×x→—–\-.,/\s]+$/.test(value)
-      ) {
-        setByPath(locale, p, value)
-      }
-      continue
-    }
-    if (current !== value) continue
+    if (shouldKeepEnglish(p, value)) continue
     toTranslate.push({ path: p, value })
   }
 
   const unique = [...new Set(toTranslate.map((s) => s.value))]
-  if (unique.length === 0) {
-    fs.writeFileSync(file, JSON.stringify(locale, null, 2) + '\n', 'utf8')
-    console.log(`ok ${code} (nothing left)`)
-    return
-  }
-
-  console.log(`${code}: ${unique.length} strings to translate`)
+  console.log(`${code}: translating ${unique.length} unique strings (${toTranslate.length} slots)`)
   await translateUnique(unique, api, cache, code)
 
   for (const { path: p, value } of toTranslate) {
@@ -136,9 +113,12 @@ const only = process.env.ONLY ? process.env.ONLY.split(',') : null
 
 async function main() {
   for (const [code, api] of TARGETS) {
-    if (skipSet.has(code)) continue
+    if (skipSet.has(code)) {
+      console.log(`skip ${code}`)
+      continue
+    }
     if (only && !only.includes(code)) continue
-    await fillOne(code, api)
+    await translateFull(code, api)
   }
 }
 

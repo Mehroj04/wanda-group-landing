@@ -1,56 +1,56 @@
 {
   "nav": {
-    "products": "Proizvodi",
-    "specs": "Specifikacije",
-    "applications": "Primene",
-    "about": "O studiji",
-    "gallery": "Galerija ",
-    "quality": "Kvalitet",
-    "faq": "uslovi i odredbe",
-    "contact": "Kontakt",
-    "getQuote": "Zatražite ponudu",
-    "inquire": "Pošalji upit →",
-    "services": "Usluge",
-    "pricing": "Određivanje cena",
-    "accessories": "Прибор",
     "home": "Хоме",
+    "products": "Производи",
+    "specs": "Спецификације",
+    "applications": "Апликације",
+    "about": "Абоут",
+    "gallery": "Галерија",
     "factory": "Фабрика",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
-    "certifications": "Certifications",
+    "quality": "Квалитет",
+    "faq": "ФАК",
+    "contact": "Контакт",
+    "getQuote": "Затражите понуду",
+    "inquire": "Питајте →",
+    "services": "Услуге",
+    "pricing": "Прицинг",
+    "accessories": "Прибор",
+    "refrigeration": "Хладно складиште",
+    "cooling": "Хлађење",
+    "certifications": "Цертификати",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Тржишта"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Произвођач индустријских гасних боца",
+    "title": "Произвођач индустријских гасних боца и опреме",
+    "subtitle": "Производња, ОЕМ и велепродајна набавка ацетиленских боца, пропан/ЛПГ боца, генератора и прибора за заваривање за међународне извозне купце.",
+    "lineGas": "Гасне боце",
+    "lineCold": "Расхладне јединице",
+    "cta": "Затражите понуду",
+    "ctaSecondary": "Погледајте производе",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Снабдевање фокусирано на произвођача"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Приватна марка и прилагођавање"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Међународна подршка за доставу"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Процес инспекције и тестирања"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Опције специфичне за тржиште на захтев"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Поуздан прибор за гасне боце",
@@ -58,220 +58,232 @@
     "cta": "Погледајте додатну опрему"
   },
   "products": {
-    "title": "Naši proizvodi",
-    "subtitle": "Acetilenski cilindri, generatori, propanski cilindri i pribor za industrijsku primenu i primenu zavarivanja.",
+    "title": "Наши производи",
+    "subtitle": "Ацетиленски цилиндри, генератори, пропан боце и прибор за индустријску примену и заваривање.",
+    "viewDetails": "Прикажи детаље",
     "items": [
       {
-        "title": "Acetilenski cilindar",
-        "desc": "Rastvoreni acetilenski cilindri za zavarivanje, sečenje i industrijske gasove. Različite veličine i opcije ventila.",
-        "icon": "🔥",
-        "spec": "2Л–40Л · ИСО / ДОТ / ТПЕД"
+        "title": "Ацетиленски цилиндар",
+        "spec": "2Л–40Л · стандарди потврђени по тржишту",
+        "desc": "Боце раствореног ацетилена за заваривање, сечење и снабдевање индустријским гасом.",
+        "icon": "🔥"
       },
       {
-        "title": "Generator acetilena",
-        "desc": "Oprema za stabilnu proizvodnju gasa, lako rukovanje i industrijsku primenu.",
-        "icon": "⚙️",
-        "spec": "Системи индустријске производње"
+        "title": "Генератор ацетилена",
+        "spec": "Системи индустријске производње",
+        "desc": "Опрема за стабилну производњу ацетилена на лицу места иу фабрици.",
+        "icon": "⚙️"
       },
       {
-        "title": "Propanski cilindar",
-        "desc": "Izdržljive boce za propan i TNG — skladištenje, grejanje, sečenje i industrijska upotreba.",
-        "icon": "🛢️",
-        "spec": "3Л–50Л · ПОЛ / ЦГА / ГОСТ"
+        "title": "Пропан Цилиндер",
+        "spec": "3Л–50Л · опције вентила по тржишту",
+        "desc": "Издржљиве ТНГ боце за грејање, сечење и индустријску употребу.",
+        "icon": "🛢️"
       },
       {
-        "title": "Dodatna oprema za cilindre",
-        "desc": "Creva, merači, baklje za sečenje, gorionici za zavarivanje, sigurnosni ventili i još mnogo toga.",
-        "icon": "🔧",
-        "spec": "Вентили · регулатори · црева · бакље"
+        "title": "Додатна опрема за цилиндар",
+        "spec": "Вентили · регулатори · црева · бакље",
+        "desc": "Одговарајуће арматуре се испоручују са цилиндрима или као посебна поруџбина.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Прикажи детаље"
+    ]
   },
   "specs": {
-    "title": "Tehničke specifikacije",
-    "subtitle": "Istražite opcije cilindra, mogućnosti prilagođavanja i detalje isporuke pre slanja upita.",
+    "title": "Техничке спецификације",
+    "subtitle": "Истражите опције цилиндара, могућности прилагођавања и детаље испоруке пре него што пошаљете упит.",
     "items": [
       {
-        "title": "Kapacitet cilindra",
-        "desc": "Različite mogućnosti kapaciteta i obima u zavisnosti od primene i zahteva tržišta."
+        "title": "Цилиндер Цапацити",
+        "desc": "Различите опције капацитета и запремине у зависности од примене и захтева тржишта."
       },
       {
-        "title": "Ventili i poklopci",
-        "desc": "Ventili, kape i fitinzi se isporučuju u skladu sa potrebama kupca i projekta."
+        "title": "Вентили и поклопци",
+        "desc": "Вентили, поклопци и фитинзи се испоручују према потребама купаца и пројекта."
       },
       {
-        "title": "Opcije rastvarača",
-        "desc": "Sistem poroznog punila i rastvarači za stabilno skladištenje acetilena."
+        "title": "Солвент Оптионс",
+        "desc": "Порозни систем пуњења и растварачи за стабилно складиштење ацетилена."
       },
       {
-        "title": "Pakovanje i isporuka",
-        "desc": "Podrška za izvoznu ambalažu i otpremu za distributere i korisnike projekta."
+        "title": "Паковање и достава",
+        "desc": "Подршка за извозно паковање и испоруку за дистрибутере и клијенте пројекта."
       }
     ]
   },
   "applications": {
-    "title": "Primene cilindra",
-    "subtitle": "Proizvodi dizajnirani za uobičajene zadatke vezane za industrijski gas i zahteve kupaca u inostranstvu.",
+    "title": "Цилиндер Апплицатионс",
+    "subtitle": "Производи дизајнирани за уобичајене задатке индустријског гаса и захтеве купаца у иностранству.",
     "items": [
       "Заваривање и лемљење",
-      "Sečenje metala",
-      "Snabdevanje industrijskim gasom",
-      "Tumačenje",
-      "Izrada metala",
-      "Skladištenje i distribucija gasa"
+      "Метал Цуттинг",
+      "Индустријско снабдевање гасом",
+      "Изградња",
+      "Метал Фабрицатион",
+      "Складиштење и дистрибуција гаса"
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Зашто изабрати Ванда групе",
+    "subtitle": "Конкретне могућности за индустријске купце који оцењују производног партнера.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Снабдевање фокусирано на произвођача",
+        "desc": "Снабдевање производима оријентисано на производњу, а не само на трговачке каталоге."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "ОЕМ подршка",
+        "desc": "Прилагођена боја, ознака, вентил и паковање се разматрају по наруџбини."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Контрола квалитета",
+        "desc": "Преглед од материјала до паковања пре отпреме."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Међународни извоз",
+        "desc": "Координација извозног паковања и испоруке за купце у иностранству."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Прилагођавање производа",
+        "desc": "Спецификације прилагођене захтевима тржишта и примене."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Респонзивна продајна подршка",
+        "desc": "Цитати и технички одговори путем обрасца, е-поште и месинџера."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Могућност масовног наручивања",
+        "desc": "Подржане велепродајне количине за дистрибутере и пројектне купце."
       }
     ]
   },
   "about": {
-    "title": "Profesionalni proizvođač gasnih boca",
-    "text": "Proizvođač boca za gas Wanda Group specijalizovan je za proizvodnju i snabdevanje industrijskih boca za gas i pratećeg pribora. Naši proizvodi se široko koriste u zavarivanju, sečenju, distribuciji gasa, industrijskom skladištenju i drugim poljima za snabdevanje gasom.",
-    "text2": "Podržavamo inostrane kupce u izboru proizvoda, prilagođavanju, kontroli kvaliteta, koordinaciji pakovanja i otpreme.",
+    "title": "Произвођач гасних боца за индустријске купце",
+    "text": "Ванда Гроуп производи ацетиленске боце, пропан боце, генераторе и прибор за заваривање, сечење и снабдевање индустријским гасом.",
+    "text2": "Подржавамо купце из иностранства са избором производа, ОЕМ-ом, инспекцијом, паковањем и испоруком.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Мануфацтуринг",
+        "desc": "Формирање, заваривање, испитивање и дорада за индустријске гасне боце."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "ОЕМ подршка",
+        "desc": "Боја, означавање, вентил, капа и опције паковања по наруџбини."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Процес квалитета",
+        "desc": "Инспекција и тестирање усклађено са захтевима наруџбине и тржишта."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Међународни извоз",
+        "desc": "Подршка за документацију и паковање за индустријске купце из иностранства."
       }
     ]
   },
   "gallery": {
     "title": "Унутар наше фабрике",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "Праве фотографије биљака, снимци отпреме уживо и кратки видео снимци са производног спрата.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Ноћна отпрема",
+        "desc": "Натоварена приколица одлази са умотаном опремом - време и место утиснуто на снимку."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Терет припремљен за отпрему",
+        "desc": "Палете и делови прикупљени за отпрему. Жива слика складишта, а не студијски сет."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Паковане залихе",
+        "desc": "Картоне наслагане у магацину, спремне за следећу одлазну поруџбину."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Упаковано за отпрему",
+        "desc": "Цилиндри умотани и постављени у постројењу за отпрему."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Производни транспортер",
+        "desc": "Тела цилиндара се крећу кроз линију за формирање и руковање."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "ТНГ завршна линија",
+        "desc": "Осликани ТНГ цилиндри на надземном транспортеру пре паковања."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "Унутар биљке",
+        "desc": "Производна хала — људи, машине и залихе у процесу."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Заварена тела цилиндара",
+        "desc": "Шкољке након ободног заваривања, пре фарбања и вентили."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Шкољке пре фарбања",
+        "desc": "Неофарбана тела стављена на под за следећи корак процеса."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Залихе у процесу",
+        "desc": "Секције цеви и љуске са поклопцима чекају на монтажу."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Тела цилиндара на лагеру",
+        "desc": "Ваљане шкољке наслагане након заваривања, пре глава и вентила."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Основни прстенови",
+        "desc": "Ножни прстенови припремљени за заваривање на шкољке цилиндара."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Упаковане арматуре",
+        "desc": "Вентили и фитинзи паковани пеном за извоз."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Генератор ацетилена",
+        "desc": "Генераторска јединица са цревом и прикључцима, спремна за напуштање постројења."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Шкољке на поду",
+        "desc": "Тела са отвореним вратом после заваривања — шаржа пре уградње вентила."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Фабрички видео снимци",
+    "videosSubtitle": "Нови шорц са фабричког пода. Више снимака се шаље приватно на захтев."
   },
   "quality": {
     "title": "Контрола квалитета",
     "subtitle": "Свака серија иде истим путем: производња, испитивање, инспекција и коначна контрола квалитета.",
     "steps": [
       {
-        "title": "Производња",
-        "desc": "Формирање, заваривање и монтажа под контролом процеса постројења."
+        "title": "Сировина",
+        "desc": "Долазни материјали су прегледани у складу са захтевима налога и процеса."
       },
       {
-        "title": "Тестирање",
-        "desc": "Тестови притиска и цурења пре него што цилиндри напусте линију."
+        "title": "Производња",
+        "desc": "Формирање, заваривање и монтажа под контролом процеса постројења."
       },
       {
         "title": "Инспекција",
         "desc": "Визуелне, обележавање и провере димензија у односу на поруџбину."
       },
       {
-        "title": "Коначна контрола квалитета",
-        "desc": "Инспекција паковања пре извозне пошиљке."
+        "title": "Тестирање",
+        "desc": "Тестови притиска и цурења пре него што цилиндри напусте линију."
+      },
+      {
+        "title": "Финал КЦ",
+        "desc": "Коначна контрола квалитета пре пуштања у паковање."
+      },
+      {
+        "title": "Паковање",
+        "desc": "Извозно паковање припремљено за транспорт."
+      },
+      {
+        "title": "Испорука",
+        "desc": "Учитавање и отпрема документације за излазне поруџбине."
       }
     ]
   },
   "faq": {
     "title": "Често постављана питања",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Компанија, производи, ОЕМ и извоз — одговори за купце из иностранства пре него што затражите понуду.",
     "cta": "Нисте пронашли своје питање? Пошаљите производ, величину, количину и земљу одредишта — ми ћемо вам одговорити са детаљном понудом.",
     "ctaBtn": "Затражите понуду",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Видео снимци и документи",
         "items": [
           {
             "q": "Могу ли да гледам фабричке видео записе пре него што наручим?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Да. Погледајте видео снимке производње у одељку Фабрика на овој страници. Додатни снимци, клипови за паковање и сертификати се шаљу приватно на захтев."
           },
           {
             "q": "Да ли пружате видео записе о производима, посебно за ацетиленске цилиндре?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Да. Видео записи, фотографије и детаљне информације о ацетиленским боцама се шаљу приватно по вашем захтеву."
           },
           {
             "q": "Можете ли показати видео снимке производње и контроле квалитета?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Да. Доступни видео снимци производње, провере квалитета, паковања и складиштења се шаљу приватно како бисте могли да видите како се производи припремају."
           },
           {
             "q": "Могу ли да затражим видео снимак производа направљен за одређену поруџбину?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "За одређену поруџбину или захтеве производа, контактирајте нас — разговараћемо о видео подршци и послати материјале приватно."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Како да добијем видео записе, сертификате и понуду?",
+            "a": "У обрасцу за упит наведите тип производа, величину цилиндра, количину, земљу одредишта и шта да пошаљете: видео записе, сертификате или обоје. Послаћемо их приватно и припремити понуду."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Можете ли дати фотографије и спецификације производа?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Да. Фотографије производа, спецификације и технички листови се шаљу приватно на захтев."
           },
           {
             "q": "Како могу добити понуду за додатну опрему?",
@@ -395,110 +407,172 @@
     ]
   },
   "articles": {
-    "title": "Najnoviji članci",
-    "subtitle": "Stručni sadržaj za stručnjake za zavarivanje i snabdevanje gasom.",
-    "readMore": "Saznajte više",
-    "close": "Zatvori",
+    "title": "Најновији чланци",
+    "subtitle": "Стручни садржај за професионалце за заваривање и снабдевање гасом.",
+    "readMore": "Прочитајте више →",
+    "close": "Затвори",
     "items": [
       {
-        "tag": "obrtna redstva",
-        "title": "Kompletno rešenje za snabdevanje propan cilindra",
-        "desc": "Stabilnost opreme direktno utiče na efikasnost zavarivanja i sečenja.",
+        "tag": "занатлије",
+        "title": "Комплетно решење за снабдевање пропанским боцама",
+        "desc": "Стабилност опреме директно утиче на ефикасност рада заваривања и резања.",
         "body": [
-          "Za zanatlije koji svakodnevno zavaruju, popravljaju i izrađuju metal, stabilna gasna oprema direktno utiče na kvalitet i brzinu rada.",
-          "Wanda Group boce sa propanom su dostupne od 3L do 50L sa POL, CGA 510 ili gost ventilima u zavisnosti od vašeg tržišta — jedan dobavljač za zavarivanje, sečenje i grejanje.",
-          "Preporučujemo naručivanje cilindara zajedno sa regulatorima, crevima i bakljama. Snabdevanje paketom smanjuje logističke troškove i obezbeđuje kompatibilnost dodatne opreme.",
-          "Prilikom naručivanja navesti ciljno tržište, zapreminu, tip ventila i boju — pripremamo OEM obeležavanje i izvoznu ambalažu pod Vašim brendom."
+          "За мајсторе који свакодневно заварују, поправљају и израђују метал, стабилна гасна опрема директно утиче на квалитет и брзину рада.",
+          "Пропан цилиндри Ванда Гроуп доступни су од 3Л до 50Л са ПОЛ, ЦГА 510 или ГОСТ вентилима у зависности од вашег тржишта — један добављач за заваривање, сечење и грејање.",
+          "Препоручујемо да цилиндре наручите заједно са регулаторима, цревима и горионицима. Снабдевање у пакету смањује трошкове логистике и обезбеђује компатибилност додатне опреме.",
+          "Приликом наручивања наведите циљно тржиште, запремину, тип вентила и боју — припремамо ОЕМ ознаку и извозно паковање под вашим брендом."
         ]
       },
       {
         "tag": "Складиштење",
-        "title": "Dugoročni saveti za skladištenje acetilenskog cilindra",
-        "desc": "Uslovi skladištenja, načini postavljanja i redovne kontrole neiskorišćenih boca.",
+        "title": "Савети за дуготрајно складиштење ацетиленских цилиндара",
+        "desc": "Услови складиштења, начини постављања и редовни прегледи неискоришћених цилиндара.",
         "body": [
-          "Mnoge kompanije skladište boce sa acetilenom i propanom tokom proizvodnih pauza ili kao inventar. Neiskorišćeni cilindri i dalje zahtevaju pravilno rukovanje.",
-          "Skladištite cilindre u uspravnom položaju u dobro provetrenom prostoru, dalje od izvora toplote i direktne sunčeve svetlosti. Temperatura skladištenja obično ne bi trebalo da prelazi 40–50°C.",
-          "Pregledajte ventile, poklopce i oznake najmanje jednom kvartalno. Za dugotrajno skladištenje acetilena, držite cilindre vertikalno i nikada ne dozvolite naginjanje.",
-          "Grupa Wanda isporučuje boce sa zaštitnim poklopcima i izvoznom ambalažom dizajniranom za bezbedan transport i skladištenje. Vodiči za skladištenje su dostupni na vašem jeziku na zahtev."
+          "Многе компаније складиште ацетилен и пропан боце током пауза у производњи или као залихе. Неискоришћени цилиндри и даље захтевају правилно руковање.",
+          "Чувајте цилиндре усправно у добро проветреном простору даље од извора топлоте и директне сунчеве светлости. Температура складиштења обично не би требало да прелази 40-50 ° Ц.",
+          "Прегледајте вентиле, поклопце и ознаке најмање квартално. За дуготрајно складиштење ацетилена, држите цилиндре вертикално и никада не дозволите нагињање.",
+          "Ванда Гроуп испоручује цилиндре са заштитним поклопцима и амбалажом за извоз дизајниране за безбедан транспорт и складиштење. Водичи за складиштење доступни су на вашем језику на захтев."
         ]
       },
       {
-        "tag": "Određivanje cena",
-        "title": "Vodič za budžet za kupovinu acetilenskog cilindra",
-        "desc": "Faktori koji utiču na troškove i kako odabrati optimalnu ponudu.",
+        "tag": "Прицинг",
+        "title": "Водич за буџет за куповину ацетиленског цилиндра",
+        "desc": "Фактори који утичу на цену и како одабрати оптималну понуду.",
         "body": [
-          "Cylinder pricing depends on volume, valve type, destination-market standards and order quantity. Fixed list prices are not published on this website — request a formal quotation.",
-          "OEM options and order volume are quoted individually after we review your inquiry.",
-          "Takođe faktor u isporuci (FOB/CIF), dokumentima i MOQ. U roku od 24 sata odgovaramo sa punim specifikacijama, rokom isporuke i Incoterms-om.",
-          "Za tačnu ponudu, navedite zahteve za model, količinu, odredišnu zemlju i ventil u obrascu za kontakt — ili pošaljite e-poruku na sales@wandagroups.com."
+          "Цене ацетиленских боца зависе од запремине, типа вентила, потребних стандарда за ваше одредишно тржиште и количине наруџбине. Не објављујемо фиксне цене на веб страници.",
+          "Веће партије и ОЕМ опције (слика, лого, паковање) се цитирају појединачно након што прегледамо ваш упит.",
+          "Услови испоруке (ФОБ/ЦИФ и слично), документи и време испоруке су потврђени у званичној понуди.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Затражите понуду",
-    "subtitle": "Recite nam veličinu, količinu, odredišnu zemlju i primenu — pripremićemo detaljnu ponudu.",
+    "title": "Хајде да разговарамо о вашим захтевима",
+    "subtitle": "Реците нам производ, величину, количину, земљу одредишта и спецификације — наш продајни тим ће одговорити са информацијама о производу и понуду.",
     "formTitle": "Затражите понуду",
-    "formSubtitle": "Ostavite svoje zahteve — naš prodajni tim će odgovoriti sa informacijama o proizvodu, cenama, MOQ-om i vremenom isporuke.",
-    "name": "Ime",
+    "formSubtitle": "Попуните образац за комерцијални упит. Обавезна поља су означена.",
+    "name": "Име",
+    "company": "Компанија",
     "phone": "Телефон / ВхатсАпп",
     "email": "Емаил",
-    "product": "Proizvod",
-    "quantity": "Količina",
-    "country": "Земља дестинације",
+    "product": "Производ",
+    "quantity": "Количина (опционо)",
+    "country": "Земља одредишта (опционо)",
     "productOptions": [
-      "Acetilenski cilindar",
-      "Propanski cilindar",
-      "Generator acetilena",
-      "Dodatna oprema",
-      "Cold storage / refrigeration",
-      "Porudžbina paketa"
+      "Ацетиленски цилиндар",
+      "Пропан Цилиндер",
+      "Генератор ацетилена",
+      "Прибор",
+      "Хладно складиштење / хлађење",
+      "Бундле Ордер"
     ],
-    "message": "Dodatni Zahtjevi",
-    "messagePlaceholder": "Proizvod, veličina, količina, odredišna zemlja...",
+    "quantityPlaceholder": "нпр. 200 ком, 1 контејнер, или ТБД",
+    "countryPlaceholder": "Где ће се роба отпремити",
+    "message": "Додатни захтеви",
+    "messagePlaceholder": "Производ, величина, количина, земља одредишта...",
     "submit": "Пошаљите упит",
-    "sending": "Шаље се…",
-    "success": "Hvala! Kontaktiraćemo vas uskoro.",
-    "sendAnother": "Pošaljite još jedan upit",
-    "errorGeneric": "Slanje nije uspelo. Pokušajte ponovo ili nam direktno pošaljite imejl.",
-    "errorNoForm": "Obrazac nije konfigurisan. Pošaljite e-poruku na sales@wandagroups.com",
-    "privacyPrefix": "Слажем се са",
-    "privacySuffix": "и на обраду мојих личних података ради обраде овог упита.",
-    "privacyLink": "Политика приватности",
-    "company": "Компанија",
+    "sending": "Слање...",
+    "success": "Хвала вам! Ускоро ћемо вас контактирати.",
+    "sendAnother": "Пошаљите још један упит",
+    "errorGeneric": "Слање није успело. Покушајте поново или нам директно пошаљите е-пошту.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Пошаљите путем апликације за е-пошту",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "Слажем се са",
+    "privacySuffix": ", и на обраду мојих личних података ради обраде овог упита.",
+    "privacyLink": "Политика приватности",
+    "termsAnd": "анд тхе",
+    "termsLink": "Услови коришћења",
+    "requirements": "Захтеви / Спецификације",
+    "requirementsPlaceholder": "Тип вентила, боја, стандард, паковање, ОЕМ ознака, напомене о количини..."
   },
   "footer": {
-    "company": "Proizvođač gasnih boca Wanda Group",
-    "tagline": "Profesionalna proizvodnja gasnih boca",
-    "rights": "© 2026. Wanda Group. Sva prava zadržana.",
+    "company": "Произвођач гасних цилиндара Ванда Гроуп",
+    "tagline": "Професионална производња гасних боца",
+    "rights": "© 2026 Ванда Гроуп. Сва права задржана.",
     "privacy": "Политика приватности",
-    "terms": "Terms of Use"
+    "terms": "Услови коришћења"
+  },
+  "privacy": {
+    "label": "Правна",
+    "title": "Политика приватности",
+    "updated": "Последње ажурирање: 25. августа 2026",
+    "intro": [
+      "Ванда Гроуп („ми“, „нас“) управља овом веб-страницом како би представила боце за гас, прибор и сродну извозну понуду, као и за примање комерцијалних упита од индустријских купаца.",
+      "Ова политика објашњава које личне податке прикупљамо преко сајта, зашто их користимо и како можете да нас контактирате у вези са тим. Видео снимци фабричке производње приказани су на овој веб страници. Датотеке сертификата се шаљу приватно на захтев."
+    ],
+    "sections": [
+      {
+        "title": "Ко је одговоран",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Које податке прикупљамо",
+        "body": [
+          "Када пошаљете упитник добијамо податке које унесете: име, е-маил, телефон, одредишну земљу, тип производа, количину и поруку.",
+          "Сајт такође чува ваш избор језика у претраживачу (лоцалСтораге). Не покрећемо рекламне колачиће нити продајемо листе посетилаца."
+        ]
+      },
+      {
+        "title": "Зашто користимо податке",
+        "body": [
+          "Податке о упитима користимо само да бисмо одговорили на ваш захтев, припремили понуду, послали информације о производу, видео записе или сертификате које сте тражили и да бисмо координирали поруџбину ако почнемо да радимо заједно.",
+          "Правни основ: ваш пристанак када означите поље за потврду на обрасцу и наш легитимни интерес да одговоримо на захтеве Б2Б продаје."
+        ]
+      },
+      {
+        "title": "Ко прима податке",
+        "body": [
+          "Ваша порука се доставља нашем продајном тиму путем е-поште. Образац обрађује Веб3Формс, технички провајдер који нам шаље поруку.",
+          "Ми не продајемо личне податке. Можемо да поделимо оно што је потребно са логистичким, инспекцијским или банкарским партнерима само ако је то потребно за испуњење договореног налога."
+        ]
+      },
+      {
+        "title": "Колико дуго га чувамо",
+        "body": [
+          "Подаци о упитима се чувају онолико дуго колико је потребно за обраду захтева и разуман период након тога за праћење продаје и рачуноводство, осим ако од нас затражите да их избришемо раније где закон дозвољава."
+        ]
+      },
+      {
+        "title": "Ваша права",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Обезбеђење и деца",
+        "body": [
+          "Предузимамо разумне техничке и организационе кораке да заштитимо поруке у транспорту иу нашем поштанском сандучету. Ова веб страница је намењена пословним купцима, а не деци."
+        ]
+      }
+    ],
+    "contactLead": "Питања о овој политици:"
   },
   "ui": {
     "catalog": "Каталог",
-    "catalogTitle": "Detaljne specifikacije proizvoda",
-    "catalogSubtitle": "Kompletni tehnički podaci, modeli i parametri za svaku kategoriju. Izaberite proizvod da biste videli tabelu sa specifikacijama.",
-    "requestPrice": "Zatražite cenu za ovaj model",
-    "services": "Usluge",
-    "pricing": "Određivanje cena",
-    "getExactQuote": "Preuzmite tačnu ponudu",
-    "certifications": "Sertifikati",
-    "order": "Налог",
-    "reviews": "Recenzije",
-    "contact": "Kontakt",
-    "phone": "Telefon",
-    "location": "Lokacija",
-    "quoteResponse": "Odgovor na ponudu",
-    "support": "Potpora",
-    "exportReady": "Spremno za izvoz",
-    "years": "Godine",
-    "acetylene": "Acetilen!",
-    "isoCertified": "ISO sertifikat",
-    "globalExport": "Globalni izvoz",
+    "catalogTitle": "Детаљне спецификације производа",
+    "catalogSubtitle": "Комплетни технички подаци, модели и параметри за сваку категорију. Изаберите производ да бисте видели табелу са спецификацијама.",
+    "requestPrice": "Захтевајте цену за овај модел",
+    "services": "Услуге",
+    "pricing": "Прицинг",
+    "getExactQuote": "Добијте тачну понуду",
+    "certifications": "Цертификати",
+    "order": "Ред",
+    "reviews": "Рецензије",
+    "contact": "Контакт",
+    "phone": "Телефон",
+    "location": "Локација",
+    "quoteResponse": "Куоте респонсе",
+    "support": "Подршка",
+    "countriesServed": "Подршка за извоз",
+    "exportReady": "Извоз спреман",
+    "years": "Године",
+    "acetylene": "Ацетилен",
+    "isoCertified": "ИСО Цертифиед",
+    "globalExport": "Глобал Екпорт",
     "products": "Производи",
     "specs": "Спецификације",
     "applications": "Апликације",
@@ -508,17 +582,25 @@
     "quality": "Квалитет",
     "faq": "ФАК",
     "blog": "Блог",
-    "countriesServed": "Служене земље",
     "searchLanguage": "Претражи језик...",
-    "noLanguagesFound": "Ниједан језик није пронађен"
+    "noLanguagesFound": "Ниједан језик није пронађен",
+    "breadcrumb": "Бреадцрумб",
+    "primaryNav": "Примари",
+    "menu": "Мени",
+    "playVideo": "Пусти видео",
+    "productGallery": "Галерија производа",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "ОЕМ / Привате Лабел",
+    "Међународни извоз",
+    "Контрола квалитета",
+    "Тржишни стандарди на захтев",
+    "Булк Ордерс"
   ],
   "productDetails": {
     "tabs": {
@@ -618,7 +700,7 @@
       ],
       "rows": [
         [
-          "ВГ-П3",
+          "WG-P3",
           "3",
           "1.2",
           "1.8",
@@ -627,7 +709,7 @@
           "280"
         ],
         [
-          "ВГ-П5",
+          "WG-P5",
           "5",
           "2.0",
           "1.8",
@@ -636,7 +718,7 @@
           "340"
         ],
         [
-          "ВГ-П11",
+          "WG-P11",
           "11",
           "4.5",
           "1.8",
@@ -645,7 +727,7 @@
           "510"
         ],
         [
-          "ВГ-П15",
+          "WG-P15",
           "15",
           "6.0",
           "1.8",
@@ -654,7 +736,7 @@
           "580"
         ],
         [
-          "ВГ-П50",
+          "WG-P50",
           "50",
           "20.0",
           "1.8",
@@ -686,7 +768,7 @@
       ],
       "rows": [
         [
-          "ВГ-Г3",
+          "WG-G3",
           "3",
           "12",
           "1.5–5",
@@ -694,7 +776,7 @@
           "180"
         ],
         [
-          "ВГ-Г5",
+          "WG-G5",
           "5",
           "20",
           "1.5–5",
@@ -702,7 +784,7 @@
           "280"
         ],
         [
-          "ВГ-Г20",
+          "WG-G20",
           "20",
           "80",
           "1.5–5",
@@ -710,7 +792,7 @@
           "850"
         ],
         [
-          "ВГ-Г50",
+          "WG-G50",
           "50",
           "200",
           "1.5–5",
@@ -718,7 +800,7 @@
           "1800"
         ],
         [
-          "ВГ-Г100",
+          "WG-G100",
           "100",
           "400",
           "1.5–5",
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Цертифицатион",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Документи за царину и регулаторе. Копије се шаљу приватно на захтев.",
         "points": [
           "ИСО 9809, ДОТ, ТПЕД",
           "МСДС и сертификат квалитета",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Цене и услови снабдевања",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Комерцијални услови се потврђују по упиту. Пошаљите детаље о производу, количини и дестинацији за званичну понуду.",
+    "note": "На овој веб страници не објављујемо фиксне цене, МОК или рокове испоруке. Тачни комерцијални услови се потврђују у понуди након што прегледамо ваше захтеве.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Прицинг",
+        "value": "На захтев",
+        "desc": "Формална понуда након прегледа упита"
       },
       {
-        "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "label": "МОК",
+        "value": "Потврђено по наруџбини",
+        "desc": "Зависи од модела и одредишта"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Време испоруке",
+        "value": "Потврђено по наруџбини",
+        "desc": "Дељено са цитатом"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Плаћање",
+        "value": "Договорено уговором",
+        "desc": "Услови потврђени пре производње"
       }
     ],
     "factors": {
-      "title": "Фактори цене",
+      "title": "Шта утиче на цитат",
       "items": [
-        "Запремина и модел цилиндра (2Л – 50Л)",
-        "Тип вентила (ЦГА, ГОСТ, ДИН, ПОЛ)",
-        "Стандард сертификације (ИСО, ДОТ, ТПЕД)",
-        "ОЕМ: боја, означавање, паковање",
-        "Обим поруџбина и Инцотермс"
+        "Запремина и модел цилиндра",
+        "Тип вентила и стандард прикључка",
+        "Стандарди потребни за одредишно тржиште",
+        "ОЕМ боја, означавање и паковање",
+        "Обим наруџбине и Инцотермс"
       ]
     },
     "samples": [
       {
-        "product": "Ацетилен ВГ-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Ацетиленски цилиндри",
+        "moq": "На захтев",
+        "price": "Цитирано по упиту",
+        "lead": "Потврђено по наруџбини"
       },
       {
-        "product": "Ацетилен ВГ-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Пропан / ТНГ боце",
+        "moq": "На захтев",
+        "price": "Цитирано по упиту",
+        "lead": "Потврђено по наруџбини"
       },
       {
-        "product": "Пропан ВГ-П11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Генератори",
+        "moq": "На захтев",
+        "price": "Цитирано по упиту",
+        "lead": "Потврђено по наруџбини"
       },
       {
-        "product": "Пропан ВГ-П50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Генератор ВГ-Г20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Регулатор сет",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Прибор",
+        "moq": "На захтев",
+        "price": "Цитирано по упиту",
+        "lead": "Потврђено по наруџбини"
       }
     ],
     "tableHeaders": [
       "Производ",
       "МОК",
-      "Цена (ЕКСВ)",
+      "Цена",
       "Леад Тиме"
     ]
   },
   "certifications": {
     "title": "Сертификати и стандарди",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Стандарди и опције сертификације се разматрају у зависности од производа и тржишта дестинације. Копије сертификата се шаљу приватно на захтев — датотеке се не објављују на овој веб страници.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Примите понуду",
-        "desc": "Цена, МОК, време испоруке и спецификација у року од 24 сата"
+        "desc": "Цена, МОК, време испоруке и спецификација након прегледа од стране нашег продајног тима"
       },
       {
         "title": "Потврдите наруџбу",
-        "desc": "Contract and payment terms agreed before production starts"
+        "desc": "Уговор и услови плаћања договорени пре почетка производње"
       },
       {
         "title": "Производња & КЦ",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Производња и испитивање. Видео снимци и сертификати се шаљу приватно на захтев"
       },
       {
         "title": "Испорука",
-        "desc": "Паковање, документи, ФОБ/ЦИФ/ДДП достава"
+        "desc": "Паковање, документација и услови испоруке према договору у поруџбини"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Шта кажу купци",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Ове године смо три пута поново наручили цилиндре ацетилена од 40Л. ГОСТ вентили, ОЕМ боја и извозно паковање сваки пут су одговарали првом узорку.",
+        "author": "Рустам Јусупов",
+        "role": "Власник, дистрибутер гаса за заваривање",
+        "country": "Узбекистан"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
-        "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
-        "country": "Kazakhstan"
+        "quote": "Понуда је стигла истог дана са јасним МОК и временом испоруке. Пропан боце су стигле са ПОЛ вентилима и пуном листом паковања — без царинских кашњења на нашој страни.",
+        "author": "Аигерим Бекова",
+        "role": "Менаџер набавке, индустријско снабдевање",
+        "country": "Казахстан"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
-        "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "quote": "Купујемо цилиндре са регулаторима и цревима као један контејнер. Документи и ознаке су били спремни за наше тржиште, тако да је препродаја била једноставна.",
+        "author": "Фаисал Ал-Харби",
+        "role": "Увозни купац, трговина гасном опремом",
+        "country": "Саудијска Арабија"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "квалитета",
         "eyebrow": "Квалитет и сигурност",
         "title": "Инспекцију можете ставити у понуду",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Провере материјала, тестови цурења, обртни момент вентила и фотографије паковања. Пакети сертификата и фото извештаји се шаљу приватно на захтев.",
         "points": [
           "Тестови притиска и цурења",
-          "Certificate package",
+          "Сертификати на захтев",
           "Фотографије пре испоруке"
         ]
       },
       {
         "id": "извоз",
         "eyebrow": "Глобални извоз",
-        "title": "Packed for ports, ready for 50+ countries",
+        "title": "Упаковано за луке, спремно за извозна тржишта",
         "text": "Палете за извоз, заштита вентила, вишејезичне етикете и отпремна документација усклађена за Инцотермс ваше дестинације.",
         "points": [
           "ФОБ / ЦИФ подршка",
           "Палетизирано паковање",
           "Време испоруке 15-25 дана"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Умотане гасне боце постављене у фабричком дворишту за отпрему",
+    "about": "Радници у фабрици Ванда Гроуп",
+    "accessories": "Комплет прибора за гасне боце — регулатори, црева, горионици и фитинзи",
     "products": [
-      "Acetylene gas cylinders in factory stock",
-      "Acetylene generator photographed at the plant",
-      "Propane cylinders ready for dispatch",
-      "Oxy-fuel cutting and cylinder accessories in use"
+      "Цилиндар раствореног ацетилена са порозном масом и месинганим вентилом",
+      "Генератор ацетилена фотографисан у фабрици",
+      "Пропан и ТНГ боце у више величина и боја",
+      "Комплет прибора за заваривање и сечење за гасне боце"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Ноћна отпрема: умотана опрема утоварена на приколицу",
+      "Палете и метални делови припремљени за отпрему",
+      "Картоне са упакованим залихама наслагане у магацину",
+      "Цилиндри умотани у филм, постављени у фабричком дворишту",
+      "Транспортер за производњу гасних боца испод крова фабрике",
+      "ТНГ цилиндри висе на надземном транспортном траку за завршну обраду",
+      "Радници шетају фабричким подом Ванда Гроуп",
+      "Неофарбана заварена тела боца са пропаном наслагана по две висине",
+      "Редови необојених шкољки цилиндара на бетонском поду",
+      "Цилиндрична цијев и поклопци у радионици",
+      "Наслагана сирова тела цилиндара уза зид фабрике",
+      "Челични прстенови на бази нагомилани пре монтаже",
+      "Месингани окови упаковани у картон са пеном",
+      "Генератор ацетилена са цревом и прибором у кутији",
+      "Нефарбане шкољке цилиндара са отвореним вратом након заваривања"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Ваздушно хлађена кондензациона јединица са Цопеланд полу-херметичким компресором",
+      "Ваздушно хлађени кондензациони уређај са Битзер полу-херметичким компресором",
+      "Затворена расхладна кондензаторска јединица у стилу ормара",
+      "Ваздушно хлађена кондензациона јединица високог капацитета са четири вентилатора"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Правна",
-    "title": "Политика приватности",
-    "updated": "Последње ажурирање: 25. августа 2026",
-    "intro": [
-      "Ванда Гроуп („ми“, „нас“) управља овом веб-страницом како би представила боце за гас, прибор и сродну извозну понуду, као и за примање комерцијалних упита од индустријских купаца.",
-      "Ова политика објашњава које личне податке прикупљамо преко сајта, зашто их користимо и како можете да нас контактирате у вези са тим. Не објављујемо фабричке видео записе или фајлове сертификата на веб локацији; ти материјали се шаљу приватно на захтев."
-    ],
-    "sections": [
-      {
-        "title": "Ко је одговоран",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Које податке прикупљамо",
-        "body": [
-          "Када пошаљете упитник добијамо податке које унесете: име, е-маил, телефон, одредишну земљу, тип производа, количину и поруку.",
-          "Сајт такође чува ваш избор језика у претраживачу (лоцалСтораге). Не покрећемо рекламне колачиће нити продајемо листе посетилаца."
-        ]
-      },
-      {
-        "title": "Зашто користимо податке",
-        "body": [
-          "Податке о упитима користимо само да бисмо одговорили на ваш захтев, припремили понуду, послали информације о производу, видео записе или сертификате које сте тражили и да бисмо координирали поруџбину ако почнемо да радимо заједно.",
-          "Правни основ: ваш пристанак када означите поље за потврду на обрасцу и наш легитимни интерес да одговоримо на захтеве Б2Б продаје."
-        ]
-      },
-      {
-        "title": "Ко прима податке",
-        "body": [
-          "Ваша порука се доставља нашем продајном тиму путем е-поште. У зависности од конфигурације, образац може да обрађује ФормСубмит или Формспрее као технички провајдер који нам шаље поруку.",
-          "Ми не продајемо личне податке. Можемо да поделимо оно што је потребно са логистичким, инспекцијским или банкарским партнерима само ако је то потребно за испуњење договореног налога."
-        ]
-      },
-      {
-        "title": "Колико дуго га чувамо",
-        "body": [
-          "Подаци о упитима се чувају онолико дуго колико је потребно за обраду захтева и разуман период након тога за праћење продаје и рачуноводство, осим ако од нас затражите да их избришемо раније где закон дозвољава."
-        ]
-      },
-      {
-        "title": "Ваша права",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Обезбеђење и деца",
-        "body": [
-          "Предузимамо разумне техничке и организационе кораке да заштитимо поруке у транспорту иу нашем поштанском сандучету. Ова веб страница је намењена пословним купцима, а не деци."
-        ]
-      }
-    ],
-    "contactLead": "Питања о овој политици:"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Правна",
+    "title": "Услови коришћења",
+    "updated": "Последње ажурирање: 27. августа 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Ови услови регулишу коришћење вандагроупс.цом, којим управља Ванда Гроуп за индустријске купце гасних боца, генератора и прибора.",
+      "Прегледавањем сајта или слањем упита прихватате ове услове и нашу Политику приватности. Ако се не слажете, немојте користити сајт."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Ко смо ми",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "За шта је веб локација",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Сајт представља информације о производима и прима комерцијалне упите. Намењен је пословним купцима, а не потрошачима који купују као приватна лица, а не деци."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Понуде, цене и поруџбине",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Цене, МОК, рокови испоруке и спецификације на сајту су индикативне. Порука путем обрасца или месинџера је упит, а не наређење.",
+          "Уговор постоји само када обе стране потврде понуду у писаној форми (мејлом или потписаним документима) и када је примљен уговорени депозит, осим ако у тој потврди не наведемо другачије."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Фотографије, видео записи и сертификати",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Фабричке фотографије и видео снимци на сајту илуструју производњу. Додатни снимци и фајлови сертификата се шаљу приватно на захтев и остају наш поверљиви материјал осим ако не кажемо да их можете поделити."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Интелектуална својина",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Текст, фотографије, видео снимци, логотипи и изглед на овој веб страници припадају Ванда Гроуп или нашим даваоцима лиценце. Не можете копирати каталог за своју комерцијалну локацију без наше писмене сагласности."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Прихватљива употреба",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "Немојте злоупотребљавати формулар за упит (нежељена пошта, лажни идентитет или покушаји да се омета сајт). Можемо да игноришемо или избришемо увредљиве захтеве."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Одговорност",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Водимо рачуна да информације буду тачне, али сајт може садржати грешке или бити привремено недоступан. У мери у којој је то законом дозвољено, Ванда Гроуп није одговорна за индиректне губитке који настају само коришћењем веб странице.",
+          "Одговорност за стварни уговор о снабдевању је одређена у том уговору и важећем закону, а не само у условима ове веб странице."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Промене",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Можда ћемо ажурирати ове услове. Датум на врху приказује тренутну верзију. Наставак коришћења сајта након промене значи да прихватате ажуриране услове."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Питања о овим терминима:"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Наша линија производа",
+    "title": "Расхладне јединице",
+    "subtitle": "Посебна линија Ванда Гроуп — не каталог треће стране. Кондензационе јединице, расхладне коморе и хардвер, испоручујемо са цилиндрима или као самостална поруџбина.",
+    "moreLink": "Опрема за хлађење →",
+    "cta": "Затражите понуду",
+    "alsoTitle": "Такође доступно на захтев",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Полиуретанске расхладне плоче (Б1 / Б2) и 304 нерђајући панели",
+      "Расхладни уређаји за ваздух — ДЛ (~0 °Ц), ДД (~−18 °Ц), ДЈ (~−25 °Ц)",
+      "Алуминијумски калемови испаривача",
+      "Врата хладне собе",
+      "Индустријски расхладни уређаји за воду",
+      "Расхладне јединице за возила и мобилне хладњаче"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Ванда Интернатионал Траде испоручује опрему за хлађење уз линију гасних цилиндара: јединице, панеле, хладњаке и сродни хардвер хладног ланца. Цопеланд, Битзер и слична имена односе се на бренд компресора унутар јединице, а не на ребрендирање тих компанија.",
+    "videoTitle": "Видео компаније",
+    "videoSubtitle": "Преглед линије расхладне опреме. Више снимака се шаље приватно на захтев.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Цопеланд полу-херметичка јединица са ваздушним хлађењем",
+        "spec": "Кондензациона јединица · Цопеланд компресор",
+        "desc": "Ваздушно хлађена кондензациона јединица са Цопеланд полу-херметичким компресором за хладне просторије и рад на средњим температурама."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Битзер полу-херметичка јединица са ваздушним хлађењем",
+        "spec": "Кондензациона јединица · Битзер компресор",
+        "desc": "Ваздушно хлађена кондензациона јединица са Битзер полу-херметичким компресором за просторије са високим оптерећењем и средње до ниским температурама."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Јединица затвореног типа кутије",
+        "spec": "Кондензациона јединица кабинета",
+        "desc": "Затворена кондензациона јединица у стилу ормара за локације којима је потребна смештена машина, а не отворени клизач."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "У-тип / кондензациона јединица великог капацитета",
+        "spec": "Ваздушно хлађење са више вентилатора",
+        "desc": "Већа ваздушно хлађена кондензаторска јединица са кондензатором са више вентилатора за веће хладњаче и процесно хлађење."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Ко смо ми",
+    "title": "Индустријски произвођач за Б2Б купце",
+    "text": "Ванда Гроупс производи и испоручује индустријске гасне боце, генераторе и прибор за заваривање за иностране дистрибутере, ОЕМ партнере и купце пројеката.",
+    "text2": "Наш фокус је набавка везана за фабрику, подршка при избору производа, масовне поруџбине и координација извоза — не малопродаја потрошачима.",
+    "cta": "Сазнајте више о нама"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Спремни да затражите понуду?",
+      "quoteCta": "Затражите понуду",
+      "relatedProducts": "Повезани производи",
+      "applications": "Апликације",
+      "standardsTitle": "Стандарди и сертификација",
+      "oemTitle": "ОЕМ / прилагођавање",
+      "packagingTitle": "Паковање и достава",
+      "placeholders": {
+        "standards": "Доступни стандарди и сертификати се потврђују по поруџбини и одредишном тржишту. Копије сертификата се шаљу приватно на захтев — датотеке се не објављују на веб локацији.",
+        "oem": "ОЕМ боја, означавање, вентил, капа и опције паковања могу се разговарати у складу са наруџбом и циљним тржиштем.",
+        "packaging": "Извозно паковање и документација се припремају према поруџбини и условима испоруке."
+      }
+    },
+    "home": {
+      "seoTitle": "Произвођач гасних цилиндара | Индустријски ОЕМ и извоз | Ванда Гроупс",
+      "seoDescription": "Ванда Гроупс производи индустријске гасне боце, генераторе и прибор за заваривање за ОЕМ, велепродајне и међународне извозне купце."
+    },
+    "about": {
+      "label": "О нама",
+      "title": "Произвођач гасних боца за индустријске купце",
+      "subtitle": "Подржавамо купце из иностранства са избором производа, ОЕМ-ом, инспекцијом, паковањем и испоруком.",
+      "seoTitle": "О Ванда Групи",
+      "seoDescription": "Ванда Гроуп производи ацетиленске боце, пропан боце, генераторе и прибор за заваривање, сечење и снабдевање индустријским гасом."
+    },
+    "products": {
+      "label": "Производи",
+      "title": "Наши производи",
+      "subtitle": "Ацетиленски цилиндри, генератори, пропан боце и прибор за индустријску примену и заваривање.",
+      "seoTitle": "Производи за гасне боце",
+      "seoDescription": "Ацетиленски цилиндри, генератори, пропан боце и прибор за индустријску примену и заваривање.",
+      "refrigerationNote": "Ванда Интернатионал Траде испоручује опрему за хлађење уз линију гасних цилиндара: јединице, панеле, хладњаке и сродни хардвер хладног ланца. Цопеланд, Битзер и слична имена односе се на бренд компресора унутар јединице, а не на ребрендирање тих компанија.",
+      "catalog": {
+        "acetylene": {
+          "name": "Цилиндри са раствореним ацетиленом",
+          "overview": "Челични цилиндри са порозном масом и растварачем за безбедно складиштење и транспорт ацетилена. Користи се за заваривање, сечење, лемљење и производњу метала.",
+          "seoTitle": "Ацетиленски гасни цилиндри",
+          "seoDescription": "Челични цилиндри са порозном масом и растварачем за безбедно складиштење и транспорт ацетилена. Користи се за заваривање, сечење, лемљење и производњу метала."
+        },
+        "propane": {
+          "name": "Пропан Цилиндерс",
+          "overview": "Цилиндри за мешавине пропана, бутана и ТНГ-а. Користи се за грејање, сечење, лемљење, грађевинарство и снабдевање индустријским гасом.",
+          "seoTitle": "Цилиндри за пропан гас",
+          "seoDescription": "Цилиндри за мешавине пропана, бутана и ТНГ-а. Користи се за грејање, сечење, лемљење, грађевинарство и снабдевање индустријским гасом."
+        },
+        "lpg": {
+          "name": "ТНГ цилиндри",
+          "overview": "Цилиндри за мешавине пропана, бутана и ТНГ-а. Користи се за грејање, сечење, лемљење, грађевинарство и снабдевање индустријским гасом.",
+          "seoTitle": "ТНГ гасни цилиндри",
+          "seoDescription": "Цилиндри за мешавине пропана, бутана и ТНГ-а. Користи се за грејање, сечење, лемљење, грађевинарство и снабдевање индустријским гасом."
+        },
+        "industrial": {
+          "name": "Индустријски гасни цилиндри",
+          "overview": "Индустријске боце за гас за заваривање, сечење и снабдевање постројења — укључујући опције за ацетилен, пропан и ТНГ које одговарају вашем тржишту.",
+          "seoTitle": "Индустријски гасни цилиндри",
+          "seoDescription": "Индустријске гасне боце за заваривање, сечење и снабдевање постројења из Ванда Гроуп."
+        },
+        "generators": {
+          "name": "Генератори ацетилена",
+          "overview": "Опрема за производњу ацетилена од калцијум карбида. Стабилно снабдевање гасом за заваривање и индустријске потребе без централизоване гасне инфраструктуре.",
+          "seoTitle": "Генератори ацетилена",
+          "seoDescription": "Опрема за производњу ацетилена од калцијум карбида. Стабилно снабдевање гасом за заваривање и индустријске потребе без централизоване гасне инфраструктуре."
+        },
+        "accessories": {
+          "name": "Прибор и опрема за цилиндре",
+          "overview": "Комплетан асортиман за сигуран рад гасних боца: од мерача до горионика за заваривање. Набавка на једном месту са цилиндрима.",
+          "seoTitle": "Прибор за заваривање",
+          "seoDescription": "Комплетан асортиман за сигуран рад гасних боца: од мерача до горионика за заваривање. Набавка на једном месту са цилиндрима."
+        },
+        "refrigeration": {
+          "name": "Расхладне јединице",
+          "overview": "Посебна линија Ванда Гроуп — не каталог треће стране. Кондензационе јединице, расхладне коморе и хардвер, испоручујемо са цилиндрима или као самостална поруџбина.",
+          "seoTitle": "Расхладне јединице",
+          "seoDescription": "Посебна линија Ванда Гроуп — не каталог треће стране. Кондензационе јединице, расхладне коморе и хардвер, испоручујемо са цилиндрима или као самостална поруџбина."
+        }
+      }
+    },
+    "factory": {
+      "label": "Фабрика",
+      "title": "Фабрика и производња",
+      "subtitle": "Производња, инспекција, паковање и отпрема — документовано стварним фотографијама биљака и фабричким видео записима.",
+      "seoTitle": "Фабрика и производња | Ванда Гроупс",
+      "seoDescription": "Праве фотографије биљака, снимци отпреме уживо и кратки видео снимци са производног спрата.",
+      "sections": [
+        {
+          "title": "Мануфацтуринг",
+          "text": "Формирање, заваривање и завршна обрада цилиндара као део производног тока постројења."
+        },
+        {
+          "title": "Производни процес",
+          "text": "Од припреме шкољке до монтаже и завршне обраде — погледајте снимке залиха у процесу и производног спрата."
+        },
+        {
+          "title": "Инспекција квалитета",
+          "text": "Визуелне, обележавање и провере димензија за припрему цилиндара за отпрему."
+        },
+        {
+          "title": "Тестирање",
+          "text": "Испитивање притиска и цурења се примењује пре него што производи напусте линију, у складу са захтевима поруџбине."
+        },
+        {
+          "title": "Паковање",
+          "text": "Извозно паковање штити цилиндре и арматуре за прекоморски транспорт."
+        },
+        {
+          "title": "Учитавање и извоз",
+          "text": "Уређивање складишта, утовар камиона и отпремна документација за излазне поруџбине."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Цертификати",
+      "title": "Сертификати и стандарди",
+      "subtitle": "Стандарди које обично траже купци наведени су у наставку. Применљивост зависи од производа и одредишног тржишта. Копије сертификата, бројеви и валидност се деле приватно на захтев — не објављују се као непроверене тврдње.",
+      "seoTitle": "Сертификати и стандарди | Ванда Гроупс",
+      "seoDescription": "Стандарди разматрани за боце за гас Ванда Гроупс по тржишту. Копије сертификата се дају приватно на захтев.",
+      "note": "Копије сертификата се шаљу приватно на захтев. Не објављујемо датотеке сертификата на веб локацији."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "ОЕМ и велепродаја",
+      "subtitle": "Опције приватне робне марке и опскрбе на велико за дистрибутере и индустријске купце.",
+      "seoTitle": "ОЕМ снабдевање гасним боцама",
+      "seoDescription": "ОЕМ и производња гасних боца приватне марке за иностране брендове и дистрибутере.",
+      "quoteTitle": "Разговарајте о захтевима ОЕМ-а",
+      "quoteCta": "Захтевајте ОЕМ понуду",
+      "capabilities": [
+        {
+          "title": "Цустом Лого",
+          "text": "Разговаране су опције логотипа и означавања за квалификоване ОЕМ поруџбине."
+        },
+        {
+          "title": "Цустом Цолор",
+          "text": "Боја цилиндра према захтевима тржишта или бренда."
+        },
+        {
+          "title": "Цустом Пацкагинг",
+          "text": "Извоз картона, палета и ознака за паковање по наруџбини."
+        },
+        {
+          "title": "Привате Лабел",
+          "text": "Означавање и представљање бренда за канале дистрибутера."
+        },
+        {
+          "title": "Булк Ордерс",
+          "text": "Количине на велико за пројектне и дистрибутерске набавке."
+        },
+        {
+          "title": "ОЕМ Мануфацтуринг",
+          "text": "Конфигурација производа усклађена са вашим спецификацијама и тржиштем."
+        },
+        {
+          "title": "Подршка за извоз",
+          "text": "Координација документације и испоруке за иностранство."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Тржишта",
+      "title": "Глобал Маркетс",
+      "subtitle": "Подржавамо међународне Б2Б купце. Регије у наставку описују заједничке области истраживања — специфичне земље и пројекти се потврђују од случаја до случаја.",
+      "seoTitle": "Глобална тржишта | Ванда Гроупс Екпорт",
+      "seoDescription": "Ванда Гроупс ради са међународним индустријским купцима широм Африке, Блиског истока, Централне Азије, Југоисточне Азије, Латинске Америке и других тржишта.",
+      "note": "На овој страници не објављујемо непроверене бројеве земаља, имена клијената или референце пројеката.",
+      "regions": [
+        {
+          "title": "Африка",
+          "text": "Индустријски и дистрибутерски упити са афричких тржишта."
+        },
+        {
+          "title": "Блиски исток",
+          "text": "Купци набављају цилиндре и пратећу опрему за регионалне пројекте."
+        },
+        {
+          "title": "Централна Азија",
+          "text": "Дискусије о велепродаји и набавци пројеката широм централноазијских тржишта."
+        },
+        {
+          "title": "југоисточна Азија",
+          "text": "Индустријски купци процењују снабдевање извозних цилиндара."
+        },
+        {
+          "title": "Латинској Америци",
+          "text": "Упити за снабдевање индустријским гасним боцама и прибором."
+        },
+        {
+          "title": "Остала међународна тржишта",
+          "text": "Додатне дестинације се прегледају у складу са стандардом производа и логистиком."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Апликације",
+      "title": "Цилиндер Апплицатионс",
+      "subtitle": "Производи дизајнирани за уобичајене задатке индустријског гаса и захтеве купаца у иностранству.",
+      "seoTitle": "Цилиндер Апплицатионс",
+      "seoDescription": "Производи дизајнирани за уобичајене задатке индустријског гаса и захтеве купаца у иностранству.",
+      "items": [
+        {
+          "title": "Заваривање и лемљење",
+          "text": "Растворени ацетилен и пратећа опрема за радионичко и фабричко заваривање."
+        },
+        {
+          "title": "Метал Цуттинг",
+          "text": "Цилиндри и прибор за сечење кисеоником на лицу места иу фабрици."
+        },
+        {
+          "title": "Индустријско снабдевање гасом",
+          "text": "Снабдевање цилиндарима за индустријску дистрибуцију и системе гаса постројења."
+        },
+        {
+          "title": "Изградња",
+          "text": "Преносно снабдевање гасом за грађевинске и радове одржавања."
+        },
+        {
+          "title": "Метал Фабрицатион",
+          "text": "Цилиндри и прибор за фабричке радње и бродоградилишта."
+        },
+        {
+          "title": "Складиштење и дистрибуција гаса",
+          "text": "Боце за складиштење и дистрибуцију за индустријске купце."
+        }
+      ]
+    },
+    "faq": {
+      "label": "ФАК",
+      "title": "Често постављана питања",
+      "subtitle": "Компанија, производи, ОЕМ и извоз — одговори за купце из иностранства пре него што затражите понуду.",
+      "seoTitle": "ФАК",
+      "seoDescription": "Компанија, производи, ОЕМ и извоз — одговори за купце из иностранства пре него што затражите понуду."
+    },
+    "contactPage": {
+      "label": "Контакт",
+      "title": "Хајде да разговарамо о вашим захтевима",
+      "subtitle": "Обратите се нашем продајном тиму путем обрасца, е-поште или месинџера. Поделите производ, количину и одредиште за бржу понуду.",
+      "seoTitle": "Затражите понуду",
+      "seoDescription": "Реците нам величину, количину, земљу одредишта и апликацију — припремићемо детаљну понуду."
+    },
+    "blog": {
+      "label": "Блог",
+      "title": "Најновији чланци",
+      "subtitle": "Стручни садржај за професионалце за заваривање и снабдевање гасом.",
+      "seoTitle": "Чланци и водичи",
+      "seoDescription": "Стручни садржај за професионалце за заваривање и снабдевање гасом.",
+      "coming": "Овде ће бити додато више водича за купце и напомена о производима. Користите чланке изнад или нас контактирајте за материјале специфичне за производ."
+    },
+    "privacy": {
+      "seoTitle": "Политика приватности",
+      "seoDescription": "Политика приватности за упите на веб локацији Ванда Гроуп и личне податке."
+    },
+    "terms": {
+      "seoTitle": "Услови коришћења",
+      "seoDescription": "Услови коришћења веб странице Ванда Гроуп."
+    },
+    "notFound": {
+      "seoTitle": "Страница није пронађена",
+      "seoDescription": "Страница коју сте тражили није доступна.",
+      "title": "Страница није пронађена",
+      "text": "Страница коју тражите не постоји или се померила.",
+      "home": "Хоме",
+      "products": "Производи",
+      "contact": "Контакт / Добијте понуду"
+    }
   }
 }

@@ -1,10 +1,12 @@
 {
   "nav": {
+    "home": "Maison",
     "products": "Produits",
     "specs": "Caractéristiques",
     "applications": "Applications",
     "about": "À propos",
     "gallery": "Galerie",
+    "factory": "Usine",
     "quality": "Qualité",
     "faq": "FAQ",
     "contact": "Contact",
@@ -13,44 +15,42 @@
     "services": "Services",
     "pricing": "Tarifs",
     "accessories": "Accessoires",
-    "home": "Maison",
-    "factory": "Usine",
-    "refrigeration": "Cold storage",
-    "cooling": "Cooling",
+    "refrigeration": "Chambre froide",
+    "cooling": "Refroidissement",
     "certifications": "Certifications",
     "oem": "OEM",
-    "markets": "Markets"
+    "markets": "Marchés"
   },
   "hero": {
-    "badge": "Industrial Gas Cylinder Manufacturer",
-    "title": "Industrial Gas Cylinders and Equipment Manufacturer",
-    "subtitle": "Manufacturing, OEM and wholesale supply of acetylene cylinders, propane/LPG cylinders, generators and welding accessories for international export buyers.",
-    "cta": "Get a Quote",
-    "ctaSecondary": "View Products",
+    "badge": "Fabricant de bouteilles de gaz industrielles",
+    "title": "Fabricant de bouteilles de gaz et d'équipements industriels",
+    "subtitle": "Fabrication, fourniture OEM et vente en gros de bouteilles d'acétylène, de bouteilles de propane/GPL, de générateurs et d'accessoires de soudage pour les acheteurs internationaux à l'exportation.",
+    "lineGas": "Bouteilles de gaz",
+    "lineCold": "Unités de réfrigération",
+    "cta": "Obtenez un devis",
+    "ctaSecondary": "Voir les produits",
     "stats": [
       {
         "value": "Factory Direct",
-        "label": "Manufacturer-focused supply"
+        "label": "Approvisionnement axé sur le fabricant"
       },
       {
         "value": "OEM",
-        "label": "Private label and customization"
+        "label": "Marque privée et personnalisation"
       },
       {
         "value": "Export",
-        "label": "International shipping support"
+        "label": "Prise en charge des expéditions internationales"
       },
       {
         "value": "QC",
-        "label": "Inspection and testing process"
+        "label": "Processus d’inspection et de test"
       },
       {
         "value": "Standards",
-        "label": "Market-specific options on request"
+        "label": "Options spécifiques au marché sur demande"
       }
-    ],
-    "lineGas": "Gas cylinders",
-    "lineCold": "Refrigeration units"
+    ]
   },
   "accessories": {
     "title": "Accessoires fiables pour bouteilles de gaz",
@@ -60,33 +60,33 @@
   "products": {
     "title": "Nos produits",
     "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+    "viewDetails": "Afficher les détails",
     "items": [
       {
         "title": "Cylindre d'acétylène",
-        "desc": "Bouteilles d'acétylène dissous pour gaz de soudage, de coupage et industriels. Différentes tailles et options de vannes.",
-        "icon": "🔥",
-        "spec": "2L–40L · ISO/DOT/TPED"
+        "spec": "2L–40L · normes confirmées par marché",
+        "desc": "Bouteilles d'acétylène dissous pour le soudage, le coupage et l'approvisionnement en gaz industriels.",
+        "icon": "🔥"
       },
       {
         "title": "Générateur d'acétylène",
-        "desc": "Équipement pour une production de gaz stable, une utilisation facile et des applications industrielles.",
-        "icon": "⚙️",
-        "spec": "Systèmes de génération industrielle"
+        "spec": "Systèmes de génération industrielle",
+        "desc": "Équipement pour une production stable d’acétylène sur site et en usine.",
+        "icon": "⚙️"
       },
       {
         "title": "Bouteille de propane",
-        "desc": "Bouteilles durables pour propane et GPL — stockage, chauffage, découpe et utilisation industrielle.",
-        "icon": "🛢️",
-        "spec": "3L–50L · POL / CGA / GOST"
+        "spec": "3L–50L · options de vannes par marché",
+        "desc": "Bouteilles de GPL durables pour le chauffage, la découpe et l'usage industriel.",
+        "icon": "🛢️"
       },
       {
         "title": "Accessoires pour cylindres",
-        "desc": "Tuyaux, jauges, chalumeaux coupants, brûleurs de soudage, soupapes de sécurité et plus encore.",
-        "icon": "🔧",
-        "spec": "Vannes · régulateurs · flexibles · torches"
+        "spec": "Vannes · régulateurs · flexibles · torches",
+        "desc": "Raccords assortis fournis avec les cylindres ou en commande séparée.",
+        "icon": "🔧"
       }
-    ],
-    "viewDetails": "Afficher les détails"
+    ]
   },
   "specs": {
     "title": "Spécifications techniques",
@@ -123,155 +123,167 @@
     ]
   },
   "whyUs": {
-    "title": "Why Choose Wanda Groups",
-    "subtitle": "Concrete capabilities for industrial buyers evaluating a manufacturing partner.",
+    "title": "Pourquoi choisir les groupes Wanda",
+    "subtitle": "Des capacités concrètes pour les acheteurs industriels évaluant un partenaire manufacturier.",
     "items": [
       {
-        "title": "Manufacturer-focused supply",
-        "desc": "Product supply oriented around production, not only trading catalogues."
+        "title": "Approvisionnement axé sur le fabricant",
+        "desc": "Une offre de produits orientée vers la production et non seulement vers des catalogues commerciaux."
       },
       {
-        "title": "OEM support",
-        "desc": "Custom colour, marking, valve and packing discussed per order."
+        "title": "Assistance OEM",
+        "desc": "Couleur, marquage, valve et emballage personnalisés discutés par commande."
       },
       {
-        "title": "Quality control",
-        "desc": "Inspection from materials through packing before shipment."
+        "title": "Contrôle de qualité",
+        "desc": "Inspection des matériaux jusqu'à l'emballage avant expédition."
       },
       {
-        "title": "International export",
-        "desc": "Export packing and shipping coordination for overseas buyers."
+        "title": "Exportation internationale",
+        "desc": "Coordination de l’emballage et de l’expédition des exportations pour les acheteurs étrangers."
       },
       {
-        "title": "Product customization",
-        "desc": "Specifications adapted to market and application requirements."
+        "title": "Personnalisation du produit",
+        "desc": "Spécifications adaptées aux exigences du marché et des applications."
       },
       {
-        "title": "Responsive sales support",
-        "desc": "Quotes and technical replies through form, email and messengers."
+        "title": "Support commercial réactif",
+        "desc": "Devis et réponses techniques via formulaire, email et messageries."
       },
       {
-        "title": "Bulk order capability",
-        "desc": "Wholesale quantities supported for distributors and project buyers."
+        "title": "Capacité de commande en gros",
+        "desc": "Quantités en gros prises en charge pour les distributeurs et les acheteurs de projets."
       }
     ]
   },
   "about": {
-    "title": "Fabricant professionnel de bouteilles de gaz",
-    "text": "Le fabricant de bouteilles de gaz du groupe Wanda est spécialisé dans la production et la fourniture de bouteilles de gaz industrielles et d'accessoires associés. Nos produits sont largement utilisés dans les domaines du soudage, du découpage, de la distribution de gaz, du stockage industriel et d’autres domaines d’approvisionnement en gaz.",
-    "text2": "Nous aidons les acheteurs étrangers dans la sélection des produits, la personnalisation, l'inspection de la qualité, l'emballage et la coordination de l'expédition.",
+    "title": "Fabricant de bouteilles de gaz pour les acheteurs industriels",
+    "text": "Wanda Group fabrique des bouteilles d'acétylène, des bouteilles de propane, des générateurs et des accessoires pour le soudage, le coupage et l'approvisionnement en gaz industriels.",
+    "text2": "Nous soutenons les acheteurs étrangers dans la sélection des produits, l’OEM, l’inspection, l’emballage et l’expédition.",
     "facts": [
       {
-        "title": "Manufacturing",
-        "desc": "Forming, welding, testing and finishing for industrial gas cylinders."
+        "title": "Fabrication",
+        "desc": "Formage, soudage, essais et finition de bouteilles de gaz industrielles."
       },
       {
-        "title": "OEM Support",
-        "desc": "Colour, marking, valve, cap and packing options by order."
+        "title": "Assistance OEM",
+        "desc": "Options de couleur, marquage, valve, bouchon et emballage sur commande."
       },
       {
-        "title": "Quality Process",
-        "desc": "Inspection and testing aligned with order and market requirements."
+        "title": "Processus qualité",
+        "desc": "Inspection et tests alignés sur les commandes et les exigences du marché."
       },
       {
-        "title": "International Export",
-        "desc": "Documentation and packing support for overseas industrial buyers."
+        "title": "Exportation internationale",
+        "desc": "Support à la documentation et à l'emballage pour les acheteurs industriels étrangers."
       }
     ]
   },
   "gallery": {
     "title": "À l'intérieur de notre usine",
-    "subtitle": "Real plant photos, live dispatch shots, and short videos from the production floor.",
+    "subtitle": "De vraies photos d'usines, des prises de vue d'expédition en direct et de courtes vidéos de l'atelier de production.",
     "items": [
       {
-        "title": "Night dispatch",
-        "desc": "A loaded trailer leaving with wrapped equipment — time and place stamped on the shot."
+        "title": "Expédition de nuit",
+        "desc": "Une remorque chargée partant avec du matériel emballé – l’heure et le lieu sont indiqués sur la photo."
       },
       {
-        "title": "Cargo staged for shipment",
-        "desc": "Pallets and parts collected for dispatch. A live warehouse photo, not a studio set."
+        "title": "Cargaison préparée pour l'expédition",
+        "desc": "Palettes et pièces collectées pour expédition. Une photo d’entrepôt en direct, pas un décor de studio."
       },
       {
-        "title": "Packed stock",
-        "desc": "Cartons stacked in the warehouse, ready for the next outgoing order."
+        "title": "Stock emballé",
+        "desc": "Cartons empilés dans l’entrepôt, prêts pour la prochaine commande sortante."
       },
       {
-        "title": "Packed for dispatch",
-        "desc": "Cylinders wrapped and staged in the plant yard for shipment."
+        "title": "Emballé pour l'expédition",
+        "desc": "Cylindres emballés et stockés dans la cour de l'usine pour expédition."
       },
       {
-        "title": "Production conveyor",
-        "desc": "Cylinder bodies moving through the forming and handling line."
+        "title": "Convoyeur de production",
+        "desc": "Corps de cylindres circulant dans la ligne de formage et de manutention."
       },
       {
-        "title": "LPG finishing line",
-        "desc": "Painted LPG cylinders on the overhead conveyor before packing."
+        "title": "Ligne de finition GPL",
+        "desc": "Bouteilles de GPL peintes sur le convoyeur aérien avant emballage."
       },
       {
-        "title": "Inside the plant",
-        "desc": "The production hall — people, machines and in-process stock."
+        "title": "À l'intérieur de l'usine",
+        "desc": "Le hall de production – personnes, machines et stock en cours."
       },
       {
-        "title": "Welded cylinder bodies",
-        "desc": "Shells after circumferential welding, before painting and valves."
+        "title": "Corps de cylindre soudés",
+        "desc": "Coquilles après soudure circonférentielle, avant peinture et vannes."
       },
       {
-        "title": "Shells before painting",
-        "desc": "Unpainted bodies batched on the floor for the next process step."
+        "title": "Coquillages avant peinture",
+        "desc": "Des corps non peints sont déposés sur le sol pour l'étape suivante du processus."
       },
       {
-        "title": "In-process stock",
-        "desc": "Tube sections and capped shells waiting for assembly."
+        "title": "Stock en cours",
+        "desc": "Sections de tubes et coques bouchées en attente d'assemblage."
       },
       {
-        "title": "Cylinder bodies in stock",
-        "desc": "Rolled shells stacked after welding, before heads and valves."
+        "title": "Corps de cylindre en stock",
+        "desc": "Coquilles roulées empilées après soudage, avant têtes et vannes."
       },
       {
-        "title": "Base rings",
-        "desc": "Foot rings prepared for welding onto cylinder shells."
+        "title": "Anneaux de base",
+        "desc": "Bagues de pied préparées pour être soudées sur des coques de cylindres."
       },
       {
-        "title": "Packed fittings",
-        "desc": "Valves and fittings boxed with foam for export shipment."
+        "title": "Accessoires emballés",
+        "desc": "Vannes et raccords emballés avec de la mousse pour expédition à l'exportation."
       },
       {
-        "title": "Acetylene generator",
-        "desc": "A generator unit with hose and fittings, ready to leave the plant."
+        "title": "Générateur d'acétylène",
+        "desc": "Un groupe électrogène avec flexible et raccords, prêt à quitter l'usine."
       },
       {
-        "title": "Shells on the floor",
-        "desc": "Open-neck bodies after welding — the batch before valve fitment."
+        "title": "Des coquillages au sol",
+        "desc": "Corps à col ouvert après soudage – le lot avant montage de la vanne."
       }
     ],
-    "videosTitle": "Factory videos",
-    "videosSubtitle": "New shorts from the plant floor. More footage is sent privately on request."
+    "videosTitle": "Vidéos d'usine",
+    "videosSubtitle": "Nouveaux shorts de l’usine. Plus de séquences sont envoyées en privé sur demande."
   },
   "quality": {
     "title": "Contrôle de qualité",
     "subtitle": "Chaque lot suit le même chemin : production, tests, inspection et contrôle qualité final.",
     "steps": [
       {
-        "title": "Production",
-        "desc": "Formage, soudage et assemblage sous contrôle des processus en usine."
+        "title": "Matière première",
+        "desc": "Les matériaux entrants sont examinés par rapport aux exigences de la commande et du processus."
       },
       {
-        "title": "Essai",
-        "desc": "Tests de pression et de fuite avant que les bouteilles ne quittent la ligne."
+        "title": "Production",
+        "desc": "Formage, soudage et assemblage sous contrôle des processus en usine."
       },
       {
         "title": "Inspection",
         "desc": "Contrôles visuels, de marquage et dimensionnels par rapport à la commande."
       },
       {
-        "title": "Contrôle de qualité final",
-        "desc": "Inspection de l'emballage avant expédition à l'exportation."
+        "title": "Essai",
+        "desc": "Tests de pression et de fuite avant que les bouteilles ne quittent la ligne."
+      },
+      {
+        "title": "CQ final",
+        "desc": "Contrôle qualité final avant la mise sous emballage."
+      },
+      {
+        "title": "Conditionnement",
+        "desc": "Emballage d'exportation préparé pour le transport."
+      },
+      {
+        "title": "Expédition",
+        "desc": "Chargement et expédition de la documentation pour les commandes sortantes."
       }
     ]
   },
   "faq": {
     "title": "Foire aux questions",
-    "subtitle": "Company, products, videos, OEM and export — answers for overseas buyers before you request a quote.",
+    "subtitle": "Entreprise, produits, OEM et exportation : réponses aux acheteurs étrangers avant de demander un devis.",
     "cta": "Vous n'avez pas trouvé votre question ? Envoyez le produit, la taille, la quantité et le pays de destination — nous vous répondrons avec une offre détaillée.",
     "ctaBtn": "Obtenez un devis",
     "groups": [
@@ -301,27 +313,27 @@
         ]
       },
       {
-        "title": "Factory videos",
+        "title": "Vidéos et documents",
         "items": [
           {
             "q": "Puis-je regarder des vidéos d’usine avant de passer une commande ?",
-            "a": "Yes. You can watch videos of production, warehouses, products and packing to better understand our supply capability."
+            "a": "Oui. Regardez des vidéos de production dans la section Usine de cette page. Des séquences supplémentaires, des clips d'emballage et des certificats sont envoyés en privé sur demande."
           },
           {
             "q": "Proposez-vous des vidéos de produits, notamment pour les bouteilles d'acétylène ?",
-            "a": "Yes. We can provide videos, photos and detailed information on acetylene cylinders according to your request."
+            "a": "Oui. Des vidéos, des photos et des informations détaillées sur les bouteilles d'acétylène sont envoyées en privé selon votre demande."
           },
           {
             "q": "Pouvez-vous montrer des vidéos de production et de contrôle qualité ?",
-            "a": "We can provide available videos of production, quality inspection, packing and warehouse storage so buyers can see how products are prepared."
+            "a": "Oui. Les vidéos disponibles de la production, du contrôle qualité, de l'emballage et du stockage en entrepôt sont envoyées en privé afin que vous puissiez voir comment les produits sont préparés."
           },
           {
             "q": "Puis-je demander une vidéo de produit réalisée pour une commande spécifique ?",
-            "a": "For specific orders or product requirements, contact us to discuss video support."
+            "a": "Pour une commande spécifique ou des exigences relatives à un produit, contactez-nous – nous discuterons du support vidéo et enverrons les documents en privé."
           },
           {
-            "q": "How do I get a quotation after watching the videos?",
-            "a": "In the inquiry form, specify the product type, cylinder size, quantity, destination country and any customization requirements."
+            "q": "Comment obtenir des vidéos, des certificats et un devis ?",
+            "a": "Dans le formulaire de demande, précisez le type de produit, la taille du cylindre, la quantité, le pays de destination et ce qu'il faut envoyer : vidéos, certificats ou les deux. Nous les enverrons en privé et préparerons une offre."
           }
         ]
       },
@@ -384,7 +396,7 @@
           },
           {
             "q": "Pouvez-vous fournir des photos et des spécifications du produit ?",
-            "a": "Yes. Product photos, specifications and datasheets can be provided according to your needs."
+            "a": "Oui. Les photos des produits, les spécifications et les fiches techniques sont envoyées en privé sur demande."
           },
           {
             "q": "Comment puis-je obtenir un devis pour les accessoires ?",
@@ -427,56 +439,117 @@
         "title": "Guide budgétaire pour l’achat de bouteilles d’acétylène",
         "desc": "Facteurs affectant le coût et comment choisir l'offre optimale.",
         "body": [
-          "Le prix des bouteilles d'acétylène dépend du volume (2 L à 40 L), du type de vanne, de la certification (ISO, DOT, TPED) et de la quantité commandée. Prix ​​EXW indicatifs : WG-10 28 à 35 $, WG-25 45 à 58 $ par unité.",
-          "Les lots plus grands (200 à 500+ pièces) bénéficient de réductions significatives. La peinture OEM, le logo et l'emballage spécial ajoutent 5 à 15 % au prix de base mais augmentent la valeur pour les distributeurs.",
-          "Tenez également compte de l’expédition (FOB/CIF), des documents et du MOQ. Nous répondons dans les 24 heures avec les spécifications complètes, les délais de livraison et les Incoterms.",
-          "Pour un devis exact, indiquez le modèle, la quantité, le pays de destination et les exigences en matière de vannes dans le formulaire de contact – ou envoyez un e-mail à sales@wandagroups.com."
+          "Le prix des bouteilles d'acétylène dépend du volume, du type de vanne, des normes requises pour votre marché de destination et de la quantité commandée. Nous ne publions pas de prix catalogue fixes sur le site Internet.",
+          "Les lots plus importants et les options OEM (peinture, logo, emballage) sont proposés individuellement après examen de votre demande.",
+          "Les conditions d'expédition (FOB/CIF et similaires), les documents et les délais de livraison sont confirmés dans le devis formel.",
+          "For an exact quote, include model, quantity, destination country and valve requirements in the contact form — or email sales@wandagroups.com."
         ]
       }
     ]
   },
   "cta": {
-    "title": "Demander un devis",
-    "subtitle": "Indiquez-nous la taille, la quantité, le pays de destination et l'application – nous préparerons un devis détaillé.",
+    "title": "Discutons de vos besoins",
+    "subtitle": "Indiquez-nous le produit, la taille, la quantité, le pays de destination et les spécifications. Notre équipe commerciale vous répondra avec des informations sur le produit et un devis.",
     "formTitle": "Demander un devis",
-    "formSubtitle": "Laissez vos exigences - notre équipe commerciale vous répondra avec des informations sur le produit, les prix, le MOQ et les délais de livraison.",
+    "formSubtitle": "Remplissez le formulaire pour une demande commerciale. Les champs obligatoires sont marqués.",
     "name": "Nom",
+    "company": "Entreprise",
     "phone": "Téléphone/WhatsApp",
     "email": "E-mail",
     "product": "Produit",
-    "quantity": "Quantité",
-    "country": "Pays de destination",
+    "quantity": "Quantité (facultatif)",
+    "country": "Pays de destination (facultatif)",
     "productOptions": [
       "Cylindre d'acétylène",
       "Bouteille de propane",
       "Générateur d'acétylène",
       "Accessoires",
-      "Commande groupée",
-      "Cold storage / refrigeration"
+      "Chambre froide / réfrigération",
+      "Commande groupée"
     ],
+    "quantityPlaceholder": "par ex. 200 pièces, 1 conteneur ou à déterminer",
+    "countryPlaceholder": "Où les marchandises seront expédiées",
     "message": "Exigences supplémentaires",
     "messagePlaceholder": "Produit, taille, quantité, pays de destination...",
-    "submit": "Envoyer une demande",
+    "submit": "Soumettre une demande",
     "sending": "Envoi...",
     "success": "Merci! Nous vous contacterons sous peu.",
     "sendAnother": "Envoyer une autre demande",
     "errorGeneric": "Échec de l'envoi. Veuillez réessayer ou envoyez-nous un e-mail directement.",
-    "errorNoForm": "Formulaire non configuré. Veuillez envoyer un e-mail à sales@wandagroups.com",
-    "privacyPrefix": "J'accepte le",
-    "privacySuffix": "et au traitement de mes données personnelles pour traiter cette demande.",
-    "privacyLink": "politique de confidentialité",
-    "company": "Entreprise",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Envoyer via l'application de messagerie",
-    "termsAnd": " and the ",
-    "termsLink": "Terms of Use"
+    "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
+    "privacyPrefix": "J'accepte le",
+    "privacySuffix": ", et au traitement de mes données personnelles pour traiter cette demande.",
+    "privacyLink": "politique de confidentialité",
+    "termsAnd": "et le",
+    "termsLink": "Conditions d'utilisation",
+    "requirements": "Exigences/Spécifications",
+    "requirementsPlaceholder": "Type de vanne, couleur, norme, emballage, marquage OEM, notes de quantité..."
   },
   "footer": {
     "company": "Fabricant de bouteilles de gaz du groupe Wanda",
     "tagline": "Fabrication professionnelle de bouteilles de gaz",
     "rights": "© 2026 Groupe Wanda. Tous droits réservés.",
     "privacy": "politique de confidentialité",
-    "terms": "Terms of Use"
+    "terms": "Conditions d'utilisation"
+  },
+  "privacy": {
+    "label": "Légale",
+    "title": "politique de confidentialité",
+    "updated": "Dernière mise à jour : 25 août 2026",
+    "intro": [
+      "Wanda Group (« nous », « notre ») exploite ce site Web pour présenter des bouteilles de gaz, des accessoires et des fournitures d'exportation associées, et pour recevoir des demandes commerciales d'acheteurs industriels.",
+      "Cette politique explique quelles données personnelles nous collectons via le site, pourquoi nous les utilisons et comment vous pouvez nous contacter à ce sujet. Des vidéos de production en usine sont présentées sur ce site Web. Les fichiers de certificats sont envoyés en privé sur demande."
+    ],
+    "sections": [
+      {
+        "title": "Qui est responsable",
+        "body": [
+          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Quelles données nous collectons",
+        "body": [
+          "Lorsque vous envoyez le formulaire de demande, nous recevons les données que vous saisissez : nom, email, téléphone, pays de destination, type de produit, quantité et message.",
+          "Le site stocke également votre choix de langue dans le navigateur (localStorage). Nous n'utilisons pas de cookies publicitaires et ne vendons pas de listes de visiteurs."
+        ]
+      },
+      {
+        "title": "Pourquoi nous utilisons les données",
+        "body": [
+          "Nous utilisons les données de demande uniquement pour répondre à votre demande, préparer un devis, envoyer des informations sur les produits, des vidéos ou des certificats que vous avez demandés et pour coordonner une commande si nous commençons à travailler ensemble.",
+          "Base juridique : votre consentement lorsque vous cochez la case du formulaire, et notre intérêt légitime à répondre aux demandes de vente B2B."
+        ]
+      },
+      {
+        "title": "Qui reçoit les données",
+        "body": [
+          "Votre message est transmis à notre équipe commerciale par email. Le formulaire est traité par Web3Forms, prestataire technique qui nous transmet le message.",
+          "Nous ne vendons pas de données personnelles. Nous pouvons partager ce qui est nécessaire avec des partenaires logistiques, d'inspection ou bancaires uniquement si cela est nécessaire pour exécuter une commande convenue."
+        ]
+      },
+      {
+        "title": "Combien de temps on le garde",
+        "body": [
+          "Les données de la demande sont conservées aussi longtemps que nécessaire au traitement de la demande et pendant une durée raisonnable ensuite pour le suivi des ventes et la comptabilité, sauf si vous nous demandez de les supprimer plus tôt lorsque la loi le permet."
+        ]
+      },
+      {
+        "title": "Vos droits",
+        "body": [
+          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
+        ]
+      },
+      {
+        "title": "Sécurité et enfants",
+        "body": [
+          "Nous prenons des mesures techniques et organisationnelles raisonnables pour protéger les messages en transit et dans notre boîte aux lettres. Ce site Web est destiné aux acheteurs professionnels et non aux enfants."
+        ]
+      }
+    ],
+    "contactLead": "Questions sur cette politique :"
   },
   "ui": {
     "catalog": "Catalogue",
@@ -494,6 +567,7 @@
     "location": "Emplacement",
     "quoteResponse": "Réponse au devis",
     "support": "Soutien",
+    "countriesServed": "Prise en charge de l'exportation",
     "exportReady": "Prêt à exporter",
     "years": "Années",
     "acetylene": "Acétylène",
@@ -508,17 +582,25 @@
     "quality": "Qualité",
     "faq": "FAQ",
     "blog": "Blogue",
-    "countriesServed": "Pays desservis",
     "searchLanguage": "Langue de recherche...",
-    "noLanguagesFound": "Aucune langue trouvée"
+    "noLanguagesFound": "Aucune langue trouvée",
+    "breadcrumb": "Fil d'Ariane",
+    "primaryNav": "Primaire",
+    "menu": "Menu",
+    "playVideo": "Lire la vidéo",
+    "productGallery": "Galerie de produits",
+    "wechatQr": "WeChat QR code",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telegram",
+    "brandName": "Wanda Group"
   },
   "trustMarquee": [
     "Factory Direct",
-    "OEM / Private Label",
-    "International Export",
-    "Quality Control",
-    "Market Standards on Request",
-    "Bulk Orders"
+    "OEM/marque privée",
+    "Exportation internationale",
+    "Contrôle de qualité",
+    "Normes du marché sur demande",
+    "Commandes groupées"
   ],
   "productDetails": {
     "tabs": {
@@ -542,55 +624,55 @@
         "Modèle",
         "Volume (L)",
         "C₂H₂ (kg)",
-        "PM (MPa)",
+        "WP (MPa)",
         "TP (MPa)",
         "Poids (kg)",
         "Hauteur (mm)"
       ],
       "rows": [
         [
-          "GT-2",
+          "WG-2",
           "2",
-          "0,3",
-          "1,5",
+          "0.3",
+          "1.5",
           "5.2",
           "4.5",
           "395"
         ],
         [
-          "GT-5",
+          "WG-5",
           "5",
-          "0,8",
-          "1,5",
+          "0.8",
+          "1.5",
           "5.2",
           "7.2",
           "490"
         ],
         [
-          "GT-10",
+          "WG-10",
           "10",
-          "1,5",
-          "1,5",
+          "1.5",
+          "1.5",
           "5.2",
-          "12,5",
+          "12.5",
           "780"
         ],
         [
-          "GT-25",
+          "WG-25",
           "25",
           "4.0",
-          "1,5",
+          "1.5",
           "5.2",
-          "24,0",
+          "24.0",
           "980"
         ],
         [
-          "GT-40",
+          "WG-40",
           "40",
           "6.5",
-          "1,5",
+          "1.5",
           "5.2",
-          "38,0",
+          "38.0",
           "1250"
         ]
       ],
@@ -611,14 +693,14 @@
         "Modèle",
         "Volume (L)",
         "Gaz (kg)",
-        "PM (MPa)",
+        "WP (MPa)",
         "TP (MPa)",
         "Poids (kg)",
         "Hauteur (mm)"
       ],
       "rows": [
         [
-          "GT-P3",
+          "WG-P3",
           "3",
           "1.2",
           "1.8",
@@ -627,7 +709,7 @@
           "280"
         ],
         [
-          "GT-P5",
+          "WG-P5",
           "5",
           "2.0",
           "1.8",
@@ -650,16 +732,16 @@
           "6.0",
           "1.8",
           "5.2",
-          "12,5",
+          "12.5",
           "580"
         ],
         [
           "WG-P50",
           "50",
-          "20,0",
+          "20.0",
           "1.8",
           "5.2",
-          "42,0",
+          "42.0",
           "1180"
         ]
       ],
@@ -686,18 +768,18 @@
       ],
       "rows": [
         [
-          "GT-G3",
+          "WG-G3",
           "3",
           "12",
-          "1,5 à 5",
-          "0,5",
+          "1.5–5",
+          "0.5",
           "180"
         ],
         [
-          "GT-G5",
+          "WG-G5",
           "5",
           "20",
-          "1,5 à 5",
+          "1.5–5",
           "1.0",
           "280"
         ],
@@ -705,7 +787,7 @@
           "WG-G20",
           "20",
           "80",
-          "1,5 à 5",
+          "1.5–5",
           "3.5",
           "850"
         ],
@@ -713,7 +795,7 @@
           "WG-G50",
           "50",
           "200",
-          "1,5 à 5",
+          "1.5–5",
           "7.5",
           "1800"
         ],
@@ -721,7 +803,7 @@
           "WG-G100",
           "100",
           "400",
-          "1,5 à 5",
+          "1.5–5",
           "15",
           "3200"
         ]
@@ -823,7 +905,7 @@
       {
         "icon": "📋",
         "title": "Attestation",
-        "desc": "Documents for customs and regulators.",
+        "desc": "Documents pour les douanes et les régulateurs. Des copies sont envoyées en privé sur demande.",
         "points": [
           "ISO 9809, POINT, TPED",
           "Fiche signalétique et certificat de qualité",
@@ -854,88 +936,76 @@
   },
   "pricing": {
     "title": "Conditions de prix et de fourniture",
-    "subtitle": "Commercial terms are confirmed per inquiry. Send product, quantity and destination details for a formal quotation.",
-    "note": "We do not publish fixed list prices, MOQ or lead times on this website. Exact commercial terms are confirmed in a quotation after we review your requirements.",
+    "subtitle": "Les conditions commerciales sont confirmées sur demande. Envoyez les détails du produit, de la quantité et de la destination pour un devis formel.",
+    "note": "Nous ne publions pas de prix catalogue fixes, de MOQ ou de délais de livraison sur ce site Web. Les conditions commerciales exactes sont confirmées dans un devis après étude de vos besoins.",
     "cards": [
       {
-        "label": "Pricing",
-        "value": "On request",
-        "desc": "Formal quotation after inquiry review"
+        "label": "Tarifs",
+        "value": "Sur demande",
+        "desc": "Devis formel après examen de l'enquête"
       },
       {
         "label": "MOQ",
-        "value": "Confirmed per order",
-        "desc": "Depends on model and destination"
+        "value": "Confirmé par commande",
+        "desc": "Dépend du modèle et de la destination"
       },
       {
-        "label": "Lead time",
-        "value": "Confirmed per order",
-        "desc": "Shared with the quotation"
+        "label": "Délai de mise en œuvre",
+        "value": "Confirmé par commande",
+        "desc": "Partagé avec la citation"
       },
       {
-        "label": "Payment",
-        "value": "Agreed in contract",
-        "desc": "Terms confirmed before production"
+        "label": "Paiement",
+        "value": "Convenu dans le contrat",
+        "desc": "Conditions confirmées avant la production"
       }
     ],
     "factors": {
-      "title": "Facteurs de prix",
+      "title": "Ce qui affecte le devis",
       "items": [
-        "Volume et modèle du cylindre (2L – 50L)",
-        "Type de vanne (CGA, GOST, DIN, POL)",
-        "Norme de certification (ISO, DOT, TPED)",
-        "OEM : couleur, marquage, packaging",
+        "Volume et modèle du cylindre",
+        "Type de vanne et norme de connexion",
+        "Normes requises pour le marché de destination",
+        "Couleur, marquage et emballage OEM",
         "Volume de commande et Incoterms"
       ]
     },
     "samples": [
       {
-        "product": "Acétylène WG-10",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Bouteilles d'acétylène",
+        "moq": "Sur demande",
+        "price": "Devis par demande",
+        "lead": "Confirmé par commande"
       },
       {
-        "product": "Acétylène WG-25",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Bouteilles de propane / GPL",
+        "moq": "Sur demande",
+        "price": "Devis par demande",
+        "lead": "Confirmé par commande"
       },
       {
-        "product": "Propane WG-P11",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Génératrices",
+        "moq": "Sur demande",
+        "price": "Devis par demande",
+        "lead": "Confirmé par commande"
       },
       {
-        "product": "Propane WG-P50",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Générateur WG-G20",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
-      },
-      {
-        "product": "Ensemble régulateur",
-        "moq": "On request",
-        "price": "Quoted per inquiry",
-        "lead": "Confirmed per order"
+        "product": "Accessoires",
+        "moq": "Sur demande",
+        "price": "Devis par demande",
+        "lead": "Confirmé par commande"
       }
     ],
     "tableHeaders": [
       "Produit",
       "MOQ",
-      "Prix ​​(EXW)",
+      "Prix",
       "Délai de mise en œuvre"
     ]
   },
   "certifications": {
     "title": "Certifications et normes",
-    "subtitle": "Standards and certification options are discussed according to product and destination market. Certificate copies are sent privately on request — files are not published on this website.",
+    "subtitle": "Les normes et les options de certification sont discutées en fonction du produit et du marché de destination. Les copies des certificats sont envoyées en privé sur demande — les fichiers ne sont pas publiés sur ce site.",
     "items": [
       {
         "name": "ISO 9809-1",
@@ -973,42 +1043,42 @@
       },
       {
         "title": "Recevoir un devis",
-        "desc": "Prix, MOQ, délai de livraison et fiche technique dans les 24 heures"
+        "desc": "Prix, MOQ, délai de livraison et fiche technique après examen par notre équipe commerciale"
       },
       {
         "title": "Confirmer la commande",
-        "desc": "Signature du contrat et paiement d'un acompte de 30 %"
+        "desc": "Conditions de contrat et de paiement convenues avant le début de la production"
       },
       {
         "title": "Production et contrôle qualité",
-        "desc": "Manufacturing, testing, photo report on request"
+        "desc": "Fabrication et tests. Les vidéos et certificats sont envoyés en privé sur demande"
       },
       {
         "title": "Expédition",
-        "desc": "Emballages, documents, livraison FOB/CIF/DDP"
+        "desc": "Emballage, documents et conditions de livraison comme convenu dans la commande"
       }
     ]
   },
   "testimonials": {
-    "title": "What buyers say",
+    "title": "Ce que disent les acheteurs",
     "items": [
       {
-        "quote": "We reordered 40L acetylene cylinders three times this year. GOST valves, OEM colour and export packing matched the first sample every time.",
-        "author": "Rustam Yusupov",
-        "role": "Owner, welding gas distributor",
-        "country": "Uzbekistan"
+        "quote": "Nous avons commandé à trois reprises des bouteilles d'acétylène de 40 litres cette année. Les vannes GOST, la couleur OEM et l'emballage d'exportation correspondaient à chaque fois au premier échantillon.",
+        "author": "Roustam Ioussoupov",
+        "role": "Propriétaire, distributeur de gaz de soudage",
+        "country": "Ouzbékistan"
       },
       {
-        "quote": "Quote came the same day with a clear MOQ and lead time. Propane bottles arrived with POL valves and full packing list — no customs delays on our side.",
+        "quote": "Le devis est arrivé le même jour avec un MOQ et un délai de livraison clairs. Les bouteilles de propane sont arrivées avec des valves POL et une liste de colisage complète – aucun retard douanier de notre côté.",
         "author": "Aigerim Bekova",
-        "role": "Procurement manager, industrial supply",
+        "role": "Responsable achats, approvisionnement industriel",
         "country": "Kazakhstan"
       },
       {
-        "quote": "We buy cylinders with regulators and hoses as one container order. Documents and marking were ready for our market, so resale was straightforward.",
+        "quote": "Nous achetons des bouteilles avec régulateurs et tuyaux en une seule commande de conteneur. Les documents et le marquage étaient prêts pour notre marché, la revente était donc simple.",
         "author": "Faisal Al-Harbi",
-        "role": "Import buyer, gas equipment trading",
-        "country": "Saudi Arabia"
+        "role": "Acheteur import, négoce d'équipements à gaz",
+        "country": "Arabie Saoudite"
       }
     ]
   },
@@ -1062,58 +1132,59 @@
         "id": "qualité",
         "eyebrow": "Qualité et sécurité",
         "title": "Inspection que vous pouvez mettre dans le devis",
-        "text": "Material checks, leak tests, valve torque and packing photos — documentation packs for distributors and project buyers.",
+        "text": "Vérifications des matériaux, tests d'étanchéité, couple des vannes et photos d'emballage. Les packs de certificats et les reportages photo sont envoyés en privé sur demande.",
         "points": [
           "Tests de pression et d'étanchéité",
-          "Certificate package",
+          "Certificats sur demande",
           "Photos avant expédition"
         ]
       },
       {
         "id": "exporter",
         "eyebrow": "Exportation mondiale",
-        "title": "Emballé pour les ports, prêt pour plus de 50 pays",
+        "title": "Emballé pour les ports, prêt pour les marchés d'exportation",
         "text": "Exportez des palettes, des protections de valves, des étiquettes multilingues et des documents d'expédition coordonnés pour vos Incoterms de destination.",
         "points": [
           "Prise en charge FOB/CIF",
           "Emballage palettisé",
           "Délai 15 à 25 jours"
-        ]
+        ],
+        "desc": ""
       }
     ]
   },
   "imageAlts": {
-    "hero": "Wrapped gas cylinders staged in the factory yard for dispatch",
-    "about": "Workers on the Wanda Group factory floor",
-    "accessories": "Welding and cutting with gas cylinder accessories",
+    "hero": "Bouteilles de gaz emballées dans la cour de l'usine pour expédition",
+    "about": "Travailleurs dans l’usine du groupe Wanda",
+    "accessories": "Kit d'accessoires pour bouteilles de gaz : régulateurs, tuyaux, torches et raccords",
     "products": [
       "Bouteille d'acétylène dissous avec masse poreuse et valve en laiton",
-      "Acetylene generator photographed at the plant",
+      "Générateur d'acétylène photographié à l'usine",
       "Bouteilles de propane et de GPL en plusieurs tailles et couleurs",
       "Kit d'accessoires de soudage et de coupage pour bouteilles de gaz"
     ],
     "gallery": [
-      "Night dispatch: wrapped equipment loaded on a trailer",
-      "Pallets and metal parts staged for shipment",
-      "Cartons of packed stock stacked in the warehouse",
-      "Cylinders wrapped in film, staged in the factory yard",
-      "Gas cylinder production conveyor under the plant roof",
-      "LPG cylinders hanging on the overhead finishing conveyor",
-      "Workers walking the Wanda Group factory floor",
-      "Unpainted welded propane cylinder bodies stacked two-high",
-      "Rows of unpainted cylinder shells on the concrete floor",
-      "Cylinder tube stock and capped shells in the workshop",
-      "Stacked raw cylinder bodies against the factory wall",
-      "Steel base rings piled before assembly",
-      "Brass fittings packed in a carton with foam",
-      "Acetylene generator with hose and boxed accessories",
-      "Unpainted cylinder shells with open necks after welding"
+      "Expédition de nuit : matériel emballé chargé sur remorque",
+      "Palettes et pièces métalliques préparées pour l'expédition",
+      "Cartons de stock emballés empilés dans l’entrepôt",
+      "Cylindres enveloppés dans un film, mis en scène dans la cour de l'usine",
+      "Convoyeur de production de bouteilles de gaz sous le toit de l'usine",
+      "Bouteilles de GPL suspendues au convoyeur aérien de finition",
+      "Des ouvriers parcourent l’usine du groupe Wanda",
+      "Corps de bouteilles de propane soudés, non peints, empilés sur deux hauteurs",
+      "Rangées de coques de cylindres non peintes sur le sol en béton",
+      "Stock de tubes de cylindre et coquilles bouchées en atelier",
+      "Corps de cylindres bruts empilés contre le mur de l'usine",
+      "Anneaux de base en acier empilés avant assemblage",
+      "Raccords en laiton emballés dans un carton avec de la mousse",
+      "Générateur d'acétylène avec tuyau et accessoires en boîte",
+      "Coquilles de cylindres non peintes à col ouvert après soudage"
     ],
     "refrigeration": [
-      "Air-cooled condensing unit with Copeland semi-hermetic compressor",
-      "Air-cooled condensing unit with Bitzer semi-hermetic compressor",
-      "Enclosed cabinet-style refrigeration condensing unit",
-      "High-capacity four-fan air-cooled condensing unit"
+      "Unité de condensation refroidie par air avec compresseur semi-hermétique Copeland",
+      "Groupe de condensation à air avec compresseur semi-hermétique Bitzer",
+      "Unité de condensation de réfrigération de type armoire fermée",
+      "Unité de condensation refroidie par air à quatre ventilateurs de grande capacité"
     ]
   },
   "accessoriesCatalog": {
@@ -1477,164 +1548,379 @@
       }
     ]
   },
-  "privacy": {
-    "label": "Légale",
-    "title": "politique de confidentialité",
-    "updated": "Dernière mise à jour : 25 août 2026",
-    "intro": [
-      "Wanda Group (« nous », « notre ») exploite ce site Web pour présenter les bouteilles de gaz, les accessoires et les fournitures d'exportation associées, et pour recevoir des demandes commerciales d'acheteurs industriels.",
-      "Cette politique explique quelles données personnelles nous collectons via le site, pourquoi nous les utilisons et comment vous pouvez nous contacter à ce sujet. Nous ne publions pas de vidéos d'usine ni de fichiers de certificat sur le site Web ; ces documents sont envoyés en privé sur demande."
-    ],
-    "sections": [
-      {
-        "title": "Qui est responsable",
-        "body": [
-          "The controller of personal data collected via this website is Wanda Group. For privacy requests write to sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Quelles données nous collectons",
-        "body": [
-          "Lorsque vous envoyez le formulaire de demande, nous recevons les données que vous saisissez : nom, email, téléphone, pays de destination, type de produit, quantité et message.",
-          "Le site stocke également votre choix de langue dans le navigateur (localStorage). Nous n'utilisons pas de cookies publicitaires et ne vendons pas de listes de visiteurs."
-        ]
-      },
-      {
-        "title": "Pourquoi nous utilisons les données",
-        "body": [
-          "Nous utilisons les données de demande uniquement pour répondre à votre demande, préparer un devis, envoyer des informations sur les produits, des vidéos ou des certificats que vous avez demandés et pour coordonner une commande si nous commençons à travailler ensemble.",
-          "Base juridique : votre consentement lorsque vous cochez la case du formulaire, et notre intérêt légitime à répondre aux demandes de vente B2B."
-        ]
-      },
-      {
-        "title": "Qui reçoit les données",
-        "body": [
-          "Votre message est transmis à notre équipe commerciale par email. Selon la configuration, le formulaire peut être traité par Web3Forms en tant que prestataire technique qui nous transmet le message.",
-          "Nous ne vendons pas de données personnelles. Nous pouvons partager ce qui est nécessaire avec des partenaires logistiques, d'inspection ou bancaires uniquement si cela est nécessaire pour exécuter une commande convenue."
-        ]
-      },
-      {
-        "title": "Combien de temps on le garde",
-        "body": [
-          "Les données de la demande sont conservées aussi longtemps que nécessaire au traitement de la demande et pendant une durée raisonnable ensuite pour le suivi des ventes et la comptabilité, sauf si vous nous demandez de les supprimer plus tôt lorsque la loi le permet."
-        ]
-      },
-      {
-        "title": "Vos droits",
-        "body": [
-          "You may ask for a copy of the data we hold about you, ask us to correct it, or ask us to delete it. You may withdraw consent for further marketing-style follow-up by writing to us. To exercise these rights, email sales@wandagroups.com."
-        ]
-      },
-      {
-        "title": "Sécurité et enfants",
-        "body": [
-          "Nous prenons des mesures techniques et organisationnelles raisonnables pour protéger les messages en transit et dans notre boîte aux lettres. Ce site Web est destiné aux acheteurs professionnels et non aux enfants."
-        ]
-      }
-    ],
-    "contactLead": "Questions sur cette politique :"
-  },
   "terms": {
-    "label": "Legal",
-    "title": "Terms of Use",
-    "updated": "Last updated: 27 August 2026",
+    "label": "Légale",
+    "title": "Conditions d'utilisation",
+    "updated": "Dernière mise à jour : 27 août 2026",
     "intro": [
-      "These terms govern use of wandagroups.com, operated by Wanda Group for industrial buyers of gas cylinders, generators and accessories.",
-      "By browsing the site or sending an inquiry you agree to these terms and to our Privacy Policy. If you do not agree, do not use the site."
+      "Les présentes conditions régissent l'utilisation de wandagroups.com, exploité par Wanda Group pour les acheteurs industriels de bouteilles de gaz, de générateurs et d'accessoires.",
+      "En naviguant sur le site ou en envoyant une demande, vous acceptez ces conditions et notre politique de confidentialité. Si vous n’êtes pas d’accord, n’utilisez pas le site."
     ],
     "sections": [
       {
-        "title": "Who we are",
+        "title": "Qui nous sommes",
         "body": [
           "Wanda Group manufactures acetylene cylinders, propane cylinders, acetylene generators and related accessories for export. Contact: sales@wandagroups.com, phone / WhatsApp +998 50 713 66 46, WeChat +86 130 8285 5282."
         ]
       },
       {
-        "title": "What the website is for",
+        "title": "À quoi sert le site Web",
         "body": [
-          "The site presents product information and receives commercial inquiries. It is intended for business buyers, not for consumers shopping as private individuals and not for children."
+          "Le site présente des informations sur les produits et reçoit des demandes commerciales. Il est destiné aux acheteurs professionnels, et non aux consommateurs faisant leurs achats en tant que particuliers et non aux enfants."
         ]
       },
       {
-        "title": "Quotes, prices and orders",
+        "title": "Devis, tarifs et commandes",
         "body": [
-          "Prices, MOQ, lead times and specifications on the site are indicative. A message through the form or messenger is an inquiry, not an order.",
-          "A contract exists only when both sides confirm the offer in writing (email or signed documents) and the agreed deposit is received, unless we state otherwise in that confirmation."
+          "Les prix, MOQ, délais et spécifications sur le site sont indicatifs. Un message via le formulaire ou le messager est une demande de renseignements, pas une commande.",
+          "Un contrat n'existe que lorsque les deux parties confirment l'offre par écrit (e-mail ou documents signés) et que l'acompte convenu est reçu, sauf indication contraire dans cette confirmation."
         ]
       },
       {
-        "title": "Photos, videos and certificates",
+        "title": "Photos, vidéos et certificats",
         "body": [
-          "Factory photos and videos on the site illustrate production. Extra footage and certificate files are sent privately on request and remain our confidential materials unless we say you may share them."
+          "Des photos et vidéos d'usine sur le site illustrent la production. Les séquences supplémentaires et les fichiers de certificat sont envoyés en privé sur demande et restent nos documents confidentiels, sauf si nous vous disons que vous pouvez les partager."
         ]
       },
       {
-        "title": "Intellectual property",
+        "title": "Propriété intellectuelle",
         "body": [
-          "Text, photos, videos, logos and layout on this website belong to Wanda Group or our licensors. You may not copy the catalogue for your own commercial site without our written consent."
+          "Les textes, photos, vidéos, logos et mises en page de ce site Web appartiennent à Wanda Group ou à nos concédants de licence. Vous ne pouvez pas copier le catalogue pour votre propre site commercial sans notre accord écrit."
         ]
       },
       {
-        "title": "Acceptable use",
+        "title": "Utilisation acceptable",
         "body": [
-          "Do not misuse the inquiry form (spam, false identity, or attempts to disrupt the site). We may ignore or delete abusive requests."
+          "N'utilisez pas le formulaire de demande à mauvais escient (spam, fausse identité ou tentative de perturbation du site). Nous pouvons ignorer ou supprimer les demandes abusives."
         ]
       },
       {
-        "title": "Liability",
+        "title": "Responsabilité",
         "body": [
-          "We take care to keep information accurate, but the site may contain errors or be temporarily unavailable. To the extent allowed by law, Wanda Group is not liable for indirect loss arising only from use of the website.",
-          "Liability for an actual supply contract is set in that contract and in the applicable law, not in these website terms alone."
+          "Nous veillons à maintenir les informations exactes, mais le site peut contenir des erreurs ou être temporairement indisponible. Dans la mesure permise par la loi, Wanda Group n'est pas responsable des pertes indirectes résultant uniquement de l'utilisation du site Web.",
+          "La responsabilité pour un contrat de fourniture effectif est définie dans ce contrat et dans la loi applicable, et non dans les seules conditions de ce site Web."
         ]
       },
       {
-        "title": "Changes",
+        "title": "Changements",
         "body": [
-          "We may update these terms. The date at the top shows the current version. Continued use of the site after a change means you accept the updated terms."
+          "Nous pouvons mettre à jour ces conditions. La date en haut indique la version actuelle. L'utilisation continue du site après une modification signifie que vous acceptez les conditions mises à jour."
         ]
       }
     ],
-    "contactLead": "Questions about these terms:"
+    "contactLead": "Questions sur ces termes :"
   },
   "refrigeration": {
-    "label": "Our product line",
-    "title": "Refrigeration units",
-    "subtitle": "A separate Wanda Group line — not a third-party catalogue. Condensing units, cold rooms and hardware, supplied by us with cylinders or as a stand-alone order.",
-    "moreLink": "Cold storage equipment →",
-    "cta": "Request a quote",
-    "alsoTitle": "Also available on request",
+    "label": "Notre gamme de produits",
+    "title": "Unités de réfrigération",
+    "subtitle": "Une ligne distincte du groupe Wanda – et non un catalogue tiers. Unités de condensation, chambres froides et quincaillerie, fournies par nos soins avec des bouteilles ou en commande individuelle.",
+    "moreLink": "Équipement de stockage frigorifique →",
+    "cta": "Demander un devis",
+    "alsoTitle": "Également disponible sur demande",
     "also": [
-      "Polyurethane cold-room panels (B1 / B2) and 304 stainless panels",
-      "Cold-room air coolers — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
-      "Aluminum evaporator coils",
-      "Cold-room doors",
-      "Industrial water chillers",
-      "Vehicle refrigeration units and mobile cold rooms"
+      "Panneaux chambre froide en polyuréthane (B1 / B2) et panneaux inox 304",
+      "Refroidisseurs d'air pour chambres froides — DL (~0 °C), DD (~−18 °C), DJ (~−25 °C)",
+      "Serpentins d'évaporateur en aluminium",
+      "Portes de chambres froides",
+      "Refroidisseurs d'eau industriels",
+      "Groupes frigorifiques pour véhicules et chambres froides mobiles"
     ],
-    "note": "Wanda International Trade supplies refrigeration equipment alongside the gas-cylinder line: units, panels, coolers and related cold-chain hardware. Copeland, Bitzer and similar names refer to the compressor brand inside the unit, not a rebrand of those companies.",
-    "videoTitle": "Company video",
-    "videoSubtitle": "Overview of the refrigeration equipment line. More footage is sent privately on request.",
+    "note": "Wanda International Trade fournit des équipements de réfrigération en plus de la gamme de bouteilles de gaz : unités, panneaux, refroidisseurs et matériel de chaîne du froid associé. Copeland, Bitzer et les noms similaires font référence à la marque du compresseur à l'intérieur de l'unité, et non à une nouvelle marque de ces sociétés.",
+    "videoTitle": "Vidéo d'entreprise",
+    "videoSubtitle": "Aperçu de la gamme d'équipements de réfrigération. Plus de séquences sont envoyées en privé sur demande.",
     "items": [
       {
-        "title": "Copeland semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Copeland compressor",
-        "desc": "Air-cooled condensing unit with a Copeland semi-hermetic compressor for cold rooms and medium-temperature duty."
+        "title": "Unité semi-hermétique refroidie par air Copeland",
+        "spec": "Unité de condensation · Compresseur Copeland",
+        "desc": "Unité de condensation à air avec compresseur semi-hermétique Copeland pour chambres froides et service à moyenne température."
       },
       {
-        "title": "Bitzer semi-hermetic air-cooled unit",
-        "spec": "Condensing unit · Bitzer compressor",
-        "desc": "Air-cooled condensing unit with a Bitzer semi-hermetic compressor for higher-duty and mid-to-low temperature rooms."
+        "title": "Unité refroidie par air semi-hermétique Bitzer",
+        "spec": "Groupe de condensation · Compresseur Bitzer",
+        "desc": "Unité de condensation refroidie par air avec un compresseur semi-hermétique Bitzer pour les pièces à usage intensif et à température moyenne à basse."
       },
       {
-        "title": "Enclosed box-type unit",
-        "spec": "Cabinet condensing unit",
-        "desc": "Enclosed cabinet-style condensing unit for sites that need a housed machine rather than an open skid."
+        "title": "Unité de type boîte fermée",
+        "spec": "Unité de condensation en armoire",
+        "desc": "Unité de condensation de type armoire fermée pour les sites nécessitant une machine logée plutôt qu'un châssis ouvert."
       },
       {
-        "title": "U-type / high-capacity condensing unit",
-        "spec": "Multi-fan air-cooled",
-        "desc": "Larger air-cooled condensing unit with a multi-fan condenser for bigger cold stores and process cooling."
+        "title": "Unité de condensation de type U / haute capacité",
+        "spec": "Refroidi par air à plusieurs ventilateurs",
+        "desc": "Unité de condensation refroidie par air plus grande avec un condenseur multi-ventilateurs pour de plus grandes chambres froides et le refroidissement des processus."
       }
     ]
+  },
+  "whoWeAre": {
+    "label": "Qui nous sommes",
+    "title": "Fabricant industriel pour acheteurs B2B",
+    "text": "Wanda Groups fabrique et fournit des bouteilles de gaz industriels, des générateurs et des accessoires de soudage pour les distributeurs étrangers, les partenaires OEM et les acheteurs de projets.",
+    "text2": "Notre objectif est l'approvisionnement en usine, l'assistance à la sélection des produits, les commandes groupées et la coordination des exportations, et non la vente au détail aux consommateurs.",
+    "cta": "En savoir plus sur nous"
+  },
+  "pages": {
+    "common": {
+      "quoteTitle": "Prêt à demander un devis ?",
+      "quoteCta": "Demander un devis",
+      "relatedProducts": "Produits associés",
+      "applications": "Applications",
+      "standardsTitle": "Normes et certifications",
+      "oemTitle": "OEM / personnalisation",
+      "packagingTitle": "Emballage et livraison",
+      "placeholders": {
+        "standards": "Les normes et certificats disponibles sont confirmés par commande et par marché de destination. Les copies des certificats sont envoyées en privé sur demande — les fichiers ne sont pas publiés sur le site Internet.",
+        "oem": "Les options de couleur OEM, de marquage, de valve, de capuchon et d'emballage peuvent être discutées en fonction de la commande et du marché cible.",
+        "packaging": "L'emballage et la documentation d'exportation sont préparés conformément aux conditions de commande et d'expédition."
+      }
+    },
+    "home": {
+      "seoTitle": "Fabricant de bouteilles de gaz | OEM industriel et exportation | Groupes Wanda",
+      "seoDescription": "Wanda Groups fabrique des bouteilles de gaz industriels, des générateurs et des accessoires de soudage pour les acheteurs OEM, grossistes et exportateurs internationaux."
+    },
+    "about": {
+      "label": "À propos de nous",
+      "title": "Fabricant de bouteilles de gaz pour les acheteurs industriels",
+      "subtitle": "Nous soutenons les acheteurs étrangers dans la sélection des produits, l’OEM, l’inspection, l’emballage et l’expédition.",
+      "seoTitle": "À propos du groupe Wanda",
+      "seoDescription": "Wanda Group fabrique des bouteilles d'acétylène, des bouteilles de propane, des générateurs et des accessoires pour le soudage, le coupage et l'approvisionnement en gaz industriels."
+    },
+    "products": {
+      "label": "Produits",
+      "title": "Nos produits",
+      "subtitle": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+      "seoTitle": "Produits de bouteilles de gaz",
+      "seoDescription": "Bouteilles d'acétylène, générateurs, bouteilles de propane et accessoires pour applications industrielles et de soudage.",
+      "refrigerationNote": "Wanda International Trade fournit des équipements de réfrigération en plus de la gamme de bouteilles de gaz : unités, panneaux, refroidisseurs et matériel de chaîne du froid associé. Copeland, Bitzer et les noms similaires font référence à la marque du compresseur à l'intérieur de l'unité, et non à une nouvelle marque de ces sociétés.",
+      "catalog": {
+        "acetylene": {
+          "name": "Bouteilles d'acétylène dissous",
+          "overview": "Cylindres en acier avec masse poreuse et solvant pour le stockage et le transport sûrs de l'acétylène. Utilisé dans le soudage, le découpage, le brasage et la fabrication de métaux.",
+          "seoTitle": "Bouteilles de gaz acétylène",
+          "seoDescription": "Cylindres en acier avec masse poreuse et solvant pour le stockage et le transport sûrs de l'acétylène. Utilisé dans le soudage, le découpage, le brasage et la fabrication de métaux."
+        },
+        "propane": {
+          "name": "Bouteilles de propane",
+          "overview": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+          "seoTitle": "Bouteilles de gaz propane",
+          "seoDescription": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel."
+        },
+        "lpg": {
+          "name": "Bouteilles de GPL",
+          "overview": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel.",
+          "seoTitle": "Bouteilles de gaz GPL",
+          "seoDescription": "Bouteilles pour mélanges de propane, butane et GPL. Utilisé dans le chauffage, le découpage, le brasage, la construction et l'approvisionnement en gaz industriel."
+        },
+        "industrial": {
+          "name": "Bouteilles de gaz industrielles",
+          "overview": "Bouteilles de gaz industrielles pour le soudage, le découpage et l'approvisionnement d'installations, y compris les options d'acétylène, de propane et de GPL adaptées à votre marché.",
+          "seoTitle": "Bouteilles de gaz industrielles",
+          "seoDescription": "Bouteilles de gaz industrielles pour le soudage, le découpage et l'approvisionnement d'installations du groupe Wanda."
+        },
+        "generators": {
+          "name": "Générateurs d'acétylène",
+          "overview": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée.",
+          "seoTitle": "Générateurs d'acétylène",
+          "seoDescription": "Équipement pour produire de l'acétylène à partir de carbure de calcium. Approvisionnement en gaz stable pour les besoins de soudage et industriels sans infrastructure gazière centralisée."
+        },
+        "accessories": {
+          "name": "Accessoires et raccords pour cylindres",
+          "overview": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres.",
+          "seoTitle": "Accessoires de soudage",
+          "seoDescription": "Gamme complète pour un fonctionnement sûr des bouteilles de gaz : des jauges aux torches de soudage. Approvisionnement unique avec des cylindres."
+        },
+        "refrigeration": {
+          "name": "Unités de réfrigération",
+          "overview": "Une ligne distincte du groupe Wanda – et non un catalogue tiers. Unités de condensation, chambres froides et quincaillerie, fournies par nos soins avec des bouteilles ou en commande individuelle.",
+          "seoTitle": "Unités de réfrigération",
+          "seoDescription": "Une ligne distincte du groupe Wanda – et non un catalogue tiers. Unités de condensation, chambres froides et quincaillerie, fournies par nos soins avec des bouteilles ou en commande individuelle."
+        }
+      }
+    },
+    "factory": {
+      "label": "Usine",
+      "title": "Usine et fabrication",
+      "subtitle": "Production, inspection, emballage et expédition — documentés avec de vraies photographies d'usine et des vidéos d'usine.",
+      "seoTitle": "Usine et Production | Groupes Wanda",
+      "seoDescription": "De vraies photos d'usines, des prises de vue d'expédition en direct et de courtes vidéos de l'atelier de production.",
+      "sections": [
+        {
+          "title": "Fabrication",
+          "text": "Formage, soudage et finition de cylindres dans le cadre du flux de production de l'usine."
+        },
+        {
+          "title": "Processus de production",
+          "text": "De la préparation de la coque à l'assemblage et à la finition, consultez les stocks en cours de fabrication et les images de l'atelier de production."
+        },
+        {
+          "title": "Contrôle qualité",
+          "text": "Contrôles visuels, marquages ​​et dimensionnels préparant les bouteilles à l'expédition."
+        },
+        {
+          "title": "Essai",
+          "text": "Tests de pression et d'étanchéité appliqués avant que les produits ne quittent la ligne, selon les exigences de la commande."
+        },
+        {
+          "title": "Conditionnement",
+          "text": "L'emballage d'exportation protège les bouteilles et les raccords pour le transport à l'étranger."
+        },
+        {
+          "title": "Chargement et exportation",
+          "text": "Préparation de l'entrepôt, chargement des camions et documentation d'expédition pour les commandes sortantes."
+        }
+      ]
+    },
+    "certificationsPage": {
+      "label": "Certifications",
+      "title": "Certifications et normes",
+      "subtitle": "Les normes couramment demandées par les acheteurs sont répertoriées ci-dessous. L’applicabilité dépend du produit et du marché de destination. Les copies, les numéros et la validité des certificats sont partagés en privé sur demande – et non publiés sous forme de réclamations non vérifiées.",
+      "seoTitle": "Certifications et normes | Groupes Wanda",
+      "seoDescription": "Normes discutées pour les bouteilles de gaz du groupe Wanda par marché. Des copies des certificats sont fournies en privé sur demande.",
+      "note": "Des copies des certificats sont envoyées en privé sur demande. Nous ne publions pas de fichiers de certificat sur le site Web."
+    },
+    "oem": {
+      "label": "OEM",
+      "title": "OEM et vente en gros",
+      "subtitle": "Options de marque privée et d’approvisionnement en gros pour les distributeurs et les acheteurs industriels.",
+      "seoTitle": "Fourniture de bouteilles de gaz OEM",
+      "seoDescription": "Fabrication de bouteilles de gaz OEM et de marque privée pour les marques et distributeurs étrangers.",
+      "quoteTitle": "Discutez des exigences OEM",
+      "quoteCta": "Demander un devis OEM",
+      "capabilities": [
+        {
+          "title": "Logo personnalisé",
+          "text": "Options de logo et de marquage discutées pour les commandes OEM éligibles."
+        },
+        {
+          "title": "Couleur personnalisée",
+          "text": "Couleur du cylindre selon les exigences du marché ou de la marque."
+        },
+        {
+          "title": "Emballage personnalisé",
+          "text": "Exportez les cartons, palettes et marques d’emballage sur commande."
+        },
+        {
+          "title": "Marque privée",
+          "text": "Étiquetage et présentation de la marque pour les canaux de distribution."
+        },
+        {
+          "title": "Commandes groupées",
+          "text": "Quantités en gros pour l'approvisionnement du projet et du distributeur."
+        },
+        {
+          "title": "Fabrication OEM",
+          "text": "Configuration du produit alignée sur vos spécifications et votre marché."
+        },
+        {
+          "title": "Prise en charge de l'exportation",
+          "text": "Documents et coordination des expéditions pour les livraisons à l’étranger."
+        }
+      ]
+    },
+    "markets": {
+      "label": "Marchés",
+      "title": "Marchés mondiaux",
+      "subtitle": "Nous accompagnons les acheteurs B2B internationaux. Les régions ci-dessous décrivent les domaines de recherche communs – des pays et des projets spécifiques sont confirmés au cas par cas.",
+      "seoTitle": "Marchés mondiaux | Exportation des groupes Wanda",
+      "seoDescription": "Wanda Groups travaille avec des acheteurs industriels internationaux en Afrique, au Moyen-Orient, en Asie centrale, en Asie du Sud-Est, en Amérique latine et sur d'autres marchés.",
+      "note": "Nous ne publions pas de décomptes de pays non vérifiés, de noms de clients ou de références de projets sur cette page.",
+      "regions": [
+        {
+          "title": "Afrique",
+          "text": "Demandes d'industriels et de distributeurs des marchés africains."
+        },
+        {
+          "title": "Moyen-Orient",
+          "text": "Acheteurs recherchant des cylindres et des équipements associés pour des projets régionaux."
+        },
+        {
+          "title": "Asie centrale",
+          "text": "Discussions sur l’approvisionnement en gros et sur les projets sur les marchés d’Asie centrale."
+        },
+        {
+          "title": "Asie du Sud-Est",
+          "text": "Acheteurs industriels évaluant l’approvisionnement en bouteilles pour l’exportation."
+        },
+        {
+          "title": "l'Amérique latine",
+          "text": "Demandes de renseignements sur la fourniture de bouteilles de gaz industriels et d’accessoires."
+        },
+        {
+          "title": "Autres marchés internationaux",
+          "text": "Des destinations supplémentaires sont examinées en fonction des normes du produit et de la logistique."
+        }
+      ]
+    },
+    "applicationsPage": {
+      "label": "Applications",
+      "title": "Applications de cylindre",
+      "subtitle": "Produits conçus pour les tâches courantes liées aux gaz industriels et les exigences des acheteurs étrangers.",
+      "seoTitle": "Applications de cylindre",
+      "seoDescription": "Produits conçus pour les tâches courantes liées aux gaz industriels et les exigences des acheteurs étrangers.",
+      "items": [
+        {
+          "title": "Soudage et brasage",
+          "text": "Acétylène dissous et équipement connexe pour le soudage en atelier et en fabrication."
+        },
+        {
+          "title": "Découpe de métal",
+          "text": "Vérins et accessoires pour l'oxycoupage sur site et en usine."
+        },
+        {
+          "title": "Approvisionnement en gaz industriel",
+          "text": "Fourniture de bouteilles pour les systèmes de distribution industrielle et de gaz industriels."
+        },
+        {
+          "title": "Construction",
+          "text": "Alimentation en gaz portable pour les travaux de construction et d'entretien."
+        },
+        {
+          "title": "Fabrication de métaux",
+          "text": "Vérins et accessoires pour ateliers de fabrication et chantiers navals."
+        },
+        {
+          "title": "Stockage et distribution de gaz",
+          "text": "Bouteilles prêtes au stockage et à la distribution pour les acheteurs industriels."
+        }
+      ]
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Foire aux questions",
+      "subtitle": "Entreprise, produits, OEM et exportation : réponses aux acheteurs étrangers avant de demander un devis.",
+      "seoTitle": "FAQ",
+      "seoDescription": "Entreprise, produits, OEM et exportation : réponses aux acheteurs étrangers avant de demander un devis."
+    },
+    "contactPage": {
+      "label": "Contact",
+      "title": "Discutons de vos besoins",
+      "subtitle": "Contactez notre équipe commerciale par formulaire, email ou Messenger. Partagez le produit, la quantité et la destination pour un devis plus rapide.",
+      "seoTitle": "Demander un devis",
+      "seoDescription": "Indiquez-nous la taille, la quantité, le pays de destination et l'application — nous préparerons un devis détaillé."
+    },
+    "blog": {
+      "label": "Blogue",
+      "title": "Derniers articles",
+      "subtitle": "Contenu expert pour les professionnels du soudage et de la fourniture de gaz.",
+      "seoTitle": "Articles et guides",
+      "seoDescription": "Contenu expert pour les professionnels du soudage et de la fourniture de gaz.",
+      "coming": "D’autres guides d’achat et notes de produits seront ajoutés ici. Utilisez les articles ci-dessus ou contactez-nous pour obtenir du matériel spécifique au produit."
+    },
+    "privacy": {
+      "seoTitle": "politique de confidentialité",
+      "seoDescription": "Politique de confidentialité pour les demandes de renseignements sur le site Web de Wanda Group et les données personnelles."
+    },
+    "terms": {
+      "seoTitle": "Conditions d'utilisation",
+      "seoDescription": "Conditions d'utilisation du site Web de Wanda Group."
+    },
+    "notFound": {
+      "seoTitle": "Page introuvable",
+      "seoDescription": "La page que vous avez demandée n'est pas disponible.",
+      "title": "Page introuvable",
+      "text": "La page que vous recherchez n'existe pas ou a été déplacée.",
+      "home": "Maison",
+      "products": "Produits",
+      "contact": "Contacter / Obtenir un devis"
+    }
   }
 }
