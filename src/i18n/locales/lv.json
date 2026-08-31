@@ -531,6 +531,7 @@
     "success": "Paldies! Mēs ar jums sazināsimies tuvākajā laikā.",
     "sendAnother": "Nosūtiet citu pieprasījumu",
     "errorGeneric": "Neizdevās nosūtīt. Lūdzu, mēģiniet vēlreiz vai rakstiet mums tieši.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Sūtīt, izmantojot e-pasta lietotni",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

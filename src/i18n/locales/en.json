@@ -531,6 +531,7 @@
     "success": "Thank you! We will contact you shortly.",
     "sendAnother": "Send another inquiry",
     "errorGeneric": "Failed to send. Please try again or email us directly.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Send via email app",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",
@@ -1808,33 +1809,33 @@
     "factory": {
       "label": "Factory",
       "title": "Factory and Manufacturing",
-      "subtitle": "Production, inspection, packing and dispatch — documented with real plant photography and factory videos.",
+      "subtitle": "Production, inspection, packing and dispatch at our Cangzhou plant — shown with real photography and short factory videos, not generic stock images.",
       "seoTitle": "Gas Cylinder Factory and Manufacturing | Wanda Groups",
-      "seoDescription": "Wanda Groups factory: cylinder manufacturing, production, quality inspection, testing, packaging and export dispatch — documented with plant photography and videos.",
+      "seoDescription": "Wanda Groups factory in Cangzhou, Hebei: cylinder manufacturing, production, quality inspection, testing, packaging and export dispatch — documented with plant photography and videos.",
       "sections": [
         {
           "title": "Manufacturing",
-          "text": "Cylinder forming, welding and finishing as part of the plant production flow."
+          "text": "Cylinder shell forming, circumferential welding and finishing run through the production hall. The factory gallery shows welded bodies, conveyors and in-process stock on the plant floor."
         },
         {
           "title": "Production Process",
-          "text": "From shell preparation to assembly and finishing — see in-process stock and production floor footage."
+          "text": "From tube and shell preparation through welding, valve fitment, painting and batch finishing. Photos and short videos on this site show steps on the line — not a third-party catalogue."
         },
         {
           "title": "Quality Inspection",
-          "text": "Visual, marking and dimensional checks preparing cylinders for shipment."
+          "text": "Visual, marking and dimensional checks against the order before cylinders move to packing. Inspection is part of the same batch path shown in the quality section."
         },
         {
           "title": "Testing",
-          "text": "Pressure and leak testing applied before products leave the line, according to order requirements."
+          "text": "Pressure and leak testing before products leave the line, applied according to the order and destination market requirements discussed with the buyer."
         },
         {
           "title": "Packaging",
-          "text": "Export packing protects cylinders and fittings for overseas transport."
+          "text": "Protective caps, export cartons and pallet packing for cylinders and fittings. Warehouse photos show cartons staged before outbound dispatch."
         },
         {
           "title": "Loading and Export",
-          "text": "Warehouse staging, truck loading and dispatch documentation for outbound orders."
+          "text": "Warehouse staging, truck loading and dispatch documentation for outbound orders. Night dispatch and loading photos on this site show real shipments leaving the plant yard."
         }
       ]
     },
@@ -1844,7 +1845,7 @@
       "subtitle": "Standards commonly requested by buyers are listed below. Applicability depends on product and destination market. Certificate copies, numbers and validity are shared privately on request — not published as unverified claims.",
       "seoTitle": "Gas Cylinder Certifications and Standards | Wanda Groups",
       "seoDescription": "Standards discussed for Wanda Groups gas cylinders by market. Certificate copies are provided privately on request.",
-      "note": "Certificate copies are sent privately on request. We do not publish certificate files on the website."
+      "note": "Certificate copies are sent privately on request. We do not publish certificate files on the website. Include the product, destination country and standard you need when you request documentation through the contact form or sales@wandagroups.com."
     },
     "oem": {
       "label": "OEM",

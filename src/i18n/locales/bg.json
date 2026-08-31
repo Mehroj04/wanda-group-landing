@@ -531,6 +531,7 @@
     "success": "благодаря ви Ние ще се свържем с вас скоро.",
     "sendAnother": "Изпратете друго запитване",
     "errorGeneric": "Неуспешно изпращане. Моля, опитайте отново или ни пишете директно.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Изпращане чрез имейл приложение",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

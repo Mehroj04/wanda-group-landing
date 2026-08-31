@@ -529,6 +529,7 @@
     "success": "Спасибо! Мы свяжемся с вами в ближайшее время.",
     "sendAnother": "Отправить ещё один запрос",
     "errorGeneric": "Не удалось отправить. Попробуйте позже или напишите на email.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "Сайт не смог отправить заявку сам. Нажмите кнопку — откроется почта с готовым письмом на sales@wandagroups.com.",
     "emailAppButton": "Открыть почту",
     "errorNoForm": "Форма не настроена. Напишите нам на sales@wandagroups.com",

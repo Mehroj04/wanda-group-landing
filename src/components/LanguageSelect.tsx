@@ -36,6 +36,18 @@ export default function LanguageSelect() {
     return () => document.removeEventListener('mousedown', onDoc)
   }, [])
 
+  useEffect(() => {
+    if (!open) return
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setOpen(false)
+        setQuery('')
+      }
+    }
+    window.addEventListener('keydown', onKey)
+    return () => window.removeEventListener('keydown', onKey)
+  }, [open])
+
   const filtered = languages.filter((l) => {
     const q = query.trim().toLowerCase()
     if (!q) return true
@@ -54,7 +66,7 @@ export default function LanguageSelect() {
         onClick={() => setOpen((v) => !v)}
         aria-expanded={open}
         aria-haspopup="listbox"
-        aria-label={t.ui.searchLanguage}
+        aria-label={`${t.ui.searchLanguage}: ${current.native}`}
       >
         <Flag country={current.country} name={current.name} className="lang-select__flag" />
         <span className="lang-select__name">{current.native}</span>

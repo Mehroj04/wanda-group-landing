@@ -270,6 +270,9 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
               <LangLink to={routes.certifications} className="btn btn-outline btn-sm">
                 {t.nav.certifications}
               </LangLink>
+              <LangLink to={routes.contact} className="btn btn-outline btn-sm">
+                {t.nav.getQuote}
+              </LangLink>
             </div>
           </div>
 

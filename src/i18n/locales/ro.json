@@ -531,6 +531,7 @@
     "success": "Multumesc! Vă vom contacta în scurt timp.",
     "sendAnother": "Trimite o altă întrebare",
     "errorGeneric": "Trimiterea eșuată. Vă rugăm să încercați din nou sau să ne trimiteți un e-mail direct.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Trimiteți prin aplicația de e-mail",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

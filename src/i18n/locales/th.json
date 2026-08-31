@@ -531,6 +531,7 @@
     "success": "ขอบคุณ! เราจะติดต่อคุณในไม่ช้า",
     "sendAnother": "ส่งคำถามอื่น",
     "errorGeneric": "ไม่สามารถส่งได้ โปรดลองอีกครั้งหรือส่งอีเมลถึงเราโดยตรง",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "ส่งผ่านแอปอีเมล",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

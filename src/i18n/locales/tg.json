@@ -531,6 +531,7 @@
     "success": "Сипос! Мо ба зудӣ бо шумо тамос хоҳем гирифт.",
     "sendAnother": "Боз як дархост фиристед",
     "errorGeneric": "Фиристодан натавонист. Лутфан бори дигар кӯшиш кунед ё мустақиман ба мо почтаи электронӣ фиристед.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Тавассути барномаи почтаи электронӣ ирсол кунед",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

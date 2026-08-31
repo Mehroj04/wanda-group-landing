@@ -531,6 +531,7 @@
     "success": "Bedankt! Wij nemen binnenkort contact met u op.",
     "sendAnother": "Stuur nog een aanvraag",
     "errorGeneric": "Kan niet verzenden. Probeer het opnieuw of stuur ons direct een e-mail.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Verzenden via e-mailapp",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

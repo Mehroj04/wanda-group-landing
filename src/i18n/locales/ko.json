@@ -531,6 +531,7 @@
     "success": "감사합니다! 곧 연락드리겠습니다.",
     "sendAnother": "다른 문의 보내기",
     "errorGeneric": "전송하지 못했습니다. 다시 시도하거나 직접 이메일을 보내주세요.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "이메일 앱을 통해 보내기",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

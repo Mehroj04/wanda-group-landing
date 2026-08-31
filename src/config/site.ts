@@ -20,8 +20,10 @@ export function siteLocation(lang: string) {
 }
 
 /**
- * Browser → Web3Forms when the access key is present at build time.
- * Server /api/inquiry is blocked by Cloudflare on Vercel; keep it only as a last resort.
+ * Production: browser → Web3Forms when WEB3FORMS_ACCESS_KEY is injected at build time.
+ * Web3Forms access_key is a public form identifier (not a secret) — domain-restricted in their dashboard.
+ * Fallback without a build key: POST /api/inquiry (server holds the same key in Vercel env).
+ * Last resort: mailto sales@wandagroups.com.
  */
 export function getFormEndpoint() {
   const accessKey = typeof __WEB3FORMS_ACCESS_KEY__ === 'string' ? __WEB3FORMS_ACCESS_KEY__ : ''

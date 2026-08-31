@@ -531,6 +531,7 @@
     "success": "Kiitos! Otamme sinuun yhteyttä pian.",
     "sendAnother": "Lähetä toinen kysely",
     "errorGeneric": "Lähetys epäonnistui. Yritä uudelleen tai lähetä meille sähköpostia.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Lähetä sähköpostisovelluksen kautta",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

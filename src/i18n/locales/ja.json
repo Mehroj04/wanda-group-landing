@@ -531,6 +531,7 @@
     "success": "ありがとう！ すぐにご連絡させていただきます。",
     "sendAnother": "別の問い合わせを送信する",
     "errorGeneric": "送信に失敗しました。 もう一度お試しいただくか、直接メールでご連絡ください。",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "メールアプリ経由で送信",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

@@ -531,6 +531,7 @@
     "success": "Teşekkür ederim! Kısa süre içinde sizinle iletişime geçeceğiz.",
     "sendAnother": "Başka bir soruşturma gönder",
     "errorGeneric": "Gönderilemedi. Lütfen tekrar deneyin veya doğrudan bize e-posta gönderin.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "E-posta uygulamasıyla gönder",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

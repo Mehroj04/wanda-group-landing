@@ -531,6 +531,7 @@
     "success": "धन्यवाद! हम आपसे शीघ्र ही संपर्क करेंगे।",
     "sendAnother": "एक और जांच भेजें",
     "errorGeneric": "भेजने में विफल. कृपया पुनः प्रयास करें या हमें सीधे ईमेल करें।",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "ईमेल ऐप के माध्यम से भेजें",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

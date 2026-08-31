@@ -531,6 +531,7 @@
     "success": "Σας ευχαριστώ! Θα επικοινωνήσουμε μαζί σας σύντομα.",
     "sendAnother": "Στείλτε άλλη ερώτηση",
     "errorGeneric": "Αποτυχία αποστολής. Δοκιμάστε ξανά ή στείλτε μας email απευθείας.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Αποστολή μέσω εφαρμογής email",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

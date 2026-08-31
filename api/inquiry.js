@@ -1,4 +1,8 @@
+import { normalizeInquiryPayload, validateInquiryPayload } from '../src/shared/inquiry-validation.js'
+
 const INBOX = 'sales@wandagroups.com'
+const MAX_BODY_BYTES = 32_000
+const UPSTREAM_TIMEOUT_MS = 8_000
 
 export const config = {
   maxDuration: 10,
@@ -22,33 +26,20 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' })
   }
 
-  const body = readBody(req)
-  const fields = {
-    name: String(body.name || '').trim(),
-    company: String(body.company || '').trim(),
-    email: String(body.email || '').trim(),
-    phone: String(body.phone || '').trim(),
-    product: String(body.product || '').trim(),
-    quantity: String(body.quantity || '').trim(),
-    country: String(body.country || '').trim(),
-    requirements: String(body.requirements || '').trim(),
-    message: String(body.message || '').trim(),
-    language: String(body.language || '').trim(),
+  const rawBody = readBody(req)
+  if (typeof rawBody._gotcha === 'string' && rawBody._gotcha.trim()) {
+    return res.status(200).json({ success: true })
   }
 
-  if (!fields.name || !fields.email || !fields.product) {
-    return res.status(400).json({ error: 'Missing required fields' })
+  const bodySize = JSON.stringify(rawBody).length
+  if (bodySize > MAX_BODY_BYTES) {
+    return res.status(413).json({ error: 'Payload too large' })
   }
 
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(fields.email)) {
-    return res.status(400).json({ error: 'Invalid email' })
-  }
-
-  const max = 4000
-  for (const key of ['name', 'company', 'phone', 'product', 'quantity', 'country', 'requirements', 'message', 'language']) {
-    if (fields[key] && fields[key].length > max) {
-      fields[key] = fields[key].slice(0, max)
-    }
+  const fields = normalizeInquiryPayload(rawBody)
+  const validationError = validateInquiryPayload(fields)
+  if (validationError) {
+    return res.status(400).json({ error: validationError })
   }
 
   const key = process.env.WEB3FORMS_ACCESS_KEY
@@ -57,7 +48,7 @@ export default async function handler(req, res) {
   }
 
   const message = [
-    fields.message || '(no additional message)',
+    fields.message || fields.requirements || '(no additional message)',
     '',
     `Name: ${fields.name}`,
     `Company: ${fields.company || '-'}`,
@@ -97,6 +88,7 @@ export default async function handler(req, res) {
           'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
       },
       body,
+      signal: AbortSignal.timeout(UPSTREAM_TIMEOUT_MS),
     })
     const text = await upstream.text()
     let data = {}
@@ -108,10 +100,10 @@ export default async function handler(req, res) {
     if (upstream.ok && data.success === true) {
       return res.status(200).json({ success: true })
     }
-    console.error('web3forms failed', upstream.status, text.slice(0, 400))
+    console.error('web3forms failed', upstream.status)
     return res.status(502).json({ error: 'MAILTO_FALLBACK' })
   } catch (err) {
-    console.error('web3forms error', err)
+    console.error('web3forms error', err instanceof Error ? err.name : 'unknown')
     return res.status(502).json({ error: 'MAILTO_FALLBACK' })
   }
 }

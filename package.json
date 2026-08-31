@@ -13,7 +13,8 @@
     "preview": "vite preview",
     "validate:jsonld": "node scripts/validate-jsonld.mjs",
     "translate:locales": "node scripts/translate-locale-full.mjs",
-    "verify:locales": "node scripts/verify-locales.mjs"
+    "verify:locales": "node scripts/verify-locales.mjs",
+    "verify:inquiry": "node scripts/verify-inquiry.mjs"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

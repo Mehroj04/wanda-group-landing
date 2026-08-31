@@ -531,6 +531,7 @@
     "success": "terima kasih! Kami akan menghubungi anda sebentar lagi.",
     "sendAnother": "Hantar pertanyaan lain",
     "errorGeneric": "Gagal menghantar. Sila cuba lagi atau e-mel terus kepada kami.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Hantar melalui aplikasi e-mel",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

@@ -528,6 +528,7 @@
     "success": "感谢！我们将尽快与您联系。",
     "sendAnother": "再次发送询价",
     "errorGeneric": "发送失败。请重试或直接发送邮件。",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "errorNoForm": "表单未配置。请发送邮件至 sales@wandagroups.com",
     "privacyPrefix": "我同意",
     "privacySuffix": "，并同意为处理此询盘而处理我的个人数据。",

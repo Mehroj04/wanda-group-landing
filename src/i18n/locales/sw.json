@@ -531,6 +531,7 @@
     "success": "Asante! Tutawasiliana nawe baada ya muda mfupi.",
     "sendAnother": "Tuma uchunguzi mwingine",
     "errorGeneric": "Imeshindwa kutuma. Tafadhali jaribu tena au tutumie barua pepe moja kwa moja.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Tuma kupitia programu ya barua pepe",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

@@ -531,6 +531,7 @@
     "success": "Köszönöm! Hamarosan felvesszük Önnel a kapcsolatot.",
     "sendAnother": "Újabb megkeresés küldése",
     "errorGeneric": "Nem sikerült elküldeni. Kérjük, próbálja újra, vagy írjon nekünk közvetlenül.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Küldés e-mail alkalmazáson keresztül",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

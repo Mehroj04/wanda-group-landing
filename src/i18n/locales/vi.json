@@ -531,6 +531,7 @@
     "success": "Cảm ơn! Chúng tôi sẽ liên lạc với bạn trong thời gian ngắn.",
     "sendAnother": "Gửi yêu cầu khác",
     "errorGeneric": "Không gửi được. Vui lòng thử lại hoặc gửi email trực tiếp cho chúng tôi.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Gửi qua ứng dụng email",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

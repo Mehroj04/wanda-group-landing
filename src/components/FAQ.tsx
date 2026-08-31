@@ -58,6 +58,7 @@ export default function FAQ({ hideHeader = false }: FAQProps) {
               <div className="faq__list">
                 {group.items.map((item, i) => {
                   const open = gi === activeGroup && openIndex === i
+                  const answerId = `faq-answer-${gi}-${i}`
                   return (
                     <div
                       key={item.q}
@@ -68,13 +69,14 @@ export default function FAQ({ hideHeader = false }: FAQProps) {
                         className="faq-item__question"
                         onClick={() => setOpenIndex(open ? null : i)}
                         aria-expanded={open}
+                        aria-controls={answerId}
                       >
                         <span>{item.q}</span>
                         <svg className="faq-item__chevron" width="20" height="20" viewBox="0 0 20 20" fill="none">
                           <path d="M5 8l5 5 5-5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
                       </button>
-                      <div className="faq-item__answer">
+                      <div className="faq-item__answer" id={answerId}>
                         <div className="faq-item__answer-inner">
                           <p>{item.a}</p>
                         </div>

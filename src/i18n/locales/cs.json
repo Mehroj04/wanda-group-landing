@@ -531,6 +531,7 @@
     "success": "Děkuju! Brzy vás budeme kontaktovat.",
     "sendAnother": "Pošlete další dotaz",
     "errorGeneric": "Odeslání se nezdařilo. Zkuste to znovu nebo nám napište přímo.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Odeslat přes e-mailovou aplikaci",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

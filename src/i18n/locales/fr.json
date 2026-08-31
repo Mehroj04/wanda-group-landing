@@ -531,6 +531,7 @@
     "success": "Merci! Nous vous contacterons sous peu.",
     "sendAnother": "Envoyer une autre demande",
     "errorGeneric": "Échec de l'envoi. Veuillez réessayer ou envoyez-nous un e-mail directement.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Envoyer via l'application de messagerie",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

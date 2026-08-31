@@ -531,6 +531,7 @@
     "success": "Tack! Vi kommer att kontakta dig inom kort.",
     "sendAnother": "Skicka ytterligare en förfrågan",
     "errorGeneric": "Det gick inte att skicka. Försök igen eller maila oss direkt.",
+    "errorPayloadTooLarge": "Your message is too long. Please shorten the text and try again.",
     "emailFallback": "The website could not send automatically. Click the button below — your email app will open with a ready message to sales@wandagroups.com.",
     "emailAppButton": "Skicka via e-postappen",
     "errorNoForm": "Form not configured. Please email sales@wandagroups.com",

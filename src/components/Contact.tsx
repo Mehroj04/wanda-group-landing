@@ -1,9 +1,10 @@
-import { useState, type FormEvent } from 'react'
+import { useState, useRef, type FormEvent } from 'react'
 import { LangLink } from './LangLink'
 import { useLanguage } from '../i18n/LanguageContext'
 import { siteConfig, getFormEndpoint, siteLocation } from '../config/site'
 import { routes } from '../config/routes'
 import { trackLead } from '../config/analytics'
+import { INQUIRY_FIELD_MAX, normalizeInquiryPayload, validateInquiryPayload } from '../utils/inquiryValidation'
 import OperationsInfo from './OperationsInfo'
 import ScrollReveal from './ScrollReveal'
 import WhatsAppIcon from './WhatsAppIcon'
@@ -13,18 +14,27 @@ import './Contact.css'
 
 type FormStatus = 'idle' | 'loading' | 'success' | 'error'
 
+type InquiryPostResult =
+  | { kind: 'success' }
+  | { kind: 'validation' }
+  | { kind: 'too_large' }
+  | { kind: 'fallback' }
+
 async function readSuccess(res: Response) {
   const data = await res.json().catch(() => null)
   return Boolean(res.ok && data && data.success === true)
 }
 
-async function postJson(url: string, body: Record<string, string>) {
+async function postInquiry(url: string, body: Record<string, string>): Promise<InquiryPostResult> {
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
     body: JSON.stringify(body),
   })
-  return readSuccess(res)
+  if (res.status === 400) return { kind: 'validation' }
+  if (res.status === 413) return { kind: 'too_large' }
+  if (await readSuccess(res)) return { kind: 'success' }
+  return { kind: 'fallback' }
 }
 
 /** FormData looks more like a normal form POST and is less often challenged than JSON. */
@@ -39,7 +49,12 @@ async function postWeb3Forms(url: string, fields: Record<string, string>) {
     body: form,
   })
   if (await readSuccess(formRes)) return true
-  return postJson(url, fields)
+  const jsonRes = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    body: JSON.stringify(fields),
+  })
+  return readSuccess(jsonRes)
 }
 
 function buildMailto(payload: Record<string, FormDataEntryValue>, lang: string) {
@@ -70,13 +85,16 @@ export default function Contact({ hideHeader = false }: ContactProps) {
   const [status, setStatus] = useState<FormStatus>('idle')
   const [errorMsg, setErrorMsg] = useState('')
   const [mailtoHref, setMailtoHref] = useState(`mailto:${siteConfig.email}`)
+  const submittingRef = useRef(false)
 
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    const form = e.currentTarget
+    if (submittingRef.current) return
 
+    const form = e.currentTarget
     setStatus('loading')
     setErrorMsg('')
+    submittingRef.current = true
 
     const formData = new FormData(form)
     const payload = Object.fromEntries(formData.entries())
@@ -84,23 +102,26 @@ export default function Contact({ hideHeader = false }: ContactProps) {
     if (typeof payload._gotcha === 'string' && payload._gotcha.trim()) {
       setStatus('success')
       form.reset()
+      submittingRef.current = false
       return
     }
 
     delete payload._gotcha
     delete payload.privacy
+    delete payload._to
 
-    const quote = {
-      name: String(payload.name || ''),
-      company: String(payload.company || ''),
-      email: String(payload.email || ''),
-      phone: String(payload.phone || ''),
-      product: String(payload.product || ''),
-      quantity: String(payload.quantity || ''),
-      country: String(payload.country || ''),
-      requirements: String(payload.requirements || ''),
-      message: String(payload.message || ''),
+    const quote = normalizeInquiryPayload({
+      ...payload,
       language: lang,
+      message: String(payload.requirements || ''),
+    })
+
+    const validationError = validateInquiryPayload(quote)
+    if (validationError) {
+      setErrorMsg(t.cta.errorGeneric)
+      setStatus('idle')
+      submittingRef.current = false
+      return
     }
 
     const endpoint = getFormEndpoint()
@@ -139,23 +160,54 @@ export default function Contact({ hideHeader = false }: ContactProps) {
         : null
 
     try {
-      const sent = web3fields
-        ? await postWeb3Forms(endpoint.url, web3fields)
-        : await postJson(endpoint.url, quote)
-      if (sent) {
-        try {
-          trackLead('quote_form', {
-            product: quote.product,
-            country: quote.country || 'unknown',
-            language: quote.language,
-            channel: endpoint.provider,
-          })
-        } catch {
-          /* ignore analytics */
+      if (web3fields) {
+        const sent = await postWeb3Forms(endpoint.url, web3fields)
+        if (sent) {
+          try {
+            trackLead('quote_form', {
+              product: quote.product,
+              country: quote.country || 'unknown',
+              language: quote.language,
+              channel: endpoint.provider,
+            })
+          } catch {
+            /* ignore analytics */
+          }
+          setStatus('success')
+          form.reset()
+          submittingRef.current = false
+          return
         }
-        setStatus('success')
-        form.reset()
-        return
+      } else {
+        const result = await postInquiry(endpoint.url, quote)
+        if (result.kind === 'success') {
+          try {
+            trackLead('quote_form', {
+              product: quote.product,
+              country: quote.country || 'unknown',
+              language: quote.language,
+              channel: endpoint.provider,
+            })
+          } catch {
+            /* ignore analytics */
+          }
+          setStatus('success')
+          form.reset()
+          submittingRef.current = false
+          return
+        }
+        if (result.kind === 'validation') {
+          setErrorMsg(t.cta.errorGeneric)
+          setStatus('idle')
+          submittingRef.current = false
+          return
+        }
+        if (result.kind === 'too_large') {
+          setErrorMsg(t.cta.errorPayloadTooLarge)
+          setStatus('idle')
+          submittingRef.current = false
+          return
+        }
       }
     } catch {
       // fall through to email app
@@ -165,6 +217,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
     setMailtoHref(href)
     setErrorMsg(t.cta.emailFallback)
     setStatus('error')
+    submittingRef.current = false
     try {
       trackLead('quote_mailto', {
         product: quote.product,
@@ -309,7 +362,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
               <p className="contact__form-subtitle">{t.cta.formSubtitle}</p>
 
               {status === 'success' ? (
-                <div className="contact__success">
+                <div className="contact__success" role="status" aria-live="polite">
                   <span aria-hidden="true">✓</span>
                   <p>{t.cta.success}</p>
                   <button type="button" className="btn btn-outline" onClick={() => setStatus('idle')}>
@@ -331,7 +384,15 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                   <div className="form-row">
                     <div className="form-group">
                       <label htmlFor="name">{t.cta.name}</label>
-                      <input type="text" id="name" name="name" required autoComplete="name" disabled={status === 'loading'} />
+                      <input
+                        type="text"
+                        id="name"
+                        name="name"
+                        required
+                        autoComplete="name"
+                        maxLength={INQUIRY_FIELD_MAX}
+                        disabled={status === 'loading'}
+                      />
                     </div>
                     <div className="form-group">
                       <label htmlFor="company">{t.cta.company}</label>
@@ -340,6 +401,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                         id="company"
                         name="company"
                         autoComplete="organization"
+                        maxLength={INQUIRY_FIELD_MAX}
                         disabled={status === 'loading'}
                       />
                     </div>
@@ -354,12 +416,20 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                         name="email"
                         required
                         autoComplete="email"
+                        maxLength={INQUIRY_FIELD_MAX}
                         disabled={status === 'loading'}
                       />
                     </div>
                     <div className="form-group">
                       <label htmlFor="phone">{t.cta.phone}</label>
-                      <input type="tel" id="phone" name="phone" autoComplete="tel" disabled={status === 'loading'} />
+                      <input
+                        type="tel"
+                        id="phone"
+                        name="phone"
+                        autoComplete="tel"
+                        maxLength={INQUIRY_FIELD_MAX}
+                        disabled={status === 'loading'}
+                      />
                     </div>
                   </div>
 
@@ -381,6 +451,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                         id="quantity"
                         name="quantity"
                         placeholder={t.cta.quantityPlaceholder}
+                        maxLength={INQUIRY_FIELD_MAX}
                         disabled={status === 'loading'}
                       />
                     </div>
@@ -393,6 +464,7 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                       id="country"
                       name="country"
                       placeholder={t.cta.countryPlaceholder}
+                      maxLength={INQUIRY_FIELD_MAX}
                       disabled={status === 'loading'}
                     />
                   </div>
@@ -404,20 +476,25 @@ export default function Contact({ hideHeader = false }: ContactProps) {
                       name="requirements"
                       rows={4}
                       disabled={status === 'loading'}
+                      maxLength={INQUIRY_FIELD_MAX}
                       placeholder={t.cta.requirementsPlaceholder}
                     />
                   </div>
 
-                  {status === 'error' && errorMsg && (
-                    <>
-                      <p className="contact__error" role="alert">
-                        {errorMsg}
-                      </p>
-                      <a href={mailtoHref} className="btn btn-outline contact__submit">
-                        {t.cta.emailAppButton}
-                      </a>
-                    </>
-                  )}
+                  <div role="status" aria-live="polite" aria-atomic="true">
+                    {errorMsg && status !== 'loading' && (
+                      <>
+                        <p className="contact__error" role="alert">
+                          {errorMsg}
+                        </p>
+                        {status === 'error' && (
+                          <a href={mailtoHref} className="btn btn-outline contact__submit">
+                            {t.cta.emailAppButton}
+                          </a>
+                        )}
+                      </>
+                    )}
+                  </div>
 
                   <label className="form-consent">
                     <input type="checkbox" name="privacy" required disabled={status === 'loading'} />

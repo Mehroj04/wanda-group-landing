@@ -3,7 +3,7 @@
 Лендинг **Wanda Groups** (ацетилен, пропан, генераторы, аксессуары).  
 Прод: https://www.wandagroups.com
 
-React + Vite + TypeScript. **42 языка**. Форма: `/api/inquiry` → Web3Forms (ключ только на сервере).
+React + Vite + TypeScript. **42 языка**. Форма: браузер → Web3Forms (если ключ задан при сборке) или `/api/inquiry` → Web3Forms; при сбое — mailto.
 
 ## Стек
 
@@ -29,8 +29,13 @@ npx vite --host 127.0.0.1 --port 5188 --strictPort
 
 ### Форма заявок
 
-Ключ Web3Forms задаётся на Vercel как секрет `WEB3FORMS_ACCESS_KEY` (только сервер).  
-Браузер шлёт заявку на `/api/inquiry`, ключ в JS не попадает. Без ключа форма предлагает `sales@wandagroups.com`.
+**Production (Vercel):** при сборке в бандл подставляется `WEB3FORMS_ACCESS_KEY` / `VITE_WEB3FORMS_ACCESS_KEY`. Браузер отправляет заявку напрямую в Web3Forms. Это публичный идентификатор формы (ограничивается доменом в кабинете Web3Forms), а не секрет в классическом смысле.
+
+**Без ключа при сборке:** браузер шлёт POST на `/api/inquiry`; сервер читает `WEB3FORMS_ACCESS_KEY` из env Vercel и проксирует в Web3Forms.
+
+**Fallback:** если отправка не удалась — кнопка открывает mailto на `sales@wandagroups.com`.
+
+Honeypot: поле `_gotcha`. Валидация: `src/shared/inquiry-validation.js` (канон), `scripts/verify-inquiry.mjs`.
 
 Опционально GA4:
 
