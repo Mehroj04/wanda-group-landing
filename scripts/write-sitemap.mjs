@@ -25,9 +25,6 @@ const paths = [
   '/applications',
   '/faq',
   '/contact',
-  '/blog',
-  '/privacy',
-  '/terms',
 ]
 
 function pageUrl(path, lang) {

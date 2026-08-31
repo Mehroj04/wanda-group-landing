@@ -1,5 +1,5 @@
 export const siteConfig = {
-  company: 'Wanda Group Gas Cylinder Manufacturer',
+  company: 'Wanda Groups',
   email: 'sales@wandagroups.com',
   phone: '+998 50 713 66 46',
   whatsapp: '+998 50 713 66 46',
@@ -19,10 +19,22 @@ export function siteLocation(lang: string) {
   return siteConfig.location.en
 }
 
-/** Server route; Web3Forms key stays on Vercel as WEB3FORMS_ACCESS_KEY. */
+/**
+ * Browser → Web3Forms when the access key is present at build time.
+ * Server /api/inquiry is blocked by Cloudflare on Vercel; keep it only as a last resort.
+ */
 export function getFormEndpoint() {
+  const accessKey = typeof __WEB3FORMS_ACCESS_KEY__ === 'string' ? __WEB3FORMS_ACCESS_KEY__ : ''
+  if (accessKey) {
+    return {
+      provider: 'web3forms' as const,
+      url: 'https://api.web3forms.com/submit',
+      accessKey,
+    }
+  }
   return {
     provider: 'self' as const,
     url: '/api/inquiry',
+    accessKey: '',
   }
 }

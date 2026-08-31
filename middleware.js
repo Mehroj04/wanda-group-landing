@@ -22,8 +22,8 @@ export default async function middleware(request) {
     return undefined
   }
 
-  const indexUrl = new URL('/index.html', request.url)
-  const res = await fetch(indexUrl)
+  const notFoundUrl = new URL('/404.html', request.url)
+  const res = await fetch(notFoundUrl)
   const html = await res.text()
 
   return new Response(html, {

@@ -9,7 +9,7 @@ export const DIST = path.join(ROOT, 'dist')
 export const EN = JSON.parse(fs.readFileSync(path.join(ROOT, 'src/i18n/locales/en.json'), 'utf8'))
 
 export const SITE_ORIGIN = 'https://www.wandagroups.com'
-export const SITE_BRAND = 'Wanda Group'
+export const SITE_BRAND = 'Wanda Groups'
 
 export const LANG_CODES = [
   'ar', 'bn', 'bg', 'hr', 'cs', 'da', 'nl', 'en', 'fil', 'fi', 'fr', 'de', 'el', 'hi', 'hu', 'id',
@@ -41,21 +41,20 @@ export function buildTitle(seoTitle) {
 }
 
 export function replaceMeta(html, attr, key, content) {
-  const re = new RegExp(
-    `<meta ${attr}="${key}" content="[^"]*"\\s*/?>|<meta ${attr}="${key}"\\s+content="[^"]*"\\s*/?>`
-  )
+  const re = new RegExp(`<meta\\s[^>]*${attr}="${key}"[^>]*>`, 'i')
   if (re.test(html)) {
     return html.replace(re, `<meta ${attr}="${key}" content="${esc(content)}" />`)
   }
   return html
 }
 
-export function applyHead(html, { pathname, title, description, image, jsonLd }) {
+export function applyHead(html, { pathname, title, description, image, jsonLd, preserveJsonLd, noindex }) {
   const fullTitle = buildTitle(title)
   const canonical = pageUrl(pathname, 'en')
   const ogImage = image?.startsWith('http') ? image : `${SITE_ORIGIN}${image || '/images/wg/product-acetylene.jpg'}`
 
   let out = html
+  out = out.replace(/<html\s+lang="[^"]*"/, '<html lang="en"')
   out = out.replace(/<link rel="canonical" href="[^"]*"\s*\/?>/, `<link rel="canonical" href="${canonical}" />`)
   out = out.replace(/<title>[^<]*<\/title>/, `<title>${esc(fullTitle)}</title>`)
   out = replaceMeta(out, 'name', 'description', description)
@@ -63,31 +62,39 @@ export function applyHead(html, { pathname, title, description, image, jsonLd })
   out = replaceMeta(out, 'property', 'og:description', description)
   out = replaceMeta(out, 'property', 'og:url', canonical)
   out = replaceMeta(out, 'property', 'og:image', ogImage)
-  out = replaceMeta(out, 'property', 'og:image:alt', `${SITE_BRAND} — ${title}`)
+  out = replaceMeta(out, 'property', 'og:image:alt', fullTitle.includes(SITE_BRAND) ? fullTitle : `${SITE_BRAND} — ${title}`)
   out = replaceMeta(out, 'name', 'twitter:title', fullTitle)
   out = replaceMeta(out, 'name', 'twitter:description', description)
   out = replaceMeta(out, 'name', 'twitter:image', ogImage)
 
+  if (noindex) {
+    out = replaceMeta(out, 'name', 'robots', 'noindex, follow')
+  }
+
   out = out.replace(/<link rel="alternate" hreflang="[^"]*" href="[^"]*"\s*\/?>\s*/g, '')
 
-  const hreflangBlock = LANG_CODES
-    .map((lang) => {
-      const hreflang = htmlLang(lang)
-      return `<link rel="alternate" hreflang="${hreflang}" href="${pageUrl(pathname, lang)}" />`
-    })
-    .join('\n    ')
-  const xDefault = `<link rel="alternate" hreflang="x-default" href="${pageUrl(pathname, 'en')}" />`
+  if (!noindex) {
+    const hreflangBlock = LANG_CODES
+      .map((lang) => {
+        const hreflang = htmlLang(lang)
+        return `<link rel="alternate" hreflang="${hreflang}" href="${pageUrl(pathname, lang)}" />`
+      })
+      .join('\n    ')
+    const xDefault = `<link rel="alternate" hreflang="x-default" href="${pageUrl(pathname, 'en')}" />`
 
-  out = out.replace(
-    /<link rel="canonical" href="[^"]*"\s*\/?>/,
-    `<link rel="canonical" href="${canonical}" />\n    ${xDefault}\n    ${hreflangBlock}`
-  )
+    out = out.replace(
+      /<link rel="canonical" href="[^"]*"\s*\/?>/,
+      `<link rel="canonical" href="${canonical}" />\n    ${xDefault}\n    ${hreflangBlock}`
+    )
+  }
 
-  const jsonLdScript = `<script type="application/ld+json" id="page-jsonld">\n${JSON.stringify(jsonLd, null, 2)}\n    </script>`
-  out = out.replace(
-    /<script type="application\/ld\+json" id="site-jsonld-static">[\s\S]*?<\/script>/,
-    jsonLdScript
-  )
+  if (!preserveJsonLd && jsonLd) {
+    const jsonLdScript = `<script type="application/ld+json" id="page-jsonld">\n${JSON.stringify(jsonLd, null, 2)}\n    </script>`
+    out = out.replace(
+      /<script type="application\/ld\+json" id="site-jsonld-static">[\s\S]*?<\/script>/,
+      jsonLdScript
+    )
+  }
 
   return out
 }
@@ -155,6 +162,13 @@ export function buildOperationsBlock() {
 export function buildQuoteCta() {
   const c = EN.pages.common
   return `<p><a href="${pageUrl('/contact', 'en')}">${esc(c.quoteCta)}</a></p>`
+}
+
+export function buildContextLinks(pairs) {
+  const items = pairs
+    .map(([label, href]) => `<a href="${pageUrl(href, 'en')}">${esc(label)}</a>`)
+    .join(' · ')
+  return `<p>${items}</p>`
 }
 
 export function writePrerenderedPage(template, pathname, bodyHtml, headOpts) {

@@ -13,6 +13,7 @@ export default function TermsPage() {
     path: routes.terms,
     title: t.pages.terms.seoTitle,
     description: t.pages.terms.seoDescription,
+    noindex: true,
   })
 
   return (

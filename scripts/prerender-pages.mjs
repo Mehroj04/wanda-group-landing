@@ -13,6 +13,7 @@ import {
   buildSiteNav,
   buildOperationsBlock,
   buildQuoteCta,
+  buildContextLinks,
 } from './prerender-shared.mjs'
 
 const PAGES = [
@@ -127,6 +128,7 @@ function buildAboutBody(p) {
         <section>
           <h2>${esc(about.title)}</h2>
           <p>${esc(about.text)}</p>
+          <p>${esc(about.text2)}</p>
           <ul>${facts}</ul>
         </section>
         ${buildOperationsBlock()}
@@ -135,6 +137,12 @@ function buildAboutBody(p) {
           <ul>${whyUs}</ul>
         </section>
         ${buildQuoteCta()}
+        ${buildContextLinks([
+          [EN.nav.factory, '/factory'],
+          [EN.nav.oem, '/oem'],
+          [EN.nav.products, '/products'],
+          [EN.nav.contact, '/contact'],
+        ])}
       </article>
       ${buildSiteNav()}
     </main>
@@ -164,6 +172,11 @@ function buildFactoryBody(p) {
           <ul>${qcItems}</ul>
         </section>
         ${buildQuoteCta()}
+        ${buildContextLinks([
+          [EN.nav.products, '/products'],
+          [EN.nav.certifications, '/certifications'],
+          [EN.nav.oem, '/oem'],
+        ])}
       </article>
       ${buildSiteNav()}
     </main>
@@ -197,6 +210,10 @@ function buildCertificationsBody(p) {
         </section>
         <p>${esc(p.note)}</p>
         ${buildQuoteCta()}
+        ${buildContextLinks([
+          [EN.nav.factory, '/factory'],
+          [EN.nav.products, '/products'],
+        ])}
       </article>
       ${buildSiteNav()}
     </main>
@@ -224,6 +241,10 @@ function buildOemBody(p) {
           <ul>${services}</ul>
         </section>
         <p><a href="${pageUrl('/contact', 'en')}">${esc(p.quoteCta)}</a></p>
+        ${buildContextLinks([
+          [EN.nav.products, '/products'],
+          [EN.nav.factory, '/factory'],
+        ])}
       </article>
       ${buildSiteNav()}
     </main>
@@ -381,6 +402,63 @@ function pageLabel(path) {
   return map[path] ?? path
 }
 
+function prerenderLegalPages(template) {
+  const pages = [
+    {
+      path: '/privacy',
+      doc: EN.privacy,
+      seo: EN.pages.privacy,
+      crumb: EN.footer.privacy,
+    },
+    {
+      path: '/terms',
+      doc: EN.terms,
+      seo: EN.pages.terms,
+      crumb: EN.footer.terms,
+    },
+    {
+      path: '/blog',
+      doc: null,
+      seo: EN.pages.blog,
+      crumb: EN.ui.blog,
+    },
+  ]
+
+  for (const { path: pathname, doc, seo, crumb } of pages) {
+    const intro = doc?.intro?.map((p) => `<p>${esc(p)}</p>`).join('') ?? `<p>${esc(EN.pages.blog.coming)}</p>`
+    const sections = doc?.sections
+      ?.map(
+        (section) =>
+          `<section><h2>${esc(section.title)}</h2>${section.body.map((p) => `<p>${esc(p)}</p>`).join('')}</section>`,
+      )
+      .join('') ?? ''
+
+    const body = `
+      <main id="static-prerender" data-prerender="legal" data-page-path="${pathname}">
+        ${buildBreadcrumbs([
+          { label: EN.nav.home, href: '/' },
+          { label: crumb },
+        ])}
+        <article>
+          <h1>${esc(doc?.title ?? EN.pages.blog.title)}</h1>
+          ${doc?.updated ? `<p>${esc(doc.updated)}</p>` : `<p>${esc(EN.pages.blog.subtitle)}</p>`}
+          ${intro}
+          ${sections}
+        </article>
+        ${buildSiteNav()}
+      </main>
+    `
+
+    writePrerenderedPage(template, pathname, body, {
+      title: seo.seoTitle,
+      description: seo.seoDescription,
+      noindex: true,
+      jsonLd: breadcrumbJsonLd(pathname, crumb),
+    })
+    console.log(`prerender: ${pathname} (noindex)`)
+  }
+}
+
 function main() {
   const template = readTemplate()
   let count = 0
@@ -402,7 +480,9 @@ function main() {
     count++
   }
 
-  console.log(`\nPrerendered ${count} marketing pages`)
+  prerenderLegalPages(template)
+
+  console.log(`\nPrerendered ${count} marketing pages + legal/noindex pages`)
 }
 
 main()

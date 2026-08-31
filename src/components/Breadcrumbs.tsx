@@ -35,7 +35,7 @@ export default function Breadcrumbs({ items, schema = true }: BreadcrumbsProps) 
         name: item.label,
       }
       if (path) {
-        entry.item = pageUrl(path, lang)
+        entry.item = pageUrl(path, 'en')
       }
       return entry
     })

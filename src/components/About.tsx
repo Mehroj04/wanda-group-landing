@@ -27,6 +27,7 @@ export default function About() {
           <span className="section-label">{t.ui.about}</span>
           <h2 className="section-title about__title">{t.about.title}</h2>
           <p className="about__text">{t.about.text}</p>
+          <p className="about__text">{t.about.text2}</p>
           <OperationsInfo />
           <ul className="about__facts">
             {t.about.facts.map((fact) => (

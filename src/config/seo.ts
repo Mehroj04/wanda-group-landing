@@ -61,7 +61,7 @@ function upsertLink(rel: string, href: string) {
 }
 
 function keywordsFor(lang: Lang) {
-  const brand = `${SITE_BRAND}, ${SITE_BRAND_QUERY}, wandagroups, wandagroups.com`
+  const brand = `${SITE_BRAND}, Wanda Group, ${SITE_BRAND_QUERY}, wandagroups, wandagroups.com`
   if (lang === 'ru') {
     return `${brand}, производитель газовых баллонов, ацетиленовые баллоны, пропановые баллоны, газовые баллоны Китай`
   }
@@ -100,7 +100,7 @@ export function applyPageSeo(lang: Lang, seo: PageSeoInput) {
   const meta = getLanguage(lang)
   const title = seo.title.includes(SITE_BRAND) ? seo.title : `${seo.title} | ${SITE_BRAND}`
   const description = seo.description
-  const url = pageUrl(seo.path, lang)
+  const canonical = pageUrl(seo.path, 'en')
   const image = seo.image
     ? seo.image.startsWith('http')
       ? seo.image
@@ -116,17 +116,19 @@ export function applyPageSeo(lang: Lang, seo: PageSeoInput) {
   upsertMeta('name', 'author', SITE_BRAND)
   upsertMeta('name', 'application-name', SITE_BRAND)
   upsertMeta('name', 'robots', seo.noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large')
+  upsertMeta('property', 'og:type', 'website')
   upsertMeta('property', 'og:title', title)
   upsertMeta('property', 'og:description', description)
-  upsertMeta('property', 'og:url', url)
+  upsertMeta('property', 'og:url', canonical)
   upsertMeta('property', 'og:image', image)
   upsertMeta('property', 'og:locale', ogLocale(lang))
   upsertMeta('property', 'og:site_name', SITE_BRAND)
-  upsertMeta('property', 'og:image:alt', `${SITE_BRAND} — ${seo.title}`)
+  upsertMeta('property', 'og:image:alt', title.includes(SITE_BRAND) ? title : `${SITE_BRAND} — ${seo.title}`)
+  upsertMeta('name', 'twitter:card', 'summary_large_image')
   upsertMeta('name', 'twitter:title', title)
   upsertMeta('name', 'twitter:description', description)
   upsertMeta('name', 'twitter:image', image)
-  upsertLink('canonical', url)
+  upsertLink('canonical', canonical)
   syncAlternateLinks(seo.path)
 }
 
@@ -134,7 +136,7 @@ export function applyPageSeo(lang: Lang, seo: PageSeoInput) {
 export function applyDocumentSeo(lang: Lang, t: TranslationKeys) {
   applyPageSeo(lang, {
     path: '/',
-    title: `${SITE_BRAND} | ${SITE_BRAND_QUERY} | ${t.hero.badge}`,
-    description: t.hero.subtitle,
+    title: t.pages.home.seoTitle,
+    description: t.pages.home.seoDescription,
   })
 }

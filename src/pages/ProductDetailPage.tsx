@@ -3,6 +3,7 @@ import { useLanguage } from '../i18n/LanguageContext'
 import { routes } from '../config/routes'
 import { getProductBySlug, type ProductPageDef } from '../config/products'
 import { galleryImages, refrigerationImages } from '../config/images'
+import { SITE_BRAND } from '../config/seoBrand'
 import { usePageSeo } from '../hooks/usePageSeo'
 import Breadcrumbs from '../components/Breadcrumbs'
 import QuoteBanner from '../components/QuoteBanner'
@@ -86,11 +87,18 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
 
           <div className="product-detail__hero">
             <div className="product-detail__media">
-              <img src={product.image} alt={catalog.name} width={800} height={560} loading="eager" />
+              <img src={product.image} alt={`${catalog.name} manufactured by ${SITE_BRAND}`} width={800} height={560} loading="eager" />
               {extraGallery.length > 0 && (
                 <div className="product-detail__thumbs" aria-label={t.ui.productGallery}>
                   {extraGallery.map((src) => (
-                    <img key={src} src={src} alt="" loading="lazy" width={160} height={120} />
+                    <img
+                      key={src}
+                      src={src}
+                      alt={`${catalog.name} at the ${SITE_BRAND} factory`}
+                      loading="lazy"
+                      width={160}
+                      height={120}
+                    />
                   ))}
                 </div>
               )}
@@ -249,6 +257,20 @@ function ProductDetailView({ product }: { product: ProductPageDef }) {
               <h3>{t.pages.common.packagingTitle}</h3>
               <p>{placeholders.packaging}</p>
             </article>
+          </div>
+
+          <div className="product-detail__block">
+            <div className="product-detail__links">
+              <LangLink to={routes.factory} className="btn btn-outline btn-sm">
+                {t.nav.factory}
+              </LangLink>
+              <LangLink to={routes.oem} className="btn btn-outline btn-sm">
+                {t.nav.oem}
+              </LangLink>
+              <LangLink to={routes.certifications} className="btn btn-outline btn-sm">
+                {t.nav.certifications}
+              </LangLink>
+            </div>
           </div>
 
           {related.length > 0 ? (

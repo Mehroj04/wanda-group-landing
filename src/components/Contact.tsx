@@ -13,8 +13,37 @@ import './Contact.css'
 
 type FormStatus = 'idle' | 'loading' | 'success' | 'error'
 
+async function readSuccess(res: Response) {
+  const data = await res.json().catch(() => null)
+  return Boolean(res.ok && data && data.success === true)
+}
+
+async function postJson(url: string, body: Record<string, string>) {
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+    body: JSON.stringify(body),
+  })
+  return readSuccess(res)
+}
+
+/** FormData looks more like a normal form POST and is less often challenged than JSON. */
+async function postWeb3Forms(url: string, fields: Record<string, string>) {
+  const form = new FormData()
+  for (const [key, value] of Object.entries(fields)) {
+    form.append(key, value)
+  }
+  const formRes = await fetch(url, {
+    method: 'POST',
+    headers: { Accept: 'application/json' },
+    body: form,
+  })
+  if (await readSuccess(formRes)) return true
+  return postJson(url, fields)
+}
+
 function buildMailto(payload: Record<string, FormDataEntryValue>, lang: string) {
-  const subject = `Wanda Group Quote — ${payload.product} — ${payload.name}`
+  const subject = `Wanda Groups Quote — ${payload.product} — ${payload.name}`
   const body = [
     `Name: ${payload.name}`,
     `Company: ${payload.company || '-'}`,
@@ -45,7 +74,6 @@ export default function Contact({ hideHeader = false }: ContactProps) {
   async function handleSubmit(e: FormEvent<HTMLFormElement>) {
     e.preventDefault()
     const form = e.currentTarget
-    const endpoint = getFormEndpoint()
 
     setStatus('loading')
     setErrorMsg('')
@@ -75,20 +103,56 @@ export default function Contact({ hideHeader = false }: ContactProps) {
       language: lang,
     }
 
+    const endpoint = getFormEndpoint()
+    const subject = `Wanda Groups Quote — ${quote.product} — ${quote.name}`
+    const message = [
+      quote.message || '(no additional message)',
+      '',
+      `Name: ${quote.name}`,
+      `Company: ${quote.company || '-'}`,
+      `Email: ${quote.email}`,
+      `Phone / WhatsApp: ${quote.phone || '-'}`,
+      `Product: ${quote.product}`,
+      `Quantity: ${quote.quantity || '-'}`,
+      `Country: ${quote.country || '-'}`,
+      `Requirements: ${quote.requirements || '-'}`,
+      `Language: ${quote.language}`,
+    ].join('\n')
+
+    const web3fields =
+      endpoint.provider === 'web3forms'
+        ? {
+            access_key: endpoint.accessKey,
+            from_name: 'Wanda Groups website',
+            subject,
+            name: quote.name,
+            email: quote.email,
+            company: quote.company,
+            phone: quote.phone,
+            product: quote.product,
+            quantity: quote.quantity,
+            country: quote.country,
+            requirements: quote.requirements,
+            language: quote.language,
+            message,
+          }
+        : null
+
     try {
-      const res = await fetch(endpoint.url, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-        body: JSON.stringify(quote),
-      })
-      const data = await res.json().catch(() => null)
-      if (res.ok && data?.success === true) {
-        trackLead('quote_form', {
-          product: quote.product,
-          country: quote.country || 'unknown',
-          language: quote.language,
-          channel: 'api',
-        })
+      const sent = web3fields
+        ? await postWeb3Forms(endpoint.url, web3fields)
+        : await postJson(endpoint.url, quote)
+      if (sent) {
+        try {
+          trackLead('quote_form', {
+            product: quote.product,
+            country: quote.country || 'unknown',
+            language: quote.language,
+            channel: endpoint.provider,
+          })
+        } catch {
+          /* ignore analytics */
+        }
         setStatus('success')
         form.reset()
         return
@@ -101,12 +165,15 @@ export default function Contact({ hideHeader = false }: ContactProps) {
     setMailtoHref(href)
     setErrorMsg(t.cta.emailFallback)
     setStatus('error')
-    trackLead('quote_mailto', {
-      product: quote.product,
-      country: quote.country || 'unknown',
-      language: quote.language,
-    })
-    window.location.href = href
+    try {
+      trackLead('quote_mailto', {
+        product: quote.product,
+        country: quote.country || 'unknown',
+        language: quote.language,
+      })
+    } catch {
+      /* ignore */
+    }
   }
 
   return (

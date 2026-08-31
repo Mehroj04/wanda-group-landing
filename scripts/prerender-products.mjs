@@ -12,6 +12,8 @@ import {
   applyBody,
   buildSiteNav,
   DIST,
+  SITE_BRAND,
+  buildContextLinks,
 } from './prerender-shared.mjs'
 
 const PRODUCTS = [
@@ -231,7 +233,7 @@ function buildBody(product) {
       <p>${esc(cat.overview)}</p>
       ${familyNoteBlock(product)}
       <p><a href="${pageUrl('/contact', 'en')}">${esc(EN.pages.common.quoteCta)}</a></p>
-      <img src="${esc(product.image)}" alt="${esc(cat.name)}" width="800" height="560" />
+      <img src="${esc(product.image)}" alt="${esc(`${cat.name} manufactured by ${SITE_BRAND}`)}" width="800" height="560" />
       ${product.slug === 'refrigeration' ? buildRefrigerationBlock() : ''}
       ${product.hubLinks ? buildHubLinks(product.hubLinks) : ''}
       ${product.tab ? buildTabBlock(product.tab) : ''}
@@ -239,6 +241,11 @@ function buildBody(product) {
         <h2>${esc(EN.pages.common.applications)}</h2>
         ${productApplications(product)}
       </section>
+      ${buildContextLinks([
+        [EN.nav.factory, '/factory'],
+        [EN.nav.oem, '/oem'],
+        [EN.nav.certifications, '/certifications'],
+      ])}
       ${buildRelated(product.related)}
     </article>
   `

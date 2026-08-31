@@ -44,7 +44,7 @@ export default function Logo({ variant = 'full', className = '' }: LogoProps) {
 
       {variant === 'full' && (
         <span className="logo__text">
-          <strong>Wanda Group</strong>
+          <strong>Wanda Groups</strong>
           <small>Gas Cylinder Manufacturer</small>
         </span>
       )}

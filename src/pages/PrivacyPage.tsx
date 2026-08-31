@@ -13,6 +13,7 @@ export default function PrivacyPage() {
     path: routes.privacy,
     title: t.pages.privacy.seoTitle,
     description: t.pages.privacy.seoDescription,
+    noindex: true,
   })
 
   return (
