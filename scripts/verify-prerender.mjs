@@ -105,7 +105,7 @@ for (const slug of PRODUCT_SLUGS) {
 }
 
 const home = EN.pages.home
-const heroH1 = `Wanda Groups. ${EN.hero.title}`
+const heroH1 = `Wanda Groups — ${EN.hero.title}`
 const h1Count = (html) => (html.match(/<h1[\s>]/g) || []).length
 
 verify('homepage', path.join(DIST, 'index.html'), [
@@ -191,7 +191,9 @@ for (const { path: pathname, key } of MARKETING_PAGES) {
           html.includes(EN.pages.products.catalog.acetylene.overview.slice(0, 40))
         : true],
     ['faq jsonld', (html) =>
-      pathname === '/faq' ? html.includes('"@type": "FAQPage"') : true],
+      pathname === '/faq'
+        ? html.includes('"@type": "FAQPage"') && html.includes('"BreadcrumbList"')
+        : true],
     ['certifications iso 9809-3', (html) =>
       pathname !== '/certifications' ||
       (html.includes('ISO 9809-3') && html.includes('normalized steel') && !html.includes('Dissolved acetylene cylinders'))],

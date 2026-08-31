@@ -75,7 +75,7 @@ export default async function handler(req, res) {
     const body = new URLSearchParams({
       access_key: key,
       from_name: 'Wanda Groups website',
-      subject: `Wanda Group Quote — ${fields.product} — ${fields.name}`,
+      subject: `Wanda Groups Quote — ${fields.product} — ${fields.name}`,
       name: fields.name,
       email: fields.email,
       replyto: fields.email,

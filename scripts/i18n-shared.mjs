@@ -53,6 +53,7 @@ export function shouldKeepEnglish(pathStr, text) {
   if (/testimonials\.items\[\d+\]\.author$/.test(pathStr)) return true
   if (/testimonials\.items\[\d+\]\.country$/.test(pathStr)) return true
   if (/story\.slides\[\d+\]\.id$/.test(pathStr)) return true
+  if (text.trim() === 'Wanda Groups Gas Cylinder Manufacturer') return true
   if (text.trim() === 'Wanda Group Gas Cylinder Manufacturer') return true
   if (/^(Acetylene|Propane|LPG|Oxygen|Uzbekistan|Kazakhstan|Saudi Arabia|Africa|Latin America)$/.test(text.trim())) return true
   if (/^Lead [Tt]ime$/.test(text.trim())) return true

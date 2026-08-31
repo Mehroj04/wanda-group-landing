@@ -48,7 +48,7 @@ function buildHomeBody() {
     <main id="static-prerender" data-prerender="home" data-page-path="/">
       <article>
         <p>${esc(hero.badge)}</p>
-        <h1>Wanda Groups. ${esc(hero.title)}</h1>
+        <h1>Wanda Groups — ${esc(hero.title)}</h1>
         <p>${esc(hero.subtitle)}</p>
         <p>
           <a href="${pageUrl('/products', 'en')}">${esc(hero.ctaSecondary)}</a>

@@ -301,17 +301,25 @@ function buildFaqBody(p) {
     })
     .join('')
 
+  const faqCrumbs = breadcrumbJsonLd('/faq', EN.nav.faq)
+  delete faqCrumbs['@context']
+
   const faqJsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: EN.faq.groups.flatMap((group) =>
-      group.items.map((item) => ({
-        '@type': 'Question',
-        name: item.q,
-        acceptedAnswer: { '@type': 'Answer', text: item.a },
-      }))
-    ),
-    url: pageUrl('/faq', 'en'),
+    '@graph': [
+      faqCrumbs,
+      {
+        '@type': 'FAQPage',
+        mainEntity: EN.faq.groups.flatMap((group) =>
+          group.items.map((item) => ({
+            '@type': 'Question',
+            name: item.q,
+            acceptedAnswer: { '@type': 'Answer', text: item.a },
+          })),
+        ),
+        url: pageUrl('/faq', 'en'),
+      },
+    ],
   }
 
   return {
